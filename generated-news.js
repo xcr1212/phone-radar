@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-08T04:33:56.029Z",
+  "updatedAt": "2026-09-08T11:17:35.563Z",
   "news": [
     {
       "id": "weibo-86416e0b1274",
@@ -10,8 +10,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-08",
-      "time": "04:33",
-      "publishedAt": "2026-09-08T04:33:56.029Z",
+      "time": "11:17",
+      "publishedAt": "2026-09-08T11:17:35.563Z",
       "url": "https://weibo.com/6048569942/Rh8cC42Vp",
       "image": "",
       "summary": "Find X10 PM更多影像规格揭晓： ——200Mp 1/1.3\" HPC超大底主摄、F1.5光圈、CIPA6.5防抖、17EV动态范围 ——200Mp大底超广角、F2.2光圈、124°视野 ——200Mp大底潜望长焦、F2.1光圈、CIPA7.5防抖、10cm长焦微距",
@@ -22,61 +22,501 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "weibo-02c164783b0a",
-      "title": "数码闲聊站：华为Pura X View，阔直板这个价格怎么样？ 12GB+256GB——5…",
-      "source": "数码闲聊站",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-08",
-      "time": "04:33",
-      "publishedAt": "2026-09-08T04:33:56.029Z",
-      "url": "https://weibo.com/6048569942/Rh0XkwIX5",
-      "image": "",
-      "summary": "华为Pura X View，阔直板这个价格怎么样？ 12GB+256GB——5999元 12GB+512GB——6999元 12GB+1TB——8499元",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "coolapk-user-91b3a209e872",
-      "title": "竹本青：vivo产品经理：蓝厂做更多的色彩风格，不是为了教育用户",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
+      "id": "coolapk-user-576558f3eef5",
+      "title": "JSCHEN小小狐：『荣耀 Magic9 Pro Max 绿色泄露：“转塔”设计』 近日，荣耀 Magic9 Pro Max 绿色外观…",
+      "source": "JSCHEN小小狐",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
       "type": "爆料",
       "trust": "高可信爆料",
       "date": "2026-09-08",
-      "time": "03:37",
-      "publishedAt": "2026-09-08T03:37:43.000Z",
-      "url": "https://www.coolapk.com/feed/73639448",
-      "image": "http://image.coolapk.com/feed/2026/0908/11/4248714_7fd2e70e_8659_546_630@1272x1941.jpg",
-      "summary": "【vivo韩伯啸：蓝厂做更多的色彩风格，不是为了教育用户】 9月8日，vivo产品经理韩伯啸介绍X500系列影像色彩升级。新机目标实现视频“帧帧电影级”，新增日光胶片、清冷银盐、晴天三款色彩风格；Pro系列「蓝图调色盘」下放至视频，支持自定义色彩风格，风格方案分享与导入。 他表示，蓝厂做更多的色彩风格，不是为了教育用户；审美这件事，本不该由厂商来定义。 #…",
+      "time": "11:07",
+      "publishedAt": "2026-09-08T11:07:22.000Z",
+      "url": "https://www.coolapk.com/feed/73646084",
+      "image": "http://image.coolapk.com/feed/2026/0908/19/4702274_9ee03593_5640_3184_39@774x1095.jpg",
+      "summary": "『荣耀 Magic9 Pro Max 绿色泄露：“转塔”设计』 近日，荣耀 Magic9 Pro Max 绿色外观在社交媒体曝光。据图可知，该机采用金属一体化机身 + 拼接设计，Deco 为 1 大圆 + 2 小圆方案，左侧大圆容纳潜望长焦、闪光灯和 ARRI 标识，右侧小圆分别为主摄和超广角，三摄整体呈三角排布。 #今日热点# #荣耀Magic9ProM…",
       "tags": [
-        "vivo",
+        "HONOR",
         "爆料",
         "酷安博主"
       ]
     },
     {
-      "id": "auto-d4b24bc406c7",
-      "title": "小米许斐透露 Xiaomi 18 Fold 中折叠手机卖爆了，首销较上代大折叠同比增长 310%",
-      "source": "IT之家",
+      "id": "auto-83ac3cab5696",
+      "title": "First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost",
+      "source": "The Verge",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-09-08",
-      "time": "03:29",
-      "publishedAt": "2026-09-08T03:29:00.000Z",
-      "url": "https://www.ithome.com/0/999/626.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/a4574350-de60-4b68-b378-5cc8223c754b.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 8 日消息，小米集团副总裁、小米集团 CMO 许斐今早发文透露， Xiaomi 18 Fold 中折叠手机卖爆了 。 小米集团高级副总裁、中国区总裁王晓雁分享的数据显示， Xiaomi 18 Fold 中折叠手机这款万元档旗舰首销大爆发，较上代大折叠同比增长 310% 。 ▲ IT之家图赏：小米 18 Fold 暖金白折叠屏手机 参考IT…",
+      "time": "11:06",
+      "publishedAt": "2026-09-08T11:06:11.000Z",
+      "url": "https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/xiaomi-18-fold-3-1.webp?quality=90&strip=all&crop=0,15.600243753809,62.2,75.399615618994",
+      "summary": "China is getting first crack at a British technology that might change how mobile games are made and played. Today, the Xiaomi 18 Fold launches in mainland China with an Arm Mali…",
       "tags": [
         "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-9bbc61ca37c6",
+      "title": "竹本青：【华为HarmonyOS 7：发布24小时后累计升级设备数破500万】 9月8日，华为手机宣布，HarmonyOS…",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-08",
+      "time": "11:00",
+      "publishedAt": "2026-09-08T11:00:05.000Z",
+      "url": "https://www.coolapk.com/feed/73645967",
+      "image": "http://image.coolapk.com/feed/2026/0908/19/4248714_34bdd347_5370_7118_64@1200x1603.jpg",
+      "summary": "【华为HarmonyOS 7：发布24小时后累计升级设备数破500万】 9月8日，华为手机宣布，HarmonyOS 7 系统发布24小时后，累计升级终端设备数突破500万。（数据来源于华为内部统计，统计时间截止至9月8日） 据介绍，截至昨日（7日），HarmonyOS 6／HarmonyOS 7 终端设备数已突破8500万台。 #今日热点# #鸿蒙7# #…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-615e2d0e4153",
+      "title": "三星回应 Galaxy Z Fold8 折叠屏手机内屏边角偏软问题：设计特性，并非故障",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-08",
+      "time": "10:58",
+      "publishedAt": "2026-09-08T10:58:35.000Z",
+      "url": "https://www.ithome.com/0/999/890.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/c1afe883-c09e-4906-8b6d-c2fdea44714e.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 8 日消息，据韩媒 Business Post 昨天报道，三星电子的 Galaxy Z Fold8 折叠屏手机近期受到市场关注，部分韩国消费者发现该机内屏的边角比较软， 手指按下去会出现凹陷 。 三星电子相关人士对此回应称：“这属于正常现象，由于机身非常薄，我们设计时考虑了异物进入的情况。例如沙子之类的异物附着在屏幕表面时，如果直接将机器…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-6cc81b9e5866",
+      "title": "JSCHEN小小狐：『曝 2nm Pro Max 国产新旗舰电池均达 8K 级』 OPPO Find X10 Pro Max：8000…",
+      "source": "JSCHEN小小狐",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-08",
+      "time": "10:48",
+      "publishedAt": "2026-09-08T10:48:26.000Z",
+      "url": "https://www.coolapk.com/feed/73645812",
+      "image": "http://image.coolapk.com/feed/2026/0908/18/4702274_358b00fa_4505_2822_215@1440x441.jpg",
+      "summary": "『曝 2nm Pro Max 国产新旗舰电池均达 8K 级』 OPPO Find X10 Pro Max：8000mAh± vivo X500 Pro Max：8000mAh± 小米 18 Pro Max：8500mAh± 荣耀 Magic9 Pro Max：额定 8600mAh #今日热点# #小米18ProMax# #vivoX500ProMax#",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-a09711a4a48a",
+      "title": "就在明天！苹果折叠掀起史上最强新机发布潮",
+      "source": "爱范儿",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-08",
+      "time": "10:30",
+      "publishedAt": "2026-09-08T10:30:59.000Z",
+      "url": "https://www.ifanr.com/1679021?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "image": "https://s3.ifanr.com/wp-content/uploads/2026/09/img_6a9edc9052f40.png",
+      "summary": "又是一年科技春晚",
+      "tags": [
+        "iPhone",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4f9264fbd752",
+      "title": "荣耀 Magic 9 系列手机将搭载阿莱电影色彩科学，原生支持 ARRI LogC3 和 AWG3",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-08",
+      "time": "10:29",
+      "publishedAt": "2026-09-08T10:29:21.000Z",
+      "url": "https://www.ithome.com/0/999/883.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/c4662cda-7e81-4066-8fe2-4b202f397103.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 8 日消息，荣耀官方今天宣布，荣耀 Magic 9 系列手机将搭载阿莱 ARRI 百年沉淀的电影色彩科学。 据介绍， 该系列手机将原生支持 ARRI LogC3 对数伽马曲线和 AWG3 广色域 ，拍摄时完整记录光影色彩信息，让高光不易溢出，色彩细腻不断层；机内支持 ARRI Look，号称无需专业调色，也能拍出电影级画面质感。 结合IT…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-23f39c545ee4",
+      "title": "JSCHEN小小狐：荣耀 Magic9 系列预热：原生 ARRI LogC3",
+      "source": "JSCHEN小小狐",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-08",
+      "time": "10:17",
+      "publishedAt": "2026-09-08T10:17:56.000Z",
+      "url": "https://www.coolapk.com/feed/73645313",
+      "image": "http://image.coolapk.com/feed/2026/0908/18/4702274_1f0e55b0_2674_6061_323@1944x3456.jpg",
+      "summary": "『荣耀 Magic9 系列预热：原生 ARRI LogC3』 ARRI 百年沉淀的电影色彩科学： ◇ 原生支持 ARRI LogC3 对数伽马曲线 ◇ 原生支持 AWG3 广色域 机内搭载 ARRI Look： ◇ 无需复杂专业调色 ◇ 随手拍出电影级画面质感 #今日热点# #荣耀Magic9ProMax# #荣耀ROBOTPHONE#",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-13a6d4f64d57",
+      "title": "Apple「随航」的无感体验里，藏着多少流畅的秘密？",
+      "source": "少数派",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-08",
+      "time": "10:14",
+      "publishedAt": "2026-09-08T10:14:30.000Z",
+      "url": "https://sspai.com/prime/story/sidecar-optimizations",
+      "image": "",
+      "summary": "相较于 Jobs 时代令人惊叹的「iPhone 时刻」，过去十五年的 Apple 或许少了一些足以重新定义一个品类的震撼——但围绕「体验」本身展开的技术革新却从未停止。 本文为会员文章，出自 《单篇文章》 ，订阅后可阅读全文。",
+      "tags": [
+        "iPhone",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-184cc759729d",
+      "title": "Samsung says Galaxy Z Fold 8’s screen corner flex is a feature, not a defect",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-08",
+      "time": "10:11",
+      "publishedAt": "2026-09-08T10:11:38.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-screen-flex-response-3708709/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Samsung-Galaxy-Z-Fold-8-4-scaled.jpg",
+      "summary": "The company has clarified that the inner display flex is an intentional cushion against sand and everyday impact.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d5af8ac5f614",
+      "title": "Samsung Galaxy Z Fold 8 fans have noticed a worrying display issue",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-08",
+      "time": "09:42",
+      "publishedAt": "2026-09-08T09:42:26.000Z",
+      "url": "https://www.androidpolice.com/z-fold-8-fans-have-noticed-a-worrying-display-issue/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/08/samsung-galaxy-z-fold-8-circle-to-search-landscape.jpg",
+      "summary": "But is it anything to worry about?",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6c4839dfb53d",
+      "title": "5 Android phones you should buy instead of the Samsung Galaxy S26 FE",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-08",
+      "time": "09:30",
+      "publishedAt": "2026-09-08T09:30:59.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s26-fe-alternatives-3706527/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Samsung-Galaxy-S26FE-pistachio.jpg",
+      "summary": "The Galaxy S26 FE has its advantages, but is it the best fit for your needs?",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-122c1b522a3f",
+      "title": "These Android phones could beat iPhone for video capture, and we now have a launch date",
+      "source": "Android Authority",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-08",
+      "time": "09:27",
+      "publishedAt": "2026-09-08T09:27:47.000Z",
+      "url": "https://www.androidauthority.com/vivo-x500-series-launch-date-3708651/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/11/vivo-X300-Pro-showing-rear-cover-in-hand.jpg",
+      "summary": "Recent history suggests a global release isn't far behind.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-43809143f717",
+      "title": "安卓版 PS3 模拟器 ARMSX3 迎 0.9.7 版更新，修复手机过热等问题",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-08",
+      "time": "09:18",
+      "publishedAt": "2026-09-08T09:18:53.000Z",
+      "url": "https://www.ithome.com/0/999/831.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/511580c2-93e7-46b6-b013-a2dd02094cd7.png",
+      "summary": "IT之家 9 月 8 日消息，当地时间 9 月 6 日，安卓版 PS3 模拟器 ARMSX3 迎来了 0.9.7 版更新，修复手机过热、无法正常退出等多项问题。 0.9.7 版本重点解决了手机过热问题。开发团队在 GitHub 上公布的更新说明 中提到，模拟器有三处会白白占用 CPU 资源，却没有做任何有用的工作。修复后，这些无效任务不会再占用 CPU，手…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-b8e337bd5e60",
+      "title": "竹本青：消息称小米18 Fold 备货不到20万台",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-08",
+      "time": "08:53",
+      "publishedAt": "2026-09-08T08:53:29.000Z",
+      "url": "https://www.coolapk.com/feed/73644047",
+      "image": "http://image.coolapk.com/feed/2026/0908/16/4248714_cc659990_7608_5697_498@1438x368.jpg",
+      "summary": "【消息称小米18 Fold 备货不到20万台】 9月8日，博主「RD观测」爆料称，小米18 Fold 备货不到20万台，后续发布机型备货都会比较谨慎。 今天上午，小米高管许斐已对外宣布，小米18 Fold 首销相较上代大折叠，同比大增310%。 #今日热点# #HyperOS4# #小米18Fold#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-1db8506e8d4c",
+      "title": "竹本青：余承东：建议苹果用户买华为“阔直板”作备用机体验",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-08",
+      "time": "08:14",
+      "publishedAt": "2026-09-08T08:14:13.000Z",
+      "url": "https://www.coolapk.com/feed/73643388",
+      "image": "http://image.coolapk.com/feed/2026/0908/16/4248714_47c92c04_5250_9146_22-livepic@1920x1080.jpg",
+      "summary": "【余承东：建议苹果用户买华为“阔直板”作备用机，备用一段时间就变主用】 9月8日资讯，昨天的华为新品发布会上，余承东讲解Pura X View“阔直板”机型时，重点提及鸿蒙星河互联的跨系统能力。 余承东表示，鸿蒙星河互联支持20余种文件格式，能够实现与iPhone的生态互联互传。他向喜欢直板机和苹果手机用户建议，可以选购“阔直板”作为备用机进行体验。 “备…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-10a2df5ddf04",
+      "title": "Galaxy S25’s latest beta update brings even more Galaxy S26 and Z Fold 8 features",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-08",
+      "time": "08:06",
+      "publishedAt": "2026-09-08T08:06:57.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s25-one-ui-9-beta-2-3708640/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/09/samsung-galaxy-s25-back-in-hand-outside-scaled.jpg",
+      "summary": "Calls, daily briefings, and existing videos are all getting a little smarter.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5fc5de6827c5",
+      "title": "Xiaomi 18 Fold sees explosive 310% surge in first-sale demand in China",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-08",
+      "time": "08:05",
+      "publishedAt": "2026-09-08T08:05:21.000Z",
+      "url": "https://www.gizmochina.com/2026/09/08/xiaomi-18-fold-sales-surge-310-percent-first-sale-demand/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Xiaomi-18-Fold-300x169.png?x96852",
+      "summary": "Yesterday, Xiaomi unveiled the Xiaomi 18 Fold in China, marking its return to horizontal foldable phones after skipping the category last year. The company has taken a different a…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-71c3e73e0b9a",
+      "title": "HMD Salo 5G 手机发布：面向 B 端市场，搭骁龙 4s Gen 2 处理器",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-08",
+      "time": "08:02",
+      "publishedAt": "2026-09-08T08:02:59.000Z",
+      "url": "https://www.ithome.com/0/999/792.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/52349398-87e3-4989-8b0a-f1fa8af4a072.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 8 日消息，HMD Global 现已在海外市场推出一款专门面向 B 端市场的 HMD Salo 5G 手机，该机仅向企业开放销售，本质上是 2024 年被砍的 HMD Titan 5G 项目更名版本。 该机搭载一块 6.56 英寸 1080x2400 分辨率 90Hz IPS LCD 面板，匹配 50Mp 自拍摄像头；手机背面使用 64…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3a89e14a3fe1",
+      "title": "Forget the iPhone Ultra — I went hands-on with the Xiaomi 18 Fold, and it might be the best mid-size foldable you can't buy",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-08",
+      "time": "07:13",
+      "publishedAt": "2026-09-08T07:13:55.000Z",
+      "url": "https://www.androidcentral.com/phones/xiaomi/xiaomi-18-fold-hands-on",
+      "image": "https://cdn.mos.cms.futurecdn.net/fvBiEkmarECPA45kEvAkAj-1280-80.jpg",
+      "summary": "I loved the Galaxy Z Fold 8, but the Xiaomi 18 Fold takes things even further. Here are some of my initial impressions of Xiaomi's iPhone Ultra killer.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-0034a9fe9291",
+      "title": "JSCHEN小小狐：折叠屏 iPhone 命名曝光：或为 iPhone Duo",
+      "source": "JSCHEN小小狐",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-08",
+      "time": "07:10",
+      "publishedAt": "2026-09-08T07:10:20.000Z",
+      "url": "https://www.coolapk.com/feed/73642450",
+      "image": "http://image.coolapk.com/feed/2026/0908/15/4702274_c0ae415c_2016_5062_79@1260x1802.jpg",
+      "summary": "『折叠屏 iPhone 命名曝光：或为 iPhone Duo』 近日，知名手机壳潮牌 CASETiFY 官网上线了苹果首款折叠屏 iPhone 的专属配件页面，页面标题直接以“iPhone Duo”命名该设备。此举引发了外界对该机最终命名的关注，此前市场普遍猜测其名称或为“iPhone Ultra”或“iPhone Fold”。 值得注意的是，在该页面的正…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-74e516b463ed",
+      "title": "I tried the Xiaomi 18 Fold, and I think Samsung and Apple should be worried",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-08",
+      "time": "07:00",
+      "publishedAt": "2026-09-08T07:00:37.000Z",
+      "url": "https://www.androidauthority.com/xiaomi-18-fold-hands-on-impressions-3706799/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xiaomi-18-Fold-1.jpg",
+      "summary": "Xiaomi has jumped into the wide-screen foldable race with an impressive contender.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1f9f98c5fac7",
+      "title": "5 reasons the Pixel 11 Pro XL is my daily driver",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-08",
+      "time": "06:46",
+      "publishedAt": "2026-09-08T06:46:45.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/5-reasons-the-pixel-11-pro-xl-is-my-daily-driver",
+      "image": "https://cdn.mos.cms.futurecdn.net/Nh97BTUeL8taWf3WVPrQeh-1280-80.jpg",
+      "summary": "The Pixel 11 Pro XL may not be the best all-rounder, but it has meaningful upgrades over its predecessor, and is just a delight to use.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-df0f04a58682",
+      "title": "Galaxy Z Fold 8 screen corners sinking? Samsung says it’s not a defect",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-08",
+      "time": "06:02",
+      "publishedAt": "2026-09-08T06:02:00.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-screen-corner-sinking-isnt-quality-defect/",
+      "image": "",
+      "summary": "While the Galaxy Z Fold 8 series has received a tremendous response, some users have noticed a slight quirk with Samsung's newest foldable phones. A few owners reported that the m…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f7252cc9ad72",
+      "title": "Vivo V80 could bring 10X Portrait Zoom to the V series for the first time￼",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-08",
+      "time": "04:49",
+      "publishedAt": "2026-09-08T04:49:29.000Z",
+      "url": "https://www.gizmochina.com/2026/09/08/vivo-v80-india-launch-10x-portrait-zoom-4k-cinematic-video/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/04/Vivo-V70-smartphone-300x188.png?x96852",
+      "summary": "Vivo recently unveiled two versions of the Vivo V80 Lite in different markets. While Pakistan and Bangladesh received the V80 Lite as a rebranded version of the Vivo S2, Malaysia…",
+      "tags": [
+        "vivo",
         "爆料",
         "自动抓取"
       ]
@@ -97,46 +537,6 @@ window.phoneRadarAuto = {
       "summary": "Recently, Oppo confirmed that the Find X10 and Find X10 Pro Max will debut this month. The launch is expected to take place roughly a week after the Vivo X500 series event schedul…",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-678d32cef740",
-      "title": "竹本青：OPPO Find X10 Pro Max 首发三星HPC主摄",
-      "source": "竹本青",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-08",
-      "time": "02:38",
-      "publishedAt": "2026-09-08T02:38:46.000Z",
-      "url": "https://www.coolapk.com/feed/73638486",
-      "image": "http://image.coolapk.com/feed/2026/0908/10/4248714_894b3317_5125_1652_940@1080x1440.jpg",
-      "summary": "【OPPO卓世杰：Find X10 Pro Max 主摄首发三星HPC传感器，支持全焦段8K Log】 ● 2亿主摄 首发三星HPC传感器+DeepPix动态技术，单帧实时动态17EV，全尺寸、低功耗 4K HDR视频，CIPA 6.5防抖，f/1.5光圈 ● 2亿超广 更大尺寸传感器，f/2.2光圈，进光量较前代增加102%，124°视野，行业最广 ●…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-203fb9ce4df4",
-      "title": "小米 18 Fold 折叠屏手机体验：玄戒 O3 首秀，中折叠体验更顺手",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-08",
-      "time": "02:02",
-      "publishedAt": "2026-09-08T02:02:12.000Z",
-      "url": "https://www.ithome.com/0/999/563.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/def1feb0-4bce-4216-9804-2bb466d40d14.jpg?x-bce-process=image/format,f_auto",
-      "summary": "2026 年，已经是折叠屏手机发展的第七个年头，这个品类热度逐渐提升的同时，市场也在经历升级和重塑。 根据 Counterpoint 的数据，2026 年全球折叠屏出货量预计同比增长 21%，同时苹果的即将入局、头部厂商之间竞争的加剧，都在把折叠屏推向一个新的爆发阶段。 不过热闹的同时，折叠屏手机在产品层面其实也有许多痛点有待行业解决。比如大折叠与小折叠两…",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "自动抓取"
       ]
@@ -178,66 +578,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Xiaomi",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-9c55f6d801ba",
-      "title": "竹本青：2026 MediaTek 天玑旗舰新品发布会定档9月15日",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-08",
-      "time": "01:56",
-      "publishedAt": "2026-09-08T01:56:01.000Z",
-      "url": "https://www.coolapk.com/feed/73637809",
-      "image": "http://image.coolapk.com/feed/2026/0908/09/4248714_471458f3_2560_4074_717@960x540.jpg",
-      "summary": "【2026 MediaTek 天玑旗舰新品发布会 定档9月15日】 9月8日，联发科宣布2026 MediaTek 天玑旗舰新品发布会 正式定档9月15日14:30举行，预计推出天玑9600系列芯片。 据爆料信息，天玑9600系列共包含标准版与Pro版两款产品。标准版基于3nm 天玑9500+打造，或特挑体质与增强；而天玑9600 Pro采用台积电N2p工…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-a1b2385c713c",
-      "title": "竹本青：小米18 Fold 首销较上代大折叠同比增长310%",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-08",
-      "time": "01:48",
-      "publishedAt": "2026-09-08T01:48:28.000Z",
-      "url": "https://www.coolapk.com/feed/73637723",
-      "image": "http://image.coolapk.com/feed/2026/0908/09/4248714_ddec8f9e_2249_0707_142@1272x1299.jpg",
-      "summary": "【小米18 Fold 首销大爆发：较上代大折叠同比增长310%】 9月8日，小米高管许斐宣布18 Fold 中折叠手机“卖爆了”：首销较上代大折叠 同比增长310%。 小米18 Fold 中折叠手机于昨日发布，起售价10999元，首发玄戒O3 处理器与澎湃OS 4 系统，配备全RGB OLED 5.38″外屏+7.58″内屏，至高搭载LPDDR6内存等配置…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-7e57d251cbc5",
-      "title": "涨价 + 无标准版影响，KeyBanc 预估 2026 下半年苹果 iPhone 产量同比下降 12.1%",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-08",
-      "time": "01:06",
-      "publishedAt": "2026-09-08T01:06:29.000Z",
-      "url": "https://www.ithome.com/0/999/530.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/a2d5880f-3c2a-479e-be90-8f437d339cf3.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 8 日消息，美国投资银行 KeyBanc 昨日（9 月 7 日）发布市场研究报告，预估苹果公司会延后到 2027 年春季发布标准版 iPhone 18， 导致 2026 年下半年全球 iPhone 产量同比减少约 1100 万部。 该投行预估在当地时间 9 月 9 日（北京时间 9 月 10 日凌晨 1 点）召开的秋季活动中，苹果会发布…",
-      "tags": [
-        "iPhone",
-        "爆料",
         "自动抓取"
       ]
     },
@@ -342,26 +682,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-5d97435b39e9",
-      "title": "既然对比了友商，又是相同的价格起售，华子阔折叠卖了120万，理性讨论，一起预测下小米中折叠的销量会是多少？相同上市四个月的话，我猜能有华子一半销量，说错勿喷[笑哭] #小米18Fold# #HyperOS4# #华为PuraXMax#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-08",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73629550",
-      "image": "",
-      "summary": "既然对比了友商，又是相同的价格起售，华子阔折叠卖了120万，理性讨论，一起预测下小米中折叠的销量会是多少？相同上市四个月的话，我猜能有华子一半销量，说错勿喷[笑哭] #小米18Fold# #HyperOS4# #华为PuraXMax#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-d3d5c0fed1a3",
       "title": "只看演讲的话，军比大嘴真是强很多，军干了俩半小时中间都没停的，虽然绝大部分都是在看提词器吧，但看下来也比大嘴 啊这个啊这个 好的多。尤其大嘴和华仔聊天那一段冷场好几次，对话都不知道说什么。 #华为PuraXView#",
       "source": "酷安热榜",
@@ -382,8 +702,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-998f92ed727e",
-      "title": "长鑫LPDDR6 率先实现旗舰手机端首发量产",
+      "id": "newsnow-f0781e4a0a19",
+      "title": "许斐表示18fold这次卖爆了🔥，较上代折叠屏首销同比大涨310%，大家都买了吗[受虐滑稽]",
       "source": "酷安热榜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -392,9 +712,9 @@ window.phoneRadarAuto = {
       "date": "2026-09-08",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73633631",
+      "url": "https://www.coolapk.com/feed/73638292",
       "image": "",
-      "summary": "长鑫LPDDR6 率先实现旗舰手机端首发量产",
+      "summary": "许斐表示18fold这次卖爆了🔥，较上代折叠屏首销同比大涨310%，大家都买了吗[受虐滑稽]",
       "tags": [
         "行业",
         "爆料",
@@ -402,28 +722,48 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-47d628256103",
-      "title": "iPhone Ultra 没有消除屏幕折痕，国行或 14999 元起，「折痕」难题究竟卡在哪里？",
+      "id": "newsnow-5d97435b39e9",
+      "title": "既然对比了友商，又是相同的价格起售，华子阔折叠卖了120万，理性讨论，一起预测下小米中折叠的销量会是多少？相同上市四个月的话，我猜能有华子一半销量，说错勿喷[笑哭] #小米18Fold# #HyperOS4# #华为PuraXMax#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73629550",
+      "image": "",
+      "summary": "既然对比了友商，又是相同的价格起售，华子阔折叠卖了120万，理性讨论，一起预测下小米中折叠的销量会是多少？相同上市四个月的话，我猜能有华子一半销量，说错勿喷[笑哭] #小米18Fold# #HyperOS4# #华为PuraXMax#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-6650e216a1ba",
+      "title": "如何看待华为首款阔直板 Pura X View 上市定价 5999 起，这个价格是否有竞争力？",
       "source": "知乎热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "市场报告",
       "trust": "媒体汇总",
       "date": "2026-09-08",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2078837455386630111",
+      "url": "https://www.zhihu.com/question/2080336843980256362",
       "image": "",
-      "summary": "iPhone Ultra 没有消除屏幕折痕，国行或 14999 元起，「折痕」难题究竟卡在哪里？",
+      "summary": "如何看待华为首款阔直板 Pura X View 上市定价 5999 起，这个价格是否有竞争力？",
       "tags": [
-        "iPhone",
+        "Huawei",
         "市场报告",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-93f58880d2be",
-      "title": "九月手机圈“神仙打架”背后",
+      "id": "newsnow-df6be188a604",
+      "title": "手机涨价原因找到了",
       "source": "今日头条热榜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -432,9 +772,9 @@ window.phoneRadarAuto = {
       "date": "2026-09-08",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7682999659396317222/",
+      "url": "https://www.toutiao.com/trending/7682651229176856582/",
       "image": "",
-      "summary": "九月手机圈“神仙打架”背后",
+      "summary": "手机涨价原因找到了",
       "tags": [
         "行业",
         "爆料",
@@ -442,28 +782,48 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-6bd102bb2272",
-      "title": "小米折叠屏上手体验",
-      "source": "百度热搜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "id": "newsnow-a0bcd9158cae",
+      "title": "男子手机相册8000多张照片突然没了",
+      "source": "今日头条热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-09-08",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%8A%98%E5%8F%A0%E5%B1%8F%E4%B8%8A%E6%89%8B%E4%BD%93%E9%AA%8C",
+      "url": "https://www.toutiao.com/trending/7683005220753768970/",
       "image": "",
-      "summary": "小米折叠屏上手体验",
+      "summary": "男子手机相册8000多张照片突然没了",
       "tags": [
-        "Xiaomi",
+        "行业",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-2c0ada3a5fc9",
-      "title": "6G手机要来了",
+      "id": "newsnow-dfd85aa772ff",
+      "title": "手机涨价了老百姓该怎么选择",
+      "source": "今日头条热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7683089213226487347/",
+      "image": "",
+      "summary": "手机涨价了老百姓该怎么选择",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-eb8ee5e6c1ae",
+      "title": "到底孩子多大可以有手机 能玩多久",
       "source": "百度热搜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -472,33 +832,13 @@ window.phoneRadarAuto = {
       "date": "2026-09-08",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=6G%E6%89%8B%E6%9C%BA%E8%A6%81%E6%9D%A5%E4%BA%86",
+      "url": "https://www.baidu.com/s?wd=%E5%88%B0%E5%BA%95%E5%AD%A9%E5%AD%90%E5%A4%9A%E5%A4%A7%E5%8F%AF%E4%BB%A5%E6%9C%89%E6%89%8B%E6%9C%BA+%E8%83%BD%E7%8E%A9%E5%A4%9A%E4%B9%85",
       "image": "",
-      "summary": "6G手机要来了",
+      "summary": "到底孩子多大可以有手机 能玩多久",
       "tags": [
         "行业",
         "爆料",
         "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-83ac3cab5696",
-      "title": "First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost",
-      "source": "The Verge",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-07",
-      "time": "23:51",
-      "publishedAt": "2026-09-07T23:51:11.000Z",
-      "url": "https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/xiaomi-18-fold-3-1.webp?quality=90&strip=all&crop=0,15.600243753809,62.2,75.399615618994",
-      "summary": "China is getting first crack at a British technology that might change how mobile games are made and played. Today, the Xiaomi 18 Fold launches in mainland China with an Arm Mali…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -742,26 +1082,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-1a2180d8f3b9",
-      "title": "Apple’s limited iPhone Fold launch will be a gift for Samsung",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-07",
-      "time": "14:18",
-      "publishedAt": "2026-09-07T14:18:26.000Z",
-      "url": "https://www.sammobile.com/news/apples-limited-iphone-fold-launch-will-be-a-gift-for-samsung/",
-      "image": "",
-      "summary": "Apple is expected to announce its first foldable iPhone later this week, but the device may not be released across the globe in the near future. Latest reports suggest that Apple…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-0871fec00c54",
       "title": "The real reason your phone is getting more expensive",
       "source": "The Verge",
@@ -877,26 +1197,6 @@ window.phoneRadarAuto = {
       "summary": "Apple’s big September event is this Wednesday , and the company has three new iPhone models set to launch: iPhone 18 Pro, iPhone 18 Pro Max, and iPhone Ultra. Here’s what to expec…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-870c5e0292e3",
-      "title": "Huawei sets a new benchmark for the Galaxy Z TriFold 2 to meet",
-      "source": "SamMobile",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-07",
-      "time": "12:22",
-      "publishedAt": "2026-09-07T12:22:00.000Z",
-      "url": "https://www.sammobile.com/news/huawei-sets-a-new-benchmark-for-the-galaxy-z-trifold-2-to-meet/",
-      "image": "",
-      "summary": "Samsung may have led the world in foldables but Huawei was the first to launch a tri-fold phone. The South Korean giant came out with its own contender last year, the Galaxy Z Tri…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
@@ -1082,26 +1382,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-c31b480b982f",
-      "title": "Huawei Pura X View launched officially with 6.39’ display, HarmonyOS 7, Kirin 9030s",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-07",
-      "time": "09:07",
-      "publishedAt": "2026-09-07T09:07:48.000Z",
-      "url": "https://www.huaweicentral.com/huawei-pura-x-view-launched-officially/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/Pura-X-View-Features.jpg",
-      "summary": "Huawei has finally removed the full curtains from the Pura X View wide, flat-screen smartphone and launched it officially at the Mate XT 2 unveiling event. From the camera feature…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-46e1c7ace6f6",
       "title": "5 smartphones that show how far behind the Pixel 11’s Tensor G6 really is",
       "source": "Android Authority",
@@ -1122,103 +1402,23 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-f9bc68b2979a",
-      "title": "Xiaomi 18 Fold Ceramic Special Edition with soft pink finish revealed",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "id": "coolapk-user-e7b9919fc930",
+      "title": "JSCHEN小小狐：『华为 Mate XT 2 非凡大师发布：19999 元起』 16GB + 256GB —— 19999 元 16…",
+      "source": "JSCHEN小小狐",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
-      "trust": "媒体汇总",
+      "trust": "高可信爆料",
       "date": "2026-09-07",
-      "time": "07:53",
-      "publishedAt": "2026-09-07T07:53:35.000Z",
-      "url": "https://www.gizmochina.com/2026/09/07/xiaomi-18-fold-ceramic-special-edition-revealed-hours-ahead-of-launch/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/70cf98bcly1iguqe2q0jkj20u0140tb6-300x169.png?x96852",
-      "summary": "Xiaomi is adding a bit of extra polish to its upcoming flagship foldable just before the official launch. Lu Weibing (Xiaomi’s partner and Mobile Phone Division President) just sh…",
+      "time": "08:12",
+      "publishedAt": "2026-09-07T08:12:00.000Z",
+      "url": "https://www.coolapk.com/feed/73625355",
+      "image": "http://image.coolapk.com/feed/2026/0907/16/4702274_21968b56_8716_7876_627@3990x1330.jpg",
+      "summary": "『华为 Mate XT 2 非凡大师发布：19999 元起』 16GB + 256GB —— 19999 元 16GB + 512GB —— 21999 元 16GB + 1TB —— 23999 元 灵盾防窥屏版本： 16GB + 1TB —— 24999 元 16GB + 2TB 手写笔套装 —— 29999 元 ◇ 外观 皓白、玄黑、锦紫 铝合金边框…",
       "tags": [
-        "Xiaomi",
+        "Huawei",
         "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-6c510b035b1f",
-      "title": "Galaxy S27’s Exynos 2700 earns 14,700 points in Geekbench multi-core test",
-      "source": "Gizmochina",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-07",
-      "time": "07:17",
-      "publishedAt": "2026-09-07T07:17:33.000Z",
-      "url": "https://www.gizmochina.com/2026/09/07/galaxy-s27s-exynos-2700-earns-14700-points-in-geekbench-multi-core-test/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Samsung-Galaxy-S27-Pro-leak-als-kompakteres-Galaxy-S27-Ultra-300x169.jpg?x96852",
-      "summary": "Early performance numbers for Samsung’s upcoming Exynos 2700 are starting to leak, and they give a decent first look at what the company might bring to the Galaxy S27 series next…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5899b33b923b",
-      "title": "Young iPhone users are flocking to Galaxy Z Fold 8 in record numbers",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-07",
-      "time": "07:14",
-      "publishedAt": "2026-09-07T07:14:12.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-attracting-more-younger-iphone-users/",
-      "image": "",
-      "summary": "The Galaxy Z Fold 8 is selling better than Samsung expected, and the company is now facing production bottlenecks. This is a good problem to have. The company has also been succes…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-24bd3c27307f",
-      "title": "OnePlus 16 to pack a massive 9,000mAh battery, the largest yet on a OnePlus flagship",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-07",
-      "time": "06:36",
-      "publishedAt": "2026-09-07T06:36:15.000Z",
-      "url": "https://www.gizmochina.com/2026/09/07/oneplus-16-9000mah-battery-leak/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/image-106-300x251.png?x96852",
-      "summary": "Last week, reliable tipster Digital Chat Station shared detailed information about the OnePlus 16’s camera setup. He has now posted new details about another key part of the upcom…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a23562688bf1",
-      "title": "iQOO Z11xa 5G launches with 120Hz display, Dimensity 7400 Turbo, 7,200mAh battery",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-07",
-      "time": "05:37",
-      "publishedAt": "2026-09-07T05:37:53.000Z",
-      "url": "https://www.gizmochina.com/2026/09/07/iqoo-z11xa-5g-launched-price-specifications/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/iQOO-Z11xa-5G-300x135.jpg?x96852",
-      "summary": "iQOO has quietly expanded its Z11 series lineup with a new model called the iQOO Z11xa 5G. It is the fourth device from the series to arrive in India, following the iQOO Z11x, Z11…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
+        "酷安博主"
       ]
     },
     {
@@ -1259,26 +1459,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-9e0f3d47d37e",
-      "title": "Oppo Find X10 Pro Max officially confirmed to launch this month with three 200MP cameras",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-07",
-      "time": "02:38",
-      "publishedAt": "2026-09-07T02:38:51.000Z",
-      "url": "https://www.gizmochina.com/2026/09/07/oppo-find-x10-series-september-launch-camera-details-confirmed/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Oppo-Find-X10-series-first-teaser--300x168.jpg?x96852",
-      "summary": "The Oppo Find X10 series is set to put a strong emphasis on smartphone photography, with the company teasing several camera-focused upgrades. The upcoming lineup will introduce a…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
       ]
     }
   ]
