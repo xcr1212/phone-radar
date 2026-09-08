@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-07T22:49:51.046Z",
+  "updatedAt": "2026-09-08T04:33:56.029Z",
   "news": [
+    {
+      "id": "weibo-86416e0b1274",
+      "title": "数码闲聊站：Find X10 PM更多影像规格揭晓： ——200Mp 1/1.3\" HPC…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-08",
+      "time": "04:33",
+      "publishedAt": "2026-09-08T04:33:56.029Z",
+      "url": "https://weibo.com/6048569942/Rh8cC42Vp",
+      "image": "",
+      "summary": "Find X10 PM更多影像规格揭晓： ——200Mp 1/1.3\" HPC超大底主摄、F1.5光圈、CIPA6.5防抖、17EV动态范围 ——200Mp大底超广角、F2.2光圈、124°视野 ——200Mp大底潜望长焦、F2.1光圈、CIPA7.5防抖、10cm长焦微距",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
     {
       "id": "weibo-02c164783b0a",
       "title": "数码闲聊站：华为Pura X View，阔直板这个价格怎么样？ 12GB+256GB——5…",
@@ -9,9 +29,9 @@ window.phoneRadarAuto = {
       "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
-      "date": "2026-09-07",
-      "time": "22:49",
-      "publishedAt": "2026-09-07T22:49:51.046Z",
+      "date": "2026-09-08",
+      "time": "04:33",
+      "publishedAt": "2026-09-08T04:33:56.029Z",
       "url": "https://weibo.com/6048569942/Rh0XkwIX5",
       "image": "",
       "summary": "华为Pura X View，阔直板这个价格怎么样？ 12GB+256GB——5999元 12GB+512GB——6999元 12GB+1TB——8499元",
@@ -22,43 +42,463 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "weibo-d1cc19440374",
-      "title": "数码闲聊站：Pro Max影像大乱斗： ①50Mp 1/1.28\" LOFIC主摄+50M…",
-      "source": "数码闲聊站",
+      "id": "coolapk-user-91b3a209e872",
+      "title": "竹本青：vivo产品经理：蓝厂做更多的色彩风格，不是为了教育用户",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-08",
+      "time": "03:37",
+      "publishedAt": "2026-09-08T03:37:43.000Z",
+      "url": "https://www.coolapk.com/feed/73639448",
+      "image": "http://image.coolapk.com/feed/2026/0908/11/4248714_7fd2e70e_8659_546_630@1272x1941.jpg",
+      "summary": "【vivo韩伯啸：蓝厂做更多的色彩风格，不是为了教育用户】 9月8日，vivo产品经理韩伯啸介绍X500系列影像色彩升级。新机目标实现视频“帧帧电影级”，新增日光胶片、清冷银盐、晴天三款色彩风格；Pro系列「蓝图调色盘」下放至视频，支持自定义色彩风格，风格方案分享与导入。 他表示，蓝厂做更多的色彩风格，不是为了教育用户；审美这件事，本不该由厂商来定义。 #…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-d4b24bc406c7",
+      "title": "小米许斐透露 Xiaomi 18 Fold 中折叠手机卖爆了，首销较上代大折叠同比增长 310%",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-08",
+      "time": "03:29",
+      "publishedAt": "2026-09-08T03:29:00.000Z",
+      "url": "https://www.ithome.com/0/999/626.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/a4574350-de60-4b68-b378-5cc8223c754b.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 8 日消息，小米集团副总裁、小米集团 CMO 许斐今早发文透露， Xiaomi 18 Fold 中折叠手机卖爆了 。 小米集团高级副总裁、中国区总裁王晓雁分享的数据显示， Xiaomi 18 Fold 中折叠手机这款万元档旗舰首销大爆发，较上代大折叠同比增长 310% 。 ▲ IT之家图赏：小米 18 Fold 暖金白折叠屏手机 参考IT…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d689010c4cc5",
+      "title": "Oppo Find X10 Pro Max’s triple 200MP camera setup detailed",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-08",
+      "time": "03:28",
+      "publishedAt": "2026-09-08T03:28:19.000Z",
+      "url": "https://www.gizmochina.com/2026/09/08/oppo-find-x10-pro-max-triple-200mp-camera-details-leaked/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/oppo-find-x10-pro-max-300x169.png?x96852",
+      "summary": "Recently, Oppo confirmed that the Find X10 and Find X10 Pro Max will debut this month. The launch is expected to take place roughly a week after the Vivo X500 series event schedul…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-678d32cef740",
+      "title": "竹本青：OPPO Find X10 Pro Max 首发三星HPC主摄",
+      "source": "竹本青",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-08",
+      "time": "02:38",
+      "publishedAt": "2026-09-08T02:38:46.000Z",
+      "url": "https://www.coolapk.com/feed/73638486",
+      "image": "http://image.coolapk.com/feed/2026/0908/10/4248714_894b3317_5125_1652_940@1080x1440.jpg",
+      "summary": "【OPPO卓世杰：Find X10 Pro Max 主摄首发三星HPC传感器，支持全焦段8K Log】 ● 2亿主摄 首发三星HPC传感器+DeepPix动态技术，单帧实时动态17EV，全尺寸、低功耗 4K HDR视频，CIPA 6.5防抖，f/1.5光圈 ● 2亿超广 更大尺寸传感器，f/2.2光圈，进光量较前代增加102%，124°视野，行业最广 ●…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-203fb9ce4df4",
+      "title": "小米 18 Fold 折叠屏手机体验：玄戒 O3 首秀，中折叠体验更顺手",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-08",
+      "time": "02:02",
+      "publishedAt": "2026-09-08T02:02:12.000Z",
+      "url": "https://www.ithome.com/0/999/563.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/def1feb0-4bce-4216-9804-2bb466d40d14.jpg?x-bce-process=image/format,f_auto",
+      "summary": "2026 年，已经是折叠屏手机发展的第七个年头，这个品类热度逐渐提升的同时，市场也在经历升级和重塑。 根据 Counterpoint 的数据，2026 年全球折叠屏出货量预计同比增长 21%，同时苹果的即将入局、头部厂商之间竞争的加剧，都在把折叠屏推向一个新的爆发阶段。 不过热闹的同时，折叠屏手机在产品层面其实也有许多痛点有待行业解决。比如大折叠与小折叠两…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c6775560003a",
+      "title": "手机影像的下半场，是成就作品",
+      "source": "爱范儿",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-08",
+      "time": "02:00",
+      "publishedAt": "2026-09-08T02:00:22.000Z",
+      "url": "https://www.ifanr.com/1679038?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "image": "https://s3.ifanr.com/images/ep/uploads/vivo/c9e58192-f19e-47e5-97ac-fcdcd5827e1b.JPEG",
+      "summary": "即将在 9 月 21 日 亮相的 vivo X500 系列，核心便是试图打破这一桎梏。",
+      "tags": [
+        "vivo",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fabd7aa00399",
+      "title": "敢卖一万元的小米手机，底气在哪里｜小米 18 Fold 评测",
+      "source": "爱范儿",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-08",
+      "time": "02:00",
+      "publishedAt": "2026-09-08T02:00:07.000Z",
+      "url": "https://www.ifanr.com/1678982?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "image": "https://s3.ifanr.com/wp-content/uploads/2026/09/banner16t9-2.jpg",
+      "summary": "玄戒很好，但不能全靠玄戒",
+      "tags": [
+        "Xiaomi",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-9c55f6d801ba",
+      "title": "竹本青：2026 MediaTek 天玑旗舰新品发布会定档9月15日",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-08",
+      "time": "01:56",
+      "publishedAt": "2026-09-08T01:56:01.000Z",
+      "url": "https://www.coolapk.com/feed/73637809",
+      "image": "http://image.coolapk.com/feed/2026/0908/09/4248714_471458f3_2560_4074_717@960x540.jpg",
+      "summary": "【2026 MediaTek 天玑旗舰新品发布会 定档9月15日】 9月8日，联发科宣布2026 MediaTek 天玑旗舰新品发布会 正式定档9月15日14:30举行，预计推出天玑9600系列芯片。 据爆料信息，天玑9600系列共包含标准版与Pro版两款产品。标准版基于3nm 天玑9500+打造，或特挑体质与增强；而天玑9600 Pro采用台积电N2p工…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-a1b2385c713c",
+      "title": "竹本青：小米18 Fold 首销较上代大折叠同比增长310%",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-08",
+      "time": "01:48",
+      "publishedAt": "2026-09-08T01:48:28.000Z",
+      "url": "https://www.coolapk.com/feed/73637723",
+      "image": "http://image.coolapk.com/feed/2026/0908/09/4248714_ddec8f9e_2249_0707_142@1272x1299.jpg",
+      "summary": "【小米18 Fold 首销大爆发：较上代大折叠同比增长310%】 9月8日，小米高管许斐宣布18 Fold 中折叠手机“卖爆了”：首销较上代大折叠 同比增长310%。 小米18 Fold 中折叠手机于昨日发布，起售价10999元，首发玄戒O3 处理器与澎湃OS 4 系统，配备全RGB OLED 5.38″外屏+7.58″内屏，至高搭载LPDDR6内存等配置…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-7e57d251cbc5",
+      "title": "涨价 + 无标准版影响，KeyBanc 预估 2026 下半年苹果 iPhone 产量同比下降 12.1%",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-08",
+      "time": "01:06",
+      "publishedAt": "2026-09-08T01:06:29.000Z",
+      "url": "https://www.ithome.com/0/999/530.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/a2d5880f-3c2a-479e-be90-8f437d339cf3.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 8 日消息，美国投资银行 KeyBanc 昨日（9 月 7 日）发布市场研究报告，预估苹果公司会延后到 2027 年春季发布标准版 iPhone 18， 导致 2026 年下半年全球 iPhone 产量同比减少约 1100 万部。 该投行预估在当地时间 9 月 9 日（北京时间 9 月 10 日凌晨 1 点）召开的秋季活动中，苹果会发布…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9bbf43c61c96",
+      "title": "Apple announces changes to iOS in Brazil",
+      "source": "Apple Newsroom",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-09-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
+      "image": "",
+      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
+      "tags": [
+        "iPhone",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "newsnow-b72f66cfac99",
+      "title": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/114084",
+      "image": "",
+      "summary": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-f48add165e86",
+      "title": "线下活动 | 全新 iPhone 发布在即，来与少数派一起看 Apple 发布会",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/114071",
+      "image": "",
+      "summary": "线下活动 | 全新 iPhone 发布在即，来与少数派一起看 Apple 发布会",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-a863546b5444",
+      "title": "全球首款阔直板探索计划：华为 Pura X View 新品有奖体验",
+      "source": "少数派热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/113883",
+      "image": "",
+      "summary": "全球首款阔直板探索计划：华为 Pura X View 新品有奖体验",
+      "tags": [
+        "Huawei",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-b93c061ae539",
+      "title": "华为 Pura X View 发布：售价 5999 元起",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73625860",
+      "image": "",
+      "summary": "华为 Pura X View 发布：售价 5999 元起",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-5d97435b39e9",
+      "title": "既然对比了友商，又是相同的价格起售，华子阔折叠卖了120万，理性讨论，一起预测下小米中折叠的销量会是多少？相同上市四个月的话，我猜能有华子一半销量，说错勿喷[笑哭] #小米18Fold# #HyperOS4# #华为PuraXMax#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73629550",
+      "image": "",
+      "summary": "既然对比了友商，又是相同的价格起售，华子阔折叠卖了120万，理性讨论，一起预测下小米中折叠的销量会是多少？相同上市四个月的话，我猜能有华子一半销量，说错勿喷[笑哭] #小米18Fold# #HyperOS4# #华为PuraXMax#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-d3d5c0fed1a3",
+      "title": "只看演讲的话，军比大嘴真是强很多，军干了俩半小时中间都没停的，虽然绝大部分都是在看提词器吧，但看下来也比大嘴 啊这个啊这个 好的多。尤其大嘴和华仔聊天那一段冷场好几次，对话都不知道说什么。 #华为PuraXView#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73636586",
+      "image": "",
+      "summary": "只看演讲的话，军比大嘴真是强很多，军干了俩半小时中间都没停的，虽然绝大部分都是在看提词器吧，但看下来也比大嘴 啊这个啊这个 好的多。尤其大嘴和华仔聊天那一段冷场好几次，对话都不知道说什么。 #华为PuraXView#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-998f92ed727e",
+      "title": "长鑫LPDDR6 率先实现旗舰手机端首发量产",
+      "source": "酷安热榜",
       "brand": "行业",
       "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
-      "date": "2026-09-07",
-      "time": "22:49",
-      "publishedAt": "2026-09-07T22:49:51.046Z",
-      "url": "https://weibo.com/6048569942/RgZwLcWb0",
+      "date": "2026-09-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73633631",
       "image": "",
-      "summary": "Pro Max影像大乱斗： ①50Mp 1/1.28\" LOFIC主摄+50Mp小底超广角+200Mp 1/1.4\"潜望长焦 ②200Mp 1/1.3\"高动态主摄+200Mp 1/1.56\"超广角+200Mp 1/1.56\"潜望长焦 ③200Mp 1/1.28\" LOFIC主摄+50Mp小底超广角+200Mp 1/1.56\"潜望长焦 ④200Mp 1/1.…",
+      "summary": "长鑫LPDDR6 率先实现旗舰手机端首发量产",
       "tags": [
         "行业",
         "爆料",
-        "微博"
+        "NewsNow"
       ]
     },
     {
-      "id": "weibo-059b908abf92",
-      "title": "数码闲聊站：独家，iQOO16已确定9月内登场，这代虽没有改名Pro Max，但综合堆料规…",
-      "source": "数码闲聊站",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-07",
-      "time": "22:49",
-      "publishedAt": "2026-09-07T22:49:51.046Z",
-      "url": "https://weibo.com/6048569942/RgZ7Uou40",
-      "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1iguyza6h5gj30r00d476c.jpg",
-      "summary": "独家，iQOO16已确定9月内登场，这代虽没有改名Pro Max，但综合堆料规格也Pro Max级了： 满血骁龙8EE6/三星2K+165Hz M16定制屏/自研电竞芯片Q4/超大底全焦段影像/满配外围等等，👖首进9月旗舰大乱斗，给行业大旗舰上强度了",
+      "id": "newsnow-47d628256103",
+      "title": "iPhone Ultra 没有消除屏幕折痕，国行或 14999 元起，「折痕」难题究竟卡在哪里？",
+      "source": "知乎热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-09-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2078837455386630111",
+      "image": "",
+      "summary": "iPhone Ultra 没有消除屏幕折痕，国行或 14999 元起，「折痕」难题究竟卡在哪里？",
       "tags": [
-        "Samsung",
+        "iPhone",
+        "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-93f58880d2be",
+      "title": "九月手机圈“神仙打架”背后",
+      "source": "今日头条热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7682999659396317222/",
+      "image": "",
+      "summary": "九月手机圈“神仙打架”背后",
+      "tags": [
+        "行业",
         "爆料",
-        "微博"
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-6bd102bb2272",
+      "title": "小米折叠屏上手体验",
+      "source": "百度热搜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%8A%98%E5%8F%A0%E5%B1%8F%E4%B8%8A%E6%89%8B%E4%BD%93%E9%AA%8C",
+      "image": "",
+      "summary": "小米折叠屏上手体验",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-2c0ada3a5fc9",
+      "title": "6G手机要来了",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=6G%E6%89%8B%E6%9C%BA%E8%A6%81%E6%9D%A5%E4%BA%86",
+      "image": "",
+      "summary": "6G手机要来了",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "auto-83ac3cab5696",
+      "title": "First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost",
+      "source": "The Verge",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-07",
+      "time": "23:51",
+      "publishedAt": "2026-09-07T23:51:11.000Z",
+      "url": "https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/xiaomi-18-fold-3-1.webp?quality=90&strip=all&crop=0,15.600243753809,62.2,75.399615618994",
+      "summary": "China is getting first crack at a British technology that might change how mobile games are made and played. Today, the Xiaomi 18 Fold launches in mainland China with an Arm Mali…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -202,66 +642,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-1b9e34843462",
-      "title": "2026 荣耀全球开发者大会日程公布，MagicOS 11 定档 9 月 15 日晚",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-07",
-      "time": "15:22",
-      "publishedAt": "2026-09-07T15:22:38.000Z",
-      "url": "https://www.ithome.com/0/999/493.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/c3bcdc54-b616-4b86-856d-bc130e883326.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 7 日消息，2026 荣耀全球开发者大会将于 9 月 15 日在深圳举行，官方今日公布活动日程。其中，MagicOS 11 将于当晚 19:00-20:00 发布。 IT之家整理如下： 主论坛 19:00-20:00 行业首个真正实现系统级 Agent Harness 商用落地的手机操作系统 MagicOS 11 发布 分论坛 10:00…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-a9372f28c65e",
-      "title": "竹本青：【长鑫LPDDR6 率先实现旗舰手机端首发量产：首发搭载于小米18 Fold】 9月7日，长鑫存储自主研发的LPD…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-07",
-      "time": "15:22",
-      "publishedAt": "2026-09-07T15:22:00.000Z",
-      "url": "https://www.coolapk.com/feed/73633631",
-      "image": "http://image.coolapk.com/feed/2026/0907/23/4248714_457dc612_4519_1342_228@1080x3723.jpg",
-      "summary": "【长鑫LPDDR6 率先实现旗舰手机端首发量产：首发搭载于小米18 Fold】 9月7日，长鑫存储自主研发的LPDDR6 芯片已实现量产商用，首发搭载于小米18 Fold 折叠旗舰手机，这是全球范围内LPDDR6产品首次在旗舰手机端落地商用。 该款产品芯片容量为16GB，最高传输速率可达12800Mbps，与SoC搭配速率为10667Mbps，可为 SoC…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-74e1dbc58ac3",
-      "title": "【视频】华为Mate XT2 三折叠首发开箱体验，全新展翼折叠屏，体验全方位提升",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-07",
-      "time": "15:07",
-      "publishedAt": "2026-09-07T15:07:59.000Z",
-      "url": "https://www.ithome.com/0/999/490.htm",
-      "image": "",
-      "summary": "全新发布的展翼式三折叠华为Mate XT2 体验如何？随IT之家的镜头一起来看一下吧。 点击关注IT之家B站账号",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-21553f3b739b",
       "title": "Amazon slashes the Samsung Galaxy Z Fold 8 by $250, bringing it down to $1,649.99",
       "source": "Android Authority",
@@ -299,26 +679,6 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-d454c327a4c2",
-      "title": "竹本青：【vivo Pocket 云台相机 官宣明年见】 9月7日，vivo创作者盛典现场，vivo高管对外预告全新影像硬…",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-07",
-      "time": "14:48",
-      "publishedAt": "2026-09-07T14:48:28.000Z",
-      "url": "https://www.coolapk.com/feed/73633097",
-      "image": "http://image.coolapk.com/feed/2026/0907/22/4248714_38d5269f_2507_6743_363@3200x1800.jpg",
-      "summary": "【vivo Pocket 云台相机 官宣明年见】 9月7日，vivo创作者盛典现场，vivo高管对外预告全新影像硬件——vivo云台相机。 官方表示，未来vivo云台相机将与X系列影像旗舰协同工作，不同设备各尽其能，实现无缝创作工作流，产品体验将会迎来跃升，明年希望给大家带来惊喜。 #今日热点# #OriginOS7# #vivoX500ProMax#",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -462,46 +822,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-ccea2fa5d222",
-      "title": "竹本青：汇顶科技认领：小米 18 Fold 搭载汇顶创新方案组合",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-07",
-      "time": "13:22",
-      "publishedAt": "2026-09-07T13:22:23.000Z",
-      "url": "https://www.coolapk.com/feed/73631534",
-      "image": "http://image.coolapk.com/feed/2026/0907/21/4248714_3ee16b43_7341_8798_30@1080x1440.jpg",
-      "summary": "【汇顶科技认领：小米 18 Fold 搭载汇顶创新方案组合】 9月7日，小米 18 Fold正式发布。新机搭载汇顶科技创新方案组合：独立安全芯片、触控方案、超窄侧边电容指纹与智能音频放大器。 小米 18 Fold搭载的汇顶独立安全芯片，已通过国内外高等级安全权威认证，防护能力远超软件加密，安全等级全面拉满。它以硬件级加密为敏感数据构筑坚实防线。 触控方案+…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-20b0fa2328fe",
-      "title": "vivo 最强影像旗舰 X500 系列手机官宣 9 月 21 日发布",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-07",
-      "time": "13:05",
-      "publishedAt": "2026-09-07T13:05:50.000Z",
-      "url": "https://www.ithome.com/0/999/462.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/5fb60007-4936-47ed-87d3-bccb98d8df3e.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 7 日消息，在今晚的 vivo 创作者盛典活动中，vivo X500 系列手机宣布将于 9 月 21 日 正式发布。 从轮廓可以看到，vivo X500 系列有望延续大圆盘镜头模组。 综合IT之家此前报道，vivo X500 系列手机 全球首发蓝图光御 900 传感器 ，还首发主摄和潜望长焦 CIPA 7.0 防抖等级，带来了全新升级的…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-f98ed961f7ae",
       "title": "The latest Wide Fold is here and has everything the Galaxy Z Fold 8 lacks",
       "source": "Android Authority",
@@ -517,46 +837,6 @@ window.phoneRadarAuto = {
       "summary": "The latest wide Fold on the market beats Samsung's Galaxy Z Fold 8 in some areas.",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2c4158cf0a10",
-      "title": "小米 18 Fold 首发搭载，长鑫官宣 LPDDR6 率先实现旗舰手机端量产",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-07",
-      "time": "12:42",
-      "publishedAt": "2026-09-07T12:42:31.000Z",
-      "url": "https://www.ithome.com/0/999/459.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/8755e7cd-6439-4b4e-88db-a3bce6c6921b.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 7 日消息，长鑫存储今日官宣，长鑫存储自主研发的 LPDDR6 芯片已实现量产商用， 首发搭载于 小米 18 Fold 折叠旗舰手机 ，这是全球范围内 LPDDR6 产品首次在旗舰手机端落地商用。 IT之家从公告获悉，此次长鑫量产的 LPDDR6 单颗粒容量为 16Gb， 封装芯片容量达 16GB ，遵循 JEDEC LPDDR6 标准，…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-3177a72d3cb6",
-      "title": "vivo X500 系列首发 8K 原生 Live 直出、专业 Log 视频硬件，支持 4K 960 帧慢动作",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-07",
-      "time": "12:34",
-      "publishedAt": "2026-09-07T12:34:12.000Z",
-      "url": "https://www.ithome.com/0/999/455.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/7f332120-20a5-4e13-af89-b88823923662.jpg",
-      "summary": "IT之家 9 月 7 日消息，在今晚的 vivo 创作者盛典活动中，vivo 官方公布了 X500 系列手机的视频拍摄能力。 vivo X500 系列全球首发搭载蓝图光御 900 传感器， 首次实现 17EV 动态范围 ，对标电影级；支持 10bit 422 编码、ACES 学院色彩编码系统，将在达芬奇未来版中更新上线。 依托全新 2nm 天玑芯片， vi…",
-      "tags": [
-        "vivo",
         "爆料",
         "自动抓取"
       ]
@@ -682,26 +962,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-7692746d8c49",
-      "title": "小米 18 Fold 中折叠手机发布：首发玄戒 O3 芯片，10999 元起",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-07",
-      "time": "11:39",
-      "publishedAt": "2026-09-07T11:39:36.000Z",
-      "url": "https://www.ithome.com/0/999/441.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/b6cab069-1658-4b08-bc34-4a59ac00a656.jpg",
-      "summary": "IT之家 9 月 7 日消息，小米秋季旗舰新品发布会正在进行，首先登场的是小米 18 Fold 中折叠手机，售价 10999 元起，现已开启预售，9 月 10 日早 10 点正式开售。 12GB+256GB 版 10999 元 12GB+512GB 版 11999 元 16GB+512GB 版 12999 元 16GB+1TB LPDDR6 版 14999…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-ba1b09e8b5d2",
       "title": "HUAWEI’s answer to the iPhone Ultra? A slimmer tri-fold with a privacy screen",
       "source": "Android Authority",
@@ -722,26 +982,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-2e23e2faa12b",
-      "title": "vivo 云台相机官宣：希望明年能带来惊喜",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-07",
-      "time": "11:12",
-      "publishedAt": "2026-09-07T11:12:06.000Z",
-      "url": "https://www.ithome.com/0/999/431.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/2607d9b8-5236-4a9f-a637-b34507a1c4e0.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 7 日消息，在今晚的 vivo 创作者盛典活动中， vivo 正式宣布将推云台相机品类产品 。 IT之家从活动现场获悉，vivo 表示希望 明年 能给大家带来惊喜。 vivo 将持续开发可扩展专业创作生态，包括专业视频拓展套件、vivo 增距镜、vivo 云台相机。 博主 @数码闲聊站 此前爆料，vivo X500 系列 9 月三杯齐发，…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-e16090e6ffa5",
       "title": "Huawei Pura X View launches as the world’s first wide-screen phone with a 7,000mAh battery",
       "source": "Gizmochina",
@@ -755,66 +995,6 @@ window.phoneRadarAuto = {
       "url": "https://www.gizmochina.com/2026/09/07/huawei-pura-x-view-launches-as-the-worlds-first-wide-screen-phone-with-a-7000mah-battery/",
       "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/huawei-pura-x-view-kv-xs-300x169.jpg?x96852",
       "summary": "Huawei has finally confirmed the price of the Pura X View, ending the wait since the wide-screen phone was first shown last month. The announcement was made at Huawei’s event toda…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-fffb6ffc75a6",
-      "title": "华为韬确认！全新麒麟 9050 Pro 官宣是首款逻辑折叠 τ 芯片",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-07",
-      "time": "11:02",
-      "publishedAt": "2026-09-07T11:02:47.000Z",
-      "url": "https://www.ithome.com/0/999/429.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/4f8cab23-7a7e-4be5-84e9-cb4964faa8b1.jpg",
-      "summary": "IT之家 9 月 7 日消息，在今天的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东正式发布了麒麟 9050 Pro 处理器。 这也是继华为 Mate 40 全球发布会之后，华为时隔六年在旗舰发布会上推出全新麒麟芯片。关于这款处理器的定义，IT之家询问华为…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-000a3af27b77",
-      "title": "华为发布会一文汇总：史上最强麒麟处理器 9050 Pro 登场，Mate XT 2 首发，余承东狂飙英语，还有 Pura X View 等一票新品",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-07",
-      "time": "10:50",
-      "publishedAt": "2026-09-07T10:50:41.000Z",
-      "url": "https://www.ithome.com/0/999/416.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/d467b52d-3030-425f-af9f-00b358889f37.jpg?x-bce-process=image/format,f_auto",
-      "summary": "来了！华为全新一代三折叠手机终于来了！今天（9 月 7 日）14:30，HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会准时启幕。 整场发布会的焦点毫无悬念 —— 一边是鸿蒙 HarmonyOS 7 的全面进化，另一边则是 Mate XT 2 折叠形态的再次突破。 当然，这并非是一场仅聚焦于鸿蒙与三折叠的“二人转”，华为还同…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-38521977ea10",
-      "title": "华为一天发布五款 eSIM 终端，含 Mate XT 2 非凡大师、Pura X View 等",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-07",
-      "time": "10:35",
-      "publishedAt": "2026-09-07T10:35:34.000Z",
-      "url": "https://www.ithome.com/0/999/412.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/8c76173c-ff2b-4597-ad05-66ad81dadf28.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 7 日消息，在今天的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东正式发布了 Mate XT 2 非凡大师和 Pura X View 两款新机。 IT之家从华为官网了解到， Mate XT 2 非凡大师和 Pura X View 均支持…",
       "tags": [
         "Huawei",
         "爆料",
@@ -897,6 +1077,26 @@ window.phoneRadarAuto = {
       "summary": "While September is typically focused on iPhone launches, many Android brands are preparing to steal the spotlight by throwing in their best hardware into the same four-week window…",
       "tags": [
         "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c31b480b982f",
+      "title": "Huawei Pura X View launched officially with 6.39’ display, HarmonyOS 7, Kirin 9030s",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-07",
+      "time": "09:07",
+      "publishedAt": "2026-09-07T09:07:48.000Z",
+      "url": "https://www.huaweicentral.com/huawei-pura-x-view-launched-officially/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/Pura-X-View-Features.jpg",
+      "summary": "Huawei has finally removed the full curtains from the Pura X View wide, flat-screen smartphone and launched it officially at the Mate XT 2 unveiling event. From the camera feature…",
+      "tags": [
+        "Huawei",
         "爆料",
         "自动抓取"
       ]
@@ -1075,326 +1275,6 @@ window.phoneRadarAuto = {
       "url": "https://www.gizmochina.com/2026/09/07/oppo-find-x10-series-september-launch-camera-details-confirmed/",
       "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Oppo-Find-X10-series-first-teaser--300x168.jpg?x96852",
       "summary": "The Oppo Find X10 series is set to put a strong emphasis on smartphone photography, with the company teasing several camera-focused upgrades. The upcoming lineup will introduce a…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9bbf43c61c96",
-      "title": "Apple announces changes to iOS in Brazil",
-      "source": "Apple Newsroom",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "官方",
-      "trust": "官方确认",
-      "date": "2026-09-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/",
-      "image": "",
-      "summary": "Apple today announced changes impacting iOS apps in Brazil that reflect a recent agreement with Brazil’s competition regulator, CADE.",
-      "tags": [
-        "iPhone",
-        "官方",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "newsnow-9e80a73b7e36",
-      "title": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-09-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/114084",
-      "image": "",
-      "summary": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-175754df0639",
-      "title": "线下活动 | 全新 iPhone 发布在即，来与少数派一起看 Apple 发布会",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-09-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/114071",
-      "image": "",
-      "summary": "线下活动 | 全新 iPhone 发布在即，来与少数派一起看 Apple 发布会",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-517022b4f6e1",
-      "title": "全球首款阔直板探索计划：华为 Pura X View 新品有奖体验",
-      "source": "少数派热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-09-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/113883",
-      "image": "",
-      "summary": "全球首款阔直板探索计划：华为 Pura X View 新品有奖体验",
-      "tags": [
-        "Huawei",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-ff62774bdd78",
-      "title": "华为 Pura X View 发布：售价 5999 元起",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73625860",
-      "image": "",
-      "summary": "华为 Pura X View 发布：售价 5999 元起",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-d228aeaf1766",
-      "title": "既然对比了友商，又是相同的价格起售，华子阔折叠卖了120万，理性讨论，一起预测下小米中折叠的销量会是多少？相同上市四个月的话，我猜能有华子一半销量，说错勿喷[笑哭] #小米18Fold# #HyperOS4# #华为PuraXMax#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73629550",
-      "image": "",
-      "summary": "既然对比了友商，又是相同的价格起售，华子阔折叠卖了120万，理性讨论，一起预测下小米中折叠的销量会是多少？相同上市四个月的话，我猜能有华子一半销量，说错勿喷[笑哭] #小米18Fold# #HyperOS4# #华为PuraXMax#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-e86606fdf78e",
-      "title": "iPhone Ultra 没有消除屏幕折痕，国行或 14999 元起，「折痕」难题究竟卡在哪里？",
-      "source": "知乎热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "市场报告",
-      "trust": "媒体汇总",
-      "date": "2026-09-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2078837455386630111",
-      "image": "",
-      "summary": "iPhone Ultra 没有消除屏幕折痕，国行或 14999 元起，「折痕」难题究竟卡在哪里？",
-      "tags": [
-        "iPhone",
-        "市场报告",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-6283b526bca7",
-      "title": "多款手机集体涨价，有经销商称本以为会迎来抢购潮，结果询价者寥寥无几，哪里出了问题？",
-      "source": "知乎热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "市场报告",
-      "trust": "媒体汇总",
-      "date": "2026-09-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2078836573454459390",
-      "image": "",
-      "summary": "多款手机集体涨价，有经销商称本以为会迎来抢购潮，结果询价者寥寥无几，哪里出了问题？",
-      "tags": [
-        "行业",
-        "市场报告",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-c4412ea26404",
-      "title": "华为新款折叠屏手机售价19999元起",
-      "source": "今日头条热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7682279563775033394/",
-      "image": "",
-      "summary": "华为新款折叠屏手机售价19999元起",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-7aa99494b5fa",
-      "title": "阔折叠手机为什么火了",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E9%98%94%E6%8A%98%E5%8F%A0%E6%89%8B%E6%9C%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E7%81%AB%E4%BA%86",
-      "image": "",
-      "summary": "阔折叠手机为什么火了",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-2692a9663b90",
-      "title": "Google Pixel 11 vs. Pixel 9: Two generations later, is it finally time to upgrade?",
-      "source": "Android Central",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-09-06",
-      "time": "12:10",
-      "publishedAt": "2026-09-06T12:10:00.000Z",
-      "url": "https://www.androidcentral.com/phones/google-pixel/google-pixel-11-vs-pixel-9",
-      "image": "https://cdn.mos.cms.futurecdn.net/tVM2C5uQ48aPQyBqgeKCTZ-1280-80.jpg",
-      "summary": "The Pixel 11 is out, begging the question whether Pixel 9 owners should upgrade their devices. A deep Google Pixel 11 vs. Pixel 9 breaks down the answer.",
-      "tags": [
-        "Pixel",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-9013f9d5456a",
-      "title": "JSCHEN小小狐：Pro Max 长焦目前传的确实是真的 另外小红书那张图的外观细节是对的",
-      "source": "JSCHEN小小狐",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-06",
-      "time": "11:06",
-      "publishedAt": "2026-09-06T11:06:23.000Z",
-      "url": "https://www.coolapk.com/feed/73611726",
-      "image": "",
-      "summary": "Pro Max 长焦目前传的确实是真的 另外小红书那张图的外观细节是对的",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-d4e095bdf603",
-      "title": "This $500 Android phone shows what Google still gets wrong with the Pixel 11 camera",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-06",
-      "time": "11:00",
-      "publishedAt": "2026-09-06T11:00:08.000Z",
-      "url": "https://www.androidauthority.com/google-pixel-11-cheap-phone-camera-features-3703907/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Xiaomi-Redmi-Note-17-Pro-Max-camera-app.jpg",
-      "summary": "These two basic features are available on this new mid-ranger and its predecessors, but not on the Pixel 11.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1b85ea2b4591",
-      "title": "I bought the most boring Pixel 11 Pro color, and it’s the best decision I’ve ever made",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-06",
-      "time": "09:00",
-      "publishedAt": "2026-09-06T09:00:05.000Z",
-      "url": "https://www.androidauthority.com/pixel-11-pro-obsidian-color-perfect-3705496/",
-      "image": "",
-      "summary": "The Olive, Fog, and Canyon Pixel 11 Pro's are lovely but feel gross as soon as you touch them.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-fb7b28ba252a",
-      "title": "Vivo X500 Pro Max crosses 4K single-core and 13K multi-core score on Geekbench",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-06",
-      "time": "06:46",
-      "publishedAt": "2026-09-06T06:46:51.000Z",
-      "url": "https://www.gizmochina.com/2026/09/06/vivo-x500-pro-max-geekbench-4000-single-core-13000-multi-core-score/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Vivo-X500-Pro-Max-left-with-Vivo-X300-Ultra-right-300x201.jpg?x96852",
-      "summary": "Vivo is scheduled to announce OriginOS 7 on September 16 in China. Around a week later, the brand is expected to take the covers off the much-anticipated X500 series of flagship p…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f13b82fff736",
-      "title": "Oppo Find X10, X10 Pro Max spotted with different Dimensity 9-series chipsets on Geekbench",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-06",
-      "time": "05:43",
-      "publishedAt": "2026-09-06T05:43:55.000Z",
-      "url": "https://www.gizmochina.com/2026/09/06/oppo-find-x10-x10-pro-max-geekbench-dimensity-chipsets/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Oppo-Find-X10-Pro-Max-images-296x300.png?x96852",
-      "summary": "Oppo is expected to hold a launch event to unveil the Find X10 series later this month in China. Speculations are rife that the PMW110 and PMX110 devices that have emerged in the…",
       "tags": [
         "OPPO",
         "爆料",

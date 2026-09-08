@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-07T22:49:51.046Z",
-  "issueDate": "2026-09-07",
-  "issue": "VOL.260907",
+  "updatedAt": "2026-09-08T04:33:56.029Z",
+  "issueDate": "2026-09-08",
+  "issue": "VOL.260908",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 8,
-    "iphone": 4,
+    "total": 10,
+    "iphone": 5,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -44,14 +44,14 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-e86606fdf78e",
+          "id": "newsnow-47d628256103",
           "title": "iPhone Ultra 没有消除屏幕折痕，国行或 14999 元起，「折痕」难题究竟卡在哪里？",
           "originalTitle": "",
           "source": "知乎热榜",
           "brand": "iPhone",
           "type": "市场报告",
           "trust": "媒体汇总",
-          "date": "2026-09-07",
+          "date": "2026-09-08",
           "time": "",
           "publishedAt": "",
           "url": "https://www.zhihu.com/question/2078837455386630111",
@@ -59,6 +59,29 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "iPhone Ultra 没有消除屏幕折痕，国行或 14999 元起，「折痕」难题究竟卡在哪里？",
           "detail": "iPhone Ultra 没有消除屏幕折痕，国行或 14999 元起，「折痕」难题究竟卡在哪里？",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-b72f66cfac99",
+          "title": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
+          "originalTitle": "",
+          "source": "少数派热榜",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-09-08",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/114084",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
+          "detail": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
           "keyPoints": [
             "屏幕形态"
           ],
@@ -90,67 +113,67 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-9e80a73b7e36",
-          "title": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
+          "id": "auto-d4b24bc406c7",
+          "title": "小米许斐透露 Xiaomi 18 Fold 中折叠手机卖爆了，首销较上代大折叠同比增长 310%",
           "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
+          "source": "IT之家",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-08",
+          "time": "03:29",
+          "publishedAt": "2026-09-08T03:29:00.000Z",
+          "url": "https://www.ithome.com/0/999/626.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/a4574350-de60-4b68-b378-5cc8223c754b.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 9 月 8 日消息，小米集团副总裁、小米集团 CMO 许斐今早发文透露， Xiaomi 18 Fold 中折叠手机卖爆了 。 小米集团高级副总裁、中国区总裁王晓雁分享的数据显示， Xiaomi 18 Fold 中折叠手机这款万元档旗舰首销大爆发，较上代大折叠同比增长 310% 。 ▲ IT之家图赏：小米 18 Fold 暖金白折叠屏手机 参考IT…",
+          "detail": "IT之家 9 月 8 日消息，小米集团副总裁、小米集团 CMO 许斐今早发文透露， Xiaomi 18 Fold 中折叠手机卖爆了 。 小米集团高级副总裁、中国区总裁王晓雁分享的数据显示， Xiaomi 18 Fold 中折叠手机这款万元档旗舰首销大爆发，较上代大折叠同比增长 310% 。 ▲ IT之家图赏：小米 18 Fold 暖金白折叠屏手机 参考IT…",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-203fb9ce4df4",
+          "title": "小米 18 Fold 折叠屏手机体验：玄戒 O3 首秀，中折叠体验更顺手",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-08",
+          "time": "02:02",
+          "publishedAt": "2026-09-08T02:02:12.000Z",
+          "url": "https://www.ithome.com/0/999/563.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/def1feb0-4bce-4216-9804-2bb466d40d14.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "2026 年，已经是折叠屏手机发展的第七个年头，这个品类热度逐渐提升的同时，市场也在经历升级和重塑。 根据 Counterpoint 的数据，2026 年全球折叠屏出货量预计同比增长 21%，同时苹果的即将入局、头部厂商之间竞争的加剧，都在把折叠屏推向一个新的爆发阶段。 不过热闹的同时，折叠屏手机在产品层面其实也有许多痛点有待行业解决。比如大折叠与小折叠两…",
+          "detail": "2026 年，已经是折叠屏手机发展的第七个年头，这个品类热度逐渐提升的同时，市场也在经历升级和重塑。 根据 Counterpoint 的数据，2026 年全球折叠屏出货量预计同比增长 21%，同时苹果的即将入局、头部厂商之间竞争的加剧，都在把折叠屏推向一个新的爆发阶段。 不过热闹的同时，折叠屏手机在产品层面其实也有许多痛点有待行业解决。比如大折叠与小折叠两…",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-c6775560003a",
+          "title": "手机影像的下半场，是成就作品",
+          "originalTitle": "",
+          "source": "爱范儿",
+          "brand": "vivo",
           "type": "评测",
           "trust": "媒体汇总",
-          "date": "2026-09-07",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/114084",
-          "image": "",
+          "date": "2026-09-08",
+          "time": "02:00",
+          "publishedAt": "2026-09-08T02:00:22.000Z",
+          "url": "https://www.ifanr.com/1679038?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "image": "https://s3.ifanr.com/images/ep/uploads/vivo/c9e58192-f19e-47e5-97ac-fcdcd5827e1b.JPEG",
           "verdict": "先看",
-          "takeaway": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
-          "detail": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-74e1dbc58ac3",
-          "title": "【视频】华为Mate XT2 三折叠首发开箱体验，全新展翼折叠屏，体验全方位提升",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-07",
-          "time": "15:07",
-          "publishedAt": "2026-09-07T15:07:59.000Z",
-          "url": "https://www.ithome.com/0/999/490.htm",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "全新发布的展翼式三折叠华为Mate XT2 体验如何？随IT之家的镜头一起来看一下吧。 点击关注IT之家B站账号",
-          "detail": "全新发布的展翼式三折叠华为Mate XT2 体验如何？随IT之家的镜头一起来看一下吧。 点击关注IT之家B站账号",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-20b0fa2328fe",
-          "title": "vivo 最强影像旗舰 X500 系列手机官宣 9 月 21 日发布",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-07",
-          "time": "13:05",
-          "publishedAt": "2026-09-07T13:05:50.000Z",
-          "url": "https://www.ithome.com/0/999/462.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/5fb60007-4936-47ed-87d3-bccb98d8df3e.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 9 月 7 日消息，在今晚的 vivo 创作者盛典活动中，vivo X500 系列手机宣布将于 9 月 21 日 正式发布。 从轮廓可以看到，vivo X500 系列有望延续大圆盘镜头模组。 综合IT之家此前报道，vivo X500 系列手机 全球首发蓝图光御 900 传感器 ，还首发主摄和潜望长焦 CIPA 7.0 防抖等级，带来了全新升级的…",
-          "detail": "IT之家 9 月 7 日消息，在今晚的 vivo 创作者盛典活动中，vivo X500 系列手机宣布将于 9 月 21 日 正式发布。 从轮廓可以看到，vivo X500 系列有望延续大圆盘镜头模组。 综合IT之家此前报道，vivo X500 系列手机 全球首发蓝图光御 900 传感器 ，还首发主摄和潜望长焦 CIPA 7.0 防抖等级，带来了全新升级的…",
+          "takeaway": "即将在 9 月 21 日 亮相的 vivo X500 系列，核心便是试图打破这一桎梏。",
+          "detail": "即将在 9 月 21 日 亮相的 vivo X500 系列，核心便是试图打破这一桎梏。",
           "keyPoints": [
             "影像硬件"
           ],
@@ -159,51 +182,88 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-2c4158cf0a10",
-          "title": "小米 18 Fold 首发搭载，长鑫官宣 LPDDR6 率先实现旗舰手机端量产",
+          "id": "weibo-02c164783b0a",
+          "title": "数码闲聊站：华为Pura X View，阔直板这个价格怎么样？ 12GB+256GB——5…",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Xiaomi",
+          "source": "数码闲聊站",
+          "brand": "Huawei",
           "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-07",
-          "time": "12:42",
-          "publishedAt": "2026-09-07T12:42:31.000Z",
-          "url": "https://www.ithome.com/0/999/459.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/8755e7cd-6439-4b4e-88db-a3bce6c6921b.jpg?x-bce-process=image/format,f_auto",
+          "trust": "高关注爆料源",
+          "date": "2026-09-08",
+          "time": "04:33",
+          "publishedAt": "2026-09-08T04:33:56.029Z",
+          "url": "https://weibo.com/6048569942/Rh0XkwIX5",
+          "image": "",
           "verdict": "先看",
-          "takeaway": "IT之家 9 月 7 日消息，长鑫存储今日官宣，长鑫存储自主研发的 LPDDR6 芯片已实现量产商用， 首发搭载于 小米 18 Fold 折叠旗舰手机 ，这是全球范围内 LPDDR6 产品首次在旗舰手机端落地商用。 IT之家从公告获悉，此次长鑫量产的 LPDDR6 单颗粒容量为 16Gb， 封装芯片容量达 16GB ，遵循 JEDEC LPDDR6 标准，…",
-          "detail": "IT之家 9 月 7 日消息，长鑫存储今日官宣，长鑫存储自主研发的 LPDDR6 芯片已实现量产商用， 首发搭载于 小米 18 Fold 折叠旗舰手机 ，这是全球范围内 LPDDR6 产品首次在旗舰手机端落地商用。 IT之家从公告获悉，此次长鑫量产的 LPDDR6 单颗粒容量为 16Gb， 封装芯片容量达 16GB ，遵循 JEDEC LPDDR6 标准，…",
+          "takeaway": "华为Pura X View，阔直板这个价格怎么样？ 12GB+256GB——5999元 12GB+512GB——6999元 12GB+1TB——8499元",
+          "detail": "华为Pura X View，阔直板这个价格怎么样？ 12GB+256GB——5999元 12GB+512GB——6999元 12GB+1TB——8499元",
           "keyPoints": [
-            "芯片 / 性能",
+            "成本 / 价格",
             "爆料来源"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "iphone",
+      "title": "iPhone 重点",
+      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
+      "items": [
         {
-          "id": "auto-3177a72d3cb6",
-          "title": "vivo X500 系列首发 8K 原生 Live 直出、专业 Log 视频硬件，支持 4K 960 帧慢动作",
+          "id": "auto-7e57d251cbc5",
+          "title": "涨价 + 无标准版影响，KeyBanc 预估 2026 下半年苹果 iPhone 产量同比下降 12.1%",
           "originalTitle": "",
           "source": "IT之家",
-          "brand": "vivo",
+          "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-09-07",
-          "time": "12:34",
-          "publishedAt": "2026-09-07T12:34:12.000Z",
-          "url": "https://www.ithome.com/0/999/455.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/7f332120-20a5-4e13-af89-b88823923662.jpg",
+          "date": "2026-09-08",
+          "time": "01:06",
+          "publishedAt": "2026-09-08T01:06:29.000Z",
+          "url": "https://www.ithome.com/0/999/530.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/a2d5880f-3c2a-479e-be90-8f437d339cf3.png?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 9 月 7 日消息，在今晚的 vivo 创作者盛典活动中，vivo 官方公布了 X500 系列手机的视频拍摄能力。 vivo X500 系列全球首发搭载蓝图光御 900 传感器， 首次实现 17EV 动态范围 ，对标电影级；支持 10bit 422 编码、ACES 学院色彩编码系统，将在达芬奇未来版中更新上线。 依托全新 2nm 天玑芯片， vi…",
-          "detail": "IT之家 9 月 7 日消息，在今晚的 vivo 创作者盛典活动中，vivo 官方公布了 X500 系列手机的视频拍摄能力。 vivo X500 系列全球首发搭载蓝图光御 900 传感器， 首次实现 17EV 动态范围 ，对标电影级；支持 10bit 422 编码、ACES 学院色彩编码系统，将在达芬奇未来版中更新上线。 依托全新 2nm 天玑芯片， vi…",
+          "takeaway": "IT之家 9 月 8 日消息，美国投资银行 KeyBanc 昨日（9 月 7 日）发布市场研究报告，预估苹果公司会延后到 2027 年春季发布标准版 iPhone 18， 导致 2026 年下半年全球 iPhone 产量同比减少约 1100 万部。 该投行预估在当地时间 9 月 9 日（北京时间 9 月 10 日凌晨 1 点）召开的秋季活动中，苹果会发布…",
+          "detail": "IT之家 9 月 8 日消息，美国投资银行 KeyBanc 昨日（9 月 7 日）发布市场研究报告，预估苹果公司会延后到 2027 年春季发布标准版 iPhone 18， 导致 2026 年下半年全球 iPhone 产量同比减少约 1100 万部。 该投行预估在当地时间 9 月 9 日（北京时间 9 月 10 日凌晨 1 点）召开的秋季活动中，苹果会发布…",
           "keyPoints": [
-            "芯片 / 性能"
+            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+          "impact": "影响购买预算，值得先看。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        }
+      ]
+    },
+    {
+      "id": "review",
+      "title": "评测与体验",
+      "hint": "买前再细看，平时扫一眼即可。",
+      "items": [
+        {
+          "id": "auto-fabd7aa00399",
+          "title": "敢卖一万元的小米手机，底气在哪里｜小米 18 Fold 评测",
+          "originalTitle": "",
+          "source": "爱范儿",
+          "brand": "Xiaomi",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-09-08",
+          "time": "02:00",
+          "publishedAt": "2026-09-08T02:00:07.000Z",
+          "url": "https://www.ifanr.com/1678982?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "image": "https://s3.ifanr.com/wp-content/uploads/2026/09/banner16t9-2.jpg",
+          "verdict": "先看",
+          "takeaway": "玄戒很好，但不能全靠玄戒",
+          "detail": "玄戒很好，但不能全靠玄戒",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         }
       ]
     }
