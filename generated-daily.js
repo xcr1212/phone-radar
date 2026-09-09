@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-09T11:21:12.194Z",
+  "updatedAt": "2026-09-09T16:37:23.911Z",
   "issueDate": "2026-09-09",
   "issue": "VOL.260909",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
     "total": 8,
-    "iphone": 7,
+    "iphone": 8,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -18,27 +18,26 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "auto-44f58fe89fea",
-          "title": "古尔曼：苹果 iPhone 18 Pro 将搭载更小的灵动岛，支持显示三个实时活动",
+          "id": "auto-fe128f45fbb5",
+          "title": "荣旗科技：公司参与了苹果折叠屏手机 VC 散热的检测环节",
           "originalTitle": "",
           "source": "IT之家",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-09-09",
-          "time": "10:55",
-          "publishedAt": "2026-09-09T10:55:02.000Z",
-          "url": "https://www.ithome.com/1/000/395.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/ad8132e2-2c95-48fc-94b5-8f6c9e0fa49b.jpg",
+          "time": "14:29",
+          "publishedAt": "2026-09-09T14:29:55.000Z",
+          "url": "https://www.ithome.com/1/000/468.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/7a6d2c4c-2290-4831-b245-5484e43cc8ca.jpg?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 9 月 9 日消息，据彭博社消息，苹果即将推出的 iPhone 18 Pro 将配备更窄的灵动岛，能够比当前的 iPhone 17 Pro 展示更多的实时活动。 马克 · 古尔曼（Mark Gurman）报道称，iPhone 18 Pro 与 iPhone 18 Pro Max 搭载这款“尺寸更小、经过优化”的全新灵动岛，用户可以在屏幕顶部“切换…",
-          "detail": "IT之家 9 月 9 日消息，据彭博社消息，苹果即将推出的 iPhone 18 Pro 将配备更窄的灵动岛，能够比当前的 iPhone 17 Pro 展示更多的实时活动。 马克 · 古尔曼（Mark Gurman）报道称，iPhone 18 Pro 与 iPhone 18 Pro Max 搭载这款“尺寸更小、经过优化”的全新灵动岛，用户可以在屏幕顶部“切换…",
+          "takeaway": "IT之家 9 月 9 日消息，荣旗科技今日在深交所互动易平台透露，公司参与了苹果折叠屏手机中 VC 散热的检测环节。 结合IT之家此前援引古尔曼消息 ，苹果首款折叠屏手机预计将命名为 iPhone Duo，起售价约为 2,000 美元 （IT之家注：现汇率约合 13,457 元人民币） 。 该机或搭载 5.5 英寸外屏、7.8 英寸内屏 ，机身设计据称较短…",
+          "detail": "IT之家 9 月 9 日消息，荣旗科技今日在深交所互动易平台透露，公司参与了苹果折叠屏手机中 VC 散热的检测环节。 结合IT之家此前援引古尔曼消息 ，苹果首款折叠屏手机预计将命名为 iPhone Duo，起售价约为 2,000 美元 （IT之家注：现汇率约合 13,457 元人民币） 。 该机或搭载 5.5 英寸外屏、7.8 英寸内屏 ，机身设计据称较短…",
           "keyPoints": [
-            "外观 / 配色 / 尺寸",
             "屏幕形态",
-            "爆料来源"
+            "成本 / 价格"
           ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -66,6 +65,29 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "weibo-78481620e093",
+          "title": "数码闲聊站：今晚你们要熬夜看苹果发布会吗？iPhone 18 Pro+iPhone 18…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-09-09",
+          "time": "16:37",
+          "publishedAt": "2026-09-09T16:37:23.911Z",
+          "url": "https://weibo.com/6048569942/Rhl9s29nu",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "今晚你们要熬夜看苹果发布会吗？iPhone 18 Pro+iPhone 18 Pro Max+iPhone Duo[收到]",
+          "detail": "今晚你们要熬夜看苹果发布会吗？iPhone 18 Pro+iPhone 18 Pro Max+iPhone Duo[收到]",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "newsnow-6bc42eab305c",
           "title": "折叠屏 iPhone 命名曝光：或为 iPhone Duo",
           "originalTitle": "",
@@ -85,6 +107,54 @@ window.phoneRadarDaily = {
             "屏幕形态"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-0c1f8f62d6bb",
+          "title": "曝苹果折叠屏命名iPhone Duo，起售价2000美元",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-09-09",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73656840",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "曝苹果折叠屏命名iPhone Duo，起售价2000美元",
+          "detail": "曝苹果折叠屏命名iPhone Duo，起售价2000美元",
+          "keyPoints": [
+            "屏幕形态",
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-78424377b1d9",
+          "title": "iPhone 18 Pro 机模 / 配色信息曝光",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-09",
+          "time": "15:47",
+          "publishedAt": "2026-09-09T15:47:13.000Z",
+          "url": "https://www.macrumors.com/2026/09/09/all-iphone-18-pro-iphone-duo-colors/",
+          "image": "https://images.macrumors.com/article-new/2026/04/Four-iPhone-18-Pro-Colors-Mock-Feature.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 18 Pro 机模 / 配色信息曝光。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 18 Pro 机模 / 配色信息曝光。来源提到未发布机型的机模/配色图，适合先判断外观方向、颜色变化和机身轮廓，但最终量产版本仍可能调整。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -113,55 +183,7 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-ab447e95c418",
-          "title": "【IT之家开箱】荣耀 Magic9 Pro Max 图赏：全新「苔青」配色，“大导之眼”登场",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-09",
-          "time": "09:02",
-          "publishedAt": "2026-09-09T09:02:23.000Z",
-          "url": "https://www.ithome.com/1/000/328.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/3d712cf4-bf51-425f-aa76-b80c4583dffe.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 9 月 9 日消息，荣耀 Magic9 系列 官宣将于 9 月 28 日正式发布 。日前，IT之家拿到了荣耀 Magic9 Pro Max「苔青」配色，新机采用全金属机身，并带来了全新的“大导之眼”镜头模组设计。 接下来，就让我们通过图赏，一起来看看荣耀 Magic9 Pro Max 的外观细节。 机身细节方面，荣耀 Magic9 Pro Max…",
-          "detail": "IT之家 9 月 9 日消息，荣耀 Magic9 系列 官宣将于 9 月 28 日正式发布 。日前，IT之家拿到了荣耀 Magic9 Pro Max「苔青」配色，新机采用全金属机身，并带来了全新的“大导之眼”镜头模组设计。 接下来，就让我们通过图赏，一起来看看荣耀 Magic9 Pro Max 的外观细节。 机身细节方面，荣耀 Magic9 Pro Max…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-795020377e24",
-          "title": "苹果首款折叠屏 iPhone 爆料起售价 2199 美元，人民币近 1.5 万元，如何看待该定价？",
-          "originalTitle": "",
-          "source": "知乎热榜",
-          "brand": "iPhone",
-          "type": "市场报告",
-          "trust": "媒体汇总",
-          "date": "2026-09-09",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.zhihu.com/question/2080987759133594987",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "苹果首款折叠屏 iPhone 爆料起售价 2199 美元，人民币近 1.5 万元，如何看待该定价？",
-          "detail": "苹果首款折叠屏 iPhone 爆料起售价 2199 美元，人民币近 1.5 万元，如何看待该定价？",
-          "keyPoints": [
-            "屏幕形态",
-            "成本 / 价格",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-809743df91e3",
+          "id": "auto-7dae3c7191e7",
           "title": "iPhone 相关消息",
           "originalTitle": "",
           "source": "MacRumors",
@@ -169,41 +191,17 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-09-09",
-          "time": "11:20",
-          "publishedAt": "2026-09-09T11:20:48.000Z",
-          "url": "https://www.macrumors.com/2026/09/09/apple-store-down-iphone-18-pro-event/",
-          "image": "https://images.macrumors.com/article-new/2026/09/apple-store-down-sept-2026.jpg",
+          "time": "14:12",
+          "publishedAt": "2026-09-09T14:12:42.000Z",
+          "url": "https://www.macrumors.com/2026/09/09/apple-event-20-last-minute-iphone-rumors/",
+          "image": "https://images.macrumors.com/article-new/2026/08/iPhone-18-Pro-Dark-Cherry-Feature.jpg",
           "verdict": "先看",
           "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
           "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-353acd689834",
-          "title": "iPhone 18 Pro 价格 / 成本相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-09",
-          "time": "11:00",
-          "publishedAt": "2026-09-09T11:00:46.000Z",
-          "url": "https://www.macrumors.com/2026/09/09/iphone-18-pro-price-hike-to-be-lower-than-expected/",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone 18 Pro 价格 / 成本相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
-          "detail": "iPhone 18 Pro 价格 / 成本相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "成本 / 价格",
             "爆料来源"
           ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
