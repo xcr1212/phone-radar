@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-12T15:30:50.088Z",
+  "updatedAt": "2026-09-12T18:22:40.821Z",
   "news": [
     {
       "id": "weibo-81593d23eb45",
@@ -10,8 +10,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-12",
-      "time": "15:30",
-      "publishedAt": "2026-09-12T15:30:50.088Z",
+      "time": "18:22",
+      "publishedAt": "2026-09-12T18:22:40.821Z",
       "url": "https://weibo.com/6048569942/RhLE82Cdc",
       "image": "",
       "summary": "9月标准版的影像大乱斗： ①50Mp 1/1.28\"主摄+50Mp超广角+64Mp 1/2\"潜望长焦(中屏天玑3nm) ②200Mp 1/1.4\"主摄+50Mp超广角+200Mp 1/1.56\"潜望长焦(中屏天玑3nm) ③200Mp 1/1.4\"主摄+50Mp超广角+200Mp 1/1.56\"潜望长焦(小屏骁龙3nm)",
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-12",
-      "time": "15:30",
-      "publishedAt": "2026-09-12T15:30:50.088Z",
+      "time": "18:22",
+      "publishedAt": "2026-09-12T18:22:40.821Z",
       "url": "https://weibo.com/6048569942/RhJVkhckv",
       "image": "",
       "summary": "目前已锁定的手机发布会档期： 9.21 vivo X500系列，9.22有新品发布会，9.23有新品发布会，9.28 荣耀Magic9系列，9.29有新品发布会。你们自己猜吧，反正就那几家[doge]",
@@ -50,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-12",
-      "time": "15:30",
-      "publishedAt": "2026-09-12T15:30:50.088Z",
+      "time": "18:22",
+      "publishedAt": "2026-09-12T18:22:40.821Z",
       "url": "https://weibo.com/6048569942/RhJ0XhVBA",
       "image": "",
       "summary": "华为Mate90系列有镜头膜流出了，M90/90 Pro/90 Pro Max都是星环设计，M90 RS是八边形，疑似调整为全系三摄+单潜望长焦，此方案我之前也提过……[笑而不语]",
@@ -70,8 +70,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-12",
-      "time": "15:30",
-      "publishedAt": "2026-09-12T15:30:50.088Z",
+      "time": "18:22",
+      "publishedAt": "2026-09-12T18:22:40.821Z",
       "url": "https://weibo.com/6048569942/RhBOGvMdc",
       "image": "",
       "summary": "下周开始，史上最密集的新机发布周期就要拉开帷幕了 先给大家做个心理建设，接下来的9月新机，涨价比苹果只多不少",
@@ -90,8 +90,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-12",
-      "time": "15:30",
-      "publishedAt": "2026-09-12T15:30:50.088Z",
+      "time": "18:22",
+      "publishedAt": "2026-09-12T18:22:40.821Z",
       "url": "https://weibo.com/6048569942/RhBrkq4si",
       "image": "",
       "summary": "Find X10——200Mp F1.6大底主摄+200Mp F2.6大底潜望长焦，8000mAh+80W+50W，0.99mm极窄四等边中屏，支持哈苏增距镜 Find X10 PM——200Mp F1.5超大底高动态主摄+200Mp 13mm大底超广角+200Mp F2.1大底潜望长焦，支持10cm长焦微距，8000mAh+80W+50W，2nm天玑96…",
@@ -110,8 +110,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-12",
-      "time": "15:30",
-      "publishedAt": "2026-09-12T15:30:50.088Z",
+      "time": "18:22",
+      "publishedAt": "2026-09-12T18:22:40.821Z",
       "url": "https://weibo.com/6048569942/RhAggvkS4",
       "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIly1igzgjb2uhwj31o02seh8b.jpg",
       "summary": "Magic9——6.37\"1.5K小直屏，8K级大电池，200Mp 1/1.4\"大底主摄+50Mp超广角+200Mp 1/1.56\"大底潜望长焦，3D超声波指纹，喜欢吗[二哈]",
@@ -130,8 +130,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-12",
-      "time": "15:30",
-      "publishedAt": "2026-09-12T15:30:50.088Z",
+      "time": "18:22",
+      "publishedAt": "2026-09-12T18:22:40.821Z",
       "url": "https://weibo.com/6048569942/RhzFu7fMb",
       "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIly1igzgcdy4a5j3396263npe.jpg",
       "summary": "iQOO16，这设计感受一下：",
@@ -142,8 +142,48 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "auto-ec66461aaa9a",
+      "title": "ESR’s iPhone accessory lineup is ready for Apple’s foldable era",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-12",
+      "time": "16:00",
+      "publishedAt": "2026-09-12T16:00:00.000Z",
+      "url": "https://9to5mac.com/2026/09/12/esrs-iphone-accessory-lineup-ready-apples-foldable-era/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/1.-KV.jpg?quality=82&strip=all&w=1600",
+      "summary": "A new iPhone announcement always means a mad rush for accessories that will arrive when your new device arrives, and this year that includes an entirely new category with the iPho…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-34dedebddfe8",
+      "title": "iPhone Duo can add fake bezel to the outside screen for better case compatibility",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-12",
+      "time": "15:32",
+      "publishedAt": "2026-09-12T15:32:31.000Z",
+      "url": "https://9to5mac.com/2026/09/12/iphone-duo-fake-bezel-case-compatibility/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-shift-left-edge-setting.jpg?quality=82&strip=all&w=1600",
+      "summary": "Blogger Nicolas Lellouche went digging in the iPhone Duo settings during his hands on time with the device. He found a curious new option in the display settings called ‘Shift Lef…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "auto-77c84ec9fb25",
-      "title": "荣耀公布 SmallRia 专业视频拓展套件：适配 Magic9 Pro Max，9 月 28 日发布",
+      "title": "荣耀公布 SmallRig 专业视频拓展套件：适配 Magic9 Pro Max，9 月 28 日发布",
       "source": "IT之家",
       "brand": "HONOR",
       "model": "HONOR 相关机型",
@@ -153,8 +193,8 @@ window.phoneRadarAuto = {
       "time": "15:17",
       "publishedAt": "2026-09-12T15:17:55.000Z",
       "url": "https://www.ithome.com/1/001/657.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/ad2788ec-6f19-4dad-a381-2967c8dc5535.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 12 日消息，荣耀今日公布 SmallRia 专业视频拓展套件，适配荣耀 Magic9 Pro Max，将于 9 月 28 日发布。 据官方介绍，荣耀 Magic9 Pro Max 支持阿莱电影模式，拥有阿莱 LogC3 视频管线、电影级枪麦收音、峰值对焦、伪色监看。搭配专业视频拓展套件，轻松应对复杂场景。超清双两亿，掌中电影机。 荣耀…",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/ad2788ec-6f19-4dad-a381-2967c8dc5535.png",
+      "summary": "IT之家 9 月 12 日消息，荣耀今日公布 SmallRig 专业视频拓展套件，适配荣耀 Magic9 Pro Max，将于 9 月 28 日发布。 据官方介绍，荣耀 Magic9 Pro Max 支持阿莱电影模式，拥有阿莱 LogC3 视频管线、电影级枪麦收音、峰值对焦、伪色监看。搭配专业视频拓展套件，轻松应对复杂场景。超清双两亿，掌中电影机。 荣耀…",
       "tags": [
         "HONOR",
         "爆料",
@@ -922,6 +962,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-fb286ba04ed9",
+      "title": "我一定会回来……吗？小手用户与 iPhone 17 Pro Max 的一年",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-12",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/114366",
+      "image": "",
+      "summary": "我一定会回来……吗？小手用户与 iPhone 17 Pro Max 的一年",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-068249d7fd6c",
       "title": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
       "source": "少数派热榜",
@@ -1142,7 +1202,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-f1d97bea49f2",
+      "id": "newsnow-1813fb48ca34",
       "title": "你们经常换手机的人嘴真严",
       "source": "微博热搜",
       "brand": "行业",
@@ -1152,51 +1212,11 @@ window.phoneRadarAuto = {
       "date": "2026-09-12",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BB%AC%E7%BB%8F%E5%B8%B8%E6%8D%A2%E6%89%8B%E6%9C%BA%E7%9A%84%E4%BA%BA%E5%98%B4%E7%9C%9F%E4%B8%A5%23&t=31&band_rank=1&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BB%AC%E7%BB%8F%E5%B8%B8%E6%8D%A2%E6%89%8B%E6%9C%BA%E7%9A%84%E4%BA%BA%E5%98%B4%E7%9C%9F%E4%B8%A5%23&t=31&band_rank=21&Refer=top",
       "image": "",
       "summary": "你们经常换手机的人嘴真严",
       "tags": [
         "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-85c1fd011c51",
-      "title": "iPhone18扣款成功仍等待付款",
-      "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-09-12",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=iPhone18%E6%89%A3%E6%AC%BE%E6%88%90%E5%8A%9F%E4%BB%8D%E7%AD%89%E5%BE%85%E4%BB%98%E6%AC%BE&t=31&band_rank=13&Refer=top",
-      "image": "",
-      "summary": "iPhone18扣款成功仍等待付款",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-1037a673099b",
-      "title": "iPhone18Pro系列抢购火爆",
-      "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-09-12",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=iPhone18Pro%E7%B3%BB%E5%88%97%E6%8A%A2%E8%B4%AD%E7%81%AB%E7%88%86&t=31&band_rank=23&Refer=top",
-      "image": "",
-      "summary": "iPhone18Pro系列抢购火爆",
-      "tags": [
-        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -1222,26 +1242,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-26c196a44bfb",
-      "title": "iPhone Duo炒到9万 黄牛贷款百万囤货",
-      "source": "今日头条热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-12",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7684612108125736484/",
-      "image": "",
-      "summary": "iPhone Duo炒到9万 黄牛贷款百万囤货",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-cf6b06b40dd2",
       "title": "iPhone 18 Pro系列开售秒售罄",
       "source": "今日头条热榜",
@@ -1262,9 +1262,9 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-6ff1d3c7fc4f",
-      "title": "iPhone Duo炒到9万 黄牛贷款欲囤货",
-      "source": "百度热搜",
+      "id": "newsnow-26c196a44bfb",
+      "title": "iPhone Duo炒到9万 黄牛贷款百万囤货",
+      "source": "今日头条热榜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
       "type": "爆料",
@@ -1272,9 +1272,29 @@ window.phoneRadarAuto = {
       "date": "2026-09-12",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=iPhone+Duo%E7%82%92%E5%88%B09%E4%B8%87+%E9%BB%84%E7%89%9B%E8%B4%B7%E6%AC%BE%E6%AC%B2%E5%9B%A4%E8%B4%A7",
+      "url": "https://www.toutiao.com/trending/7684612108125736484/",
       "image": "",
-      "summary": "iPhone Duo炒到9万 黄牛贷款欲囤货",
+      "summary": "iPhone Duo炒到9万 黄牛贷款百万囤货",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-7e01b60e8057",
+      "title": "iPhone折叠屏为何命名为Duo",
+      "source": "今日头条热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-12",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7684538937569709594/",
+      "image": "",
+      "summary": "iPhone折叠屏为何命名为Duo",
       "tags": [
         "iPhone",
         "爆料",
@@ -1322,21 +1342,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-8a155adfe978",
-      "title": "孩子到底多大可以有手机",
+      "id": "newsnow-6ff1d3c7fc4f",
+      "title": "iPhone Duo炒到9万 黄牛贷款欲囤货",
       "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-09-12",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E5%88%B0%E5%BA%95%E5%A4%9A%E5%A4%A7%E5%8F%AF%E4%BB%A5%E6%9C%89%E6%89%8B%E6%9C%BA",
+      "url": "https://www.baidu.com/s?wd=iPhone+Duo%E7%82%92%E5%88%B09%E4%B8%87+%E9%BB%84%E7%89%9B%E8%B4%B7%E6%AC%BE%E6%AC%B2%E5%9B%A4%E8%B4%A7",
       "image": "",
-      "summary": "孩子到底多大可以有手机",
+      "summary": "iPhone Duo炒到9万 黄牛贷款欲囤货",
       "tags": [
-        "行业",
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -2019,26 +2039,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-5ae42b6629f9",
-      "title": "Apple to Pay $250 Per iPhone Duo Foldable Display in Samsung Deal",
-      "source": "MacRumors",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-11",
-      "time": "10:10",
-      "publishedAt": "2026-09-11T10:10:39.000Z",
-      "url": "https://www.macrumors.com/2026/09/11/apple-pay-250-dollars-iphone-duo-display-samsung/",
-      "image": "https://images.macrumors.com/article-new/2026/09/iphone-duo-cover-glass.jpg",
-      "summary": "Samsung Display has signed a three-year exclusive supply agreement with Apple to provide foldable display panels for the iPhone Duo and future models, reports Chinese leaker Insta…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
