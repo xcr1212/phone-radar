@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-12T12:09:52.298Z",
+  "updatedAt": "2026-09-12T15:30:50.088Z",
   "news": [
     {
       "id": "weibo-81593d23eb45",
@@ -10,8 +10,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-12",
-      "time": "12:09",
-      "publishedAt": "2026-09-12T12:09:52.298Z",
+      "time": "15:30",
+      "publishedAt": "2026-09-12T15:30:50.088Z",
       "url": "https://weibo.com/6048569942/RhLE82Cdc",
       "image": "",
       "summary": "9月标准版的影像大乱斗： ①50Mp 1/1.28\"主摄+50Mp超广角+64Mp 1/2\"潜望长焦(中屏天玑3nm) ②200Mp 1/1.4\"主摄+50Mp超广角+200Mp 1/1.56\"潜望长焦(中屏天玑3nm) ③200Mp 1/1.4\"主摄+50Mp超广角+200Mp 1/1.56\"潜望长焦(小屏骁龙3nm)",
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-12",
-      "time": "12:09",
-      "publishedAt": "2026-09-12T12:09:52.298Z",
+      "time": "15:30",
+      "publishedAt": "2026-09-12T15:30:50.088Z",
       "url": "https://weibo.com/6048569942/RhJVkhckv",
       "image": "",
       "summary": "目前已锁定的手机发布会档期： 9.21 vivo X500系列，9.22有新品发布会，9.23有新品发布会，9.28 荣耀Magic9系列，9.29有新品发布会。你们自己猜吧，反正就那几家[doge]",
@@ -50,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-12",
-      "time": "12:09",
-      "publishedAt": "2026-09-12T12:09:52.298Z",
+      "time": "15:30",
+      "publishedAt": "2026-09-12T15:30:50.088Z",
       "url": "https://weibo.com/6048569942/RhJ0XhVBA",
       "image": "",
       "summary": "华为Mate90系列有镜头膜流出了，M90/90 Pro/90 Pro Max都是星环设计，M90 RS是八边形，疑似调整为全系三摄+单潜望长焦，此方案我之前也提过……[笑而不语]",
@@ -70,8 +70,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-12",
-      "time": "12:09",
-      "publishedAt": "2026-09-12T12:09:52.298Z",
+      "time": "15:30",
+      "publishedAt": "2026-09-12T15:30:50.088Z",
       "url": "https://weibo.com/6048569942/RhBOGvMdc",
       "image": "",
       "summary": "下周开始，史上最密集的新机发布周期就要拉开帷幕了 先给大家做个心理建设，接下来的9月新机，涨价比苹果只多不少",
@@ -90,8 +90,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-12",
-      "time": "12:09",
-      "publishedAt": "2026-09-12T12:09:52.298Z",
+      "time": "15:30",
+      "publishedAt": "2026-09-12T15:30:50.088Z",
       "url": "https://weibo.com/6048569942/RhBrkq4si",
       "image": "",
       "summary": "Find X10——200Mp F1.6大底主摄+200Mp F2.6大底潜望长焦，8000mAh+80W+50W，0.99mm极窄四等边中屏，支持哈苏增距镜 Find X10 PM——200Mp F1.5超大底高动态主摄+200Mp 13mm大底超广角+200Mp F2.1大底潜望长焦，支持10cm长焦微距，8000mAh+80W+50W，2nm天玑96…",
@@ -110,8 +110,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-12",
-      "time": "12:09",
-      "publishedAt": "2026-09-12T12:09:52.298Z",
+      "time": "15:30",
+      "publishedAt": "2026-09-12T15:30:50.088Z",
       "url": "https://weibo.com/6048569942/RhAggvkS4",
       "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIly1igzgjb2uhwj31o02seh8b.jpg",
       "summary": "Magic9——6.37\"1.5K小直屏，8K级大电池，200Mp 1/1.4\"大底主摄+50Mp超广角+200Mp 1/1.56\"大底潜望长焦，3D超声波指纹，喜欢吗[二哈]",
@@ -130,8 +130,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-12",
-      "time": "12:09",
-      "publishedAt": "2026-09-12T12:09:52.298Z",
+      "time": "15:30",
+      "publishedAt": "2026-09-12T15:30:50.088Z",
       "url": "https://weibo.com/6048569942/RhzFu7fMb",
       "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIly1igzgcdy4a5j3396263npe.jpg",
       "summary": "iQOO16，这设计感受一下：",
@@ -139,6 +139,126 @@ window.phoneRadarAuto = {
         "vivo",
         "爆料",
         "微博"
+      ]
+    },
+    {
+      "id": "auto-77c84ec9fb25",
+      "title": "荣耀公布 SmallRia 专业视频拓展套件：适配 Magic9 Pro Max，9 月 28 日发布",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-12",
+      "time": "15:17",
+      "publishedAt": "2026-09-12T15:17:55.000Z",
+      "url": "https://www.ithome.com/1/001/657.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/ad2788ec-6f19-4dad-a381-2967c8dc5535.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 12 日消息，荣耀今日公布 SmallRia 专业视频拓展套件，适配荣耀 Magic9 Pro Max，将于 9 月 28 日发布。 据官方介绍，荣耀 Magic9 Pro Max 支持阿莱电影模式，拥有阿莱 LogC3 视频管线、电影级枪麦收音、峰值对焦、伪色监看。搭配专业视频拓展套件，轻松应对复杂场景。超清双两亿，掌中电影机。 荣耀…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-b39edfc9bd06",
+      "title": "竹本青：【消息称国产折叠屏将学习 iPhone Duo 开合透视动画】 9月12日，博主数码闲聊站爆料称，国产折叠屏机型将…",
+      "source": "竹本青",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-12",
+      "time": "14:46",
+      "publishedAt": "2026-09-12T14:46:40.000Z",
+      "url": "https://www.coolapk.com/feed/73720996",
+      "image": "http://image.coolapk.com/feed/2026/0912/23/4248714_f7a349ab_5930_1207_175-livepic@2160x2160.jpg",
+      "summary": "【消息称国产折叠屏将学习 iPhone Duo 开合透视动画】 9月12日，博主数码闲聊站爆料称，国产折叠屏机型将学习跟进 iPhone Duo 折叠屏的开合透视动画效果，现已创建相关文件夹。 据悉，该动画于9月10日的苹果秋季发布会上首次亮相，在 iPhone Duo 开合屏幕时，可实现更加丝滑连贯的画面过渡。“在两块屏之间切换时，软件会优雅地从外屏扩展…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-310a02b062f3",
+      "title": "Didn't Pre-Order iPhone 18 Pro Yet? Here's How Long the Wait is Now",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-12",
+      "time": "13:48",
+      "publishedAt": "2026-09-12T13:48:45.000Z",
+      "url": "https://www.macrumors.com/2026/09/12/iphone-18-pro-max-pre-order-shipping-dates/",
+      "image": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-Black.jpg",
+      "summary": "iPhone 18 Pro and iPhone 18 Pro Max pre-orders began today in the U.S. and many other countries. If you have yet to place a pre-order on Apple's online store, you might face a lon…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7044361edf1d",
+      "title": "Best iPhone 18 Pro cases now available for purchase",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-12",
+      "time": "13:18",
+      "publishedAt": "2026-09-12T13:18:44.000Z",
+      "url": "https://9to5mac.com/2026/09/12/best-iphone-18-pro-cases-now-available/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Best-iPhone-18-Pro-case-now-available-for-purchase.jpg?quality=82&strip=all&w=1600",
+      "summary": "It is time to take a look at the best new iPhone 18 Pro cases. Pre-orders for Apple’s latest just went live this morning and many of the best brands are now ready. Apple has a new…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9a261ad03d0a",
+      "title": "Counterpoint 预测：2026-2030 年折叠屏手机面板出货将增长 74%",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-12",
+      "time": "12:46",
+      "publishedAt": "2026-09-12T12:46:23.000Z",
+      "url": "https://www.ithome.com/1/001/639.htm",
+      "image": "",
+      "summary": "IT之家 9 月 12 日消息，根据 Counterpoint 最新报告，预计 2026 年至 2030 年，折叠屏智能手机面板出货量将增长 74%，对应约 15% 的复合年增长率（CAGR）。 增长将日益集中于大折叠和多折叠产品 。 该机构称，预计 2026 年至 2030 年，大折叠面板出货量将增长 79%，份额由 81% 升至 84%；多折叠面板出货…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9efe4b414161",
+      "title": "Hands-on: Dbrand’s MNML Pixel 11 Pro cases are simply good, and that’s the point [Gallery]",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-12",
+      "time": "12:30",
+      "publishedAt": "2026-09-12T12:30:00.000Z",
+      "url": "https://9to5google.com/2026/09/12/dbrand-mnml-pixel-11-pro-hands-on/",
+      "image": "",
+      "summary": "Dbrand is definitely best-known for its flashy skins and bombastic personality, but the company is now launching a more subtle brand in “MNML,” aiming to offer dead-simple cases t…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -155,6 +275,26 @@ window.phoneRadarAuto = {
       "url": "https://9to5mac.com/2026/09/12/you-can-now-pre-order-iphone-18-pro-and-iphone-18-pro-max/",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-lineup.jpg?quality=82&strip=all&w=1600",
       "summary": "The new iPhone 18 Pro and iPhone 18 Pro Max are now available to pre-order . Apple announced the new phones on Wednesday, highlighting a variable aperture camera system, a smaller…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7d211aaf55f4",
+      "title": "Here Are The Best Carrier Deals You Can Get When Pre-Ordering iPhone 18 Pro Today",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-12",
+      "time": "12:00",
+      "publishedAt": "2026-09-12T12:00:00.000Z",
+      "url": "https://www.macrumors.com/2026/09/12/best-carrier-deals-iphone-18-pro/",
+      "image": "https://images.macrumors.com/article-new/2026/09/iphone-18-pro-burgundy-1.jpg",
+      "summary": "Apple today launched pre-orders for the iPhone 18 Pro and iPhone 18 Pro Max . If you're looking to place a pre-order on one of these models at a cellular carrier, we've rounded up…",
       "tags": [
         "iPhone",
         "爆料",
@@ -642,26 +782,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-f2d0a7b2e087",
-      "title": "vivo 首发「百度地图双端同步显示」功能，目的地、路线随时查看和修改",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-12",
-      "time": "06:49",
-      "publishedAt": "2026-09-12T06:49:22.000Z",
-      "url": "https://www.ithome.com/1/001/575.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/7ac7a565-99f9-4140-80b4-7c3854a5abb3.png",
-      "summary": "IT之家 9 月 12 日消息，vivo OriginOS 今日官宣首发「百度地图双端同步显示」功能，手机端发起导航后， vivo 智能车载车机端实时同步 ，目的地、路线信息两端都能随时查看和修改。 IT之家注意到， 2026 vivo 开发者大会将于 9 月 16 日举行 ，届时将发布 OriginOS 7。据官方最新预热，OriginOS 7 搭载全新…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-862250a57c6c",
       "title": "Apple Store Down Ahead of iPhone 18 Pro Pre-Orders",
       "source": "MacRumors",
@@ -697,26 +817,6 @@ window.phoneRadarAuto = {
       "summary": "Apple has launched its first foldable phone on the market, named iPhone Duo, and it seems the company has developed this creation because of Huawei, Samsung, and other folding han…",
       "tags": [
         "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-6ca6ce50cc9a",
-      "title": "苹果官网 Apple Store 维护，iPhone 18 Pro 系列今晚开启预购",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-12",
-      "time": "06:28",
-      "publishedAt": "2026-09-12T06:28:37.000Z",
-      "url": "https://www.ithome.com/1/001/571.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/8a71efa7-40e8-4aa5-afa1-a00330aa270c.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 12 日消息，苹果 iPhone 18 Pro/Pro Max 手机今晚 8 点开启预购，目前苹果官网 Apple Store 已开始维护，提示：“即将与你见面。 北京时间晚 8 点接受预购 。 一会儿见。 ” 苹果在 2026 年秋季发布会上 发布了 iPhone 18 Pro 系列手机 ，其中 iPhone 18 Pro 起售价 9,…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -779,26 +879,6 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-7e509a69c0a8",
-      "title": "竹本青：华为MatePad Air 2026系列 开售：4499元起",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-12",
-      "time": "03:22",
-      "publishedAt": "2026-09-12T03:22:41.000Z",
-      "url": "https://www.coolapk.com/feed/73709474",
-      "image": "http://image.coolapk.com/feed/2026/0912/11/4248714_d5788d60_3355_3678_308@1400x4952.jpg",
-      "summary": "【华为MatePad Air 2026系列 今日开售：麒麟T93B/C，12英寸OLED，4499元起】 悦享款（麒麟T93C） 8GB+256GB —— 4499元 12GB+256GB —— 4999元 12GB+512GB —— 5999元 标准版（麒麟T93B） 12GB+256GB —— 5299元 12GB+512GB —— 6299元 柔光版…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -922,6 +1002,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-5b8017bdc728",
+      "title": "以前我一直不知道，原来钟文泽是这么双标的人[笑哭]，虽然我一直就不看所有测评，但是那几个头部的 UP 主还是知道的，我一直以为他们起码基本的公正还是有的 #华为PuraXMax# #小米18Fold#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-12",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73708922",
+      "image": "",
+      "summary": "以前我一直不知道，原来钟文泽是这么双标的人[笑哭]，虽然我一直就不看所有测评，但是那几个头部的 UP 主还是知道的，我一直以为他们起码基本的公正还是有的 #华为PuraXMax# #小米18Fold#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-d52f05666d99",
       "title": "#小米18Fold# 终于拿到了，前puraX机主，不当🐵不当🐶，只分享主观体验。引战的，尤其是id头像就带节奏的闲人见一只杀一只噢。",
       "source": "酷安热榜",
@@ -957,26 +1057,6 @@ window.phoneRadarAuto = {
       "summary": "9月旗舰大战正式打响，华为、小米、苹果接连亮出重磅新品，全新比例折叠屏成为正面交锋的新战场；与此同时，vivo、iQOO、荣耀、红魔等新机也密集预热，手机圈进入全年最热闹的一轮新品潮。",
       "tags": [
         "HONOR",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-5b8017bdc728",
-      "title": "以前我一直不知道，原来钟文泽是这么双标的人[笑哭]，虽然我一直就不看所有测评，但是那几个头部的 UP 主还是知道的，我一直以为他们起码基本的公正还是有的 #华为PuraXMax# #小米18Fold#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-12",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73708922",
-      "image": "",
-      "summary": "以前我一直不知道，原来钟文泽是这么双标的人[笑哭]，虽然我一直就不看所有测评，但是那几个头部的 UP 主还是知道的，我一直以为他们起码基本的公正还是有的 #华为PuraXMax# #小米18Fold#",
-      "tags": [
-        "Huawei",
         "爆料",
         "NewsNow"
       ]
@@ -1062,8 +1142,28 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-fb108b5beafe",
-      "title": "iPhoneDuo溢价至79999元",
+      "id": "newsnow-f1d97bea49f2",
+      "title": "你们经常换手机的人嘴真严",
+      "source": "微博热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-09-12",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BB%AC%E7%BB%8F%E5%B8%B8%E6%8D%A2%E6%89%8B%E6%9C%BA%E7%9A%84%E4%BA%BA%E5%98%B4%E7%9C%9F%E4%B8%A5%23&t=31&band_rank=1&Refer=top",
+      "image": "",
+      "summary": "你们经常换手机的人嘴真严",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-85c1fd011c51",
+      "title": "iPhone18扣款成功仍等待付款",
       "source": "微博热搜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -1072,9 +1172,9 @@ window.phoneRadarAuto = {
       "date": "2026-09-12",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhoneDuo%E6%BA%A2%E4%BB%B7%E8%87%B379999%E5%85%83%23&t=31&band_rank=27&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=iPhone18%E6%89%A3%E6%AC%BE%E6%88%90%E5%8A%9F%E4%BB%8D%E7%AD%89%E5%BE%85%E4%BB%98%E6%AC%BE&t=31&band_rank=13&Refer=top",
       "image": "",
-      "summary": "iPhoneDuo溢价至79999元",
+      "summary": "iPhone18扣款成功仍等待付款",
       "tags": [
         "iPhone",
         "爆料",
@@ -1082,8 +1182,28 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-5a07bb3f4778",
-      "title": "苹果多款老机型涨价，iPhone 17 涨价 800 元，为什么新机发布，旧款不降价反而涨价？",
+      "id": "newsnow-1037a673099b",
+      "title": "iPhone18Pro系列抢购火爆",
+      "source": "微博热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-09-12",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=iPhone18Pro%E7%B3%BB%E5%88%97%E6%8A%A2%E8%B4%AD%E7%81%AB%E7%88%86&t=31&band_rank=23&Refer=top",
+      "image": "",
+      "summary": "iPhone18Pro系列抢购火爆",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-2bbc36604c21",
+      "title": "苹果高管称折叠屏比例泄密很遗憾，竞争对手拿到了屏幕比例，泄密为何难以防范？将对行业造成哪些影响？",
       "source": "知乎热榜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -1092,12 +1212,112 @@ window.phoneRadarAuto = {
       "date": "2026-09-12",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2081313765153420462",
+      "url": "https://www.zhihu.com/question/2081904462331908716",
       "image": "",
-      "summary": "苹果多款老机型涨价，iPhone 17 涨价 800 元，为什么新机发布，旧款不降价反而涨价？",
+      "summary": "苹果高管称折叠屏比例泄密很遗憾，竞争对手拿到了屏幕比例，泄密为何难以防范？将对行业造成哪些影响？",
       "tags": [
         "iPhone",
         "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-26c196a44bfb",
+      "title": "iPhone Duo炒到9万 黄牛贷款百万囤货",
+      "source": "今日头条热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-12",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7684612108125736484/",
+      "image": "",
+      "summary": "iPhone Duo炒到9万 黄牛贷款百万囤货",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-cf6b06b40dd2",
+      "title": "iPhone 18 Pro系列开售秒售罄",
+      "source": "今日头条热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-12",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7683703221018607652/",
+      "image": "",
+      "summary": "iPhone 18 Pro系列开售秒售罄",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-6ff1d3c7fc4f",
+      "title": "iPhone Duo炒到9万 黄牛贷款欲囤货",
+      "source": "百度热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-12",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=iPhone+Duo%E7%82%92%E5%88%B09%E4%B8%87+%E9%BB%84%E7%89%9B%E8%B4%B7%E6%AC%BE%E6%AC%B2%E5%9B%A4%E8%B4%A7",
+      "image": "",
+      "summary": "iPhone Duo炒到9万 黄牛贷款欲囤货",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-a6f5b447c338",
+      "title": "iPhone18Pro以旧换新政策",
+      "source": "百度热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-12",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=iPhone18Pro%E4%BB%A5%E6%97%A7%E6%8D%A2%E6%96%B0%E6%94%BF%E7%AD%96",
+      "image": "",
+      "summary": "iPhone18Pro以旧换新政策",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-bfc8cc34ffe9",
+      "title": "iPhone 18 Pro系列开售秒售罄",
+      "source": "百度热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-12",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=iPhone+18+Pro%E7%B3%BB%E5%88%97%E5%BC%80%E5%94%AE%E7%A7%92%E5%94%AE%E7%BD%84",
+      "image": "",
+      "summary": "iPhone 18 Pro系列开售秒售罄",
+      "tags": [
+        "iPhone",
+        "爆料",
         "NewsNow"
       ]
     },
@@ -1257,26 +1477,6 @@ window.phoneRadarAuto = {
       "summary": "iPhone 18 Pro and iPhone 18 Pro Max pre-orders begin this Saturday, September 12 at 5 a.m. Pacific Time. Apple allows you to prepare for your pre-order early. Simply look for the…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5e4ae97773b9",
-      "title": "Apple prepares to steal the foldable revolution that Samsung started",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-11",
-      "time": "19:07",
-      "publishedAt": "2026-09-11T19:07:02.000Z",
-      "url": "https://www.androidpolice.com/apple-prepares-to-steal-the-foldable-revolution-that-samsung-started/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/09/samsung-galaxy-z-fold-8-iphone-duo-and-huawei-pura-max-foldable-phones-shown-together.png",
-      "summary": "The iPhone Duo enters the market at the right time",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -1650,10 +1850,10 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-09-11",
-      "time": "12:44",
-      "publishedAt": "2026-09-11T12:44:03.000Z",
+      "time": "12:43",
+      "publishedAt": "2026-09-11T12:43:53.000Z",
       "url": "https://www.macrumors.com/2026/09/11/upgrade-to-iphone-18-pro-from-iphone-17-pro/",
-      "image": "https://images.macrumors.com/article-new/2026/09/What-Upgrading-to-iPhone-18-Pro-From-iPhone-17-Pro-Gets-You-Feature.jpg",
+      "image": "https://images.macrumors.com/article-new/2026/09/What-Upgrading-to-iPhone-18-Pro-From-iPhone-17-Pro-Gets-You-Feature-2-1.jpg",
       "summary": "Apple's new iPhone 18 Pro and iPhone 18 Pro Max largely build on last year's models with a series of targeted upgrades rather than a major redesign. The most notable changes dial…",
       "tags": [
         "iPhone",
@@ -2195,26 +2395,6 @@ window.phoneRadarAuto = {
       "url": "https://9to5mac.com/2026/09/10/apple-extends-free-iphone-satellite-access-for-another-year/",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/10/iPhone-satellite.jpg?quality=82&strip=all&w=1600",
       "summary": "Apple is extending free access to its satellite features for existing iPhone users for another year, the company revealed in a footnote to its iPhone 18 Pro press release. Here ar…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ab00aa3c0725",
-      "title": "T-Mobile will charge $5/month for Apple’s new iPhone Handoff feature",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-11",
-      "time": "00:28",
-      "publishedAt": "2026-09-11T00:28:45.000Z",
-      "url": "https://9to5mac.com/2026/09/10/t-mobile-will-charge-5-month-for-apples-new-iphone-handoff-feature/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/IMG_0012.jpeg?quality=82&strip=all&w=1600",
-      "summary": "Apple’s new iPhone Handoff feature, which lets users share a single phone number across two iPhones, will cost $5 per month on T-Mobile. Here are the details. more…",
       "tags": [
         "iPhone",
         "爆料",
