@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-13T11:50:33.562Z",
+  "updatedAt": "2026-09-13T16:15:40.810Z",
   "news": [
     {
       "id": "weibo-81593d23eb45",
@@ -10,8 +10,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-13",
-      "time": "11:50",
-      "publishedAt": "2026-09-13T11:50:33.562Z",
+      "time": "16:15",
+      "publishedAt": "2026-09-13T16:15:40.810Z",
       "url": "https://weibo.com/6048569942/RhLE82Cdc",
       "image": "",
       "summary": "9月标准版的影像大乱斗： ①50Mp 1/1.28\"主摄+50Mp超广角+64Mp 1/2\"潜望长焦(中屏天玑3nm) ②200Mp 1/1.4\"主摄+50Mp超广角+200Mp 1/1.56\"潜望长焦(中屏天玑3nm) ③200Mp 1/1.4\"主摄+50Mp超广角+200Mp 1/1.56\"潜望长焦(小屏骁龙3nm)",
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-13",
-      "time": "11:50",
-      "publishedAt": "2026-09-13T11:50:33.562Z",
+      "time": "16:15",
+      "publishedAt": "2026-09-13T16:15:40.810Z",
       "url": "https://weibo.com/6048569942/RhJVkhckv",
       "image": "",
       "summary": "目前已锁定的手机发布会档期： 9.21 vivo X500系列，9.22有新品发布会，9.23有新品发布会，9.28 荣耀Magic9系列，9.29有新品发布会。你们自己猜吧，反正就那几家[doge]",
@@ -50,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-13",
-      "time": "11:50",
-      "publishedAt": "2026-09-13T11:50:33.562Z",
+      "time": "16:15",
+      "publishedAt": "2026-09-13T16:15:40.810Z",
       "url": "https://weibo.com/6048569942/RhJ0XhVBA",
       "image": "",
       "summary": "华为Mate90系列有镜头膜流出了，M90/90 Pro/90 Pro Max都是星环设计，M90 RS是八边形，疑似调整为全系三摄+单潜望长焦，此方案我之前也提过……[笑而不语]",
@@ -70,8 +70,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-13",
-      "time": "11:50",
-      "publishedAt": "2026-09-13T11:50:33.562Z",
+      "time": "16:15",
+      "publishedAt": "2026-09-13T16:15:40.810Z",
       "url": "https://weibo.com/6048569942/RhBOGvMdc",
       "image": "",
       "summary": "下周开始，史上最密集的新机发布周期就要拉开帷幕了 先给大家做个心理建设，接下来的9月新机，涨价比苹果只多不少",
@@ -90,8 +90,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-13",
-      "time": "11:50",
-      "publishedAt": "2026-09-13T11:50:33.562Z",
+      "time": "16:15",
+      "publishedAt": "2026-09-13T16:15:40.810Z",
       "url": "https://weibo.com/6048569942/RhBrkq4si",
       "image": "",
       "summary": "Find X10——200Mp F1.6大底主摄+200Mp F2.6大底潜望长焦，8000mAh+80W+50W，0.99mm极窄四等边中屏，支持哈苏增距镜 Find X10 PM——200Mp F1.5超大底高动态主摄+200Mp 13mm大底超广角+200Mp F2.1大底潜望长焦，支持10cm长焦微距，8000mAh+80W+50W，2nm天玑96…",
@@ -110,8 +110,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-13",
-      "time": "11:50",
-      "publishedAt": "2026-09-13T11:50:33.562Z",
+      "time": "16:15",
+      "publishedAt": "2026-09-13T16:15:40.810Z",
       "url": "https://weibo.com/6048569942/RhAggvkS4",
       "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIly1igzgjb2uhwj31o02seh8b.jpg",
       "summary": "Magic9——6.37\"1.5K小直屏，8K级大电池，200Mp 1/1.4\"大底主摄+50Mp超广角+200Mp 1/1.56\"大底潜望长焦，3D超声波指纹，喜欢吗[二哈]",
@@ -130,8 +130,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-13",
-      "time": "11:50",
-      "publishedAt": "2026-09-13T11:50:33.562Z",
+      "time": "16:15",
+      "publishedAt": "2026-09-13T16:15:40.810Z",
       "url": "https://weibo.com/6048569942/RhzFu7fMb",
       "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIly1igzgcdy4a5j3396263npe.jpg",
       "summary": "iQOO16，这设计感受一下：",
@@ -139,6 +139,126 @@ window.phoneRadarAuto = {
         "vivo",
         "爆料",
         "微博"
+      ]
+    },
+    {
+      "id": "auto-94469dde94a7",
+      "title": "中国移动已支持国行 iPhone 18 Pro / Duo 的 eSIM 业务办理",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-13",
+      "time": "15:45",
+      "publishedAt": "2026-09-13T15:45:27.000Z",
+      "url": "https://www.ithome.com/1/001/868.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/6554cd15-38a8-4629-b445-76ea9947652d.png",
+      "summary": "IT之家 9 月 13 日消息，据“中国移动手机俱乐部”，中国移动即日起，已全量支持国行 iPhone 18 Pro、iPhone 18 Pro Max 以及 iPhone Duo 的 eSIM 手机业务办理。该业务目前仅面向中国大陆国行版本手机开放，海外版本暂不支持。建议用户购机前确认终端版本，以免影响 eSIM 业务正常开通与使用。 据悉，用户购买终端…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a535ed5cd9a3",
+      "title": "Apple is designing its own game controllers for iPhone, could be Beats branded",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-13",
+      "time": "14:26",
+      "publishedAt": "2026-09-13T14:26:11.000Z",
+      "url": "https://9to5mac.com/2026/09/13/apple-designing-iphone-game-controller/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-game-controller-backbone.jpg?quality=82&strip=all&w=1600",
+      "summary": "Bloomberg’s Mark Gurman has today corroborated references discovered in macOS beta code that indicated Apple is designing its own game controllers for iPhone. Apple already sells…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-a9cb63240d5b",
+      "title": "竹本青：#鸿蒙7# 麒麟9050 Pro 极客湾测试拼图版",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-13",
+      "time": "14:17",
+      "publishedAt": "2026-09-13T14:17:38.000Z",
+      "url": "https://www.coolapk.com/feed/73737084",
+      "image": "http://image.coolapk.com/feed/2026/0913/22/4248714_feedd97d_9054_2506_78@2216x3741.jpg",
+      "summary": "#鸿蒙7# 麒麟9050 Pro 极客湾测试拼图版",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-a5d076f8334f",
+      "title": "vivo OriginOS 7 预热：全新蓝心小 V 一句话办事，搭载液态动效",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-13",
+      "time": "14:03",
+      "publishedAt": "2026-09-13T14:03:53.000Z",
+      "url": "https://www.ithome.com/1/001/857.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/83300139-c317-47fb-8969-56070c300ec6.jpg",
+      "summary": "IT之家 9 月 13 日消息，2026 vivo 开发者大会将于 9 月 16 日举行，届时将带来 OriginOS 7，即将发布的 vivo X500 系列和 iQOO 16 也将首批搭载。 据 vivo OS 产品副总裁 @vivo周围 介绍，今年 vivo 将推出全新蓝心小 V，带来更强大的 Pro 模式。它是真正懂你、能帮你办事的专属助理，你说一…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5c9811293bd9",
+      "title": "The iPhone Duo didn’t reinvent Android foldables, but I fear the copycats anyway",
+      "source": "9to5Google",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-13",
+      "time": "13:00",
+      "publishedAt": "2026-09-13T13:00:00.000Z",
+      "url": "https://9to5google.com/2026/09/13/iphone-duo-didnt-reinvent-android-foldables/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/iphone-duo-3.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple’s first foldable is here and, shocker , it didn’t exactly reinvent the foldable, but the iPhone Duo did get some of the most important aspects right, and will give the Andro…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f57837547ff6",
+      "title": "中国联通：支持国行所有 eSIM 手机业务办理，针对本月新发布的华为和苹果手机推出尝鲜季活动",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-13",
+      "time": "12:59",
+      "publishedAt": "2026-09-13T12:59:58.000Z",
+      "url": "https://www.ithome.com/1/001/849.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/ea500661-1725-4add-97f3-e98649cb292e.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 13 日消息，中国联通今日宣布， 支持获得入网证的所有品牌、所有型号 eSIM 手机业务办理 ，“支持设备”清单将依据上市首销时间同步更新。 苹果：iPhone Air（型号 A3518）、iPhone 17e（型号 A3635）、iPhone 18 Pro、iPhone 18 Pro Max、iPhone Duo OPPO：Find X…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -282,26 +402,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-735ed6895e80",
-      "title": "荣耀方飞详解 Magic9 系列前置方形画幅摄像头：横拍、竖拍，不再被手机的握持姿势限制",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-13",
-      "time": "07:19",
-      "publishedAt": "2026-09-13T07:19:54.000Z",
-      "url": "https://www.ithome.com/1/001/790.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/e81eab40-b300-4bf6-8cc8-3e445fa0712f.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1",
-      "summary": "IT之家 9 月 13 日消息，荣耀官方今日宣布，Magic9 系列手机将搭载 5500 万像素“灵动之眼”镜头， 安卓首发前置方形视野 ，可带来更舒展的取景空间。 荣耀终端股份有限公司产品线总裁方飞今日发文，详细介绍了 Magic9 系列手机上的这枚前置方形画幅摄像头。其采用安卓首发的前置方形画幅摄像头， 拥有专属 1:1 取景画幅，同时支持 5500…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-f586e0c6a404",
       "title": "竹本青：【荣耀方飞：Magic 9系列 前置镜头拥有 1:1取景画幅，支持92°视野】 ● 安卓首发前置方形镜头 ● 1:…",
       "source": "竹本青",
@@ -322,26 +422,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-4ad678034cb2",
-      "title": "OPPO Find X10 系列手机官宣明天见，搭载全新「哈苏超清原相机」",
-      "source": "IT之家",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-13",
-      "time": "07:04",
-      "publishedAt": "2026-09-13T07:04:47.000Z",
-      "url": "https://www.ithome.com/1/001/763.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/53e91a10-33e4-4f5b-947f-820c083ef311.png",
-      "summary": "IT之家 9 月 13 日消息，OPPO 官方今日发布“为什么我们要反复按下拍摄键？”主题视频，预热了 Find X10 系列手机。 OPPO 官方还宣布，系列新机明天见 。 官方预热视频如下： 据IT之家此前报道，OPPO Find X10 系列手机已开启预约，搭载全新「哈苏超清原相机」。相关页面显示， OPPO Find X10 系列一共有 Find…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-4b56708f7964",
       "title": "Vivo X500 hands-on image reveals new Dimensity 9600M chip",
       "source": "Gizmochina",
@@ -357,26 +437,6 @@ window.phoneRadarAuto = {
       "summary": "Vivo confirmed the standard X500’s camera hardware through a Weibo teaser from earlier this month, and now tipster Panda is Bald has gone hands-on with the phone itself. The image…",
       "tags": [
         "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-3d8a12484fd1",
-      "title": "华为 HarmonyOS 粒子动效适配设备清单调整，Mate 70 Air 等升级 7.0.0.105SP10 版本后支持",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-13",
-      "time": "06:53",
-      "publishedAt": "2026-09-13T06:53:01.000Z",
-      "url": "https://www.ithome.com/1/001/757.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/a1ba8161-448d-4c88-afec-3e2fe1bfc03c.png",
-      "summary": "IT之家 9 月 13 日消息，华为官网近日调整了沉浸光感和粒子动效设备支持清单， Mate 60 系列、Mate X5 系列、Mate XT 系列、Pura 70 系列等目前显示“暂不支持” 。 另外， Mate 70 和 Mate 70 Air 需升级至 HarmonyOS 7.0.0.105SP10 及以上版本支持 ；Pura 90 和 Pura 8…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
@@ -682,6 +742,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-1c14cf347902",
+      "title": "天天抢天天抢，我是抢够了，没事就折磨消费者天天蹲10.08，跑路了[喷]搞个付款排货对华为有这么难吗，买个手机还得天天蹲点抢可真恶心人[喷]抢到了也不是一两天发货，还得等十天半个月多的一个月两个月[斗鸡眼滑稽]#鸿蒙7# #iPhone18ProMax# #华为MateXT2#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-13",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73721376",
+      "image": "",
+      "summary": "天天抢天天抢，我是抢够了，没事就折磨消费者天天蹲10.08，跑路了[喷]搞个付款排货对华为有这么难吗，买个手机还得天天蹲点抢可真恶心人[喷]抢到了也不是一两天发货，还得等十天半个月多的一个月两个月[斗鸡眼滑稽]#鸿蒙7# #iPhone18ProMax# #华为MateXT2#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-50e216d67f07",
       "title": "vivo，你脑子瓦特了吗？老是在X旗舰上安装天玑，天玑摄影偏色你是不知道吗？是不是安骁龙，你怕你那iQOO数字卖不动啊？5000块钱，消费者买一个旗舰，你整个天玑，然后在iQOO数字上装骁龙，然后你又把蔡司给X，不是，你在搞笑吗？想M你很多年了，买了你家三台手机了，真受不了你这破天玑，紫色的花拍出来变蓝色，蓝色拍出来变紫色。你别整这些幺蛾子了，跟小米一样一个旗舰数字，一个性价比红米K得了呗，你生产线铺那么多干什么？5000块钱你让消费者买哪个？买你的X旗舰天玑配蔡司还是买你的iQOO骁龙没蔡司？你们这些厂商把简单的事整复杂，每家一个旗舰一个性价比就完事的事你整6条生产线：X、REON、Y、IQOO数字、NEO、Z，你说你这套打法放十年前我不挑你毛病，现在都2026年了，手机重叠，信息差没了，你还来这套？我真想骂死你，你个臭S～... 查看更多",
       "source": "酷安热榜",
@@ -722,46 +802,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-1c14cf347902",
-      "title": "天天抢天天抢，我是抢够了，没事就折磨消费者天天蹲10.08，跑路了[喷]搞个付款排货对华为有这么难吗，买个手机还得天天蹲点抢可真恶心人[喷]抢到了也不是一两天发货，还得等十天半个月多的一个月两个月[斗鸡眼滑稽]#鸿蒙7# #iPhone18ProMax# #华为MateXT2#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-13",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73721376",
-      "image": "",
-      "summary": "天天抢天天抢，我是抢够了，没事就折磨消费者天天蹲10.08，跑路了[喷]搞个付款排货对华为有这么难吗，买个手机还得天天蹲点抢可真恶心人[喷]抢到了也不是一两天发货，还得等十天半个月多的一个月两个月[斗鸡眼滑稽]#鸿蒙7# #iPhone18ProMax# #华为MateXT2#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-132eb3c0e696",
-      "title": "【消息称国产折叠屏将学习 iPhone Duo 开合透视动画】",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-13",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73720996",
-      "image": "",
-      "summary": "【消息称国产折叠屏将学习 iPhone Duo 开合透视动画】",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-ad5e7d2a6105",
       "title": "一部手机看金砖国家合作前景",
       "source": "B站热搜",
@@ -782,8 +822,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-21ca21440eae",
-      "title": "手机蓝牙别常开 这些窃密手段要警惕",
+      "id": "newsnow-2a453f982e36",
+      "title": "透过服贸会，外资抢抓三大新机遇",
       "source": "今日头条热榜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -792,9 +832,9 @@ window.phoneRadarAuto = {
       "date": "2026-09-13",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7684589029106827273/",
+      "url": "https://www.toutiao.com/trending/7684986203564772910/",
       "image": "",
-      "summary": "手机蓝牙别常开 这些窃密手段要警惕",
+      "summary": "透过服贸会，外资抢抓三大新机遇",
       "tags": [
         "行业",
         "爆料",
@@ -815,6 +855,46 @@ window.phoneRadarAuto = {
       "url": "https://www.toutiao.com/trending/7684220408232542771/",
       "image": "",
       "summary": "iPhone 17大降价",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-3127925e6e4d",
+      "title": "iPhone 17大降价",
+      "source": "百度热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-13",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=iPhone+17%E5%A4%A7%E9%99%8D%E4%BB%B7",
+      "image": "",
+      "summary": "iPhone 17大降价",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-ac1832746e7d",
+      "title": "iPhone Duo研究了些什么",
+      "source": "抖音热点",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-09-13",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.douyin.com/hot/2647589",
+      "image": "",
+      "summary": "iPhone Duo研究了些什么",
       "tags": [
         "iPhone",
         "爆料",
@@ -982,26 +1062,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-2bce7ac6aa1e",
-      "title": "Honor Magic 9/ Super Edition live images leaked in new colors",
-      "source": "Huawei Central",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-12",
-      "time": "11:10",
-      "publishedAt": "2026-09-12T11:10:43.000Z",
-      "url": "https://www.huaweicentral.com/honor-magic-9-super-edition-live-images-leaked-in-new-colors/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/09/Magic9-models.jpg",
-      "summary": "While Honor is busy teasing the Magic 9 Pro Max, some new live images have leaked, revealing the standard and Super Edition models. Interestingly, these flagship smartphones featu…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-94cc9b53090b",
       "title": "Xiaomi launches Redmi A27U 2027 monitor with 4K 120Hz, 90W USB-C & dedicated Apple color mode",
       "source": "Gizmochina",
@@ -1102,46 +1162,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-b310914df425",
-      "title": "Magic 9 series will continue legacy of Honor’s new imaging chip",
-      "source": "Huawei Central",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-12",
-      "time": "09:07",
-      "publishedAt": "2026-09-12T09:07:14.000Z",
-      "url": "https://www.huaweicentral.com/magic-9-series-will-continue-legacy-of-honors-new-imaging-chip/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/07/ARRI-features.jpg",
-      "summary": "Magic 9 series has entered the warm-up stage, and while the company is already teasing the key highlights of this flagship, leaks are also covering significant details; the latest…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9fa24fad46fd",
-      "title": "Huawei MatePad Air, Pura X Max new color variants open for purchase",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-12",
-      "time": "08:49",
-      "publishedAt": "2026-09-12T08:49:17.000Z",
-      "url": "https://www.huaweicentral.com/huawei-matepad-air-pura-x-max-new-color-variants-open-for-purchase/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/MatePad-Air-2026.jpg",
-      "summary": "Huawei MatePad Air and Pura X Max new color variants are now available for sale, and consumers can purchase these devices from the official VMall channel or any authorized e-comme…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-c86627e5eb24",
       "title": "JSCHEN小小狐：『知名博主汇总 9 月安卓旗舰标准版影像规格』 vivo X500（6.59''，天玑 9600M） - 50Mp…",
       "source": "JSCHEN小小狐",
@@ -1159,26 +1179,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-536c1cefa8ef",
-      "title": "Honor Magic 9 series confirmed to feature ARRI Cinema Mode",
-      "source": "Huawei Central",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-12",
-      "time": "07:47",
-      "publishedAt": "2026-09-12T07:47:26.000Z",
-      "url": "https://www.huaweicentral.com/honor-magic-9-series-confirmed-to-feature-arri-cinema-mode/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/09/Cinema-Mode.jpg",
-      "summary": "Honor has dropped another teaser for the Magic 9 series, confirming ARRI Cinema Mode. The company introduced the specific photography feature with the ROBOT PHONE last month and i…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -1242,26 +1242,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-3fc66dff178e",
-      "title": "Apple decided to make a foldable because of Huawei: Report",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-12",
-      "time": "06:30",
-      "publishedAt": "2026-09-12T06:30:30.000Z",
-      "url": "https://www.huaweicentral.com/apple-decided-to-make-a-foldable-because-of-huawei-report/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/06/Pura-X-Max.jpg",
-      "summary": "Apple has launched its first foldable phone on the market, named iPhone Duo, and it seems the company has developed this creation because of Huawei, Samsung, and other folding han…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-dcde4fa97cfa",
       "title": "How to Pre-Order iPhone 18 Pro From Apple and Get the Model You Want on Launch Day",
       "source": "MacRumors",
@@ -1277,26 +1257,6 @@ window.phoneRadarAuto = {
       "summary": "Update : iPhone 18 Pro pre-orders are now live on the Apple Store. Apple unveiled the iPhone 18 Pro and iPhone 18 Pro Max on September 9 at its \"Surprise and shine\" event . If you…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d6459516a8f1",
-      "title": "Huawei Mate 90 series lens arrangement leaked in new image",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-12",
-      "time": "05:28",
-      "publishedAt": "2026-09-12T05:28:45.000Z",
-      "url": "https://www.huaweicentral.com/huawei-mate-90-lens-arrangement/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/09/lens-plate.jpg",
-      "summary": "As we approach the predicted launch timeline of the Huawei Mate 90 series, more interesting leaks are surfacing online, and the latest one shows the lens arrangement of the new fl…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]

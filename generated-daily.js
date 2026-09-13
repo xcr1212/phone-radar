@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-13T11:50:33.562Z",
+  "updatedAt": "2026-09-13T16:15:40.810Z",
   "issueDate": "2026-09-13",
   "issue": "VOL.260913",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 8,
-    "iphone": 6,
+    "total": 12,
+    "iphone": 8,
     "leaks": 8,
-    "official": 0,
+    "official": 1,
     "specs": 0
   },
   "sections": [
@@ -26,8 +26,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-09-13",
-          "time": "11:50",
-          "publishedAt": "2026-09-13T11:50:33.562Z",
+          "time": "16:15",
+          "publishedAt": "2026-09-13T16:15:40.810Z",
           "url": "https://weibo.com/6048569942/RhBOGvMdc",
           "image": "",
           "verdict": "先看",
@@ -41,26 +41,26 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-132eb3c0e696",
-          "title": "【消息称国产折叠屏将学习 iPhone Duo 开合透视动画】",
+          "id": "auto-a535ed5cd9a3",
+          "title": "iPhone 外观设计线索曝光",
           "originalTitle": "",
-          "source": "酷安热榜",
+          "source": "9to5Mac",
           "brand": "iPhone",
           "type": "爆料",
-          "trust": "高关注爆料源",
+          "trust": "媒体汇总",
           "date": "2026-09-13",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73720996",
-          "image": "",
+          "time": "14:26",
+          "publishedAt": "2026-09-13T14:26:11.000Z",
+          "url": "https://9to5mac.com/2026/09/13/apple-designing-iphone-game-controller/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-game-controller-backbone.jpg?quality=82&strip=all&w=1600",
           "verdict": "先看",
-          "takeaway": "【消息称国产折叠屏将学习 iPhone Duo 开合透视动画】",
-          "detail": "【消息称国产折叠屏将学习 iPhone Duo 开合透视动画】",
+          "takeaway": "iPhone 外观设计线索曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
+          "detail": "iPhone 外观设计线索曝光。这类内容主要看外观设计、按键布局、相机模组和尺寸变化，后续最好等更多渲染图或保护壳线索互相验证。",
           "keyPoints": [
-            "屏幕形态",
+            "外观 / 配色 / 尺寸",
             "爆料来源"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -201,6 +201,119 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        }
+      ]
+    },
+    {
+      "id": "iphone",
+      "title": "iPhone 重点",
+      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
+      "items": [
+        {
+          "id": "auto-94469dde94a7",
+          "title": "中国移动已支持国行 iPhone 18 Pro / Duo 的 eSIM 业务办理",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-13",
+          "time": "15:45",
+          "publishedAt": "2026-09-13T15:45:27.000Z",
+          "url": "https://www.ithome.com/1/001/868.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/6554cd15-38a8-4629-b445-76ea9947652d.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 9 月 13 日消息，据“中国移动手机俱乐部”，中国移动即日起，已全量支持国行 iPhone 18 Pro、iPhone 18 Pro Max 以及 iPhone Duo 的 eSIM 手机业务办理。该业务目前仅面向中国大陆国行版本手机开放，海外版本暂不支持。建议用户购机前确认终端版本，以免影响 eSIM 业务正常开通与使用。 据悉，用户购买终端…",
+          "detail": "IT之家 9 月 13 日消息，据“中国移动手机俱乐部”，中国移动即日起，已全量支持国行 iPhone 18 Pro、iPhone 18 Pro Max 以及 iPhone Duo 的 eSIM 手机业务办理。该业务目前仅面向中国大陆国行版本手机开放，海外版本暂不支持。建议用户购机前确认终端版本，以免影响 eSIM 业务正常开通与使用。 据悉，用户购买终端…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
+          "id": "auto-728bbee10ddb",
+          "title": "iPhone 发布 / 上市相关消息",
+          "originalTitle": "",
+          "source": "Apple Newsroom",
+          "brand": "iPhone",
+          "type": "官方",
+          "trust": "官方确认",
+          "date": "2026-09-13",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone 有发布或新功能消息，适合确认是否和新机有关。",
+          "detail": "iPhone 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "官方"
+          ],
+          "confidence": "官方内容，可直接作为已确认信息记录。",
+          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "launch",
+      "title": "新机与官方发布",
+      "hint": "能直接更新到参数库。",
+      "items": [
+        {
+          "id": "auto-f57837547ff6",
+          "title": "中国联通：支持国行所有 eSIM 手机业务办理，针对本月新发布的华为和苹果手机推出尝鲜季活动",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-13",
+          "time": "12:59",
+          "publishedAt": "2026-09-13T12:59:58.000Z",
+          "url": "https://www.ithome.com/1/001/849.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/ea500661-1725-4add-97f3-e98649cb292e.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 9 月 13 日消息，中国联通今日宣布， 支持获得入网证的所有品牌、所有型号 eSIM 手机业务办理 ，“支持设备”清单将依据上市首销时间同步更新。 苹果：iPhone Air（型号 A3518）、iPhone 17e（型号 A3635）、iPhone 18 Pro、iPhone 18 Pro Max、iPhone Duo OPPO：Find X…",
+          "detail": "IT之家 9 月 13 日消息，中国联通今日宣布， 支持获得入网证的所有品牌、所有型号 eSIM 手机业务办理 ，“支持设备”清单将依据上市首销时间同步更新。 苹果：iPhone Air（型号 A3518）、iPhone 17e（型号 A3635）、iPhone 18 Pro、iPhone 18 Pro Max、iPhone Duo OPPO：Find X…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "行业趋势",
+      "hint": "看方向，不急着当购买依据。",
+      "items": [
+        {
+          "id": "newsnow-1c14cf347902",
+          "title": "天天抢天天抢，我是抢够了，没事就折磨消费者天天蹲10.08，跑路了[喷]搞个付款排货对华为有这么难吗，买个手机还得天天蹲点抢可真恶心人[喷]抢到了也不是一两天发货，还得等十天半个月多的一个月两个月[斗鸡眼滑稽]#鸿蒙7# #iPhone18ProMax# #华为MateXT2#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-09-13",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73721376",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "天天抢天天抢，我是抢够了，没事就折磨消费者天天蹲10.08，跑路了[喷]搞个付款排货对华为有这么难吗，买个手机还得天天蹲点抢可真恶心人[喷]抢到了也不是一两天发货，还得等十天半个月多的一个月两个月[斗鸡眼滑稽]#鸿蒙7# #iPhone18ProMax# #华为MateXT2#",
+          "detail": "天天抢天天抢，我是抢够了，没事就折磨消费者天天蹲10.08，跑路了[喷]搞个付款排货对华为有这么难吗，买个手机还得天天蹲点抢可真恶心人[喷]抢到了也不是一两天发货，还得等十天半个月多的一个月两个月[斗鸡眼滑稽]#鸿蒙7# #iPhone18ProMax# #华为MateXT2#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }
