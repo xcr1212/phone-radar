@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-13T04:45:52.028Z",
+  "updatedAt": "2026-09-13T11:50:33.562Z",
   "issueDate": "2026-09-13",
   "issue": "VOL.260913",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
     "total": 8,
-    "iphone": 7,
+    "iphone": 6,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -18,29 +18,6 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "auto-9757e80a72b0",
-          "title": "消息称美版 iPhone 18 Pro Max 搭载高通基带，苹果官网并未明示",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-12",
-          "time": "23:32",
-          "publishedAt": "2026-09-12T23:32:32.000Z",
-          "url": "https://www.ithome.com/1/001/682.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/e055cbce-a6c4-4564-b226-3535329bb687.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 9 月 13 日消息，据科技媒体 MacRumors 昨日报道，美版苹果 iPhone 18 Pro Max 将使用高通基带。作为对比，美国以外的 iPhone 18 Pro Max 均使用 C2 基带。 不过需要注意的是，美国苹果官网并未明确写出这种差异。参数页显示，美版 iPhone 18 Pro 将使用 Apple C2 基带，而 iPho…",
-          "detail": "IT之家 9 月 13 日消息，据科技媒体 MacRumors 昨日报道，美版苹果 iPhone 18 Pro Max 将使用高通基带。作为对比，美国以外的 iPhone 18 Pro Max 均使用 C2 基带。 不过需要注意的是，美国苹果官网并未明确写出这种差异。参数页显示，美版 iPhone 18 Pro 将使用 Apple C2 基带，而 iPho…",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "weibo-e9222a505bce",
           "title": "数码闲聊站：下周开始，史上最密集的新机发布周期就要拉开帷幕了 先给大家做个心理建设，接下来…",
           "originalTitle": "",
@@ -49,8 +26,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-09-13",
-          "time": "04:45",
-          "publishedAt": "2026-09-13T04:45:52.028Z",
+          "time": "11:50",
+          "publishedAt": "2026-09-13T11:50:33.562Z",
           "url": "https://weibo.com/6048569942/RhBOGvMdc",
           "image": "",
           "verdict": "先看",
@@ -82,76 +59,6 @@ window.phoneRadarDaily = {
           "keyPoints": [
             "屏幕形态",
             "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-71a067bc7948",
-          "title": "近日苹果高管在采访中谈折叠屏泄密事件，很不幸被竞争对手搞到了屏幕宽高比。",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-09-13",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73697473",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "近日苹果高管在采访中谈折叠屏泄密事件，很不幸被竞争对手搞到了屏幕宽高比。",
-          "detail": "近日苹果高管在采访中谈折叠屏泄密事件，很不幸被竞争对手搞到了屏幕宽高比。",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-fa5777903350",
-          "title": "三星 Galaxy A08 入门级手机完整规格曝光：Helio G99 + 4G + 64G 售 625 迪拉姆",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-13",
-          "time": "00:06",
-          "publishedAt": "2026-09-13T00:06:51.000Z",
-          "url": "https://www.ithome.com/1/001/692.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/fb25c676-bb01-429e-a230-f10566fcfc4a.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 9 月 13 日消息，外媒 virginmegastore 现已曝光了三星 Galaxy A08 入门级手机的完整规格信息，该机在阿联酋市场定价为 625 迪拉姆 （IT之家注：现汇率约合 1,145 元人民币） 。 该机可选海军蓝、银色、绿色三种配色，提供 IP64 认证，厚度为 8mm，手机正面配备一块 6.7 英寸 HD+ 90Hz LCD…",
-          "detail": "IT之家 9 月 13 日消息，外媒 virginmegastore 现已曝光了三星 Galaxy A08 入门级手机的完整规格信息，该机在阿联酋市场定价为 625 迪拉姆 （IT之家注：现汇率约合 1,145 元人民币） 。 该机可选海军蓝、银色、绿色三种配色，提供 IP64 认证，厚度为 8mm，手机正面配备一块 6.7 英寸 HD+ 90Hz LCD…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-ac5eb79d5acc",
-          "title": "苹果高管称折叠屏比例泄密很遗憾，竞争对手拿到了屏幕比例，泄密为何难以防范？将对行业造成哪些影响？",
-          "originalTitle": "",
-          "source": "知乎热榜",
-          "brand": "iPhone",
-          "type": "市场报告",
-          "trust": "媒体汇总",
-          "date": "2026-09-13",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.zhihu.com/question/2081904462331908716",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "苹果高管称折叠屏比例泄密很遗憾，竞争对手拿到了屏幕比例，泄密为何难以防范？将对行业造成哪些影响？",
-          "detail": "苹果高管称折叠屏比例泄密很遗憾，竞争对手拿到了屏幕比例，泄密为何难以防范？将对行业造成哪些影响？",
-          "keyPoints": [
-            "屏幕形态"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -198,6 +105,98 @@ window.phoneRadarDaily = {
           "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-310a02b062f3",
+          "title": "iPhone 18 Pro 系统功能 / AI 体验相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-12",
+          "time": "13:48",
+          "publishedAt": "2026-09-12T13:48:45.000Z",
+          "url": "https://www.macrumors.com/2026/09/12/iphone-18-pro-max-pre-order-shipping-dates/",
+          "image": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-Black.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "iPhone 18 Pro 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-dcde4fa97cfa",
+          "title": "iPhone 18 Pro 发布 / 上市相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-12",
+          "time": "05:50",
+          "publishedAt": "2026-09-12T05:50:00.000Z",
+          "url": "https://www.macrumors.com/how-to/pre-order-your-iphone-18-pro-from-apple/",
+          "image": "https://images.macrumors.com/article-new/2026/09/Apple-iPhone-18-Pro-color-lineup-16x9-1.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 有发布或新功能消息，适合确认是否和新机有关。",
+          "detail": "iPhone 18 Pro 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-838d65b38b27",
+          "title": "曝三星 Galaxy S27 系列手机升级屏幕发光材料：Pro / Ultra 用 M16、标准版与 Plus 用 M14",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-13",
+          "time": "09:05",
+          "publishedAt": "2026-09-13T09:05:01.000Z",
+          "url": "https://www.ithome.com/1/001/817.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/48283823-5d1e-4554-b1ab-0dc68ddeb43f.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 9 月 13 日消息，据韩媒 ETNews 消息，业内 13 日透露，三星电子与三星显示已敲定在 Galaxy S27 Pro 与 Galaxy S27 Ultra 的 OLED 屏幕上采用代号为“M16”的新型发光材料。 报道称，M16 发光材料已率先应用于本月发布的苹果 iPhone 18 Pro 系列以及上个月上市的谷歌 Pixel 11…",
+          "detail": "IT之家 9 月 13 日消息，据韩媒 ETNews 消息，业内 13 日透露，三星电子与三星显示已敲定在 Galaxy S27 Pro 与 Galaxy S27 Ultra 的 OLED 屏幕上采用代号为“M16”的新型发光材料。 报道称，M16 发光材料已率先应用于本月发布的苹果 iPhone 18 Pro 系列以及上个月上市的谷歌 Pixel 11…",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-ec205c1a413f",
+          "title": "补齐影像遗憾：华为 Pura 90 标准版手机开放 XMAGE 相机水印",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-13",
+          "time": "09:02",
+          "publishedAt": "2026-09-13T09:02:41.000Z",
+          "url": "https://www.ithome.com/1/001/816.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/4/2504ac4b-8070-4ebf-bc2d-29ac6871a28b.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 9 月 13 日消息，今年 4 月，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东正式发布了 Pura 90 系列手机。其中，标准版采用了和 Pro / Pro Max 版本不同的设计。 IT之家实测发现， Pura 90 标准版已开放支持了 XMAGE 相机水印 ，包含悬浮样式和相框样式等，补齐了此前影像方面的遗憾。 作为参考，…",
+          "detail": "IT之家 9 月 13 日消息，今年 4 月，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东正式发布了 Pura 90 系列手机。其中，标准版采用了和 Pro / Pro Max 版本不同的设计。 IT之家实测发现， Pura 90 标准版已开放支持了 XMAGE 相机水印 ，包含悬浮样式和相框样式等，补齐了此前影像方面的遗憾。 作为参考，…",
+          "keyPoints": [
+            "影像硬件"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
