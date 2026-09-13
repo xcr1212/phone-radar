@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-13T18:48:27.780Z",
+  "updatedAt": "2026-09-13T22:23:48.174Z",
   "issueDate": "2026-09-13",
   "issue": "VOL.260913",
   "title": "手机情报日报",
-  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 17 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 12,
-    "iphone": 8,
+    "total": 17,
+    "iphone": 7,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -17,29 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "weibo-e9222a505bce",
-          "title": "数码闲聊站：下周开始，史上最密集的新机发布周期就要拉开帷幕了 先给大家做个心理建设，接下来…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-09-13",
-          "time": "18:48",
-          "publishedAt": "2026-09-13T18:48:27.780Z",
-          "url": "https://weibo.com/6048569942/RhBOGvMdc",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "下周开始，史上最密集的新机发布周期就要拉开帷幕了 先给大家做个心理建设，接下来的9月新机，涨价比苹果只多不少",
-          "detail": "下周开始，史上最密集的新机发布周期就要拉开帷幕了 先给大家做个心理建设，接下来的9月新机，涨价比苹果只多不少",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "auto-8b6c5a92da63",
           "title": "iPhone 相关消息",
@@ -201,6 +178,30 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-50bc7fa63b17",
+          "title": "受内存涨价影响，消息称三星计划下月上调韩国 Galaxy S26 全系售价",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-13",
+          "time": "08:17",
+          "publishedAt": "2026-09-13T08:17:18.000Z",
+          "url": "https://www.ithome.com/1/001/808.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/e7676250-6ab9-4baa-bb3f-499a4af8c133.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 9 月 13 日消息，内存涨价潮几乎波及了所有消费电子产品，消息称三星正考虑下月在韩国本土上调全部 Galaxy S26 系列机型售价。 韩国财经媒体 Hans Economy 报道称，三星计划自 2026 年 10 月 1 日起，在韩国本土上调 Galaxy S26、Galaxy S26+ 以及 Galaxy S26 Ultra 的售价。根据发…",
+          "detail": "IT之家 9 月 13 日消息，内存涨价潮几乎波及了所有消费电子产品，消息称三星正考虑下月在韩国本土上调全部 Galaxy S26 系列机型售价。 韩国财经媒体 Hans Economy 报道称，三星计划自 2026 年 10 月 1 日起，在韩国本土上调 Galaxy S26、Galaxy S26+ 以及 Galaxy S26 Ultra 的售价。根据发…",
+          "keyPoints": [
+            "成本 / 价格",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -284,6 +285,52 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
+          "id": "newsnow-83cf79df5775",
+          "title": "【OPPO Find X10系列官宣本月22日正式发布】",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-09-13",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73738791",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "【OPPO Find X10系列官宣本月22日正式发布】",
+          "detail": "【OPPO Find X10系列官宣本月22日正式发布】",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "coolapk-user-755652671e31",
+          "title": "JSCHEN小小狐：『极客湾发布麒麟 9050 Pro 实测：能效大提升』 测试机型：华为 Mate XT 2 非凡大师 内存规格：4…",
+          "originalTitle": "",
+          "source": "JSCHEN小小狐",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-09-13",
+          "time": "08:48",
+          "publishedAt": "2026-09-13T08:48:21.000Z",
+          "url": "https://www.coolapk.com/feed/73732094",
+          "image": "http://image.coolapk.com/feed/2026/0913/16/4702274_528ecd16_9293_7722_518@1919x4321.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "『极客湾发布麒麟 9050 Pro 实测：能效大提升』 测试机型：华为 Mate XT 2 非凡大师 内存规格：4×16bit LPDDR5X 10667MT/s CPU 超大核： ◇ 整数高频能效表现接近 8 Gen2 X3 超大核 ◇ 浮点高频能效介于 8G2 X3、8G3 X4 之间 ◇ 2.75GHz 同频功耗较 9030 Pro 下降 30% ◇…",
+          "detail": "『极客湾发布麒麟 9050 Pro 实测：能效大提升』 测试机型：华为 Mate XT 2 非凡大师 内存规格：4×16bit LPDDR5X 10667MT/s CPU 超大核： ◇ 整数高频能效表现接近 8 Gen2 X3 超大核 ◇ 浮点高频能效介于 8G2 X3、8G3 X4 之间 ◇ 2.75GHz 同频功耗较 9030 Pro 下降 30% ◇…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -293,8 +340,55 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "newsnow-1c14cf347902",
-          "title": "天天抢天天抢，我是抢够了，没事就折磨消费者天天蹲10.08，跑路了[喷]搞个付款排货对华为有这么难吗，买个手机还得天天蹲点抢可真恶心人[喷]抢到了也不是一两天发货，还得等十天半个月多的一个月两个月[斗鸡眼滑稽]#鸿蒙7# #iPhone18ProMax# #华为MateXT2#",
+          "id": "coolapk-user-f586e0c6a404",
+          "title": "竹本青：【荣耀方飞：Magic 9系列 前置镜头拥有 1:1取景画幅，支持92°视野】 ● 安卓首发前置方形镜头 ● 1:…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-09-13",
+          "time": "07:05",
+          "publishedAt": "2026-09-13T07:05:31.000Z",
+          "url": "https://www.coolapk.com/feed/73730534",
+          "image": "http://image.coolapk.com/feed/2026/0913/15/4248714_c945effe_3129_8074_910@2000x1819.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "【荣耀方飞：Magic 9系列 前置镜头拥有 1:1取景画幅，支持92°视野】 ● 安卓首发前置方形镜头 ● 1:1画幅｜55MP｜92° FOV ● 横拍竖拍，都能拍全、拍清 横拍、竖拍，不再被握持姿势限制。竖着拿手机，也可以获得横向视角；横着拿，取景范围同样完整。高像素保证细节，广视野容纳更多内容，1:1满幅为横竖裁切留下更充足的空间。 #今日热点#…",
+          "detail": "【荣耀方飞：Magic 9系列 前置镜头拥有 1:1取景画幅，支持92°视野】 ● 安卓首发前置方形镜头 ● 1:1画幅｜55MP｜92° FOV ● 横拍竖拍，都能拍全、拍清 横拍、竖拍，不再被握持姿势限制。竖着拿手机，也可以获得横向视角；横着拿，取景范围同样完整。高像素保证细节，广视野容纳更多内容，1:1满幅为横竖裁切留下更充足的空间。 #今日热点#…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-355750f487ae",
+          "title": "Pixel 11 对比 iPhone 17：差异整理",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "Pixel",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-13",
+          "time": "06:25",
+          "publishedAt": "2026-09-13T06:25:40.000Z",
+          "url": "https://www.gizmochina.com/2026/09/13/google-pixel-11-vs-iphone-17/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/image-99-300x169.png?x96852",
+          "verdict": "扫一眼",
+          "takeaway": "Pixel 11 对比 iPhone 17：重点看定位、配置差异和价格差，判断是否值得等更高端型号。",
+          "detail": "Pixel 11 对比 iPhone 17 的差异整理。重点看两款机型的定位、影像规格、屏幕尺寸、价格区间和发布时间是否拉开差距。",
+          "keyPoints": [
+            "影像硬件",
+            "电池 / 充电"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
+          "id": "newsnow-ff8abefce2c6",
+          "title": "极客湾出视频了[受虐滑稽]9050ProCPU/GPU/NPU速览，多核8200/11瓦附近，GPU2瓦内贴着8GEN3，这么省电[流汗滑稽][流汗滑稽]#鸿蒙7# #华为Mate80ProMax# #华为MateXT2#",
           "originalTitle": "",
           "source": "酷安热榜",
           "brand": "Huawei",
@@ -303,11 +397,34 @@ window.phoneRadarDaily = {
           "date": "2026-09-13",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73721376",
+          "url": "https://www.coolapk.com/feed/73731751",
           "image": "",
-          "verdict": "先看",
-          "takeaway": "天天抢天天抢，我是抢够了，没事就折磨消费者天天蹲10.08，跑路了[喷]搞个付款排货对华为有这么难吗，买个手机还得天天蹲点抢可真恶心人[喷]抢到了也不是一两天发货，还得等十天半个月多的一个月两个月[斗鸡眼滑稽]#鸿蒙7# #iPhone18ProMax# #华为MateXT2#",
-          "detail": "天天抢天天抢，我是抢够了，没事就折磨消费者天天蹲10.08，跑路了[喷]搞个付款排货对华为有这么难吗，买个手机还得天天蹲点抢可真恶心人[喷]抢到了也不是一两天发货，还得等十天半个月多的一个月两个月[斗鸡眼滑稽]#鸿蒙7# #iPhone18ProMax# #华为MateXT2#",
+          "verdict": "扫一眼",
+          "takeaway": "极客湾出视频了[受虐滑稽]9050ProCPU/GPU/NPU速览，多核8200/11瓦附近，GPU2瓦内贴着8GEN3，这么省电[流汗滑稽][流汗滑稽]#鸿蒙7# #华为Mate80ProMax# #华为MateXT2#",
+          "detail": "极客湾出视频了[受虐滑稽]9050ProCPU/GPU/NPU速览，多核8200/11瓦附近，GPU2瓦内贴着8GEN3，这么省电[流汗滑稽][流汗滑稽]#鸿蒙7# #华为Mate80ProMax# #华为MateXT2#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-c531bb2c03fa",
+          "title": "OV耀三家真机全都曝光完毕，仅代表我个人审美，荣耀Magic9系列颜值直接垫底，拉完了！",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-09-13",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73739211",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "OV耀三家真机全都曝光完毕，仅代表我个人审美，荣耀Magic9系列颜值直接垫底，拉完了！",
+          "detail": "OV耀三家真机全都曝光完毕，仅代表我个人审美，荣耀Magic9系列颜值直接垫底，拉完了！",
           "keyPoints": [
             "爆料"
           ],

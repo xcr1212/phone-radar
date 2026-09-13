@@ -1,146 +1,6 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-13T18:48:27.780Z",
+  "updatedAt": "2026-09-13T22:23:48.174Z",
   "news": [
-    {
-      "id": "weibo-81593d23eb45",
-      "title": "数码闲聊站：9月标准版的影像大乱斗： ①50Mp 1/1.28\"主摄+50Mp超广角+64…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-13",
-      "time": "18:48",
-      "publishedAt": "2026-09-13T18:48:27.780Z",
-      "url": "https://weibo.com/6048569942/RhLE82Cdc",
-      "image": "",
-      "summary": "9月标准版的影像大乱斗： ①50Mp 1/1.28\"主摄+50Mp超广角+64Mp 1/2\"潜望长焦(中屏天玑3nm) ②200Mp 1/1.4\"主摄+50Mp超广角+200Mp 1/1.56\"潜望长焦(中屏天玑3nm) ③200Mp 1/1.4\"主摄+50Mp超广角+200Mp 1/1.56\"潜望长焦(小屏骁龙3nm)",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "weibo-342dc809969a",
-      "title": "数码闲聊站：目前已锁定的手机发布会档期： 9.21 vivo X500系列，9.22有新品…",
-      "source": "数码闲聊站",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-13",
-      "time": "18:48",
-      "publishedAt": "2026-09-13T18:48:27.780Z",
-      "url": "https://weibo.com/6048569942/RhJVkhckv",
-      "image": "",
-      "summary": "目前已锁定的手机发布会档期： 9.21 vivo X500系列，9.22有新品发布会，9.23有新品发布会，9.28 荣耀Magic9系列，9.29有新品发布会。你们自己猜吧，反正就那几家[doge]",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "weibo-daff4f4543ba",
-      "title": "数码闲聊站：华为Mate90系列有镜头膜流出了，M90/90 Pro/90 Pro Max…",
-      "source": "数码闲聊站",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-13",
-      "time": "18:48",
-      "publishedAt": "2026-09-13T18:48:27.780Z",
-      "url": "https://weibo.com/6048569942/RhJ0XhVBA",
-      "image": "",
-      "summary": "华为Mate90系列有镜头膜流出了，M90/90 Pro/90 Pro Max都是星环设计，M90 RS是八边形，疑似调整为全系三摄+单潜望长焦，此方案我之前也提过……[笑而不语]",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "weibo-e9222a505bce",
-      "title": "数码闲聊站：下周开始，史上最密集的新机发布周期就要拉开帷幕了 先给大家做个心理建设，接下来…",
-      "source": "数码闲聊站",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-13",
-      "time": "18:48",
-      "publishedAt": "2026-09-13T18:48:27.780Z",
-      "url": "https://weibo.com/6048569942/RhBOGvMdc",
-      "image": "",
-      "summary": "下周开始，史上最密集的新机发布周期就要拉开帷幕了 先给大家做个心理建设，接下来的9月新机，涨价比苹果只多不少",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "weibo-c5f315a7a0c8",
-      "title": "数码闲聊站：Find X10——200Mp F1.6大底主摄+200Mp F2.6大底潜望…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-13",
-      "time": "18:48",
-      "publishedAt": "2026-09-13T18:48:27.780Z",
-      "url": "https://weibo.com/6048569942/RhBrkq4si",
-      "image": "",
-      "summary": "Find X10——200Mp F1.6大底主摄+200Mp F2.6大底潜望长焦，8000mAh+80W+50W，0.99mm极窄四等边中屏，支持哈苏增距镜 Find X10 PM——200Mp F1.5超大底高动态主摄+200Mp 13mm大底超广角+200Mp F2.1大底潜望长焦，支持10cm长焦微距，8000mAh+80W+50W，2nm天玑96…",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "weibo-559cddd77dfd",
-      "title": "数码闲聊站：Magic9——6.37\"1.5K小直屏，8K级大电池，200Mp 1/1.4…",
-      "source": "数码闲聊站",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-13",
-      "time": "18:48",
-      "publishedAt": "2026-09-13T18:48:27.780Z",
-      "url": "https://weibo.com/6048569942/RhAggvkS4",
-      "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIly1igzgjb2uhwj31o02seh8b.jpg",
-      "summary": "Magic9——6.37\"1.5K小直屏，8K级大电池，200Mp 1/1.4\"大底主摄+50Mp超广角+200Mp 1/1.56\"大底潜望长焦，3D超声波指纹，喜欢吗[二哈]",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "weibo-ddae06228457",
-      "title": "数码闲聊站：iQOO16，这设计感受一下：",
-      "source": "数码闲聊站",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-13",
-      "time": "18:48",
-      "publishedAt": "2026-09-13T18:48:27.780Z",
-      "url": "https://weibo.com/6048569942/RhzFu7fMb",
-      "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIly1igzgcdy4a5j3396263npe.jpg",
-      "summary": "iQOO16，这设计感受一下：",
-      "tags": [
-        "vivo",
-        "爆料",
-        "微博"
-      ]
-    },
     {
       "id": "auto-8b6c5a92da63",
       "title": "Apple is reportedly working on iPhone game controllers",
@@ -359,6 +219,26 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-755652671e31",
+      "title": "JSCHEN小小狐：『极客湾发布麒麟 9050 Pro 实测：能效大提升』 测试机型：华为 Mate XT 2 非凡大师 内存规格：4…",
+      "source": "JSCHEN小小狐",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-13",
+      "time": "08:48",
+      "publishedAt": "2026-09-13T08:48:21.000Z",
+      "url": "https://www.coolapk.com/feed/73732094",
+      "image": "http://image.coolapk.com/feed/2026/0913/16/4702274_528ecd16_9293_7722_518@1919x4321.jpg",
+      "summary": "『极客湾发布麒麟 9050 Pro 实测：能效大提升』 测试机型：华为 Mate XT 2 非凡大师 内存规格：4×16bit LPDDR5X 10667MT/s CPU 超大核： ◇ 整数高频能效表现接近 8 Gen2 X3 超大核 ◇ 浮点高频能效介于 8G2 X3、8G3 X4 之间 ◇ 2.75GHz 同频功耗较 9030 Pro 下降 30% ◇…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
       ]
     },
     {
@@ -802,8 +682,48 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-1c14cf347902",
-      "title": "天天抢天天抢，我是抢够了，没事就折磨消费者天天蹲10.08，跑路了[喷]搞个付款排货对华为有这么难吗，买个手机还得天天蹲点抢可真恶心人[喷]抢到了也不是一两天发货，还得等十天半个月多的一个月两个月[斗鸡眼滑稽]#鸿蒙7# #iPhone18ProMax# #华为MateXT2#",
+      "id": "newsnow-9a998477ab0d",
+      "title": "都再说自己的某某手机容易发热，红米k100是我用过的，最容易发热的手机。",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-13",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73733766",
+      "image": "",
+      "summary": "都再说自己的某某手机容易发热，红米k100是我用过的，最容易发热的手机。",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-83cf79df5775",
+      "title": "【OPPO Find X10系列官宣本月22日正式发布】",
+      "source": "酷安热榜",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-13",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73738791",
+      "image": "",
+      "summary": "【OPPO Find X10系列官宣本月22日正式发布】",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-ff8abefce2c6",
+      "title": "极客湾出视频了[受虐滑稽]9050ProCPU/GPU/NPU速览，多核8200/11瓦附近，GPU2瓦内贴着8GEN3，这么省电[流汗滑稽][流汗滑稽]#鸿蒙7# #华为Mate80ProMax# #华为MateXT2#",
       "source": "酷安热榜",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
@@ -812,9 +732,9 @@ window.phoneRadarAuto = {
       "date": "2026-09-13",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73721376",
+      "url": "https://www.coolapk.com/feed/73731751",
       "image": "",
-      "summary": "天天抢天天抢，我是抢够了，没事就折磨消费者天天蹲10.08，跑路了[喷]搞个付款排货对华为有这么难吗，买个手机还得天天蹲点抢可真恶心人[喷]抢到了也不是一两天发货，还得等十天半个月多的一个月两个月[斗鸡眼滑稽]#鸿蒙7# #iPhone18ProMax# #华为MateXT2#",
+      "summary": "极客湾出视频了[受虐滑稽]9050ProCPU/GPU/NPU速览，多核8200/11瓦附近，GPU2瓦内贴着8GEN3，这么省电[流汗滑稽][流汗滑稽]#鸿蒙7# #华为Mate80ProMax# #华为MateXT2#",
       "tags": [
         "Huawei",
         "爆料",
@@ -822,41 +742,61 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-50e216d67f07",
-      "title": "vivo，你脑子瓦特了吗？老是在X旗舰上安装天玑，天玑摄影偏色你是不知道吗？是不是安骁龙，你怕你那iQOO数字卖不动啊？5000块钱，消费者买一个旗舰，你整个天玑，然后在iQOO数字上装骁龙，然后你又把蔡司给X，不是，你在搞笑吗？想M你很多年了，买了你家三台手机了，真受不了你这破天玑，紫色的花拍出来变蓝色，蓝色拍出来变紫色。你别整这些幺蛾子了，跟小米一样一个旗舰数字，一个性价比红米K得了呗，你生产线铺那么多干什么？5000块钱你让消费者买哪个？买你的X旗舰天玑配蔡司还是买你的iQOO骁龙没蔡司？你们这些厂商把简单的事整复杂，每家一个旗舰一个性价比就完事的事你整6条生产线：X、REON、Y、IQOO数字、NEO、Z，你说你这套打法放十年前我不挑你毛病，现在都2026年了，手机重叠，信息差没了，你还来这套？我真想骂死你，你个臭S～... 查看更多",
+      "id": "newsnow-c531bb2c03fa",
+      "title": "OV耀三家真机全都曝光完毕，仅代表我个人审美，荣耀Magic9系列颜值直接垫底，拉完了！",
       "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-13",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73699709",
+      "url": "https://www.coolapk.com/feed/73739211",
       "image": "",
-      "summary": "vivo，你脑子瓦特了吗？老是在X旗舰上安装天玑，天玑摄影偏色你是不知道吗？是不是安骁龙，你怕你那iQOO数字卖不动啊？5000块钱，消费者买一个旗舰，你整个天玑，然后在iQOO数字上装骁龙，然后你又把蔡司给X，不是，你在搞笑吗？想M你很多年了，买了你家三台手机了，真受不了你这破天玑，紫色的花拍出来变蓝色，蓝色拍出来变紫色。你别整这些幺蛾子了，跟小米一样一…",
+      "summary": "OV耀三家真机全都曝光完毕，仅代表我个人审美，荣耀Magic9系列颜值直接垫底，拉完了！",
       "tags": [
-        "Xiaomi",
+        "HONOR",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-7de61f3b02b4",
-      "title": "以前我一直不知道，原来钟文泽是这么双标的人[笑哭]，虽然我一直就不看所有测评，但是那几个头部的 UP 主还是知道的，我一直以为他们起码基本的公正还是有的 #华为PuraXMax# #小米18Fold#",
+      "id": "newsnow-4b32408bf767",
+      "title": "〖全新OPPO Find X10系列发布日期及外观官宣〗",
       "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-13",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73708922",
+      "url": "https://www.coolapk.com/feed/73739415",
       "image": "",
-      "summary": "以前我一直不知道，原来钟文泽是这么双标的人[笑哭]，虽然我一直就不看所有测评，但是那几个头部的 UP 主还是知道的，我一直以为他们起码基本的公正还是有的 #华为PuraXMax# #小米18Fold#",
+      "summary": "〖全新OPPO Find X10系列发布日期及外观官宣〗",
       "tags": [
-        "Huawei",
+        "OPPO",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-7e9e65e42c20",
+      "title": "太TIMI爽了，用直板手机是永远体会不到的[受虐滑稽][受虐滑稽][受虐滑稽]",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-13",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73723286",
+      "image": "",
+      "summary": "太TIMI爽了，用直板手机是永远体会不到的[受虐滑稽][受虐滑稽][受虐滑稽]",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -922,8 +862,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-fa01e5405de4",
-      "title": "iPhone 18预定后香港信用卡盗刷潮",
+      "id": "newsnow-8294e19bdce1",
+      "title": "消费者称新买的苹果手机时间总是变慢",
       "source": "今日头条热榜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -932,9 +872,9 @@ window.phoneRadarAuto = {
       "date": "2026-09-13",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7684672254055989289/",
+      "url": "https://www.toutiao.com/trending/7684501600942080010/",
       "image": "",
-      "summary": "iPhone 18预定后香港信用卡盗刷潮",
+      "summary": "消费者称新买的苹果手机时间总是变慢",
       "tags": [
         "iPhone",
         "爆料",
