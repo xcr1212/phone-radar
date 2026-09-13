@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-13T16:15:40.810Z",
+  "updatedAt": "2026-09-13T18:48:27.780Z",
   "issueDate": "2026-09-13",
   "issue": "VOL.260913",
   "title": "手机情报日报",
@@ -26,13 +26,36 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-09-13",
-          "time": "16:15",
-          "publishedAt": "2026-09-13T16:15:40.810Z",
+          "time": "18:48",
+          "publishedAt": "2026-09-13T18:48:27.780Z",
           "url": "https://weibo.com/6048569942/RhBOGvMdc",
           "image": "",
           "verdict": "先看",
           "takeaway": "下周开始，史上最密集的新机发布周期就要拉开帷幕了 先给大家做个心理建设，接下来的9月新机，涨价比苹果只多不少",
           "detail": "下周开始，史上最密集的新机发布周期就要拉开帷幕了 先给大家做个心理建设，接下来的9月新机，涨价比苹果只多不少",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-8b6c5a92da63",
+          "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "The Verge",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-13",
+          "time": "18:30",
+          "publishedAt": "2026-09-13T18:30:16.000Z",
+          "url": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24522825/4._Ultimate_2.4_Whit___iPhone.jpg?quality=90&strip=all&crop=0,0,100,100",
+          "verdict": "先看",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料来源"
           ],
@@ -82,29 +105,6 @@ window.phoneRadarDaily = {
           "detail": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
           "keyPoints": [
             "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-f2059c24af7b",
-          "title": "iPhone 相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-12",
-          "time": "22:27",
-          "publishedAt": "2026-09-12T22:27:26.000Z",
-          "url": "https://www.macrumors.com/2026/09/12/iphone-18-pro-max-us-model-difference/",
-          "image": "https://images.macrumors.com/article-new/2026/09/deep-black-iphone-18-pro.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",

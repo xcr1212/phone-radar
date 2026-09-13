@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-13T16:15:40.810Z",
+  "updatedAt": "2026-09-13T18:48:27.780Z",
   "news": [
     {
       "id": "weibo-81593d23eb45",
@@ -10,8 +10,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-13",
-      "time": "16:15",
-      "publishedAt": "2026-09-13T16:15:40.810Z",
+      "time": "18:48",
+      "publishedAt": "2026-09-13T18:48:27.780Z",
       "url": "https://weibo.com/6048569942/RhLE82Cdc",
       "image": "",
       "summary": "9月标准版的影像大乱斗： ①50Mp 1/1.28\"主摄+50Mp超广角+64Mp 1/2\"潜望长焦(中屏天玑3nm) ②200Mp 1/1.4\"主摄+50Mp超广角+200Mp 1/1.56\"潜望长焦(中屏天玑3nm) ③200Mp 1/1.4\"主摄+50Mp超广角+200Mp 1/1.56\"潜望长焦(小屏骁龙3nm)",
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-13",
-      "time": "16:15",
-      "publishedAt": "2026-09-13T16:15:40.810Z",
+      "time": "18:48",
+      "publishedAt": "2026-09-13T18:48:27.780Z",
       "url": "https://weibo.com/6048569942/RhJVkhckv",
       "image": "",
       "summary": "目前已锁定的手机发布会档期： 9.21 vivo X500系列，9.22有新品发布会，9.23有新品发布会，9.28 荣耀Magic9系列，9.29有新品发布会。你们自己猜吧，反正就那几家[doge]",
@@ -50,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-13",
-      "time": "16:15",
-      "publishedAt": "2026-09-13T16:15:40.810Z",
+      "time": "18:48",
+      "publishedAt": "2026-09-13T18:48:27.780Z",
       "url": "https://weibo.com/6048569942/RhJ0XhVBA",
       "image": "",
       "summary": "华为Mate90系列有镜头膜流出了，M90/90 Pro/90 Pro Max都是星环设计，M90 RS是八边形，疑似调整为全系三摄+单潜望长焦，此方案我之前也提过……[笑而不语]",
@@ -70,8 +70,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-13",
-      "time": "16:15",
-      "publishedAt": "2026-09-13T16:15:40.810Z",
+      "time": "18:48",
+      "publishedAt": "2026-09-13T18:48:27.780Z",
       "url": "https://weibo.com/6048569942/RhBOGvMdc",
       "image": "",
       "summary": "下周开始，史上最密集的新机发布周期就要拉开帷幕了 先给大家做个心理建设，接下来的9月新机，涨价比苹果只多不少",
@@ -90,8 +90,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-13",
-      "time": "16:15",
-      "publishedAt": "2026-09-13T16:15:40.810Z",
+      "time": "18:48",
+      "publishedAt": "2026-09-13T18:48:27.780Z",
       "url": "https://weibo.com/6048569942/RhBrkq4si",
       "image": "",
       "summary": "Find X10——200Mp F1.6大底主摄+200Mp F2.6大底潜望长焦，8000mAh+80W+50W，0.99mm极窄四等边中屏，支持哈苏增距镜 Find X10 PM——200Mp F1.5超大底高动态主摄+200Mp 13mm大底超广角+200Mp F2.1大底潜望长焦，支持10cm长焦微距，8000mAh+80W+50W，2nm天玑96…",
@@ -110,8 +110,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-13",
-      "time": "16:15",
-      "publishedAt": "2026-09-13T16:15:40.810Z",
+      "time": "18:48",
+      "publishedAt": "2026-09-13T18:48:27.780Z",
       "url": "https://weibo.com/6048569942/RhAggvkS4",
       "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIly1igzgjb2uhwj31o02seh8b.jpg",
       "summary": "Magic9——6.37\"1.5K小直屏，8K级大电池，200Mp 1/1.4\"大底主摄+50Mp超广角+200Mp 1/1.56\"大底潜望长焦，3D超声波指纹，喜欢吗[二哈]",
@@ -130,8 +130,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-13",
-      "time": "16:15",
-      "publishedAt": "2026-09-13T16:15:40.810Z",
+      "time": "18:48",
+      "publishedAt": "2026-09-13T18:48:27.780Z",
       "url": "https://weibo.com/6048569942/RhzFu7fMb",
       "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIly1igzgcdy4a5j3396263npe.jpg",
       "summary": "iQOO16，这设计感受一下：",
@@ -139,6 +139,46 @@ window.phoneRadarAuto = {
         "vivo",
         "爆料",
         "微博"
+      ]
+    },
+    {
+      "id": "auto-8b6c5a92da63",
+      "title": "Apple is reportedly working on iPhone game controllers",
+      "source": "The Verge",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-13",
+      "time": "18:30",
+      "publishedAt": "2026-09-13T18:30:16.000Z",
+      "url": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24522825/4._Ultimate_2.4_Whit___iPhone.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "Bloomberg's Mark Gurman says Apple is developing two game controllers for the iPhone and will likely sell them under the Beats brand. Rumors that Apple might enter the game contro…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a0604d8969a4",
+      "title": "Galaxy Z Fold 8 Ultra Vs. Honor Magic V6 is complicated. [Video]",
+      "source": "Android Police",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-13",
+      "time": "16:31",
+      "publishedAt": "2026-09-13T16:31:10.000Z",
+      "url": "https://www.androidpolice.com/video/galaxy-z-fold-8-ultra-vs-honor-magic-v6-is-complicated-video/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/09/galaxy-z-fold-8-ultra-vs-honor-magic-v6-is-complicated.jpg",
+      "summary": "It's not as simple as it seems.",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -662,6 +702,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-f924383740fe",
+      "title": "可以「折」的 iPhone 正式亮相：Apple 发布会看点回顾",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-13",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/114392",
+      "image": "",
+      "summary": "可以「折」的 iPhone 正式亮相：Apple 发布会看点回顾",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-455b56d2d882",
       "title": "我一定会回来……吗？小手用户与 iPhone 17 Pro Max 的一年",
       "source": "少数派热榜",
@@ -862,6 +922,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-fa01e5405de4",
+      "title": "iPhone 18预定后香港信用卡盗刷潮",
+      "source": "今日头条热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-13",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7684672254055989289/",
+      "image": "",
+      "summary": "iPhone 18预定后香港信用卡盗刷潮",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-3127925e6e4d",
       "title": "iPhone 17大降价",
       "source": "百度热搜",
@@ -875,6 +955,26 @@ window.phoneRadarAuto = {
       "url": "https://www.baidu.com/s?wd=iPhone+17%E5%A4%A7%E9%99%8D%E4%BB%B7",
       "image": "",
       "summary": "iPhone 17大降价",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-63b309976808",
+      "title": "多人未预定iPhone18Pro被盗刷",
+      "source": "百度热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-13",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E4%BA%BA%E6%9C%AA%E9%A2%84%E5%AE%9AiPhone18Pro%E8%A2%AB%E7%9B%97%E5%88%B7",
+      "image": "",
+      "summary": "多人未预定iPhone18Pro被盗刷",
       "tags": [
         "iPhone",
         "爆料",
