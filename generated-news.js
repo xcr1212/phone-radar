@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-14T19:20:56.103Z",
+  "updatedAt": "2026-09-14T23:07:10.412Z",
   "news": [
     {
       "id": "weibo-485e43baa5c2",
@@ -10,8 +10,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-14",
-      "time": "19:20",
-      "publishedAt": "2026-09-14T19:20:56.103Z",
+      "time": "23:07",
+      "publishedAt": "2026-09-14T23:07:10.412Z",
       "url": "https://weibo.com/6048569942/Ri4TPkZah",
       "image": "",
       "summary": "咳咳，如之前我爆料的信息，大杯系列都有双层OLED，万级高亮度，大大杯顶配新屏亮度更高；中杯N-1芯片，大杯N-1小升级版芯片，大大杯系列N代新芯片；电池6600mAh±，6800mAh±；全系三摄单长焦，大大杯上2亿潜望……[污]",
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-14",
-      "time": "19:20",
-      "publishedAt": "2026-09-14T19:20:56.103Z",
+      "time": "23:07",
+      "publishedAt": "2026-09-14T23:07:10.412Z",
       "url": "https://weibo.com/6048569942/Ri1RK3dBY",
       "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIly1ih2yxpktl6j31z4140qv5.jpg",
       "summary": "Find X10/Find X10 Pro Max，这设计感受一下：",
@@ -39,6 +39,86 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "微博"
+      ]
+    },
+    {
+      "id": "auto-f5e7f1861b8e",
+      "title": "V 社推送 SteamOS Beta / 预览版推送更新：修复风扇转速异常问题",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-14",
+      "time": "22:00",
+      "publishedAt": "2026-09-14T22:00:33.000Z",
+      "url": "https://www.ithome.com/1/002/335.htm",
+      "image": "",
+      "summary": "IT之家 9 月 15 日消息，Valve 今日向 SteamOS Beta 和预览通道推送了最新测试更新，本次更新主要针对风扇控制问题进行修复，新功能仍处于测试阶段，用户可通过设置 > 系统 > 系统更新通道加入测试通道体验。 通用更新 修复了一个罕见问题：风扇转速会恢复为 BIOS 控制直至设备重启，该问题会导致风扇转速高于正常水平 据IT之家此前报道…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2d14c86e6824",
+      "title": "Our top iPhone 18 Pro accessories to upgrade your setup",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-14",
+      "time": "19:59",
+      "publishedAt": "2026-09-14T19:59:34.000Z",
+      "url": "https://9to5mac.com/2026/09/14/best-iphone-18-pro-accessories/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Best-iPhone-18-Pro-accessories.jpg?quality=82&strip=all&w=1600",
+      "summary": "We are taking look at some of the iPhone 18 Pro accessories we are picking up for ourselves this year before Friday’s delivery day. If you ask me Apple’s AirTag 2 and a fresh set…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-844c65a7de33",
+      "title": "Samsung launches ‘Re-Newed’ Galaxy S26 series, $1,099 for Ultra",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-14",
+      "time": "19:30",
+      "publishedAt": "2026-09-14T19:30:00.000Z",
+      "url": "https://9to5google.com/2026/09/14/samsung-launches-re-newed-galaxy-s26-series-1099-for-ultra/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/Sky-blue-S26-Ultra-1.jpg?quality=82&strip=all&w=1600",
+      "summary": "Samsung is now selling its Galaxy S26 series flagships at a discount with refurbished models available for around $200 off. more…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-662389bb148b",
+      "title": "Certified Re-Newed: refurbished Galaxy S26 series arrives to try and help you save",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-14",
+      "time": "19:26",
+      "publishedAt": "2026-09-14T19:26:42.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/certified-re-newed-refurbished-galaxy-s26-series-arrives-at-slightly-lower-costs",
+      "image": "https://cdn.mos.cms.futurecdn.net/Xrm3wmAMUjL38yuq2yr6TE-1280-80.jpg",
+      "summary": "Samsung opens its Certified Re-Newed program to the Galaxy S26 series. Buyers can snag these refurbished phones for under \"flagship-quality\" prices.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
       ]
     },
     {
@@ -282,26 +362,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-92d78c043cf8",
-      "title": "Top Charging Accessories for iPhone 18 Pro and Pro Max on Sale Ahead of Launch",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-14",
-      "time": "15:12",
-      "publishedAt": "2026-09-14T15:12:28.000Z",
-      "url": "https://www.macrumors.com/2026/09/14/top-charging-accessories-iphone-18-pro/",
-      "image": "https://images.macrumors.com/article-new/2026/09/anker-iphone-18-pro-chargers-scaled.jpeg",
-      "summary": "Apple's new iPhone 18 Pro and iPhone 18 Pro Max launch this Friday, September 18, and if you've already got your pre-order in , it's time to start shopping for accessories for the…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-05a61fe6f539",
       "title": "Galaxy S26 series reportedly getting a price hike imminently, could be as much as $100",
       "source": "9to5Google",
@@ -375,26 +435,6 @@ window.phoneRadarAuto = {
       "url": "https://9to5mac.com/2026/09/14/iphone-18-pro-pro-max-pre-orders-now-delayed-to-october-for-most-models/",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-side-angle-burgundy.jpg?quality=82&strip=all&w=1600",
       "summary": "If you haven’t yet ordered your iPhone 18 Pro or Pro Max, you’ll likely be waiting until October for delivery. Here’s the latest update on iPhone 18 Pro pre-order shipping times.…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-72321dd36fa3",
-      "title": "Didn't Pre-Order an iPhone 18 Pro Yet? Wait Times Are Even Longer Now",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-14",
-      "time": "13:12",
-      "publishedAt": "2026-09-14T13:12:49.000Z",
-      "url": "https://www.macrumors.com/2026/09/14/iphone-18-pro-pre-orders-shipping-delivery-dates/",
-      "image": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-Black.jpg",
-      "summary": "iPhone 18 Pro and iPhone 18 Pro Max pre-orders began on Saturday, September 12 at 5 a.m. Pacific Time in the U.S. and many other countries. If you have yet to place a pre-order, t…",
       "tags": [
         "iPhone",
         "爆料",
@@ -622,26 +662,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-c0565d6b8b7e",
-      "title": "JSCHEN小小狐：华为 Mate90 系列曝光：新芯片 / 2 亿单潜望",
-      "source": "JSCHEN小小狐",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-14",
-      "time": "09:06",
-      "publishedAt": "2026-09-14T09:06:19.000Z",
-      "url": "https://www.coolapk.com/feed/73749326",
-      "image": "http://image.coolapk.com/feed/2026/0914/17/4702274_652f424e_6777_0082_507@1440x670.jpg",
-      "summary": "『华为 Mate90 系列曝光：新芯片 / 2 亿单潜望』 华为 Mate90： ◇ 麒麟 9030 系列芯片 ◇ 单层 OLED 显示屏 ◇ 后置三摄 + 红枫原色镜头 ◇ 约 6600mAh 电池 + 无线快充 ◇ 曜石黑 / 零度白 / 晶格绿 / 晶格粉 华为 Mate90 Pro： ◇ 麒麟 9030 系列 “小升级版” 芯片 ◇ 双层 OLED…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-588841d2ecbd",
       "title": "Samsung launches Galaxy S26 FE in India, reveals pricing",
       "source": "SamMobile",
@@ -859,6 +879,26 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-02bf091f59b0",
+      "title": "JSCHEN小小狐：OPPO Find X10 系列上架官方商城：共三款机型",
+      "source": "JSCHEN小小狐",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-14",
+      "time": "05:05",
+      "publishedAt": "2026-09-14T05:05:54.000Z",
+      "url": "https://www.coolapk.com/feed/73745450",
+      "image": "http://image.coolapk.com/feed/2026/0914/13/4702274_ff381034_4068_0371_984@1280x1177.jpg",
+      "summary": "『OPPO Find X10 系列上架商城：共三款机型』 Find X10 Pro Max： 月白、暖橙、浅钛 12GB + 256GB / 12GB + 512GB 16GB + 512GB / 16GB + 1TB ◇ 相机拼接设计｜LUMO 原色舱 ◇ 1.15mm 极窄四等边 ◇ 三 2 亿镜头群｜哈苏增距镜套装 Find X10： 冰蓝、轻橙、浅…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
       ]
     },
     {
@@ -1222,48 +1262,48 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-ab1dd1743f53",
-      "title": "OPPO Find X10系列将于本月22日正式发布",
+      "id": "newsnow-972a58c07423",
+      "title": "用个手机还能用出圈子来了，竟然还有130个点赞。",
       "source": "酷安热榜",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-14",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73738791",
+      "url": "https://www.coolapk.com/feed/73756251",
       "image": "",
-      "summary": "OPPO Find X10系列将于本月22日正式发布",
+      "summary": "用个手机还能用出圈子来了，竟然还有130个点赞。",
       "tags": [
-        "OPPO",
+        "行业",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-dee73135643a",
-      "title": "OPPO Find X10 系列上架官方商城：共三款机型",
+      "id": "newsnow-19de38c33cf0",
+      "title": "用了半天了，触控不跟手，系统动画帧率低，系统动画流畅度和触摸跟手程度完全不如我之前的oppo find x9ultra，续航跟x9u差不多，为啥那么多人说这个芯片牛x，鸿蒙系统软硬芯云优化续航比10000毫安的安卓还强。[撇嘴]",
       "source": "酷安热榜",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-14",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73745450",
+      "url": "https://www.coolapk.com/feed/73749997",
       "image": "",
-      "summary": "OPPO Find X10 系列上架官方商城：共三款机型",
+      "summary": "用了半天了，触控不跟手，系统动画帧率低，系统动画流畅度和触摸跟手程度完全不如我之前的oppo find x9ultra，续航跟x9u差不多，为啥那么多人说这个芯片牛x，鸿蒙系统软硬芯云优化续航比10000毫安的安卓还强。[撇嘴]",
       "tags": [
-        "OPPO",
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-3024f11f9fa3",
-      "title": "OV耀三家真机全都曝光完毕，仅代表我个人审美，荣耀Magic9系列颜值直接垫底，拉完了！",
+      "id": "newsnow-437e8e9e001a",
+      "title": "悬着的心终于死了，安卓里最注重外观设计的黑厂拉了，还是看看远方的荣耀magic9promax洗洗眼吧[微笑]",
       "source": "酷安热榜",
       "brand": "HONOR",
       "model": "HONOR 相关机型",
@@ -1272,9 +1312,9 @@ window.phoneRadarAuto = {
       "date": "2026-09-14",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73739211",
+      "url": "https://www.coolapk.com/feed/73744165",
       "image": "",
-      "summary": "OV耀三家真机全都曝光完毕，仅代表我个人审美，荣耀Magic9系列颜值直接垫底，拉完了！",
+      "summary": "悬着的心终于死了，安卓里最注重外观设计的黑厂拉了，还是看看远方的荣耀magic9promax洗洗眼吧[微笑]",
       "tags": [
         "HONOR",
         "爆料",
@@ -1302,27 +1342,87 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-afbf5b66dcd0",
-      "title": "三星显示 × iQOO屏幕技术沟通会内容一览",
+      "id": "newsnow-58ab4923eb5c",
+      "title": "小米18Fold仿iPhone Duo动画模块来啦",
       "source": "酷安热榜",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-14",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73743398",
+      "url": "https://www.coolapk.com/feed/73739545",
       "image": "",
-      "summary": "三星显示 × iQOO屏幕技术沟通会内容一览",
+      "summary": "小米18Fold仿iPhone Duo动画模块来啦",
       "tags": [
-        "Samsung",
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-7f36cbc65158",
+      "id": "newsnow-be9ecfac36ff",
+      "title": "摸到了摸到了[流汗滑稽]OPPO Find X10 ProMax#ColorOS17#",
+      "source": "酷安热榜",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-14",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73746653",
+      "image": "",
+      "summary": "摸到了摸到了[流汗滑稽]OPPO Find X10 ProMax#ColorOS17#",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-dbcb060ae853",
+      "title": "华为 Mate90 系列曝光：新芯片 / 2 亿单潜望",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-14",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73749326",
+      "image": "",
+      "summary": "华为 Mate90 系列曝光：新芯片 / 2 亿单潜望",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-d75b8b8b233a",
+      "title": "iOS升级包版本显示Bug",
+      "source": "微博热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-09-14",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=iOS%E5%8D%87%E7%BA%A7%E5%8C%85%E7%89%88%E6%9C%AC%E6%98%BE%E7%A4%BABug&t=31&band_rank=20&Refer=top",
+      "image": "",
+      "summary": "iOS升级包版本显示Bug",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-7ed2f2f1a6ff",
       "title": "苹果回应iPhone18Pro破发",
       "source": "微博热搜",
       "brand": "iPhone",
@@ -1332,29 +1432,9 @@ window.phoneRadarAuto = {
       "date": "2026-09-14",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94iPhone18Pro%E7%A0%B4%E5%8F%91%23&t=31&band_rank=21&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94iPhone18Pro%E7%A0%B4%E5%8F%91%23&t=31&band_rank=23&Refer=top",
       "image": "",
       "summary": "苹果回应iPhone18Pro破发",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-cfcd8adbed22",
-      "title": "苹果或推出三款折叠屏手机",
-      "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-09-14",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%88%96%E6%8E%A8%E5%87%BA%E4%B8%89%E6%AC%BE%E6%8A%98%E5%8F%A0%E5%B1%8F%E6%89%8B%E6%9C%BA%23&t=31&band_rank=28&Refer=top",
-      "image": "",
-      "summary": "苹果或推出三款折叠屏手机",
       "tags": [
         "iPhone",
         "爆料",
@@ -1382,8 +1462,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-51ffe461cc60",
-      "title": "老人手机不停弹广告关不掉 小伙帮忙",
+      "id": "newsnow-75d898576d62",
+      "title": "中端手机怎么越来越少了",
       "source": "今日头条热榜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -1392,9 +1472,9 @@ window.phoneRadarAuto = {
       "date": "2026-09-14",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7685329757009035318/",
+      "url": "https://www.toutiao.com/trending/7685359274897182271/",
       "image": "",
-      "summary": "老人手机不停弹广告关不掉 小伙帮忙",
+      "summary": "中端手机怎么越来越少了",
       "tags": [
         "行业",
         "爆料",
@@ -1422,19 +1502,19 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-e50739d85e57",
-      "title": "绝不承认手机妈对我的印象",
-      "source": "抖音热点",
+      "id": "newsnow-39b6b790e83f",
+      "title": "60个手机号挂名下 男子14年后才发现",
+      "source": "百度热搜",
       "brand": "行业",
       "model": "智能手机市场",
       "type": "爆料",
-      "trust": "待验证",
+      "trust": "媒体汇总",
       "date": "2026-09-14",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.douyin.com/hot/2649399",
+      "url": "https://www.baidu.com/s?wd=60%E4%B8%AA%E6%89%8B%E6%9C%BA%E5%8F%B7%E6%8C%82%E5%90%8D%E4%B8%8B+%E7%94%B7%E5%AD%9014%E5%B9%B4%E5%90%8E%E6%89%8D%E5%8F%91%E7%8E%B0",
       "image": "",
-      "summary": "绝不承认手机妈对我的印象",
+      "summary": "60个手机号挂名下 男子14年后才发现",
       "tags": [
         "行业",
         "爆料",
