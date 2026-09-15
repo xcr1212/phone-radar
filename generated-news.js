@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-14T23:07:10.412Z",
+  "updatedAt": "2026-09-15T04:53:09.120Z",
   "news": [
+    {
+      "id": "weibo-ef82f9b527cb",
+      "title": "数码闲聊站：受内存涨价影响，AOVMHh上一代旗舰机均已经完成一轮1000元档位的普涨。…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-15",
+      "time": "04:53",
+      "publishedAt": "2026-09-15T04:53:09.120Z",
+      "url": "https://weibo.com/6048569942/RibwJCi0O",
+      "image": "",
+      "summary": "受内存涨价影响，AOVMHh上一代旗舰机均已经完成一轮1000元档位的普涨。 而在此基础上，即将发布的国产旗舰新机产品定义变得非常有意思，大致可以分为三类： 换皮：N-1芯片 + 常规小迭代，有望售价不变 换芯：N代芯片 + 常规小迭代，起售价涨500± 换新：N代芯片 + 激进大迭代，直接放开成本限制，大迭代猛堆料，价格将上探1000±",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
     {
       "id": "weibo-485e43baa5c2",
       "title": "数码闲聊站：咳咳，如之前我爆料的信息，大杯系列都有双层OLED，万级高亮度，大大杯顶配新屏…",
@@ -9,9 +29,9 @@ window.phoneRadarAuto = {
       "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
-      "date": "2026-09-14",
-      "time": "23:07",
-      "publishedAt": "2026-09-14T23:07:10.412Z",
+      "date": "2026-09-15",
+      "time": "04:53",
+      "publishedAt": "2026-09-15T04:53:09.120Z",
       "url": "https://weibo.com/6048569942/Ri4TPkZah",
       "image": "",
       "summary": "咳咳，如之前我爆料的信息，大杯系列都有双层OLED，万级高亮度，大大杯顶配新屏亮度更高；中杯N-1芯片，大杯N-1小升级版芯片，大大杯系列N代新芯片；电池6600mAh±，6800mAh±；全系三摄单长焦，大大杯上2亿潜望……[污]",
@@ -22,43 +42,683 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "weibo-e7713c56fae1",
-      "title": "数码闲聊站：Find X10/Find X10 Pro Max，这设计感受一下：",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "id": "auto-c03738799f49",
+      "title": "iQOO 16 is launching on September 29, design and color variants officially confirmed",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
       "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-14",
-      "time": "23:07",
-      "publishedAt": "2026-09-14T23:07:10.412Z",
-      "url": "https://weibo.com/6048569942/Ri1RK3dBY",
-      "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIly1ih2yxpktl6j31z4140qv5.jpg",
-      "summary": "Find X10/Find X10 Pro Max，这设计感受一下：",
+      "trust": "媒体汇总",
+      "date": "2026-09-15",
+      "time": "04:35",
+      "publishedAt": "2026-09-15T04:35:15.000Z",
+      "url": "https://www.gizmochina.com/2026/09/15/iqoo-16-launch-date-design-color-variants-official/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/iQOO-16-launch-date--300x169.jpg?x96852",
+      "summary": "After teasing the arrival of its next flagship phone for the past few days in China, iQOO has finally revealed its launch date. The iQOO 16 will be officially unveiled on Septembe…",
       "tags": [
-        "行业",
+        "vivo",
         "爆料",
-        "微博"
+        "自动抓取"
       ]
     },
     {
-      "id": "auto-f5e7f1861b8e",
-      "title": "V 社推送 SteamOS Beta / 预览版推送更新：修复风扇转速异常问题",
+      "id": "auto-9ff4bc86a9a3",
+      "title": "Xiaomi confirms Xiaomi 18 Pro series launch with a new rear screen",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-15",
+      "time": "04:24",
+      "publishedAt": "2026-09-15T04:24:29.000Z",
+      "url": "https://www.gizmochina.com/2026/09/15/xiaomi-confirms-xiaomi-18-pro-series-launch-with-a-new-rear-screen/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Xiaomi-18-Pro-series-launch-300x200.jpg?x96852",
+      "summary": "Xiaomi today officially confirmed that the Xiaomi 18 Pro series will launch this month in China. In a teaser shared on Weibo, the company showed the rear display of the phone with…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4089b1ee00d0",
+      "title": "Galaxy S26 FE launches in India with Exynos 2500, three colors, a few launch offers",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-15",
+      "time": "04:19",
+      "publishedAt": "2026-09-15T04:19:49.000Z",
+      "url": "https://www.gizmochina.com/2026/09/15/galaxy-s26-fe-launches-in-india-with-exynos-2500-three-colors-a-few-launch-offers/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/in-feature-nbsp-554411548-300x169.jpg?x96852",
+      "summary": "Samsung’s latest Fan Edition phone is heading to India, and the company has now locked in the pricing, colors, and launch deals. The Galaxy S26 FE will start at ₹79,999 for the on…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-d8d5ba1ca651",
+      "title": "竹本青：【消息称华为、赛力斯合作将调整为轻资产模式：赛力斯主导，华为赋能】 9月15日，据财联社报道，华为、赛力斯的智选车…",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-15",
+      "time": "03:10",
+      "publishedAt": "2026-09-15T03:10:21.000Z",
+      "url": "https://www.coolapk.com/feed/73761797",
+      "image": "http://image.coolapk.com/feed/2026/0915/11/4248714_7d0b7b70_1820_6941_895@888x500.jpg",
+      "summary": "【消息称华为、赛力斯合作将调整为轻资产模式：赛力斯主导，华为赋能】 9月15日，据财联社报道，华为、赛力斯的智选车合作模式将在本周进行调整，未来华为将采用轻资产的方式与赛力斯合作，产品、营销、销售、服务等方面将由华为主导，调整为赛力斯主导，华为赋能。 此次调整，鸿蒙智行将聚焦资源，加速智界、享界、尊界、尚界品牌成功，从而进一步夯实鸿蒙智行的行业与市场地位。…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-1e540e60bff1",
+      "title": "OPPO F35 Pro 手机曝光：波浪纹理等 3 种颜色，预估 10000mAh 电池",
       "source": "IT之家",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-15",
+      "time": "02:40",
+      "publishedAt": "2026-09-15T02:40:46.000Z",
+      "url": "https://www.ithome.com/1/002/469.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/dc2162f2-dce9-47b3-84d0-cf9b53907ad6.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 15 日消息，科技媒体 gizmochina 昨日（9 月 14 日）发布博文，分享了一组渲染图， 展示了 OPPO F35 和 OPPO F35 Pro 两款手机，共有 6 种颜色。 颜色方面，OPPO F35 Pro 提供棕色、橙色和浅蓝色 3 种配色，其中 1 个版本采用波浪状纹理；标准版 F35 提供粉色、银色和紫色 3 种配色，…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-1185614ccb56",
+      "title": "竹本青：iQOO 16「逐光」配色预热：独家激光全息成像技术",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-15",
+      "time": "02:17",
+      "publishedAt": "2026-09-15T02:17:32.000Z",
+      "url": "https://www.coolapk.com/feed/73760858",
+      "image": "http://image.coolapk.com/feed/2026/0915/10/4248714_bd684f7e_8649_9804_465@1439x1464.jpg",
+      "summary": "【iQOO 16「逐光」配色预热：独家激光全息成像技术】 ● 独家激光全息成像技术 ● 四重精密工艺 ● 每个角度清晰、立体 ● 红/蓝光随着角度交错 #今日热点# #iQOO16# #OriginOS7#",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-22c9dfb018ba",
+      "title": "竹本青：iQOO 16 三色官图公布：灰/白/黑",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-15",
+      "time": "02:13",
+      "publishedAt": "2026-09-15T02:13:52.000Z",
+      "url": "https://www.coolapk.com/feed/73760795",
+      "image": "http://image.coolapk.com/feed/2026/0915/10/4248714_84929cc1_8430_6888_609@2000x2667.jpg",
+      "summary": "【iQOO 16 三色官图公布：灰/白/黑】 逐光｜ 独家激光全息技术，红蓝光影交错悬浮 传奇｜ 磁控溅射电镀工艺，670纳米的电镀膜厚，冷调白色中透出细腻银灰 赛道｜ 以F1赛车刷紫灵感，把象征最快的紫融入低调内敛的黑，高级精致 #今日热点# #iQOO16# #OriginOS7#",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-abbd83b60d58",
+      "title": "消息称三星 Galaxy Z TriFold 2 三折叠手机聚焦轻量化 / 耐用性升级，起售价仍为 2899 美元",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-15",
+      "time": "01:34",
+      "publishedAt": "2026-09-15T01:34:29.000Z",
+      "url": "https://www.ithome.com/1/002/404.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/7/f1f012cb-fea0-443d-8de0-7808f756db61.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 15 日消息，消息源 Lanzuk 在 Naver 博客发文称，三星已开始开发 Galaxy Z TriFold 2 三折叠手机，该机将维持与现款初代机型相近的定价，预计仍为 2,899 美元 （IT之家注：现汇率约合 19,496 元人民币） 。不过在当前零部件成本持续上涨的情况下，这一价格策略能否实现仍存在不确定性。 消息源透露，Ga…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-12991eff1fb8",
+      "title": "工信部、国家发改委：“十五五”规划提高先进制程能力，突破高端手机核心芯片、PC 高性能芯片，加强开源鸿蒙等国产操作系统搭载",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-15",
+      "time": "01:33",
+      "publishedAt": "2026-09-15T01:33:36.000Z",
+      "url": "https://www.ithome.com/1/002/403.htm",
+      "image": "",
+      "summary": "IT之家 9 月 15 日消息，为推动电子信息制造业高质量发展，工业和信息化部、国家发展改革委今日宣布联合印发《 电子信息制造业发展“十五五”规划 》（以下简称《规划》）。 《规划》锚定基本实现新型工业化目标，明确以推动高质量发展为主题，统筹高质量发展和高水平安全，抢抓人工智能发展机遇，加快电子信息制造业全产业链创新，按照“筑基、提质、育新、治理”思路，部…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c97f75e89713",
+      "title": "iQOO 16 官宣 9 月 29 日发布，号称标准版产品力超 Pro Max",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-15",
+      "time": "01:20",
+      "publishedAt": "2026-09-15T01:20:49.000Z",
+      "url": "https://www.ithome.com/1/002/388.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/70acf131-67e4-42c6-a6a0-9c3f2bf74ad2.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 15 日消息，iQOO 官方今日宣布 iQOO16 将于 9 月 29 日 19:00 发布，发布即开售。 官方将 iQOO16 定位为性能旗舰，号称将以标准版之名提供超 Pro Max 的产品力。 在 9 月 14 日的三星显示 × iQOO 屏幕技术沟通会上，三星显示 × iQOO 双方史上最高规格技术合作正式官宣。IT之家从沟通会了…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5c0e5cd57cbf",
+      "title": "OPPO Find X10 系列首发新一代原色光谱发光材料，支持 95% BT.2020 色域",
+      "source": "IT之家",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-15",
+      "time": "01:05",
+      "publishedAt": "2026-09-15T01:05:50.000Z",
+      "url": "https://www.ithome.com/1/002/382.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/1ce02b7d-d68a-4a7b-8d71-a24450736cd8.jpg",
+      "summary": "IT之家 9 月 15 日消息，OPPO 官方宣布，Find X10 系列将于 9 月 22 日 19:00 全球首发。该系列将包含 Find X10、Find X10 Pro Max 和 Find X10 E 三款机型。 屏幕是此次预热的核心。Find X10 系列将搭载新一代 1nit 明眸护眼屏，首发新一代原色光谱发光材料，从发光材料层面优化光谱。有…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-56cf28ebdef3",
+      "title": "Huawei Mate 90 series display, chip, and camera details leak before launch",
+      "source": "Gizmochina",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-15",
+      "time": "00:42",
+      "publishedAt": "2026-09-15T00:42:07.000Z",
+      "url": "https://www.gizmochina.com/2026/09/15/huawei-mate-90-series-display-chip-and-camera-details-leak-before-launch/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2025/12/HUAWEI-Mate-80-Pro-Max.mp4_20251212_165244.298-300x150.jpg?x96852",
+      "summary": "We’ve been hearing about the Mate 90 series for months, thanks to steady streams of industry leaks. A new leak by tipster Digital Chat Station now adds more to what we know about…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d93c2b0ba96c",
+      "title": "Honor Magic 9 Pro Max makes Geekbench run with the Snapdragon 8 Elite Gen 6 Pro",
+      "source": "Gizmochina",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-15",
+      "time": "00:40",
+      "publishedAt": "2026-09-15T00:40:49.000Z",
+      "url": "https://www.gizmochina.com/2026/09/15/honor-magic-9-pro-max-makes-geekbench-run-with-the-snapdragon-8-elite-gen-6-pro/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Honor-Magic-9-Pro-Max-Design-300x200.jpg?x96852",
+      "summary": "The Honor Magic 9 series is launching on September 28 in China, and the teasers are in full swing. The company recently confirmed the full lineup along with its color and memory o…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-626e77f7aeec",
+      "title": "New Apple CEO John Ternus attending Emmy Awards (and sporting iPhone Duo)",
+      "source": "9to5Mac",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
-      "date": "2026-09-14",
-      "time": "22:00",
-      "publishedAt": "2026-09-14T22:00:33.000Z",
-      "url": "https://www.ithome.com/1/002/335.htm",
-      "image": "",
-      "summary": "IT之家 9 月 15 日消息，Valve 今日向 SteamOS Beta 和预览通道推送了最新测试更新，本次更新主要针对风扇控制问题进行修复，新功能仍处于测试阶段，用户可通过设置 > 系统 > 系统更新通道加入测试通道体验。 通用更新 修复了一个罕见问题：风扇转速会恢复为 BIOS 控制直至设备重启，该问题会导致风扇转速高于正常水平 据IT之家此前报道…",
+      "date": "2026-09-15",
+      "time": "00:23",
+      "publishedAt": "2026-09-15T00:23:33.000Z",
+      "url": "https://9to5mac.com/2026/09/14/new-apple-ceo-john-ternus-attending-emmy-awards-and-sporting-iphone-duo/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-sep-2026-keynote.jpg?quality=82&strip=all&w=1600",
+      "summary": "It’s Emmy Awards night, and John Ternus is in attendance. The new Apple CEO officially took over for Tim Cook two weeks ago, and he’s already doing iPhone Duo product demos for th…",
       "tags": [
         "iPhone",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-728bbee10ddb",
+      "title": "Apple unveils iPhone Duo",
+      "source": "Apple Newsroom",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-09-15",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
+      "image": "",
+      "summary": "Apple today introduced iPhone Duo, the first foldable iPhone.",
+      "tags": [
+        "iPhone",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-07e6d6658c80",
+      "title": "Apple debuts iPhone 18 Pro and iPhone 18 Pro Max",
+      "source": "Apple Newsroom",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-09-15",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+      "image": "",
+      "summary": "Apple announced iPhone 18 Pro and iPhone 18 Pro Max, delivering an advanced pro camera system and improved battery life and performance.",
+      "tags": [
+        "iPhone",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "newsnow-3b57557da68e",
+      "title": "iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-15",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/114449",
+      "image": "",
+      "summary": "iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-2ab06f495ad7",
+      "title": "新 iPhone 配件精选：多种组合一次配齐",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-15",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/114414",
+      "image": "",
+      "summary": "新 iPhone 配件精选：多种组合一次配齐",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-3753b5b59d64",
+      "title": "可以「折」的 iPhone 正式亮相：Apple 发布会看点回顾",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-15",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/114392",
+      "image": "",
+      "summary": "可以「折」的 iPhone 正式亮相：Apple 发布会看点回顾",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-1faf7f949264",
+      "title": "我一定会回来……吗？小手用户与 iPhone 17 Pro Max 的一年",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-15",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/114366",
+      "image": "",
+      "summary": "我一定会回来……吗？小手用户与 iPhone 17 Pro Max 的一年",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-0d329d673e71",
+      "title": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-15",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/114084",
+      "image": "",
+      "summary": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-9f336f889486",
+      "title": "线下活动 | 全新 iPhone 发布在即，来与少数派一起看 Apple 发布会",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-15",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/114071",
+      "image": "",
+      "summary": "线下活动 | 全新 iPhone 发布在即，来与少数派一起看 Apple 发布会",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-c25782e93cb5",
+      "title": "全球首款阔直板探索计划：华为 Pura X View 新品有奖体验",
+      "source": "少数派热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-15",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/113883",
+      "image": "",
+      "summary": "全球首款阔直板探索计划：华为 Pura X View 新品有奖体验",
+      "tags": [
+        "Huawei",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-a88acf8fe99e",
+      "title": "用了半天了，触控不跟手，系统动画帧率低，系统动画流畅度和触摸跟手程度完全不如我之前的oppo find x9ultra，续航跟x9u差不多，为啥那么多人说这个芯片牛x，鸿蒙系统软硬芯云优化续航比10000毫安的安卓还强。[撇嘴]",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-15",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73749997",
+      "image": "",
+      "summary": "用了半天了，触控不跟手，系统动画帧率低，系统动画流畅度和触摸跟手程度完全不如我之前的oppo find x9ultra，续航跟x9u差不多，为啥那么多人说这个芯片牛x，鸿蒙系统软硬芯云优化续航比10000毫安的安卓还强。[撇嘴]",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-ec4fd3f06fe9",
+      "title": "悬着的心终于死了，安卓里最注重外观设计的黑厂拉了，还是看看远方的荣耀magic9promax洗洗眼吧[微笑]",
+      "source": "酷安热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-15",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73744165",
+      "image": "",
+      "summary": "悬着的心终于死了，安卓里最注重外观设计的黑厂拉了，还是看看远方的荣耀magic9promax洗洗眼吧[微笑]",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-d2c6513e9aa9",
+      "title": "Find X10系列外观官方正式爆出。OMG，你真的丑到我了[挨打]",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-15",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73740234",
+      "image": "",
+      "summary": "Find X10系列外观官方正式爆出。OMG，你真的丑到我了[挨打]",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-1b2781964f51",
+      "title": "小米18Fold仿iPhone Duo动画模块来啦",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-15",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73739545",
+      "image": "",
+      "summary": "小米18Fold仿iPhone Duo动画模块来啦",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-350628bb0b5e",
+      "title": "华为 Mate90 系列曝光：新芯片 / 2 亿单潜望",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-15",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73749326",
+      "image": "",
+      "summary": "华为 Mate90 系列曝光：新芯片 / 2 亿单潜望",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-5f15d00d2e6d",
+      "title": "年度比丑大赛，懂我意思吧，新机外观就剩华为小米了[受虐滑稽] #荣耀Magic9# #OPPOFindX10# #vivoX500#",
+      "source": "酷安热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-15",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73743333",
+      "image": "",
+      "summary": "年度比丑大赛，懂我意思吧，新机外观就剩华为小米了[受虐滑稽] #荣耀Magic9# #OPPOFindX10# #vivoX500#",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-39ab6588d612",
+      "title": "摸到了摸到了[流汗滑稽]OPPO Find X10 ProMax#ColorOS17#",
+      "source": "酷安热榜",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-15",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73746653",
+      "image": "",
+      "summary": "摸到了摸到了[流汗滑稽]OPPO Find X10 ProMax#ColorOS17#",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-5ca494d1fd88",
+      "title": "关键词解锁服贸会上的经济新机遇",
+      "source": "今日头条热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-15",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7684512022671982635/",
+      "image": "",
+      "summary": "关键词解锁服贸会上的经济新机遇",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-cdfd26a59ee7",
+      "title": "全键盘版“阔直板”手机爆火",
+      "source": "今日头条热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-15",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7684950705249583123/",
+      "image": "",
+      "summary": "全键盘版“阔直板”手机爆火",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-c75a4e2e39c4",
+      "title": "苹果回应iPhone 18 Pro破发",
+      "source": "今日头条热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-15",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7684654232915804202/",
+      "image": "",
+      "summary": "苹果回应iPhone 18 Pro破发",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-f1dd4cb95cfb",
+      "title": "iPhone Duo开合动画有多惊艳",
+      "source": "今日头条热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-15",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7684129895844364294/",
+      "image": "",
+      "summary": "iPhone Duo开合动画有多惊艳",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
       ]
     },
     {
@@ -382,46 +1042,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-0a62431fb58b",
-      "title": "竹本青：【iPhone 17系列 中国区最新销量曝光：周增约49.44万台，累计约4229万台】 9月14日，博主「RD观…",
-      "source": "竹本青",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-14",
-      "time": "14:51",
-      "publishedAt": "2026-09-14T14:51:27.000Z",
-      "url": "https://www.coolapk.com/feed/73755230",
-      "image": "http://image.coolapk.com/feed/2026/0914/22/4248714_4b7cc665_7487_0203_820@2160x1736.jpg",
-      "summary": "【iPhone 17系列 中国区最新销量曝光：周增约49.44万台，累计约4229万台】 9月14日，博主「RD观测」发布第三方统计数据：截至2026年第36周，iPhone 17系列手机在中国市场累计销量约4229.02万台，周新增约49.44万台。 前几周数据如下： 截至 W35 —— 约4179.58万（周增59.68万） 截至 W34 —— 约41…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-9bed41da724e",
-      "title": "竹本青：【华为Mate 80系列 最新销量曝光：周增近13.2万台，累计超911万台】 9月14日，博主「RD观测」分享第…",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-14",
-      "time": "14:45",
-      "publishedAt": "2026-09-14T14:45:12.000Z",
-      "url": "https://www.coolapk.com/feed/73755119",
-      "image": "http://image.coolapk.com/feed/2026/0914/22/4248714_999fe534_7111_174_177@1440x1766.jpg",
-      "summary": "【华为Mate 80系列 最新销量曝光：周增近13.2万台，累计超911万台】 9月14日，博主「RD观测」分享第三方统计数据：截至2026年第36周，华为Mate 80系列累计销量约911.1万台，周新增约13.17万台。 前几周数据如下： 截至26 W35 —— 约897.93万（周增16.05万） 截至26 W34 —— 约881.88万（周增18.…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-6d8a9649538f",
       "title": "iPhone 18 Pro, Pro Max pre-orders now delayed to October for most models",
       "source": "9to5Mac",
@@ -542,26 +1162,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-230926e2bddf",
-      "title": "消息称多家大厂派开发人员赴苹果总部，适配 iPhone Duo 折叠手机",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-14",
-      "time": "10:29",
-      "publishedAt": "2026-09-14T10:29:12.000Z",
-      "url": "https://www.ithome.com/1/002/243.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/176a217e-caad-4daf-a593-5e326c88c2e4.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 14 日消息，苹果在今年秋季发布会发布了首款折叠屏手机 iPhone Duo，定价 15999 元起。 据大厂青年公众号消息，在发布会之前，国内多家大厂已经安排开发人员赴美前往苹果公司总部，提前适配新款折叠屏 iPhone。 这次留给开发者的窗口期非常短，从发布会到新机正式发售，中间就只有六周时间… 目前有几家厂的适配工作已经进入封闭开发…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-a76356046920",
       "title": "Huawei Pura X Max shows 76.5% sales boom after iPhone Duo launch",
       "source": "Huawei Central",
@@ -599,26 +1199,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "评测",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-c6ce066033f2",
-      "title": "竹本青：【OriginOS 7 官方预热：全新小V光效】 唤醒小V，光效会瞬间铺开；长按说话，光效会在对话框流动，告诉你它…",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-14",
-      "time": "10:02",
-      "publishedAt": "2026-09-14T10:02:30.000Z",
-      "url": "https://www.coolapk.com/feed/73750349",
-      "image": "http://image.coolapk.com/feed/2026/0914/18/4248714_9c2b673b_0148_7565_511-livepic@1084x1444.jpg",
-      "summary": "【OriginOS 7 官方预热：全新小V光效】 唤醒小V，光效会瞬间铺开；长按说话，光效会在对话框流动，告诉你它正在听；执行任务时，光又会沿着屏幕边缘快速传递，再自然把视线带向结果。 在听、在处理，还是已经完成，智慧的发生，一眼就能感知。 #OriginOS6# #今日热点# #OriginOS7#",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -1002,26 +1582,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-f65aa619260b",
-      "title": "Standard Honor Magic 9 announced in four new colors",
-      "source": "Huawei Central",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-14",
-      "time": "03:43",
-      "publishedAt": "2026-09-14T03:43:56.000Z",
-      "url": "https://www.huaweicentral.com/standard-honor-magic-9-announced-in-four-new-colors/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/09/Black-Magic-9.jpg",
-      "summary": "Honor today announced the standard Magic 9 smartphone, showcasing the device in four new colors. While the original shades like White and Black continue to surface, the upcoming m…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-cfbf4fa4a129",
       "title": "iQOO 16 announced as the world’s first to feature a 2K 165Hz display",
       "source": "Gizmochina",
@@ -1062,26 +1622,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-fbc998084102",
-      "title": "Honor Magic 9 will be first Android phone with 55MP square selfie camera",
-      "source": "Huawei Central",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-14",
-      "time": "02:27",
-      "publishedAt": "2026-09-14T02:27:17.000Z",
-      "url": "https://www.huaweicentral.com/honor-magic-9-square-selfie-camera/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/09/selfie-camera-teaser.jpg",
-      "summary": "Honor has dropped a new teaser confirming the Magic 9 as the first Android phone with a 55MP square selfie camera. After Apple’s flagship handsets, the upcoming Magic lineup will…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-b8e7abc022dd",
       "title": "Oppo Find X10 series design and launch date officially confirmed",
       "source": "Gizmochina",
@@ -1097,646 +1637,6 @@ window.phoneRadarAuto = {
       "summary": "Oppo has been confirming pieces of the Find X10 story in stages over the past few weeks — camera hardware, display specs, and now, finally, what the phones actually look like. The…",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-728bbee10ddb",
-      "title": "Apple unveils iPhone Duo",
-      "source": "Apple Newsroom",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "官方",
-      "trust": "官方确认",
-      "date": "2026-09-14",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
-      "image": "",
-      "summary": "Apple today introduced iPhone Duo, the first foldable iPhone.",
-      "tags": [
-        "iPhone",
-        "官方",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-07e6d6658c80",
-      "title": "Apple debuts iPhone 18 Pro and iPhone 18 Pro Max",
-      "source": "Apple Newsroom",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "官方",
-      "trust": "官方确认",
-      "date": "2026-09-14",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
-      "image": "",
-      "summary": "Apple announced iPhone 18 Pro and iPhone 18 Pro Max, delivering an advanced pro camera system and improved battery life and performance.",
-      "tags": [
-        "iPhone",
-        "官方",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "newsnow-9b988b2e8306",
-      "title": "新 iPhone 配件精选：多种组合一次配齐",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-09-14",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/114414",
-      "image": "",
-      "summary": "新 iPhone 配件精选：多种组合一次配齐",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-45861fa18224",
-      "title": "可以「折」的 iPhone 正式亮相：Apple 发布会看点回顾",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-09-14",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/114392",
-      "image": "",
-      "summary": "可以「折」的 iPhone 正式亮相：Apple 发布会看点回顾",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-8ad98bbdc831",
-      "title": "我一定会回来……吗？小手用户与 iPhone 17 Pro Max 的一年",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-09-14",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/114366",
-      "image": "",
-      "summary": "我一定会回来……吗？小手用户与 iPhone 17 Pro Max 的一年",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-465fb7195383",
-      "title": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-09-14",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/114084",
-      "image": "",
-      "summary": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-a02fed9386fb",
-      "title": "线下活动 | 全新 iPhone 发布在即，来与少数派一起看 Apple 发布会",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-09-14",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/114071",
-      "image": "",
-      "summary": "线下活动 | 全新 iPhone 发布在即，来与少数派一起看 Apple 发布会",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-b3d47281419a",
-      "title": "全球首款阔直板探索计划：华为 Pura X View 新品有奖体验",
-      "source": "少数派热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-09-14",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/113883",
-      "image": "",
-      "summary": "全球首款阔直板探索计划：华为 Pura X View 新品有奖体验",
-      "tags": [
-        "Huawei",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-972a58c07423",
-      "title": "用个手机还能用出圈子来了，竟然还有130个点赞。",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-14",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73756251",
-      "image": "",
-      "summary": "用个手机还能用出圈子来了，竟然还有130个点赞。",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-19de38c33cf0",
-      "title": "用了半天了，触控不跟手，系统动画帧率低，系统动画流畅度和触摸跟手程度完全不如我之前的oppo find x9ultra，续航跟x9u差不多，为啥那么多人说这个芯片牛x，鸿蒙系统软硬芯云优化续航比10000毫安的安卓还强。[撇嘴]",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-14",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73749997",
-      "image": "",
-      "summary": "用了半天了，触控不跟手，系统动画帧率低，系统动画流畅度和触摸跟手程度完全不如我之前的oppo find x9ultra，续航跟x9u差不多，为啥那么多人说这个芯片牛x，鸿蒙系统软硬芯云优化续航比10000毫安的安卓还强。[撇嘴]",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-437e8e9e001a",
-      "title": "悬着的心终于死了，安卓里最注重外观设计的黑厂拉了，还是看看远方的荣耀magic9promax洗洗眼吧[微笑]",
-      "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-14",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73744165",
-      "image": "",
-      "summary": "悬着的心终于死了，安卓里最注重外观设计的黑厂拉了，还是看看远方的荣耀magic9promax洗洗眼吧[微笑]",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-628d23d401f1",
-      "title": "Find X10系列外观官方正式爆出。OMG，你真的丑到我了[挨打]",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-14",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73740234",
-      "image": "",
-      "summary": "Find X10系列外观官方正式爆出。OMG，你真的丑到我了[挨打]",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-58ab4923eb5c",
-      "title": "小米18Fold仿iPhone Duo动画模块来啦",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-14",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73739545",
-      "image": "",
-      "summary": "小米18Fold仿iPhone Duo动画模块来啦",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-be9ecfac36ff",
-      "title": "摸到了摸到了[流汗滑稽]OPPO Find X10 ProMax#ColorOS17#",
-      "source": "酷安热榜",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-14",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73746653",
-      "image": "",
-      "summary": "摸到了摸到了[流汗滑稽]OPPO Find X10 ProMax#ColorOS17#",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-dbcb060ae853",
-      "title": "华为 Mate90 系列曝光：新芯片 / 2 亿单潜望",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-14",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73749326",
-      "image": "",
-      "summary": "华为 Mate90 系列曝光：新芯片 / 2 亿单潜望",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-d75b8b8b233a",
-      "title": "iOS升级包版本显示Bug",
-      "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-09-14",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=iOS%E5%8D%87%E7%BA%A7%E5%8C%85%E7%89%88%E6%9C%AC%E6%98%BE%E7%A4%BABug&t=31&band_rank=20&Refer=top",
-      "image": "",
-      "summary": "iOS升级包版本显示Bug",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-7ed2f2f1a6ff",
-      "title": "苹果回应iPhone18Pro破发",
-      "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-09-14",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94iPhone18Pro%E7%A0%B4%E5%8F%91%23&t=31&band_rank=23&Refer=top",
-      "image": "",
-      "summary": "苹果回应iPhone18Pro破发",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-191c91444267",
-      "title": "一部手机看金砖国家合作前景",
-      "source": "B站热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-14",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E9%83%A8%E6%89%8B%E6%9C%BA%E7%9C%8B%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E5%90%88%E4%BD%9C%E5%89%8D%E6%99%AF",
-      "image": "",
-      "summary": "一部手机看金砖国家合作前景",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-75d898576d62",
-      "title": "中端手机怎么越来越少了",
-      "source": "今日头条热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-14",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7685359274897182271/",
-      "image": "",
-      "summary": "中端手机怎么越来越少了",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-e2f221a5c031",
-      "title": "苹果回应iPhone18Pro破发",
-      "source": "百度热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-14",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94iPhone18Pro%E7%A0%B4%E5%8F%91",
-      "image": "",
-      "summary": "苹果回应iPhone18Pro破发",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-39b6b790e83f",
-      "title": "60个手机号挂名下 男子14年后才发现",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-14",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=60%E4%B8%AA%E6%89%8B%E6%9C%BA%E5%8F%B7%E6%8C%82%E5%90%8D%E4%B8%8B+%E7%94%B7%E5%AD%9014%E5%B9%B4%E5%90%8E%E6%89%8D%E5%8F%91%E7%8E%B0",
-      "image": "",
-      "summary": "60个手机号挂名下 男子14年后才发现",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-a535ed5cd9a3",
-      "title": "Apple is designing its own game controllers for iPhone, could be Beats branded",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-13",
-      "time": "14:26",
-      "publishedAt": "2026-09-13T14:26:11.000Z",
-      "url": "https://9to5mac.com/2026/09/13/apple-designing-iphone-game-controller/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-game-controller-backbone.jpg?quality=82&strip=all&w=1600",
-      "summary": "Bloomberg’s Mark Gurman has today corroborated references discovered in macOS beta code that indicated Apple is designing its own game controllers for iPhone. Apple already sells…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5c9811293bd9",
-      "title": "The iPhone Duo didn’t reinvent Android foldables, but I fear the copycats anyway",
-      "source": "9to5Google",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-13",
-      "time": "13:00",
-      "publishedAt": "2026-09-13T13:00:00.000Z",
-      "url": "https://9to5google.com/2026/09/13/iphone-duo-didnt-reinvent-android-foldables/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/iphone-duo-3.jpg?quality=82&strip=all&w=1600",
-      "summary": "Apple’s first foldable is here and, shocker , it didn’t exactly reinvent the foldable, but the iPhone Duo did get some of the most important aspects right, and will give the Andro…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b20664ccf3ce",
-      "title": "Google is hiding a helpful Camera Looks shortcut on the Pixel 11 — how to enable it",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-13",
-      "time": "10:00",
-      "publishedAt": "2026-09-13T10:00:45.000Z",
-      "url": "https://www.androidauthority.com/camera-looks-shortcut-pixel-11-how-enable-3706575/",
-      "image": "",
-      "summary": "I finally found a better way to use Pixel 11's Camera Looks.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-755652671e31",
-      "title": "JSCHEN小小狐：『极客湾发布麒麟 9050 Pro 实测：能效大提升』 测试机型：华为 Mate XT 2 非凡大师 内存规格：4…",
-      "source": "JSCHEN小小狐",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-13",
-      "time": "08:48",
-      "publishedAt": "2026-09-13T08:48:21.000Z",
-      "url": "https://www.coolapk.com/feed/73732094",
-      "image": "http://image.coolapk.com/feed/2026/0913/16/4702274_528ecd16_9293_7722_518@1919x4321.jpg",
-      "summary": "『极客湾发布麒麟 9050 Pro 实测：能效大提升』 测试机型：华为 Mate XT 2 非凡大师 内存规格：4×16bit LPDDR5X 10667MT/s CPU 超大核： ◇ 整数高频能效表现接近 8 Gen2 X3 超大核 ◇ 浮点高频能效介于 8G2 X3、8G3 X4 之间 ◇ 2.75GHz 同频功耗较 9030 Pro 下降 30% ◇…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-d9ebf4e360eb",
-      "title": "Motorola Edge 70 Neo shows up on Geekbench with Snapdragon 7-series mobile platform",
-      "source": "Gizmochina",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-13",
-      "time": "07:20",
-      "publishedAt": "2026-09-13T07:20:32.000Z",
-      "url": "https://www.gizmochina.com/2026/09/13/motorola-edge-70-neo-shows-up-on-geekbench-with-snapdragon-7-series-mobile-platform/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Motorola-Edge-70-Plus-1-3-300x162.png?x96852",
-      "summary": "Earlier this month, Motorola confirmed that the Edge 70 Neo is coming to India, but the company has yet to reveal its full specifications. The Edge 70 Neo has now shown up on Geek…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-4b56708f7964",
-      "title": "Vivo X500 hands-on image reveals new Dimensity 9600M chip",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-13",
-      "time": "06:57",
-      "publishedAt": "2026-09-13T06:57:25.000Z",
-      "url": "https://www.gizmochina.com/2026/09/13/vivo-x500-hands-on-image-reveals-new-dimensity-9600m-chip/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Vivo-X500-hands-on-225x300.jpg?x96852",
-      "summary": "Vivo confirmed the standard X500’s camera hardware through a Weibo teaser from earlier this month, and now tipster Panda is Bald has gone hands-on with the phone itself. The image…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-4c0680a6e0b4",
-      "title": "Honor Magic 9 series confirmed to feature Android’s first 55MP square selfie camera",
-      "source": "Gizmochina",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-13",
-      "time": "06:37",
-      "publishedAt": "2026-09-13T06:37:20.000Z",
-      "url": "https://www.gizmochina.com/2026/09/13/honor-magic-9-series-confirmed-to-feature-androids-first-55mp-square-selfie-camera/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Honor-Magic-9-series-pre-reservations--300x232.jpg?x96852",
-      "summary": "Honor has already confirmed that the Magic9 series will bring a 500mm teleconverter kit and dual 200-megapixel ARRI cameras on the back. The company today revealed the front camer…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-355750f487ae",
-      "title": "Google Pixel 11 vs iPhone 17: Which Flagship Phone Should You Buy?",
-      "source": "Gizmochina",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-13",
-      "time": "06:25",
-      "publishedAt": "2026-09-13T06:25:40.000Z",
-      "url": "https://www.gizmochina.com/2026/09/13/google-pixel-11-vs-iphone-17/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/image-99-300x169.png?x96852",
-      "summary": "On paper, the Pixel 11 and iPhone 17 look like evenly matched rivals. In practice, they make very different trade-offs. The Pixel 11 bets on camera versatility, battery life and G…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5f9190dfc37e",
-      "title": "OnePlus 16 might not launch in any international market at all",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-13",
-      "time": "05:58",
-      "publishedAt": "2026-09-13T05:58:27.000Z",
-      "url": "https://www.gizmochina.com/2026/09/13/oneplus-16-might-not-launch-in-any-international-market-at-all/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/OnePlus-15-5G-phone-300x200.png?x96852",
-      "summary": "The OnePlus 16 has been on shaky ground for the Indian market for some time, and a new leak suggests what OnePlus could offer instead. According to tipster Yogesh Brar, the OnePlu…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c5ffeb0ddb33",
-      "title": "iPhone 18 Pro pre-orders: Here’s what still arrives on launch day",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-13",
-      "time": "00:38",
-      "publishedAt": "2026-09-13T00:38:49.000Z",
-      "url": "https://9to5mac.com/2026/09/12/iphone-18-pro-pre-orders-heres-what-still-arrives-on-launch-day/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-pro-max-hand.jpg?quality=82&strip=all&w=1600",
-      "summary": "Apple’s new iPhone 18 Pro and iPhone 18 Pro Max lineup went up for pre-order today , ahead of the September 18 launch day. As of Saturday evening, shipping estimates for some conf…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c04c447750be",
-      "title": "Here are my favorite fast charger recommendations for iPhone 18 Pro",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-13",
-      "time": "00:35",
-      "publishedAt": "2026-09-13T00:35:29.000Z",
-      "url": "https://9to5mac.com/2026/09/12/best-fast-chargers-for-iphone-18-pro/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-event-26-13.19.58.jpg?quality=82&strip=all&w=1600",
-      "summary": "Over the past year, I’ve had the pleasure of testing out loads of chargers and MagSafe charging stands for Apple devices. If you just preordered a new iPhone 18 Pro and you’re loo…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]

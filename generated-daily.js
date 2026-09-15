@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-14T23:07:10.412Z",
-  "issueDate": "2026-09-14",
-  "issue": "VOL.260914",
+  "updatedAt": "2026-09-15T04:53:09.120Z",
+  "issueDate": "2026-09-15",
+  "issue": "VOL.260915",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 8,
-    "iphone": 6,
+    "total": 9,
+    "iphone": 4,
     "leaks": 8,
-    "official": 0,
+    "official": 1,
     "specs": 0
   },
   "sections": [
@@ -17,30 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-230926e2bddf",
-          "title": "消息称多家大厂派开发人员赴苹果总部，适配 iPhone Duo 折叠手机",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-14",
-          "time": "10:29",
-          "publishedAt": "2026-09-14T10:29:12.000Z",
-          "url": "https://www.ithome.com/1/002/243.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/176a217e-caad-4daf-a593-5e326c88c2e4.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 9 月 14 日消息，苹果在今年秋季发布会发布了首款折叠屏手机 iPhone Duo，定价 15999 元起。 据大厂青年公众号消息，在发布会之前，国内多家大厂已经安排开发人员赴美前往苹果公司总部，提前适配新款折叠屏 iPhone。 这次留给开发者的窗口期非常短，从发布会到新机正式发售，中间就只有六周时间… 目前有几家厂的适配工作已经进入封闭开发…",
-          "detail": "IT之家 9 月 14 日消息，苹果在今年秋季发布会发布了首款折叠屏手机 iPhone Duo，定价 15999 元起。 据大厂青年公众号消息，在发布会之前，国内多家大厂已经安排开发人员赴美前往苹果公司总部，提前适配新款折叠屏 iPhone。 这次留给开发者的窗口期非常短，从发布会到新机正式发售，中间就只有六周时间… 目前有几家厂的适配工作已经进入封闭开发…",
-          "keyPoints": [
-            "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "auto-987cffb01d72",
           "title": "新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试",
@@ -59,6 +35,53 @@ window.phoneRadarDaily = {
           "detail": "照片能证明它被拍过，但不能证明镜头前是真的。",
           "keyPoints": [
             "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-1e540e60bff1",
+          "title": "OPPO F35 Pro 手机曝光：波浪纹理等 3 种颜色，预估 10000mAh 电池",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-15",
+          "time": "02:40",
+          "publishedAt": "2026-09-15T02:40:46.000Z",
+          "url": "https://www.ithome.com/1/002/469.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/dc2162f2-dce9-47b3-84d0-cf9b53907ad6.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 9 月 15 日消息，科技媒体 gizmochina 昨日（9 月 14 日）发布博文，分享了一组渲染图， 展示了 OPPO F35 和 OPPO F35 Pro 两款手机，共有 6 种颜色。 颜色方面，OPPO F35 Pro 提供棕色、橙色和浅蓝色 3 种配色，其中 1 个版本采用波浪状纹理；标准版 F35 提供粉色、银色和紫色 3 种配色，…",
+          "detail": "IT之家 9 月 15 日消息，科技媒体 gizmochina 昨日（9 月 14 日）发布博文，分享了一组渲染图， 展示了 OPPO F35 和 OPPO F35 Pro 两款手机，共有 6 种颜色。 颜色方面，OPPO F35 Pro 提供棕色、橙色和浅蓝色 3 种配色，其中 1 个版本采用波浪状纹理；标准版 F35 提供粉色、银色和紫色 3 种配色，…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "电池 / 充电"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-0d329d673e71",
+          "title": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
+          "originalTitle": "",
+          "source": "少数派热榜",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-09-15",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/114084",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
+          "detail": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
+          "keyPoints": [
+            "屏幕形态"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -88,21 +111,68 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-465fb7195383",
-          "title": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
+          "id": "auto-abbd83b60d58",
+          "title": "消息称三星 Galaxy Z TriFold 2 三折叠手机聚焦轻量化 / 耐用性升级，起售价仍为 2899 美元",
           "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
+          "source": "IT之家",
+          "brand": "Samsung",
+          "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-09-14",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/114084",
+          "date": "2026-09-15",
+          "time": "01:34",
+          "publishedAt": "2026-09-15T01:34:29.000Z",
+          "url": "https://www.ithome.com/1/002/404.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/f1f012cb-fea0-443d-8de0-7808f756db61.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 9 月 15 日消息，消息源 Lanzuk 在 Naver 博客发文称，三星已开始开发 Galaxy Z TriFold 2 三折叠手机，该机将维持与现款初代机型相近的定价，预计仍为 2,899 美元 （IT之家注：现汇率约合 19,496 元人民币） 。不过在当前零部件成本持续上涨的情况下，这一价格策略能否实现仍存在不确定性。 消息源透露，Ga…",
+          "detail": "IT之家 9 月 15 日消息，消息源 Lanzuk 在 Naver 博客发文称，三星已开始开发 Galaxy Z TriFold 2 三折叠手机，该机将维持与现款初代机型相近的定价，预计仍为 2,899 美元 （IT之家注：现汇率约合 19,496 元人民币） 。不过在当前零部件成本持续上涨的情况下，这一价格策略能否实现仍存在不确定性。 消息源透露，Ga…",
+          "keyPoints": [
+            "成本 / 价格",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-12991eff1fb8",
+          "title": "工信部、国家发改委：“十五五”规划提高先进制程能力，突破高端手机核心芯片、PC 高性能芯片，加强开源鸿蒙等国产操作系统搭载",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-15",
+          "time": "01:33",
+          "publishedAt": "2026-09-15T01:33:36.000Z",
+          "url": "https://www.ithome.com/1/002/403.htm",
           "image": "",
           "verdict": "先看",
-          "takeaway": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
-          "detail": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
+          "takeaway": "IT之家 9 月 15 日消息，为推动电子信息制造业高质量发展，工业和信息化部、国家发展改革委今日宣布联合印发《 电子信息制造业发展“十五五”规划 》（以下简称《规划》）。 《规划》锚定基本实现新型工业化目标，明确以推动高质量发展为主题，统筹高质量发展和高水平安全，抢抓人工智能发展机遇，加快电子信息制造业全产业链创新，按照“筑基、提质、育新、治理”思路，部…",
+          "detail": "IT之家 9 月 15 日消息，为推动电子信息制造业高质量发展，工业和信息化部、国家发展改革委今日宣布联合印发《 电子信息制造业发展“十五五”规划 》（以下简称《规划》）。 《规划》锚定基本实现新型工业化目标，明确以推动高质量发展为主题，统筹高质量发展和高水平安全，抢抓人工智能发展机遇，加快电子信息制造业全产业链创新，按照“筑基、提质、育新、治理”思路，部…",
+          "keyPoints": [
+            "芯片 / 性能"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-c97f75e89713",
+          "title": "iQOO 16 官宣 9 月 29 日发布，号称标准版产品力超 Pro Max",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-15",
+          "time": "01:20",
+          "publishedAt": "2026-09-15T01:20:49.000Z",
+          "url": "https://www.ithome.com/1/002/388.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/70acf131-67e4-42c6-a6a0-9c3f2bf74ad2.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 9 月 15 日消息，iQOO 官方今日宣布 iQOO16 将于 9 月 29 日 19:00 发布，发布即开售。 官方将 iQOO16 定位为性能旗舰，号称将以标准版之名提供超 Pro Max 的产品力。 在 9 月 14 日的三星显示 × iQOO 屏幕技术沟通会上，三星显示 × iQOO 双方史上最高规格技术合作正式官宣。IT之家从沟通会了…",
+          "detail": "IT之家 9 月 15 日消息，iQOO 官方今日宣布 iQOO16 将于 9 月 29 日 19:00 发布，发布即开售。 官方将 iQOO16 定位为性能旗舰，号称将以标准版之名提供超 Pro Max 的产品力。 在 9 月 14 日的三星显示 × iQOO 屏幕技术沟通会上，三星显示 × iQOO 双方史上最高规格技术合作正式官宣。IT之家从沟通会了…",
           "keyPoints": [
             "屏幕形态"
           ],
@@ -111,98 +181,58 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-d75b8b8b233a",
-          "title": "iOS升级包版本显示Bug",
+          "id": "auto-5c0e5cd57cbf",
+          "title": "OPPO Find X10 系列首发新一代原色光谱发光材料，支持 95% BT.2020 色域",
           "originalTitle": "",
-          "source": "微博热搜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "待验证",
-          "date": "2026-09-14",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://s.weibo.com/weibo?q=iOS%E5%8D%87%E7%BA%A7%E5%8C%85%E7%89%88%E6%9C%AC%E6%98%BE%E7%A4%BABug&t=31&band_rank=20&Refer=top",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iOS升级包版本显示Bug",
-          "detail": "iOS升级包版本显示Bug",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-a535ed5cd9a3",
-          "title": "iPhone 外观设计线索曝光",
-          "originalTitle": "",
-          "source": "9to5Mac",
-          "brand": "iPhone",
+          "source": "IT之家",
+          "brand": "OPPO",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-09-13",
-          "time": "14:26",
-          "publishedAt": "2026-09-13T14:26:11.000Z",
-          "url": "https://9to5mac.com/2026/09/13/apple-designing-iphone-game-controller/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-game-controller-backbone.jpg?quality=82&strip=all&w=1600",
+          "date": "2026-09-15",
+          "time": "01:05",
+          "publishedAt": "2026-09-15T01:05:50.000Z",
+          "url": "https://www.ithome.com/1/002/382.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/1ce02b7d-d68a-4a7b-8d71-a24450736cd8.jpg",
           "verdict": "先看",
-          "takeaway": "iPhone 外观设计线索曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
-          "detail": "iPhone 外观设计线索曝光。这类内容主要看外观设计、按键布局、相机模组和尺寸变化，后续最好等更多渲染图或保护壳线索互相验证。",
+          "takeaway": "IT之家 9 月 15 日消息，OPPO 官方宣布，Find X10 系列将于 9 月 22 日 19:00 全球首发。该系列将包含 Find X10、Find X10 Pro Max 和 Find X10 E 三款机型。 屏幕是此次预热的核心。Find X10 系列将搭载新一代 1nit 明眸护眼屏，首发新一代原色光谱发光材料，从发光材料层面优化光谱。有…",
+          "detail": "IT之家 9 月 15 日消息，OPPO 官方宣布，Find X10 系列将于 9 月 22 日 19:00 全球首发。该系列将包含 Find X10、Find X10 Pro Max 和 Find X10 E 三款机型。 屏幕是此次预热的核心。Find X10 系列将搭载新一代 1nit 明眸护眼屏，首发新一代原色光谱发光材料，从发光材料层面优化光谱。有…",
           "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-d869aa3baf8c",
-          "title": "JSCHEN小小狐：荣耀 Magic9 系列四配色亮相，肖战代言",
-          "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-09-14",
-          "time": "02:36",
-          "publishedAt": "2026-09-14T02:36:01.000Z",
-          "url": "https://www.coolapk.com/feed/73742796",
-          "image": "http://image.coolapk.com/feed/2026/0914/10/4702274_c71d218d_3358_1672_85@3750x2109.jpg",
-          "verdict": "先看",
-          "takeaway": "『荣耀 Magic9 系列四配色亮相：黑/白/青/银』 ◇ 幕布黑｜深邃如长镜（标准版、超能版） ◇ 开场白｜纯净如留白（标准版、超能版） ◇ 橄榄青｜流光自成帧（标准版、超能版） ◇ 银盐｜微光自生戏（Pro Max） *阿莱联合研发仅 Magic9、Magic9 Pro Max #今日热点# #荣耀Magic9ProMax# #荣耀Magic8Pro#",
-          "detail": "『荣耀 Magic9 系列四配色亮相：黑/白/青/银』 ◇ 幕布黑｜深邃如长镜（标准版、超能版） ◇ 开场白｜纯净如留白（标准版、超能版） ◇ 橄榄青｜流光自成帧（标准版、超能版） ◇ 银盐｜微光自生戏（Pro Max） *阿莱联合研发仅 Magic9、Magic9 Pro Max #今日热点# #荣耀Magic9ProMax# #荣耀Magic8Pro#",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-19de38c33cf0",
-          "title": "用了半天了，触控不跟手，系统动画帧率低，系统动画流畅度和触摸跟手程度完全不如我之前的oppo find x9ultra，续航跟x9u差不多，为啥那么多人说这个芯片牛x，鸿蒙系统软硬芯云优化续航比10000毫安的安卓还强。[撇嘴]",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-09-14",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73749997",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "用了半天了，触控不跟手，系统动画帧率低，系统动画流畅度和触摸跟手程度完全不如我之前的oppo find x9ultra，续航跟x9u差不多，为啥那么多人说这个芯片牛x，鸿蒙系统软硬芯云优化续航比10000毫安的安卓还强。[撇嘴]",
-          "detail": "用了半天了，触控不跟手，系统动画帧率低，系统动画流畅度和触摸跟手程度完全不如我之前的oppo find x9ultra，续航跟x9u差不多，为啥那么多人说这个芯片牛x，鸿蒙系统软硬芯云优化续航比10000毫安的安卓还强。[撇嘴]",
-          "keyPoints": [
-            "电池 / 充电",
-            "芯片 / 性能"
+            "屏幕形态"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        }
+      ]
+    },
+    {
+      "id": "iphone",
+      "title": "iPhone 重点",
+      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
+      "items": [
+        {
+          "id": "auto-07e6d6658c80",
+          "title": "iPhone 18 Pro 发布 / 上市相关消息",
+          "originalTitle": "",
+          "source": "Apple Newsroom",
+          "brand": "iPhone",
+          "type": "官方",
+          "trust": "官方确认",
+          "date": "2026-09-15",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone 18 Pro 发布 / 上市相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 18 Pro 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "影像硬件",
+            "电池 / 充电"
+          ],
+          "confidence": "官方内容，可直接作为已确认信息记录。",
+          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     }
