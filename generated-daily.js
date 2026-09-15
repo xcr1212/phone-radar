@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-15T16:57:59.698Z",
+  "updatedAt": "2026-09-15T21:19:52.480Z",
   "issueDate": "2026-09-15",
   "issue": "VOL.260915",
   "title": "手机情报日报",
-  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
     "total": 9,
-    "iphone": 5,
+    "iphone": 6,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -35,6 +35,29 @@ window.phoneRadarDaily = {
           "detail": "照片能证明它被拍过，但不能证明镜头前是真的。",
           "keyPoints": [
             "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-156b968557dd",
+          "title": "iPhone 16 Pro 对比 iPhone 18 Pro：差异整理",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-15",
+          "time": "19:17",
+          "publishedAt": "2026-09-15T19:17:47.000Z",
+          "url": "https://www.macrumors.com/guide/iphone-16-pro-vs-18-pro/",
+          "image": "https://images.macrumors.com/article-new/2026/09/iPhone-16-Pro-vs-18-Pro-Buyers-Guide-Feature.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 16 Pro 对比 iPhone 18 Pro：重点看定位、配置差异和价格差，判断是否值得等更高端型号。",
+          "detail": "iPhone 16 Pro 对比 iPhone 18 Pro 的差异整理。重点看两款机型的定位、影像规格、屏幕尺寸、价格区间和发布时间是否拉开差距。",
+          "keyPoints": [
+            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -175,30 +198,6 @@ window.phoneRadarDaily = {
           "detail": "IT之家 9 月 15 日消息，在今晚的荣耀 HGDC 2026 荣耀开发者大会上，MagicOS 11 系统正式发布。 目前，荣耀官方已公布 MagicOS 11 系统的升级计划，IT之家整理机型如下： 第一批 今日开启正式版不限量尝鲜： 手机： 荣耀 Magic V6 、荣耀 Magic V5、 荣耀 Magic8 RSR 保时捷设计 、荣耀 Magi…",
           "keyPoints": [
             "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-4f525e9f0fa0",
-          "title": "三星发布 Galaxy A18 4G 手机，搭载 Exynos 1610 处理器",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-15",
-          "time": "12:07",
-          "publishedAt": "2026-09-15T12:07:20.000Z",
-          "url": "https://www.ithome.com/1/002/752.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/334f35d1-17b6-499a-8861-a7e2080f762f.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 9 月 15 日消息，三星正在密集推出新款 Galaxy A 系列入门手机。继 Galaxy A07s 与 Galaxy A08 之后，该公司正式发布了 Galaxy A18。这款机型现已在法国开售，售价 279 欧元 （IT之家注：现汇率约合 2,166 元人民币） ，给预算有限的消费者又多了一款平价 Galaxy 机型可供选择，该机很快就会登…",
-          "detail": "IT之家 9 月 15 日消息，三星正在密集推出新款 Galaxy A 系列入门手机。继 Galaxy A07s 与 Galaxy A08 之后，该公司正式发布了 Galaxy A18。这款机型现已在法国开售，售价 279 欧元 （IT之家注：现汇率约合 2,166 元人民币） ，给预算有限的消费者又多了一款平价 Galaxy 机型可供选择，该机很快就会登…",
-          "keyPoints": [
-            "芯片 / 性能",
-            "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",

@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-15T16:57:59.698Z",
+  "updatedAt": "2026-09-15T21:19:52.480Z",
   "news": [
     {
       "id": "weibo-ef82f9b527cb",
@@ -10,8 +10,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-15",
-      "time": "16:57",
-      "publishedAt": "2026-09-15T16:57:59.698Z",
+      "time": "21:19",
+      "publishedAt": "2026-09-15T21:19:52.480Z",
       "url": "https://weibo.com/6048569942/RibwJCi0O",
       "image": "",
       "summary": "受内存涨价影响，AOVMHh上一代旗舰机均已经完成一轮1000元档位的普涨。 而在此基础上，即将发布的国产旗舰新机产品定义变得非常有意思，大致可以分为三类： 换皮：N-1芯片 + 常规小迭代，有望售价不变 换芯：N代芯片 + 常规小迭代，起售价涨500± 换新：N代芯片 + 激进大迭代，直接放开成本限制，大迭代猛堆料，价格将上探1000±",
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-15",
-      "time": "16:57",
-      "publishedAt": "2026-09-15T16:57:59.698Z",
+      "time": "21:19",
+      "publishedAt": "2026-09-15T21:19:52.480Z",
       "url": "https://weibo.com/6048569942/Ri4TPkZah",
       "image": "",
       "summary": "咳咳，如之前我爆料的信息，大杯系列都有双层OLED，万级高亮度，大大杯顶配新屏亮度更高；中杯N-1芯片，大杯N-1小升级版芯片，大大杯系列N代新芯片；电池6600mAh±，6800mAh±；全系三摄单长焦，大大杯上2亿潜望……[污]",
@@ -39,6 +39,126 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "微博"
+      ]
+    },
+    {
+      "id": "auto-156b968557dd",
+      "title": "iPhone 16 Pro vs. iPhone 18 Pro Buyer's Guide: Worth Upgrading?",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-15",
+      "time": "19:17",
+      "publishedAt": "2026-09-15T19:17:47.000Z",
+      "url": "https://www.macrumors.com/guide/iphone-16-pro-vs-18-pro/",
+      "image": "https://images.macrumors.com/article-new/2026/09/iPhone-16-Pro-vs-18-Pro-Buyers-Guide-Feature.jpg",
+      "summary": "Apple last week announced the iPhone 18 Pro and &zwnj;iPhone 18 Pro&zwnj; Max, arriving two years after the iPhone 16 Pro and &zwnj;iPhone 16&zwnj; Pro Max. Skipping a generation…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-584e003bea59",
+      "title": "Google just shared these fun Pixel 11 blueprint wallpapers [Gallery]",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-15",
+      "time": "17:55",
+      "publishedAt": "2026-09-15T17:55:00.000Z",
+      "url": "https://9to5google.com/2026/09/15/google-pixel-11-blueprint-wallpapers/",
+      "image": "",
+      "summary": "Google has shared some new blueprint-style wallpapers for the Pixel 11 series, and they look pretty awesome. more…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-045d4784846d",
+      "title": "iPhone Duo could be very hard to get at launch, per report",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-15",
+      "time": "17:45",
+      "publishedAt": "2026-09-15T17:45:22.000Z",
+      "url": "https://9to5mac.com/2026/09/15/iphone-duo-could-be-very-hard-to-get-at-launch-per-report/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-siri-app.jpg?quality=82&strip=all&w=1600",
+      "summary": "iPhone Duo pre-orders open next month , and a new analyst report indicates the device could be in even shorter supply at launch than expected. Here are the details. more…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a960793892d8",
+      "title": "Oppo confirms global Find X10 Pro Max launch powered by MediaTek’s latest flagship chip",
+      "source": "9to5Google",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-15",
+      "time": "17:35",
+      "publishedAt": "2026-09-15T17:35:00.000Z",
+      "url": "https://9to5google.com/2026/09/15/oppo-find-x10-pro-max-global-launch-mediatek/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/oppo-find-x10-pro-max-3-copy.jpg?quality=82&strip=all&w=1400",
+      "summary": "Alongside the latest MediaTek chip, Oppo has also confirmed that its new Find X10 Pro Max flagship will be available in global markets. more…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-03878b7e486d",
+      "title": "The best Mint Mobile deals of September 2026 — up to $500 off Pixel 11 phones, 50% off wireless, and more",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-15",
+      "time": "17:29",
+      "publishedAt": "2026-09-15T17:29:16.000Z",
+      "url": "https://www.androidcentral.com/phones/mint-mobile/top-mint-mobile-deals-promo-codes-2026",
+      "image": "https://cdn.mos.cms.futurecdn.net/QYaWj3isE7uepq9ox8duKC-1280-80.jpg",
+      "summary": "Mint Mobile has always been touted as an affordable alternative to the traditional wireless carrier. Here are some ways you can make that cheap plan even cheaper.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2c51754ae142",
+      "title": "Get ready: the Xiaomi 18 Pro is coming with an even more magical rear display",
+      "source": "Android Central",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-15",
+      "time": "17:08",
+      "publishedAt": "2026-09-15T17:08:14.000Z",
+      "url": "https://www.androidcentral.com/phones/xiaomi/get-ready-the-xiaomi-18-pro-is-coming-with-an-even-more-magical-rear-display",
+      "image": "https://cdn.mos.cms.futurecdn.net/iiKUetRx3cwYKGFJrKr8NZ-1280-80.jpg",
+      "summary": "Xiaomi's last phones broke records, thanks to the rear display. Official teasers for the 18 Pro series show its return and say it's better than before.",
+      "tags": [
+        "Xiaomi",
+        "评测",
+        "自动抓取"
       ]
     },
     {
@@ -1122,48 +1242,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-a3f948c5cfb1",
-      "title": "用个手机还能用出圈子来了，竟然还有130个点赞。",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-15",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73756251",
-      "image": "",
-      "summary": "用个手机还能用出圈子来了，竟然还有130个点赞。",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-5f15d00d2e6d",
-      "title": "年度比丑大赛，懂我意思吧，新机外观就剩华为小米了[受虐滑稽] #荣耀Magic9# #OPPOFindX10# #vivoX500#",
-      "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-15",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73743333",
-      "image": "",
-      "summary": "年度比丑大赛，懂我意思吧，新机外观就剩华为小米了[受虐滑稽] #荣耀Magic9# #OPPOFindX10# #vivoX500#",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-350628bb0b5e",
-      "title": "华为 Mate90 系列曝光：新芯片 / 2 亿单潜望",
+      "id": "newsnow-145fa5afc290",
+      "title": "玩机快十年了，我的印象里苹果一直是标杆，出什么都会被模仿，但我一直很奇怪，电源键和音量键不在同一侧这一点，一直没有厂商做第二个，百思不得其解，列位诸公可有头绪#小米18Fold# #华为PuraXView##OPPOFindX10#",
       "source": "酷安热榜",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
@@ -1172,9 +1252,9 @@ window.phoneRadarAuto = {
       "date": "2026-09-15",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73749326",
+      "url": "https://www.coolapk.com/feed/73744702",
       "image": "",
-      "summary": "华为 Mate90 系列曝光：新芯片 / 2 亿单潜望",
+      "summary": "玩机快十年了，我的印象里苹果一直是标杆，出什么都会被模仿，但我一直很奇怪，电源键和音量键不在同一侧这一点，一直没有厂商做第二个，百思不得其解，列位诸公可有头绪#小米18Fold# #华为PuraXView##OPPOFindX10#",
       "tags": [
         "Huawei",
         "爆料",
@@ -1182,27 +1262,47 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-30437c12fd12",
-      "title": "刘雯手机壁纸是井柏然",
-      "source": "微博热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "id": "newsnow-0f67bf887cdc",
+      "title": "今年小米这个背屏，比其他的厂商强多了，起码看着顺眼#小米18# #OPPOFindX10# #vivoX500#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
-      "trust": "待验证",
+      "trust": "高关注爆料源",
       "date": "2026-09-15",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%AF%E6%89%8B%E6%9C%BA%E5%A3%81%E7%BA%B8%E6%98%AF%E4%BA%95%E6%9F%8F%E7%84%B6%23&t=31&band_rank=20&Refer=top",
+      "url": "https://www.coolapk.com/feed/73761452",
       "image": "",
-      "summary": "刘雯手机壁纸是井柏然",
+      "summary": "今年小米这个背屏，比其他的厂商强多了，起码看着顺眼#小米18# #OPPOFindX10# #vivoX500#",
       "tags": [
-        "行业",
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-b9d1e9b393b3",
+      "id": "newsnow-a7bc234d5c98",
+      "title": "联发科这个操作笑死我了 自己打自己脸。9500 在发布会的时候，PPT 上还是单核 4000 分，到了 9600 Pro 的发布会上，PPT 直接就变成 3600 了😂😂😂😂笑死我了#vivoX300Pro# #ColorOS17# #数码日常#",
+      "source": "酷安热榜",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-15",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73775459",
+      "image": "",
+      "summary": "联发科这个操作笑死我了 自己打自己脸。9500 在发布会的时候，PPT 上还是单核 4000 分，到了 9600 Pro 的发布会上，PPT 直接就变成 3600 了😂😂😂😂笑死我了#vivoX300Pro# #ColorOS17# #数码日常#",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-ab2de40debcb",
       "title": "苹果CEO展示iPhoneDuo时翻车",
       "source": "微博热搜",
       "brand": "iPhone",
@@ -1212,7 +1312,7 @@ window.phoneRadarAuto = {
       "date": "2026-09-15",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9CCEO%E5%B1%95%E7%A4%BAiPhoneDuo%E6%97%B6%E7%BF%BB%E8%BD%A6%23&t=31&band_rank=24&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9CCEO%E5%B1%95%E7%A4%BAiPhoneDuo%E6%97%B6%E7%BF%BB%E8%BD%A6%23&t=31&band_rank=27&Refer=top",
       "image": "",
       "summary": "苹果CEO展示iPhoneDuo时翻车",
       "tags": [
@@ -1662,6 +1762,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "coolapk-user-c0565d6b8b7e",
+      "title": "JSCHEN小小狐：华为 Mate90 系列曝光：新芯片 / 2 亿单潜望",
+      "source": "JSCHEN小小狐",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-14",
+      "time": "09:06",
+      "publishedAt": "2026-09-14T09:06:19.000Z",
+      "url": "https://www.coolapk.com/feed/73749326",
+      "image": "http://image.coolapk.com/feed/2026/0914/17/4702274_652f424e_6777_0082_507@1440x670.jpg",
+      "summary": "『华为 Mate90 系列曝光：新芯片 / 2 亿单潜望』 华为 Mate90： ◇ 麒麟 9030 系列芯片 ◇ 单层 OLED 显示屏 ◇ 后置三摄 + 红枫原色镜头 ◇ 约 6600mAh 电池 + 无线快充 ◇ 曜石黑 / 零度白 / 晶格绿 / 晶格粉 华为 Mate90 Pro： ◇ 麒麟 9030 系列 “小升级版” 芯片 ◇ 双层 OLED…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
       "id": "coolapk-user-dcb82d5996fe",
       "title": "JSCHEN小小狐：荣耀 Magic9 超能版曝光：骁龙 8E5 / 大直屏",
       "source": "JSCHEN小小狐",
@@ -1742,46 +1862,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-87d1bba1b42e",
-      "title": "Honor Magic 9 Super Edition specs leak reveals 11,000mAh battery, Snapdragon 8 Elite Gen 5, 200MP triple cameras, and more",
-      "source": "Gizmochina",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-14",
-      "time": "06:44",
-      "publishedAt": "2026-09-14T06:44:07.000Z",
-      "url": "https://www.gizmochina.com/2026/09/14/honor-magic-9-super-edition-specifications-leaked/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Honor-Magic-9-Super-Edition-live-shot-245x300.jpg?x96852",
-      "summary": "Honor is all set to launch the Honor Magic 9 and Magic 9 Pro Max on Sept. 28. Alongside these two models, the brand is also preparing a supercharged version of the standard model…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5e040770f0b7",
-      "title": "Could Galaxy S27 Ultra bring zoom camera upgrades? New leak has bad news",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-14",
-      "time": "06:31",
-      "publishedAt": "2026-09-14T06:31:56.000Z",
-      "url": "https://www.androidauthority.com/samsung-galaxy-s27-ultra-5x-camera-leaks-3710729/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Samsung-Galaxy-S26-Ultra-camera-closeup-scaled.jpg",
-      "summary": "Those hoping for more impressive zoom camera hardware might be disappointed.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-02bf091f59b0",
       "title": "JSCHEN小小狐：OPPO Find X10 系列上架官方商城：共三款机型",
       "source": "JSCHEN小小狐",
@@ -1818,26 +1898,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Xiaomi",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9f4b4f89b7f0",
-      "title": "Samsung’s Galaxy S27 could get a display upgrade the Pixel 11 apparently missed",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-14",
-      "time": "04:23",
-      "publishedAt": "2026-09-14T04:23:53.000Z",
-      "url": "https://www.androidauthority.com/samsung-galaxy-s27-m16-oled-display-3710724/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Samsung-Galaxy-S27-Pro-vs-Ultra.jpg",
-      "summary": "The standard and Plus models are also reportedly in line for an OLED upgrade.",
-      "tags": [
-        "Samsung",
-        "爆料",
         "自动抓取"
       ]
     },
