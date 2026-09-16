@@ -1,6 +1,426 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-16T07:40:49.655Z",
+  "updatedAt": "2026-09-16T13:29:44.353Z",
   "news": [
+    {
+      "id": "weibo-c0edce80b75e",
+      "title": "数码闲聊站：一点供应链的信息，华为Mate90系列影像，主摄有50Mp 1/1.56 SC…",
+      "source": "数码闲聊站",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-16",
+      "time": "13:29",
+      "publishedAt": "2026-09-16T13:29:44.353Z",
+      "url": "https://weibo.com/6048569942/Rip65gDk3",
+      "image": "",
+      "summary": "一点供应链的信息，华为Mate90系列影像，主摄有50Mp 1/1.56 SC575XS、50Mp 1/1.28 SC595XS，都支持思特威新一代LOFIC技术。 PM长焦端疑似首发落地200Mp 1/1.28 SCC85XS，首颗高端国产化2亿高动态传感器。 听说前摄和多光谱也用了思特威Sensor，后面Mate X8也用思特威，国产Sensor立大功…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "weibo-5b26835f4fcd",
+      "title": "数码闲聊站：小米18 Pro系列真机来了，边框可以感受一下： 另外后置镜头做平了，徕卡三摄…",
+      "source": "数码闲聊站",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-16",
+      "time": "13:29",
+      "publishedAt": "2026-09-16T13:29:44.353Z",
+      "url": "https://weibo.com/6048569942/Rimo2rYdP",
+      "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ih5ekcg6d9j30xw1fh44j.jpg",
+      "summary": "小米18 Pro系列真机来了，边框可以感受一下： 另外后置镜头做平了，徕卡三摄焦段确定是17mm-75mm，潜望长焦终于改成了3.2X，主摄光圈是F1.67，长焦光圈是F2.4",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "coolapk-user-28dc8d0b4f52",
+      "title": "竹本青：【影石飓风实测 iPhone 18 Pro系列 充电功率：有线峰值53W， 无线依旧15W】 iPhone18 P…",
+      "source": "竹本青",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-16",
+      "time": "13:06",
+      "publishedAt": "2026-09-16T13:06:55.000Z",
+      "url": "https://www.coolapk.com/feed/73791875",
+      "image": "http://image.coolapk.com/feed/2026/0916/21/4248714_14b7b5f4_3639_3038_86-livepic@3168x1440.jpg",
+      "summary": "【影石飓风实测 iPhone 18 Pro系列 充电功率：有线峰值53W， 无线依旧15W】 iPhone18 Pro系列 明显较17 Pro系列更快 iPhone18 Pro系列 无线MagSafe 依旧15W iPhone18 Pro Max 有线峰值53W ● 0-100% 充电耗时： 18 Pro 约70.5分钟，较上代提升13.1分钟 18 Pr…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-505f29c6a7c1",
+      "title": "影石 Luna Ultra 云台相机“小巨炮”长焦模组官宣，9 月 21 日见",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-16",
+      "time": "12:58",
+      "publishedAt": "2026-09-16T12:58:13.000Z",
+      "url": "https://www.ithome.com/1/003/291.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/c7131ba5-b18f-43a2-b6c5-7dce2346456c.jpg",
+      "summary": "IT之家 9 月 16 日消息，今天（16 日）晚间，影石官微发文宣布，影石 Luna Ultra 云台相机将迎来“演唱会长焦大更新”，全新的 Luna“小巨炮”模组即将于 9 月 21 日 20 时正式登场。 官方放出的预告影像显示，该模组支持 1.5 倍长焦，并可适配相机本体的“舞台模式”，底部的说明称适合 演唱会、音乐节等舞台场景 。 据IT之家了解…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-59a4ac39ca56",
+      "title": "华为 Mate 90 系列手机影像配置曝光，主摄支持思特威新一代 LOFIC 技术",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-16",
+      "time": "12:55",
+      "publishedAt": "2026-09-16T12:55:07.000Z",
+      "url": "https://www.ithome.com/1/003/289.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/b7040f76-ca0e-47e2-9a25-5c6277391250.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 16 日消息，博主 @数码闲聊站 刚刚发文，爆料了华为 Mate 90 系列手机的影像配置： 主摄有 50Mp 1/1.56 &nbsp;SC575XS、50Mp 1/1.28 SC595XS， 都支持思特威新一代 LOFIC 技术 。 PM 长焦端疑似首发落地 200Mp 1/1.28 SCC85XS， 首颗高端国产化 2 亿高动态传感…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4549de6155f4",
+      "title": "iPhone 18 Pro & Duo 首发评测，提升最大的是「充电」和这个…",
+      "source": "爱范儿",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-16",
+      "time": "12:20",
+      "publishedAt": "2026-09-16T12:20:33.000Z",
+      "url": "https://www.ifanr.com/1680407?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "image": "https://s3.ifanr.com/wp-content/uploads/2026/09/banner16t9-3.jpg",
+      "summary": "iPhone 的充电也支棱起来了！",
+      "tags": [
+        "iPhone",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-90db8ec13c8b",
+      "title": "You might have missed it, but the iPhone 18 just showed us 2027's next Android trend",
+      "source": "Android Police",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-16",
+      "time": "12:15",
+      "publishedAt": "2026-09-16T12:15:10.000Z",
+      "url": "https://www.androidpolice.com/the-iphone-18-just-showed-us-2027s-next-android-trend/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/09/a-hand-holding-burgundy-and-cosmic-orange-iphones.png",
+      "summary": "Although it'll all depend on the phone's popularity",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f937f7983250",
+      "title": "The iPhone 18 Pro’s big camera update is all about the small gains",
+      "source": "The Verge",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-16",
+      "time": "12:10",
+      "publishedAt": "2026-09-16T12:10:53.000Z",
+      "url": "https://www.theverge.com/tech/995945/iphone-18-pro-max-review-camera-aperture",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268735_iPhone_18_Pro_AKrales_0335.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "Last week, Apple announced an iPhone unlike any it has made in the past. An iPhone that has seemingly already led several other phone manufacturers to pursue entirely different de…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7c88dda35ff2",
+      "title": "iPhone 18 Pro review: More of a great thing",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-16",
+      "time": "12:00",
+      "publishedAt": "2026-09-16T12:00:39.000Z",
+      "url": "https://9to5mac.com/2026/09/16/iphone-18-pro-review/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-photos-19-2-edit.jpg?quality=82&strip=all&w=1600",
+      "summary": "The iPhone 18 Pro is Apple doubling down on what it thinks a “Pro” iPhone should be. It’s faster, heavier, has longer-lasting battery life, and more capable. Plus, there’s a new v…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-9d6ad7d4dbe1",
+      "title": "竹本青：【华为Mate90 系列 影像曝光：多款思特威国产传感器，或首发SCC85XS 2亿长焦】 9月16日，据博主数码…",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-16",
+      "time": "11:59",
+      "publishedAt": "2026-09-16T11:59:50.000Z",
+      "url": "https://www.coolapk.com/feed/73790793",
+      "image": "http://image.coolapk.com/feed/2026/0916/19/4248714_ff4d74f8_9989_7322_123@1270x626.jpg",
+      "summary": "【华为Mate90 系列 影像曝光：多款思特威国产传感器，或首发SCC85XS 2亿长焦】 9月16日，据博主数码闲聊站爆料，华为Mate90 系列 影像系统将大范围采用思特威传感器方案： 主摄：50Mp 1/1.56英寸SC575XS、50Mp 1/1.28英寸SC595XS，均支持思特威新一代LOFIC技术。 Mate 90 Pro Max长焦端，或首…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-c2d1714d2d97",
+      "title": "Huawei Mate 90 series reportedly open for blind reservations",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-16",
+      "time": "11:37",
+      "publishedAt": "2026-09-16T11:37:34.000Z",
+      "url": "https://www.huaweicentral.com/huawei-mate-90-series-reportedly-open-for-blind-reservations/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/09/Mate-90-preorder.jpg",
+      "summary": "Huawei Mate 90 series has reportedly entered the “blind reservations” phase. A few tipsters and netizens revealed that the 2026 Mate flagship is now open for blind pre-orders at s…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a77866ed288e",
+      "title": "M154FF 跑分曝光：第六代骁龙 8 超级至尊版 +16GB 内存，预估为小米 18 Pro 手机",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-16",
+      "time": "11:31",
+      "publishedAt": "2026-09-16T11:31:04.000Z",
+      "url": "https://www.ithome.com/1/003/270.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/b8d5c060-00ff-4a21-9103-2de279f52cac.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 16 日消息， 型号为“Xiaomi M154FF”的小米手机昨日（9 月 15 日）现身 GeekBench 跑分库，预估关联小米 18 Pro 机型 。 型号 M1544F 此前已现身跑分库，预估关联小米 18 Pro Max 。 数据显示，该机搭载了高通第六代骁龙 8 超级至尊版（两颗 5.01GHz 超大核，3 颗 4.03GHz…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-539257f90e98",
+      "title": "致敬苹果 50 周年：Caviar 推出撞色定制 iPhone 18 Pro / Max，每款限 50 台",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-16",
+      "time": "11:11",
+      "publishedAt": "2026-09-16T11:11:30.000Z",
+      "url": "https://www.ithome.com/1/003/263.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/9489fc5c-8899-4636-b503-91eda01d4c2a.png",
+      "summary": "IT之家 9 月 16 日消息，奢侈厂商 Caviar 昨日（9 月 15 日）发布博文，宣布推出 Contrast 限量版 iPhone 18 Pro 和 iPhone 18 Pro Max， 采用撞色方案，起售价 8,000 美元 （IT之家注：现汇率约合 53,815 元人民币） 。 该系列属于 Caviar 的 Apple 50 周年纪念系列，同步…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4972f26fe0c9",
+      "title": "Samsung reportedly rushing new trifold phone in response to iPhone Duo",
+      "source": "9to5Mac",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-16",
+      "time": "11:03",
+      "publishedAt": "2026-09-16T11:03:02.000Z",
+      "url": "https://9to5mac.com/2026/09/16/samsung-reportedly-rushing-new-trifold-phone-in-response-to-iphone-duo/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Samsung-reportedly-rushing-new-trifold-phone-in-response-to-iPhone-Duo.webp?w=1500",
+      "summary": "It was already clear that Samsung was worried about the impact of the iPhone Duo on its foldable phone range, and there’s now further evidence of the Korean company’s concern. A b…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-339a2234b0c6",
+      "title": "消息称三星开始测试美光 1γ LPDDR5X 内存，预计应用于 Galaxy S27 系列手机",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-16",
+      "time": "10:39",
+      "publishedAt": "2026-09-16T10:39:10.000Z",
+      "url": "https://www.ithome.com/1/003/256.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/b36f1e42-ee71-4744-8c24-d39c2698b07c.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 16 日消息，据韩媒 The Bell 近日报道，三星电子已经开始测试美光 1γ LPDDR5X 内存，目标是应用于 Galaxy S27 系列手机。此前业界曾讨论该产品应用于 Galaxy S26 系列的可能性，但考虑到价格等因素，三星最终决定在下一代产品中采用。 据业内消息，三星电子 MX 事业部正对美光 1γ（IT之家注：Gamma…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-045c7e6f19cc",
+      "title": "5 Android phones you should buy instead of the iPhone 18 Pro",
+      "source": "Android Authority",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-16",
+      "time": "10:30",
+      "publishedAt": "2026-09-16T10:30:03.000Z",
+      "url": "https://www.androidauthority.com/iphone-18-pro-alternatives-3711225/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Apple-iPhone-18-Pro_2-scaled.jpg",
+      "summary": "Maybe leave that Apple in the cart.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d40414c1b661",
+      "title": "Honor Magic 9 Pro Max appears on Geekbench with Snapdragon 8 Elite Gen 6 Pro",
+      "source": "Huawei Central",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-16",
+      "time": "10:21",
+      "publishedAt": "2026-09-16T10:21:33.000Z",
+      "url": "https://www.huaweicentral.com/honor-magic-9-pro-max-appears-on-geekbench/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/09/Geekbench.jpg",
+      "summary": "Honor is teasing the key features of the Magic 9 Pro Max, and meanwhile, the device has reportedly been benchmarked on Geekbench, showing its strong performance with the all-new f…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-02d739662d65",
+      "title": "开发者为 Windows Phone 带来“快速分享”功能，支持向 PC、安卓设备发送文件",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-16",
+      "time": "10:10",
+      "publishedAt": "2026-09-16T10:10:08.000Z",
+      "url": "https://www.ithome.com/1/003/240.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/28951c35-48f6-4e0d-8987-33f9f9da8207.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 16 日消息，微软在 2017 年放弃 Windows Phone 后，移动操作系统市场一度形成安卓、iOS 两强并立的格局。不过，仍有开发者选择在 WP 这条路上“坚守”。 据外媒 Android Authority 今天（16 日）傍晚报道，开发者 RetiredLake 把谷歌“快速分享”（Quick Share）搬到了 Windo…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c9fc6274cac2",
+      "title": "I almost missed the Pixel 11’s best camera feature because Google hid it in the settings",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-16",
+      "time": "10:00",
+      "publishedAt": "2026-09-16T10:00:28.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-camera-quick-access-controls-hands-on-3708045/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Quick-access-controls-on-screen-options-scaled.jpg",
+      "summary": "Don't spend another minute without the new Quick Access controls.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-376f24fdda50",
+      "title": "荣耀 Magic9 Pro Max 手机现身 Geekbench，骁龙 8 Elite Gen6 Pro（SM8975）芯片",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-16",
+      "time": "09:27",
+      "publishedAt": "2026-09-16T09:27:39.000Z",
+      "url": "https://www.ithome.com/1/003/207.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/237086b6-cdc7-4820-9b6d-6aaad727a4c7.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 16 日消息，一款型号为 WKL-AN20 的荣耀新机近日现身 Geekbench 跑分数据库， X 平台消息人士 Anvin 称该机为荣耀 Magic9 Pro Max 。 数据库信息显示， 该机采用高通 SM8975 芯片 。结合此前爆料，SM8975 预计是指高通骁龙 8 Elite Gen6 Pro，其 CPU 架构采用 2+3+…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-e4ac8be27226",
+      "title": "JSCHEN小小狐：Magic9 Pro Max 这个金属拼接机身的手感和质感，在下半年这批大旗舰里还真挺不错的。 正面这块四等边抗反…",
+      "source": "JSCHEN小小狐",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-16",
+      "time": "08:07",
+      "publishedAt": "2026-09-16T08:07:07.000Z",
+      "url": "https://www.coolapk.com/feed/73785691",
+      "image": "http://image.coolapk.com/feed/2026/0916/16/4702274_47a59822_6794_3742_361-uhdr@2366x3505.jpg",
+      "summary": "Magic9 Pro Max 这个金属拼接机身的手感和质感，在下半年这批大旗舰里还真挺不错的。 正面这块四等边抗反屏观感也可以，比例差不多还是 19.5:9，机身宽度会比 Magic7 Pro 窄一些。 绿色版本上下会有一点由深及浅的渐变，不过这代相机按键也放弃实体改纯压感了，有点意外。 #荣耀Magic9ProMax#",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "auto-9044984e0663",
       "title": "[Interview] The People Behind the Galaxy Z Series’ Camera Innovations ②: How Portrait Video Recreates the Look of Professional Camera Lenses",
@@ -18,66 +438,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Samsung",
         "官方",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-5b26835f4fcd",
-      "title": "数码闲聊站：小米18 Pro系列真机来了，边框可以感受一下： 另外后置镜头做平了，徕卡三摄…",
-      "source": "数码闲聊站",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-16",
-      "time": "07:40",
-      "publishedAt": "2026-09-16T07:40:49.655Z",
-      "url": "https://weibo.com/6048569942/Rimo2rYdP",
-      "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ih5ekcg6d9j30xw1fh44j.jpg",
-      "summary": "小米18 Pro系列真机来了，边框可以感受一下： 另外后置镜头做平了，徕卡三摄焦段确定是17mm-75mm，潜望长焦终于改成了3.2X，主摄光圈是F1.67，长焦光圈是F2.4",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "auto-33127f37a990",
-      "title": "苹果携手王嘉尔推出音乐视频《Thank You》，全程使用 iPhone 18 Pro 拍摄",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-16",
-      "time": "07:29",
-      "publishedAt": "2026-09-16T07:29:28.000Z",
-      "url": "https://www.ithome.com/1/003/102.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/a7f4abc9-3e67-45d2-bb18-2d6b96b41c6e.png",
-      "summary": "IT之家 9 月 16 日消息，Apple 苹果再度与歌手王嘉尔合作， 共同推出音乐视频《Thank You》 ，这支双方第二次合作用 iPhone 拍摄的作品即将于 9 ⽉ 21 日中午 12 点正式发布。 《Thank You》全程使用全新 iPhone 18 Pro 拍摄 ，由王嘉尔与导演 Ojun Kwon 共同执导，以长镜头形式呈现，让观众跟随镜…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-28657267639c",
-      "title": "大疆 Neo 3 无人机曝光，配全新带屏遥控器",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-16",
-      "time": "07:23",
-      "publishedAt": "2026-09-16T07:23:32.000Z",
-      "url": "https://www.ithome.com/1/003/098.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/dfce12a1-fe20-4b4e-8f6a-52d04a5c4829.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 16 日消息，X 平台消息人士 Igor Bogdanov 昨天发文，曝光大疆 Neo 3 无人机的包装盒。该机预计将采用全新机身设计， 配备全新带屏遥控器 。 从消息人士发布的图片来看，这款无人机采用了全新螺旋桨保护结构，外形类似自行车轮毂辐条，机身背面还带有额外的散热开孔，并新增一个避障传感器。 IT之家注意到，该无人机包装盒上还出现…",
-      "tags": [
-        "行业",
-        "爆料",
         "自动抓取"
       ]
     },
@@ -122,66 +482,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-bac1b0c12c8d",
-      "title": "小米 18 Pro 系列真机曝光，徕卡三摄焦段确定是 17mm-75mm",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-16",
-      "time": "06:41",
-      "publishedAt": "2026-09-16T06:41:01.000Z",
-      "url": "https://www.ithome.com/1/003/062.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/e808384a-1aaa-4578-8770-5c0fcc3b2ace.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 16 日消息，博主 @数码闲聊站 刚刚曝光了小米 18 Pro 系列真机。 博主透露，系列机型后置镜头已做平， 徕卡三摄焦段确定是 17mm-75mm ，潜望长焦改成了 3.2X，主摄光圈是 F1.67、长焦光圈是 F2.4。 据IT之家此前报道， 小米 18 Pro 系列手机官宣将于本月发布 ，这是小米数字系列有史以来升级最大的一次，在…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5df481626010",
-      "title": "消息称三星 Galaxy S27 Ultra 手机沿用 5000 万像素 5x 长焦镜头",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-16",
-      "time": "06:38",
-      "publishedAt": "2026-09-16T06:38:39.000Z",
-      "url": "https://www.ithome.com/1/003/060.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/1a72a58a-1a4c-4976-8c74-c80eecd131a8.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 16 日消息，科技媒体 gsmarena 今天（9 月 16 日）发布博文， 报道称交叉信息基本确认三星 Galaxy S27 Ultra 手机会采用 5000 万像素 5 倍光学长焦镜头。 Galaxy S27 Ultra 渲染图 IT之家曾于 9 月 1 日报道，消息称在 Galaxy S27 Ultra 旗舰机型上， 三星测试一颗…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-165ad8b9924a",
-      "title": "竹本青：vivo X500系列首发直出「8K原生Live」，已率先支持微博",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-16",
-      "time": "06:02",
-      "publishedAt": "2026-09-16T06:02:55.000Z",
-      "url": "https://www.coolapk.com/feed/73783326",
-      "image": "http://image.coolapk.com/feed/2026/0916/14/4248714_34c617b0_8572_5803_775-livepic@2164x3832.jpg",
-      "summary": "【vivo X500系列 宣布首发直出「8K原生Live」，已率先支持微博】 vivo基于视频能力打造更强的Live体验。8K超高分辨率，同时搭载蓝厂自研拍录一体架构，让Live从封面帧到整个视频流，每一帧都是好画质。也打通了8K Live的分享链路，率先支持微博直发。 #今日热点# #OriginOS7# #vivoX500ProMax#",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-05f778f70531",
       "title": "Apple claims the iPhone 18 Pro camera is more secure than your Android",
       "source": "Android Authority",
@@ -199,26 +499,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-026566a8a74d",
-      "title": "竹本青：小米米家智能温湿度计3 Pro 官宣：众筹价114元",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-16",
-      "time": "05:03",
-      "publishedAt": "2026-09-16T05:03:33.000Z",
-      "url": "https://www.coolapk.com/feed/73782392",
-      "image": "http://image.coolapk.com/feed/2026/0916/13/4248714_0daa41cd_5010_3451_315@1080x1188.jpg",
-      "summary": "【小米米家智能温湿度计3 Pro 正式官宣：升级二氧化碳浓度检测，众筹价114元】 ● 3.6英寸LCD屏幕，主屏内容可切换 ● 日期、星期、时间、温度、湿度、CO₂浓度 ● 瑞士盛思锐低功耗热导原理传感器 ● 三大监测： 温度，显示分辨率 0.1°C 湿度，显示分辨率 1%RH 二氧化碳，显示分辨率 1ppm ● CO₂浓度 绿/黄/红三色指示 ● 澎湃…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -242,26 +522,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-78d128a29525",
-      "title": "行业首个，中国移动开源连接 VLA / WAM 模型与机器人本体的通用工程底座 Open-RAIL",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-16",
-      "time": "04:19",
-      "publishedAt": "2026-09-16T04:19:51.000Z",
-      "url": "https://www.ithome.com/1/003/013.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/237c5333-91bf-46f7-9ee1-90f39bc8b6aa.jpg",
-      "summary": "IT之家 9 月 16 日消息，中国移动今日宣布，面向全球开源行业内首个连接 VLA / WAM 模型与机器人本体的通用工程底座 —— Open-RAIL 。 机器人能做的事越来越多，它们靠 VLA / WAM 模型看懂环境、听懂手势语音，自主完成任务。但给机器人装上大脑，不等于就能干活。实际落地中，不同机器人控制逻辑不同，换一台新机器人，就得重新转译指令…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-2b01b8b96e7b",
       "title": "The Xiaomi 18 Pro’s back screen can now build its own apps",
       "source": "Gizmochina",
@@ -277,26 +537,6 @@ window.phoneRadarAuto = {
       "summary": "Yesterday, Xiaomi teased its next flagship with a cryptic image showing the word “Generating” on the rear display, and we now know what it really means. It’s aptly named “Versatil…",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5cc35f205637",
-      "title": "荣耀 Magic9 系列手机官宣搭载自研影像芯片荣耀驭光 H1：RAW 域视频无损降噪、信噪比提升 8dB，6nm 工艺",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-16",
-      "time": "03:53",
-      "publishedAt": "2026-09-16T03:53:57.000Z",
-      "url": "https://www.ithome.com/1/002/986.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/0353f4e7-1a8e-44e1-bdac-38121943d3b5.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 16 日消息，荣耀 Magic 盛典暨荣耀 Magic9 系列新品发布会定档 9 月 28 日在北京举行。 荣耀官方今日宣布，荣耀 Magic9 系列手机搭载 自研影像芯片荣耀驭光 H1 ，采用 6nm 工艺，支持 RAW 域视频无损降噪，信噪比提升 8dB。 据介绍，荣耀 Magic9 系列手机由阿莱联合研发，采用大导之眼设计，后置“电…",
-      "tags": [
-        "HONOR",
         "爆料",
         "自动抓取"
       ]
@@ -582,6 +822,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-e0fc9ee2f070",
+      "title": "似乎某位川蜀强者直播中泄密了mate90系列内容[受虐滑稽][受虐滑稽][受虐滑稽]有点厉害，",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-16",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73776466",
+      "image": "",
+      "summary": "似乎某位川蜀强者直播中泄密了mate90系列内容[受虐滑稽][受虐滑稽][受虐滑稽]有点厉害，",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-e2f974a89fb0",
       "title": "玩机快十年了，我的印象里苹果一直是标杆，出什么都会被模仿，但我一直很奇怪，电源键和音量键不在同一侧这一点，一直没有厂商做第二个，百思不得其解，列位诸公可有头绪#小米18Fold# #华为PuraXView##OPPOFindX10#",
       "source": "酷安热榜",
@@ -602,8 +862,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-4194cbe5485a",
-      "title": "煤油开的白边膜店真好 把iPhone的颜值又提升了不少[受虐滑稽][受虐滑稽][受虐滑稽][受虐滑稽]就是有点小贵 太漂亮了我的天 美中不足 我贴的时候灵动岛的飘进去一根白毛[流泪][流泪][流泪]不敢掀开重粘 （有送的贴膜神器我怕刮花边框 自己贴的）[受虐滑稽][受虐滑稽][受虐滑稽]没想到贴坏了",
+      "id": "newsnow-61bed8e04184",
+      "title": "我有个问题哈，苹果卖手机算不算饥饿营销[受虐滑稽]",
       "source": "酷安热榜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -612,9 +872,9 @@ window.phoneRadarAuto = {
       "date": "2026-09-16",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73763742",
+      "url": "https://www.coolapk.com/feed/73769005",
       "image": "",
-      "summary": "煤油开的白边膜店真好 把iPhone的颜值又提升了不少[受虐滑稽][受虐滑稽][受虐滑稽][受虐滑稽]就是有点小贵 太漂亮了我的天 美中不足 我贴的时候灵动岛的飘进去一根白毛[流泪][流泪][流泪]不敢掀开重粘 （有送的贴膜神器我怕刮花边框 自己贴的）[受虐滑稽][受虐滑稽][受虐滑稽]没想到贴坏了",
+      "summary": "我有个问题哈，苹果卖手机算不算饥饿营销[受虐滑稽]",
       "tags": [
         "iPhone",
         "爆料",
@@ -622,19 +882,59 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-e0fc9ee2f070",
-      "title": "似乎某位川蜀强者直播中泄密了mate90系列内容[受虐滑稽][受虐滑稽][受虐滑稽]有点厉害，",
+      "id": "newsnow-24da94980d37",
+      "title": "罗永浩再喷iPhone Duo：各种姗姗来迟和低级错误",
       "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-16",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73776466",
+      "url": "https://www.coolapk.com/feed/73766951",
       "image": "",
-      "summary": "似乎某位川蜀强者直播中泄密了mate90系列内容[受虐滑稽][受虐滑稽][受虐滑稽]有点厉害，",
+      "summary": "罗永浩再喷iPhone Duo：各种姗姗来迟和低级错误",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-4847c1a78bfe",
+      "title": "iPhone18Pro系列销量",
+      "source": "微博热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-09-16",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E7%B3%BB%E5%88%97%E9%94%80%E9%87%8F%23&t=31&band_rank=24&Refer=top",
+      "image": "",
+      "summary": "iPhone18Pro系列销量",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-3d409de56138",
+      "title": "平陆运河开通带来哪些新机遇",
+      "source": "B站热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-16",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://search.bilibili.com/all?keyword=%E5%B9%B3%E9%99%86%E8%BF%90%E6%B2%B3%E5%BC%80%E9%80%9A%E5%B8%A6%E6%9D%A5%E5%93%AA%E4%BA%9B%E6%96%B0%E6%9C%BA%E9%81%87",
+      "image": "",
+      "summary": "平陆运河开通带来哪些新机遇",
       "tags": [
         "行业",
         "爆料",
@@ -662,9 +962,9 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-3d409de56138",
-      "title": "平陆运河开通带来哪些新机遇",
-      "source": "B站热搜",
+      "id": "newsnow-d4b68acc6548",
+      "title": "“豆包手机”定价5999元起",
+      "source": "百度热搜",
       "brand": "行业",
       "model": "智能手机市场",
       "type": "爆料",
@@ -672,11 +972,31 @@ window.phoneRadarAuto = {
       "date": "2026-09-16",
       "time": "",
       "publishedAt": "",
-      "url": "https://search.bilibili.com/all?keyword=%E5%B9%B3%E9%99%86%E8%BF%90%E6%B2%B3%E5%BC%80%E9%80%9A%E5%B8%A6%E6%9D%A5%E5%93%AA%E4%BA%9B%E6%96%B0%E6%9C%BA%E9%81%87",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA%E2%80%9D%E5%AE%9A%E4%BB%B75999%E5%85%83%E8%B5%B7",
       "image": "",
-      "summary": "平陆运河开通带来哪些新机遇",
+      "summary": "“豆包手机”定价5999元起",
       "tags": [
         "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-9f74bac7ae86",
+      "title": "iPhone18Pro系列首发评测",
+      "source": "百度热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-16",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=iPhone18Pro%E7%B3%BB%E5%88%97%E9%A6%96%E5%8F%91%E8%AF%84%E6%B5%8B",
+      "image": "",
+      "summary": "iPhone18Pro系列首发评测",
+      "tags": [
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -1022,46 +1342,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-d82cbe649bf2",
-      "title": "Magic 9 Pro Max is true rival of iPhone 18 Pro in video field: Honor",
-      "source": "Huawei Central",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-15",
-      "time": "10:36",
-      "publishedAt": "2026-09-15T10:36:01.000Z",
-      "url": "https://www.huaweicentral.com/magic-9-pro-max-is-true-rival-of-iphone-18-pro-in-video-field-honor/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/09/Magic9-models.jpg",
-      "summary": "Honor Magic 9 Pro Max will join the launch stage by the end of this month, and ahead of its debut, one of the company’s officials said the flagship is a true rival of the Apple iP…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f012cadbf261",
-      "title": "iPhone 18 Pro Pre-Orders Off to a Muted Start, Analyst Says",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-15",
-      "time": "10:18",
-      "publishedAt": "2026-09-15T10:18:24.000Z",
-      "url": "https://www.macrumors.com/2026/09/15/iphone-18-pro-orders-muted-start/",
-      "image": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-Burgundy-Feature.jpeg",
-      "summary": "Initial wait times for Apple's iPhone 18 Pro models in the pre-order phase are \"lukewarm,\" according to GF Securities analyst Jeff Pu, who has subsequently trimmed his production…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-fbb7463b146c",
       "title": "OPPO just confirmed a major Find X10 Pro Max detail, and I'm excited",
       "source": "Android Central",
@@ -1102,26 +1382,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-1880df8c18e3",
-      "title": "Huawei Mate 90 leak reveals colors, camera specs, size for five models",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-15",
-      "time": "08:00",
-      "publishedAt": "2026-09-15T08:00:52.000Z",
-      "url": "https://www.huaweicentral.com/huawei-mate-90-models-colors-camera/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/Mate-80RS.jpg",
-      "summary": "Huawei Mate 90 series is expected to bring five models, and while the OEM hasn’t confirmed any such news yet, a new leak reveals colors, camera specs, and dimensions for all of th…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-276ce70afa69",
       "title": "The Galaxy Z TriFold 2 might fix the TriFold’s problems without getting pricier",
       "source": "Android Authority",
@@ -1157,26 +1417,6 @@ window.phoneRadarAuto = {
       "summary": "According to an industry report from ETNews, the company plans to roll out its latest OLED tech across the entire Galaxy S27 series, with the biggest jumps reserved for the higher…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a3610c000d9e",
-      "title": "Huawei Mate 90 series could introduce Pro Max Collector’s Edition model",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-15",
-      "time": "06:58",
-      "publishedAt": "2026-09-15T06:58:56.000Z",
-      "url": "https://www.huaweicentral.com/huawei-mate-90-pro-max-collectors-edition/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/03/Mate80ProMax3.jpg",
-      "summary": "Huawei Mate 90 series could go official later this month with five models and it seems we have found the name of this alleged variant – Mate 90 Pro Max Collector’s Edition. If tru…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
@@ -1317,26 +1557,6 @@ window.phoneRadarAuto = {
       "summary": "We’ve been hearing about the Mate 90 series for months, thanks to steady streams of industry leaks. A new leak by tipster Digital Chat Station now adds more to what we know about…",
       "tags": [
         "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d93c2b0ba96c",
-      "title": "Honor Magic 9 Pro Max makes Geekbench run with the Snapdragon 8 Elite Gen 6 Pro",
-      "source": "Gizmochina",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-15",
-      "time": "00:40",
-      "publishedAt": "2026-09-15T00:40:49.000Z",
-      "url": "https://www.gizmochina.com/2026/09/15/honor-magic-9-pro-max-makes-geekbench-run-with-the-snapdragon-8-elite-gen-6-pro/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Honor-Magic-9-Pro-Max-Design-300x200.jpg?x96852",
-      "summary": "The Honor Magic 9 series is launching on September 28 in China, and the teasers are in full swing. The company recently confirmed the full lineup along with its color and memory o…",
-      "tags": [
-        "HONOR",
         "爆料",
         "自动抓取"
       ]
