@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-15T21:19:52.480Z",
+  "updatedAt": "2026-09-16T00:18:33.605Z",
   "news": [
     {
       "id": "weibo-ef82f9b527cb",
@@ -9,9 +9,9 @@ window.phoneRadarAuto = {
       "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
-      "date": "2026-09-15",
-      "time": "21:19",
-      "publishedAt": "2026-09-15T21:19:52.480Z",
+      "date": "2026-09-16",
+      "time": "00:18",
+      "publishedAt": "2026-09-16T00:18:33.605Z",
       "url": "https://weibo.com/6048569942/RibwJCi0O",
       "image": "",
       "summary": "受内存涨价影响，AOVMHh上一代旗舰机均已经完成一轮1000元档位的普涨。 而在此基础上，即将发布的国产旗舰新机产品定义变得非常有意思，大致可以分为三类： 换皮：N-1芯片 + 常规小迭代，有望售价不变 换芯：N代芯片 + 常规小迭代，起售价涨500± 换新：N代芯片 + 激进大迭代，直接放开成本限制，大迭代猛堆料，价格将上探1000±",
@@ -29,9 +29,9 @@ window.phoneRadarAuto = {
       "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
-      "date": "2026-09-15",
-      "time": "21:19",
-      "publishedAt": "2026-09-15T21:19:52.480Z",
+      "date": "2026-09-16",
+      "time": "00:18",
+      "publishedAt": "2026-09-16T00:18:33.605Z",
       "url": "https://weibo.com/6048569942/Ri4TPkZah",
       "image": "",
       "summary": "咳咳，如之前我爆料的信息，大杯系列都有双层OLED，万级高亮度，大大杯顶配新屏亮度更高；中杯N-1芯片，大杯N-1小升级版芯片，大大杯系列N代新芯片；电池6600mAh±，6800mAh±；全系三摄单长焦，大大杯上2亿潜望……[污]",
@@ -39,6 +39,306 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "微博"
+      ]
+    },
+    {
+      "id": "auto-728bbee10ddb",
+      "title": "Apple unveils iPhone Duo",
+      "source": "Apple Newsroom",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-09-16",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
+      "image": "",
+      "summary": "Apple today introduced iPhone Duo, the first foldable iPhone.",
+      "tags": [
+        "iPhone",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-07e6d6658c80",
+      "title": "Apple debuts iPhone 18 Pro and iPhone 18 Pro Max",
+      "source": "Apple Newsroom",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-09-16",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+      "image": "",
+      "summary": "Apple announced iPhone 18 Pro and iPhone 18 Pro Max, delivering an advanced pro camera system and improved battery life and performance.",
+      "tags": [
+        "iPhone",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "newsnow-95938e7dbbad",
+      "title": "iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-16",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/114449",
+      "image": "",
+      "summary": "iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-4c4695f02609",
+      "title": "新 iPhone 配件精选：多种组合一次配齐",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-16",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/114414",
+      "image": "",
+      "summary": "新 iPhone 配件精选：多种组合一次配齐",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-6177ad4796a5",
+      "title": "可以「折」的 iPhone 正式亮相：Apple 发布会看点回顾",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-16",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/114392",
+      "image": "",
+      "summary": "可以「折」的 iPhone 正式亮相：Apple 发布会看点回顾",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-03551eba0453",
+      "title": "我一定会回来……吗？小手用户与 iPhone 17 Pro Max 的一年",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-16",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/114366",
+      "image": "",
+      "summary": "我一定会回来……吗？小手用户与 iPhone 17 Pro Max 的一年",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-94834af6b9dd",
+      "title": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-16",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/114084",
+      "image": "",
+      "summary": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-f6d4f1039821",
+      "title": "线下活动 | 全新 iPhone 发布在即，来与少数派一起看 Apple 发布会",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-16",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/114071",
+      "image": "",
+      "summary": "线下活动 | 全新 iPhone 发布在即，来与少数派一起看 Apple 发布会",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-29dd230461ee",
+      "title": "全球首款阔直板探索计划：华为 Pura X View 新品有奖体验",
+      "source": "少数派热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-16",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/113883",
+      "image": "",
+      "summary": "全球首款阔直板探索计划：华为 Pura X View 新品有奖体验",
+      "tags": [
+        "Huawei",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-47254c1932dd",
+      "title": "今年小米这个背屏，比其他的厂商强多了，起码看着顺眼#小米18# #OPPOFindX10# #vivoX500#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-16",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73761452",
+      "image": "",
+      "summary": "今年小米这个背屏，比其他的厂商强多了，起码看着顺眼#小米18# #OPPOFindX10# #vivoX500#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-c2bb9345191a",
+      "title": "这外屏窒息的微信聊天体验，打字的时候只能看到两条信息[受虐滑稽][受虐滑稽][受虐滑稽][受虐滑稽]这手机爽是真的爽，但难受的地方也是真难受",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-16",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73753507",
+      "image": "",
+      "summary": "这外屏窒息的微信聊天体验，打字的时候只能看到两条信息[受虐滑稽][受虐滑稽][受虐滑稽][受虐滑稽]这手机爽是真的爽，但难受的地方也是真难受",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-e2f974a89fb0",
+      "title": "玩机快十年了，我的印象里苹果一直是标杆，出什么都会被模仿，但我一直很奇怪，电源键和音量键不在同一侧这一点，一直没有厂商做第二个，百思不得其解，列位诸公可有头绪#小米18Fold# #华为PuraXView##OPPOFindX10#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-16",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73744702",
+      "image": "",
+      "summary": "玩机快十年了，我的印象里苹果一直是标杆，出什么都会被模仿，但我一直很奇怪，电源键和音量键不在同一侧这一点，一直没有厂商做第二个，百思不得其解，列位诸公可有头绪#小米18Fold# #华为PuraXView##OPPOFindX10#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-a4aaefa99c8b",
+      "title": "联发科这个操作笑死我了 自己打自己脸。9500 在发布会的时候，PPT 上还是单核 4000 分，到了 9600 Pro 的发布会上，PPT 直接就变成 3600 了😂😂😂😂笑死我了#vivoX300Pro# #ColorOS17# #数码日常#",
+      "source": "酷安热榜",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-16",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73775459",
+      "image": "",
+      "summary": "联发科这个操作笑死我了 自己打自己脸。9500 在发布会的时候，PPT 上还是单核 4000 分，到了 9600 Pro 的发布会上，PPT 直接就变成 3600 了😂😂😂😂笑死我了#vivoX300Pro# #ColorOS17# #数码日常#",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-e46b5036fb4a",
+      "title": "小伙211毕业武汉卖手机第1个月赚3万",
+      "source": "微博热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-09-16",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99211%E6%AF%95%E4%B8%9A%E6%AD%A6%E6%B1%89%E5%8D%96%E6%89%8B%E6%9C%BA%E7%AC%AC1%E4%B8%AA%E6%9C%88%E8%B5%9A3%E4%B8%87%23&t=31&band_rank=9&Refer=top",
+      "image": "",
+      "summary": "小伙211毕业武汉卖手机第1个月赚3万",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "auto-3bc92c2aaf62",
+      "title": "dbrand has the iPhone Duo and iPhone 18 Pro covered – with a huge range of designs",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-15",
+      "time": "22:00",
+      "publishedAt": "2026-09-15T22:00:00.000Z",
+      "url": "https://9to5mac.com/2026/09/15/dbrand-has-iphone-duo-iphone-18-pro-covered-with-huge-range-of-designs/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/09-10-iPhone-18-Series-Hero-1.png?w=1500",
+      "summary": "With the exciting new iPhone Duo and latest evolution of the iPhone 18 Pro now official, casemaker dbrand has wasted no time in announcing its latest cases, vinyl wraps, and scree…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -382,26 +682,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-22ae3f1169c3",
-      "title": "竹本青：【极客湾实测天玑9600 Pro工程机：稳扎稳打，期待零售机上市】 9月15日，数码评测博主「极客湾Geekerw…",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-15",
-      "time": "12:32",
-      "publishedAt": "2026-09-15T12:32:37.000Z",
-      "url": "https://www.coolapk.com/feed/73771581",
-      "image": "http://image.coolapk.com/feed/2026/0915/21/4248714_3ef00906_9559_7836_798-livepic@1920x1080.jpg",
-      "summary": "【极客湾实测天玑9600 Pro工程机：稳扎稳打，期待零售机上市】 9月15日，数码评测博主「极客湾Geekerwan」发布最新视频，前瞻测试联发科新一代2nm旗舰手机芯片——天玑9600 Pro。 云飞介绍，本次测试样机为联发科工程机，搭配LPDDR5X 10667MT/s内存，结果不代表零售机最终表现，后续零售上市后将进行复测。 以下为本次工程机具体实…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-27870099cde3",
       "title": "Galaxy S26 Ultra may see a price hike soon, following Apple’s move with iPhone 17",
       "source": "Gizmochina",
@@ -442,26 +722,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-a83f0b8d2263",
-      "title": "荣耀 MagicOS 11 系统升级计划公布，Magic5 系列手机等确认在列",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-15",
-      "time": "12:08",
-      "publishedAt": "2026-09-15T12:08:30.000Z",
-      "url": "https://www.ithome.com/1/002/753.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/f647bcfa-a8f9-4476-9994-f1860839269f.jpg",
-      "summary": "IT之家 9 月 15 日消息，在今晚的荣耀 HGDC 2026 荣耀开发者大会上，MagicOS 11 系统正式发布。 目前，荣耀官方已公布 MagicOS 11 系统的升级计划，IT之家整理机型如下： 第一批 今日开启正式版不限量尝鲜： 手机： 荣耀 Magic V6 、荣耀 Magic V5、 荣耀 Magic8 RSR 保时捷设计 、荣耀 Magi…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-54a82fc67cb1",
       "title": "竹本青：【荣耀 MagicOS 11 正式发布：安卓首个液态玻璃，Magic9系列首发搭载】 ● 荣耀琉光架构： 动态液态…",
       "source": "竹本青",
@@ -479,46 +739,6 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-4f525e9f0fa0",
-      "title": "三星发布 Galaxy A18 4G 手机，搭载 Exynos 1610 处理器",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-15",
-      "time": "12:07",
-      "publishedAt": "2026-09-15T12:07:20.000Z",
-      "url": "https://www.ithome.com/1/002/752.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/334f35d1-17b6-499a-8861-a7e2080f762f.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 15 日消息，三星正在密集推出新款 Galaxy A 系列入门手机。继 Galaxy A07s 与 Galaxy A08 之后，该公司正式发布了 Galaxy A18。这款机型现已在法国开售，售价 279 欧元 （IT之家注：现汇率约合 2,166 元人民币） ，给预算有限的消费者又多了一款平价 Galaxy 机型可供选择，该机很快就会登…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-4b4c0842b2a7",
-      "title": "深圳新机场定名“深圳龙华机场”，未来将成当地规模最大低空起降枢纽",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-15",
-      "time": "12:03",
-      "publishedAt": "2026-09-15T12:03:19.000Z",
-      "url": "https://www.ithome.com/1/002/751.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/41cd8075-f02b-4367-8cb5-2fc98fd987b1.png",
-      "summary": "IT之家 9 月 15 日消息，据“深圳龙岗发布”公众号，民航中南地区管理局日前正式批复：原深圳南头直升机场迁建到龙华樟坑径后， 标准名称确定为“深圳龙华机场” 。 该机场定位 A1 类通用机场 ，位于龙华区樟坑径片区，总用地面积约 25.83 万平方米，建筑面积约 9 万平方米， 建设规模是原址两倍以上 ，总投资约 10 亿元。 机场规划设置 800 米…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -562,26 +782,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-e4b3ff4abfbf",
-      "title": "荣耀 MagicOS 11 系统首批升级机型开启正式版不限量尝鲜",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-15",
-      "time": "11:18",
-      "publishedAt": "2026-09-15T11:18:04.000Z",
-      "url": "https://www.ithome.com/1/002/737.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/5f5de0b6-f155-4456-8f23-b7136ec41221.png",
-      "summary": "IT之家 9 月 15 日消息，荣耀 HGDC 2026 荣耀开发者大会正在进行中。荣耀产品维护与升级 @荣耀小芳哥 宣布， MagicOS 11 首批升级机型开启正式版不限量尝鲜 。报名机型： 荣耀 Magic V6 、Magic V5、Magic8 RSR 保时捷设计、Magic8 Pro、Magic8 Pro Air、Magic8、Magic7 RS…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-76f447ae18f3",
       "title": "Apple's Weirdest iTunes Walk-Back Turns 12 Today",
       "source": "MacRumors",
@@ -617,26 +817,6 @@ window.phoneRadarAuto = {
       "summary": "Vivo and Oppo have already confirmed phones powered by MediaTek’s newly launched flagship chip. Shortly after the Dimensity 9600 Pro went official, both companies announced that t…",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-7ed7b1df39e2",
-      "title": "消息称双框架华为鸿蒙车机将支持荣耀手机，新版“超级桌面”Demo 演示曝光",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-15",
-      "time": "11:06",
-      "publishedAt": "2026-09-15T11:06:18.000Z",
-      "url": "https://www.ithome.com/1/002/735.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/4f53752b-d520-437e-8b05-36a245da84d7.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 15 日消息，博主 @旺仔百事通 今日发文爆料，称双框架的鸿蒙车机将支持荣耀手机。博主还曝光了相关 Demo 演示。 画面显示， 双框架华为鸿蒙车机的新版“超级桌面”功能支持连接荣耀手机和华为手机 。Demo 演示中的设备已连接荣耀 Magic8 Pro，支持手机应用流转至车机使用。 IT之家注：超级桌面是华为推出的一项多设备互联功能，支…",
-      "tags": [
-        "HONOR",
         "爆料",
         "自动抓取"
       ]
@@ -1039,886 +1219,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-728bbee10ddb",
-      "title": "Apple unveils iPhone Duo",
-      "source": "Apple Newsroom",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "官方",
-      "trust": "官方确认",
-      "date": "2026-09-15",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
-      "image": "",
-      "summary": "Apple today introduced iPhone Duo, the first foldable iPhone.",
-      "tags": [
-        "iPhone",
-        "官方",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-07e6d6658c80",
-      "title": "Apple debuts iPhone 18 Pro and iPhone 18 Pro Max",
-      "source": "Apple Newsroom",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "官方",
-      "trust": "官方确认",
-      "date": "2026-09-15",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
-      "image": "",
-      "summary": "Apple announced iPhone 18 Pro and iPhone 18 Pro Max, delivering an advanced pro camera system and improved battery life and performance.",
-      "tags": [
-        "iPhone",
-        "官方",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "newsnow-3b57557da68e",
-      "title": "iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-09-15",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/114449",
-      "image": "",
-      "summary": "iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-2ab06f495ad7",
-      "title": "新 iPhone 配件精选：多种组合一次配齐",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-09-15",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/114414",
-      "image": "",
-      "summary": "新 iPhone 配件精选：多种组合一次配齐",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-3753b5b59d64",
-      "title": "可以「折」的 iPhone 正式亮相：Apple 发布会看点回顾",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-09-15",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/114392",
-      "image": "",
-      "summary": "可以「折」的 iPhone 正式亮相：Apple 发布会看点回顾",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-1faf7f949264",
-      "title": "我一定会回来……吗？小手用户与 iPhone 17 Pro Max 的一年",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-09-15",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/114366",
-      "image": "",
-      "summary": "我一定会回来……吗？小手用户与 iPhone 17 Pro Max 的一年",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-0d329d673e71",
-      "title": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-09-15",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/114084",
-      "image": "",
-      "summary": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-9f336f889486",
-      "title": "线下活动 | 全新 iPhone 发布在即，来与少数派一起看 Apple 发布会",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-09-15",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/114071",
-      "image": "",
-      "summary": "线下活动 | 全新 iPhone 发布在即，来与少数派一起看 Apple 发布会",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-c25782e93cb5",
-      "title": "全球首款阔直板探索计划：华为 Pura X View 新品有奖体验",
-      "source": "少数派热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-09-15",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/113883",
-      "image": "",
-      "summary": "全球首款阔直板探索计划：华为 Pura X View 新品有奖体验",
-      "tags": [
-        "Huawei",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-555d7d424856",
-      "title": "这外屏窒息的微信聊天体验，打字的时候只能看到两条信息[受虐滑稽][受虐滑稽][受虐滑稽][受虐滑稽]这手机爽是真的爽，但难受的地方也是真难受",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-15",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73753507",
-      "image": "",
-      "summary": "这外屏窒息的微信聊天体验，打字的时候只能看到两条信息[受虐滑稽][受虐滑稽][受虐滑稽][受虐滑稽]这手机爽是真的爽，但难受的地方也是真难受",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-145fa5afc290",
-      "title": "玩机快十年了，我的印象里苹果一直是标杆，出什么都会被模仿，但我一直很奇怪，电源键和音量键不在同一侧这一点，一直没有厂商做第二个，百思不得其解，列位诸公可有头绪#小米18Fold# #华为PuraXView##OPPOFindX10#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-15",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73744702",
-      "image": "",
-      "summary": "玩机快十年了，我的印象里苹果一直是标杆，出什么都会被模仿，但我一直很奇怪，电源键和音量键不在同一侧这一点，一直没有厂商做第二个，百思不得其解，列位诸公可有头绪#小米18Fold# #华为PuraXView##OPPOFindX10#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-0f67bf887cdc",
-      "title": "今年小米这个背屏，比其他的厂商强多了，起码看着顺眼#小米18# #OPPOFindX10# #vivoX500#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-15",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73761452",
-      "image": "",
-      "summary": "今年小米这个背屏，比其他的厂商强多了，起码看着顺眼#小米18# #OPPOFindX10# #vivoX500#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-a7bc234d5c98",
-      "title": "联发科这个操作笑死我了 自己打自己脸。9500 在发布会的时候，PPT 上还是单核 4000 分，到了 9600 Pro 的发布会上，PPT 直接就变成 3600 了😂😂😂😂笑死我了#vivoX300Pro# #ColorOS17# #数码日常#",
-      "source": "酷安热榜",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-15",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73775459",
-      "image": "",
-      "summary": "联发科这个操作笑死我了 自己打自己脸。9500 在发布会的时候，PPT 上还是单核 4000 分，到了 9600 Pro 的发布会上，PPT 直接就变成 3600 了😂😂😂😂笑死我了#vivoX300Pro# #ColorOS17# #数码日常#",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-ab2de40debcb",
-      "title": "苹果CEO展示iPhoneDuo时翻车",
-      "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-09-15",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9CCEO%E5%B1%95%E7%A4%BAiPhoneDuo%E6%97%B6%E7%BF%BB%E8%BD%A6%23&t=31&band_rank=27&Refer=top",
-      "image": "",
-      "summary": "苹果CEO展示iPhoneDuo时翻车",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-c75a4e2e39c4",
-      "title": "苹果回应iPhone 18 Pro破发",
-      "source": "今日头条热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-15",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7684654232915804202/",
-      "image": "",
-      "summary": "苹果回应iPhone 18 Pro破发",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-2d14c86e6824",
-      "title": "Our top iPhone 18 Pro accessories to upgrade your setup",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-14",
-      "time": "19:59",
-      "publishedAt": "2026-09-14T19:59:34.000Z",
-      "url": "https://9to5mac.com/2026/09/14/best-iphone-18-pro-accessories/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Best-iPhone-18-Pro-accessories.jpg?quality=82&strip=all&w=1600",
-      "summary": "We are taking look at some of the iPhone 18 Pro accessories we are picking up for ourselves this year before Friday’s delivery day. If you ask me Apple’s AirTag 2 and a fresh set…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-844c65a7de33",
-      "title": "Samsung launches ‘Re-Newed’ Galaxy S26 series, $1,099 for Ultra",
-      "source": "9to5Google",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-14",
-      "time": "19:30",
-      "publishedAt": "2026-09-14T19:30:00.000Z",
-      "url": "https://9to5google.com/2026/09/14/samsung-launches-re-newed-galaxy-s26-series-1099-for-ultra/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/Sky-blue-S26-Ultra-1.jpg?quality=82&strip=all&w=1600",
-      "summary": "Samsung is now selling its Galaxy S26 series flagships at a discount with refurbished models available for around $200 off. more…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-662389bb148b",
-      "title": "Certified Re-Newed: refurbished Galaxy S26 series arrives to try and help you save",
-      "source": "Android Central",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-09-14",
-      "time": "19:26",
-      "publishedAt": "2026-09-14T19:26:42.000Z",
-      "url": "https://www.androidcentral.com/phones/samsung-galaxy/certified-re-newed-refurbished-galaxy-s26-series-arrives-at-slightly-lower-costs",
-      "image": "https://cdn.mos.cms.futurecdn.net/Xrm3wmAMUjL38yuq2yr6TE-1280-80.jpg",
-      "summary": "Samsung opens its Certified Re-Newed program to the Galaxy S26 series. Buyers can snag these refurbished phones for under \"flagship-quality\" prices.",
-      "tags": [
-        "Samsung",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-705d571d0f9b",
-      "title": "TriFold sequel? 'Galaxy Z TriFold 2' rumors surge, and another device could join it",
-      "source": "Android Central",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-09-14",
-      "time": "18:52",
-      "publishedAt": "2026-09-14T18:52:36.000Z",
-      "url": "https://www.androidcentral.com/phones/samsung-galaxy/trifold-sequel-galaxy-z-trifold-2-rumors-surge-and-another-device-could-join-it",
-      "image": "https://cdn.mos.cms.futurecdn.net/Jcj9BCzMwizR8o83SBasKb-1280-80.jpg",
-      "summary": "Rumors boldly claim Samsung is looking at a Galaxy Z TriFold 2 for next year, and it has us thinking about the \"limited release\" that was the O.G. TriFold.",
-      "tags": [
-        "Samsung",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-36387c438db7",
-      "title": "Samsung pokes fun at iPhone to Android switching drama in reality star-packed ad [Video]",
-      "source": "9to5Google",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-14",
-      "time": "18:45",
-      "publishedAt": "2026-09-14T18:45:00.000Z",
-      "url": "https://9to5google.com/2026/09/14/samsung-iphone-android-switching-ad/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/galaxy-z-fold-8-switchers-ad-1.jpg?quality=82&strip=all&w=1400",
-      "summary": "Switching from iPhone to Android is a process that’s getting continually better and, in a new ad, Samsung pokes fun at the drama often associated with switching through the lens o…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-7df586d4298c",
-      "title": "More expensive Galaxy S26 phones might be on the way, but not for everyone",
-      "source": "Android Central",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-09-14",
-      "time": "18:06",
-      "publishedAt": "2026-09-14T18:06:47.000Z",
-      "url": "https://www.androidcentral.com/phones/samsung-galaxy/more-expensive-galaxy-s26-phones-might-be-on-the-way-but-not-for-everyone",
-      "image": "https://cdn.mos.cms.futurecdn.net/KNutiXWqfhzqfkgLWYfLeL-1280-80.jpg",
-      "summary": "Higher costs for the Galaxy S26 series? That's possible, as overseas rumors suggest an increase; however, this concerns only one market (for now).",
-      "tags": [
-        "Samsung",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-589c58a2351d",
-      "title": "Samsung reportedly considers early ‘Galaxy Z TriFold 2’ release in wake of iPhone Duo",
-      "source": "9to5Google",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-14",
-      "time": "17:15",
-      "publishedAt": "2026-09-14T17:15:00.000Z",
-      "url": "https://9to5google.com/2026/09/14/samsung-galaxy-z-trifold-2-release-price-rumors/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/01/Galaxy-Z-TriFold-CES-2026-hands-on-5.jpg?quality=82&strip=all&w=1600",
-      "summary": "In the wake of iPhone Duo , Samsung is reportedly considering an early release for a Galaxy Z TriFold sequel. more…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2f9e8cb2fded",
-      "title": "The world’s first phone with three 200MP cameras gets a launch date",
-      "source": "Android Authority",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-14",
-      "time": "17:00",
-      "publishedAt": "2026-09-14T17:00:11.000Z",
-      "url": "https://www.androidauthority.com/oppo-find-x10-launch-3710975/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/04/OPPO-Find-X9-Ultra-back-in-hand.jpg",
-      "summary": "The OPPO Find X10 Pro Max will launch alongside the Find X10 and Find X10 E on September 22.",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-892195fdee98",
-      "title": "The 'best Android phone for students' just scored another huge discount at Amazon",
-      "source": "Android Central",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-09-14",
-      "time": "16:37",
-      "publishedAt": "2026-09-14T16:37:15.000Z",
-      "url": "https://www.androidcentral.com/phones/google-pixel/the-best-android-phone-for-students-just-scored-another-huge-discount-at-amazon",
-      "image": "https://cdn.mos.cms.futurecdn.net/RyNZrNDuNSJivX2QpWrdUS-1280-80.jpg",
-      "summary": "Amazon is slashing 15% off the Google Pixel 10a, which is Android Central's favorite phone under $500.",
-      "tags": [
-        "Pixel",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9668f68fddd7",
-      "title": "Google’s official Pixel 11 series cases are already on sale",
-      "source": "9to5Google",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-14",
-      "time": "16:35",
-      "publishedAt": "2026-09-14T16:35:56.000Z",
-      "url": "https://9to5google.com/2026/09/14/google-pixel-11-cases-discount/",
-      "image": "",
-      "summary": "Following last month’s launch, Google’s official Pixelsnap cases for the Pixel 11 series are already on discount at Amazon. more…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f90f856338a5",
-      "title": "Oppo confirms Find X10 series details ahead of September 22 launch",
-      "source": "9to5Google",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-14",
-      "time": "16:20",
-      "publishedAt": "2026-09-14T16:20:00.000Z",
-      "url": "https://9to5google.com/2026/09/14/oppo-find-x10-launch-date-details/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/oppo-find-x10-series-1.jpg?quality=82&strip=all&w=1200",
-      "summary": "Oppo has officially shown off its new Find X10 series ahead of a launch later this month, confirming three phones and a September 22 launch date. more…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a72e0a4a7d40",
-      "title": "Amazon drops the Pixel 11 Pro by $93, offering early savings on Google’s new flagship",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-14",
-      "time": "16:19",
-      "publishedAt": "2026-09-14T16:19:25.000Z",
-      "url": "https://www.androidauthority.com/pixel-11-pro-deal-3711031/",
-      "image": "",
-      "summary": "This is an early chance to get the Google Pixel 11 Pro for just $1,006, less than a month after the handset hit the shelves.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-93cc724eb02f",
-      "title": "Best iPhone models to consider in 2026",
-      "source": "Gizmochina",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-14",
-      "time": "15:33",
-      "publishedAt": "2026-09-14T15:33:41.000Z",
-      "url": "https://www.gizmochina.com/2026/09/14/best-iphones/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/design_endframe__csvxe3ut4a6a_large_2x-300x164.jpg?x96852",
-      "summary": "Apple just launched the iPhone 18 Pro models and its first foldable, while discontinuing the iPhone 17 Pro lineup. Some older models remain available, though their prices have gon…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-05a61fe6f539",
-      "title": "Galaxy S26 series reportedly getting a price hike imminently, could be as much as $100",
-      "source": "9to5Google",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-14",
-      "time": "14:55",
-      "publishedAt": "2026-09-14T14:55:00.000Z",
-      "url": "https://9to5google.com/2026/09/14/samsung-galaxy-s26-price-hike-report/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Galaxy-S26-family-1-1.jpg?quality=82&strip=all&w=1600",
-      "summary": "In the era of RAMageddon, the price hikes just keep coming. Samsung has left its Galaxy S26 untouched thus far, but a new report suggest prices hikes of around $100 could be on th…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-6d8a9649538f",
-      "title": "iPhone 18 Pro, Pro Max pre-orders now delayed to October for most models",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-14",
-      "time": "13:43",
-      "publishedAt": "2026-09-14T13:43:25.000Z",
-      "url": "https://9to5mac.com/2026/09/14/iphone-18-pro-pro-max-pre-orders-now-delayed-to-october-for-most-models/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-side-angle-burgundy.jpg?quality=82&strip=all&w=1600",
-      "summary": "If you haven’t yet ordered your iPhone 18 Pro or Pro Max, you’ll likely be waiting until October for delivery. Here’s the latest update on iPhone 18 Pro pre-order shipping times.…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-591fb8b01da6",
-      "title": "Here’s how the iPhone Duo compares to the Samsung Galaxy Z Fold 8",
-      "source": "9to5Mac",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-14",
-      "time": "12:09",
-      "publishedAt": "2026-09-14T12:09:44.000Z",
-      "url": "https://9to5mac.com/2026/09/14/heres-how-the-iphone-duo-compares-to-the-samsung-galaxy-z-fold-8/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Heres-how-the-iPhone-Duo-compares-to-the-Samsung-Galaxy-Z-Fold-8.webp?w=1500",
-      "summary": "CNET has a series of pieces comparing the iPhone Duo to three current Android foldables. While it’s a little frustrating to tackle the comparisons separately, it seems clear that…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-07d63eba6b27",
-      "title": "Is the iPhone Duo just the start, with most iPhones foldable within a decade?",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-14",
-      "time": "11:22",
-      "publishedAt": "2026-09-14T11:22:03.000Z",
-      "url": "https://9to5mac.com/2026/09/14/is-the-iphone-duo-just-the-start-with-most-iphones-foldable-within-a-decade/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-star-white-trio.jpg?quality=82&strip=all&w=1600",
-      "summary": "Bloomberg’s Mark Gurman has made an interesting prediction in his latest newsletter, suggesting that the iPhone Duo is just the start and that most iPhones will be foldable within…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9e92600c4b3b",
-      "title": "Samsung may pull an Apple and make the Galaxy S26 series pricier",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-14",
-      "time": "11:10",
-      "publishedAt": "2026-09-14T11:10:14.000Z",
-      "url": "https://www.androidauthority.com/samsung-galaxy-s26-series-price-hike-leak-3710800/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/s26-ultra-on-a-table-scaled.jpg",
-      "summary": "Rising memory costs may finally be catching up with Samsung.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b124e1c1edb7",
-      "title": "Apple’s Handoff lets two iPhones share one number, but it won’t come cheap",
-      "source": "Android Authority",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-14",
-      "time": "10:38",
-      "publishedAt": "2026-09-14T10:38:03.000Z",
-      "url": "https://www.androidauthority.com/iphone-handoff-t-mobile-3710866/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Apple-iPhone-18-Pro_3-scaled.jpg",
-      "summary": "T-Mobile will put your number on a second iPhone, but for the right price.",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b4beb46ef409",
-      "title": "iQOO 16 display leaks were true: Samsung's 2K 165Hz panel is official",
-      "source": "Android Central",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-09-14",
-      "time": "10:15",
-      "publishedAt": "2026-09-14T10:15:34.000Z",
-      "url": "https://www.androidcentral.com/phones/vivo/iqoo-16-display-leaks-were-true-samsungs-2k-165hz-panel-is-official",
-      "image": "https://cdn.mos.cms.futurecdn.net/xZwzqr96xSoZfhAMEpdJje-1280-80.jpg",
-      "summary": "iQOO and Samsung just teamed up to give the upcoming iQOO 16 a world-first M16 OLED display that's wildly bright, hyper-responsive for gaming, and surprisingly power-efficient.",
-      "tags": [
-        "Samsung",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-60f9547a0ede",
-      "title": "I’ve used Android for 15 years — but I’m ready to switch to the iPhone Duo",
-      "source": "Android Authority",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-14",
-      "time": "09:30",
-      "publishedAt": "2026-09-14T09:30:07.000Z",
-      "url": "https://www.androidauthority.com/android-user-15-years-switching-iphone-duo-3710181/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/iphone-duo-featured-image.jpg",
-      "summary": "The iPhone Duo feels like the foldable I’ve been waiting for.",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-c0565d6b8b7e",
-      "title": "JSCHEN小小狐：华为 Mate90 系列曝光：新芯片 / 2 亿单潜望",
-      "source": "JSCHEN小小狐",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-14",
-      "time": "09:06",
-      "publishedAt": "2026-09-14T09:06:19.000Z",
-      "url": "https://www.coolapk.com/feed/73749326",
-      "image": "http://image.coolapk.com/feed/2026/0914/17/4702274_652f424e_6777_0082_507@1440x670.jpg",
-      "summary": "『华为 Mate90 系列曝光：新芯片 / 2 亿单潜望』 华为 Mate90： ◇ 麒麟 9030 系列芯片 ◇ 单层 OLED 显示屏 ◇ 后置三摄 + 红枫原色镜头 ◇ 约 6600mAh 电池 + 无线快充 ◇ 曜石黑 / 零度白 / 晶格绿 / 晶格粉 华为 Mate90 Pro： ◇ 麒麟 9030 系列 “小升级版” 芯片 ◇ 双层 OLED…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-dcb82d5996fe",
-      "title": "JSCHEN小小狐：荣耀 Magic9 超能版曝光：骁龙 8E5 / 大直屏",
-      "source": "JSCHEN小小狐",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-14",
-      "time": "08:17",
-      "publishedAt": "2026-09-14T08:17:31.000Z",
-      "url": "https://www.coolapk.com/feed/73748492",
-      "image": "http://image.coolapk.com/feed/2026/0914/16/4702274_c956f1bd_3848_7237_974@1440x820.jpg",
-      "summary": "『荣耀 Magic9 超能版曝光：骁龙 8E5 / 大直屏』 ◇ 骁龙 8 Elite Gen5 平台，含主动散热风扇 ◇ 6.81\" 2788×1280 1.5K 120Hz OLED 直屏 ◇ 11000mAh 电池 + 80W 有线 + 50W 无线 ◇ 1mm 级别极窄黑边，后置横向矩阵 Deco ◇ 厚 8.1mm / 约 227g，短焦光学屏幕…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-9c059da09728",
-      "title": "Don't expect a major telephoto overhaul for the Galaxy S27 Ultra just yet",
-      "source": "Android Central",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-09-14",
-      "time": "07:42",
-      "publishedAt": "2026-09-14T07:42:38.000Z",
-      "url": "https://www.androidcentral.com/phones/samsung-galaxy/dont-expect-a-major-telephoto-overhaul-for-the-galaxy-s27-ultra-just-yet",
-      "image": "https://cdn.mos.cms.futurecdn.net/HFLKfPMSoWGqmUUaAm5rHo-1280-80.jpg",
-      "summary": "Samsung might not be giving the Galaxy S27 Ultra a massive telephoto upgrade after all.",
-      "tags": [
-        "Samsung",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-987cffb01d72",
-      "title": "新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试",
-      "source": "少数派",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-09-14",
-      "time": "07:16",
-      "publishedAt": "2026-09-14T07:16:23.000Z",
-      "url": "https://sspai.com/post/114453",
-      "image": "",
-      "summary": "照片能证明它被拍过，但不能证明镜头前是真的。",
-      "tags": [
-        "iPhone",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-dc77ef55660a",
-      "title": "This one feature convinced me to use the Pixel 11",
-      "source": "Android Central",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-09-14",
-      "time": "06:54",
-      "publishedAt": "2026-09-14T06:54:26.000Z",
-      "url": "https://www.androidcentral.com/phones/google-pixel/this-one-feature-convinced-me-to-use-the-pixel-11",
-      "image": "https://cdn.mos.cms.futurecdn.net/ZbBaBWbJsMxfKndKZ8fC3D-1280-80.jpg",
-      "summary": "Once you use Magic Capture, you won't go back to a phone without it.",
-      "tags": [
-        "HONOR",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-02bf091f59b0",
-      "title": "JSCHEN小小狐：OPPO Find X10 系列上架官方商城：共三款机型",
-      "source": "JSCHEN小小狐",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-14",
-      "time": "05:05",
-      "publishedAt": "2026-09-14T05:05:54.000Z",
-      "url": "https://www.coolapk.com/feed/73745450",
-      "image": "http://image.coolapk.com/feed/2026/0914/13/4702274_ff381034_4068_0371_984@1280x1177.jpg",
-      "summary": "『OPPO Find X10 系列上架商城：共三款机型』 Find X10 Pro Max： 月白、暖橙、浅钛 12GB + 256GB / 12GB + 512GB 16GB + 512GB / 16GB + 1TB ◇ 相机拼接设计｜LUMO 原色舱 ◇ 1.15mm 极窄四等边 ◇ 三 2 亿镜头群｜哈苏增距镜套装 Find X10： 冰蓝、轻橙、浅…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-900a49313d52",
-      "title": "Apple iPhone Duo vs. Xiaomi 18 Fold: Software matters",
-      "source": "Android Central",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-09-14",
-      "time": "04:40",
-      "publishedAt": "2026-09-14T04:40:00.000Z",
-      "url": "https://www.androidcentral.com/phones/apple-iphone/apple-iphone-duo-vs-xiaomi-18-fold",
-      "image": "https://cdn.mos.cms.futurecdn.net/rXU5h65Bk2p525AGiVoEmm-1280-80.jpg",
-      "summary": "The iPhone Duo and Xiaomi 18 Fold are two of the most exciting foldables around. Which should you buy, though? Let's take a look.",
-      "tags": [
-        "Xiaomi",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-d869aa3baf8c",
-      "title": "JSCHEN小小狐：荣耀 Magic9 系列四配色亮相，肖战代言",
-      "source": "JSCHEN小小狐",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-14",
-      "time": "02:36",
-      "publishedAt": "2026-09-14T02:36:01.000Z",
-      "url": "https://www.coolapk.com/feed/73742796",
-      "image": "http://image.coolapk.com/feed/2026/0914/10/4702274_c71d218d_3358_1672_85@3750x2109.jpg",
-      "summary": "『荣耀 Magic9 系列四配色亮相：黑/白/青/银』 ◇ 幕布黑｜深邃如长镜（标准版、超能版） ◇ 开场白｜纯净如留白（标准版、超能版） ◇ 橄榄青｜流光自成帧（标准版、超能版） ◇ 银盐｜微光自生戏（Pro Max） *阿莱联合研发仅 Magic9、Magic9 Pro Max #今日热点# #荣耀Magic9ProMax# #荣耀Magic8Pro#",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
       ]
     }
   ]
