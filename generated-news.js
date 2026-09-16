@@ -1,44 +1,64 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-16T18:11:04.284Z",
+  "updatedAt": "2026-09-16T21:17:05.405Z",
   "news": [
     {
-      "id": "weibo-c0edce80b75e",
-      "title": "数码闲聊站：一点供应链的信息，华为Mate90系列影像，主摄有50Mp 1/1.56 SC…",
-      "source": "数码闲聊站",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "id": "auto-f32389a217d1",
+      "title": "Oppo Find X10 Series Roundup: Everything We Know Before Launch",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
       "type": "爆料",
-      "trust": "高关注爆料源",
+      "trust": "媒体汇总",
       "date": "2026-09-16",
-      "time": "18:11",
-      "publishedAt": "2026-09-16T18:11:04.284Z",
-      "url": "https://weibo.com/6048569942/Rip65gDk3",
-      "image": "",
-      "summary": "一点供应链的信息，华为Mate90系列影像，主摄有50Mp 1/1.56 SC575XS、50Mp 1/1.28 SC595XS，都支持思特威新一代LOFIC技术。 PM长焦端疑似首发落地200Mp 1/1.28 SCC85XS，首颗高端国产化2亿高动态传感器。 听说前摄和多光谱也用了思特威Sensor，后面Mate X8也用思特威，国产Sensor立大功…",
+      "time": "20:09",
+      "publishedAt": "2026-09-16T20:09:43.000Z",
+      "url": "https://www.gizmochina.com/2026/09/16/oppo-find-x10-series-roundup-everything-we-know-before-launch/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Oppo-Find-X10-series-Design-and-Launch-date-confirmed-300x200.jpg?x96852",
+      "summary": "The Find X10 series is debuting in China on September 22, just one day after Vivo takes the stage with its own X500 lineup. The lineup includes three models initially — the standa…",
       "tags": [
-        "Huawei",
+        "OPPO",
         "爆料",
-        "微博"
+        "自动抓取"
       ]
     },
     {
-      "id": "weibo-5b26835f4fcd",
-      "title": "数码闲聊站：小米18 Pro系列真机来了，边框可以感受一下： 另外后置镜头做平了，徕卡三摄…",
-      "source": "数码闲聊站",
+      "id": "auto-d6e7c8958dbd",
+      "title": "Xiaomi 18 Pro shows up on Geekbench with Snapdragon 8 Elite Extreme Gen 6 ahead of launch",
+      "source": "Gizmochina",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
       "type": "爆料",
-      "trust": "高关注爆料源",
+      "trust": "媒体汇总",
       "date": "2026-09-16",
-      "time": "18:11",
-      "publishedAt": "2026-09-16T18:11:04.284Z",
-      "url": "https://weibo.com/6048569942/Rimo2rYdP",
-      "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ih5ekcg6d9j30xw1fh44j.jpg",
-      "summary": "小米18 Pro系列真机来了，边框可以感受一下： 另外后置镜头做平了，徕卡三摄焦段确定是17mm-75mm，潜望长焦终于改成了3.2X，主摄光圈是F1.67，长焦光圈是F2.4",
+      "time": "19:32",
+      "publishedAt": "2026-09-16T19:32:51.000Z",
+      "url": "https://www.gizmochina.com/2026/09/16/xiaomi-18-pro-shows-up-on-geekbench-with-snapdragon-8-elite-extreme-gen-6-ahead-of-launch/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Xiaomi-18-Pro-series-versatile-back-screen-300x200.jpg?x96852",
+      "summary": "Xiaomi is preparing to bring the Xiaomi 18 Pro to China, and ahead of launch, a new Geekbench listing gives us a look at what’s inside. Also Read5 Best Snapdragon 8 Elite phones:…",
       "tags": [
         "Xiaomi",
         "爆料",
-        "微博"
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-efe0b63d9ce2",
+      "title": "iPhone 18 Pro vs. iPhone Duo Buyer's Guide: Which Should You Choose?",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-16",
+      "time": "19:28",
+      "publishedAt": "2026-09-16T19:28:11.000Z",
+      "url": "https://www.macrumors.com/guide/iphone-18-pro-vs-iphone-duo/",
+      "image": "https://images.macrumors.com/article-new/2026/09/iPhone-Duo-vs-18-Pro-Buyers-Guide-Feature.jpg",
+      "summary": "Apple's new iPhone lineup asks buyers a new and challenging question: Is a foldable display worth feature compromises? Alongside the iPhone 18 Pro and &zwnj;iPhone 18 Pro&zwnj; Ma…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -162,26 +182,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-148993645438",
-      "title": "JSCHEN小小狐：『极客湾实测 A20 Pro：A 系列五年来最大提升』 「Apple A20 Pro 规格」 CPU：2 × S…",
-      "source": "JSCHEN小小狐",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-16",
-      "time": "13:46",
-      "publishedAt": "2026-09-16T13:46:35.000Z",
-      "url": "https://www.coolapk.com/feed/73792772",
-      "image": "http://image.coolapk.com/feed/2026/0916/22/4702274_021ca155_8442_1881_697@1716x4830.jpg",
-      "summary": "『极客湾实测 A20 Pro：A 系列五年来最大提升』 「Apple A20 Pro 规格」 CPU：2 × S 核 4.93GHz + 4 × E 核 2.64GHz GPU：7 核 1620MHz + Neural Acceleerator NPU：由 16 核提至 32 核，面积增加 61.98% 晶圆级多芯片模组封装 - 常温和极低温下 GB7 分…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "coolapk-user-28dc8d0b4f52",
       "title": "竹本青：【影石飓风实测 iPhone 18 Pro系列 充电功率：有线峰值53W， 无线依旧15W】 iPhone18 P…",
       "source": "竹本青",
@@ -262,46 +262,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-90db8ec13c8b",
-      "title": "You might have missed it, but the iPhone 18 just showed us 2027's next Android trend",
-      "source": "Android Police",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-16",
-      "time": "12:15",
-      "publishedAt": "2026-09-16T12:15:10.000Z",
-      "url": "https://www.androidpolice.com/the-iphone-18-just-showed-us-2027s-next-android-trend/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/09/a-hand-holding-burgundy-and-cosmic-orange-iphones.png",
-      "summary": "Although it'll all depend on the phone's popularity",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f937f7983250",
-      "title": "The iPhone 18 Pro’s big camera update is all about the small gains",
-      "source": "The Verge",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-16",
-      "time": "12:10",
-      "publishedAt": "2026-09-16T12:10:53.000Z",
-      "url": "https://www.theverge.com/tech/995945/iphone-18-pro-max-review-camera-aperture",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268735_iPhone_18_Pro_AKrales_0335.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "Last week, Apple announced an iPhone unlike any it has made in the past. An iPhone that has seemingly already led several other phone manufacturers to pursue entirely different de…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-7c88dda35ff2",
       "title": "iPhone 18 Pro review: More of a great thing",
       "source": "9to5Mac",
@@ -377,26 +337,6 @@ window.phoneRadarAuto = {
       "summary": "IT之家 9 月 16 日消息， 型号为“Xiaomi M154FF”的小米手机昨日（9 月 15 日）现身 GeekBench 跑分库，预估关联小米 18 Pro 机型 。 型号 M1544F 此前已现身跑分库，预估关联小米 18 Pro Max 。 数据显示，该机搭载了高通第六代骁龙 8 超级至尊版（两颗 5.01GHz 超大核，3 颗 4.03GHz…",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-539257f90e98",
-      "title": "致敬苹果 50 周年：Caviar 推出撞色定制 iPhone 18 Pro / Max，每款限 50 台",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-16",
-      "time": "11:11",
-      "publishedAt": "2026-09-16T11:11:30.000Z",
-      "url": "https://www.ithome.com/1/003/263.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/9489fc5c-8899-4636-b503-91eda01d4c2a.png",
-      "summary": "IT之家 9 月 16 日消息，奢侈厂商 Caviar 昨日（9 月 15 日）发布博文，宣布推出 Contrast 限量版 iPhone 18 Pro 和 iPhone 18 Pro Max， 采用撞色方案，起售价 8,000 美元 （IT之家注：现汇率约合 53,815 元人民币） 。 该系列属于 Caviar 的 Apple 50 周年纪念系列，同步…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -862,8 +802,28 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-47254c1932dd",
-      "title": "今年小米这个背屏，比其他的厂商强多了，起码看着顺眼#小米18# #OPPOFindX10# #vivoX500#",
+      "id": "newsnow-c5df4748dd85",
+      "title": "作为十几年老用户。我只想说。今年手机是0升级。说的再难听点是倒退了[流汗滑稽][受虐滑稽]",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-16",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73793367",
+      "image": "",
+      "summary": "作为十几年老用户。我只想说。今年手机是0升级。说的再难听点是倒退了[流汗滑稽][受虐滑稽]",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-1c9b78eed3ed",
+      "title": "感觉真就是外星科技了，虽然刷分不如玄戒o3，但这个实测也太吓人了，难道是那群吃咖喱的印度人被开了？[哦吼吼] #iPhone18ProMax# #iPhone18Pro# #小米18Fold#",
       "source": "酷安热榜",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
@@ -872,91 +832,11 @@ window.phoneRadarAuto = {
       "date": "2026-09-16",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73761452",
+      "url": "https://www.coolapk.com/feed/73792665",
       "image": "",
-      "summary": "今年小米这个背屏，比其他的厂商强多了，起码看着顺眼#小米18# #OPPOFindX10# #vivoX500#",
+      "summary": "感觉真就是外星科技了，虽然刷分不如玄戒o3，但这个实测也太吓人了，难道是那群吃咖喱的印度人被开了？[哦吼吼] #iPhone18ProMax# #iPhone18Pro# #小米18Fold#",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-c2bb9345191a",
-      "title": "这外屏窒息的微信聊天体验，打字的时候只能看到两条信息[受虐滑稽][受虐滑稽][受虐滑稽][受虐滑稽]这手机爽是真的爽，但难受的地方也是真难受",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-16",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73753507",
-      "image": "",
-      "summary": "这外屏窒息的微信聊天体验，打字的时候只能看到两条信息[受虐滑稽][受虐滑稽][受虐滑稽][受虐滑稽]这手机爽是真的爽，但难受的地方也是真难受",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-e0fc9ee2f070",
-      "title": "似乎某位川蜀强者直播中泄密了mate90系列内容[受虐滑稽][受虐滑稽][受虐滑稽]有点厉害，",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-16",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73776466",
-      "image": "",
-      "summary": "似乎某位川蜀强者直播中泄密了mate90系列内容[受虐滑稽][受虐滑稽][受虐滑稽]有点厉害，",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-e2f974a89fb0",
-      "title": "玩机快十年了，我的印象里苹果一直是标杆，出什么都会被模仿，但我一直很奇怪，电源键和音量键不在同一侧这一点，一直没有厂商做第二个，百思不得其解，列位诸公可有头绪#小米18Fold# #华为PuraXView##OPPOFindX10#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-16",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73744702",
-      "image": "",
-      "summary": "玩机快十年了，我的印象里苹果一直是标杆，出什么都会被模仿，但我一直很奇怪，电源键和音量键不在同一侧这一点，一直没有厂商做第二个，百思不得其解，列位诸公可有头绪#小米18Fold# #华为PuraXView##OPPOFindX10#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-77a537558cfe",
-      "title": "iPhone18Pro炫光",
-      "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-09-16",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E7%82%AB%E5%85%89%23&t=31&band_rank=4&Refer=top",
-      "image": "",
-      "summary": "iPhone18Pro炫光",
-      "tags": [
-        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -982,8 +862,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-1619163bb79d",
-      "title": "iPhone18ProMax充电速度",
+      "id": "newsnow-c118f281146c",
+      "title": "iPhone18Pro炫光",
       "source": "微博热搜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -992,9 +872,29 @@ window.phoneRadarAuto = {
       "date": "2026-09-16",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhone18ProMax%E5%85%85%E7%94%B5%E9%80%9F%E5%BA%A6%23&t=31&band_rank=23&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E7%82%AB%E5%85%89%23&t=31&band_rank=25&Refer=top",
       "image": "",
-      "summary": "iPhone18ProMax充电速度",
+      "summary": "iPhone18Pro炫光",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-42a0c7a70196",
+      "title": "iPhone18Pro",
+      "source": "微博热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-09-16",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%23&t=31&band_rank=30&Refer=top",
+      "image": "",
+      "summary": "iPhone18Pro",
       "tags": [
         "iPhone",
         "爆料",
@@ -1015,6 +915,26 @@ window.phoneRadarAuto = {
       "url": "https://search.bilibili.com/all?keyword=iPhone18%20Pro%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90",
       "image": "",
       "summary": "iPhone18 Pro性能分析",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-8fef36e78c90",
+      "title": "钟文泽评测iPhone 18 Pro",
+      "source": "B站热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-16",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://search.bilibili.com/all?keyword=%E9%92%9F%E6%96%87%E6%B3%BD%E8%AF%84%E6%B5%8BiPhone%2018%20Pro",
+      "image": "",
+      "summary": "钟文泽评测iPhone 18 Pro",
       "tags": [
         "iPhone",
         "爆料",
@@ -1082,8 +1002,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-ea25f60d284c",
-      "title": "老人手机130个流氓软件疯狂弹广告",
+      "id": "newsnow-7aa7a636670b",
+      "title": "豆包二代手机开售",
       "source": "百度热搜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -1092,9 +1012,29 @@ window.phoneRadarAuto = {
       "date": "2026-09-16",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E6%89%8B%E6%9C%BA130%E4%B8%AA%E6%B5%81%E6%B0%93%E8%BD%AF%E4%BB%B6%E7%96%AF%E7%8B%82%E5%BC%B9%E5%B9%BF%E5%91%8A",
+      "url": "https://www.baidu.com/s?wd=%E8%B1%86%E5%8C%85%E4%BA%8C%E4%BB%A3%E6%89%8B%E6%9C%BA%E5%BC%80%E5%94%AE",
       "image": "",
-      "summary": "老人手机130个流氓软件疯狂弹广告",
+      "summary": "豆包二代手机开售",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-50bf1f41bbd5",
+      "title": "实测“豆包手机二代”",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-16",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E5%AE%9E%E6%B5%8B%E2%80%9C%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA%E4%BA%8C%E4%BB%A3%E2%80%9D",
+      "image": "",
+      "summary": "实测“豆包手机二代”",
       "tags": [
         "行业",
         "爆料",
@@ -1155,26 +1095,6 @@ window.phoneRadarAuto = {
       "url": "https://9to5mac.com/2026/09/15/dbrand-has-iphone-duo-iphone-18-pro-covered-with-huge-range-of-designs/",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/09-10-iPhone-18-Series-Hero-1.png?w=1500",
       "summary": "With the exciting new iPhone Duo and latest evolution of the iPhone 18 Pro now official, casemaker dbrand has wasted no time in announcing its latest cases, vinyl wraps, and scree…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-156b968557dd",
-      "title": "iPhone 16 Pro vs. iPhone 18 Pro Buyer's Guide: Worth Upgrading?",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-15",
-      "time": "19:17",
-      "publishedAt": "2026-09-15T19:17:47.000Z",
-      "url": "https://www.macrumors.com/guide/iphone-16-pro-vs-18-pro/",
-      "image": "https://images.macrumors.com/article-new/2026/09/iPhone-16-Pro-vs-18-Pro-Buyers-Guide-Feature.jpg",
-      "summary": "Apple last week announced the iPhone 18 Pro and &zwnj;iPhone 18 Pro&zwnj; Max, arriving two years after the iPhone 16 Pro and &zwnj;iPhone 16&zwnj; Pro Max. Skipping a generation…",
       "tags": [
         "iPhone",
         "爆料",
@@ -1482,26 +1402,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-276ce70afa69",
-      "title": "The Galaxy Z TriFold 2 might fix the TriFold’s problems without getting pricier",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-15",
-      "time": "07:27",
-      "publishedAt": "2026-09-15T07:27:43.000Z",
-      "url": "https://www.androidauthority.com/galaxy-z-trifold-2-thinner-lighter-price-leak-3711236/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/01/Samsung-Galaxy-Z-TriFold-at-CES-2026-5-of-6.jpg",
-      "summary": "The iPhone Duo may have forced Samsung to adjust its timeline.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-0e8220cdd283",
       "title": "Galaxy S27 Ultra, S27 Pro to finally use M16 OLED panels following iPhone 18 Pro and iQOO 16",
       "source": "Gizmochina",
@@ -1515,26 +1415,6 @@ window.phoneRadarAuto = {
       "url": "https://www.gizmochina.com/2026/09/15/galaxy-s27-ultra-s27-pro-to-finally-use-m16-oled-panels-following-iphone-18-pro-and-iqoo-16/",
       "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Samsung-Galaxy-S27-Pro-leak-als-kompakteres-Galaxy-S27-Ultra-300x169.jpg?x96852",
       "summary": "According to an industry report from ETNews, the company plans to roll out its latest OLED tech across the entire Galaxy S27 series, with the biggest jumps reserved for the higher…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-bb4fba90d6ba",
-      "title": "Want a cheaper Galaxy S26? Samsung’s Certified Re-Newed lineup has you covered",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-15",
-      "time": "05:52",
-      "publishedAt": "2026-09-15T05:52:05.000Z",
-      "url": "https://www.androidauthority.com/galaxy-s26-series-samsung-certified-re-newed-program-3711211/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/samsung-galaxy-s26-ultra-pine-tree-scaled.jpg",
-      "summary": "Getting a flagship for less just got a bit easier.",
       "tags": [
         "Samsung",
         "爆料",
@@ -1577,66 +1457,6 @@ window.phoneRadarAuto = {
       "summary": "Vivo is gearing up to launch a couple of new phones in India. Recently, the Vivo X Fold 6 foldable phone was spotted in the database of the Bureau of Indian Standards (BIS). Now,…",
       "tags": [
         "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c03738799f49",
-      "title": "iQOO 16 is launching on September 29, design and color variants officially confirmed",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-15",
-      "time": "04:35",
-      "publishedAt": "2026-09-15T04:35:15.000Z",
-      "url": "https://www.gizmochina.com/2026/09/15/iqoo-16-launch-date-design-color-variants-official/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/iQOO-16-launch-date--300x169.jpg?x96852",
-      "summary": "After teasing the arrival of its next flagship phone for the past few days in China, iQOO has finally revealed its launch date. The iQOO 16 will be officially unveiled on Septembe…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9ff4bc86a9a3",
-      "title": "Xiaomi confirms Xiaomi 18 Pro series launch with a new rear screen",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-15",
-      "time": "04:24",
-      "publishedAt": "2026-09-15T04:24:29.000Z",
-      "url": "https://www.gizmochina.com/2026/09/15/xiaomi-confirms-xiaomi-18-pro-series-launch-with-a-new-rear-screen/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Xiaomi-18-Pro-series-launch-300x200.jpg?x96852",
-      "summary": "Xiaomi today officially confirmed that the Xiaomi 18 Pro series will launch this month in China. In a teaser shared on Weibo, the company showed the rear display of the phone with…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-4089b1ee00d0",
-      "title": "Galaxy S26 FE launches in India with Exynos 2500, three colors, a few launch offers",
-      "source": "Gizmochina",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-15",
-      "time": "04:19",
-      "publishedAt": "2026-09-15T04:19:49.000Z",
-      "url": "https://www.gizmochina.com/2026/09/15/galaxy-s26-fe-launches-in-india-with-exynos-2500-three-colors-a-few-launch-offers/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/in-feature-nbsp-554411548-300x169.jpg?x96852",
-      "summary": "Samsung’s latest Fan Edition phone is heading to India, and the company has now locked in the pricing, colors, and launch deals. The Galaxy S26 FE will start at ₹79,999 for the on…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
