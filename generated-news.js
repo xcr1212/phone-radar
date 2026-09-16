@@ -1,44 +1,364 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-16T00:18:33.605Z",
+  "updatedAt": "2026-09-16T07:40:49.655Z",
   "news": [
     {
-      "id": "weibo-ef82f9b527cb",
-      "title": "数码闲聊站：受内存涨价影响，AOVMHh上一代旗舰机均已经完成一轮1000元档位的普涨。…",
+      "id": "auto-9044984e0663",
+      "title": "[Interview] The People Behind the Galaxy Z Series’ Camera Innovations ②: How Portrait Video Recreates the Look of Professional Camera Lenses",
+      "source": "Samsung Newsroom",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-09-16",
+      "time": "08:00",
+      "publishedAt": "2026-09-16T08:00:00.000Z",
+      "url": "https://news.samsung.com/global/interview-the-people-behind-the-galaxy-z-series-camera-innovations-%e2%91%a1-how-portrait-video-recreates-the-look-of-professional-camera-lenses",
+      "image": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/09/15174444/Samsung-Mobile-The-New-Galaxy-Z-series-Portrait-Video-Interview_Thumb932-728x410.jpg",
+      "summary": "Unveiled at Galaxy Unpacked July 2026, Samsung Electronics’ Galaxy Z series introduces My FanCam — a new feature that lets users focus their edits on a person of their choice — as…",
+      "tags": [
+        "Samsung",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-5b26835f4fcd",
+      "title": "数码闲聊站：小米18 Pro系列真机来了，边框可以感受一下： 另外后置镜头做平了，徕卡三摄…",
       "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-16",
-      "time": "00:18",
-      "publishedAt": "2026-09-16T00:18:33.605Z",
-      "url": "https://weibo.com/6048569942/RibwJCi0O",
-      "image": "",
-      "summary": "受内存涨价影响，AOVMHh上一代旗舰机均已经完成一轮1000元档位的普涨。 而在此基础上，即将发布的国产旗舰新机产品定义变得非常有意思，大致可以分为三类： 换皮：N-1芯片 + 常规小迭代，有望售价不变 换芯：N代芯片 + 常规小迭代，起售价涨500± 换新：N代芯片 + 激进大迭代，直接放开成本限制，大迭代猛堆料，价格将上探1000±",
+      "time": "07:40",
+      "publishedAt": "2026-09-16T07:40:49.655Z",
+      "url": "https://weibo.com/6048569942/Rimo2rYdP",
+      "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ih5ekcg6d9j30xw1fh44j.jpg",
+      "summary": "小米18 Pro系列真机来了，边框可以感受一下： 另外后置镜头做平了，徕卡三摄焦段确定是17mm-75mm，潜望长焦终于改成了3.2X，主摄光圈是F1.67，长焦光圈是F2.4",
       "tags": [
-        "行业",
+        "Xiaomi",
         "爆料",
         "微博"
       ]
     },
     {
-      "id": "weibo-485e43baa5c2",
-      "title": "数码闲聊站：咳咳，如之前我爆料的信息，大杯系列都有双层OLED，万级高亮度，大大杯顶配新屏…",
-      "source": "数码闲聊站",
+      "id": "auto-33127f37a990",
+      "title": "苹果携手王嘉尔推出音乐视频《Thank You》，全程使用 iPhone 18 Pro 拍摄",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-16",
+      "time": "07:29",
+      "publishedAt": "2026-09-16T07:29:28.000Z",
+      "url": "https://www.ithome.com/1/003/102.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/a7f4abc9-3e67-45d2-bb18-2d6b96b41c6e.png",
+      "summary": "IT之家 9 月 16 日消息，Apple 苹果再度与歌手王嘉尔合作， 共同推出音乐视频《Thank You》 ，这支双方第二次合作用 iPhone 拍摄的作品即将于 9 ⽉ 21 日中午 12 点正式发布。 《Thank You》全程使用全新 iPhone 18 Pro 拍摄 ，由王嘉尔与导演 Ojun Kwon 共同执导，以长镜头形式呈现，让观众跟随镜…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-28657267639c",
+      "title": "大疆 Neo 3 无人机曝光，配全新带屏遥控器",
+      "source": "IT之家",
       "brand": "行业",
       "model": "智能手机市场",
       "type": "爆料",
-      "trust": "高关注爆料源",
+      "trust": "媒体汇总",
       "date": "2026-09-16",
-      "time": "00:18",
-      "publishedAt": "2026-09-16T00:18:33.605Z",
-      "url": "https://weibo.com/6048569942/Ri4TPkZah",
-      "image": "",
-      "summary": "咳咳，如之前我爆料的信息，大杯系列都有双层OLED，万级高亮度，大大杯顶配新屏亮度更高；中杯N-1芯片，大杯N-1小升级版芯片，大大杯系列N代新芯片；电池6600mAh±，6800mAh±；全系三摄单长焦，大大杯上2亿潜望……[污]",
+      "time": "07:23",
+      "publishedAt": "2026-09-16T07:23:32.000Z",
+      "url": "https://www.ithome.com/1/003/098.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/dfce12a1-fe20-4b4e-8f6a-52d04a5c4829.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 16 日消息，X 平台消息人士 Igor Bogdanov 昨天发文，曝光大疆 Neo 3 无人机的包装盒。该机预计将采用全新机身设计， 配备全新带屏遥控器 。 从消息人士发布的图片来看，这款无人机采用了全新螺旋桨保护结构，外形类似自行车轮毂辐条，机身背面还带有额外的散热开孔，并新增一个避障传感器。 IT之家注意到，该无人机包装盒上还出现…",
       "tags": [
         "行业",
         "爆料",
-        "微博"
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3bac828bee06",
+      "title": "Google’s new wallpaper puts the Pixel 11’s blueprint on your lock screen",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-16",
+      "time": "07:21",
+      "publishedAt": "2026-09-16T07:21:11.000Z",
+      "url": "https://www.androidauthority.com/google-pixel-11-wallpapers-3711775/",
+      "image": "",
+      "summary": "Peeking inside your Pixel has never looked quite this good.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-932e5b3b9404",
+      "title": "Samsung could use LPDDR5X RAM in at least some Galaxy S27 models",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-16",
+      "time": "06:41",
+      "publishedAt": "2026-09-16T06:41:35.000Z",
+      "url": "https://www.sammobile.com/news/some-galaxy-s27-models-lpddr5x-ram/",
+      "image": "",
+      "summary": "Samsung's next high-end phones will be the Galaxy S27, Galaxy S27+, Galaxy S27 Pro, and the Galaxy S27 Ultra. While initial expectations pointed toward all these models using LPDD…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-bac1b0c12c8d",
+      "title": "小米 18 Pro 系列真机曝光，徕卡三摄焦段确定是 17mm-75mm",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-16",
+      "time": "06:41",
+      "publishedAt": "2026-09-16T06:41:01.000Z",
+      "url": "https://www.ithome.com/1/003/062.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/e808384a-1aaa-4578-8770-5c0fcc3b2ace.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 16 日消息，博主 @数码闲聊站 刚刚曝光了小米 18 Pro 系列真机。 博主透露，系列机型后置镜头已做平， 徕卡三摄焦段确定是 17mm-75mm ，潜望长焦改成了 3.2X，主摄光圈是 F1.67、长焦光圈是 F2.4。 据IT之家此前报道， 小米 18 Pro 系列手机官宣将于本月发布 ，这是小米数字系列有史以来升级最大的一次，在…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5df481626010",
+      "title": "消息称三星 Galaxy S27 Ultra 手机沿用 5000 万像素 5x 长焦镜头",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-16",
+      "time": "06:38",
+      "publishedAt": "2026-09-16T06:38:39.000Z",
+      "url": "https://www.ithome.com/1/003/060.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/1a72a58a-1a4c-4976-8c74-c80eecd131a8.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 16 日消息，科技媒体 gsmarena 今天（9 月 16 日）发布博文， 报道称交叉信息基本确认三星 Galaxy S27 Ultra 手机会采用 5000 万像素 5 倍光学长焦镜头。 Galaxy S27 Ultra 渲染图 IT之家曾于 9 月 1 日报道，消息称在 Galaxy S27 Ultra 旗舰机型上， 三星测试一颗…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-165ad8b9924a",
+      "title": "竹本青：vivo X500系列首发直出「8K原生Live」，已率先支持微博",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-16",
+      "time": "06:02",
+      "publishedAt": "2026-09-16T06:02:55.000Z",
+      "url": "https://www.coolapk.com/feed/73783326",
+      "image": "http://image.coolapk.com/feed/2026/0916/14/4248714_34c617b0_8572_5803_775-livepic@2164x3832.jpg",
+      "summary": "【vivo X500系列 宣布首发直出「8K原生Live」，已率先支持微博】 vivo基于视频能力打造更强的Live体验。8K超高分辨率，同时搭载蓝厂自研拍录一体架构，让Live从封面帧到整个视频流，每一帧都是好画质。也打通了8K Live的分享链路，率先支持微博直发。 #今日热点# #OriginOS7# #vivoX500ProMax#",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-05f778f70531",
+      "title": "Apple claims the iPhone 18 Pro camera is more secure than your Android",
+      "source": "Android Authority",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-16",
+      "time": "05:39",
+      "publishedAt": "2026-09-16T05:39:30.000Z",
+      "url": "https://www.androidauthority.com/apple-reference-image-vs-android-c2pa-3711734/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/iphone-18-pro-blue-Apple-Event-2026.jpeg",
+      "summary": "It says photo verification systems on Android devices are less secure and private.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-026566a8a74d",
+      "title": "竹本青：小米米家智能温湿度计3 Pro 官宣：众筹价114元",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-16",
+      "time": "05:03",
+      "publishedAt": "2026-09-16T05:03:33.000Z",
+      "url": "https://www.coolapk.com/feed/73782392",
+      "image": "http://image.coolapk.com/feed/2026/0916/13/4248714_0daa41cd_5010_3451_315@1080x1188.jpg",
+      "summary": "【小米米家智能温湿度计3 Pro 正式官宣：升级二氧化碳浓度检测，众筹价114元】 ● 3.6英寸LCD屏幕，主屏内容可切换 ● 日期、星期、时间、温度、湿度、CO₂浓度 ● 瑞士盛思锐低功耗热导原理传感器 ● 三大监测： 温度，显示分辨率 0.1°C 湿度，显示分辨率 1%RH 二氧化碳，显示分辨率 1ppm ● CO₂浓度 绿/黄/红三色指示 ● 澎湃…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-a8446eb8ec82",
+      "title": "Apple named its foldable the iPhone Duo, there’s a lesson in there for Samsung",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-16",
+      "time": "05:02",
+      "publishedAt": "2026-09-16T05:02:32.000Z",
+      "url": "https://www.sammobile.com/opinion/apple-named-foldable-iphone-duo-lesson-there-for-samsung/",
+      "image": "",
+      "summary": "Apple didn't go with the rumored iPhone Fold or iPhone Ultra names for its first foldable iPhone. It went in an entirely unexpected direction by calling its first attempt at a fol…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-78d128a29525",
+      "title": "行业首个，中国移动开源连接 VLA / WAM 模型与机器人本体的通用工程底座 Open-RAIL",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-16",
+      "time": "04:19",
+      "publishedAt": "2026-09-16T04:19:51.000Z",
+      "url": "https://www.ithome.com/1/003/013.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/237c5333-91bf-46f7-9ee1-90f39bc8b6aa.jpg",
+      "summary": "IT之家 9 月 16 日消息，中国移动今日宣布，面向全球开源行业内首个连接 VLA / WAM 模型与机器人本体的通用工程底座 —— Open-RAIL 。 机器人能做的事越来越多，它们靠 VLA / WAM 模型看懂环境、听懂手势语音，自主完成任务。但给机器人装上大脑，不等于就能干活。实际落地中，不同机器人控制逻辑不同，换一台新机器人，就得重新转译指令…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2b01b8b96e7b",
+      "title": "The Xiaomi 18 Pro’s back screen can now build its own apps",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-16",
+      "time": "04:10",
+      "publishedAt": "2026-09-16T04:10:02.000Z",
+      "url": "https://www.gizmochina.com/2026/09/16/the-xiaomi-18-pros-back-screen-can-now-build-its-own-apps/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Xiaomi-18-Pro-series-versatile-back-screen-300x200.jpg?x96852",
+      "summary": "Yesterday, Xiaomi teased its next flagship with a cryptic image showing the word “Generating” on the rear display, and we now know what it really means. It’s aptly named “Versatil…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5cc35f205637",
+      "title": "荣耀 Magic9 系列手机官宣搭载自研影像芯片荣耀驭光 H1：RAW 域视频无损降噪、信噪比提升 8dB，6nm 工艺",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-16",
+      "time": "03:53",
+      "publishedAt": "2026-09-16T03:53:57.000Z",
+      "url": "https://www.ithome.com/1/002/986.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/0353f4e7-1a8e-44e1-bdac-38121943d3b5.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 16 日消息，荣耀 Magic 盛典暨荣耀 Magic9 系列新品发布会定档 9 月 28 日在北京举行。 荣耀官方今日宣布，荣耀 Magic9 系列手机搭载 自研影像芯片荣耀驭光 H1 ，采用 6nm 工艺，支持 RAW 域视频无损降噪，信噪比提升 8dB。 据介绍，荣耀 Magic9 系列手机由阿莱联合研发，采用大导之眼设计，后置“电…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-328a24eb2a23",
+      "title": "Honor highlights Magic 9 series one-tap cinematic video shooting feature",
+      "source": "Huawei Central",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-16",
+      "time": "03:08",
+      "publishedAt": "2026-09-16T03:08:28.000Z",
+      "url": "https://www.huaweicentral.com/honor-magic-9-series-one-tap-cinematic-video-shooting/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/09/Magic-9-vanilla-model.jpg",
+      "summary": "Honor continues to tease new highlights of the Magic 9 series, and the latest warm-up clip shows a one-tap cinematic video shooting feature. The company revealed how the upcoming…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-36123ee0c69b",
+      "title": "Apple explains how the iPhone 18 Pro’s new Reference Image camera mode works",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-16",
+      "time": "02:25",
+      "publishedAt": "2026-09-16T02:25:19.000Z",
+      "url": "https://9to5mac.com/2026/09/15/apple-explains-how-the-iphone-18-pros-new-reference-image-camera-mode-works/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-reference-image-iphone-18-pro.jpg?quality=82&strip=all&w=1600",
+      "summary": "A new post on Apple’s Security Research blog details the fascinating tech, architecture, and thinking behind the iPhone 18 Pro’s new Reference Image camera mode . Here are the det…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-1ffa8be9ae89",
+      "title": "JSCHEN小小狐：荣耀 WIN 2 系列疑似入网：三款机型 / 100W",
+      "source": "JSCHEN小小狐",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-16",
+      "time": "01:22",
+      "publishedAt": "2026-09-16T01:22:29.000Z",
+      "url": "https://www.coolapk.com/feed/73778336",
+      "image": "http://image.coolapk.com/feed/2026/0916/09/4702274_abd77403_1747_6606_549@952x1191.jpg",
+      "summary": "『荣耀 WIN 2 系列疑似入网：三款机型 / 100W』 BRM-AN00（20V 5A，100W Max） BRT-AN00（20V 4.5A，90W Max） BRS-AN00（20V 4.5A，90W Max） WIN 2 顶配版： ◇ 骁龙 8 Elite Gen6 Pro（SM8975） ◇ 6.89'' 2K 185Hz LTPS OLED…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
       ]
     },
     {
@@ -282,41 +602,101 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-a4aaefa99c8b",
-      "title": "联发科这个操作笑死我了 自己打自己脸。9500 在发布会的时候，PPT 上还是单核 4000 分，到了 9600 Pro 的发布会上，PPT 直接就变成 3600 了😂😂😂😂笑死我了#vivoX300Pro# #ColorOS17# #数码日常#",
+      "id": "newsnow-4194cbe5485a",
+      "title": "煤油开的白边膜店真好 把iPhone的颜值又提升了不少[受虐滑稽][受虐滑稽][受虐滑稽][受虐滑稽]就是有点小贵 太漂亮了我的天 美中不足 我贴的时候灵动岛的飘进去一根白毛[流泪][流泪][流泪]不敢掀开重粘 （有送的贴膜神器我怕刮花边框 自己贴的）[受虐滑稽][受虐滑稽][受虐滑稽]没想到贴坏了",
       "source": "酷安热榜",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-16",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73775459",
+      "url": "https://www.coolapk.com/feed/73763742",
       "image": "",
-      "summary": "联发科这个操作笑死我了 自己打自己脸。9500 在发布会的时候，PPT 上还是单核 4000 分，到了 9600 Pro 的发布会上，PPT 直接就变成 3600 了😂😂😂😂笑死我了#vivoX300Pro# #ColorOS17# #数码日常#",
+      "summary": "煤油开的白边膜店真好 把iPhone的颜值又提升了不少[受虐滑稽][受虐滑稽][受虐滑稽][受虐滑稽]就是有点小贵 太漂亮了我的天 美中不足 我贴的时候灵动岛的飘进去一根白毛[流泪][流泪][流泪]不敢掀开重粘 （有送的贴膜神器我怕刮花边框 自己贴的）[受虐滑稽][受虐滑稽][受虐滑稽]没想到贴坏了",
       "tags": [
-        "OPPO",
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-e46b5036fb4a",
-      "title": "小伙211毕业武汉卖手机第1个月赚3万",
-      "source": "微博热搜",
+      "id": "newsnow-e0fc9ee2f070",
+      "title": "似乎某位川蜀强者直播中泄密了mate90系列内容[受虐滑稽][受虐滑稽][受虐滑稽]有点厉害，",
+      "source": "酷安热榜",
       "brand": "行业",
       "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-16",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73776466",
+      "image": "",
+      "summary": "似乎某位川蜀强者直播中泄密了mate90系列内容[受虐滑稽][受虐滑稽][受虐滑稽]有点厉害，",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-f7e9e348f824",
+      "title": "iPhone为何不能右滑返回",
+      "source": "B站热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-16",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://search.bilibili.com/all?keyword=iPhone%E4%B8%BA%E4%BD%95%E4%B8%8D%E8%83%BD%E5%8F%B3%E6%BB%91%E8%BF%94%E5%9B%9E",
+      "image": "",
+      "summary": "iPhone为何不能右滑返回",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-3d409de56138",
+      "title": "平陆运河开通带来哪些新机遇",
+      "source": "B站热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-16",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://search.bilibili.com/all?keyword=%E5%B9%B3%E9%99%86%E8%BF%90%E6%B2%B3%E5%BC%80%E9%80%9A%E5%B8%A6%E6%9D%A5%E5%93%AA%E4%BA%9B%E6%96%B0%E6%9C%BA%E9%81%87",
+      "image": "",
+      "summary": "平陆运河开通带来哪些新机遇",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-1fab14e05568",
+      "title": "向咪许愿一个iPhone 18",
+      "source": "抖音热点",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "待验证",
       "date": "2026-09-16",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99211%E6%AF%95%E4%B8%9A%E6%AD%A6%E6%B1%89%E5%8D%96%E6%89%8B%E6%9C%BA%E7%AC%AC1%E4%B8%AA%E6%9C%88%E8%B5%9A3%E4%B8%87%23&t=31&band_rank=9&Refer=top",
+      "url": "https://www.douyin.com/hot/2651757",
       "image": "",
-      "summary": "小伙211毕业武汉卖手机第1个月赚3万",
+      "summary": "向咪许愿一个iPhone 18",
       "tags": [
-        "行业",
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -462,26 +842,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-c036984bbe17",
-      "title": "消息称华为 Mate 90 系列手机“大杯”都有双层 OLED 屏幕，支持万级高亮度",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-15",
-      "time": "15:54",
-      "publishedAt": "2026-09-15T15:54:12.000Z",
-      "url": "https://www.ithome.com/1/002/817.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/3/0226f36a-4825-4419-a039-2fa19352cea5.jpg",
-      "summary": "IT之家 9 月 15 日消息，据博主 @数码闲聊站 透露， 某厂新机“大杯”系列都有双层 OLED 屏幕 ，支持万级高亮度， 同时“大大杯”顶配新屏亮度更高 。结合评论区讨论来看，预计指华为 Mate 90 系列年度旗舰手机。 ▲ IT之家开箱：华为 Mate 80 Pro Max 风驰版图赏 博主还透露了该系列手机的处理器配置情况，IT之家附解读如下：…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-32ccffc87370",
       "title": "A Galaxy Z Fold 8 bug is putting apps in places where they shouldn’t be — here’s how to fix it",
       "source": "Android Authority",
@@ -502,126 +862,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-f3c58600782c",
-      "title": "华为监事会主席郭平：虚心向苹果学习供应链，在 ICT 及计算领域的目标是成为英伟达",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-15",
-      "time": "15:33",
-      "publishedAt": "2026-09-15T15:33:09.000Z",
-      "url": "https://www.ithome.com/1/002/810.htm",
-      "image": "",
-      "summary": "9 月 15 日晚间消息，近日，华为心声社区对外披露了华为监事会主席郭平与新员工座谈纪要。在与新员工的沟通中，郭平回应了手机业务与苹果对比、车 BU 发展、大模型战略、半导体业务方向等话题。 谈超越苹果：专注做好自身，虚心向苹果学习 被问及未来华为手机的销量有望超越苹果公司吗？郭平表示，苹果的首席执行官是业界供应链管理的大师，是华为学习的榜样。在当前华为的…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-df9241816a77",
-      "title": "互传联盟推出“碰一碰互传技术标准”：荣耀、OPPO、vivo、小米联调，10 月中旬起陆续推送",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-15",
-      "time": "15:14",
-      "publishedAt": "2026-09-15T15:14:35.000Z",
-      "url": "https://www.ithome.com/1/002/799.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/66e66173-2216-418d-84c7-e187092fea2d.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 15 日消息，互传联盟近日宣布推出“碰一碰互传技术标准”，跨品牌一碰传即将正式发布。 IT之家了解到，各手机厂商多年来已在自身生态内实现碰一碰传输，但跨品牌一碰互传长期缺乏统一标准。互传联盟为此联合荣耀、OPPO、vivo、小米技术团队完成标准制定、研发及联调，统一底层规范。 同时，该跨品牌一碰互传标准支持 OPPO、荣耀、vivo 和小…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5193917d1382",
-      "title": "iQOO 16 三色官图发布：逐光 / 传奇 / 赛道、主打科幻感，新机 9 月 29 日发布",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-15",
-      "time": "15:09",
-      "publishedAt": "2026-09-15T15:09:44.000Z",
-      "url": "https://www.ithome.com/1/002/798.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/39e1eb22-1515-4411-9824-88a259d74be8.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 15 日消息， iQOO 官方今日宣布 iQOO 16 新机将于 9 月 29 日 19:00 发布 ，发布即开售。 iQOO 官方还放出了新机三色官图，主打科幻感： 逐光 ｜独家激光全息技术，红蓝光影交错悬浮，科幻感拉满； 传奇 ｜采用磁控溅射电镀工艺，670 纳米的电镀膜厚，冷调白色中透出细腻银灰； 赛道 ｜以 F1 赛车刷紫灵感，把…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-c96f4106b4b2",
-      "title": "竹本青：极客湾测试天玑9600 Pro工程机拼图版 #vivoX500ProMax# #OPPOFindX10ProMax…",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-15",
-      "time": "15:02",
-      "publishedAt": "2026-09-15T15:02:03.000Z",
-      "url": "https://www.coolapk.com/feed/73774208",
-      "image": "http://image.coolapk.com/feed/2026/0916/00/4248714_1cd809f1_8185_666_25@2216x3739.jpg",
-      "summary": "极客湾测试天玑9600 Pro工程机拼图版 #vivoX500ProMax# #OPPOFindX10ProMax# #数码日常#",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-0b34f7af8470",
-      "title": "18999 元起：索尼最轻超远摄定焦镜头 FE 400mm F4.5 / 600mm F6.3 GM OSS 发布",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-15",
-      "time": "14:43",
-      "publishedAt": "2026-09-15T14:43:32.000Z",
-      "url": "https://www.ithome.com/1/002/793.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/09af2a7c-5229-4b82-a611-b18c894dc6e3.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 15 日消息，索尼今日宣布推出 FE 400mm F4.5 GM OSS、FE 600mm F6.3 GM OSS 长焦镜头。两款新品主打轻量化设计，是索尼最轻的超远摄定焦镜头， 售价 18999 元 / 24999 元 。 IT之家了解到，这两款镜头的重量均低于 1kg，全开光圈下可获得优秀的 MTF 表现，满足大幅裁切需求。搭载 3…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-18c3bbcec2d6",
-      "title": "荣耀 AgenticOS 亮相，10 月面向 Magic9 系列用户开放尝鲜招募与推送",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-15",
-      "time": "14:34",
-      "publishedAt": "2026-09-15T14:34:32.000Z",
-      "url": "https://www.ithome.com/1/002/791.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/ffea9383-5887-4cf1-8ea1-454ad3c5b5cf.jpg",
-      "summary": "IT之家 9 月 15 日消息，在今晚的荣耀 HGDC 2026 荣耀开发者大会上，荣耀 AgenticOS 系统也登场亮相。 根据规划， 荣耀年度旗舰 Magic9 系列将首发搭载 MagicOS 11 系统 。今年 10 月份，荣耀还会针对 Magic9 系列用户开放通用 AgenticOS 预览版的尝鲜招募与推送。 参考IT之家此前报道，荣耀 Age…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-e7ce765ad8f7",
       "title": "Caviar launches ultra-luxury iPhone 18 Pro collection with 24K gold, titanium & carbon fiber",
       "source": "Gizmochina",
@@ -637,26 +877,6 @@ window.phoneRadarAuto = {
       "summary": "Following Apple’s September 9 hardware event, luxury customization brand Caviar has announced its latest lineup of modified Apple devices: the Contrast Edition iPhone 18 Pro and P…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-48161d649d1a",
-      "title": "Samsung talks three Galaxy Z Fold 8 innovations that made it the lightest Fold ever",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-15",
-      "time": "13:02",
-      "publishedAt": "2026-09-15T13:02:07.000Z",
-      "url": "https://www.sammobile.com/news/samsung-talks-three-galaxy-z-fold-8-innovations-that-made-it-the-lightest-fold-ever/",
-      "image": "",
-      "summary": "The Galaxy Z Fold 8 is the lightest Fold ever made, and it's not just an empty achievement. As the Fold 8 has shown, lightness can greatly improve the user experience, especially…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -719,26 +939,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-54a82fc67cb1",
-      "title": "竹本青：【荣耀 MagicOS 11 正式发布：安卓首个液态玻璃，Magic9系列首发搭载】 ● 荣耀琉光架构： 动态液态…",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-15",
-      "time": "12:07",
-      "publishedAt": "2026-09-15T12:07:46.000Z",
-      "url": "https://www.coolapk.com/feed/73771111",
-      "image": "http://image.coolapk.com/feed/2026/0915/20/4248714_6ed310de_4811_065_729@613x8187.jpg",
-      "summary": "【荣耀 MagicOS 11 正式发布：安卓首个液态玻璃，Magic9系列首发搭载】 ● 荣耀琉光架构： 动态液态玻璃｜提前布局统一渲染 6层原子效果｜40+可调自由度 功耗几乎零增长｜轻载运行 全系列覆盖｜全生态快速接入 流光通透UI，全局视觉效果统一 ● 荣耀蜂鸟架构： 液态动效｜人因流畅体系 号称整机流畅度提升20% 从系统到三方应用一镜到底 全新物…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -822,26 +1022,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-48cc32f53510",
-      "title": "Samsung’s Galaxy A18 budget phone debuts in Europe for €279",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-15",
-      "time": "10:44",
-      "publishedAt": "2026-09-15T10:44:07.000Z",
-      "url": "https://www.sammobile.com/news/samsung-galaxy-a18-budget-phone-debuts-in-europe-for-eur-279/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/09/Galaxy-A18-samsung-render-3.avif",
-      "summary": "This time of year is mostly about premium device launches. The past couple of weeks have been quite entertaining, to say the least, following the launch of the Galaxy Z Fold 8 and…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-d82cbe649bf2",
       "title": "Magic 9 Pro Max is true rival of iPhone 18 Pro in video field: Honor",
       "source": "Huawei Central",
@@ -899,26 +1079,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "评测",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-5a44004c254a",
-      "title": "竹本青：小米全新科技盛会开启报名：邀300位米粉北京见",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-15",
-      "time": "10:03",
-      "publishedAt": "2026-09-15T10:03:13.000Z",
-      "url": "https://www.coolapk.com/feed/73768533",
-      "image": "http://image.coolapk.com/feed/2026/0915/18/4248714_59e07eb1_6592_6067_841@960x1280.jpg",
-      "summary": "【小米全新「科技盛会」开启报名：邀300位米粉北京相见】 报名时间：即日起-9月21日10:00 活动时间：具体时间将单独通知 活动地点：具体地址将单独通知 本活动在小米社区微信小程序招募，共筛选300位用户。获得的活动入场资格中不包括路费、住宿，以及路途产生的餐饮费用。 #今日热点# #小米18ProMax# #HyperOS4#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -1077,26 +1237,6 @@ window.phoneRadarAuto = {
       "summary": "Vivo is gearing up to launch a couple of new phones in India. Recently, the Vivo X Fold 6 foldable phone was spotted in the database of the Bureau of Indian Standards (BIS). Now,…",
       "tags": [
         "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-bd6f27fb2eae",
-      "title": "Honor teases Magic 9 series in new Popcorn Yellow color",
-      "source": "Huawei Central",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-15",
-      "time": "04:51",
-      "publishedAt": "2026-09-15T04:51:51.000Z",
-      "url": "https://www.huaweicentral.com/honor-teases-magic-9-series-in-new-popcorn-yellow-color/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/09/Yellow-color.jpg",
-      "summary": "Honor has started sharing the color options for the upcoming Magic 9 series, and the latest one is a popping Popcorn Yellow shade. Apart from imaging and key specifics, the Chines…",
-      "tags": [
-        "HONOR",
         "爆料",
         "自动抓取"
       ]
