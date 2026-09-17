@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-16T21:17:05.405Z",
-  "issueDate": "2026-09-16",
-  "issue": "VOL.260916",
+  "updatedAt": "2026-09-17T00:31:30.340Z",
+  "issueDate": "2026-09-17",
+  "issue": "VOL.260917",
   "title": "手机情报日报",
-  "intro": "今日筛出 17 条重点，其中 8 条是重点爆料，包含 11 条 iPhone 相关、3 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 15 条重点，其中 8 条是重点爆料，包含 12 条 iPhone 相关、3 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 17,
-    "iphone": 11,
+    "total": 15,
+    "iphone": 12,
     "leaks": 8,
     "official": 3,
     "specs": 0
@@ -41,6 +41,29 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "coolapk-user-148993645438",
+          "title": "JSCHEN小小狐：『极客湾实测 A20 Pro：A 系列五年来最大提升』 「Apple A20 Pro 规格」 CPU：2 × S…",
+          "originalTitle": "",
+          "source": "JSCHEN小小狐",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-09-16",
+          "time": "13:46",
+          "publishedAt": "2026-09-16T13:46:35.000Z",
+          "url": "https://www.coolapk.com/feed/73792772",
+          "image": "http://image.coolapk.com/feed/2026/0916/22/4702274_021ca155_8442_1881_697@1716x4830.jpg",
+          "verdict": "先看",
+          "takeaway": "『极客湾实测 A20 Pro：A 系列五年来最大提升』 「Apple A20 Pro 规格」 CPU：2 × S 核 4.93GHz + 4 × E 核 2.64GHz GPU：7 核 1620MHz + Neural Acceleerator NPU：由 16 核提至 32 核，面积增加 61.98% 晶圆级多芯片模组封装 - 常温和极低温下 GB7 分…",
+          "detail": "『极客湾实测 A20 Pro：A 系列五年来最大提升』 「Apple A20 Pro 规格」 CPU：2 × S 核 4.93GHz + 4 × E 核 2.64GHz GPU：7 核 1620MHz + Neural Acceleerator NPU：由 16 核提至 32 核，面积增加 61.98% 晶圆级多芯片模组封装 - 常温和极低温下 GB7 分…",
+          "keyPoints": [
+            "芯片 / 性能"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "coolapk-user-28dc8d0b4f52",
           "title": "竹本青：【影石飓风实测 iPhone 18 Pro系列 充电功率：有线峰值53W， 无线依旧15W】 iPhone18 P…",
           "originalTitle": "",
@@ -60,6 +83,29 @@ window.phoneRadarDaily = {
             "电池 / 充电"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-74e71fa1555c",
+          "title": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
+          "originalTitle": "",
+          "source": "少数派热榜",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-09-17",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/114084",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
+          "detail": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -110,72 +156,26 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-94834af6b9dd",
-          "title": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
+          "id": "weibo-c0edce80b75e",
+          "title": "数码闲聊站：一点供应链的信息，华为Mate90系列影像，主摄有50Mp 1/1.56 SC…",
           "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-09-16",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/114084",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
-          "detail": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-59a4ac39ca56",
-          "title": "华为 Mate 90 系列手机影像配置曝光，主摄支持思特威新一代 LOFIC 技术",
-          "originalTitle": "",
-          "source": "IT之家",
+          "source": "数码闲聊站",
           "brand": "Huawei",
           "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-16",
-          "time": "12:55",
-          "publishedAt": "2026-09-16T12:55:07.000Z",
-          "url": "https://www.ithome.com/1/003/289.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/b7040f76-ca0e-47e2-9a25-5c6277391250.png?x-bce-process=image/format,f_auto",
+          "trust": "高关注爆料源",
+          "date": "2026-09-17",
+          "time": "00:31",
+          "publishedAt": "2026-09-17T00:31:30.340Z",
+          "url": "https://weibo.com/6048569942/Rip65gDk3",
+          "image": "",
           "verdict": "先看",
-          "takeaway": "IT之家 9 月 16 日消息，博主 @数码闲聊站 刚刚发文，爆料了华为 Mate 90 系列手机的影像配置： 主摄有 50Mp 1/1.56 &nbsp;SC575XS、50Mp 1/1.28 SC595XS， 都支持思特威新一代 LOFIC 技术 。 PM 长焦端疑似首发落地 200Mp 1/1.28 SCC85XS， 首颗高端国产化 2 亿高动态传感…",
-          "detail": "IT之家 9 月 16 日消息，博主 @数码闲聊站 刚刚发文，爆料了华为 Mate 90 系列手机的影像配置： 主摄有 50Mp 1/1.56 &nbsp;SC575XS、50Mp 1/1.28 SC595XS， 都支持思特威新一代 LOFIC 技术 。 PM 长焦端疑似首发落地 200Mp 1/1.28 SCC85XS， 首颗高端国产化 2 亿高动态传感…",
+          "takeaway": "一点供应链的信息，华为Mate90系列影像，主摄有50Mp 1/1.56 SC575XS、50Mp 1/1.28 SC595XS，都支持思特威新一代LOFIC技术。 PM长焦端疑似首发落地200Mp 1/1.28 SCC85XS，首颗高端国产化2亿高动态传感器。 听说前摄和多光谱也用了思特威Sensor，后面Mate X8也用思特威，国产Sensor立大功…",
+          "detail": "一点供应链的信息，华为Mate90系列影像，主摄有50Mp 1/1.56 SC575XS、50Mp 1/1.28 SC595XS，都支持思特威新一代LOFIC技术。 PM长焦端疑似首发落地200Mp 1/1.28 SCC85XS，首颗高端国产化2亿高动态传感器。 听说前摄和多光谱也用了思特威Sensor，后面Mate X8也用思特威，国产Sensor立大功…",
           "keyPoints": [
             "影像硬件",
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-a77866ed288e",
-          "title": "M154FF 跑分曝光：第六代骁龙 8 超级至尊版 +16GB 内存，预估为小米 18 Pro 手机",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-16",
-          "time": "11:31",
-          "publishedAt": "2026-09-16T11:31:04.000Z",
-          "url": "https://www.ithome.com/1/003/270.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/b8d5c060-00ff-4a21-9103-2de279f52cac.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 9 月 16 日消息， 型号为“Xiaomi M154FF”的小米手机昨日（9 月 15 日）现身 GeekBench 跑分库，预估关联小米 18 Pro 机型 。 型号 M1544F 此前已现身跑分库，预估关联小米 18 Pro Max 。 数据显示，该机搭载了高通第六代骁龙 8 超级至尊版（两颗 5.01GHz 超大核，3 颗 4.03GHz…",
-          "detail": "IT之家 9 月 16 日消息， 型号为“Xiaomi M154FF”的小米手机昨日（9 月 15 日）现身 GeekBench 跑分库，预估关联小米 18 Pro 机型 。 型号 M1544F 此前已现身跑分库，预估关联小米 18 Pro Max 。 数据显示，该机搭载了高通第六代骁龙 8 超级至尊版（两颗 5.01GHz 超大核，3 颗 4.03GHz…",
-          "keyPoints": [
-            "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -217,7 +217,7 @@ window.phoneRadarDaily = {
           "brand": "iPhone",
           "type": "官方",
           "trust": "官方确认",
-          "date": "2026-09-16",
+          "date": "2026-09-17",
           "time": "",
           "publishedAt": "",
           "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
@@ -232,6 +232,29 @@ window.phoneRadarDaily = {
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
+          "id": "auto-728bbee10ddb",
+          "title": "iPhone 发布 / 上市相关消息",
+          "originalTitle": "",
+          "source": "Apple Newsroom",
+          "brand": "iPhone",
+          "type": "官方",
+          "trust": "官方确认",
+          "date": "2026-09-17",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone 有发布或新功能消息，适合确认是否和新机有关。",
+          "detail": "iPhone 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "官方"
+          ],
+          "confidence": "官方内容，可直接作为已确认信息记录。",
+          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
           "id": "coolapk-user-22d2e36c7fd0",
@@ -257,60 +280,14 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "auto-728bbee10ddb",
-          "title": "iPhone 发布 / 上市相关消息",
-          "originalTitle": "",
-          "source": "Apple Newsroom",
-          "brand": "iPhone",
-          "type": "官方",
-          "trust": "官方确认",
-          "date": "2026-09-16",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone 有发布或新功能消息，适合确认是否和新机有关。",
-          "detail": "iPhone 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "官方"
-          ],
-          "confidence": "官方内容，可直接作为已确认信息记录。",
-          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-045c7e6f19cc",
-          "title": "iPhone 18 Pro 系统功能 / AI 体验相关消息",
-          "originalTitle": "",
-          "source": "Android Authority",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-16",
-          "time": "10:30",
-          "publishedAt": "2026-09-16T10:30:03.000Z",
-          "url": "https://www.androidauthority.com/iphone-18-pro-alternatives-3711225/",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Apple-iPhone-18-Pro_2-scaled.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "iPhone 18 Pro 系统功能 / AI 体验相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 18 Pro 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-95938e7dbbad",
+          "id": "newsnow-3d688e47bab5",
           "title": "iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事",
           "originalTitle": "",
           "source": "少数派热榜",
           "brand": "iPhone",
           "type": "评测",
           "trust": "媒体汇总",
-          "date": "2026-09-16",
+          "date": "2026-09-17",
           "time": "",
           "publishedAt": "",
           "url": "https://sspai.com/post/114449",
@@ -326,14 +303,14 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-4c4695f02609",
+          "id": "newsnow-f115b1aadf57",
           "title": "新 iPhone 配件精选：多种组合一次配齐",
           "originalTitle": "",
           "source": "少数派热榜",
           "brand": "iPhone",
           "type": "评测",
           "trust": "媒体汇总",
-          "date": "2026-09-16",
+          "date": "2026-09-17",
           "time": "",
           "publishedAt": "",
           "url": "https://sspai.com/post/114414",
@@ -341,6 +318,29 @@ window.phoneRadarDaily = {
           "verdict": "扫一眼",
           "takeaway": "新 iPhone 配件精选：多种组合一次配齐",
           "detail": "新 iPhone 配件精选：多种组合一次配齐",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-67bd20eee33d",
+          "title": "可以「折」的 iPhone 正式亮相：Apple 发布会看点回顾",
+          "originalTitle": "",
+          "source": "少数派热榜",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-09-17",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/114392",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "可以「折」的 iPhone 正式亮相：Apple 发布会看点回顾",
+          "detail": "可以「折」的 iPhone 正式亮相：Apple 发布会看点回顾",
           "keyPoints": [
             "评测"
           ],
@@ -377,59 +377,6 @@ window.phoneRadarDaily = {
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "影响拍照体验，买旗舰机时值得关注。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        }
-      ]
-    },
-    {
-      "id": "market",
-      "title": "行业趋势",
-      "hint": "看方向，不急着当购买依据。",
-      "items": [
-        {
-          "id": "newsnow-1c9b78eed3ed",
-          "title": "感觉真就是外星科技了，虽然刷分不如玄戒o3，但这个实测也太吓人了，难道是那群吃咖喱的印度人被开了？[哦吼吼] #iPhone18ProMax# #iPhone18Pro# #小米18Fold#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-09-16",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73792665",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "感觉真就是外星科技了，虽然刷分不如玄戒o3，但这个实测也太吓人了，难道是那群吃咖喱的印度人被开了？[哦吼吼] #iPhone18ProMax# #iPhone18Pro# #小米18Fold#",
-          "detail": "感觉真就是外星科技了，虽然刷分不如玄戒o3，但这个实测也太吓人了，难道是那群吃咖喱的印度人被开了？[哦吼吼] #iPhone18ProMax# #iPhone18Pro# #小米18Fold#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "coolapk-user-1ffa8be9ae89",
-          "title": "JSCHEN小小狐：荣耀 WIN 2 系列疑似入网：三款机型 / 100W",
-          "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-09-16",
-          "time": "01:22",
-          "publishedAt": "2026-09-16T01:22:29.000Z",
-          "url": "https://www.coolapk.com/feed/73778336",
-          "image": "http://image.coolapk.com/feed/2026/0916/09/4702274_abd77403_1747_6606_549@952x1191.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "『荣耀 WIN 2 系列疑似入网：三款机型 / 100W』 BRM-AN00（20V 5A，100W Max） BRT-AN00（20V 4.5A，90W Max） BRS-AN00（20V 4.5A，90W Max） WIN 2 顶配版： ◇ 骁龙 8 Elite Gen6 Pro（SM8975） ◇ 6.89'' 2K 185Hz LTPS OLED…",
-          "detail": "『荣耀 WIN 2 系列疑似入网：三款机型 / 100W』 BRM-AN00（20V 5A，100W Max） BRT-AN00（20V 4.5A，90W Max） BRS-AN00（20V 4.5A，90W Max） WIN 2 顶配版： ◇ 骁龙 8 Elite Gen6 Pro（SM8975） ◇ 6.89'' 2K 185Hz LTPS OLED…",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }
