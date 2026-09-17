@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-17T00:31:30.340Z",
+  "updatedAt": "2026-09-17T07:38:03.413Z",
   "issueDate": "2026-09-17",
   "issue": "VOL.260917",
   "title": "手机情报日报",
-  "intro": "今日筛出 15 条重点，其中 8 条是重点爆料，包含 12 条 iPhone 相关、3 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、3 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 15,
-    "iphone": 12,
+    "total": 14,
+    "iphone": 8,
     "leaks": 8,
     "official": 3,
     "specs": 0
@@ -64,25 +64,27 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "coolapk-user-28dc8d0b4f52",
-          "title": "竹本青：【影石飓风实测 iPhone 18 Pro系列 充电功率：有线峰值53W， 无线依旧15W】 iPhone18 P…",
+          "id": "auto-740a0122de2b",
+          "title": "消息称三星 Galaxy S27 Ultra 手机调整拍摄算法，照片色彩更温暖",
           "originalTitle": "",
-          "source": "竹本青",
-          "brand": "iPhone",
+          "source": "IT之家",
+          "brand": "Samsung",
           "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-09-16",
-          "time": "13:06",
-          "publishedAt": "2026-09-16T13:06:55.000Z",
-          "url": "https://www.coolapk.com/feed/73791875",
-          "image": "http://image.coolapk.com/feed/2026/0916/21/4248714_14b7b5f4_3639_3038_86-livepic@3168x1440.jpg",
+          "trust": "媒体汇总",
+          "date": "2026-09-17",
+          "time": "05:19",
+          "publishedAt": "2026-09-17T05:19:37.000Z",
+          "url": "https://www.ithome.com/1/003/559.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/a8634a25-75a5-4899-82b6-b7f12a28e8ea.png?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "【影石飓风实测 iPhone 18 Pro系列 充电功率：有线峰值53W， 无线依旧15W】 iPhone18 Pro系列 明显较17 Pro系列更快 iPhone18 Pro系列 无线MagSafe 依旧15W iPhone18 Pro Max 有线峰值53W ● 0-100% 充电耗时： 18 Pro 约70.5分钟，较上代提升13.1分钟 18 Pr…",
-          "detail": "【影石飓风实测 iPhone 18 Pro系列 充电功率：有线峰值53W， 无线依旧15W】 iPhone18 Pro系列 明显较17 Pro系列更快 iPhone18 Pro系列 无线MagSafe 依旧15W iPhone18 Pro Max 有线峰值53W ● 0-100% 充电耗时： 18 Pro 约70.5分钟，较上代提升13.1分钟 18 Pr…",
+          "takeaway": "IT之家 9 月 17 日消息，消息源 @WalleGalaxy 昨日（9 月 16 日）在 X 平台发布推文， 爆料称三星 Galaxy S27 Ultra 旗舰手机可能调整照片算法，减少过度锐化和冷色调，转向更温暖的色彩。 IT之家查询相关资料，该信源此前经常放出机模、配件图、认证信息等，与后续官方信息有一定吻合度。 关于本次爆料，海外主流媒体 And…",
+          "detail": "IT之家 9 月 17 日消息，消息源 @WalleGalaxy 昨日（9 月 16 日）在 X 平台发布推文， 爆料称三星 Galaxy S27 Ultra 旗舰手机可能调整照片算法，减少过度锐化和冷色调，转向更温暖的色彩。 IT之家查询相关资料，该信源此前经常放出机模、配件图、认证信息等，与后续官方信息有一定吻合度。 关于本次爆料，海外主流媒体 And…",
           "keyPoints": [
-            "电池 / 充电"
+            "外观 / 配色 / 尺寸",
+            "芯片 / 性能",
+            "爆料来源"
           ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -156,49 +158,48 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "weibo-c0edce80b75e",
-          "title": "数码闲聊站：一点供应链的信息，华为Mate90系列影像，主摄有50Mp 1/1.56 SC…",
+          "id": "auto-45319f6b26e6",
+          "title": "计划提前！华为 Mate 60 等老机型开启鸿蒙 HarmonyOS 7 花粉 Beta 尝鲜升级",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-17",
+          "time": "07:01",
+          "publishedAt": "2026-09-17T07:01:49.000Z",
+          "url": "https://www.ithome.com/1/003/589.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2023/9/b186b76a-7dab-43f7-8ec0-3e2385413f6c.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 9 月 17 日消息，在 9 月 7 日的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上，华为终端 BG CEO 何刚宣布，Mate 60 等老机型支持更新 HarmonyOS 7，将在 10 月启动花粉 Beta 版。 ▲ IT之家开箱：华为 Mate60 Pro+「宣白」图赏 按照规划，华为 Mate 6…",
+          "detail": "IT之家 9 月 17 日消息，在 9 月 7 日的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上，华为终端 BG CEO 何刚宣布，Mate 60 等老机型支持更新 HarmonyOS 7，将在 10 月启动花粉 Beta 版。 ▲ IT之家开箱：华为 Mate60 Pro+「宣白」图赏 按照规划，华为 Mate 6…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-083519f7058a",
+          "title": "数码闲聊站：听说买华为阔直板的人30%来自苹果手机用户，话说你们看惯了阔比例，再看苹果那种…",
           "originalTitle": "",
           "source": "数码闲聊站",
           "brand": "Huawei",
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-09-17",
-          "time": "00:31",
-          "publishedAt": "2026-09-17T00:31:30.340Z",
-          "url": "https://weibo.com/6048569942/Rip65gDk3",
-          "image": "",
+          "time": "07:38",
+          "publishedAt": "2026-09-17T07:38:03.413Z",
+          "url": "https://weibo.com/6048569942/RiwpTjGHp",
+          "image": "https://tvax3.sinaimg.cn/mw2000/a66d0169ly8ih6jy2xr2mj24jk3eox6q.jpg",
           "verdict": "先看",
-          "takeaway": "一点供应链的信息，华为Mate90系列影像，主摄有50Mp 1/1.56 SC575XS、50Mp 1/1.28 SC595XS，都支持思特威新一代LOFIC技术。 PM长焦端疑似首发落地200Mp 1/1.28 SCC85XS，首颗高端国产化2亿高动态传感器。 听说前摄和多光谱也用了思特威Sensor，后面Mate X8也用思特威，国产Sensor立大功…",
-          "detail": "一点供应链的信息，华为Mate90系列影像，主摄有50Mp 1/1.56 SC575XS、50Mp 1/1.28 SC595XS，都支持思特威新一代LOFIC技术。 PM长焦端疑似首发落地200Mp 1/1.28 SCC85XS，首颗高端国产化2亿高动态传感器。 听说前摄和多光谱也用了思特威Sensor，后面Mate X8也用思特威，国产Sensor立大功…",
+          "takeaway": "听说买华为阔直板的人30%来自苹果手机用户，话说你们看惯了阔比例，再看苹果那种传统比例，会不会觉得怪怪的……[笑而不语]",
+          "detail": "听说买华为阔直板的人30%来自苹果手机用户，话说你们看惯了阔比例，再看苹果那种传统比例，会不会觉得怪怪的……[笑而不语]",
           "keyPoints": [
-            "影像硬件",
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-505f29c6a7c1",
-          "title": "影石 Luna Ultra 云台相机“小巨炮”长焦模组官宣，9 月 21 日见",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-16",
-          "time": "12:58",
-          "publishedAt": "2026-09-16T12:58:13.000Z",
-          "url": "https://www.ithome.com/1/003/291.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/c7131ba5-b18f-43a2-b6c5-7dce2346456c.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 9 月 16 日消息，今天（16 日）晚间，影石官微发文宣布，影石 Luna Ultra 云台相机将迎来“演唱会长焦大更新”，全新的 Luna“小巨炮”模组即将于 9 月 21 日 20 时正式登场。 官方放出的预告影像显示，该模组支持 1.5 倍长焦，并可适配相机本体的“舞台模式”，底部的说明称适合 演唱会、音乐节等舞台场景 。 据IT之家了解…",
-          "detail": "IT之家 9 月 16 日消息，今天（16 日）晚间，影石官微发文宣布，影石 Luna Ultra 云台相机将迎来“演唱会长焦大更新”，全新的 Luna“小巨炮”模组即将于 9 月 21 日 20 时正式登场。 官方放出的预告影像显示，该模组支持 1.5 倍长焦，并可适配相机本体的“舞台模式”，底部的说明称适合 演唱会、音乐节等舞台场景 。 据IT之家了解…",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -234,6 +235,29 @@ window.phoneRadarDaily = {
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         },
         {
+          "id": "newsnow-20679f235dae",
+          "title": "iPhone 18 Pro系列首销也卖爆了",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-09-17",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73786925",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone 18 Pro系列首销也卖爆了",
+          "detail": "iPhone 18 Pro系列首销也卖爆了",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "auto-728bbee10ddb",
           "title": "iPhone 发布 / 上市相关消息",
           "originalTitle": "",
@@ -254,98 +278,6 @@ window.phoneRadarDaily = {
           ],
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "coolapk-user-22d2e36c7fd0",
-          "title": "竹本青：emm #酷安夜话# #iPhone18ProMax#",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-09-16",
-          "time": "17:12",
-          "publishedAt": "2026-09-16T17:12:33.000Z",
-          "url": "https://www.coolapk.com/feed/73796229",
-          "image": "http://image.coolapk.com/feed/2026/0917/01/4248714_ac71d364_8752_3906_236@1440x3019.jpg",
-          "verdict": "先看",
-          "takeaway": "emm #酷安夜话# #iPhone18ProMax#",
-          "detail": "emm #酷安夜话# #iPhone18ProMax#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-3d688e47bab5",
-          "title": "iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-09-17",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/114449",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事",
-          "detail": "iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-f115b1aadf57",
-          "title": "新 iPhone 配件精选：多种组合一次配齐",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-09-17",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/114414",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "新 iPhone 配件精选：多种组合一次配齐",
-          "detail": "新 iPhone 配件精选：多种组合一次配齐",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-67bd20eee33d",
-          "title": "可以「折」的 iPhone 正式亮相：Apple 发布会看点回顾",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-09-17",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/114392",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "可以「折」的 iPhone 正式亮相：Apple 发布会看点回顾",
-          "detail": "可以「折」的 iPhone 正式亮相：Apple 发布会看点回顾",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
@@ -377,6 +309,66 @@ window.phoneRadarDaily = {
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "影响拍照体验，买旗舰机时值得关注。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        }
+      ]
+    },
+    {
+      "id": "review",
+      "title": "评测与体验",
+      "hint": "买前再细看，平时扫一眼即可。",
+      "items": [
+        {
+          "id": "auto-755cc2d1b2ed",
+          "title": "OPPO Find X10 体验：想得周到，拍得好看",
+          "originalTitle": "",
+          "source": "爱范儿",
+          "brand": "OPPO",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-09-17",
+          "time": "06:46",
+          "publishedAt": "2026-09-17T06:46:20.000Z",
+          "url": "https://www.ifanr.com/1680665?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "image": "https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1789618812396-1.png",
+          "verdict": "扫一眼",
+          "takeaway": "功成事遂，谓我自然",
+          "detail": "功成事遂，谓我自然",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "行业趋势",
+      "hint": "看方向，不急着当购买依据。",
+      "items": [
+        {
+          "id": "auto-9abe218253dd",
+          "title": "小米澎湃 HyperOS 4 Beta 版第三批机型开推，覆盖 REDMI K100 Pro 系列、MIX Flip 2 等",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-17",
+          "time": "07:07",
+          "publishedAt": "2026-09-17T07:07:13.000Z",
+          "url": "https://www.ithome.com/1/003/592.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/1863b7b0-686b-4cc5-962f-397822fc446c.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "扫一眼",
+          "takeaway": "IT之家 9 月 17 日消息，小米官方今日宣布， 澎湃 HyperOS 4 Beta 版第三批机型开始面向此前参与并通过招募的用户推送 ，覆盖 REDMI K100 Pro 系列、MIX Flip 2 等。 REDMI K100 Pro Max REDMI K100 Pro REDMI K80 Pro REDMI K80 至尊版 REDMI K80 Xi…",
+          "detail": "IT之家 9 月 17 日消息，小米官方今日宣布， 澎湃 HyperOS 4 Beta 版第三批机型开始面向此前参与并通过招募的用户推送 ，覆盖 REDMI K100 Pro 系列、MIX Flip 2 等。 REDMI K100 Pro Max REDMI K100 Pro REDMI K80 Pro REDMI K80 至尊版 REDMI K80 Xi…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         }
       ]
     }
