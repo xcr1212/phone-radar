@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-17T18:12:39.993Z",
+  "updatedAt": "2026-09-17T21:21:36.093Z",
   "news": [
     {
       "id": "weibo-083519f7058a",
@@ -10,8 +10,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-17",
-      "time": "18:12",
-      "publishedAt": "2026-09-17T18:12:39.993Z",
+      "time": "21:21",
+      "publishedAt": "2026-09-17T21:21:36.093Z",
       "url": "https://weibo.com/6048569942/RiwpTjGHp",
       "image": "https://tvax3.sinaimg.cn/mw2000/a66d0169ly8ih6jy2xr2mj24jk3eox6q.jpg",
       "summary": "听说买华为阔直板的人30%来自苹果手机用户，话说你们看惯了阔比例，再看苹果那种传统比例，会不会觉得怪怪的……[笑而不语]",
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-17",
-      "time": "18:12",
-      "publishedAt": "2026-09-17T18:12:39.993Z",
+      "time": "21:21",
+      "publishedAt": "2026-09-17T21:21:36.093Z",
       "url": "https://weibo.com/6048569942/RivRM31Yz",
       "image": "",
       "summary": "超前预测一下迭代Ultra： 电池将来到8000mAh± 屏幕更换为新一代6.85-6.9英寸2K 形态升级为大R角LIPO极窄四等边 主摄升级全新高动态200Mp 1/1.12英寸 长焦最高可能落地200Mp 1/1.12英寸",
@@ -50,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-17",
-      "time": "18:12",
-      "publishedAt": "2026-09-17T18:12:39.993Z",
+      "time": "21:21",
+      "publishedAt": "2026-09-17T21:21:36.093Z",
       "url": "https://weibo.com/6048569942/RiuSAbp7F",
       "image": "",
       "summary": "独家，迭代数字工程机，6.57英寸1.5K极窄四等边直屏，后置一块1.72英寸背屏，主打2亿新影像[二哈]",
@@ -70,8 +70,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-17",
-      "time": "18:12",
-      "publishedAt": "2026-09-17T18:12:39.993Z",
+      "time": "21:21",
+      "publishedAt": "2026-09-17T21:21:36.093Z",
       "url": "https://weibo.com/6048569942/Rip65gDk3",
       "image": "",
       "summary": "一点供应链的信息，华为Mate90系列影像，主摄有50Mp 1/1.56 SC575XS、50Mp 1/1.28 SC595XS，都支持思特威新一代LOFIC技术。 PM长焦端疑似首发落地200Mp 1/1.28 SCC85XS，首颗高端国产化2亿高动态传感器。 听说前摄和多光谱也用了思特威Sensor，后面Mate X8也用思特威，国产Sensor立大功…",
@@ -79,6 +79,126 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "微博"
+      ]
+    },
+    {
+      "id": "auto-17c65ad7b08c",
+      "title": "iPhone 18 Pro Launching Tomorrow With These 10 New Features",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-17",
+      "time": "20:45",
+      "publishedAt": "2026-09-17T20:45:00.000Z",
+      "url": "https://www.macrumors.com/2026/09/17/iphone-18-pro-release-date-and-features/",
+      "image": "https://images.macrumors.com/article-new/2026/09/deep-black-iphone-18-pro.jpg",
+      "summary": "Apple last week unveiled the iPhone 18 Pro and iPhone 18 Pro Max . While the devices look very similar to the iPhone 17 Pro models, there are still quite a few new features and in…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d3be5759d904",
+      "title": "7 years of foldables and my Galaxy Z Fold 8 still can’t count screen usage properly",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-17",
+      "time": "20:02",
+      "publishedAt": "2026-09-17T20:02:27.000Z",
+      "url": "https://www.sammobile.com/opinion/7-years-later-galaxy-z-fold-8-cant-count-screen-usage-properly/",
+      "image": "",
+      "summary": "Lately, Samsung's been talking about the unification of software and foldable phone hardware, and how foldable form factors naturally led to the creation of unique software featur…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b8c3f522403f",
+      "title": "Oppo Find X10 high-res camera samples teased ahead of September 22 launch",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-17",
+      "time": "19:06",
+      "publishedAt": "2026-09-17T19:06:11.000Z",
+      "url": "https://www.gizmochina.com/2026/09/17/oppo-find-x10-high-res-camera-samples-teased-ahead-of-september-22-launch/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/videoframe_14450-300x169.png?x96852",
+      "summary": "The Oppo Find X10 series is scheduled to launch on September 22, with a total of three models: the Find X10, Find X10 Pro Max, and Find X10 E. Oppo has been teasing the devices fo…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a1db59fa4969",
+      "title": "After the iPhone Duo, the Galaxy Z Fold 8 just got even more popular",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-17",
+      "time": "19:03",
+      "publishedAt": "2026-09-17T19:03:43.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/after-the-iphone-duo-the-galaxy-z-fold-8-just-got-even-more-popular",
+      "image": "https://cdn.mos.cms.futurecdn.net/6jHR9QUECKPLuHS3EWPtPb-1920-80.jpg",
+      "summary": "Following Apple's iPhone Duo debut, a report claims Samsung's Galaxy Z Fold 8 saw an increase in sales.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f0cceba2bdb3",
+      "title": "iPhone 18 Pro Unboxing: New Colors, Better Photos, and Smaller Dynamic Island",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-17",
+      "time": "18:34",
+      "publishedAt": "2026-09-17T18:34:45.000Z",
+      "url": "https://www.macrumors.com/2026/09/17/iphone-18-pro-unboxing/",
+      "image": "",
+      "summary": "The iPhone 18 Pro and &zwnj;iPhone 18 Pro&zwnj; Max are launching tomorrow, but we were able to get one early to share some initial impressions. Subscribe to the MacRumors YouTube…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-cb6828be90f8",
+      "title": "Apple Increases Battery Replacement Fee for iPhone 18 Pro and Pro Max",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-17",
+      "time": "18:25",
+      "publishedAt": "2026-09-17T18:25:23.000Z",
+      "url": "https://www.macrumors.com/2026/09/17/apple-higher-iphone-18-pro-battery-fee/",
+      "image": "https://images.macrumors.com/article-new/2026/09/deep-black-iphone-18-pro.jpg",
+      "summary": "In the U.S., Apple is charging a higher $129 out-of-warranty fee to replace the battery in an iPhone 18 Pro or iPhone 18 Pro Max compared to previous models, according to its webs…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -439,26 +559,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-b16017b5c061",
-      "title": "竹本青：腾讯地图 x ColorOS 发布行业首个全场景旅行智能体",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-17",
-      "time": "11:25",
-      "publishedAt": "2026-09-17T11:25:59.000Z",
-      "url": "https://www.coolapk.com/feed/73813792",
-      "image": "http://image.coolapk.com/feed/2026/0917/19/4248714_dbd3bc8c_4356_1736_92@1080x1440.jpg",
-      "summary": "【腾讯地图 x ColorOS 发布行业首个全场景旅行智能体】 9月17日，腾讯地图携手ColorOS 发布行业首个系统级可记忆的全场景旅行智能体。 通过“1+N”的智能体协作模式，打通出行前、中、后服务，共建十余个落地场景，共同把更懂需求、更及时的好服务带到用户身边： 一方面，在用户授权下，结合OPPO的全域感知用户意图以及收藏记忆的优势，来读懂大家的出…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -982,6 +1082,46 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-9826b0bd33dd",
+      "title": "以前的我从未把荣耀放进我的手机备选名单，今天路过荣耀的体验店，摸了一把，卧槽是真爽啊，旁边就是ov，就光裸机手感是真的比这两家高出一截来，屏幕的观感也不错，这下我真的要从小米和荣耀二选一了,话说荣耀的系统咋样啊#小米18# #数码日常# #荣耀Magic9ProMax#",
+      "source": "酷安热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-17",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73793224",
+      "image": "",
+      "summary": "以前的我从未把荣耀放进我的手机备选名单，今天路过荣耀的体验店，摸了一把，卧槽是真爽啊，旁边就是ov，就光裸机手感是真的比这两家高出一截来，屏幕的观感也不错，这下我真的要从小米和荣耀二选一了,话说荣耀的系统咋样啊#小米18# #数码日常# #荣耀Magic9ProMax#",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-1a046e1cc2fb",
+      "title": "#HyperOS4# k80/Pro beta因为输入正确密码但显示“手机已被锁定”的重大bug，大草台班子现已停止发版，这两个机型有权限的朋友千万不要更新，等新版推送再更新[受虐滑稽] #红米K80pro# #红米k80#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-17",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73816081",
+      "image": "",
+      "summary": "#HyperOS4# k80/Pro beta因为输入正确密码但显示“手机已被锁定”的重大bug，大草台班子现已停止发版，这两个机型有权限的朋友千万不要更新，等新版推送再更新[受虐滑稽] #红米K80pro# #红米k80#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-20679f235dae",
       "title": "iPhone 18 Pro系列首销也卖爆了",
       "source": "酷安热榜",
@@ -995,6 +1135,86 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/73786925",
       "image": "",
       "summary": "iPhone 18 Pro系列首销也卖爆了",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-c7286f7719a7",
+      "title": "感觉真就是外星科技了，虽然刷分不如玄戒o3，但这个实测也太吓人了，难道是那群吃咖喱的印度人被开了？[哦吼吼] #iPhone18ProMax# #iPhone18Pro# #小米18Fold#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-17",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73792665",
+      "image": "",
+      "summary": "感觉真就是外星科技了，虽然刷分不如玄戒o3，但这个实测也太吓人了，难道是那群吃咖喱的印度人被开了？[哦吼吼] #iPhone18ProMax# #iPhone18Pro# #小米18Fold#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-d6d0fe3b6481",
+      "title": "iPhone18相机户外效果如何",
+      "source": "B站热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-17",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://search.bilibili.com/all?keyword=iPhone18%E7%9B%B8%E6%9C%BA%E6%88%B7%E5%A4%96%E6%95%88%E6%9E%9C%E5%A6%82%E4%BD%95",
+      "image": "",
+      "summary": "iPhone18相机户外效果如何",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-edfb8f78eb60",
+      "title": "钟文泽评测iPhone 18 Pro",
+      "source": "B站热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-17",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://search.bilibili.com/all?keyword=%E9%92%9F%E6%96%87%E6%B3%BD%E8%AF%84%E6%B5%8BiPhone%2018%20Pro",
+      "image": "",
+      "summary": "钟文泽评测iPhone 18 Pro",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-64f2d44cd70b",
+      "title": "苹果折叠屏优缺点分析",
+      "source": "B站热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-17",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8F%E4%BC%98%E7%BC%BA%E7%82%B9%E5%88%86%E6%9E%90",
+      "image": "",
+      "summary": "苹果折叠屏优缺点分析",
       "tags": [
         "iPhone",
         "爆料",
@@ -1022,46 +1242,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-ae2c24a57030",
-      "title": "国内手机“无卡时代”更进一步",
-      "source": "今日头条热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-17",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7686313416160935977/",
-      "image": "",
-      "summary": "国内手机“无卡时代”更进一步",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-db4dc5b5861e",
-      "title": "iPhone Duo不支持微信双开？客服回应",
-      "source": "今日头条热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-17",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7686313850232766483/",
-      "image": "",
-      "summary": "iPhone Duo不支持微信双开？客服回应",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-0e3d5ed0972f",
       "title": "苹果最贵手机还没开售就翻车了吗",
       "source": "百度热搜",
@@ -1075,6 +1255,26 @@ window.phoneRadarAuto = {
       "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%9C%80%E8%B4%B5%E6%89%8B%E6%9C%BA%E8%BF%98%E6%B2%A1%E5%BC%80%E5%94%AE%E5%B0%B1%E7%BF%BB%E8%BD%A6%E4%BA%86%E5%90%97",
       "image": "",
       "summary": "苹果最贵手机还没开售就翻车了吗",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-21d65884a8ed",
+      "title": "客服回应iPhone Duo不支持微信双开",
+      "source": "百度热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-17",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94iPhone+Duo%E4%B8%8D%E6%94%AF%E6%8C%81%E5%BE%AE%E4%BF%A1%E5%8F%8C%E5%BC%80",
+      "image": "",
+      "summary": "客服回应iPhone Duo不支持微信双开",
       "tags": [
         "iPhone",
         "爆料",

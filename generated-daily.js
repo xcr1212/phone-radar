@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-17T18:12:39.993Z",
+  "updatedAt": "2026-09-17T21:21:36.093Z",
   "issueDate": "2026-09-17",
   "issue": "VOL.260917",
   "title": "手机情报日报",
-  "intro": "今日筛出 13 条重点，其中 8 条是重点爆料，包含 11 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 13,
-    "iphone": 11,
+    "total": 8,
+    "iphone": 8,
     "leaks": 8,
-    "official": 1,
+    "official": 0,
     "specs": 0
   },
   "sections": [
@@ -41,6 +41,31 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-f0cceba2bdb3",
+          "title": "iPhone 18 Pro 机模 / 配色信息曝光",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-17",
+          "time": "18:34",
+          "publishedAt": "2026-09-17T18:34:45.000Z",
+          "url": "https://www.macrumors.com/2026/09/17/iphone-18-pro-unboxing/",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
+          "detail": "iPhone 18 Pro 机模 / 配色信息曝光。来源提到未发布机型的机模/配色图，适合先判断外观方向、颜色变化和机身轮廓，但最终量产版本仍可能调整。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "影像硬件",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "coolapk-user-148993645438",
           "title": "JSCHEN小小狐：『极客湾实测 A20 Pro：A 系列五年来最大提升』 「Apple A20 Pro 规格」 CPU：2 × S…",
           "originalTitle": "",
@@ -60,6 +85,52 @@ window.phoneRadarDaily = {
             "芯片 / 性能"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-17c65ad7b08c",
+          "title": "iPhone 18 Pro 发布 / 上市相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-17",
+          "time": "20:45",
+          "publishedAt": "2026-09-17T20:45:00.000Z",
+          "url": "https://www.macrumors.com/2026/09/17/iphone-18-pro-release-date-and-features/",
+          "image": "https://images.macrumors.com/article-new/2026/09/deep-black-iphone-18-pro.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 有发布或新功能消息，适合确认是否和新机有关。",
+          "detail": "iPhone 18 Pro 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-cb6828be90f8",
+          "title": "iPhone 18 Pro 电池 / 充电相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-17",
+          "time": "18:25",
+          "publishedAt": "2026-09-17T18:25:23.000Z",
+          "url": "https://www.macrumors.com/2026/09/17/apple-higher-iphone-18-pro-battery-fee/",
+          "image": "https://images.macrumors.com/article-new/2026/09/deep-black-iphone-18-pro.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 18 Pro 电池 / 充电相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 18 Pro 电池 / 充电相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "电池 / 充电"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -132,205 +203,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-74e71fa1555c",
-          "title": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-09-17",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/114084",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
-          "detail": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-efe0b63d9ce2",
-          "title": "iPhone 相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-16",
-          "time": "19:28",
-          "publishedAt": "2026-09-16T19:28:11.000Z",
-          "url": "https://www.macrumors.com/guide/iphone-18-pro-vs-iphone-duo/",
-          "image": "https://images.macrumors.com/article-new/2026/09/iPhone-Duo-vs-18-Pro-Buyers-Guide-Feature.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-11ac9c1f88f5",
-          "title": "鸿蒙 7 花粉 Beta 版有惊喜，华为 Mate 60 系列手机升级后新增支持眼动翻页功能",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-17",
-          "time": "14:39",
-          "publishedAt": "2026-09-17T14:39:37.000Z",
-          "url": "https://www.ithome.com/1/003/860.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2023/9/b186b76a-7dab-43f7-8ec0-3e2385413f6c.jpg?x-bce-process=image/auto-orient,o_1",
-          "verdict": "先看",
-          "takeaway": "IT之家 9 月 17 日消息，华为 Mate 60、Mate X5、Pura 70 等系列老机型今日提前开启了鸿蒙 HarmonyOS 7 系统的花粉 Beta 版升级活动。用户可前往设置 → 软件更新处报名尝鲜。报名成功的用户无需等待，点击系统更新后就可以获得推送。 ▲ IT之家开箱：华为 Mate60 Pro+「宣白」图赏 IT之家实测发现，此次鸿蒙…",
-          "detail": "IT之家 9 月 17 日消息，华为 Mate 60、Mate X5、Pura 70 等系列老机型今日提前开启了鸿蒙 HarmonyOS 7 系统的花粉 Beta 版升级活动。用户可前往设置 → 软件更新处报名尝鲜。报名成功的用户无需等待，点击系统更新后就可以获得推送。 ▲ IT之家开箱：华为 Mate60 Pro+「宣白」图赏 IT之家实测发现，此次鸿蒙…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        }
-      ]
-    },
-    {
-      "id": "iphone",
-      "title": "iPhone 重点",
-      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
-      "items": [
-        {
-          "id": "auto-07e6d6658c80",
-          "title": "iPhone 18 Pro 发布 / 上市相关消息",
-          "originalTitle": "",
-          "source": "Apple Newsroom",
-          "brand": "iPhone",
-          "type": "官方",
-          "trust": "官方确认",
-          "date": "2026-09-17",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone 18 Pro 发布 / 上市相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 18 Pro 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "影像硬件",
-            "电池 / 充电"
-          ],
-          "confidence": "官方内容，可直接作为已确认信息记录。",
-          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "auto-7e92861392a7",
-          "title": "我用 Vidu S2 找来了「乔布斯」，跟他聊了聊 iPhone Duo",
-          "originalTitle": "",
-          "source": "爱范儿",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-09-17",
-          "time": "08:56",
-          "publishedAt": "2026-09-17T08:56:28.000Z",
-          "url": "https://www.ifanr.com/1680700?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "image": "https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1789634553119-1.png",
-          "verdict": "先看",
-          "takeaway": "体验真正的「边看边改」",
-          "detail": "体验真正的「边看边改」",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
-        {
-          "id": "auto-613cbe3e5ca4",
-          "title": "独家实测｜15 分钟充 50%，iPhone 18 Pro 给出下一代快充的答案",
-          "originalTitle": "",
-          "source": "爱范儿",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-09-17",
-          "time": "08:06",
-          "publishedAt": "2026-09-17T08:06:10.000Z",
-          "url": "https://www.ifanr.com/1680682?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "image": "https://s3.ifanr.com/wp-content/uploads/2026/09/2-pro-new-devices.jpg",
-          "verdict": "先看",
-          "takeaway": "不只是苹果一家的选择。",
-          "detail": "不只是苹果一家的选择。",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
-        {
-          "id": "newsnow-20679f235dae",
-          "title": "iPhone 18 Pro系列首销也卖爆了",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-09-17",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73786925",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone 18 Pro系列首销也卖爆了",
-          "detail": "iPhone 18 Pro系列首销也卖爆了",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "market",
-      "title": "行业趋势",
-      "hint": "看方向，不急着当购买依据。",
-      "items": [
-        {
-          "id": "auto-aedf39b499f5",
-          "title": "谷歌称部分 Pixel 手机用户在 0-Day 攻击中遭到入侵，没有点击链接也会被黑",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Pixel",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-17",
-          "time": "14:56",
-          "publishedAt": "2026-09-17T14:56:06.000Z",
-          "url": "https://www.ithome.com/1/003/862.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/870da89e-11fa-4a00-985e-d3d42e934316.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 9 月 17 日消息，谷歌公司周二表示，部分 Pixel 手机用户曾遭遇一次针对性 0-Day 零日网络攻击。 据介绍， 黑客利用了 CVE-2026-58704 漏洞对部分用户进行攻击 。根据目前公布的信息，该漏洞存在于 Pixel 手机的调制解调器中，黑客可利用其突破调制解调器的沙箱限制，进一步访问手机的其他数据。 IT之家注意到，该漏洞可在…",
-          "detail": "IT之家 9 月 17 日消息，谷歌公司周二表示，部分 Pixel 手机用户曾遭遇一次针对性 0-Day 零日网络攻击。 据介绍， 黑客利用了 CVE-2026-58704 漏洞对部分用户进行攻击 。根据目前公布的信息，该漏洞存在于 Pixel 手机的调制解调器中，黑客可利用其突破调制解调器的沙箱限制，进一步访问手机的其他数据。 IT之家注意到，该漏洞可在…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         }
       ]
     }
