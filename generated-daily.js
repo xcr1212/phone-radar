@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-17T07:38:03.413Z",
+  "updatedAt": "2026-09-17T13:26:11.605Z",
   "issueDate": "2026-09-17",
   "issue": "VOL.260917",
   "title": "手机情报日报",
-  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、3 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 10 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 14,
-    "iphone": 8,
+    "total": 12,
+    "iphone": 10,
     "leaks": 8,
-    "official": 3,
+    "official": 1,
     "specs": 0
   },
   "sections": [
@@ -64,31 +64,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-740a0122de2b",
-          "title": "消息称三星 Galaxy S27 Ultra 手机调整拍摄算法，照片色彩更温暖",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-17",
-          "time": "05:19",
-          "publishedAt": "2026-09-17T05:19:37.000Z",
-          "url": "https://www.ithome.com/1/003/559.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/a8634a25-75a5-4899-82b6-b7f12a28e8ea.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 9 月 17 日消息，消息源 @WalleGalaxy 昨日（9 月 16 日）在 X 平台发布推文， 爆料称三星 Galaxy S27 Ultra 旗舰手机可能调整照片算法，减少过度锐化和冷色调，转向更温暖的色彩。 IT之家查询相关资料，该信源此前经常放出机模、配件图、认证信息等，与后续官方信息有一定吻合度。 关于本次爆料，海外主流媒体 And…",
-          "detail": "IT之家 9 月 17 日消息，消息源 @WalleGalaxy 昨日（9 月 16 日）在 X 平台发布推文， 爆料称三星 Galaxy S27 Ultra 旗舰手机可能调整照片算法，减少过度锐化和冷色调，转向更温暖的色彩。 IT之家查询相关资料，该信源此前经常放出机模、配件图、认证信息等，与后续官方信息有一定吻合度。 关于本次爆料，海外主流媒体 And…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "芯片 / 性能",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "newsnow-74e71fa1555c",
           "title": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
           "originalTitle": "",
@@ -104,6 +79,52 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
           "detail": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-64f2d44cd70b",
+          "title": "苹果折叠屏优缺点分析",
+          "originalTitle": "",
+          "source": "B站热搜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-17",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8F%E4%BC%98%E7%BC%BA%E7%82%B9%E5%88%86%E6%9E%90",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "苹果折叠屏优缺点分析",
+          "detail": "苹果折叠屏优缺点分析",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-3c0fbe49ec7f",
+          "title": "iPhone Duo息屏折痕效果",
+          "originalTitle": "",
+          "source": "百度热搜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-17",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.baidu.com/s?wd=iPhone+Duo%E6%81%AF%E5%B1%8F%E6%8A%98%E7%97%95%E6%95%88%E6%9E%9C",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone Duo息屏折痕效果",
+          "detail": "iPhone Duo息屏折痕效果",
           "keyPoints": [
             "屏幕形态"
           ],
@@ -135,21 +156,21 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-378b602b4e20",
-          "title": "iPhone 18 Pro 影像能力相关消息",
+          "id": "auto-a2ceaebf25cb",
+          "title": "华为 Mate 80 系列手机获 HarmonyOS 7.0.0.107SP8 升级，优化相机、控制中心等使用体验",
           "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
+          "source": "IT之家",
+          "brand": "Huawei",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-09-16",
-          "time": "14:21",
-          "publishedAt": "2026-09-16T14:21:06.000Z",
-          "url": "https://www.macrumors.com/2026/09/16/iphone-18-pro-photography-exhibition/",
-          "image": "https://images.macrumors.com/article-new/2026/09/iphone-18-pro-photography.jpg",
+          "date": "2026-09-17",
+          "time": "12:47",
+          "publishedAt": "2026-09-17T12:47:38.000Z",
+          "url": "https://www.ithome.com/1/003/825.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/3/e625378c-4aa4-4813-8cc0-6ac6d91b083f.jpg",
           "verdict": "先看",
-          "takeaway": "iPhone 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
-          "detail": "iPhone 18 Pro 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
+          "takeaway": "IT之家 9 月 17 日消息，华为今日面向 Mate 80 系列手机率先开启了 HarmonyOS 7.0.0.107 SP8 升级，系统包大小约 0.97GB。据介绍，新版本优化了相机、控制中心等场景的使用体验。 ▲ IT之家开箱：华为 Mate 80 Pro Max 风驰版图赏 IT之家附华为 Mate 80 系列等机型此次更新内容如下： 显示 优化…",
+          "detail": "IT之家 9 月 17 日消息，华为今日面向 Mate 80 系列手机率先开启了 HarmonyOS 7.0.0.107 SP8 升级，系统包大小约 0.97GB。据介绍，新版本优化了相机、控制中心等场景的使用体验。 ▲ IT之家开箱：华为 Mate 80 Pro Max 风驰版图赏 IT之家附华为 Mate 80 系列等机型此次更新内容如下： 显示 优化…",
           "keyPoints": [
             "影像硬件"
           ],
@@ -158,45 +179,23 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-45319f6b26e6",
-          "title": "计划提前！华为 Mate 60 等老机型开启鸿蒙 HarmonyOS 7 花粉 Beta 尝鲜升级",
+          "id": "auto-99b677edce2d",
+          "title": "华为 Mate 90 Pro Max 系列手机影像方案曝光，消息称还有超级外接镜头配件",
           "originalTitle": "",
           "source": "IT之家",
           "brand": "Huawei",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-09-17",
-          "time": "07:01",
-          "publishedAt": "2026-09-17T07:01:49.000Z",
-          "url": "https://www.ithome.com/1/003/589.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2023/9/b186b76a-7dab-43f7-8ec0-3e2385413f6c.jpg",
+          "time": "10:28",
+          "publishedAt": "2026-09-17T10:28:59.000Z",
+          "url": "https://www.ithome.com/1/003/788.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/6294644b-71c3-4c25-bcf5-ca6188409a98.png?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 9 月 17 日消息，在 9 月 7 日的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上，华为终端 BG CEO 何刚宣布，Mate 60 等老机型支持更新 HarmonyOS 7，将在 10 月启动花粉 Beta 版。 ▲ IT之家开箱：华为 Mate60 Pro+「宣白」图赏 按照规划，华为 Mate 6…",
-          "detail": "IT之家 9 月 17 日消息，在 9 月 7 日的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上，华为终端 BG CEO 何刚宣布，Mate 60 等老机型支持更新 HarmonyOS 7，将在 10 月启动花粉 Beta 版。 ▲ IT之家开箱：华为 Mate60 Pro+「宣白」图赏 按照规划，华为 Mate 6…",
+          "takeaway": "IT之家 9 月 17 日消息，博主 @数码闲聊站 今日发文，曝光了 Mate 90 Pro Max 系列手机的影像方案。 新机有望搭载 50Mp 1/1.28 英寸主摄 ，并采用“RYYB+ 可变光圈 + 抗眩光 + 新红枫”组合。 另外，博主透露， 华为 Mate 90 Pro Max 系列还有“超级外接镜头配件” ，体验更原生。博主表示，新机虽然是…",
+          "detail": "IT之家 9 月 17 日消息，博主 @数码闲聊站 今日发文，曝光了 Mate 90 Pro Max 系列手机的影像方案。 新机有望搭载 50Mp 1/1.28 英寸主摄 ，并采用“RYYB+ 可变光圈 + 抗眩光 + 新红枫”组合。 另外，博主透露， 华为 Mate 90 Pro Max 系列还有“超级外接镜头配件” ，体验更原生。博主表示，新机虽然是…",
           "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-083519f7058a",
-          "title": "数码闲聊站：听说买华为阔直板的人30%来自苹果手机用户，话说你们看惯了阔比例，再看苹果那种…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-09-17",
-          "time": "07:38",
-          "publishedAt": "2026-09-17T07:38:03.413Z",
-          "url": "https://weibo.com/6048569942/RiwpTjGHp",
-          "image": "https://tvax3.sinaimg.cn/mw2000/a66d0169ly8ih6jy2xr2mj24jk3eox6q.jpg",
-          "verdict": "先看",
-          "takeaway": "听说买华为阔直板的人30%来自苹果手机用户，话说你们看惯了阔比例，再看苹果那种传统比例，会不会觉得怪怪的……[笑而不语]",
-          "detail": "听说买华为阔直板的人30%来自苹果手机用户，话说你们看惯了阔比例，再看苹果那种传统比例，会不会觉得怪怪的……[笑而不语]",
-          "keyPoints": [
+            "影像硬件",
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
@@ -235,6 +234,52 @@ window.phoneRadarDaily = {
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         },
         {
+          "id": "auto-7e92861392a7",
+          "title": "我用 Vidu S2 找来了「乔布斯」，跟他聊了聊 iPhone Duo",
+          "originalTitle": "",
+          "source": "爱范儿",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-09-17",
+          "time": "08:56",
+          "publishedAt": "2026-09-17T08:56:28.000Z",
+          "url": "https://www.ifanr.com/1680700?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "image": "https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1789634553119-1.png",
+          "verdict": "先看",
+          "takeaway": "体验真正的「边看边改」",
+          "detail": "体验真正的「边看边改」",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
+          "id": "auto-613cbe3e5ca4",
+          "title": "独家实测｜15 分钟充 50%，iPhone 18 Pro 给出下一代快充的答案",
+          "originalTitle": "",
+          "source": "爱范儿",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-09-17",
+          "time": "08:06",
+          "publishedAt": "2026-09-17T08:06:10.000Z",
+          "url": "https://www.ifanr.com/1680682?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "image": "https://s3.ifanr.com/wp-content/uploads/2026/09/2-pro-new-devices.jpg",
+          "verdict": "先看",
+          "takeaway": "不只是苹果一家的选择。",
+          "detail": "不只是苹果一家的选择。",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
           "id": "newsnow-20679f235dae",
           "title": "iPhone 18 Pro系列首销也卖爆了",
           "originalTitle": "",
@@ -256,119 +301,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-728bbee10ddb",
-          "title": "iPhone 发布 / 上市相关消息",
-          "originalTitle": "",
-          "source": "Apple Newsroom",
-          "brand": "iPhone",
-          "type": "官方",
-          "trust": "官方确认",
-          "date": "2026-09-17",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone 有发布或新功能消息，适合确认是否和新机有关。",
-          "detail": "iPhone 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "官方"
-          ],
-          "confidence": "官方内容，可直接作为已确认信息记录。",
-          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "launch",
-      "title": "新机与官方发布",
-      "hint": "能直接更新到参数库。",
-      "items": [
-        {
-          "id": "auto-9044984e0663",
-          "title": "Samsung 影像能力相关消息",
-          "originalTitle": "",
-          "source": "Samsung Newsroom",
-          "brand": "Samsung",
-          "type": "官方",
-          "trust": "官方确认",
-          "date": "2026-09-16",
-          "time": "08:00",
-          "publishedAt": "2026-09-16T08:00:00.000Z",
-          "url": "https://news.samsung.com/global/interview-the-people-behind-the-galaxy-z-series-camera-innovations-%e2%91%a1-how-portrait-video-recreates-the-look-of-professional-camera-lenses",
-          "image": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/09/15174444/Samsung-Mobile-The-New-Galaxy-Z-series-Portrait-Video-Interview_Thumb932-728x410.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "Samsung 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
-          "detail": "Samsung 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "官方内容，可直接作为已确认信息记录。",
-          "impact": "影响拍照体验，买旗舰机时值得关注。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        }
-      ]
-    },
-    {
-      "id": "review",
-      "title": "评测与体验",
-      "hint": "买前再细看，平时扫一眼即可。",
-      "items": [
-        {
-          "id": "auto-755cc2d1b2ed",
-          "title": "OPPO Find X10 体验：想得周到，拍得好看",
-          "originalTitle": "",
-          "source": "爱范儿",
-          "brand": "OPPO",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-09-17",
-          "time": "06:46",
-          "publishedAt": "2026-09-17T06:46:20.000Z",
-          "url": "https://www.ifanr.com/1680665?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "image": "https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1789618812396-1.png",
-          "verdict": "扫一眼",
-          "takeaway": "功成事遂，谓我自然",
-          "detail": "功成事遂，谓我自然",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        }
-      ]
-    },
-    {
-      "id": "market",
-      "title": "行业趋势",
-      "hint": "看方向，不急着当购买依据。",
-      "items": [
-        {
-          "id": "auto-9abe218253dd",
-          "title": "小米澎湃 HyperOS 4 Beta 版第三批机型开推，覆盖 REDMI K100 Pro 系列、MIX Flip 2 等",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-17",
-          "time": "07:07",
-          "publishedAt": "2026-09-17T07:07:13.000Z",
-          "url": "https://www.ithome.com/1/003/592.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/1863b7b0-686b-4cc5-962f-397822fc446c.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "扫一眼",
-          "takeaway": "IT之家 9 月 17 日消息，小米官方今日宣布， 澎湃 HyperOS 4 Beta 版第三批机型开始面向此前参与并通过招募的用户推送 ，覆盖 REDMI K100 Pro 系列、MIX Flip 2 等。 REDMI K100 Pro Max REDMI K100 Pro REDMI K80 Pro REDMI K80 至尊版 REDMI K80 Xi…",
-          "detail": "IT之家 9 月 17 日消息，小米官方今日宣布， 澎湃 HyperOS 4 Beta 版第三批机型开始面向此前参与并通过招募的用户推送 ，覆盖 REDMI K100 Pro 系列、MIX Flip 2 等。 REDMI K100 Pro Max REDMI K100 Pro REDMI K80 Pro REDMI K80 至尊版 REDMI K80 Xi…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         }
       ]
     }
