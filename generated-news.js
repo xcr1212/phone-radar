@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-18T17:40:30.888Z",
+  "updatedAt": "2026-09-18T20:53:32.369Z",
   "news": [
     {
       "id": "weibo-03df0595347b",
@@ -10,8 +10,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-18",
-      "time": "17:40",
-      "publishedAt": "2026-09-18T17:40:30.888Z",
+      "time": "20:53",
+      "publishedAt": "2026-09-18T20:53:32.369Z",
       "url": "https://weibo.com/6048569942/RiH3gugUA",
       "image": "",
       "summary": "新形态确实更受欢迎，接下来2027Q1还有两台阔折叠新机，第一台安卓阔直板争取3月，其他家刚刚立项，争取明年下半年能上线……[流鼻血]",
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-18",
-      "time": "17:40",
-      "publishedAt": "2026-09-18T17:40:30.888Z",
+      "time": "20:53",
+      "publishedAt": "2026-09-18T20:53:32.369Z",
       "url": "https://weibo.com/6048569942/RiFWS9xw3",
       "image": "",
       "summary": "华为Pura X View阔直板首周激活销量约28.2W，实销均价约7000，开售时间5天，W37全品牌单品销量第一，同时助力华为品牌份额新高。",
@@ -50,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-18",
-      "time": "17:40",
-      "publishedAt": "2026-09-18T17:40:30.888Z",
+      "time": "20:53",
+      "publishedAt": "2026-09-18T20:53:32.369Z",
       "url": "https://weibo.com/6048569942/RiFoMbpsR",
       "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1ih7pzfskxij349o37a7wl.jpg",
       "summary": "iPhone 18 Pro，小灵动岛是做了屏下红外泛光器，位于屏幕左上角，因为像素量需求不高，隐藏性优于iPhone Duo的真•屏下摄像头。 这就是iPhone直板机的技术路线了，一步步缩小灵动岛，直到正面是一块无缺的真•全面屏[吃瓜]",
@@ -70,8 +70,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-18",
-      "time": "17:40",
-      "publishedAt": "2026-09-18T17:40:30.888Z",
+      "time": "20:53",
+      "publishedAt": "2026-09-18T20:53:32.369Z",
       "url": "https://weibo.com/6048569942/RiEOBDDKV",
       "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ih7oq7mgv3j64jk3eox6s08.jpg",
       "summary": "iPhone 18 Pro，这个红色和小灵动岛喜欢吗[笑而不语]",
@@ -90,8 +90,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-18",
-      "time": "17:40",
-      "publishedAt": "2026-09-18T17:40:30.888Z",
+      "time": "20:53",
+      "publishedAt": "2026-09-18T20:53:32.369Z",
       "url": "https://weibo.com/6048569942/RiwpTjGHp",
       "image": "https://tvax3.sinaimg.cn/mw2000/a66d0169ly8ih6jy2xr2mj24jk3eox6q.jpg",
       "summary": "听说买华为阔直板的人30%来自苹果手机用户，话说你们看惯了阔比例，再看苹果那种传统比例，会不会觉得怪怪的……[笑而不语]",
@@ -99,6 +99,86 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "微博"
+      ]
+    },
+    {
+      "id": "auto-2629ec8dd550",
+      "title": "Samsung’s battery upgrades for Galaxy S27 Ultra and Pro leak – is it enough?",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-18",
+      "time": "20:00",
+      "publishedAt": "2026-09-18T20:00:00.000Z",
+      "url": "https://9to5google.com/2026/09/18/samsung-galaxy-s27-ultra-pro-battery-upgrades-leak/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/galaxy-s27-pro-leak-onl-1.webp?w=1600",
+      "summary": "A new leak reveals the battery sizes of Samsung’s upcoming Galaxy S27 Ultra and S27 Pro including some long overdue upgrades, but do you think it’s enough? more…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a91d85416a6d",
+      "title": "iPhone 18 Pro Max in U.S. Has Qualcomm's Snapdragon X80 Modem",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-18",
+      "time": "19:41",
+      "publishedAt": "2026-09-18T19:41:16.000Z",
+      "url": "https://www.macrumors.com/2026/09/18/iphone-18-pro-max-us-qualcomm-x80/",
+      "image": "https://images.macrumors.com/article-new/2026/09/deep-black-iphone-18-pro.jpg",
+      "summary": "TechInsights has published an iPhone 18 Pro Max teardown that confirms the U.S. version of the device is equipped with Qualcomm's Snapdragon X80 modem. The device's modem firmware…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-35d0e0709a96",
+      "title": "Apple VP of hardware talks iPhone Duo durability, crease, hinge, and more",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-18",
+      "time": "17:52",
+      "publishedAt": "2026-09-18T17:52:15.000Z",
+      "url": "https://9to5mac.com/2026/09/18/apple-vp-of-hardware-talks-iphone-duo-durability-crease-hinge-and-more/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-1.jpeg?quality=82&strip=all&w=1600",
+      "summary": "Apple’s new Vice President of Hardware Engineering, Tom Marieb, sat down with TechRadar for an interview all about iPhone Duo. Here’s what he said about iPhone Duo’s durability, t…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a4eb90ea6e3c",
+      "title": "MacRumors Giveaway: Win an iPhone Duo From iMazing",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-18",
+      "time": "17:50",
+      "publishedAt": "2026-09-18T17:50:33.000Z",
+      "url": "https://www.macrumors.com/2026/09/18/macrumors-giveaway-imazing-iphone-duo/",
+      "image": "https://images.macrumors.com/article-new/2026/09/imazing-giveaway-iphone-duo.jpg",
+      "summary": "For this week's giveaway we've teamed up with iMazing to offer MacRumors readers a chance to win an iPhone Duo and a copy of the iMazing software to go along with it. If you're un…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -310,8 +390,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-09-18",
-      "time": "14:35",
-      "publishedAt": "2026-09-18T14:35:02.000Z",
+      "time": "14:34",
+      "publishedAt": "2026-09-18T14:34:53.000Z",
       "url": "https://www.macrumors.com/2026/09/18/iphone-18-pro-teardown/",
       "image": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-Dynamic-Island-1.jpg",
       "summary": "YouTube channel REWA Technology today shared one of the first iPhone 18 Pro teardown videos , offering a look inside the new device. iPhone 18 Pro and iPhone 18 Pro Max feature a…",
@@ -542,26 +622,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-c83d4aa78643",
-      "title": "Huawei Pura X View made new record in flagship first-week sales",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-18",
-      "time": "11:19",
-      "publishedAt": "2026-09-18T11:19:38.000Z",
-      "url": "https://www.huaweicentral.com/huawei-pura-x-view-made-new-record-in-flagship-first-week-sales/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/Pura-X-View-img.jpg",
-      "summary": "Huawei Pura X View continues to surprise consumers with its amazing sales, and the wide flat-screen smartphone has set a new record in flagship first-week shipments. A new piece o…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-619f0f39fcb8",
       "title": "竹本青：曝华为Pura X View首销7日销量约31万台",
       "source": "竹本青",
@@ -657,26 +717,6 @@ window.phoneRadarAuto = {
       "summary": "IT之家 9 月 18 日消息，@数码闲聊站 今天（18 日）下午爆料称，到了明年第一季度， 两款阔折叠新机 将会正式亮相，而首台安卓阔直板手机则争取同年 3 月。 该博主称，“新形态”的机型（IT之家注：结合语境，预计指阔折叠、阔直板手机）确实更受欢迎，而“其他厂家”则处于刚刚立项的状态，争取 明年下半年 上线。 至于“新形态”机型的欢迎程度，数据层面有…",
       "tags": [
         "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-51c418f4841f",
-      "title": "Huawei is up with another wide-screen phone, for Pura 100 series?",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-18",
-      "time": "09:16",
-      "publishedAt": "2026-09-18T09:16:41.000Z",
-      "url": "https://www.huaweicentral.com/huawei-is-up-with-another-wide-screen-phone-for-pura-100-series/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/PuraX-View-vs-Pura-X-Max.jpg",
-      "summary": "Huawei is seemingly up with another wide-screen product, which will likely debut with the camera flagship Pura 100 series next year. However, is it a foldable phone or something s…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
@@ -862,26 +902,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-2b2849801854",
-      "title": "Huawei Mate 90 Pro Max camera specs leaked again with a major change",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-18",
-      "time": "04:49",
-      "publishedAt": "2026-09-18T04:49:59.000Z",
-      "url": "https://www.huaweicentral.com/huawei-mate-90-pro-max-camera-specs/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/02/Mate80ProMax1.jpg",
-      "summary": "Huawei Mate 90 Pro Max camera specs are out again in the leaks, and this time, the information comes with a significant change. The top-tier phone could use a super-powerful exter…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-e5cd231e7f7a",
       "title": "Oppo Find X10 Pro Max detailed camera samples show off its 200MP telephoto ahead of launch",
       "source": "Gizmochina",
@@ -897,26 +917,6 @@ window.phoneRadarAuto = {
       "summary": "The Oppo Find X10 series is launching on September 22, and Oppo continues to tease both the standard and Pro Max models. Surprisingly, the lineup lacks a Pro model. Two of the rec…",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-7e8091d3c600",
-      "title": "Apple CEO John Ternus Teases iPhone 18 Pro Launch Day",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-18",
-      "time": "03:11",
-      "publishedAt": "2026-09-18T03:11:06.000Z",
-      "url": "https://www.macrumors.com/2026/09/17/john-ternus-teases-iphone-18-pro-launch/",
-      "image": "https://images.macrumors.com/article-new/2026/09/Apple-Fifth-Avenue-iPhone-18-Pro.jpeg",
-      "summary": "Apple Fifth Avenue in New York is ready for iPhone 18 Pro launch day. The store's iconic glass cube entrance has received a colorful makeover that matches the iPhone 18 Pro's new…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -1162,41 +1162,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-89f8e7b24b64",
-      "title": "完了，这观感不是一般的差，像弄上油了，离远点还好一些。这竟然是苹果做出来的方案吗，和他们调性不符啊[疑问][疑问][疑问] #iPhone18Pro# #iPhone18ProMax#",
+      "id": "newsnow-57f1ad1b6b04",
+      "title": "ColorOS、OriginOS、MagicOS迎来大版本更新；努比亚NaviX Ultra正式发布；赛力斯与华为合作模式调整；此外还有多条新机及芯片爆料消息值得关注。",
       "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-18",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73822974",
+      "url": "https://www.coolapk.com/feed/73832971",
       "image": "",
-      "summary": "完了，这观感不是一般的差，像弄上油了，离远点还好一些。这竟然是苹果做出来的方案吗，和他们调性不符啊[疑问][疑问][疑问] #iPhone18Pro# #iPhone18ProMax#",
+      "summary": "ColorOS、OriginOS、MagicOS迎来大版本更新；努比亚NaviX Ultra正式发布；赛力斯与华为合作模式调整；此外还有多条新机及芯片爆料消息值得关注。",
       "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-78b1d82291df",
-      "title": "首发已经到货，有啥问题直接问[受虐滑稽] 我可以拿16pm做做对比#iPhone18Pro系列首发上手# #数码日常# #iPhone18#",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73825893",
-      "image": "",
-      "summary": "首发已经到货，有啥问题直接问[受虐滑稽] 我可以拿16pm做做对比#iPhone18Pro系列首发上手# #数码日常# #iPhone18#",
-      "tags": [
-        "iPhone",
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
@@ -1222,21 +1202,81 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-0b20a98458b9",
-      "title": "以前的我从未把荣耀放进我的手机备选名单，今天路过荣耀的体验店，摸了一把，卧槽是真爽啊，旁边就是ov，就光裸机手感是真的比这两家高出一截来，屏幕的观感也不错，这下我真的要从小米和荣耀二选一了,话说荣耀的系统咋样啊#小米18# #数码日常# #荣耀Magic9ProMax#",
+      "id": "newsnow-2cee888acf81",
+      "title": "低人一等的日版18pm简评，首先是大家说的这个屏下，只能说你平时不闲的没事去找它，完全看不到，如果你非说我没事就喜欢看，那你不适合用手机，但是比较恶心的是，由于这个圆圈内的分辨率降低了，又恰好是显示小时的地方，这就导致前面的小时分辨率低，颗粒感严重，与后面的分钟反差很大，这点才是最烦人的，还有就是贴官方膜的过程很不爽，300块钱的膜，给贴的是17pm的，说是通用，但是换了两张依旧白边很严重，要是100我都不纠结了，300是不是有些说不过去。",
       "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-18",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73793224",
+      "url": "https://www.coolapk.com/feed/73831781",
       "image": "",
-      "summary": "以前的我从未把荣耀放进我的手机备选名单，今天路过荣耀的体验店，摸了一把，卧槽是真爽啊，旁边就是ov，就光裸机手感是真的比这两家高出一截来，屏幕的观感也不错，这下我真的要从小米和荣耀二选一了,话说荣耀的系统咋样啊#小米18# #数码日常# #荣耀Magic9ProMax#",
+      "summary": "低人一等的日版18pm简评，首先是大家说的这个屏下，只能说你平时不闲的没事去找它，完全看不到，如果你非说我没事就喜欢看，那你不适合用手机，但是比较恶心的是，由于这个圆圈内的分辨率降低了，又恰好是显示小时的地方，这就导致前面的小时分辨率低，颗粒感严重，与后面的分钟反差很大，这点才是最烦人的，还有就是贴官方膜的过程很不爽，300块钱的膜，给贴的是17pm的，说…",
       "tags": [
-        "HONOR",
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-89f8e7b24b64",
+      "title": "完了，这观感不是一般的差，像弄上油了，离远点还好一些。这竟然是苹果做出来的方案吗，和他们调性不符啊[疑问][疑问][疑问] #iPhone18Pro# #iPhone18ProMax#",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-18",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73822974",
+      "image": "",
+      "summary": "完了，这观感不是一般的差，像弄上油了，离远点还好一些。这竟然是苹果做出来的方案吗，和他们调性不符啊[疑问][疑问][疑问] #iPhone18Pro# #iPhone18ProMax#",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-5a36551f11bc",
+      "title": "马上一堆看屏幕的神人要出来了，每年固定节目 #iPhone18Pro系列首发上手# #iPhone18#",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-18",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73826057",
+      "image": "",
+      "summary": "马上一堆看屏幕的神人要出来了，每年固定节目 #iPhone18Pro系列首发上手# #iPhone18#",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-85bb8ec44115",
+      "title": "现在选17pm还是18pm，差2500，值得吗#iPhone17ProMax#",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-18",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73839603",
+      "image": "",
+      "summary": "现在选17pm还是18pm，差2500，值得吗#iPhone17ProMax#",
+      "tags": [
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -1262,28 +1302,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-151203396ae1",
-      "title": "再过几年，微信得60g，王者30g，这两个鬼东西都快占用100g了，唉，下次换手机只能换1t的了#HyperOS4# #小米17Pro# #小米17#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73812763",
-      "image": "",
-      "summary": "再过几年，微信得60g，王者30g，这两个鬼东西都快占用100g了，唉，下次换手机只能换1t的了#HyperOS4# #小米17Pro# #小米17#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-91fd2d41cfe7",
-      "title": "真见鬼了，新手机拿到激活开机居然是这个页面，怀疑工厂测试没抹除干净，服了 #iPhone18Pro系列首发上手#",
+      "id": "newsnow-78b1d82291df",
+      "title": "首发已经到货，有啥问题直接问[受虐滑稽] 我可以拿16pm做做对比#iPhone18Pro系列首发上手# #数码日常# #iPhone18#",
       "source": "酷安热榜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -1292,29 +1312,9 @@ window.phoneRadarAuto = {
       "date": "2026-09-18",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73829360",
+      "url": "https://www.coolapk.com/feed/73825893",
       "image": "",
-      "summary": "真见鬼了，新手机拿到激活开机居然是这个页面，怀疑工厂测试没抹除干净，服了 #iPhone18Pro系列首发上手#",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-616c60308579",
-      "title": "iPhone17Pro和18Pro外观对比",
-      "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-09-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhone17Pro%E5%92%8C18Pro%E5%A4%96%E8%A7%82%E5%AF%B9%E6%AF%94%23&t=31&band_rank=25&Refer=top",
-      "image": "",
-      "summary": "iPhone17Pro和18Pro外观对比",
+      "summary": "首发已经到货，有啥问题直接问[受虐滑稽] 我可以拿16pm做做对比#iPhone18Pro系列首发上手# #数码日常# #iPhone18#",
       "tags": [
         "iPhone",
         "爆料",
@@ -1355,26 +1355,6 @@ window.phoneRadarAuto = {
       "url": "https://9to5mac.com/2026/09/17/apple-showcases-iphone-18-pro-camera-with-new-what-holds-us-photography-exhibition/",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/what-holds-us.jpg?quality=82&strip=all&w=1600",
       "summary": "Apple is holding a new photography exhibition in New York City this weekend to showcase the iPhone 18 Pro camera. Here are the details. more…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-17c65ad7b08c",
-      "title": "iPhone 18 Pro Launching Tomorrow With These 10 New Features",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-17",
-      "time": "20:45",
-      "publishedAt": "2026-09-17T20:45:00.000Z",
-      "url": "https://www.macrumors.com/2026/09/17/iphone-18-pro-release-date-and-features/",
-      "image": "https://images.macrumors.com/article-new/2026/09/deep-black-iphone-18-pro.jpg",
-      "summary": "Apple last week unveiled the iPhone 18 Pro and iPhone 18 Pro Max . While the devices look very similar to the iPhone 17 Pro models, there are still quite a few new features and in…",
       "tags": [
         "iPhone",
         "爆料",
@@ -1438,26 +1418,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Samsung",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f0cceba2bdb3",
-      "title": "iPhone 18 Pro Unboxing: New Colors, Better Photos, and Smaller Dynamic Island",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-17",
-      "time": "18:34",
-      "publishedAt": "2026-09-17T18:34:45.000Z",
-      "url": "https://www.macrumors.com/2026/09/17/iphone-18-pro-unboxing/",
-      "image": "",
-      "summary": "The iPhone 18 Pro and &zwnj;iPhone 18 Pro&zwnj; Max are launching tomorrow, but we were able to get one early to share some initial impressions. Subscribe to the MacRumors YouTube…",
-      "tags": [
-        "iPhone",
-        "爆料",
         "自动抓取"
       ]
     },
@@ -1797,26 +1757,6 @@ window.phoneRadarAuto = {
       "summary": "Photographer Tyler Stalman is back with his annual iPhone camera review. Here’s what he had to say about the iPhone 18 Pro’s new variable aperture, photographic styles, Apple Refe…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2a12a78d4211",
-      "title": "Xiaomi quietly hikes prices across its Redmi Book Pro and Xiaomi Book Pro laptop lineups",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-17",
-      "time": "00:58",
-      "publishedAt": "2026-09-17T00:58:10.000Z",
-      "url": "https://www.gizmochina.com/2026/09/17/xiaomi-quietly-hikes-prices-redmi-book-pro-and-xiaomi-book-pro-laptops/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Xiaomi-Redmi-Book-14-300x185.png?x96852",
-      "summary": "Xiaomi has quietly implemented a noticeable price increase in China across a wide swath of its laptop portfolio. According to recent market observations first flagged by local tec…",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "自动抓取"
       ]
