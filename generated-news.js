@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-18T12:57:26.698Z",
+  "updatedAt": "2026-09-18T17:40:30.888Z",
   "news": [
     {
       "id": "weibo-03df0595347b",
@@ -10,8 +10,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-18",
-      "time": "12:57",
-      "publishedAt": "2026-09-18T12:57:26.698Z",
+      "time": "17:40",
+      "publishedAt": "2026-09-18T17:40:30.888Z",
       "url": "https://weibo.com/6048569942/RiH3gugUA",
       "image": "",
       "summary": "新形态确实更受欢迎，接下来2027Q1还有两台阔折叠新机，第一台安卓阔直板争取3月，其他家刚刚立项，争取明年下半年能上线……[流鼻血]",
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-18",
-      "time": "12:57",
-      "publishedAt": "2026-09-18T12:57:26.698Z",
+      "time": "17:40",
+      "publishedAt": "2026-09-18T17:40:30.888Z",
       "url": "https://weibo.com/6048569942/RiFWS9xw3",
       "image": "",
       "summary": "华为Pura X View阔直板首周激活销量约28.2W，实销均价约7000，开售时间5天，W37全品牌单品销量第一，同时助力华为品牌份额新高。",
@@ -50,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-18",
-      "time": "12:57",
-      "publishedAt": "2026-09-18T12:57:26.698Z",
+      "time": "17:40",
+      "publishedAt": "2026-09-18T17:40:30.888Z",
       "url": "https://weibo.com/6048569942/RiFoMbpsR",
       "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1ih7pzfskxij349o37a7wl.jpg",
       "summary": "iPhone 18 Pro，小灵动岛是做了屏下红外泛光器，位于屏幕左上角，因为像素量需求不高，隐藏性优于iPhone Duo的真•屏下摄像头。 这就是iPhone直板机的技术路线了，一步步缩小灵动岛，直到正面是一块无缺的真•全面屏[吃瓜]",
@@ -70,8 +70,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-18",
-      "time": "12:57",
-      "publishedAt": "2026-09-18T12:57:26.698Z",
+      "time": "17:40",
+      "publishedAt": "2026-09-18T17:40:30.888Z",
       "url": "https://weibo.com/6048569942/RiEOBDDKV",
       "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ih7oq7mgv3j64jk3eox6s08.jpg",
       "summary": "iPhone 18 Pro，这个红色和小灵动岛喜欢吗[笑而不语]",
@@ -90,8 +90,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-18",
-      "time": "12:57",
-      "publishedAt": "2026-09-18T12:57:26.698Z",
+      "time": "17:40",
+      "publishedAt": "2026-09-18T17:40:30.888Z",
       "url": "https://weibo.com/6048569942/RiwpTjGHp",
       "image": "https://tvax3.sinaimg.cn/mw2000/a66d0169ly8ih6jy2xr2mj24jk3eox6q.jpg",
       "summary": "听说买华为阔直板的人30%来自苹果手机用户，话说你们看惯了阔比例，再看苹果那种传统比例，会不会觉得怪怪的……[笑而不语]",
@@ -99,6 +99,406 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "微博"
+      ]
+    },
+    {
+      "id": "auto-d6d3cbab58d8",
+      "title": "The real story of the iPhone 18 Pro’s camera",
+      "source": "The Verge",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-18",
+      "time": "17:06",
+      "publishedAt": "2026-09-18T17:06:37.000Z",
+      "url": "https://www.theverge.com/podcast/997366/the-real-story-of-the-iphone-18-pros-camera",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/VRG_VST_091826_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "It's one of the most fascinating years in a while when it comes to iPhone camera upgrades. The big story of the iPhone 18 Pro is the variable aperture main lens, which lets you op…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fd622fad78e7",
+      "title": "You can get a free year of unlimited wireless when you buy the Samsung Galaxy Z Flip 8 at Mint Mobile — here's how",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-18",
+      "time": "16:53",
+      "publishedAt": "2026-09-18T16:53:19.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/you-can-get-a-free-year-of-unlimited-wireless-when-you-buy-the-samsung-galaxy-z-flip-8-at-mint-mobile-heres-how",
+      "image": "https://cdn.mos.cms.futurecdn.net/szZkHBGKPpLE2BmQ6vsYQb-1920-80.jpg",
+      "summary": "Bundle the purchase of the Galaxy Z Flip 8 with one year of Unlimited and Mint Mobile will effectively give you the wireless coverage for free.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-581574e1c6b1",
+      "title": "Apple Teams Up With ROSÉ for iPhone 18 Pro Camera Ad",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-18",
+      "time": "16:36",
+      "publishedAt": "2026-09-18T16:36:35.000Z",
+      "url": "https://www.macrumors.com/2026/09/18/apple-iphone-18-pro-camera-ad/",
+      "image": "",
+      "summary": "Apple is promoting the iPhone 18 Pro with a new Shot on iPhone ad featuring Blackpink member ROSÉ's latest music video. The video for the song \"new trick\" was filmed using the &zw…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5025626686ef",
+      "title": "Best iPhone 18 Pro cases now available for purchase [Updated]",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-18",
+      "time": "16:24",
+      "publishedAt": "2026-09-18T16:24:00.000Z",
+      "url": "https://9to5mac.com/2026/09/18/best-iphone-18-pro-cases-now-available/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Best-iPhone-18-Pro-case-now-available-for-purchase.jpg?quality=82&strip=all&w=1600",
+      "summary": "It is time to take a look at the best new iPhone 18 Pro cases. Apple has a new slate of Silicone and TechWoven models in color-matched treatments, joined by loads of our favorite…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-753891a0390b",
+      "title": "竹本青：夕夕的600元现在随便领了还是怎么，这大晚上领到容易冲动消费啊 #酷安夜话#",
+      "source": "竹本青",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-18",
+      "time": "16:19",
+      "publishedAt": "2026-09-18T16:19:57.000Z",
+      "url": "https://www.coolapk.com/feed/73839682",
+      "image": "http://image.coolapk.com/feed/2026/0919/00/4248714_8f199c5f_8396_9099_568@1440x682.jpg",
+      "summary": "夕夕的600元现在随便领了还是怎么，这大晚上领到容易冲动消费啊 #酷安夜话#",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-c8737959db5b",
+      "title": "I love Pixel 11's Rambler, but SwiftKey just gave every Android phone a free alternative",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-18",
+      "time": "16:15",
+      "publishedAt": "2026-09-18T16:15:10.000Z",
+      "url": "https://www.androidpolice.com/swiftkey-gave-every-android-free-rambler/",
+      "image": "",
+      "summary": "Pixel's best typing trick is no longer exclusive",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-95e95f81298a",
+      "title": "Apple Designers Explain the Thinking Behind iPhone Duo",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-18",
+      "time": "16:11",
+      "publishedAt": "2026-09-18T16:11:02.000Z",
+      "url": "https://www.macrumors.com/2026/09/18/apple-designers-explain-iphone-duo/",
+      "image": "https://images.macrumors.com/article-new/2026/09/iPhone-Duo-Open-large-scaled.png",
+      "summary": "Apple's design team reveals how notebooks helped inspire the iPhone Duo , along with interface principles and expectations for future features, in a new interview with GQ . The in…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ba538b9db9f0",
+      "title": "Are iPhone 17 Pro Cases Compatible With iPhone 18 Pro? Here's What Apple Says",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-18",
+      "time": "15:54",
+      "publishedAt": "2026-09-18T15:54:48.000Z",
+      "url": "https://www.macrumors.com/2026/09/18/iphone-17-pro-vs-iphone-18-pro-case-compatibility/",
+      "image": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-Case-3200x1800-1-scaled.jpeg",
+      "summary": "Can you use iPhone 17 Pro and iPhone 17 Pro Max cases with the iPhone 18 Pro and iPhone 18 Pro Max, and vice versa? Apple's official answer is no, according to Daring Fireball 's…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-24519d1bb66a",
+      "title": "Forget the iPhone 18 Pro Max — you can score $1,100 off the Samsung Galaxy S26 Ultra with this T-Mobile deal (no trade-in required!)",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-18",
+      "time": "15:52",
+      "publishedAt": "2026-09-18T15:52:29.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/forget-the-iphone-18-pro-max-you-can-score-usd1-100-off-the-samsung-galaxy-s26-ultra-with-this-t-mobile-deal-no-trade-in-required",
+      "image": "https://cdn.mos.cms.futurecdn.net/FHy6yN58spznQ3VRme3iB3-1920-80.jpg",
+      "summary": "Add a line with an eligible unlimited plan and T-Mobile will give you $1,100 off the Samsung Galaxy S26 Ultra, no trade-in necessary.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ff97999fc949",
+      "title": "Xiaomi 18 Fold vs Galaxy Z Fold 8: Xiaomi’s Foldable Has a Huge Hardware Advantage",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-18",
+      "time": "15:25",
+      "publishedAt": "2026-09-18T15:25:00.000Z",
+      "url": "https://www.gizmochina.com/2026/09/18/xiaomi-18-fold-vs-galaxy-z-fold-8/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/image-119-300x152.png?x96852",
+      "summary": "Xiaomi 18 Fold and Galaxy Z Fold 8 represent two different approaches to premium foldables. Xiaomi pushes aggressive hardware with a 200MP Leica camera, 6000mAh battery and 67W ch…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6260cd43aae3",
+      "title": "iPhone 18 Pro Teardown Reveals How Apple Shrunk the Dynamic Island",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-18",
+      "time": "14:35",
+      "publishedAt": "2026-09-18T14:35:02.000Z",
+      "url": "https://www.macrumors.com/2026/09/18/iphone-18-pro-teardown/",
+      "image": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-Dynamic-Island-1.jpg",
+      "summary": "YouTube channel REWA Technology today shared one of the first iPhone 18 Pro teardown videos , offering a look inside the new device. iPhone 18 Pro and iPhone 18 Pro Max feature a…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-89fec67b8e07",
+      "title": "消息称 vivo 新开 7 英寸大屏 + 万级大电池方案，预计为中端线新机",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-18",
+      "time": "14:32",
+      "publishedAt": "2026-09-18T14:32:00.000Z",
+      "url": "https://www.ithome.com/1/004/338.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/ec80346a-2f50-488a-a777-73a8136528c3.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 18 日消息，博主 @数码闲聊站 昨晚爆料，vivo 最近也开了一块 7 英寸大屏 + 万级大电池方案，不过规格看起来是给中端线，旗舰线再等等。 IT之家注意到，该博主曾在今年 6 月爆料有 3 家主流品牌的迭代线新机会上 7 英寸，涵盖中端线和旗舰线，有直屏和等深四曲屏，至高有旗舰芯， 至高有 10000mAh 级大电池 ，至高有潜望长…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ebab2c240957",
+      "title": "I spent a few minutes with the iPhone Duo. Even as an Android user, I’m blown away",
+      "source": "Android Authority",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-18",
+      "time": "14:15",
+      "publishedAt": "2026-09-18T14:15:07.000Z",
+      "url": "https://www.androidauthority.com/apple-iphone-duo-hands-on-impressions-android-user-3712800/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Apple-iPhone-Duo-Hands-On-Inner-display.jpg",
+      "summary": "The iPhone Duo's design choices set a whole new standard.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-323f1ff52b23",
+      "title": "iPhone Duo vs Xiaomi 18 Fold: One Costs $400 More, But Is It Better?",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-18",
+      "time": "14:03",
+      "publishedAt": "2026-09-18T14:03:52.000Z",
+      "url": "https://www.gizmochina.com/2026/09/18/iphone-duo-vs-xiaomi-18-fold-one-costs-400-more-but-is-it-better/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/image-118-300x152.png?x96852",
+      "summary": "iPhone Duo and Xiaomi 18 Fold represent two very different approaches to premium foldables. Apple focuses on premium materials, software integration and advanced video features, w…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c889e023dbca",
+      "title": "iPhone 18 Pro Demand Stronger Than Expected",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-18",
+      "time": "14:01",
+      "publishedAt": "2026-09-18T14:01:25.000Z",
+      "url": "https://www.macrumors.com/2026/09/18/iphone-18-pro-demand-stronger-than-expected/",
+      "image": "https://images.macrumors.com/article-new/2026/09/iphone-18-pro-and-iphone-18-pro-max.jpg",
+      "summary": "Apple's latest iPhone upgrade cycle is showing stronger-than-expected demand, with buyers favoring more expensive models and storage configurations, according to an Evercore ISI c…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-cc07c89e1bdd",
+      "title": "vivo X300 Ultra 手机全版本调价：涨 500-2000 元，7499 元起",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-18",
+      "time": "13:45",
+      "publishedAt": "2026-09-18T13:45:14.000Z",
+      "url": "https://www.ithome.com/1/004/331.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/5bd7bdb1-177a-4fe3-8529-30a6ee6e55c3.jpg",
+      "summary": "IT之家 9 月 18 日消息，据博主 @旺仔百事通 消息， vivo X300 Ultra 在官方商城进行了全版本调价，从涨 500 到 2,000 元不等。 12GB+256GB：调价前 6,999 元，调价后 7,499 元（涨价 500 元） 12GB+512GB：调价前 7,499 元，调价后 7,999 元（涨价 500 元） 16GB+512…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5dac32e20b70",
+      "title": "The iPhone 18 doesn't exist, but these Android alternatives are better anyway",
+      "source": "Android Police",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-18",
+      "time": "13:30",
+      "publishedAt": "2026-09-18T13:30:10.000Z",
+      "url": "https://www.androidpolice.com/the-iphone-18-doesnt-exist-android-alternatives-beat-it/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/02/samsung-galaxy-s26-plus-front-screen-1.jpg",
+      "summary": "Apple leaves the mid-range to those who do it best",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-41d1a1a3a2dd",
+      "title": "OnePlus 16 clears 3C certification, confirms 100W wired charging",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-18",
+      "time": "13:13",
+      "publishedAt": "2026-09-18T13:13:20.000Z",
+      "url": "https://www.gizmochina.com/2026/09/18/oneplus-16-clears-3c-certification-confirms-100w-wired-charging/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/OnePlus-16-display-news-300x225.png?x96852",
+      "summary": "OnePlus looks just about ready to show off its next flagship. The OnePlus 16 has now picked up China’s 3C certification, which means it’s cleared all three mandatory approvals nee…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fbfda09fda8b",
+      "title": "Fan Site Lets You 'Design the Next iPhone'",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-18",
+      "time": "13:02",
+      "publishedAt": "2026-09-18T13:02:14.000Z",
+      "url": "https://www.macrumors.com/2026/09/18/fan-site-lets-you-design-the-next-iphone/",
+      "image": "https://images.macrumors.com/article-new/2026/09/design-the-next-iphone.jpg",
+      "summary": "\" Design the Next iPhone ,\" an interactive website from developer Neal Agarwal, gives users control over a virtual iPhone's look, including the option to combine conventional smar…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-dccaaa43edb1",
+      "title": "竹本青：【荣耀Magic9 系列 预热：阿莱电影实况】 阿莱电影实况 —— 号称3秒拍出电影感 在阿莱电影模式下，长按快门…",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-18",
+      "time": "12:57",
+      "publishedAt": "2026-09-18T12:57:56.000Z",
+      "url": "https://www.coolapk.com/feed/73835715",
+      "image": "http://image.coolapk.com/feed/2026/0918/20/4248714_3fc2f28d_6275_1925_435-livepic@3842x1610.jpg",
+      "summary": "【荣耀Magic9 系列 预热：阿莱电影实况】 阿莱电影实况 —— 号称3秒拍出电影感 在阿莱电影模式下，长按快门，即可主动录制一段3秒视频，还加入了2.39:1宽画幅与阿莱 9大主题、87种电影Look。 #今日热点# #MagicOS11# #荣耀Magic9ProMax#",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
       ]
     },
     {
@@ -123,7 +523,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "auto-34bb0a5c7fd0",
-      "title": "iPhone 18 Pro Models: How to Use All the New Features",
+      "title": "iPhone 18 Pro: The New Features You Should Try First",
       "source": "MacRumors",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -134,9 +534,29 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-09-18T12:11:44.000Z",
       "url": "https://www.macrumors.com/guide/iphone-18-pro-how-to-use-new-features/",
       "image": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-16x9-1.jpg",
-      "summary": "Apple's iPhone 18 Pro and iPhone 18 Pro Max launched today in markets around the world. Keep reading if you're the proud owner of one of Apple's latest models. Whether you're upgr…",
+      "summary": "Apple's iPhone 18 Pro and iPhone 18 Pro Max launched today in markets around the world. Keep reading if you're the owner of one of Apple's latest models. Whether you're upgrading…",
       "tags": [
         "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c83d4aa78643",
+      "title": "Huawei Pura X View made new record in flagship first-week sales",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-18",
+      "time": "11:19",
+      "publishedAt": "2026-09-18T11:19:38.000Z",
+      "url": "https://www.huaweicentral.com/huawei-pura-x-view-made-new-record-in-flagship-first-week-sales/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/Pura-X-View-img.jpg",
+      "summary": "Huawei Pura X View continues to surprise consumers with its amazing sales, and the wide flat-screen smartphone has set a new record in flagship first-week shipments. A new piece o…",
+      "tags": [
+        "Huawei",
         "爆料",
         "自动抓取"
       ]
@@ -154,7 +574,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-09-18T11:18:44.000Z",
       "url": "https://www.coolapk.com/feed/73833714",
       "image": "http://image.coolapk.com/feed/2026/0918/19/4248714_670e21ba_0323_3304_357@1271x422.jpg",
-      "summary": "【曝华为Pura X View首销7日销量约31万台】 9月18日，博主「RD观测」再次分享第三方统计的华为Pura X View首销情况，以开售7日为标准，销量约为31万台。 该博主此前分享，华为Pura X View开售当日销量约为15.5万台。 #今日热点# #华为PuraXView# #鸿蒙7#",
+      "summary": "【曝华为Pura X View首销7日销量约31万台】 9月18日，博主「RD观测」再次分享第三方统计的华为Pura X View首销情况，以开售7日为标准，销量约为31万台。该博主此前分享，该机开售当日销量约为15.5万台。 另据数码闲聊站爆料，华为Pura X View 开售5天激活销量即达28.2万台，实销均价约7000元，拿下W37全品牌单品销量第…",
       "tags": [
         "Huawei",
         "爆料",
@@ -237,6 +657,26 @@ window.phoneRadarAuto = {
       "summary": "IT之家 9 月 18 日消息，@数码闲聊站 今天（18 日）下午爆料称，到了明年第一季度， 两款阔折叠新机 将会正式亮相，而首台安卓阔直板手机则争取同年 3 月。 该博主称，“新形态”的机型（IT之家注：结合语境，预计指阔折叠、阔直板手机）确实更受欢迎，而“其他厂家”则处于刚刚立项的状态，争取 明年下半年 上线。 至于“新形态”机型的欢迎程度，数据层面有…",
       "tags": [
         "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-51c418f4841f",
+      "title": "Huawei is up with another wide-screen phone, for Pura 100 series?",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-18",
+      "time": "09:16",
+      "publishedAt": "2026-09-18T09:16:41.000Z",
+      "url": "https://www.huaweicentral.com/huawei-is-up-with-another-wide-screen-phone-for-pura-100-series/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/PuraX-View-vs-Pura-X-Max.jpg",
+      "summary": "Huawei is seemingly up with another wide-screen product, which will likely debut with the camera flagship Pura 100 series next year. However, is it a foldable phone or something s…",
+      "tags": [
+        "Huawei",
         "爆料",
         "自动抓取"
       ]
@@ -419,6 +859,26 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-2b2849801854",
+      "title": "Huawei Mate 90 Pro Max camera specs leaked again with a major change",
+      "source": "Huawei Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-18",
+      "time": "04:49",
+      "publishedAt": "2026-09-18T04:49:59.000Z",
+      "url": "https://www.huaweicentral.com/huawei-mate-90-pro-max-camera-specs/",
+      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/02/Mate80ProMax1.jpg",
+      "summary": "Huawei Mate 90 Pro Max camera specs are out again in the leaks, and this time, the information comes with a significant change. The top-tier phone could use a super-powerful exter…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -742,26 +1202,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-0b20a98458b9",
-      "title": "以前的我从未把荣耀放进我的手机备选名单，今天路过荣耀的体验店，摸了一把，卧槽是真爽啊，旁边就是ov，就光裸机手感是真的比这两家高出一截来，屏幕的观感也不错，这下我真的要从小米和荣耀二选一了,话说荣耀的系统咋样啊#小米18# #数码日常# #荣耀Magic9ProMax#",
-      "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73793224",
-      "image": "",
-      "summary": "以前的我从未把荣耀放进我的手机备选名单，今天路过荣耀的体验店，摸了一把，卧槽是真爽啊，旁边就是ov，就光裸机手感是真的比这两家高出一截来，屏幕的观感也不错，这下我真的要从小米和荣耀二选一了,话说荣耀的系统咋样啊#小米18# #数码日常# #荣耀Magic9ProMax#",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-0eb1ce1df725",
       "title": "何同学和极客湾哪一个出错了？ #iPhone18ProMax# #iPhone17ProMax# 控制变量，散热板都是同样升级了，而且pm散热提升更多一些，不论是17pro到18pro还是17pm到18pm，都是升级a20pro。但是两家测评模型pm续航都是提升了2h,但是18pm对比17pm电池提升了600毫安18pro对比17pro提升了60毫安",
       "source": "酷安热榜",
@@ -777,6 +1217,26 @@ window.phoneRadarAuto = {
       "summary": "何同学和极客湾哪一个出错了？ #iPhone18ProMax# #iPhone17ProMax# 控制变量，散热板都是同样升级了，而且pm散热提升更多一些，不论是17pro到18pro还是17pm到18pm，都是升级a20pro。但是两家测评模型pm续航都是提升了2h,但是18pm对比17pm电池提升了600毫安18pro对比17pro提升了60毫安",
       "tags": [
         "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-0b20a98458b9",
+      "title": "以前的我从未把荣耀放进我的手机备选名单，今天路过荣耀的体验店，摸了一把，卧槽是真爽啊，旁边就是ov，就光裸机手感是真的比这两家高出一截来，屏幕的观感也不错，这下我真的要从小米和荣耀二选一了,话说荣耀的系统咋样啊#小米18# #数码日常# #荣耀Magic9ProMax#",
+      "source": "酷安热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-18",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73793224",
+      "image": "",
+      "summary": "以前的我从未把荣耀放进我的手机备选名单，今天路过荣耀的体验店，摸了一把，卧槽是真爽啊，旁边就是ov，就光裸机手感是真的比这两家高出一截来，屏幕的观感也不错，这下我真的要从小米和荣耀二选一了,话说荣耀的系统咋样啊#小米18# #数码日常# #荣耀Magic9ProMax#",
+      "tags": [
+        "HONOR",
         "爆料",
         "NewsNow"
       ]
@@ -842,28 +1302,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-f1330052756b",
-      "title": "阔直板形态手机受欢迎",
-      "source": "微博热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-09-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%E9%98%94%E7%9B%B4%E6%9D%BF%E5%BD%A2%E6%80%81%E6%89%8B%E6%9C%BA%E5%8F%97%E6%AC%A2%E8%BF%8E&t=31&band_rank=20&Refer=top",
-      "image": "",
-      "summary": "阔直板形态手机受欢迎",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-0a47c279c47a",
-      "title": "黄牛吐槽iPhone18Pro没人收",
+      "id": "newsnow-616c60308579",
+      "title": "iPhone17Pro和18Pro外观对比",
       "source": "微博热搜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -872,29 +1312,9 @@ window.phoneRadarAuto = {
       "date": "2026-09-18",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%89%9B%E5%90%90%E6%A7%BDiPhone18Pro%E6%B2%A1%E4%BA%BA%E6%94%B6%23&t=31&band_rank=23&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23iPhone17Pro%E5%92%8C18Pro%E5%A4%96%E8%A7%82%E5%AF%B9%E6%AF%94%23&t=31&band_rank=25&Refer=top",
       "image": "",
-      "summary": "黄牛吐槽iPhone18Pro没人收",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-e50c3ecbb532",
-      "title": "科技新一iPhone18Pro用半天就腻了",
-      "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-09-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%A7%91%E6%8A%80%E6%96%B0%E4%B8%80iPhone18Pro%E7%94%A8%E5%8D%8A%E5%A4%A9%E5%B0%B1%E8%85%BB%E4%BA%86%23&t=31&band_rank=28&Refer=top",
-      "image": "",
-      "summary": "科技新一iPhone18Pro用半天就腻了",
+      "summary": "iPhone17Pro和18Pro外观对比",
       "tags": [
         "iPhone",
         "爆料",
@@ -903,7 +1323,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "newsnow-64d25ff18265",
-      "title": "男子15万抢到10台iPhone 18 Pro Max",
+      "title": "男子15万抢到10台iPhone18PM",
       "source": "今日头条热榜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -914,7 +1334,7 @@ window.phoneRadarAuto = {
       "publishedAt": "",
       "url": "https://www.toutiao.com/trending/7686739044687941166/",
       "image": "",
-      "summary": "男子15万抢到10台iPhone 18 Pro Max",
+      "summary": "男子15万抢到10台iPhone18PM",
       "tags": [
         "iPhone",
         "爆料",
@@ -1042,66 +1462,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-cb6828be90f8",
-      "title": "Apple Increases Battery Replacement Fee for iPhone 18 Pro and Pro Max",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-17",
-      "time": "18:25",
-      "publishedAt": "2026-09-17T18:25:23.000Z",
-      "url": "https://www.macrumors.com/2026/09/17/apple-higher-iphone-18-pro-battery-fee/",
-      "image": "https://images.macrumors.com/article-new/2026/09/deep-black-iphone-18-pro.jpg",
-      "summary": "In the U.S., Apple is charging a higher $129 out-of-warranty fee to replace the battery in an iPhone 18 Pro or iPhone 18 Pro Max compared to previous models, according to its webs…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a709b8c28d7e",
-      "title": "iPhone 15 Pro vs. iPhone 18 Pro Buyer's Guide: Should You Upgrade?",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-17",
-      "time": "16:28",
-      "publishedAt": "2026-09-17T16:28:13.000Z",
-      "url": "https://www.macrumors.com/guide/iphone-15-pro-vs-18-pro/",
-      "image": "https://images.macrumors.com/article-new/2026/09/iphone-15-pro-vs-iphone-18-pro.jpg",
-      "summary": "Apple announced the iPhone 18 Pro and &zwnj;iPhone 18 Pro&zwnj; Max earlier this month, arriving three years after the iPhone 15 Pro and iPhone 15 Pro Max. Three generations of ch…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-80e5392cf1f1",
-      "title": "iPhone 18 Pro Max Test Shows Much Faster Charging From 0% to 100%",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-17",
-      "time": "16:07",
-      "publishedAt": "2026-09-17T16:07:48.000Z",
-      "url": "https://www.macrumors.com/2026/09/17/iphone-18-pro-max-charging-speed-test/",
-      "image": "https://images.macrumors.com/article-new/2026/09/Black-iPhone-18-Pro.jpg",
-      "summary": "Apple said the new iPhone 18 Pro models are capable of faster USB-C charging compared to the iPhone 17 Pro models, and a new video shared by the YouTube channel Xiaobai's Tech Rev…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-23f432098cf4",
       "title": "First iPhone 18 Pro pre-orders now say ‘shipped,’ here’s how to check yours",
       "source": "9to5Mac",
@@ -1175,26 +1535,6 @@ window.phoneRadarAuto = {
       "url": "https://9to5google.com/2026/09/17/galaxy-z-fold-8-saw-a-surge-in-popularity-as-soon-as-apple-unveiled-the-iphone-duo/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/iphone-duo-galaxy-z-fold-8-1.jpg?quality=82&strip=all&w=1600",
       "summary": "Apple’s first foldable is likely going to be the world’s most popular foldable in due time, but the launch of iPhone Duo actually had the opposite effect off of the bat, with Gala…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-08f5faa02114",
-      "title": "8 ways Samsung claims to have shaped foldable phones",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-17",
-      "time": "12:52",
-      "publishedAt": "2026-09-17T12:52:39.000Z",
-      "url": "https://www.sammobile.com/news/8-ways-samsung-claims-to-have-shaped-foldable-phones/",
-      "image": "",
-      "summary": "Some Apple fans may have never paid much attention to foldable phones before the iPhone Duo came along, but they've been around. Samsung has been the top foldable brand since 2019…",
       "tags": [
         "Samsung",
         "爆料",
