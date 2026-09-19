@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-19T07:19:47.269Z",
+  "updatedAt": "2026-09-19T12:29:08.773Z",
   "news": [
     {
       "id": "weibo-03df0595347b",
@@ -10,8 +10,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-19",
-      "time": "07:19",
-      "publishedAt": "2026-09-19T07:19:47.269Z",
+      "time": "12:29",
+      "publishedAt": "2026-09-19T12:29:08.773Z",
       "url": "https://weibo.com/6048569942/RiH3gugUA",
       "image": "",
       "summary": "新形态确实更受欢迎，接下来2027Q1还有两台阔折叠新机，第一台安卓阔直板争取3月，其他家刚刚立项，争取明年下半年能上线……[流鼻血]",
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-19",
-      "time": "07:19",
-      "publishedAt": "2026-09-19T07:19:47.269Z",
+      "time": "12:29",
+      "publishedAt": "2026-09-19T12:29:08.773Z",
       "url": "https://weibo.com/6048569942/RiFWS9xw3",
       "image": "",
       "summary": "华为Pura X View阔直板首周激活销量约28.2W，实销均价约7000，开售时间5天，W37全品牌单品销量第一，同时助力华为品牌份额新高。",
@@ -50,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-19",
-      "time": "07:19",
-      "publishedAt": "2026-09-19T07:19:47.269Z",
+      "time": "12:29",
+      "publishedAt": "2026-09-19T12:29:08.773Z",
       "url": "https://weibo.com/6048569942/RiFoMbpsR",
       "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1ih7pzfskxij349o37a7wl.jpg",
       "summary": "iPhone 18 Pro，小灵动岛是做了屏下红外泛光器，位于屏幕左上角，因为像素量需求不高，隐藏性优于iPhone Duo的真•屏下摄像头。 这就是iPhone直板机的技术路线了，一步步缩小灵动岛，直到正面是一块无缺的真•全面屏[吃瓜]",
@@ -70,8 +70,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-19",
-      "time": "07:19",
-      "publishedAt": "2026-09-19T07:19:47.269Z",
+      "time": "12:29",
+      "publishedAt": "2026-09-19T12:29:08.773Z",
       "url": "https://weibo.com/6048569942/RiEOBDDKV",
       "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ih7oq7mgv3j64jk3eox6s08.jpg",
       "summary": "iPhone 18 Pro，这个红色和小灵动岛喜欢吗[笑而不语]",
@@ -90,8 +90,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-19",
-      "time": "07:19",
-      "publishedAt": "2026-09-19T07:19:47.269Z",
+      "time": "12:29",
+      "publishedAt": "2026-09-19T12:29:08.773Z",
       "url": "https://weibo.com/6048569942/RiwpTjGHp",
       "image": "https://tvax3.sinaimg.cn/mw2000/a66d0169ly8ih6jy2xr2mj24jk3eox6q.jpg",
       "summary": "听说买华为阔直板的人30%来自苹果手机用户，话说你们看惯了阔比例，再看苹果那种传统比例，会不会觉得怪怪的……[笑而不语]",
@@ -99,6 +99,286 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "微博"
+      ]
+    },
+    {
+      "id": "auto-011d265f1b2e",
+      "title": "iPhone 18 Pro Max still uses a Qualcomm modem in the US, teardown confirms",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-19",
+      "time": "11:45",
+      "publishedAt": "2026-09-19T11:45:46.000Z",
+      "url": "https://9to5mac.com/2026/09/19/iphone-18-pro-max-still-uses-a-qualcomm-modem-in-the-us-teardown-confirms/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-photos-41.jpg?quality=82&strip=all&w=1600",
+      "summary": "TechInsights has published one of the first in-depth iPhone 18 Pro Max teardowns. Most notably, the teardown confirms that the iPhone 18 Pro Max sold in the United States still us…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d429f0beb35a",
+      "title": "Vivo X300 Ultra gets a price hike in China, and the Vivo X500 series may cost more too",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-19",
+      "time": "11:28",
+      "publishedAt": "2026-09-19T11:28:38.000Z",
+      "url": "https://www.gizmochina.com/2026/09/19/vivo-x300-ultra-gets-a-price-hike-in-china-and-the-vivo-x500-series-may-cost-more-too/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/06/vivo-X300-Ultra-Review_1.mp4_20260408_144417.444-1-1024x512-1-300x169.png?x96852",
+      "summary": "Phones usually get cheaper when their successors are about to launch. The Vivo X300 Ultra is going in the opposite direction. Vivo has raised the official prices of every X300 Ult…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-bf4d5fdea595",
+      "title": "Vivo X500 surfaces on Geekbench with Dimensity 9600M, 12GB RAM",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-19",
+      "time": "11:23",
+      "publishedAt": "2026-09-19T11:23:25.000Z",
+      "url": "https://www.gizmochina.com/2026/09/19/vivo-x500-surfaces-on-geekbench-with-dimensity-9600m-12gb-ram/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/videoframe_755992-300x169.jpg?x96852",
+      "summary": "A Geekbench listing just gave us an early peek at Vivo’s upcoming standard flagship, and it looks like the company is splitting its chipset strategy across the new series. The dev…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-629c6b7d03f4",
+      "title": "Honor Magic 9 series gets a 3-second ARRI video mode and dual 3D biometrics",
+      "source": "Gizmochina",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-19",
+      "time": "10:49",
+      "publishedAt": "2026-09-19T10:49:47.000Z",
+      "url": "https://www.gizmochina.com/2026/09/19/honor-magic-9-series-gets-a-3-second-arri-video-mode-and-dual-3d-biometrics/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Honor-Magic-9-Pro-series-dual-3D-unlock-and-3-second-live-video-300x200.jpg?x96852",
+      "summary": "Live Photos usually decides which part of a moment gets captured for you. When you press the shutter, the phone automatically records around 1.5 seconds before and after the shot.…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-16cd2f0b9775",
+      "title": "I tested the Pixel 11 Pro XL’s 25W wireless charging — and it’s still way too slow",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-19",
+      "time": "10:30",
+      "publishedAt": "2026-09-19T10:30:26.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-pixelsnap-wireless-charging-test-3710882/",
+      "image": "",
+      "summary": "PixelSnap is faster on the Pixel 11 Pro XL, but charging is still slow and hot.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c0101948d33e",
+      "title": "Galaxy S26 FE proves a bigger battery isn't the only way to change battery life",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-19",
+      "time": "10:00",
+      "publishedAt": "2026-09-19T10:00:10.000Z",
+      "url": "https://www.androidpolice.com/galaxy-s26-fe-battery-life-explained/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/09/samsung-galaxy-phone-showing-battery-usage-and-remaining-charge.png",
+      "summary": "Stop buying phones based on mAh",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-874f50d97592",
+      "title": "Vivo S2 FE appears on Geekbench with a MediaTek chip and 6GB RAM",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-19",
+      "time": "09:50",
+      "publishedAt": "2026-09-19T09:50:04.000Z",
+      "url": "https://www.gizmochina.com/2026/09/19/vivo-s2-fe-appears-on-geekbench-with-a-mediatek-chip-and-6gb-ram/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Vivo-S2-Color-2-300x239.jpg?x96852",
+      "summary": "The Vivo S2 FE has now shown up on Geekbench, giving us a first look at how the phone performs. The listing comes after model number V2640 was spotted on Bluetooth SIG and the BIS…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-414b94f1bbd1",
+      "title": "荣耀 HONOR Life 墨水屏官宣，9 月 28 日亮相",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-19",
+      "time": "09:01",
+      "publishedAt": "2026-09-19T09:01:59.000Z",
+      "url": "https://www.ithome.com/1/004/474.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/a4ae6502-99e1-4995-abf7-966eacb7d9a9.jpg",
+      "summary": "IT之家 9 月 19 日消息，荣耀 HONOR Life 墨水屏今日官宣，并发布倒计时海报。据官方透露，这款新品将于荣耀 Magic 盛典暨荣耀 Magic9 系列新品发布会亮相。 目前尚不清楚这款新品的具体参数。 HONOR Life 是荣耀旗下的智慧生活品牌，主打全场景智能生态产品，2020 年上线， 属于荣耀亲选生态体系 。截至 2026 年 9…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c9c427c5c766",
+      "title": "Oppo Find X10 series gets a Hasselblad teleconverter kit made for concert shooting",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-19",
+      "time": "08:31",
+      "publishedAt": "2026-09-19T08:31:11.000Z",
+      "url": "https://www.gizmochina.com/2026/09/19/oppo-find-x10-series-gets-a-hasselblad-teleconverter-kit-made-for-concert-shooting/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Oppo-Find-X10-Pro-Hasselblad-Teleconverter-Kit-300x200.jpg?x96852",
+      "summary": "Oppo is bringing back its Hasselblad Teleconverter Kit for the Find X10 series. Zhuo Shijie, head of Oppo Find series products, announced today that both the Oppo Find X10 and Fin…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-258c0ccd3d31",
+      "title": "小米 REDMI K100 新机入网，有望搭载万级大电池",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-19",
+      "time": "08:07",
+      "publishedAt": "2026-09-19T08:07:12.000Z",
+      "url": "https://www.ithome.com/1/004/465.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/3b9fbaa7-f7c5-4418-b6ef-d5ad587a7f44.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 19 日消息，一款型号为 M786BC 的小米新机于 9 月 18 日完成工信部申报，预计为 REDMI K100 标准版。 在 8 月 11 日的 REDMI K100 Pro 系列新品发布会上，小米中国区市场部总经理魏思琪公开了 REDMI K100 系列手机的产品矩阵。除了 K100 Pro Max 和 K100 Pro 外，RED…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f906d465bac9",
+      "title": "Galaxy S27 Ultra’s biggest upgrade in years? Major certification hints 5,700mAh battery",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-19",
+      "time": "08:01",
+      "publishedAt": "2026-09-19T08:01:30.000Z",
+      "url": "https://www.gizmochina.com/2026/09/19/samsung-galaxy-s27-ultra-s27-pro-battery-size-revealed/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Samsung-Galaxy-S27-Pro-leak-als-kompakteres-Galaxy-S27-Ultra-300x169.jpg?x96852",
+      "summary": "Samsung Galaxy S27 Ultra may finally bring the battery upgrade that Galaxy S Ultra users have been waiting for. The upcoming flagship is listed with a larger battery than the Gala…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8e25c99cca8c",
+      "title": "荣耀 Magic9 系列手机搭载行业独家双 3D 生物识别，9 月 28 日发布",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-19",
+      "time": "07:43",
+      "publishedAt": "2026-09-19T07:43:36.000Z",
+      "url": "https://www.ithome.com/1/004/456.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/0ba0c968-fe3d-4eeb-b71a-dbfa5a2f3637.png",
+      "summary": "IT之家 9 月 19 日消息，荣耀手机今日宣布，荣耀 Magic9 系列带来行业独家双 3D 生物识别，包括 3D 超声波指纹识别与 3D 人脸识别。 荣耀 Magic 盛典暨荣耀 Magic9 系列新品发布会将于 9 月 28 日在北京举行，目前博主 @数码闲聊站 已曝光荣耀 Magic9 系列手机规格信息，IT之家整理如下： 荣耀 Magic9： 6…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f5f65411d806",
+      "title": "Xiaomi 18 Fold vs Huawei Mate X7: Specs, Camera, Battery and Price Compared",
+      "source": "Gizmochina",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-19",
+      "time": "07:35",
+      "publishedAt": "2026-09-19T07:35:33.000Z",
+      "url": "https://www.gizmochina.com/2026/09/19/xiaomi-18-fold-vs-huawei-mate-x7/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/image-121-300x155.png?x96852",
+      "summary": "Foldables are moving beyond novelty, with flagship models now competing on camera hardware, display quality, battery capacity, and everyday usability. The Xiaomi 18 Fold and Huawe…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2c4308736a89",
+      "title": "OnePlus 16 Geekbench listing reveals Snapdragon 8 Elite Gen 6 Pro, 16GB RAM, and 11,000+ score",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-19",
+      "time": "07:22",
+      "publishedAt": "2026-09-19T07:22:19.000Z",
+      "url": "https://www.gizmochina.com/2026/09/19/oneplus-16-geekbench-snapdragon-8-elite-gen-6-pro-16gb-ram/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/image-106-300x251.png?x96852",
+      "summary": "Rumors suggest that OnePlus is slated for an official announcement in October in China. Just recently, the device, which reportedly bears the model number PYB110, was spotted at t…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -142,26 +422,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-508c8088685f",
-      "title": "Huawei Pura 100 series tipped to bring DSLR-style external camera lens",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-19",
-      "time": "05:58",
-      "publishedAt": "2026-09-19T05:58:57.000Z",
-      "url": "https://www.huaweicentral.com/huawei-pura-100-series-external-camera-lens/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/03/pura-camera.jpg",
-      "summary": "Amid the Mate 90 series launch preparations, Huawei Pura 100 has started garnering attention for its camera upgrades, and the latest information talks about a special external len…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-a96247e51dfc",
       "title": "苹果首款折叠 iPhone Duo 海外媒体评论汇总：CNET 称希望有“单屏版 Duo”",
       "source": "IT之家",
@@ -183,7 +443,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-0126899957ea",
-      "title": "竹本青：【HONOR Life 墨水屏 官宣9天后登场】 9月19日，HONOR Life 墨水屏 发布预告海报，官宣新品…",
+      "title": "竹本青：HONOR Life 墨水屏官宣： 9天后登场",
       "source": "竹本青",
       "brand": "HONOR",
       "model": "HONOR 相关机型",
@@ -243,7 +503,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-7e8e25c512e6",
-      "title": "竹本青：【张雪机车联合大疆Osmo 360 II 推出车机联动功能，首批适配820X、820RR】 ● 车把可直连运动相机…",
+      "title": "竹本青：张雪机车联合大疆Osmo 360 II 推出车机联动功能",
       "source": "竹本青",
       "brand": "行业",
       "model": "智能手机市场",
@@ -259,106 +519,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-da0d0afa064a",
-      "title": "JSCHEN小小狐：『荣耀 Magic9 Pro Max 预热：双 3D 生物识别』 ◇ 3D 超声波屏幕指纹识别 ◇ 3D ToF…",
-      "source": "JSCHEN小小狐",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-19",
-      "time": "02:38",
-      "publishedAt": "2026-09-19T02:38:43.000Z",
-      "url": "https://www.coolapk.com/feed/73844322",
-      "image": "http://image.coolapk.com/feed/2026/0919/10/4702274_6b74a8a8_5522_6281_928@2159x3838.jpg",
-      "summary": "『荣耀 Magic9 Pro Max 预热：双 3D 生物识别』 ◇ 3D 超声波屏幕指纹识别 ◇ 3D ToF 人脸识别 行业独家双 3D 生物识别，安全与便捷一步到位。 #今日热点# #荣耀Magic9ProMax#",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-2a21571df705",
-      "title": "苹果首款折叠 iPhone Duo 爆料：30° 角为界，切换内外屏功耗／散热策略",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-19",
-      "time": "02:12",
-      "publishedAt": "2026-09-19T02:12:33.000Z",
-      "url": "https://www.ithome.com/1/004/394.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/ab41ce64-b95e-4268-a7f2-e382354ee800.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 19 日消息，消息源 @itspdfu 今天（9 月 19 日）在 X 平台发布推文，指出在 Xcode 27.1 的 Device Hub 中，发现苹果为其首款折叠 iPhone Duo 模拟器， 引入了专属操作栏，可精细调整设备开合角度，并通过快捷键快速切换 5 种机身姿态。 IT之家此前报道，苹果今日发布 Xcode 27.1 首个…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-eee02c21c78f",
-      "title": "iPhone 18 Pro / Max 全球发售，特努斯出席苹果第五大道店首发活动",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-19",
-      "time": "01:44",
-      "publishedAt": "2026-09-19T01:44:05.000Z",
-      "url": "https://www.ithome.com/1/004/387.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/de581103-bbfe-4ebd-939c-6b92e7a7fa23.png",
-      "summary": "IT之家 9 月 19 日消息，苹果公司昨日（9 月 18 日）发布博文，分享了苹果全球 Apple Store 线下发售 iPhone 18 Pro、iPhone 18 Pro Max 等新品场景， 其首席执行官约翰 · 特努斯（John Ternus）在第五大道 Apple Store 欢迎顾客选购。 特努斯在推文中写道：“苹果第五大道店…… 真是个美…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-86ab3b2d5dfd",
-      "title": "马里布：苹果首款折叠 iPhone Duo 铰链无松垮感、有信心遏制折痕加深",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-19",
-      "time": "01:25",
-      "publishedAt": "2026-09-19T01:25:11.000Z",
-      "url": "https://www.ithome.com/1/004/383.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/54c35cc8-402e-401f-9b5c-bc2e9d83cb6d.png",
-      "summary": "IT之家 9 月 19 日消息，科技媒体 techradar 昨日（9 月 18 日）发布博文，采访了苹果 新任硬件工程副总裁汤姆 · 马里布（Tom Marieb，该职位此前由苹果现任 CEO 特努斯担任）， 围绕着苹果首款折叠 iPhone Duo 的铰链设计和折痕等用户关心话题展开。 在采访中，马里布表示折叠手机的核心风险就是铰链的耐用性。普通用户会…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c1bab834e266",
-      "title": "苹果推出新音乐视频，聚焦展示 iPhone 18 Pro 可变光圈实力",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-19",
-      "time": "00:56",
-      "publishedAt": "2026-09-19T00:56:37.000Z",
-      "url": "https://www.ithome.com/1/004/380.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/ef411f51-a4c7-4c4f-94d4-665d57e390e3.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 19 日消息，科技媒体 AppleInsider 昨日（9 月 18 日）发布博文，报道称苹果发布 35 秒“Shot on iPhone”音乐短片， 以韩国流行歌手 Rosé 的歌曲《new trick》展示 iPhone 18 Pro 影像功能。 35 秒版本 完整版本由网友 ChiCheChaChu 上传 B 站 苹果称，这支音乐短…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -622,26 +782,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-5e89684f6788",
-      "title": "低人一等的日版18pm简评，首先是大家说的这个屏下，只能说你平时不闲的没事去找它，完全看不到，如果你非说我没事就喜欢看，那你不适合用手机，但是比较恶心的是，由于这个圆圈内的分辨率降低了，又恰好是显示小时的地方，这就导致前面的小时分辨率低，颗粒感严重，与后面的分钟反差很大，这点才是最烦人的，还有就是贴官方膜的过程很不爽，300块钱的膜，给贴的是17pm的，说是通用，但是换了两张依旧白边很严重，要是100我都不纠结了，300是不是有些说不过去。",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-19",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73831781",
-      "image": "",
-      "summary": "低人一等的日版18pm简评，首先是大家说的这个屏下，只能说你平时不闲的没事去找它，完全看不到，如果你非说我没事就喜欢看，那你不适合用手机，但是比较恶心的是，由于这个圆圈内的分辨率降低了，又恰好是显示小时的地方，这就导致前面的小时分辨率低，颗粒感严重，与后面的分钟反差很大，这点才是最烦人的，还有就是贴官方膜的过程很不爽，300块钱的膜，给贴的是17pm的，说…",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-cbf25fbaa18d",
       "title": "iPhone18Pro 1TB实锤是QLC颗粒，真是起了个坏头，QLC颗粒读写速度更慢，使用寿命更短，写入速度、耐用性和持续性能表现较弱。幸好256和512GB还是TLC颗粒。#iPhone18# #数码日常# #iPhone18ProMax#",
       "source": "酷安热榜",
@@ -662,61 +802,41 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-e1e27e2c1a57",
-      "title": "真见鬼了，新手机拿到激活开机居然是这个页面，怀疑工厂测试没抹除干净，服了 #iPhone18Pro系列首发上手#",
+      "id": "newsnow-5e89684f6788",
+      "title": "低人一等的日版18pm简评，首先是大家说的这个屏下，只能说你平时不闲的没事去找它，完全看不到，如果你非说我没事就喜欢看，那你不适合用手机，但是比较恶心的是，由于这个圆圈内的分辨率降低了，又恰好是显示小时的地方，这就导致前面的小时分辨率低，颗粒感严重，与后面的分钟反差很大，这点才是最烦人的，还有就是贴官方膜的过程很不爽，300块钱的膜，给贴的是17pm的，说是通用，但是换了两张依旧白边很严重，要是100我都不纠结了，300是不是有些说不过去。",
       "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-19",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73829360",
+      "url": "https://www.coolapk.com/feed/73831781",
       "image": "",
-      "summary": "真见鬼了，新手机拿到激活开机居然是这个页面，怀疑工厂测试没抹除干净，服了 #iPhone18Pro系列首发上手#",
+      "summary": "低人一等的日版18pm简评，首先是大家说的这个屏下，只能说你平时不闲的没事去找它，完全看不到，如果你非说我没事就喜欢看，那你不适合用手机，但是比较恶心的是，由于这个圆圈内的分辨率降低了，又恰好是显示小时的地方，这就导致前面的小时分辨率低，颗粒感严重，与后面的分钟反差很大，这点才是最烦人的，还有就是贴官方膜的过程很不爽，300块钱的膜，给贴的是17pm的，说…",
       "tags": [
-        "iPhone",
+        "行业",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-f2d8a205b580",
-      "title": "2026年第37周国内手机市场份额曝光：华为占比27%",
+      "id": "newsnow-18ea9a78106a",
+      "title": "荣耀 Magic9 Pro Max 预热：双 3D 生物识别",
       "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-19",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73826081",
+      "url": "https://www.coolapk.com/feed/73844322",
       "image": "",
-      "summary": "2026年第37周国内手机市场份额曝光：华为占比27%",
+      "summary": "荣耀 Magic9 Pro Max 预热：双 3D 生物识别",
       "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-17c8c30c2e0c",
-      "title": "iPhone18Pro1TB采用QLC",
-      "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-09-19",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=iPhone18Pro1TB%E9%87%87%E7%94%A8QLC&t=31&band_rank=9&Refer=top",
-      "image": "",
-      "summary": "iPhone18Pro1TB采用QLC",
-      "tags": [
-        "iPhone",
+        "HONOR",
         "爆料",
         "NewsNow"
       ]
@@ -743,7 +863,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "newsnow-3a553e6375d6",
-      "title": "iPhone18Pro 被曝高价版混用 QLC 闪存，苹果是出于何种考量？",
+      "title": "iPhone 18 Pro 被曝高价版用 QLC 闪存，这会对用户体验带来多大影响？",
       "source": "知乎热榜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -754,7 +874,7 @@ window.phoneRadarAuto = {
       "publishedAt": "",
       "url": "https://www.zhihu.com/question/2059024722852058800",
       "image": "",
-      "summary": "iPhone18Pro 被曝高价版混用 QLC 闪存，苹果是出于何种考量？",
+      "summary": "iPhone 18 Pro 被曝高价版用 QLC 闪存，这会对用户体验带来多大影响？",
       "tags": [
         "iPhone",
         "市场报告",
@@ -762,8 +882,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-938a96626ba7",
-      "title": "iPhone18一天使用感受",
+      "id": "newsnow-b6b2e9519c92",
+      "title": "iPhone18 Pro Max充电实测",
       "source": "B站热搜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -772,11 +892,31 @@ window.phoneRadarAuto = {
       "date": "2026-09-19",
       "time": "",
       "publishedAt": "",
-      "url": "https://search.bilibili.com/all?keyword=iPhone18%E4%B8%80%E5%A4%A9%E4%BD%BF%E7%94%A8%E6%84%9F%E5%8F%97",
+      "url": "https://search.bilibili.com/all?keyword=iPhone18%20Pro%20Max%E5%85%85%E7%94%B5%E5%AE%9E%E6%B5%8B",
       "image": "",
-      "summary": "iPhone18一天使用感受",
+      "summary": "iPhone18 Pro Max充电实测",
       "tags": [
         "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-ebc99ec82e41",
+      "title": "“藏手机神器”热销 家长担心",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-19",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%97%8F%E6%89%8B%E6%9C%BA%E7%A5%9E%E5%99%A8%E2%80%9D%E7%83%AD%E9%94%80+%E5%AE%B6%E9%95%BF%E6%8B%85%E5%BF%83",
+      "image": "",
+      "summary": "“藏手机神器”热销 家长担心",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -962,26 +1102,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-753891a0390b",
-      "title": "竹本青：夕夕的600元现在随便领了还是怎么，这大晚上领到容易冲动消费啊 #酷安夜话#",
-      "source": "竹本青",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-18",
-      "time": "16:19",
-      "publishedAt": "2026-09-18T16:19:57.000Z",
-      "url": "https://www.coolapk.com/feed/73839682",
-      "image": "http://image.coolapk.com/feed/2026/0919/00/4248714_8f199c5f_8396_9099_568@1440x682.jpg",
-      "summary": "夕夕的600元现在随便领了还是怎么，这大晚上领到容易冲动消费啊 #酷安夜话#",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-c8737959db5b",
       "title": "I love Pixel 11's Rambler, but SwiftKey just gave every Android phone a free alternative",
       "source": "Android Police",
@@ -1162,26 +1282,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-5dac32e20b70",
-      "title": "The iPhone 18 doesn't exist, but these Android alternatives are better anyway",
-      "source": "Android Police",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-18",
-      "time": "13:30",
-      "publishedAt": "2026-09-18T13:30:10.000Z",
-      "url": "https://www.androidpolice.com/the-iphone-18-doesnt-exist-android-alternatives-beat-it/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/02/samsung-galaxy-s26-plus-front-screen-1.jpg",
-      "summary": "Apple leaves the mid-range to those who do it best",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-41d1a1a3a2dd",
       "title": "OnePlus 16 clears 3C certification, confirms 100W wired charging",
       "source": "Gizmochina",
@@ -1219,26 +1319,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-dccaaa43edb1",
-      "title": "竹本青：【荣耀Magic9 系列 预热：阿莱电影实况】 阿莱电影实况 —— 号称3秒拍出电影感 在阿莱电影模式下，长按快门…",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-18",
-      "time": "12:57",
-      "publishedAt": "2026-09-18T12:57:56.000Z",
-      "url": "https://www.coolapk.com/feed/73835715",
-      "image": "http://image.coolapk.com/feed/2026/0918/20/4248714_3fc2f28d_6275_1925_435-livepic@3842x1610.jpg",
-      "summary": "【荣耀Magic9 系列 预热：阿莱电影实况】 阿莱电影实况 —— 号称3秒拍出电影感 在阿莱电影模式下，长按快门，即可主动录制一段3秒视频，还加入了2.39:1宽画幅与阿莱 9大主题、87种电影Look。 #今日热点# #MagicOS11# #荣耀Magic9ProMax#",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -1282,26 +1362,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-c83d4aa78643",
-      "title": "Huawei Pura X View made new record in flagship first-week sales",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-18",
-      "time": "11:19",
-      "publishedAt": "2026-09-18T11:19:38.000Z",
-      "url": "https://www.huaweicentral.com/huawei-pura-x-view-made-new-record-in-flagship-first-week-sales/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/Pura-X-View-img.jpg",
-      "summary": "Huawei Pura X View continues to surprise consumers with its amazing sales, and the wide flat-screen smartphone has set a new record in flagship first-week shipments. A new piece o…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-a4e45ec4b332",
       "title": "Galaxy S27 Pro, S27 Ultra charging and battery specs just leaked, and it’s good news",
       "source": "Android Authority",
@@ -1337,26 +1397,6 @@ window.phoneRadarAuto = {
       "summary": "Android manufacturers need to learn how to tell a story.",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-51c418f4841f",
-      "title": "Huawei is up with another wide-screen phone, for Pura 100 series?",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-18",
-      "time": "09:16",
-      "publishedAt": "2026-09-18T09:16:41.000Z",
-      "url": "https://www.huaweicentral.com/huawei-is-up-with-another-wide-screen-phone-for-pura-100-series/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/08/PuraX-View-vs-Pura-X-Max.jpg",
-      "summary": "Huawei is seemingly up with another wide-screen product, which will likely debut with the camera flagship Pura 100 series next year. However, is it a foldable phone or something s…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
