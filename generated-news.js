@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-19T17:17:06.945Z",
+  "updatedAt": "2026-09-19T20:38:48.878Z",
   "news": [
     {
       "id": "weibo-03df0595347b",
@@ -10,8 +10,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-19",
-      "time": "17:17",
-      "publishedAt": "2026-09-19T17:17:06.945Z",
+      "time": "20:38",
+      "publishedAt": "2026-09-19T20:38:48.878Z",
       "url": "https://weibo.com/6048569942/RiH3gugUA",
       "image": "",
       "summary": "新形态确实更受欢迎，接下来2027Q1还有两台阔折叠新机，第一台安卓阔直板争取3月，其他家刚刚立项，争取明年下半年能上线……[流鼻血]",
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-19",
-      "time": "17:17",
-      "publishedAt": "2026-09-19T17:17:06.945Z",
+      "time": "20:38",
+      "publishedAt": "2026-09-19T20:38:48.878Z",
       "url": "https://weibo.com/6048569942/RiFWS9xw3",
       "image": "",
       "summary": "华为Pura X View阔直板首周激活销量约28.2W，实销均价约7000，开售时间5天，W37全品牌单品销量第一，同时助力华为品牌份额新高。",
@@ -50,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-19",
-      "time": "17:17",
-      "publishedAt": "2026-09-19T17:17:06.945Z",
+      "time": "20:38",
+      "publishedAt": "2026-09-19T20:38:48.878Z",
       "url": "https://weibo.com/6048569942/RiFoMbpsR",
       "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1ih7pzfskxij349o37a7wl.jpg",
       "summary": "iPhone 18 Pro，小灵动岛是做了屏下红外泛光器，位于屏幕左上角，因为像素量需求不高，隐藏性优于iPhone Duo的真•屏下摄像头。 这就是iPhone直板机的技术路线了，一步步缩小灵动岛，直到正面是一块无缺的真•全面屏[吃瓜]",
@@ -70,8 +70,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-19",
-      "time": "17:17",
-      "publishedAt": "2026-09-19T17:17:06.945Z",
+      "time": "20:38",
+      "publishedAt": "2026-09-19T20:38:48.878Z",
       "url": "https://weibo.com/6048569942/RiEOBDDKV",
       "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ih7oq7mgv3j64jk3eox6s08.jpg",
       "summary": "iPhone 18 Pro，这个红色和小灵动岛喜欢吗[笑而不语]",
@@ -90,8 +90,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-19",
-      "time": "17:17",
-      "publishedAt": "2026-09-19T17:17:06.945Z",
+      "time": "20:38",
+      "publishedAt": "2026-09-19T20:38:48.878Z",
       "url": "https://weibo.com/6048569942/RiwpTjGHp",
       "image": "https://tvax3.sinaimg.cn/mw2000/a66d0169ly8ih6jy2xr2mj24jk3eox6q.jpg",
       "summary": "听说买华为阔直板的人30%来自苹果手机用户，话说你们看惯了阔比例，再看苹果那种传统比例，会不会觉得怪怪的……[笑而不语]",
@@ -99,6 +99,46 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "微博"
+      ]
+    },
+    {
+      "id": "coolapk-user-033822fb4efc",
+      "title": "竹本青：【消息称小米18 Fold 开售7天激活销量近8万台，创小米历史最高】 9月20日资讯，博主「RD观测」昨日分享第…",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-19",
+      "time": "18:46",
+      "publishedAt": "2026-09-19T18:46:33.000Z",
+      "url": "https://www.coolapk.com/feed/73860301",
+      "image": "http://image.coolapk.com/feed/2026/0920/02/4248714_13ccf869_3592_6477_927@1440x379.jpg",
+      "summary": "【消息称小米18 Fold 开售7天激活销量近8万台，创小米历史最高】 9月20日资讯，博主「RD观测」昨日分享第三方统计的小米18 Fold首销情况。以开售7日为标准，激活销量接近8万台。创小米历史最高，今年同期仅次于华为折叠屏手机。 此前9月12日，该博主曾分享小米18 Fold开售当日销量达3.6万台。 #今日热点# #小米18Fold# #Hype…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-81fd600d6dd8",
+      "title": "Google is quietly giving away this $120 freebie with every Pixel 11 Pro purchase",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-19",
+      "time": "17:30",
+      "publishedAt": "2026-09-19T17:30:10.000Z",
+      "url": "https://www.androidpolice.com/make-sure-you-get-pixel-11-pro-freebie/",
+      "image": "",
+      "summary": "Don't miss this $119 Pixel 11 Pro perk",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -182,26 +222,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-6831fc7d1bfa",
-      "title": "Huawei Pura X Max hits 1.2 million shipments with No. 1 user satisfaction rate",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-19",
-      "time": "14:23",
-      "publishedAt": "2026-09-19T14:23:40.000Z",
-      "url": "https://www.huaweicentral.com/huawei-pura-x-max-hits-1-2-million-shipments/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/09/PuraX-Max-foldable.jpg",
-      "summary": "Huawei announced that the first “dual-sided wide-screen phone” – Pura X Max has made 1.2 million shipments in just four months since its launch and even achieved the No.1 user sat…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-4b1ef6924197",
       "title": "Our top iPhone 18 Pro accessories to upgrade your setup [Updated]",
       "source": "9to5Mac",
@@ -257,46 +277,6 @@ window.phoneRadarAuto = {
       "summary": "IT之家 9 月 19 日消息，Clicks 首款智能手机 Clicks Communicator 定于 12 月开始发货，时间点距离在 CES 2026 首次亮相接近一年。 正式上市前，量产版机型迎来了多项规格升级，但价格也将在 10 月 1 日上调。目前，用户仍可按原价 499 美元 （IT之家注：现汇率约合 3,350 元人民币） 预约，10 月 1…",
       "tags": [
         "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f3d991b08428",
-      "title": "Huawei Mate 90 first teaser could be out next week, launch on Sept 28?",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-19",
-      "time": "12:46",
-      "publishedAt": "2026-09-19T12:46:44.000Z",
-      "url": "https://www.huaweicentral.com/huawei-mate-90-first-teaser/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/02/Mate80-phone2.jpg",
-      "summary": "Huawei Mate 90 series first teaser is still behind the scenes, creating doubts about its rumored launch date of September 23. However, it looks like the company could begin the wa…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d3bb085238b0",
-      "title": "iPhone 18 Pro ranks 2nd on DXOMARK, Huawei Pura 80 Ultra remains at top",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-19",
-      "time": "12:00",
-      "publishedAt": "2026-09-19T12:00:48.000Z",
-      "url": "https://www.huaweicentral.com/iphone-18-pro-ranks-2nd-on-dxomark/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/09/iPhone-18-Pro.jpg",
-      "summary": "Apple has launched the iPhone 18 Pro, which has now stepped onto one of the top camera benchmark platforms – DXOMARK. The device has shown really strong photography and video-shoo…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
@@ -417,26 +397,6 @@ window.phoneRadarAuto = {
       "summary": "The Vivo S2 FE has now shown up on Geekbench, giving us a first look at how the phone performs. The listing comes after model number V2640 was spotted on Bluetooth SIG and the BIS…",
       "tags": [
         "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-7f2d3164519b",
-      "title": "Honor Magic 9 will continue to use dual 3D biometric features",
-      "source": "Huawei Central",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-19",
-      "time": "09:38",
-      "publishedAt": "2026-09-19T09:38:24.000Z",
-      "url": "https://www.huaweicentral.com/honor-magic-9-will-continue-to-use-dual-3d-biometric-features/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/09/3D-biometric.jpg",
-      "summary": "Honor Magic 9 series will not only impress with its camera technologies or design upgrades but also with its “dual 3D biometric” features. It is going to be the first flagship sma…",
-      "tags": [
-        "HONOR",
         "爆料",
         "自动抓取"
       ]
@@ -597,46 +557,6 @@ window.phoneRadarAuto = {
       "summary": "【OPPO Find X10系列 预热：舞台模式、哈苏增距镜套装】 ● 视频实况一拍多出 ● 舞台演出专用预设 ● 新哈苏增距镜套装 #今日热点# #OPPOFindX10# #OPPOFindX10ProMax#",
       "tags": [
         "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-508c8088685f",
-      "title": "Huawei Pura 100 series tipped to bring DSLR-style external camera lens",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-19",
-      "time": "05:58",
-      "publishedAt": "2026-09-19T05:58:57.000Z",
-      "url": "https://www.huaweicentral.com/huawei-pura-100-series-external-camera-lens/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/03/pura-camera.jpg",
-      "summary": "Amid the Mate 90 series launch preparations, Huawei Pura 100 has started garnering attention for its camera upgrades, and the latest information talks about a special external len…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-0126899957ea",
-      "title": "竹本青：HONOR Life 墨水屏官宣： 9天后登场",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-19",
-      "time": "05:48",
-      "publishedAt": "2026-09-19T05:48:42.000Z",
-      "url": "https://www.coolapk.com/feed/73847682",
-      "image": "http://image.coolapk.com/feed/2026/0919/13/4248714_adfac6e8_6921_4971_12@1280x1920.jpg",
-      "summary": "【HONOR Life 墨水屏 官宣9天后登场】 9月19日，HONOR Life 墨水屏 发布预告海报，官宣新品9天后正式登场。该信息发布账号通过企业认证，显示主体为北京盛越时尚科技有限公司。 #今日热点# #墨水屏# #MagicOS11#",
-      "tags": [
-        "HONOR",
         "爆料",
         "酷安博主"
       ]
@@ -902,6 +822,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-c10dcac22885",
+      "title": "兄弟萌这个买来送我刚上大学的的老妹 应该够用吧 是不是买贵了很多[流泪] #小米17ProMax# #REDMIK100ProMax# #小米15#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-19",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73838648",
+      "image": "",
+      "summary": "兄弟萌这个买来送我刚上大学的的老妹 应该够用吧 是不是买贵了很多[流泪] #小米17ProMax# #REDMIK100ProMax# #小米15#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-cbf25fbaa18d",
       "title": "iPhone18Pro 1TB实锤是QLC颗粒，真是起了个坏头，QLC颗粒读写速度更慢，使用寿命更短，写入速度、耐用性和持续性能表现较弱。幸好256和512GB还是TLC颗粒。#iPhone18# #数码日常# #iPhone18ProMax#",
       "source": "酷安热榜",
@@ -942,41 +882,41 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-a82d07e3c634",
-      "title": "ColorOS、OriginOS、MagicOS迎来大版本更新；努比亚NaviX Ultra正式发布；赛力斯与华为合作模式调整；此外还有多条新机及芯片爆料消息值得关注。",
+      "id": "newsnow-d706579dffc7",
+      "title": "#酷安夜话# 算上基金，亏了40个馒头，要是买小米su7max该多好啊[喷] #iPhone18ProMax# #小米18ProMax#",
       "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-19",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73832971",
+      "url": "https://www.coolapk.com/feed/73854510",
       "image": "",
-      "summary": "ColorOS、OriginOS、MagicOS迎来大版本更新；努比亚NaviX Ultra正式发布；赛力斯与华为合作模式调整；此外还有多条新机及芯片爆料消息值得关注。",
+      "summary": "#酷安夜话# 算上基金，亏了40个馒头，要是买小米su7max该多好啊[喷] #iPhone18ProMax# #小米18ProMax#",
       "tags": [
-        "Huawei",
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-5e89684f6788",
-      "title": "低人一等的日版18pm简评，首先是大家说的这个屏下，只能说你平时不闲的没事去找它，完全看不到，如果你非说我没事就喜欢看，那你不适合用手机，但是比较恶心的是，由于这个圆圈内的分辨率降低了，又恰好是显示小时的地方，这就导致前面的小时分辨率低，颗粒感严重，与后面的分钟反差很大，这点才是最烦人的，还有就是贴官方膜的过程很不爽，300块钱的膜，给贴的是17pm的，说是通用，但是换了两张依旧白边很严重，要是100我都不纠结了，300是不是有些说不过去。",
+      "id": "newsnow-65f51c101763",
+      "title": "看了大帅拆解,这代iPhone18Pro Max性能+散热+续航三丰收,应该是史上最强钉子户了 #iPhone18Pro系列首发上手# #iPhone18# #数码日常#",
       "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-19",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73831781",
+      "url": "https://www.coolapk.com/feed/73826971",
       "image": "",
-      "summary": "低人一等的日版18pm简评，首先是大家说的这个屏下，只能说你平时不闲的没事去找它，完全看不到，如果你非说我没事就喜欢看，那你不适合用手机，但是比较恶心的是，由于这个圆圈内的分辨率降低了，又恰好是显示小时的地方，这就导致前面的小时分辨率低，颗粒感严重，与后面的分钟反差很大，这点才是最烦人的，还有就是贴官方膜的过程很不爽，300块钱的膜，给贴的是17pm的，说…",
+      "summary": "看了大帅拆解,这代iPhone18Pro Max性能+散热+续航三丰收,应该是史上最强钉子户了 #iPhone18Pro系列首发上手# #iPhone18# #数码日常#",
       "tags": [
-        "行业",
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -1002,7 +942,27 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-bb431f244503",
+      "id": "newsnow-a82d07e3c634",
+      "title": "ColorOS、OriginOS、MagicOS迎来大版本更新；努比亚NaviX Ultra正式发布；赛力斯与华为合作模式调整；此外还有多条新机及芯片爆料消息值得关注。",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-19",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73832971",
+      "image": "",
+      "summary": "ColorOS、OriginOS、MagicOS迎来大版本更新；努比亚NaviX Ultra正式发布；赛力斯与华为合作模式调整；此外还有多条新机及芯片爆料消息值得关注。",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-e414c498cab9",
       "title": "王源演唱会结束打开手机一看天塌了",
       "source": "微博热搜",
       "brand": "行业",
@@ -1012,12 +972,32 @@ window.phoneRadarAuto = {
       "date": "2026-09-19",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E6%BC%94%E5%94%B1%E4%BC%9A%E7%BB%93%E6%9D%9F%E6%89%93%E5%BC%80%E6%89%8B%E6%9C%BA%E4%B8%80%E7%9C%8B%E5%A4%A9%E5%A1%8C%E4%BA%86%23&t=31&band_rank=4&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E6%BC%94%E5%94%B1%E4%BC%9A%E7%BB%93%E6%9D%9F%E6%89%93%E5%BC%80%E6%89%8B%E6%9C%BA%E4%B8%80%E7%9C%8B%E5%A4%A9%E5%A1%8C%E4%BA%86%23&t=31&band_rank=11&Refer=top",
       "image": "",
       "summary": "王源演唱会结束打开手机一看天塌了",
       "tags": [
         "行业",
         "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-cc854402d1bc",
+      "title": "iPhone 18 Pro 首销，门店排长队，Pro Max 加价抢，Pro 破发无人收，为什么差距这么大？",
+      "source": "知乎热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-09-19",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2084214698082301838",
+      "image": "",
+      "summary": "iPhone 18 Pro 首销，门店排长队，Pro Max 加价抢，Pro 破发无人收，为什么差距这么大？",
+      "tags": [
+        "iPhone",
+        "市场报告",
         "NewsNow"
       ]
     },
@@ -1042,21 +1022,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-e4c2b173e839",
-      "title": "沉浸式拆解iPhone 18 Pro",
-      "source": "B站热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "id": "newsnow-c59ca11483fa",
+      "title": "华为Mate90系列爆料汇总",
+      "source": "今日头条热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-09-19",
       "time": "",
       "publishedAt": "",
-      "url": "https://search.bilibili.com/all?keyword=%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%8B%86%E8%A7%A3iPhone%2018%20Pro",
+      "url": "https://www.toutiao.com/trending/7686836570409861183/",
       "image": "",
-      "summary": "沉浸式拆解iPhone 18 Pro",
+      "summary": "华为Mate90系列爆料汇总",
       "tags": [
-        "iPhone",
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
@@ -1417,26 +1397,6 @@ window.phoneRadarAuto = {
       "summary": "OnePlus looks just about ready to show off its next flagship. The OnePlus 16 has now picked up China’s 3C certification, which means it’s cleared all three mandatory approvals nee…",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-fbfda09fda8b",
-      "title": "Fan Site Lets You 'Design the Next iPhone'",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-18",
-      "time": "13:02",
-      "publishedAt": "2026-09-18T13:02:14.000Z",
-      "url": "https://www.macrumors.com/2026/09/18/fan-site-lets-you-design-the-next-iphone/",
-      "image": "https://images.macrumors.com/article-new/2026/09/design-the-next-iphone.jpg",
-      "summary": "\" Design the Next iPhone ,\" an interactive website from developer Neal Agarwal, gives users control over a virtual iPhone's look, including the option to combine conventional smar…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]

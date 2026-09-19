@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-19T17:17:06.945Z",
+  "updatedAt": "2026-09-19T20:38:48.878Z",
   "issueDate": "2026-09-19",
   "issue": "VOL.260919",
   "title": "手机情报日报",
@@ -49,8 +49,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-09-19",
-          "time": "17:17",
-          "publishedAt": "2026-09-19T17:17:06.945Z",
+          "time": "20:38",
+          "publishedAt": "2026-09-19T20:38:48.878Z",
           "url": "https://weibo.com/6048569942/RiFoMbpsR",
           "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1ih7pzfskxij349o37a7wl.jpg",
           "verdict": "先看",
@@ -73,8 +73,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-09-19",
-          "time": "17:17",
-          "publishedAt": "2026-09-19T17:17:06.945Z",
+          "time": "20:38",
+          "publishedAt": "2026-09-19T20:38:48.878Z",
           "url": "https://weibo.com/6048569942/RiEOBDDKV",
           "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ih7oq7mgv3j64jk3eox6s08.jpg",
           "verdict": "先看",
@@ -103,6 +103,29 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "何同学和极客湾哪一个出错了？ #iPhone18ProMax# #iPhone17ProMax# 控制变量，散热板都是同样升级了，而且pm散热提升更多一些，不论是17pro到18pro还是17pm到18pm，都是升级a20pro。但是两家测评模型pm续航都是提升了2h,但是18pm对比17pm电池提升了600毫安18pro对比17pro提升了60毫安",
           "detail": "何同学和极客湾哪一个出错了？ #iPhone18ProMax# #iPhone17ProMax# 控制变量，散热板都是同样升级了，而且pm散热提升更多一些，不论是17pro到18pro还是17pm到18pm，都是升级a20pro。但是两家测评模型pm续航都是提升了2h,但是18pm对比17pm电池提升了600毫安18pro对比17pro提升了60毫安",
+          "keyPoints": [
+            "电池 / 充电"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-65f51c101763",
+          "title": "看了大帅拆解,这代iPhone18Pro Max性能+散热+续航三丰收,应该是史上最强钉子户了 #iPhone18Pro系列首发上手# #iPhone18# #数码日常#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-09-19",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73826971",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "看了大帅拆解,这代iPhone18Pro Max性能+散热+续航三丰收,应该是史上最强钉子户了 #iPhone18Pro系列首发上手# #iPhone18# #数码日常#",
+          "detail": "看了大帅拆解,这代iPhone18Pro Max性能+散热+续航三丰收,应该是史上最强钉子户了 #iPhone18Pro系列首发上手# #iPhone18# #数码日常#",
           "keyPoints": [
             "电池 / 充电"
           ],
@@ -174,29 +197,6 @@ window.phoneRadarDaily = {
           "detail": "新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试",
           "keyPoints": [
             "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-ba6d21beb6d9",
-          "title": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-09-19",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/114084",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
-          "detail": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
-          "keyPoints": [
-            "屏幕形态"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
