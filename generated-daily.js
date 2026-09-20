@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-20T11:21:48.148Z",
+  "updatedAt": "2026-09-20T16:04:37.765Z",
   "issueDate": "2026-09-20",
   "issue": "VOL.260920",
   "title": "手机情报日报",
-  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 10 条 iPhone 相关、2 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 11 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 18,
-    "iphone": 10,
+    "total": 12,
+    "iphone": 11,
     "leaks": 8,
-    "official": 2,
+    "official": 1,
     "specs": 0
   },
   "sections": [
@@ -17,6 +17,52 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-b51264f6e29a",
+          "title": "IT之家专访苹果 iPhone 营销副总裁凯安 · 德兰斯：iPhone Duo 追求最终用户体验，而不仅仅是为了技术",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-20",
+          "time": "15:38",
+          "publishedAt": "2026-09-20T15:38:01.000Z",
+          "url": "https://www.ithome.com/1/005/013.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/bf7ed9dd-93c5-48af-978c-935f3c5f6128.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 9 月 20 日消息，北京时间 9 月 10 日凌晨 1 点，苹果传闻已久的首款折叠屏手机 iPhone Duo 终于亮相，iPhone 18 Pro 系列同步上新，这也是新任 CEO 约翰 · 特努斯（John Ternus）执掌苹果后的首秀。 9 月 17 日，苹果全球 iPhone 产品市场营销副总裁 凯安 · 德兰斯（Kaiann Dra…",
+          "detail": "IT之家 9 月 20 日消息，北京时间 9 月 10 日凌晨 1 点，苹果传闻已久的首款折叠屏手机 iPhone Duo 终于亮相，iPhone 18 Pro 系列同步上新，这也是新任 CEO 约翰 · 特努斯（John Ternus）执掌苹果后的首秀。 9 月 17 日，苹果全球 iPhone 产品市场营销副总裁 凯安 · 德兰斯（Kaiann Dra…",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-60ee1b6d3655",
+          "title": "苹果 iPhone 18 Pro 系列手机国内首销情况曝光：开售日约 32.28 万台，约为 iPhone 17 Pro 系列的 130%",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-20",
+          "time": "08:46",
+          "publishedAt": "2026-09-20T08:46:31.000Z",
+          "url": "https://www.ithome.com/1/004/875.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/ac69455f-37ef-428e-9154-55f6dd84df78.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 9 月 20 日消息，长期关注国内手机市场份额的数码博主 @RD观测 今日爆料，苹果 iPhone 18 Pro 系列手机的开售日销量（Sell out）约为 32.28 万台，约为 iPhone 17 Pro 系列的 130%。 iPhone 18 Pro 占约 44.5% iPhone 18 Pro Max 占约 55.5% 据IT之家此前报…",
+          "detail": "IT之家 9 月 20 日消息，长期关注国内手机市场份额的数码博主 @RD观测 今日爆料，苹果 iPhone 18 Pro 系列手机的开售日销量（Sell out）约为 32.28 万台，约为 iPhone 17 Pro 系列的 130%。 iPhone 18 Pro 占约 44.5% iPhone 18 Pro Max 占约 55.5% 据IT之家此前报…",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-157e2a2c982f",
           "title": "专访苹果高管，揭秘 iPhone Duo 幕后工程和设计哲学 副本",
@@ -49,8 +95,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-09-20",
-          "time": "11:21",
-          "publishedAt": "2026-09-20T11:21:48.148Z",
+          "time": "16:04",
+          "publishedAt": "2026-09-20T16:04:37.765Z",
           "url": "https://weibo.com/6048569942/RiFoMbpsR",
           "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1ih7pzfskxij349o37a7wl.jpg",
           "verdict": "先看",
@@ -58,6 +104,53 @@ window.phoneRadarDaily = {
           "detail": "iPhone 18 Pro，小灵动岛是做了屏下红外泛光器，位于屏幕左上角，因为像素量需求不高，隐藏性优于iPhone Duo的真•屏下摄像头。 这就是iPhone直板机的技术路线了，一步步缩小灵动岛，直到正面是一块无缺的真•全面屏[吃瓜]",
           "keyPoints": [
             "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-8309b8cb7beb",
+          "title": "隔壁🍠挑iPhone屏幕的高人，一年退货可能达70台…… #iPhone17# #iPhone18#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-09-20",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73860575",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "隔壁🍠挑iPhone屏幕的高人，一年退货可能达70台…… #iPhone17# #iPhone18#",
+          "detail": "隔壁🍠挑iPhone屏幕的高人，一年退货可能达70台…… #iPhone17# #iPhone18#",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-55a4cc56aebc",
+          "title": "iPhone 外观设计线索曝光",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-20",
+          "time": "14:38",
+          "publishedAt": "2026-09-20T14:38:43.000Z",
+          "url": "https://9to5mac.com/2026/09/20/heres-why-apple-scrapped-its-shorter-apple-pencil-designed-for-iphone-duo-report/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-side-angle-unfolded.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "iPhone 外观设计线索曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
+          "detail": "iPhone 外观设计线索曝光。这类内容主要看外观设计、按键布局、相机模组和尺寸变化，后续最好等更多渲染图或保护壳线索互相验证。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
@@ -103,104 +196,6 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
           "detail": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-20d0e8098113",
-          "title": "iPhone 相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-19",
-          "time": "04:51",
-          "publishedAt": "2026-09-19T04:51:11.000Z",
-          "url": "https://www.macrumors.com/2026/09/19/apple-exec-iphone-crease/",
-          "image": "https://images.macrumors.com/article-new/2026/09/iphone-duo-weather.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-2b741e463901",
-          "title": "数码闲聊站：小米18 Pro系列——全系2nm旗舰芯，全系M11 RGB OLED双尺寸直…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-09-20",
-          "time": "11:21",
-          "publishedAt": "2026-09-20T11:21:48.148Z",
-          "url": "https://weibo.com/6048569942/RiWVBd9r0",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "小米18 Pro系列——全系2nm旗舰芯，全系M11 RGB OLED双尺寸直屏，全系0.99mm四等边，全系徕卡双2亿影像，Pro 7000mAh，Pro Max 8500mAh",
-          "detail": "小米18 Pro系列——全系2nm旗舰芯，全系M11 RGB OLED双尺寸直屏，全系0.99mm四等边，全系徕卡双2亿影像，Pro 7000mAh，Pro Max 8500mAh",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "影像硬件",
-            "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-14ff0721abc8",
-          "title": "数码闲聊站：9月各家大厂的新旗舰扎堆发布，市场竞争空前激烈，新机定价压力也空前得大。芯片内…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-09-20",
-          "time": "11:21",
-          "publishedAt": "2026-09-20T11:21:48.148Z",
-          "url": "https://weibo.com/6048569942/RiWoTBn7L",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "9月各家大厂的新旗舰扎堆发布，市场竞争空前激烈，新机定价压力也空前得大。芯片内存大涨后，各家都开始疯狂卷视频，尤其荣耀新引入arri这种影像合作，价格压力就更大了。 如果9月准备换机，建议等这一波旗舰机全都发完，看看哪个系列哪个版本适合自己，再比一比视频、续航、性能还有价格。谁家产品更有竞争力，谁家产品价格更有诚意，就买谁。",
-          "detail": "9月各家大厂的新旗舰扎堆发布，市场竞争空前激烈，新机定价压力也空前得大。芯片内存大涨后，各家都开始疯狂卷视频，尤其荣耀新引入arri这种影像合作，价格压力就更大了。 如果9月准备换机，建议等这一波旗舰机全都发完，看看哪个系列哪个版本适合自己，再比一比视频、续航、性能还有价格。谁家产品更有竞争力，谁家产品价格更有诚意，就买谁。",
-          "keyPoints": [
-            "影像硬件",
-            "电池 / 充电",
-            "芯片 / 性能",
-            "成本 / 价格"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-a2c00c6e82ef",
-          "title": "今年但凡对屏幕有一点要求的都不会选择18pro系列，苹果是绝对不会欺骗消费者的，官方宣布屏幕降本就真的降本了。18pro系列不管是三星屏还是LG屏统统发红，最不能接受的是暗阶显示缩水严重。在直营店看了10台演示机没有一台能逃脱苹果的屏幕降本结果。 #iPhone17ProMax# #iPhone18Pro# #iPhone17Pro#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-09-20",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73853104",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "今年但凡对屏幕有一点要求的都不会选择18pro系列，苹果是绝对不会欺骗消费者的，官方宣布屏幕降本就真的降本了。18pro系列不管是三星屏还是LG屏统统发红，最不能接受的是暗阶显示缩水严重。在直营店看了10台演示机没有一台能逃脱苹果的屏幕降本结果。 #iPhone17ProMax# #iPhone18Pro# #iPhone17Pro#",
-          "detail": "今年但凡对屏幕有一点要求的都不会选择18pro系列，苹果是绝对不会欺骗消费者的，官方宣布屏幕降本就真的降本了。18pro系列不管是三星屏还是LG屏统统发红，最不能接受的是暗阶显示缩水严重。在直营店看了10台演示机没有一台能逃脱苹果的屏幕降本结果。 #iPhone17ProMax# #iPhone18Pro# #iPhone17Pro#",
           "keyPoints": [
             "屏幕形态"
           ],
@@ -284,52 +279,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响性能和寿命判断，适合放进参数库。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-728bbee10ddb",
-          "title": "iPhone 发布 / 上市相关消息",
-          "originalTitle": "",
-          "source": "Apple Newsroom",
-          "brand": "iPhone",
-          "type": "官方",
-          "trust": "官方确认",
-          "date": "2026-09-20",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone 有发布或新功能消息，适合确认是否和新机有关。",
-          "detail": "iPhone 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "官方"
-          ],
-          "confidence": "官方内容，可直接作为已确认信息记录。",
-          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-a1c5ab82a21c",
-          "title": "苹果 iPhone 18 Pro 系列手机国内首销情况曝光：开售日约 32.28 万台，约为 iPhone 17 Pro 系列的 130%",
-          "originalTitle": "",
-          "source": "IT之家热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-20",
-          "time": "16:46",
-          "publishedAt": "2026-09-20T16:46:31.000Z",
-          "url": "https://www.ithome.com/1/004/875.htm",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "苹果 iPhone 18 Pro 系列手机国内首销情况曝光：开售日约 32.28 万台，约为 iPhone 17 Pro 系列的 130%",
-          "detail": "苹果 iPhone 18 Pro 系列手机国内首销情况曝光：开售日约 32.28 万台，约为 iPhone 17 Pro 系列的 130%",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -339,133 +288,27 @@ window.phoneRadarDaily = {
       "hint": "能直接更新到参数库。",
       "items": [
         {
-          "id": "auto-d3bb085238b0",
-          "title": "iPhone 18 Pro 系统功能 / AI 体验相关消息",
+          "id": "auto-7eabc08c1b6f",
+          "title": "卢伟冰谈小米 18 Pro 系列手机定价：是会涨，但相信大家会觉得合理",
           "originalTitle": "",
-          "source": "Huawei Central",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-19",
-          "time": "12:00",
-          "publishedAt": "2026-09-19T12:00:48.000Z",
-          "url": "https://www.huaweicentral.com/iphone-18-pro-ranks-2nd-on-dxomark/",
-          "image": "https://www.huaweicentral.com/wp-content/uploads/2026/09/iPhone-18-Pro.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "Huawei 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
-          "detail": "iPhone 18 Pro 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响拍照体验，买旗舰机时值得关注。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        }
-      ]
-    },
-    {
-      "id": "review",
-      "title": "评测与体验",
-      "hint": "买前再细看，平时扫一眼即可。",
-      "items": [
-        {
-          "id": "auto-d8249cae0b39",
-          "title": "iPhone 18 Pro 影像能力相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-19",
-          "time": "17:14",
-          "publishedAt": "2026-09-19T17:14:24.000Z",
-          "url": "https://www.gizmochina.com/2026/09/19/apple-iphone-18-pro-takes-second-place-in-dxomarks-camera-ranking-lagging-behind-huawei-pura-80-ultra/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Apple-iPhone-18-Pro-2up-260909-lp.jpg.landing-big_2x-300x169.jpg?x96852",
-          "verdict": "扫一眼",
-          "takeaway": "Huawei 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
-          "detail": "iPhone 18 Pro 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响拍照体验，买旗舰机时值得关注。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        }
-      ]
-    },
-    {
-      "id": "market",
-      "title": "行业趋势",
-      "hint": "看方向，不急着当购买依据。",
-      "items": [
-        {
-          "id": "newsnow-e286d9baa050",
-          "title": "#酷安夜话# 算上基金，亏了40个馒头，要是买小米su7max该多好啊[喷] #iPhone18ProMax# #小米18ProMax#",
-          "originalTitle": "",
-          "source": "酷安热榜",
+          "source": "IT之家",
           "brand": "Xiaomi",
           "type": "爆料",
-          "trust": "高关注爆料源",
+          "trust": "媒体汇总",
           "date": "2026-09-20",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73854510",
-          "image": "",
+          "time": "09:54",
+          "publishedAt": "2026-09-20T09:54:18.000Z",
+          "url": "https://www.ithome.com/1/004/908.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/a39d8d8e-eaae-4619-9e27-a62c2535f5e6.jpg?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "#酷安夜话# 算上基金，亏了40个馒头，要是买小米su7max该多好啊[喷] #iPhone18ProMax# #小米18ProMax#",
-          "detail": "#酷安夜话# 算上基金，亏了40个馒头，要是买小米su7max该多好啊[喷] #iPhone18ProMax# #小米18ProMax#",
+          "takeaway": "IT之家 9 月 20 日消息，小米 18 Pro 系列手机官宣 9 月 23 日 19:00 发布。 有网友表示，现在小米 17 Pro 是 5699（元起），今年小米 18 Pro 这配置还得涨多少？ IT之家注意到，小米集团合伙人、总裁，手机部总裁，小米品牌总经理卢伟冰下午回应称：“ 是会涨，但相信大家会觉得合理 。” 卢伟冰此前发文表示，“ 这是小…",
+          "detail": "IT之家 9 月 20 日消息，小米 18 Pro 系列手机官宣 9 月 23 日 19:00 发布。 有网友表示，现在小米 17 Pro 是 5699（元起），今年小米 18 Pro 这配置还得涨多少？ IT之家注意到，小米集团合伙人、总裁，手机部总裁，小米品牌总经理卢伟冰下午回应称：“ 是会涨，但相信大家会觉得合理 。” 卢伟冰此前发文表示，“ 这是小…",
           "keyPoints": [
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-7dbb3c5ecc1a",
-          "title": "兄弟萌这个买来送我刚上大学的的老妹 应该够用吧 是不是买贵了很多[流泪] #小米17ProMax# #REDMIK100ProMax# #小米15#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-09-20",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73838648",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "兄弟萌这个买来送我刚上大学的的老妹 应该够用吧 是不是买贵了很多[流泪] #小米17ProMax# #REDMIK100ProMax# #小米15#",
-          "detail": "兄弟萌这个买来送我刚上大学的的老妹 应该够用吧 是不是买贵了很多[流泪] #小米17ProMax# #REDMIK100ProMax# #小米15#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-69488be0567e",
-          "title": "我就不懂了网上全是说这款手机不行，为什么现在都卖断货了？",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-09-20",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73859298",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "我就不懂了网上全是说这款手机不行，为什么现在都卖断货了？",
-          "detail": "我就不懂了网上全是说这款手机不行，为什么现在都卖断货了？",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         }
       ]
     }
