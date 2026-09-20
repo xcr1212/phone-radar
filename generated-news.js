@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-20T18:46:43.013Z",
+  "updatedAt": "2026-09-20T22:25:40.030Z",
   "news": [
     {
       "id": "weibo-317b4083ebf1",
@@ -10,8 +10,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-20",
-      "time": "18:46",
-      "publishedAt": "2026-09-20T18:46:43.013Z",
+      "time": "22:25",
+      "publishedAt": "2026-09-20T22:25:40.030Z",
       "url": "https://weibo.com/6048569942/RiZg5agKJ",
       "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1iha6jhdk20j31kw2dck6n.jpg",
       "summary": "Xiaomi 18 Pro真机实拍图，黑/白/粉/蓝，Pro是骁龙8E6，Pro Max是骁龙8EE6，全系有大马达，Pro Max比大更大；另外从2亿大底潜望镜的开孔看，这代也有长焦微距……[笑而不语]",
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-20",
-      "time": "18:46",
-      "publishedAt": "2026-09-20T18:46:43.013Z",
+      "time": "22:25",
+      "publishedAt": "2026-09-20T22:25:40.030Z",
       "url": "https://weibo.com/6048569942/RiWVBd9r0",
       "image": "",
       "summary": "小米18 Pro系列——全系2nm旗舰芯，全系M11 RGB OLED双尺寸直屏，全系0.99mm四等边，全系徕卡双2亿影像，Pro 7000mAh，Pro Max 8500mAh",
@@ -50,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-20",
-      "time": "18:46",
-      "publishedAt": "2026-09-20T18:46:43.013Z",
+      "time": "22:25",
+      "publishedAt": "2026-09-20T22:25:40.030Z",
       "url": "https://weibo.com/6048569942/RiWoTBn7L",
       "image": "",
       "summary": "9月各家大厂的新旗舰扎堆发布，市场竞争空前激烈，新机定价压力也空前得大。芯片内存大涨后，各家都开始疯狂卷视频，尤其荣耀新引入arri这种影像合作，价格压力就更大了。 如果9月准备换机，建议等这一波旗舰机全都发完，看看哪个系列哪个版本适合自己，再比一比视频、续航、性能还有价格。谁家产品更有竞争力，谁家产品价格更有诚意，就买谁。",
@@ -70,8 +70,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-20",
-      "time": "18:46",
-      "publishedAt": "2026-09-20T18:46:43.013Z",
+      "time": "22:25",
+      "publishedAt": "2026-09-20T22:25:40.030Z",
       "url": "https://weibo.com/6048569942/RiH3gugUA",
       "image": "",
       "summary": "新形态确实更受欢迎，接下来2027Q1还有两台阔折叠新机，第一台安卓阔直板争取3月，其他家刚刚立项，争取明年下半年能上线……[流鼻血]",
@@ -90,8 +90,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-20",
-      "time": "18:46",
-      "publishedAt": "2026-09-20T18:46:43.013Z",
+      "time": "22:25",
+      "publishedAt": "2026-09-20T22:25:40.030Z",
       "url": "https://weibo.com/6048569942/RiFWS9xw3",
       "image": "",
       "summary": "华为Pura X View阔直板首周激活销量约28.2W，实销均价约7000，开售时间5天，W37全品牌单品销量第一，同时助力华为品牌份额新高。",
@@ -110,8 +110,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-20",
-      "time": "18:46",
-      "publishedAt": "2026-09-20T18:46:43.013Z",
+      "time": "22:25",
+      "publishedAt": "2026-09-20T22:25:40.030Z",
       "url": "https://weibo.com/6048569942/RiFoMbpsR",
       "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1ih7pzfskxij349o37a7wl.jpg",
       "summary": "iPhone 18 Pro，小灵动岛是做了屏下红外泛光器，位于屏幕左上角，因为像素量需求不高，隐藏性优于iPhone Duo的真•屏下摄像头。 这就是iPhone直板机的技术路线了，一步步缩小灵动岛，直到正面是一块无缺的真•全面屏[吃瓜]",
@@ -119,6 +119,46 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "微博"
+      ]
+    },
+    {
+      "id": "auto-94683c605272",
+      "title": "Inside the Tiny Unfixable Eye: iPhone 18 Pro and Pro Max Teardown",
+      "source": "iFixit News",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-20",
+      "time": "22:00",
+      "publishedAt": "2026-09-20T22:00:57.000Z",
+      "url": "https://www.ifixit.com/News/119329/inside-the-tiny-unfixable-eye-iphone-18-pro-and-pro-max-teardown",
+      "image": "",
+      "summary": "The iPhone 18 Pro’s little mechanical pupil is irresistible. A bunch of moving parts make for a good excuse to put our brand new camera under the microscope. We weren’t…",
+      "tags": [
+        "iPhone",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-add16988a8fe",
+      "title": "Samsung's Galaxy S26 FE battery trick: lasts longer now, dies faster later",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-20",
+      "time": "19:00",
+      "publishedAt": "2026-09-20T19:00:10.000Z",
+      "url": "https://www.androidpolice.com/galaxy-s26-fe-battery-trade-off/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/09/three-samsung-galaxy-s26-fe-held-in-one-hand-against-a-green-battery-patterned-background.png",
+      "summary": "You need to know about this hidden battery problem",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -299,26 +339,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-fb8dde69a508",
-      "title": "竹本青：小米18 Pro系列真机曝光：四色可选",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-20",
-      "time": "09:36",
-      "publishedAt": "2026-09-20T09:36:56.000Z",
-      "url": "https://www.coolapk.com/feed/73870873",
-      "image": "http://image.coolapk.com/feed/2026/0920/17/4248714_7d7209d8_7010_2655_495@2160x3840.jpg",
-      "summary": "【小米18 Pro系列 真机曝光：四色可选，分别搭载骁龙8E6／8EE6处理器】 小米18 Pro —— 第六代骁龙8至尊版 小米18 Pro Max —— 第六代骁龙8超级至尊版 ● 全系黑色、白色、冰桃粉、星河蓝可选 ● 全系0.99mm边框、四曲中框、 纯平背屏 ● 全系徕卡双2亿影像系统（主摄+长焦） —————————————————— ● 骁龙…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -662,61 +682,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-7dbb3c5ecc1a",
-      "title": "兄弟萌这个买来送我刚上大学的的老妹 应该够用吧 是不是买贵了很多[流泪] #小米17ProMax# #REDMIK100ProMax# #小米15#",
+      "id": "newsnow-239c3de421ee",
+      "title": "刚看了下我们后台统计的iPhone 18 pro系列的机主数据，发现一个有意思的现象，以往的机型，promax的机主是比pro要高很多的，年年如此，今年的18promax比18pro也高，但远远没有往年高的那么多，我想了半天，应该还是和涨价有关系，因为价格涨幅太大，导致有一些人退而求其次买iPhone 18pro了，大家看我分析的对不对。",
       "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-20",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73838648",
+      "url": "https://www.coolapk.com/feed/73868827",
       "image": "",
-      "summary": "兄弟萌这个买来送我刚上大学的的老妹 应该够用吧 是不是买贵了很多[流泪] #小米17ProMax# #REDMIK100ProMax# #小米15#",
+      "summary": "刚看了下我们后台统计的iPhone 18 pro系列的机主数据，发现一个有意思的现象，以往的机型，promax的机主是比pro要高很多的，年年如此，今年的18promax比18pro也高，但远远没有往年高的那么多，我想了半天，应该还是和涨价有关系，因为价格涨幅太大，导致有一些人退而求其次买iPhone 18pro了，大家看我分析的对不对。",
       "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-69488be0567e",
-      "title": "我就不懂了网上全是说这款手机不行，为什么现在都卖断货了？",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-20",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73859298",
-      "image": "",
-      "summary": "我就不懂了网上全是说这款手机不行，为什么现在都卖断货了？",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-a2c00c6e82ef",
-      "title": "今年但凡对屏幕有一点要求的都不会选择18pro系列，苹果是绝对不会欺骗消费者的，官方宣布屏幕降本就真的降本了。18pro系列不管是三星屏还是LG屏统统发红，最不能接受的是暗阶显示缩水严重。在直营店看了10台演示机没有一台能逃脱苹果的屏幕降本结果。 #iPhone17ProMax# #iPhone18Pro# #iPhone17Pro#",
-      "source": "酷安热榜",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-20",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73853104",
-      "image": "",
-      "summary": "今年但凡对屏幕有一点要求的都不会选择18pro系列，苹果是绝对不会欺骗消费者的，官方宣布屏幕降本就真的降本了。18pro系列不管是三星屏还是LG屏统统发红，最不能接受的是暗阶显示缩水严重。在直营店看了10台演示机没有一台能逃脱苹果的屏幕降本结果。 #iPhone17ProMax# #iPhone18Pro# #iPhone17Pro#",
-      "tags": [
-        "Samsung",
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -742,42 +722,62 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-e286d9baa050",
-      "title": "#酷安夜话# 算上基金，亏了40个馒头，要是买小米su7max该多好啊[喷] #iPhone18ProMax# #小米18ProMax#",
+      "id": "newsnow-a2c00c6e82ef",
+      "title": "今年但凡对屏幕有一点要求的都不会选择18pro系列，苹果是绝对不会欺骗消费者的，官方宣布屏幕降本就真的降本了。18pro系列不管是三星屏还是LG屏统统发红，最不能接受的是暗阶显示缩水严重。在直营店看了10台演示机没有一台能逃脱苹果的屏幕降本结果。 #iPhone17ProMax# #iPhone18Pro# #iPhone17Pro#",
       "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-20",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73854510",
+      "url": "https://www.coolapk.com/feed/73853104",
       "image": "",
-      "summary": "#酷安夜话# 算上基金，亏了40个馒头，要是买小米su7max该多好啊[喷] #iPhone18ProMax# #小米18ProMax#",
+      "summary": "今年但凡对屏幕有一点要求的都不会选择18pro系列，苹果是绝对不会欺骗消费者的，官方宣布屏幕降本就真的降本了。18pro系列不管是三星屏还是LG屏统统发红，最不能接受的是暗阶显示缩水严重。在直营店看了10台演示机没有一台能逃脱苹果的屏幕降本结果。 #iPhone17ProMax# #iPhone18Pro# #iPhone17Pro#",
       "tags": [
-        "Xiaomi",
+        "Samsung",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-91a4d07723d2",
-      "title": "手机掉在网约车上，司机要价五六百才肯归还，我该如何维权？",
-      "source": "知乎热榜",
+      "id": "newsnow-69488be0567e",
+      "title": "我就不懂了网上全是说这款手机不行，为什么现在都卖断货了？",
+      "source": "酷安热榜",
       "brand": "行业",
       "model": "智能手机市场",
-      "type": "市场报告",
-      "trust": "媒体汇总",
+      "type": "爆料",
+      "trust": "高关注爆料源",
       "date": "2026-09-20",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.zhihu.com/question/362637142",
+      "url": "https://www.coolapk.com/feed/73859298",
       "image": "",
-      "summary": "手机掉在网约车上，司机要价五六百才肯归还，我该如何维权？",
+      "summary": "我就不懂了网上全是说这款手机不行，为什么现在都卖断货了？",
       "tags": [
         "行业",
-        "市场报告",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-33824618e7cd",
+      "title": "iPhone18ProMax1T翻车",
+      "source": "微博热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-09-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=iPhone18ProMax1T%E7%BF%BB%E8%BD%A6&t=31&band_rank=30&Refer=top",
+      "image": "",
+      "summary": "iPhone18ProMax1T翻车",
+      "tags": [
+        "iPhone",
+        "爆料",
         "NewsNow"
       ]
     },

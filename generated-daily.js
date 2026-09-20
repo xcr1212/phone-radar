@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-20T18:46:43.013Z",
+  "updatedAt": "2026-09-20T22:25:40.030Z",
   "issueDate": "2026-09-20",
   "issue": "VOL.260920",
   "title": "手机情报日报",
-  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 10 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 11 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 11,
-    "iphone": 10,
+    "total": 12,
+    "iphone": 11,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -95,8 +95,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-09-20",
-          "time": "18:46",
-          "publishedAt": "2026-09-20T18:46:43.013Z",
+          "time": "22:25",
+          "publishedAt": "2026-09-20T22:25:40.030Z",
           "url": "https://weibo.com/6048569942/RiFoMbpsR",
           "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1ih7pzfskxij349o37a7wl.jpg",
           "verdict": "先看",
@@ -256,6 +256,29 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
+          "id": "newsnow-239c3de421ee",
+          "title": "刚看了下我们后台统计的iPhone 18 pro系列的机主数据，发现一个有意思的现象，以往的机型，promax的机主是比pro要高很多的，年年如此，今年的18promax比18pro也高，但远远没有往年高的那么多，我想了半天，应该还是和涨价有关系，因为价格涨幅太大，导致有一些人退而求其次买iPhone 18pro了，大家看我分析的对不对。",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-09-20",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73868827",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "刚看了下我们后台统计的iPhone 18 pro系列的机主数据，发现一个有意思的现象，以往的机型，promax的机主是比pro要高很多的，年年如此，今年的18promax比18pro也高，但远远没有往年高的那么多，我想了半天，应该还是和涨价有关系，因为价格涨幅太大，导致有一些人退而求其次买iPhone 18pro了，大家看我分析的对不对。",
+          "detail": "刚看了下我们后台统计的iPhone 18 pro系列的机主数据，发现一个有意思的现象，以往的机型，promax的机主是比pro要高很多的，年年如此，今年的18promax比18pro也高，但远远没有往年高的那么多，我想了半天，应该还是和涨价有关系，因为价格涨幅太大，导致有一些人退而求其次买iPhone 18pro了，大家看我分析的对不对。",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响购买预算，值得先看。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     },
