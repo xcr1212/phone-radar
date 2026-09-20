@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-20T04:52:47.154Z",
+  "updatedAt": "2026-09-20T11:21:48.148Z",
   "issueDate": "2026-09-20",
   "issue": "VOL.260920",
   "title": "手机情报日报",
-  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 10 条 iPhone 相关、2 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 9,
-    "iphone": 8,
+    "total": 18,
+    "iphone": 10,
     "leaks": 8,
-    "official": 1,
+    "official": 2,
     "specs": 0
   },
   "sections": [
@@ -17,29 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-40db42318d87",
-          "title": "苹果硬件工程负责人汤姆 · 马里布：每次看到有人给 iPhone 屏幕贴膜，我就浑身不自在",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-20",
-          "time": "01:28",
-          "publishedAt": "2026-09-20T01:28:44.000Z",
-          "url": "https://www.ithome.com/1/004/618.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/7c13519a-278f-476b-a187-741acacf2278.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 9 月 20 日消息，苹果现任硬件工程负责人汤姆 · 马里布（Tom Marieb）昨天接受外媒 TechRadar 采访时表示， 每次他看到有人给 iPhone 屏幕贴膜时 ， 他就会浑身不自在 。 IT之家了解到，苹果从 iPhone 17 系列机型开始应用超瓷晶面板 2，号称具备 3 倍耐刮性能与卓越的抗反射能力。 汤姆 · 马里布在苹果伦…",
-          "detail": "IT之家 9 月 20 日消息，苹果现任硬件工程负责人汤姆 · 马里布（Tom Marieb）昨天接受外媒 TechRadar 采访时表示， 每次他看到有人给 iPhone 屏幕贴膜时 ， 他就会浑身不自在 。 IT之家了解到，苹果从 iPhone 17 系列机型开始应用超瓷晶面板 2，号称具备 3 倍耐刮性能与卓越的抗反射能力。 汤姆 · 马里布在苹果伦…",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "auto-157e2a2c982f",
           "title": "专访苹果高管，揭秘 iPhone Duo 幕后工程和设计哲学 副本",
@@ -72,8 +49,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-09-20",
-          "time": "04:52",
-          "publishedAt": "2026-09-20T04:52:47.154Z",
+          "time": "11:21",
+          "publishedAt": "2026-09-20T11:21:48.148Z",
           "url": "https://weibo.com/6048569942/RiFoMbpsR",
           "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1ih7pzfskxij349o37a7wl.jpg",
           "verdict": "先看",
@@ -81,29 +58,6 @@ window.phoneRadarDaily = {
           "detail": "iPhone 18 Pro，小灵动岛是做了屏下红外泛光器，位于屏幕左上角，因为像素量需求不高，隐藏性优于iPhone Duo的真•屏下摄像头。 这就是iPhone直板机的技术路线了，一步步缩小灵动岛，直到正面是一块无缺的真•全面屏[吃瓜]",
           "keyPoints": [
             "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-fd5c72fab795",
-          "title": "数码闲聊站：iPhone 18 Pro，这个红色和小灵动岛喜欢吗[笑而不语]",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-09-20",
-          "time": "04:52",
-          "publishedAt": "2026-09-20T04:52:47.154Z",
-          "url": "https://weibo.com/6048569942/RiEOBDDKV",
-          "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ih7oq7mgv3j64jk3eox6s08.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 18 Pro，这个红色和小灵动岛喜欢吗[笑而不语]",
-          "detail": "iPhone 18 Pro，这个红色和小灵动岛喜欢吗[笑而不语]",
-          "keyPoints": [
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
@@ -180,23 +134,74 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-c78b8e07c344",
-          "title": "卢伟冰称小米 18 Pro 是数字旗舰系列升级幅度最大的一次，搭载两款高通全新旗舰平台",
+          "id": "weibo-2b741e463901",
+          "title": "数码闲聊站：小米18 Pro系列——全系2nm旗舰芯，全系M11 RGB OLED双尺寸直…",
           "originalTitle": "",
-          "source": "IT之家",
+          "source": "数码闲聊站",
           "brand": "Xiaomi",
           "type": "爆料",
-          "trust": "媒体汇总",
+          "trust": "高关注爆料源",
           "date": "2026-09-20",
-          "time": "02:48",
-          "publishedAt": "2026-09-20T02:48:11.000Z",
-          "url": "https://www.ithome.com/1/004/684.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/fbe99546-164b-4160-a6bc-73f57af187af.jpg?x-bce-process=image/auto-orient,o_1",
+          "time": "11:21",
+          "publishedAt": "2026-09-20T11:21:48.148Z",
+          "url": "https://weibo.com/6048569942/RiWVBd9r0",
+          "image": "",
           "verdict": "先看",
-          "takeaway": "IT之家 9 月 20 日消息，小米 18 Pro 系列手机官宣 9 月 23 日 19:00 发布。 小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰刚刚发文，详细介绍了小米 18 Pro 系列手机的升级点，他表示：“这是小米数字旗舰系列，升级幅度最大的一次。性能、背屏、屏幕、影像四大核心体验，全面大升级。” IT之家附小米 18 Pro 系列…",
-          "detail": "IT之家 9 月 20 日消息，小米 18 Pro 系列手机官宣 9 月 23 日 19:00 发布。 小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰刚刚发文，详细介绍了小米 18 Pro 系列手机的升级点，他表示：“这是小米数字旗舰系列，升级幅度最大的一次。性能、背屏、屏幕、影像四大核心体验，全面大升级。” IT之家附小米 18 Pro 系列…",
+          "takeaway": "小米18 Pro系列——全系2nm旗舰芯，全系M11 RGB OLED双尺寸直屏，全系0.99mm四等边，全系徕卡双2亿影像，Pro 7000mAh，Pro Max 8500mAh",
+          "detail": "小米18 Pro系列——全系2nm旗舰芯，全系M11 RGB OLED双尺寸直屏，全系0.99mm四等边，全系徕卡双2亿影像，Pro 7000mAh，Pro Max 8500mAh",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "影像硬件",
+            "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-14ff0721abc8",
+          "title": "数码闲聊站：9月各家大厂的新旗舰扎堆发布，市场竞争空前激烈，新机定价压力也空前得大。芯片内…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-09-20",
+          "time": "11:21",
+          "publishedAt": "2026-09-20T11:21:48.148Z",
+          "url": "https://weibo.com/6048569942/RiWoTBn7L",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "9月各家大厂的新旗舰扎堆发布，市场竞争空前激烈，新机定价压力也空前得大。芯片内存大涨后，各家都开始疯狂卷视频，尤其荣耀新引入arri这种影像合作，价格压力就更大了。 如果9月准备换机，建议等这一波旗舰机全都发完，看看哪个系列哪个版本适合自己，再比一比视频、续航、性能还有价格。谁家产品更有竞争力，谁家产品价格更有诚意，就买谁。",
+          "detail": "9月各家大厂的新旗舰扎堆发布，市场竞争空前激烈，新机定价压力也空前得大。芯片内存大涨后，各家都开始疯狂卷视频，尤其荣耀新引入arri这种影像合作，价格压力就更大了。 如果9月准备换机，建议等这一波旗舰机全都发完，看看哪个系列哪个版本适合自己，再比一比视频、续航、性能还有价格。谁家产品更有竞争力，谁家产品价格更有诚意，就买谁。",
           "keyPoints": [
             "影像硬件",
+            "电池 / 充电",
+            "芯片 / 性能",
+            "成本 / 价格"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-a2c00c6e82ef",
+          "title": "今年但凡对屏幕有一点要求的都不会选择18pro系列，苹果是绝对不会欺骗消费者的，官方宣布屏幕降本就真的降本了。18pro系列不管是三星屏还是LG屏统统发红，最不能接受的是暗阶显示缩水严重。在直营店看了10台演示机没有一台能逃脱苹果的屏幕降本结果。 #iPhone17ProMax# #iPhone18Pro# #iPhone17Pro#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-09-20",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73853104",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "今年但凡对屏幕有一点要求的都不会选择18pro系列，苹果是绝对不会欺骗消费者的，官方宣布屏幕降本就真的降本了。18pro系列不管是三星屏还是LG屏统统发红，最不能接受的是暗阶显示缩水严重。在直营店看了10台演示机没有一台能逃脱苹果的屏幕降本结果。 #iPhone17ProMax# #iPhone18Pro# #iPhone17Pro#",
+          "detail": "今年但凡对屏幕有一点要求的都不会选择18pro系列，苹果是绝对不会欺骗消费者的，官方宣布屏幕降本就真的降本了。18pro系列不管是三星屏还是LG屏统统发红，最不能接受的是暗阶显示缩水严重。在直营店看了10台演示机没有一台能逃脱苹果的屏幕降本结果。 #iPhone17ProMax# #iPhone18Pro# #iPhone17Pro#",
+          "keyPoints": [
             "屏幕形态"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
@@ -233,6 +238,234 @@ window.phoneRadarDaily = {
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
+          "id": "auto-4b5fa13d6978",
+          "title": "iPhone 18 Pro 系列开卖了，但苹果没告诉你的是……",
+          "originalTitle": "",
+          "source": "爱范儿",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-09-20",
+          "time": "10:24",
+          "publishedAt": "2026-09-20T10:24:12.000Z",
+          "url": "https://www.ifanr.com/1681102?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "image": "https://s3.ifanr.com/wp-content/uploads/2026/09/img_6aafb42ae266b.png",
+          "verdict": "先看",
+          "takeaway": "苹果总会在你看不见的地方下猛料。",
+          "detail": "苹果总会在你看不见的地方下猛料。",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
+          "id": "newsnow-d41c073039ad",
+          "title": "iPhone18Pro 1TB实锤是QLC颗粒，真是起了个坏头，QLC颗粒读写速度更慢，使用寿命更短，写入速度、耐用性和持续性能表现较弱。幸好256和512GB还是TLC颗粒。#iPhone18# #数码日常# #iPhone18ProMax#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-09-20",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73831217",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone18Pro 1TB实锤是QLC颗粒，真是起了个坏头，QLC颗粒读写速度更慢，使用寿命更短，写入速度、耐用性和持续性能表现较弱。幸好256和512GB还是TLC颗粒。#iPhone18# #数码日常# #iPhone18ProMax#",
+          "detail": "iPhone18Pro 1TB实锤是QLC颗粒，真是起了个坏头，QLC颗粒读写速度更慢，使用寿命更短，写入速度、耐用性和持续性能表现较弱。幸好256和512GB还是TLC颗粒。#iPhone18# #数码日常# #iPhone18ProMax#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响性能和寿命判断，适合放进参数库。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-728bbee10ddb",
+          "title": "iPhone 发布 / 上市相关消息",
+          "originalTitle": "",
+          "source": "Apple Newsroom",
+          "brand": "iPhone",
+          "type": "官方",
+          "trust": "官方确认",
+          "date": "2026-09-20",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone 有发布或新功能消息，适合确认是否和新机有关。",
+          "detail": "iPhone 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "官方"
+          ],
+          "confidence": "官方内容，可直接作为已确认信息记录。",
+          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-a1c5ab82a21c",
+          "title": "苹果 iPhone 18 Pro 系列手机国内首销情况曝光：开售日约 32.28 万台，约为 iPhone 17 Pro 系列的 130%",
+          "originalTitle": "",
+          "source": "IT之家热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-20",
+          "time": "16:46",
+          "publishedAt": "2026-09-20T16:46:31.000Z",
+          "url": "https://www.ithome.com/1/004/875.htm",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "苹果 iPhone 18 Pro 系列手机国内首销情况曝光：开售日约 32.28 万台，约为 iPhone 17 Pro 系列的 130%",
+          "detail": "苹果 iPhone 18 Pro 系列手机国内首销情况曝光：开售日约 32.28 万台，约为 iPhone 17 Pro 系列的 130%",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "launch",
+      "title": "新机与官方发布",
+      "hint": "能直接更新到参数库。",
+      "items": [
+        {
+          "id": "auto-d3bb085238b0",
+          "title": "iPhone 18 Pro 系统功能 / AI 体验相关消息",
+          "originalTitle": "",
+          "source": "Huawei Central",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-19",
+          "time": "12:00",
+          "publishedAt": "2026-09-19T12:00:48.000Z",
+          "url": "https://www.huaweicentral.com/iphone-18-pro-ranks-2nd-on-dxomark/",
+          "image": "https://www.huaweicentral.com/wp-content/uploads/2026/09/iPhone-18-Pro.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "Huawei 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "iPhone 18 Pro 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响拍照体验，买旗舰机时值得关注。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        }
+      ]
+    },
+    {
+      "id": "review",
+      "title": "评测与体验",
+      "hint": "买前再细看，平时扫一眼即可。",
+      "items": [
+        {
+          "id": "auto-d8249cae0b39",
+          "title": "iPhone 18 Pro 影像能力相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-19",
+          "time": "17:14",
+          "publishedAt": "2026-09-19T17:14:24.000Z",
+          "url": "https://www.gizmochina.com/2026/09/19/apple-iphone-18-pro-takes-second-place-in-dxomarks-camera-ranking-lagging-behind-huawei-pura-80-ultra/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Apple-iPhone-18-Pro-2up-260909-lp.jpg.landing-big_2x-300x169.jpg?x96852",
+          "verdict": "扫一眼",
+          "takeaway": "Huawei 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
+          "detail": "iPhone 18 Pro 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响拍照体验，买旗舰机时值得关注。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "行业趋势",
+      "hint": "看方向，不急着当购买依据。",
+      "items": [
+        {
+          "id": "newsnow-e286d9baa050",
+          "title": "#酷安夜话# 算上基金，亏了40个馒头，要是买小米su7max该多好啊[喷] #iPhone18ProMax# #小米18ProMax#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-09-20",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73854510",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "#酷安夜话# 算上基金，亏了40个馒头，要是买小米su7max该多好啊[喷] #iPhone18ProMax# #小米18ProMax#",
+          "detail": "#酷安夜话# 算上基金，亏了40个馒头，要是买小米su7max该多好啊[喷] #iPhone18ProMax# #小米18ProMax#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-7dbb3c5ecc1a",
+          "title": "兄弟萌这个买来送我刚上大学的的老妹 应该够用吧 是不是买贵了很多[流泪] #小米17ProMax# #REDMIK100ProMax# #小米15#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-09-20",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73838648",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "兄弟萌这个买来送我刚上大学的的老妹 应该够用吧 是不是买贵了很多[流泪] #小米17ProMax# #REDMIK100ProMax# #小米15#",
+          "detail": "兄弟萌这个买来送我刚上大学的的老妹 应该够用吧 是不是买贵了很多[流泪] #小米17ProMax# #REDMIK100ProMax# #小米15#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-69488be0567e",
+          "title": "我就不懂了网上全是说这款手机不行，为什么现在都卖断货了？",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-09-20",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73859298",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "我就不懂了网上全是说这款手机不行，为什么现在都卖断货了？",
+          "detail": "我就不懂了网上全是说这款手机不行，为什么现在都卖断货了？",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }

@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-20T04:52:47.154Z",
+  "updatedAt": "2026-09-20T11:21:48.148Z",
   "news": [
+    {
+      "id": "newsnow-e9dddfd7354f",
+      "title": "卢伟冰谈小米 18 Pro 系列手机定价：是会涨，但相信大家会觉得合理",
+      "source": "IT之家热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-20",
+      "time": "17:54",
+      "publishedAt": "2026-09-20T17:54:18.000Z",
+      "url": "https://www.ithome.com/1/004/908.htm",
+      "image": "",
+      "summary": "卢伟冰谈小米 18 Pro 系列手机定价：是会涨，但相信大家会觉得合理",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-a1c5ab82a21c",
+      "title": "苹果 iPhone 18 Pro 系列手机国内首销情况曝光：开售日约 32.28 万台，约为 iPhone 17 Pro 系列的 130%",
+      "source": "IT之家热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-20",
+      "time": "16:46",
+      "publishedAt": "2026-09-20T16:46:31.000Z",
+      "url": "https://www.ithome.com/1/004/875.htm",
+      "image": "",
+      "summary": "苹果 iPhone 18 Pro 系列手机国内首销情况曝光：开售日约 32.28 万台，约为 iPhone 17 Pro 系列的 130%",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "weibo-317b4083ebf1",
+      "title": "数码闲聊站：Xiaomi 18 Pro真机实拍图，黑/白/粉/蓝，Pro是骁龙8E6，Pr…",
+      "source": "数码闲聊站",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-20",
+      "time": "11:21",
+      "publishedAt": "2026-09-20T11:21:48.148Z",
+      "url": "https://weibo.com/6048569942/RiZg5agKJ",
+      "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1iha6jhdk20j31kw2dck6n.jpg",
+      "summary": "Xiaomi 18 Pro真机实拍图，黑/白/粉/蓝，Pro是骁龙8E6，Pro Max是骁龙8EE6，全系有大马达，Pro Max比大更大；另外从2亿大底潜望镜的开孔看，这代也有长焦微距……[笑而不语]",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "微博"
+      ]
+    },
     {
       "id": "weibo-2b741e463901",
       "title": "数码闲聊站：小米18 Pro系列——全系2nm旗舰芯，全系M11 RGB OLED双尺寸直…",
@@ -10,8 +70,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-20",
-      "time": "04:52",
-      "publishedAt": "2026-09-20T04:52:47.154Z",
+      "time": "11:21",
+      "publishedAt": "2026-09-20T11:21:48.148Z",
       "url": "https://weibo.com/6048569942/RiWVBd9r0",
       "image": "",
       "summary": "小米18 Pro系列——全系2nm旗舰芯，全系M11 RGB OLED双尺寸直屏，全系0.99mm四等边，全系徕卡双2亿影像，Pro 7000mAh，Pro Max 8500mAh",
@@ -30,8 +90,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-20",
-      "time": "04:52",
-      "publishedAt": "2026-09-20T04:52:47.154Z",
+      "time": "11:21",
+      "publishedAt": "2026-09-20T11:21:48.148Z",
       "url": "https://weibo.com/6048569942/RiWoTBn7L",
       "image": "",
       "summary": "9月各家大厂的新旗舰扎堆发布，市场竞争空前激烈，新机定价压力也空前得大。芯片内存大涨后，各家都开始疯狂卷视频，尤其荣耀新引入arri这种影像合作，价格压力就更大了。 如果9月准备换机，建议等这一波旗舰机全都发完，看看哪个系列哪个版本适合自己，再比一比视频、续航、性能还有价格。谁家产品更有竞争力，谁家产品价格更有诚意，就买谁。",
@@ -50,8 +110,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-20",
-      "time": "04:52",
-      "publishedAt": "2026-09-20T04:52:47.154Z",
+      "time": "11:21",
+      "publishedAt": "2026-09-20T11:21:48.148Z",
       "url": "https://weibo.com/6048569942/RiH3gugUA",
       "image": "",
       "summary": "新形态确实更受欢迎，接下来2027Q1还有两台阔折叠新机，第一台安卓阔直板争取3月，其他家刚刚立项，争取明年下半年能上线……[流鼻血]",
@@ -70,8 +130,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-20",
-      "time": "04:52",
-      "publishedAt": "2026-09-20T04:52:47.154Z",
+      "time": "11:21",
+      "publishedAt": "2026-09-20T11:21:48.148Z",
       "url": "https://weibo.com/6048569942/RiFWS9xw3",
       "image": "",
       "summary": "华为Pura X View阔直板首周激活销量约28.2W，实销均价约7000，开售时间5天，W37全品牌单品销量第一，同时助力华为品牌份额新高。",
@@ -90,8 +150,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-20",
-      "time": "04:52",
-      "publishedAt": "2026-09-20T04:52:47.154Z",
+      "time": "11:21",
+      "publishedAt": "2026-09-20T11:21:48.148Z",
       "url": "https://weibo.com/6048569942/RiFoMbpsR",
       "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1ih7pzfskxij349o37a7wl.jpg",
       "summary": "iPhone 18 Pro，小灵动岛是做了屏下红外泛光器，位于屏幕左上角，因为像素量需求不高，隐藏性优于iPhone Duo的真•屏下摄像头。 这就是iPhone直板机的技术路线了，一步步缩小灵动岛，直到正面是一块无缺的真•全面屏[吃瓜]",
@@ -102,23 +162,83 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "weibo-fd5c72fab795",
-      "title": "数码闲聊站：iPhone 18 Pro，这个红色和小灵动岛喜欢吗[笑而不语]",
-      "source": "数码闲聊站",
+      "id": "auto-19c0c462cc88",
+      "title": "HUAWEI Pura X View Hands-On: It Is Wide!",
+      "source": "Gizmochina",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-20",
+      "time": "10:59",
+      "publishedAt": "2026-09-20T10:59:33.000Z",
+      "url": "https://www.gizmochina.com/2026/09/20/huawei-pura-x-view-hands-on-it-is-wide/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/1-300x150.png?x96852",
+      "summary": "Last year, there was the HUAWEI Pura X, then the Pura X Max, now this is the Pura X View. These are the phones with the new form factors, that HUAWEI has been experimenting with.…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4b5fa13d6978",
+      "title": "iPhone 18 Pro 系列开卖了，但苹果没告诉你的是……",
+      "source": "爱范儿",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
+      "type": "评测",
+      "trust": "媒体汇总",
       "date": "2026-09-20",
-      "time": "04:52",
-      "publishedAt": "2026-09-20T04:52:47.154Z",
-      "url": "https://weibo.com/6048569942/RiEOBDDKV",
-      "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ih7oq7mgv3j64jk3eox6s08.jpg",
-      "summary": "iPhone 18 Pro，这个红色和小灵动岛喜欢吗[笑而不语]",
+      "time": "10:24",
+      "publishedAt": "2026-09-20T10:24:12.000Z",
+      "url": "https://www.ifanr.com/1681102?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "image": "https://s3.ifanr.com/wp-content/uploads/2026/09/img_6aafb42ae266b.png",
+      "summary": "苹果总会在你看不见的地方下猛料。",
       "tags": [
         "iPhone",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-aa281b1444b2",
+      "title": "The iPhone 18 Pro isn’t worth $1,200, and the Pixel 11 Pro proves it",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-20",
+      "time": "09:30",
+      "publishedAt": "2026-09-20T09:30:05.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-pro-vs-iphone-18-pro-3712022/",
+      "image": "",
+      "summary": "Google's offering just feels more at home for some reason.",
+      "tags": [
+        "Pixel",
         "爆料",
-        "微博"
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-89074f301a1b",
+      "title": "Xiaomi 18 Fold replacement parts are expensive, with the motherboard costing up to $890",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-20",
+      "time": "05:18",
+      "publishedAt": "2026-09-20T05:18:18.000Z",
+      "url": "https://www.gizmochina.com/2026/09/20/xiaomi-18-fold-replacement-parts-are-expensive-with-the-motherboard-costing-up-to-890/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/image-59-300x254.png?x96852",
+      "summary": "Xiaomi today shared the spare parts prices for the Xiaomi 18 Fold, which launched in China earlier this month. The 18 Fold is already an expensive phone at 10,999 yuan (~$1,639),…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -142,26 +262,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-c153dc3bf1ec",
-      "title": "竹本青：【王腾谈调休：短假确实没必要硬凑】 9月20日，前小米高管、现今日宜休创始人王腾发文谈调休： “周日要上班，今日不…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-20",
-      "time": "04:25",
-      "publishedAt": "2026-09-20T04:25:51.000Z",
-      "url": "https://www.coolapk.com/feed/73865410",
-      "image": "http://image.coolapk.com/feed/2026/0920/12/4248714_e1faecff_8350_0801_881@1272x1187.jpg",
-      "summary": "【王腾谈调休：短假确实没必要硬凑】 9月20日，前小米高管、现今日宜休创始人王腾发文谈调休： “周日要上班，今日不能休，大家对调休的意见很大。短假确实没必要硬凑，影响正常工作生活节奏，而且也不够出远门游玩。” 据报道，今年中秋放假日期为9月25日（周五）至27日（周日），共3天；国庆节为10月1日（周四）至7日（周三）放假调休，共7天。 #今日热点# #酷…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-61e19500203a",
       "title": "Xiaomi 18 Pro series launches September 23, five key specs confirmed",
       "source": "Gizmochina",
@@ -182,46 +282,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-b2e2d0e2ae2b",
-      "title": "长鑫科技宣布第五代技术平台正式量产：每张晶圆产出提升 50% 以上，24GB LPDDR5X 全面进入国产主流旗舰手机",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-20",
-      "time": "03:56",
-      "publishedAt": "2026-09-20T03:56:29.000Z",
-      "url": "https://www.ithome.com/1/004/720.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/0bd1a391-b26e-4a33-ae48-9b224161be8f.png",
-      "summary": "IT之家 9 月 20 日闪讯速报，据澎湃新闻今日报道，在 2026 世界制造业大会上， 长鑫科技宣布第五代技术平台正式量产 。 据介绍，长鑫科技将内存阵列有源区半间距做到 11.95 纳米，存储器电容深宽比 45:1，核心动能区高度降至 6762 纳米；同时，第五代工艺平台的存储密度有了大幅提升，同等条件下，每张晶圆的产出， 与上一代平台相比提升了 50…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-f273e79883c7",
-      "title": "竹本青：中国移动与高通完成全球首个符合3GPP定义的U6G频段6G原型对接测试",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-20",
-      "time": "03:08",
-      "publishedAt": "2026-09-20T03:08:13.000Z",
-      "url": "https://www.coolapk.com/feed/73863978",
-      "image": "http://image.coolapk.com/feed/2026/0920/11/4248714_3ad71cf6_3692_7217_315@1080x546.jpg",
-      "summary": "【中国移动与高通 完成全球首个符合3GPP最新定义的基于U6G频段的6G原型基站与终端原型对接测试】 9月20日，中国移动与高通技术公司宣布，双方在中国移动协同创新基地基于6G开放众创试验装置，成功完成全球首个符合3GPP最新定义的U6G频段6G原型基站与终端原型对接测试，标志着6G关键技术从研究迈入系统化验证的新阶段。 此次验证是全球首个运营商与芯片厂商…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-6e0cc389f075",
       "title": "给电话加上「辅助驾驶」？我们想听听你的意见",
       "source": "少数派",
@@ -238,126 +298,6 @@ window.phoneRadarAuto = {
       "tags": [
         "行业",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c78b8e07c344",
-      "title": "卢伟冰称小米 18 Pro 是数字旗舰系列升级幅度最大的一次，搭载两款高通全新旗舰平台",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-20",
-      "time": "02:48",
-      "publishedAt": "2026-09-20T02:48:11.000Z",
-      "url": "https://www.ithome.com/1/004/684.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/fbe99546-164b-4160-a6bc-73f57af187af.jpg?x-bce-process=image/auto-orient,o_1",
-      "summary": "IT之家 9 月 20 日消息，小米 18 Pro 系列手机官宣 9 月 23 日 19:00 发布。 小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰刚刚发文，详细介绍了小米 18 Pro 系列手机的升级点，他表示：“这是小米数字旗舰系列，升级幅度最大的一次。性能、背屏、屏幕、影像四大核心体验，全面大升级。” IT之家附小米 18 Pro 系列…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9bbc99e714b1",
-      "title": "小米 18 Pro 系列手机官宣全系搭载 2nm 旗舰移动平台，后置徕卡双 2 亿影像",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-20",
-      "time": "02:17",
-      "publishedAt": "2026-09-20T02:17:20.000Z",
-      "url": "https://www.ithome.com/1/004/670.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/fbe99546-164b-4160-a6bc-73f57af187af.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 20 日消息，小米 18 Pro 系列手机官宣 9 月 23 日 19:00 发布。 小米手机官方刚刚曝光了小米 18 Pro 系列手机的部分核心配置： 2nm 旗舰移动平台，徕卡双 2 亿超清影像系统 新一代超级像素屏幕，全新 M11 发光体系 屏幕边框窄至 0.99mm，32% 超高硅小米金沙江电池 综合IT之家此前报道， 小米 18…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-12de7fe8fbcc",
-      "title": "竹本青：红魔12 Pro+官宣10月登场：全新电竞旗舰",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-20",
-      "time": "02:13",
-      "publishedAt": "2026-09-20T02:13:34.000Z",
-      "url": "https://www.coolapk.com/feed/73862970",
-      "image": "http://image.coolapk.com/feed/2026/0920/10/4248714_ef19c272_0413_5294_741@1080x1439.jpg",
-      "summary": "【红魔12 Pro+ 官宣10月登场：全新电竞旗舰】 ● 第六代骁龙8 超级至尊版平台 ● 新一代主动散热风扇 ● ID设计大迭代，风格更炫酷，机身更薄 据红魔高管姜超爆料，新机配置将只升不降，独家首发第九代屏下全面屏、多项散热技术。“性能在高负载下站得住，散热扛得住长时间鏖战，手感更进一步轻薄，设计有辨识度。” #红魔12SPro# #今日热点#",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-8dc881114234",
-      "title": "竹本青：小米18 Pro系列核心配置公开：2nm旗舰平台，双2亿影像",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-20",
-      "time": "02:01",
-      "publishedAt": "2026-09-20T02:01:03.000Z",
-      "url": "https://www.coolapk.com/feed/73862753",
-      "image": "http://image.coolapk.com/feed/2026/0920/10/4248714_69c9db9a_9662_3155_625@1440x4096.jpg",
-      "summary": "【小米18 Pro系列 核心配置公开：2nm旗舰平台，双2亿影像，新一代超级像素屏】 9月20日，小米公开18 Pro系列 核心配置，并表示这是小米手机有史以来最大升级。 ● 2nm GAA旗舰移动平台 ● 2亿大底主摄+2亿大底潜望 ● 新一代超级像素屏，M11体系/0.99mm边框 ● 小米18 Pro 搭载7000mAh电池 ● 小米18 Pro M…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-40db42318d87",
-      "title": "苹果硬件工程负责人汤姆 · 马里布：每次看到有人给 iPhone 屏幕贴膜，我就浑身不自在",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-20",
-      "time": "01:28",
-      "publishedAt": "2026-09-20T01:28:44.000Z",
-      "url": "https://www.ithome.com/1/004/618.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/7c13519a-278f-476b-a187-741acacf2278.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 20 日消息，苹果现任硬件工程负责人汤姆 · 马里布（Tom Marieb）昨天接受外媒 TechRadar 采访时表示， 每次他看到有人给 iPhone 屏幕贴膜时 ， 他就会浑身不自在 。 IT之家了解到，苹果从 iPhone 17 系列机型开始应用超瓷晶面板 2，号称具备 3 倍耐刮性能与卓越的抗反射能力。 汤姆 · 马里布在苹果伦…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-393c6ca057b4",
-      "title": "OPPO Find X10 系列手机哈苏超清原相机官宣首发 LUMO 调色盘：独家肤色保护、18 款风格效果",
-      "source": "IT之家",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-20",
-      "time": "01:13",
-      "publishedAt": "2026-09-20T01:13:16.000Z",
-      "url": "https://www.ithome.com/1/004/615.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/7bc51f13-3713-4065-bbf3-ab549adfc2a0.png",
-      "summary": "IT之家 9 月 20 日消息，OPPO 官方今日宣布，Find X10 系列手机的哈苏超清原相机 将首发 LUMO 调色盘 。据介绍，其支持独家肤色保护和 18 款风格效果。 OPPO 官方还发布了人像拍摄样张。 参考IT之家此前报道，在 9 月 15 日的 2026 联发科天玑旗舰新品发布会上，OPPO 副总裁吴恒刚宣布，OPPO Find X10 P…",
-      "tags": [
-        "OPPO",
-        "爆料",
         "自动抓取"
       ]
     },
@@ -602,6 +542,46 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-a2c00c6e82ef",
+      "title": "今年但凡对屏幕有一点要求的都不会选择18pro系列，苹果是绝对不会欺骗消费者的，官方宣布屏幕降本就真的降本了。18pro系列不管是三星屏还是LG屏统统发红，最不能接受的是暗阶显示缩水严重。在直营店看了10台演示机没有一台能逃脱苹果的屏幕降本结果。 #iPhone17ProMax# #iPhone18Pro# #iPhone17Pro#",
+      "source": "酷安热榜",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73853104",
+      "image": "",
+      "summary": "今年但凡对屏幕有一点要求的都不会选择18pro系列，苹果是绝对不会欺骗消费者的，官方宣布屏幕降本就真的降本了。18pro系列不管是三星屏还是LG屏统统发红，最不能接受的是暗阶显示缩水严重。在直营店看了10台演示机没有一台能逃脱苹果的屏幕降本结果。 #iPhone17ProMax# #iPhone18Pro# #iPhone17Pro#",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-69488be0567e",
+      "title": "我就不懂了网上全是说这款手机不行，为什么现在都卖断货了？",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73859298",
+      "image": "",
+      "summary": "我就不懂了网上全是说这款手机不行，为什么现在都卖断货了？",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-e286d9baa050",
       "title": "#酷安夜话# 算上基金，亏了40个馒头，要是买小米su7max该多好啊[喷] #iPhone18ProMax# #小米18ProMax#",
       "source": "酷安热榜",
@@ -642,108 +622,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-a2c00c6e82ef",
-      "title": "今年但凡对屏幕有一点要求的都不会选择18pro系列，苹果是绝对不会欺骗消费者的，官方宣布屏幕降本就真的降本了。18pro系列不管是三星屏还是LG屏统统发红，最不能接受的是暗阶显示缩水严重。在直营店看了10台演示机没有一台能逃脱苹果的屏幕降本结果。 #iPhone17ProMax# #iPhone18Pro# #iPhone17Pro#",
-      "source": "酷安热榜",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-20",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73853104",
-      "image": "",
-      "summary": "今年但凡对屏幕有一点要求的都不会选择18pro系列，苹果是绝对不会欺骗消费者的，官方宣布屏幕降本就真的降本了。18pro系列不管是三星屏还是LG屏统统发红，最不能接受的是暗阶显示缩水严重。在直营店看了10台演示机没有一台能逃脱苹果的屏幕降本结果。 #iPhone17ProMax# #iPhone18Pro# #iPhone17Pro#",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-5552cf3e61c7",
-      "title": "#酷安夜话# 是不是太穷了？我感觉1000多的手机都很贵。[流泪]",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-20",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73841613",
-      "image": "",
-      "summary": "#酷安夜话# 是不是太穷了？我感觉1000多的手机都很贵。[流泪]",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-de8792c0e96c",
-      "title": "ColorOS、OriginOS、MagicOS迎来大版本更新；努比亚NaviX Ultra正式发布；赛力斯与华为合作模式调整；此外还有多条新机及芯片爆料消息值得关注。",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-20",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73832971",
-      "image": "",
-      "summary": "ColorOS、OriginOS、MagicOS迎来大版本更新；努比亚NaviX Ultra正式发布；赛力斯与华为合作模式调整；此外还有多条新机及芯片爆料消息值得关注。",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-c3dec7225b3d",
-      "title": "荣耀 Magic9 Pro Max 预热：双 3D 生物识别",
-      "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-20",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73844322",
-      "image": "",
-      "summary": "荣耀 Magic9 Pro Max 预热：双 3D 生物识别",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-99c63b96cde1",
-      "title": "吴磊的旧手机去哪了",
-      "source": "微博热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-09-20",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E7%9A%84%E6%97%A7%E6%89%8B%E6%9C%BA%E5%8E%BB%E5%93%AA%E4%BA%86%23&t=31&band_rank=20&Refer=top",
-      "image": "",
-      "summary": "吴磊的旧手机去哪了",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-8d4632a9fc3a",
-      "title": "各家大模型已经很好用了，花大几千买台「豆包手机」，是效率刚需还是纯纯智商税？",
+      "id": "newsnow-91a4d07723d2",
+      "title": "手机掉在网约车上，司机要价五六百才肯归还，我该如何维权？",
       "source": "知乎热榜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -752,12 +632,32 @@ window.phoneRadarAuto = {
       "date": "2026-09-20",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2084321874725561568",
+      "url": "https://www.zhihu.com/question/362637142",
       "image": "",
-      "summary": "各家大模型已经很好用了，花大几千买台「豆包手机」，是效率刚需还是纯纯智商税？",
+      "summary": "手机掉在网约车上，司机要价五六百才肯归还，我该如何维权？",
       "tags": [
         "行业",
         "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-1bf44be760f1",
+      "title": "iPhone Duo上手排面拉满",
+      "source": "抖音热点",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-09-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.douyin.com/hot/2657826",
+      "image": "",
+      "summary": "iPhone Duo上手排面拉满",
+      "tags": [
+        "iPhone",
+        "爆料",
         "NewsNow"
       ]
     },
