@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-20T16:04:37.765Z",
+  "updatedAt": "2026-09-20T18:46:43.013Z",
   "news": [
     {
       "id": "weibo-317b4083ebf1",
@@ -10,8 +10,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-20",
-      "time": "16:04",
-      "publishedAt": "2026-09-20T16:04:37.765Z",
+      "time": "18:46",
+      "publishedAt": "2026-09-20T18:46:43.013Z",
       "url": "https://weibo.com/6048569942/RiZg5agKJ",
       "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1iha6jhdk20j31kw2dck6n.jpg",
       "summary": "Xiaomi 18 Pro真机实拍图，黑/白/粉/蓝，Pro是骁龙8E6，Pro Max是骁龙8EE6，全系有大马达，Pro Max比大更大；另外从2亿大底潜望镜的开孔看，这代也有长焦微距……[笑而不语]",
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-20",
-      "time": "16:04",
-      "publishedAt": "2026-09-20T16:04:37.765Z",
+      "time": "18:46",
+      "publishedAt": "2026-09-20T18:46:43.013Z",
       "url": "https://weibo.com/6048569942/RiWVBd9r0",
       "image": "",
       "summary": "小米18 Pro系列——全系2nm旗舰芯，全系M11 RGB OLED双尺寸直屏，全系0.99mm四等边，全系徕卡双2亿影像，Pro 7000mAh，Pro Max 8500mAh",
@@ -50,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-20",
-      "time": "16:04",
-      "publishedAt": "2026-09-20T16:04:37.765Z",
+      "time": "18:46",
+      "publishedAt": "2026-09-20T18:46:43.013Z",
       "url": "https://weibo.com/6048569942/RiWoTBn7L",
       "image": "",
       "summary": "9月各家大厂的新旗舰扎堆发布，市场竞争空前激烈，新机定价压力也空前得大。芯片内存大涨后，各家都开始疯狂卷视频，尤其荣耀新引入arri这种影像合作，价格压力就更大了。 如果9月准备换机，建议等这一波旗舰机全都发完，看看哪个系列哪个版本适合自己，再比一比视频、续航、性能还有价格。谁家产品更有竞争力，谁家产品价格更有诚意，就买谁。",
@@ -70,8 +70,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-20",
-      "time": "16:04",
-      "publishedAt": "2026-09-20T16:04:37.765Z",
+      "time": "18:46",
+      "publishedAt": "2026-09-20T18:46:43.013Z",
       "url": "https://weibo.com/6048569942/RiH3gugUA",
       "image": "",
       "summary": "新形态确实更受欢迎，接下来2027Q1还有两台阔折叠新机，第一台安卓阔直板争取3月，其他家刚刚立项，争取明年下半年能上线……[流鼻血]",
@@ -90,8 +90,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-20",
-      "time": "16:04",
-      "publishedAt": "2026-09-20T16:04:37.765Z",
+      "time": "18:46",
+      "publishedAt": "2026-09-20T18:46:43.013Z",
       "url": "https://weibo.com/6048569942/RiFWS9xw3",
       "image": "",
       "summary": "华为Pura X View阔直板首周激活销量约28.2W，实销均价约7000，开售时间5天，W37全品牌单品销量第一，同时助力华为品牌份额新高。",
@@ -110,8 +110,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-20",
-      "time": "16:04",
-      "publishedAt": "2026-09-20T16:04:37.765Z",
+      "time": "18:46",
+      "publishedAt": "2026-09-20T18:46:43.013Z",
       "url": "https://weibo.com/6048569942/RiFoMbpsR",
       "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1ih7pzfskxij349o37a7wl.jpg",
       "summary": "iPhone 18 Pro，小灵动岛是做了屏下红外泛光器，位于屏幕左上角，因为像素量需求不高，隐藏性优于iPhone Duo的真•屏下摄像头。 这就是iPhone直板机的技术路线了，一步步缩小灵动岛，直到正面是一块无缺的真•全面屏[吃瓜]",
@@ -119,6 +119,26 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "微博"
+      ]
+    },
+    {
+      "id": "auto-394a6de8ca34",
+      "title": "Vivo X500 price leak shows over $300 price jump in the base variant",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-20",
+      "time": "16:45",
+      "publishedAt": "2026-09-20T16:45:50.000Z",
+      "url": "https://www.gizmochina.com/2026/09/20/vivo-x500-price-leak-shows-over-300-price-jump-in-the-base-variant/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Vivo-X500-black-300x300.jpg?x96852",
+      "summary": "Vivo recently raised the price of every Vivo X300 Ultra variant in China, and a new leak suggests the upcoming Vivo X500 could also cost more than its predecessor. A blurry photo…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -182,26 +202,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-846f6d326313",
-      "title": "These 5 Samsung-exclusive features have rekindled my love for Android",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-20",
-      "time": "12:15",
-      "publishedAt": "2026-09-20T12:15:10.000Z",
-      "url": "https://www.androidpolice.com/these-samsung-exclusive-features-have-rekindled-my-love-for-android/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/09/samsung-galaxy-s24-ultra-surrounded-by-samsung-exclusive-features-like-dex-and-good-lock.png",
-      "summary": "My Galaxy S24 Ultra made me curious about Android again",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-50710c576e86",
       "title": "Honor 600 Elite 5G launches with an 8,100mAh battery, a 120Hz display, and IP69K protection",
       "source": "Gizmochina",
@@ -217,26 +217,6 @@ window.phoneRadarAuto = {
       "summary": "The Honor 600 Elite 5G is now listed on Honor’s LATAM website, marking the fourth addition to the Honor 600 lineup for the global market. It joins the Honor 600, Honor 600 Pro and…",
       "tags": [
         "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ec397ee57562",
-      "title": "The Galaxy Z Fold 8 cured my battery anxiety in ways the Pixel 10 Pro never could",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-20",
-      "time": "12:00",
-      "publishedAt": "2026-09-20T12:00:10.000Z",
-      "url": "https://www.androidpolice.com/the-z-fold-8-beats-my-pixel-10-pro-in-this-one-very-important-area/",
-      "image": "",
-      "summary": "Samsung's latest foldable has surprisingly good battery life",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -682,26 +662,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-b3fec2affb3a",
-      "title": "线下活动 | 全新 iPhone 发布在即，来与少数派一起看 Apple 发布会",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-09-20",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/114071",
-      "image": "",
-      "summary": "线下活动 | 全新 iPhone 发布在即，来与少数派一起看 Apple 发布会",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-7dbb3c5ecc1a",
       "title": "兄弟萌这个买来送我刚上大学的的老妹 应该够用吧 是不是买贵了很多[流泪] #小米17ProMax# #REDMIK100ProMax# #小米15#",
       "source": "酷安热榜",
@@ -802,26 +762,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-d41c073039ad",
-      "title": "iPhone18Pro 1TB实锤是QLC颗粒，真是起了个坏头，QLC颗粒读写速度更慢，使用寿命更短，写入速度、耐用性和持续性能表现较弱。幸好256和512GB还是TLC颗粒。#iPhone18# #数码日常# #iPhone18ProMax#",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-20",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73831217",
-      "image": "",
-      "summary": "iPhone18Pro 1TB实锤是QLC颗粒，真是起了个坏头，QLC颗粒读写速度更慢，使用寿命更短，写入速度、耐用性和持续性能表现较弱。幸好256和512GB还是TLC颗粒。#iPhone18# #数码日常# #iPhone18ProMax#",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-91a4d07723d2",
       "title": "手机掉在网约车上，司机要价五六百才肯归还，我该如何维权？",
       "source": "知乎热榜",
@@ -862,9 +802,9 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-9f37681ebebf",
-      "title": "iPhone 18 Pro曝出死机问题",
-      "source": "百度热搜",
+      "id": "newsnow-9720024d5178",
+      "title": "什么人适合买iPhone 18 Pro Max",
+      "source": "今日头条热榜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
       "type": "爆料",
@@ -872,9 +812,9 @@ window.phoneRadarAuto = {
       "date": "2026-09-20",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=iPhone+18+Pro%E6%9B%9D%E5%87%BA%E6%AD%BB%E6%9C%BA%E9%97%AE%E9%A2%98",
+      "url": "https://www.toutiao.com/trending/7687576955536805430/",
       "image": "",
-      "summary": "iPhone 18 Pro曝出死机问题",
+      "summary": "什么人适合买iPhone 18 Pro Max",
       "tags": [
         "iPhone",
         "爆料",
