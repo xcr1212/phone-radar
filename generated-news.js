@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-21T04:54:02.408Z",
+  "updatedAt": "2026-09-21T12:46:18.907Z",
   "news": [
+    {
+      "id": "weibo-f1dfdd501716",
+      "title": "数码闲聊站：vivo X500 Pro Max 真机上手体验： 省流——「这是一台不堆无用…",
+      "source": "数码闲聊站",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-21",
+      "time": "12:46",
+      "publishedAt": "2026-09-21T12:46:18.907Z",
+      "url": "https://weibo.com/6048569942/Rjas39yEi",
+      "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ihbb9c78anj33lr5eob2c.jpg",
+      "summary": "vivo X500 Pro Max 真机上手体验： 省流——「这是一台不堆无用参数，真正适配更多人的影像旗舰」，X500 Pro Max配置更加均衡合理，影像能力也极其亮眼的全能安卓旗舰。 ——vivo X500 Pro Max采用一块6.85英寸2K+144Hz BOE Q11直屏，边框很窄，实测白底手动亮度870nit，JNCD均值0.24，大幅优化显…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "weibo-1fbda01bccb9",
+      "title": "数码闲聊站：小米18 Pro原生防窥屏 VS iPhone 18 Pro防窥膜 小米全系R…",
+      "source": "数码闲聊站",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-21",
+      "time": "12:46",
+      "publishedAt": "2026-09-21T12:46:18.907Z",
+      "url": "https://weibo.com/6048569942/Rj7Woyf3o",
+      "image": "https://tvax2.sinaimg.cn/large/006BlblIly1ihb86du3u0j31hc0u0ta8.jpg",
+      "summary": "小米18 Pro原生防窥屏 VS iPhone 18 Pro防窥膜 小米全系RGB无损像素排列，防窥像素做了单独控制，关防窥全像素点亮，正面效果无影响。 开防窥正常像素关闭，不是极近距离观看正视观感没什么变化，侧面防窥效果略逊于防窥膜，但亮度和清晰度都要优于防窥膜 #小米18Pro系列硬件级防窥屏# 视频无法显示，请前往 微博视频 观看。",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "微博"
+      ]
+    },
     {
       "id": "weibo-b7b82af2b997",
       "title": "数码闲聊站：独家信息：iPhone 20 Pro系列早期屏幕： iPhone 20 Pro…",
@@ -10,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-21",
-      "time": "04:54",
-      "publishedAt": "2026-09-21T04:54:02.408Z",
+      "time": "12:46",
+      "publishedAt": "2026-09-21T12:46:18.907Z",
       "url": "https://weibo.com/6048569942/Rj6MNs5hS",
       "image": "",
       "summary": "独家信息，iPhone 20 Pro系列早期屏幕： iPhone 20 Pro——6.41\"±2686*1236p± iPhone 20 Pro Max——6.96\"±2912*1340p± 测试无边四曲面设计，屏幕打孔方案(小灵动岛)",
@@ -30,8 +70,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-21",
-      "time": "04:54",
-      "publishedAt": "2026-09-21T04:54:02.408Z",
+      "time": "12:46",
+      "publishedAt": "2026-09-21T12:46:18.907Z",
       "url": "https://weibo.com/6048569942/RiZg5agKJ",
       "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1iha6jhdk20j31kw2dck6n.jpg",
       "summary": "Xiaomi 18 Pro真机实拍图，黑/白/粉/蓝，Pro是骁龙8E6，Pro Max是骁龙8EE6，全系有大马达，Pro Max比大更大；另外从2亿大底潜望镜的开孔看，这代也有长焦微距……[笑而不语]",
@@ -42,23 +82,383 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "weibo-2b741e463901",
-      "title": "数码闲聊站：小米18 Pro系列——全系2nm旗舰芯，全系M11 RGB OLED双尺寸直…",
-      "source": "数码闲聊站",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "id": "auto-e2947fb0decc",
+      "title": "Apple’s clever software solution lets iPhone batteries skirt shipping limits",
+      "source": "The Verge",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
-      "trust": "高关注爆料源",
+      "trust": "媒体汇总",
       "date": "2026-09-21",
-      "time": "04:54",
-      "publishedAt": "2026-09-21T04:54:02.408Z",
-      "url": "https://weibo.com/6048569942/RiWVBd9r0",
-      "image": "",
-      "summary": "小米18 Pro系列——全系2nm旗舰芯，全系M11 RGB OLED双尺寸直屏，全系0.99mm四等边，全系徕卡双2亿影像，Pro 7000mAh，Pro Max 8500mAh",
+      "time": "12:37",
+      "publishedAt": "2026-09-21T12:37:27.000Z",
+      "url": "https://www.theverge.com/tech/998144/apple-iphone-18-pro-max-battery-firmware-limit",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268735_iPhone_18_Pro_MAX_AKrales_0994.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "Apple has developed an unexpected workaround to prevent the iPhone 18 Pro Max from being hit by shipping restrictions on big batteries. There's a \"battery-firmware solution\" in pl…",
       "tags": [
-        "Xiaomi",
+        "iPhone",
         "爆料",
-        "微博"
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-0a327e9e44bd",
+      "title": "竹本青：【收到用户升级诉求，vivo OriginOS 7 新增适配多款老机型】 9月21日，针对大量老机型用户反馈的Or…",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-21",
+      "time": "12:31",
+      "publishedAt": "2026-09-21T12:31:58.000Z",
+      "url": "https://www.coolapk.com/feed/73893637",
+      "image": "http://image.coolapk.com/feed/2026/0921/20/4248714_0080a046_3917_3784_585@1271x925.jpg",
+      "summary": "【收到用户升级诉求，vivo OriginOS 7 新增适配多款老机型】 9月21日，针对大量老机型用户反馈的OriginOS 7升级诉求，vivo客服回应并公布适配计划： vivo Pad3 Pro、iQOO Pad2 Pro预计2026年12月底陆续推送； vivo Pad3、iQOO Pad2、iQOO Z9 Turbo、iQOO Z9 Turbo长…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-72af4eda5a85",
+      "title": "华为、vivo、OPPO、小米、荣耀五大国产主流手机全部接入中国地震预警网",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-21",
+      "time": "12:21",
+      "publishedAt": "2026-09-21T12:21:17.000Z",
+      "url": "https://www.ithome.com/1/005/426.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/0c0a0ce6-cd6f-48ef-b5ea-f9896332d27c.png",
+      "summary": "IT之家 9 月 21 日消息，据中国地震台网，近日，荣耀手机地震预警应用全面通过中国地震台网中心技术评测，正式接入中国地震预警网。至此， 华为、vivo、OPPO、小米、荣耀 五大国产主流手机厂商全部获得官方授权，依托统一的公共服务模型算法与服务规范，面向亿万用户免费提供权威地震预警服务。这标志着我国地震预警公共服务在移动终端领域实现国产主流品牌全覆盖，…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-61a4f12aafff",
+      "title": "竹本青：【影石Insta360 Luna Ultra 长焦增距镜 正式发布，售价199元】 ● 1.5倍光学增距 ● 安装…",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-21",
+      "time": "12:10",
+      "publishedAt": "2026-09-21T12:10:43.000Z",
+      "url": "https://www.coolapk.com/feed/73893169",
+      "image": "http://image.coolapk.com/feed/2026/0921/20/4248714_5eaa4503_2640_3008_849@750x1116.png",
+      "summary": "【影石Insta360 Luna Ultra 长焦增距镜 正式发布，售价199元】 ● 1.5倍光学增距 ● 安装后22.5倍直出 ● 全新舞台模式入口 ● 录像中一键拍实况 ● 升级4K超清竖拍 #今日热点# #影石Insta360LunaUltra#",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-bad7523e9536",
+      "title": "竹本青：【iPhone 17系列 中国区最新销量曝光：周增约42.05万台，累计约4271万台】 9月21日，博主「RD观…",
+      "source": "竹本青",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-21",
+      "time": "12:09",
+      "publishedAt": "2026-09-21T12:09:42.000Z",
+      "url": "https://www.coolapk.com/feed/73893153",
+      "image": "http://image.coolapk.com/feed/2026/0921/20/4248714_f72a70aa_2581_8754_315@1440x411.jpg",
+      "summary": "【iPhone 17系列 中国区最新销量曝光：周增约42.05万台，累计约4271万台】 9月21日，博主「RD观测」发布第三方统计数据：截至2026年第37周，iPhone 17系列手机在中国市场累计销量约4271.07万台，周新增约42.05万台。 前几周数据如下： 截至 W36 —— 约4229.02万（周增49.44万） 截至 W35 —— 约41…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-8f9f668e7bec",
+      "title": "影石 Luna Ultra 演唱会超长焦套装上市：带来 22.5 倍长焦、舞台模式与 4K 竖拍直出，售价 4358 元",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-21",
+      "time": "12:04",
+      "publishedAt": "2026-09-21T12:04:01.000Z",
+      "url": "https://www.ithome.com/1/005/422.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/be07c4b2-8ca7-439e-9ae3-9cbb07d1e016.jpg",
+      "summary": "IT之家 9 月 21 日消息，今日，影石 Insta360 为旗舰云台相机 Luna Ultra 带来长焦与人像两大升级。长焦方面，搭配全新增距镜，Luna Ultra 最高可实现 22.5 倍变焦、450mm 等效焦距，化身演唱会“小巨炮”；人像方面，新增 4K 超清竖拍、电影感实况与美颜实况、竖拍照片，进一步丰富人像直出体验。此次更新还带来全新舞台模…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8c196714a980",
+      "title": "vivo 影像创新外设“随拍屏”亮相：3.92 英寸触控屏，仅 68g 重",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-21",
+      "time": "11:38",
+      "publishedAt": "2026-09-21T11:38:36.000Z",
+      "url": "https://www.ithome.com/1/005/417.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/76f42330-b639-4d7a-bd46-61f1621a3d6c.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 21 日消息，vivo X500 系列及智慧终端新品发布会正在举行，vivo 影像创新外设“随拍屏”正式亮相。 IT之家从发布会现场获悉，该产品配备 3.92 英寸超大 AMOLED 触控屏 ，机身厚度仅 5.65mm，重量仅 68g，支持 419 PPI 超高清晰度、10m 内无线传输。 此外，该产品超深度适配 vivo 原生设计， 支…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6c46eadcbb86",
+      "title": "iPhone 20 Pro Display Sizes Leak Ahead of 2027 Launch",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-21",
+      "time": "11:30",
+      "publishedAt": "2026-09-21T11:30:01.000Z",
+      "url": "https://www.macrumors.com/2026/09/21/iphone-20-pro-display-sizes-leak/",
+      "image": "https://images.macrumors.com/article-new/2026/01/Mostly-Screen-iPhone-Purple-Feature-2027.jpg",
+      "summary": "Apple's 20th-anniversary iPhone lineup could feature slightly larger displays than the iPhone 18 Pro models, if a new leak shared on Weibo is accurate. Prolific Chinese leaker Dig…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-26464574a456",
+      "title": "vivo 公布动态影像战略：持续追求、拍照第一、视频唯一",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-21",
+      "time": "11:17",
+      "publishedAt": "2026-09-21T11:17:21.000Z",
+      "url": "https://www.ithome.com/1/005/407.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/4078f318-b2f0-41ea-a0ea-ad9e11738524.jpg",
+      "summary": "IT之家 9 月 21 日消息，vivo X500 系列及智慧终端新品发布会正在举行，官方现场公布动态影像战略：持续追求、拍照第一、视频唯一。 IT之家从发布会现场获悉，vivo 带来了蓝图动态影像技术栈： 动态影像体验 ：动态视频、Live 核心技术能力 ：专业防抖、动态一致性、高动态范围、高信噪表现、电影色彩 底层技术基石 ：自研影像芯片、蓝图传感器技…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-af62a40c51fb",
+      "title": "Gaming on the Pixel 11 is a mess, and I traced it to one hidden setting",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-21",
+      "time": "10:00",
+      "publishedAt": "2026-09-21T10:00:44.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-gaming-stutter-genshin-impact-fix-3712770/",
+      "image": "",
+      "summary": "The Pixel 11 debuts ANGLE graphics translation, and it's a mess for Genshin Impact.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4bcd2a2c2231",
+      "title": "Pixel 11 battery drain could have an unexpected culprit: Your Wi-Fi router",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-21",
+      "time": "09:29",
+      "publishedAt": "2026-09-21T09:29:25.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-wifi-battery-drain-router-issue-3713311/",
+      "image": "",
+      "summary": "Tests point to a router-specific sleep issue, but the cause isn't confirmed.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-def263809756",
+      "title": "瑞银：iPhone 18 Pro 系列手机初期需求偏弱，维持苹果“中性”评级",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-21",
+      "time": "08:13",
+      "publishedAt": "2026-09-21T08:13:18.000Z",
+      "url": "https://www.ithome.com/1/005/293.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/ea3718e9-a5a1-4cd6-ad50-f9de9f26b91a.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 21 日消息，瑞士银行近日重申苹果股票的“中性”评级，维持 296 美元 （IT之家注：现汇率约合 1,985 元人民币） 目标价，原因为 iPhone 18 Pro 系列手机需求相对疲软。 瑞银 Evidence Lab 分析全球 30 多个地区 iPhone 供应状况后表示，iPhone 18 Pro Max 平均等候拿货时间为 23…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-45af613a4e40",
+      "title": "Apple could steal Pixel’s homework for its Nest Hub rival and the iPhone Duo",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-21",
+      "time": "08:12",
+      "publishedAt": "2026-09-21T08:12:26.000Z",
+      "url": "https://www.androidauthority.com/apple-smart-display-iphone-duo-pixel-face-unlock-3713334/",
+      "image": "",
+      "summary": "It could launch as early as next month.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-5df6efa742f8",
+      "title": "竹本青：一加 16「星际光效」预热：不同场景，不同光效",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-21",
+      "time": "07:36",
+      "publishedAt": "2026-09-21T07:36:54.000Z",
+      "url": "https://www.coolapk.com/feed/73887899",
+      "image": "http://image.coolapk.com/feed/2026/0921/15/4248714_be22371c_6213_2665_642@1272x2772.jpg",
+      "summary": "【李杰预热一加 16「星际光效」：不同场景，不同光效】 ● 覆盖多种日常场景 ● 可自定义生效时间 ● 常亮显示、亮度调节 ● 四种个性光效选择 #一加16# #今日热点# #ColorOS17#",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-389683c1ae08",
+      "title": "The iPhone 20 Pro could copy this display from a futuristic Android concept",
+      "source": "Android Authority",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-21",
+      "time": "07:35",
+      "publishedAt": "2026-09-21T07:35:01.000Z",
+      "url": "https://www.androidauthority.com/iphone-20-pro-display-leak-3713279/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Apple-iPhone-18-Pro-Max-in-all-colors.jpg",
+      "summary": "Apple may be planning an iPhone with curves in all the right places.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-6c3a7aa52434",
+      "title": "竹本青：vivo韩伯啸：X500 Pro可能是72毫米以内最好的手机",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-21",
+      "time": "07:27",
+      "publishedAt": "2026-09-21T07:27:33.000Z",
+      "url": "https://www.coolapk.com/feed/73887696",
+      "image": "http://image.coolapk.com/feed/2026/0921/15/4248714_132f3cc4_5652_0792_969@1439x1989.jpg",
+      "summary": "【vivo韩伯啸：X500 Pro可能是72毫米以内最好的手机】 9月21日，vivo产品经理 韩伯啸 再次介绍X500 Pro。他强调，该产品可能是机身宽度72毫米以内最好的手机。 “如今小屏越来越少了，倒是出现了一些完全不考虑单手使用和衣服口袋的82毫米以上手机。而如果想要一部从性能到影像真正Pro定位的小直屏，就选择更少了，X500 Pro可能是你能…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-635648dace8e",
+      "title": "This is the OnePlus 16 and it has a Pixel HiLight-like feature",
+      "source": "Android Authority",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-21",
+      "time": "06:49",
+      "publishedAt": "2026-09-21T06:49:14.000Z",
+      "url": "https://www.androidauthority.com/oneplus-16-design-colors-revealed-3713268/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/oneplus-16-official.jpg",
+      "summary": "You'd probably want to import this one.",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b29bc6cf987b",
+      "title": "体验过华为 Pura X View 后，他们最想留下的「阔体验」是……",
+      "source": "少数派",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-21",
+      "time": "05:26",
+      "publishedAt": "2026-09-21T05:26:32.000Z",
+      "url": "https://sspai.com/post/114734",
+      "image": "",
+      "summary": "不久前，我们发起了「华为PuraXView新品探索计划」，请大家去线下门店亲自感受华为PuraXView，也向我们分享那些最真实、细致的上手体验。比起参数表，我们更想知道，换成一块更阔的屏幕后，到底哪 ...",
+      "tags": [
+        "Huawei",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-36598b71b725",
+      "title": "iPhone 20 Pro series screen details leak, including resolutions and a punch-hole cutout",
+      "source": "Gizmochina",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-21",
+      "time": "05:06",
+      "publishedAt": "2026-09-21T05:06:23.000Z",
+      "url": "https://www.gizmochina.com/2026/09/21/iphone-20-pro-series-screen-details-leak-including-resolutions-and-a-punch-hole-cutout/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Apple-iPhone-18-Pro-2up-260909-lp.jpg.landing-big_2x-300x169.jpg?x96852",
+      "summary": "Digital Chat Station has shared early screen details for the iPhone 20 Pro series, adding to its earlier claims about a quad-curved display for Apple’s 20th-anniversary iPhone. Ac…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -82,46 +482,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-e4b7704d9419",
-      "title": "【IT之家图赏】一加 16「明日星光」实拍：星际探索美学，一加史上首个呼吸灯设计「全新星际光效」",
-      "source": "IT之家",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-21",
-      "time": "04:09",
-      "publishedAt": "2026-09-21T04:09:01.000Z",
-      "url": "https://www.ithome.com/1/005/129.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/8e41f5c7-b41a-4c22-bd8d-c274343ab61f.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 21 日消息，一加 16，即将发布。 这一次，一加把设计灵感放到了更辽阔的星空里。从人类仰望星空，到一步步迈向星海，一加 16 以「星际探索美学」为设计理念，带来「明日星光」「火星杰作」「黑暗森林」三款全新配色。 其中，「明日星光」是这次的主推配色，也是很有辨识度的一款设计。手机背面藏着一个小巧思 —— 将“寻找夜空中最亮的一颗星”的地图…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-575f6ae79794",
-      "title": "Honor Magic 9 will take live streaming to next level with ARRI Cinema mode",
-      "source": "Huawei Central",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-21",
-      "time": "04:04",
-      "publishedAt": "2026-09-21T04:04:42.000Z",
-      "url": "https://www.huaweicentral.com/honor-magic-9-will-take-live-streaming-to-next-level-with-arri-cinema-mode/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/09/Cinematic-Features.jpg",
-      "summary": "Honor Magic 9 series will elevate its videography with a new ARRI Cinema live-streaming feature. We are just a week away from the upcoming flagship’s launch, and meanwhile, the co…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-5ec0fa8f9be2",
       "title": "iFixit Shares iPhone 18 Pro Teardown With Inside Look at New Features",
       "source": "MacRumors",
@@ -131,7 +491,7 @@ window.phoneRadarAuto = {
       "trust": "媒体汇总",
       "date": "2026-09-21",
       "time": "03:44",
-      "publishedAt": "2026-09-21T03:44:59.000Z",
+      "publishedAt": "2026-09-21T03:44:50.000Z",
       "url": "https://www.macrumors.com/2026/09/20/ifixit-iphone-18-pro-teardown/",
       "image": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-Battery.jpg",
       "summary": "iFixit today published an iPhone 18 Pro and iPhone 18 Pro Max teardown in both article and video formats, providing a closer look inside the new devices. The teardown confirms the…",
@@ -139,106 +499,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-8570b7a5cb7d",
-      "title": "跳过 19 命名：苹果 iPhone 20 Pro 系列早期屏幕信息曝光，测试无边四曲面设计",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-21",
-      "time": "03:36",
-      "publishedAt": "2026-09-21T03:36:10.000Z",
-      "url": "https://www.ithome.com/1/005/121.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/7187e030-d1e6-419f-ad8f-817805d5c571.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 21 日消息，博主 @数码闲聊站 今日爆料了苹果 iPhone 20 Pro 系列早期屏幕的部分参数： iPhone 20 Pro —— 6.41\"±2686*1236p± iPhone 20 Pro Max —— 6.96\"±2912*1340p± 博主表示， 苹果 iPhone 20 Pro 系列正测试无边四曲面设计，屏幕打孔方案（小…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-2d4defb8ae25",
-      "title": "竹本青：回来吧安卓四曲屏，我最骄傲的信仰，历历在目的手感，还有给力的贴膜 #数码日常#",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-21",
-      "time": "03:24",
-      "publishedAt": "2026-09-21T03:24:48.000Z",
-      "url": "https://www.coolapk.com/feed/73883414",
-      "image": "",
-      "summary": "回来吧安卓四曲屏，我最骄傲的信仰，历历在目的手感，还有给力的贴膜 #数码日常#",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-d82359331764",
-      "title": "小米 18 Pro 系列手机超级像素屏幕 2.0 亮点公布：新一代 M11 发光体系、全 RGB 无损排列",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-21",
-      "time": "03:16",
-      "publishedAt": "2026-09-21T03:16:47.000Z",
-      "url": "https://www.ithome.com/1/005/117.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/d456a84c-c5e2-483f-a869-a9e7b347f289.jpg",
-      "summary": "IT之家 9 月 21 日消息，小米手机今日宣布， 小米 18 Pro 系列的超级像素屏幕迈入 2.0 时代 ，同时拥有“旗舰画质与原生硬件级防窥”。小米官方宣称，这是面向未来的全新屏幕解决方案。 IT之家注意到，小米官方还公布了超级像素屏幕 2.0 的核心亮点： 新一代 M11 发光体系 ，新型绿色发光材料 发光效率跃升 20%， 4000nits 超高…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-679dfd2c0050",
-      "title": "竹本青：【跳过19命名，消息称iPhone 20 Pro系列 测试无边四曲面屏】 Pro —— 6.41\"±2686*12…",
-      "source": "竹本青",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-21",
-      "time": "03:15",
-      "publishedAt": "2026-09-21T03:15:35.000Z",
-      "url": "https://www.coolapk.com/feed/73883214",
-      "image": "http://image.coolapk.com/feed/2026/0921/11/4248714_a416aa38_2989_1513_69@1440x1702.jpg",
-      "summary": "【跳过19命名，消息称iPhone 20 Pro系列 测试无边四曲面屏】 Pro —— 6.41\"±2686*1236p± Pro Max —— 6.96\"±2912*1340p± ● 无边四曲面设计 ● 2D直屏+玻璃盖板 ● 屏幕打孔小灵动岛 9月21日，数码闲聊站援引供应链信息称，2027款 iPhone 将跳过 19系列 命名，直接推出iPhone…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-c4d1d964fd40",
-      "title": "JSCHEN小小狐：曝 iPhone 20 Pro 系列测试无边四曲屏，跳过 19 命名",
-      "source": "JSCHEN小小狐",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-21",
-      "time": "03:15",
-      "publishedAt": "2026-09-21T03:15:33.000Z",
-      "url": "https://www.coolapk.com/feed/73883213",
-      "image": "http://image.coolapk.com/feed/2026/0921/11/4702274_398d846e_0532_2835_545@1440x852.jpg",
-      "summary": "『跳过 19，曝 iPhone 20 Pro 测试无边四曲屏』 知名数码博主 数码闲聊站 今日爆料称，根据供应链信息，下一代 iPhone 或跳过 19 更名为 iPhone 20 系列，并表示 iPhone 20 Pro 系列早期屏幕方案采用「无边四曲面」设计 + 屏下打孔方案（18 Pro 同款小灵动岛）。爆料规格如下： iPhone 20 Pro -…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -262,86 +522,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-7462fad6b05c",
-      "title": "竹本青：OPPO Find X10 Pro Max预热：全焦段 8K Log视频、Open Gate全画幅",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-21",
-      "time": "03:06",
-      "publishedAt": "2026-09-21T03:06:17.000Z",
-      "url": "https://www.coolapk.com/feed/73883029",
-      "image": "http://image.coolapk.com/feed/2026/0921/11/4248714_d2e3b76a_9974_7138_203-livepic@1080x1440.jpg",
-      "summary": "【OPPO Find X10 Pro Max影像预热：全焦段 8K Log视频、Open Gate全画幅】 ● 全焦段 8K Log 视频录制： 行业唯一支持的影像旗舰，保留更多画面细节与调色空间 ● 三焦段Open Gate全画幅录制： 直接调用完整传感器记录 4:3 画面，一次拍摄，横竖构图自由切换，后期空间更大。 ● 铁头 KHRONOS 摄影生态：…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-30786a0af9b4",
-      "title": "竹本青：小米18 Pro系列将全系搭载「硬件级防窥屏」",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-21",
-      "time": "03:00",
-      "publishedAt": "2026-09-21T03:00:59.000Z",
-      "url": "https://www.coolapk.com/feed/73882945",
-      "image": "http://image.coolapk.com/feed/2026/0921/11/4248714_a36aed10_9658_7459_590@1080x4213.jpg",
-      "summary": "【小米18 Pro系列 全系搭载「硬件级防窥屏」：两种像素形态，画质依旧清晰】 ● 一块屏幕，两种像素形态：一组防窥像素，一组非防窥像素。 可视角度不同，1:1交错排列。日常使用时全像素点亮。开启防窥后，仅保留防窥像素发光，侧看隐私保护。 ● 启动防窥，画质依旧清晰：小米防窥屏采用原生硬件方案，得益于超级像素技术，无论是否开启防窥，每颗像素都有完整的RGB…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-0087e23903e9",
-      "title": "Huawei Mate 90 Pro could feature a new chipset called ‘Kirin 9035’",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-21",
-      "time": "02:57",
-      "publishedAt": "2026-09-21T02:57:57.000Z",
-      "url": "https://www.huaweicentral.com/huawei-mate-90-pro-kirin-9035/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/09/kirin-9050-pro-i1-1.jpg",
-      "summary": "Huawei Mate 90 Pro is making headlines to debut with an all-new mobile chip named “Kirin 9035”. Many leakers suggest that the new processor will be superior to the 2025 Kirin vers…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-e4bc338b8f54",
-      "title": "竹本青：华为Pura X Max 最新销量曝光：周增约2.66万台",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-21",
-      "time": "02:52",
-      "publishedAt": "2026-09-21T02:52:40.000Z",
-      "url": "https://www.coolapk.com/feed/73882812",
-      "image": "http://image.coolapk.com/feed/2026/0921/10/4248714_df8a7ef4_9159_1371_193@1440x528.jpg",
-      "summary": "【华为Pura X Max 最新销量曝光：周增约2.66万台，全系累计约83.7万台】 Pura X Max ● 截至 W36 —— 约41.65万（周增1.55万） 截至 W35 —— 约40.1万（周增1.71万） 截至 W34 —— 约38.39万（周增2.07万） 截至 W33 —— 约36.32万（周增1.86万） Pura X Max 典藏版…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-b10877cf9969",
       "title": "A Shorter Apple Pencil Was Supposed to Launch Alongside iPhone Duo",
       "source": "MacRumors",
@@ -357,126 +537,6 @@ window.phoneRadarAuto = {
       "summary": "A shorter Apple Pencil for the iPhone Duo was in development, but Apple scrapped it due to \"technical problems ahead of mass production,\" according to Bloomberg 's Mark Gurman . I…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-5557c44dbb82",
-      "title": "竹本青：徐洁云辟谣：网传\"毒贩驾小米SU7\"系谣言",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-21",
-      "time": "02:35",
-      "publishedAt": "2026-09-21T02:35:36.000Z",
-      "url": "https://www.coolapk.com/feed/73882522",
-      "image": "http://image.coolapk.com/feed/2026/0921/10/4248714_e012d161_8134_9576_300@1270x998.jpg",
-      "summary": "【徐洁云辟谣：网传\"毒贩驾小米SU7\"系谣言，原视频为十多年前沃尔沃报道】 9月21日，针对网传\"嫌疑人驾驶小米SU7，因车辆操控好、安全性高，警方称怕堵截不住\"的视频截图，小米高管徐洁云转发辟谣。 据悉，原始视频出自央视《天网》栏目十多年前的一期禁毒报道，当时涉案车辆为沃尔沃。该片段此前已被多次魔改，先后被P成高尔夫GTI、黄龙摩托、9号电动车等。 #今…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-7ab1f0a969f0",
-      "title": "消息称华为 Mate 90 系列年度旗舰手机将在 9 月 29 日发布",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-21",
-      "time": "02:19",
-      "publishedAt": "2026-09-21T02:19:22.000Z",
-      "url": "https://www.ithome.com/1/005/085.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/169ff869-271d-4e79-bfd3-b8b7ebb9fb57.jpg",
-      "summary": "IT之家 9 月 21 日消息，今日早些时候，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东刚刚宣布， 智界 RX 及鸿蒙智行新品发布会定档 9 月 28 日 14:30 举行 。 根据此前爆料，华为 Mate 90 系列手机也将在本月发布，但遗憾的是，今天华为并未官宣这款年度旗舰的发布会时间。但博主 @熠熠玩数码 透露， Mate 90…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-82b400a53c74",
-      "title": "竹本青：看得出来发布确实时间紧张了，李杰从来没预热这么快过，是第一次物料公布这么早 #一加16# #一加15#",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-21",
-      "time": "02:12",
-      "publishedAt": "2026-09-21T02:12:40.000Z",
-      "url": "https://www.coolapk.com/feed/73882088",
-      "image": "",
-      "summary": "看得出来发布确实时间紧张了，李杰从来没预热这么快过，是第一次物料公布这么早 #一加16# #一加15#",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-dbcfc0a7d33e",
-      "title": "一加 16 正式亮相，新配色「明日星光」真机官宣进驻全国 OPPO 线下门店",
-      "source": "IT之家",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-21",
-      "time": "01:40",
-      "publishedAt": "2026-09-21T01:40:09.000Z",
-      "url": "https://www.ithome.com/1/005/058.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/ea2454ca-616e-4329-b04e-2a8367c49e32.jpg?x-bce-process=image/auto-orient,o_1",
-      "summary": "IT之家 9 月 21 日消息，一加手机官方今日公开了一加 16 系列的官图，新机提供三款配色，含明日星光 / 黑暗森林 / 火星杰作，定位巅峰性能旗舰。 一加中国区总裁李杰今日详细介绍了一加 16 新配色「明日星光」的设计亮点，称其延续了一加精致、扁平的设计风格，加入全新的「丝绸玻璃工艺」，摸起来细腻舒服、不易沾指纹，拿在手里很有质感。 李杰还宣布， 从…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a3b620bf3936",
-      "title": "小米 18 Pro 系列手机官宣搭载超级像素屏幕 2.0，原生硬件级防窥",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-21",
-      "time": "01:22",
-      "publishedAt": "2026-09-21T01:22:10.000Z",
-      "url": "https://www.ithome.com/1/005/054.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/d456a84c-c5e2-483f-a869-a9e7b347f289.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 21 日消息，小米手机今日宣布，小米 18 Pro 系列的超级像素屏幕迈入 2.0 时代，同时拥有“ 旗舰画质与原生硬件级防窥 ”，亮度表现、功耗控制、防窥体验“样样出众”。 小米官方宣称， 这是面向未来的全新屏幕解决方案 。 海报显示，小米 18 Pro 系列的屏幕采用 M11 发光体系、新型绿色发光材料、全 RGB 像素排列、原生硬件…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-05d18ff67991",
-      "title": "Huawei announces a new launch conference for September 28",
-      "source": "Huawei Central",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-21",
-      "time": "01:21",
-      "publishedAt": "2026-09-21T01:21:31.000Z",
-      "url": "https://www.huaweicentral.com/huawei-announces-a-new-launch-conference-for-september-28/",
-      "image": "https://www.huaweicentral.com/wp-content/uploads/2026/09/huawei-luxeed-rx-september-28-launch-imt1.jpg",
-      "summary": "Huawei has announced a new product launch conference on September 28 without confirming the Mate 90 series products in teasers. Instead, this is a car launch. Huawei said the prod…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
@@ -499,26 +559,6 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-b83e984297ea",
-      "title": "华为 Pura X View 阔直板手机获鸿蒙 HarmonyOS 7.0.0.107 SP8 升级，沉浸光感均衡档新增粒子动效",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-21",
-      "time": "00:39",
-      "publishedAt": "2026-09-21T00:39:20.000Z",
-      "url": "https://www.ithome.com/1/005/038.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/7b337fe8-37c9-436b-9d8f-69292b287f21.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 21 日消息，华为 Pura X View 阔直板手机迎来了鸿蒙 HarmonyOS 7.0.0.107 SP8 版本升级，系统包大小约 4.88 GB。据介绍，新版本沉浸光感均衡档将新增粒子动效，相机夜景模式新增绚丽星空、星空人像拍摄场景等。 IT之家附华为 Pura X View 阔直板手机此次更新内容如下： 显示 1. 沉浸光感均衡…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -742,6 +782,66 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-8e7ce402bbec",
+      "title": "曝 iPhone 20 Pro 系列测试无边四曲屏，跳过 19 命名",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73883213",
+      "image": "",
+      "summary": "曝 iPhone 20 Pro 系列测试无边四曲屏，跳过 19 命名",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-b24fb787ee32",
+      "title": "兄弟们，这是我刚认识的相亲对象，刚认识几个小时就抱了抱她花了点钱吧，他爸妈跟没有一样，不管她从小跟奶奶一起生活，我对她有好感家里面就住几百米两家，她手机好几年了，特别卡，这小女孩手里面没有一点钱我想给她换个手机，现在很是纠结怎么办，酷友们#vivoX300Ultra# #OPPOFindX9Ultra# #相亲#",
+      "source": "酷安热榜",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73794657",
+      "image": "",
+      "summary": "兄弟们，这是我刚认识的相亲对象，刚认识几个小时就抱了抱她花了点钱吧，他爸妈跟没有一样，不管她从小跟奶奶一起生活，我对她有好感家里面就住几百米两家，她手机好几年了，特别卡，这小女孩手里面没有一点钱我想给她换个手机，现在很是纠结怎么办，酷友们#vivoX300Ultra# #OPPOFindX9Ultra# #相亲#",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-36e164e1357d",
+      "title": "小米这是被薅多了么，新机只换不修的权益取消了",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73862381",
+      "image": "",
+      "summary": "小米这是被薅多了么，新机只换不修的权益取消了",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-300d5032c385",
       "title": "隔壁🍠挑iPhone屏幕的高人，一年退货可能达70台…… #iPhone17# #iPhone18#",
       "source": "酷安热榜",
@@ -762,79 +862,19 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-d814b07b0b47",
-      "title": "18pm续航，最真实的吧我这个，几乎是一半wifi一半流量，极客湾的测评多少也有水分吧[受虐滑稽][受虐滑稽][受虐滑稽] #OPPOFindX10ProMax# #iPhone18ProMax# #小米18ProMax#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-21",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73874665",
-      "image": "",
-      "summary": "18pm续航，最真实的吧我这个，几乎是一半wifi一半流量，极客湾的测评多少也有水分吧[受虐滑稽][受虐滑稽][受虐滑稽] #OPPOFindX10ProMax# #iPhone18ProMax# #小米18ProMax#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-bdcd5b048c5a",
-      "title": "今年但凡对屏幕有一点要求的都不会选择18pro系列，苹果是绝对不会欺骗消费者的，官方宣布屏幕降本就真的降本了。18pro系列不管是三星屏还是LG屏统统发红，最不能接受的是暗阶显示缩水严重。在直营店看了10台演示机没有一台能逃脱苹果的屏幕降本结果。 #iPhone17ProMax# #iPhone18Pro# #iPhone17Pro#",
-      "source": "酷安热榜",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-21",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73853104",
-      "image": "",
-      "summary": "今年但凡对屏幕有一点要求的都不会选择18pro系列，苹果是绝对不会欺骗消费者的，官方宣布屏幕降本就真的降本了。18pro系列不管是三星屏还是LG屏统统发红，最不能接受的是暗阶显示缩水严重。在直营店看了10台演示机没有一台能逃脱苹果的屏幕降本结果。 #iPhone17ProMax# #iPhone18Pro# #iPhone17Pro#",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-9558d6282813",
-      "title": "苹果硬件负责人称看到 iPhone 贴膜就浑身不自在，这反映了厂商与用户之间怎样的理念冲突？",
-      "source": "知乎热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "市场报告",
-      "trust": "媒体汇总",
-      "date": "2026-09-21",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2084949965886048196",
-      "image": "",
-      "summary": "苹果硬件负责人称看到 iPhone 贴膜就浑身不自在，这反映了厂商与用户之间怎样的理念冲突？",
-      "tags": [
-        "iPhone",
-        "市场报告",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-568d0c08187d",
-      "title": "iPhone 18 Pro屏幕“斑点”从何而来",
-      "source": "今日头条热榜",
+      "id": "newsnow-9ad5846b9a4c",
+      "title": "iPhone20Pro配置曝光",
+      "source": "微博热搜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
       "type": "爆料",
-      "trust": "媒体汇总",
+      "trust": "待验证",
       "date": "2026-09-21",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7687630460716846635/",
+      "url": "https://s.weibo.com/weibo?q=%23iPhone20Pro%E9%85%8D%E7%BD%AE%E6%9B%9D%E5%85%89%23&t=31&band_rank=27&Refer=top",
       "image": "",
-      "summary": "iPhone 18 Pro屏幕“斑点”从何而来",
+      "summary": "iPhone20Pro配置曝光",
       "tags": [
         "iPhone",
         "爆料",
@@ -842,21 +882,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-c9ff7daa486e",
-      "title": "iPhone18Pro系列首销超32万台",
-      "source": "百度热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "id": "newsnow-f8f822acaf6a",
+      "title": "vivo X500系列测评",
+      "source": "B站热搜",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-09-21",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=iPhone18Pro%E7%B3%BB%E5%88%97%E9%A6%96%E9%94%80%E8%B6%8532%E4%B8%87%E5%8F%B0",
+      "url": "https://search.bilibili.com/all?keyword=vivo%20X500",
       "image": "",
-      "summary": "iPhone18Pro系列首销超32万台",
+      "summary": "vivo X500系列测评",
       "tags": [
-        "iPhone",
+        "vivo",
         "爆料",
         "NewsNow"
       ]
@@ -917,26 +957,6 @@ window.phoneRadarAuto = {
       "summary": "Vivo recently raised the price of every Vivo X300 Ultra variant in China, and a new leak suggests the upcoming Vivo X500 could also cost more than its predecessor. A blurry photo…",
       "tags": [
         "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-6e47dfbb39ec",
-      "title": "The Pixel 11 Pro's best notification feature isn't HiLight; it's already on your camera",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-20",
-      "time": "15:15",
-      "publishedAt": "2026-09-20T15:15:10.000Z",
-      "url": "https://www.androidpolice.com/i-ditched-hilight-for-my-pixels-camera-flash-and-its-the-better-notification-system/",
-      "image": "",
-      "summary": "Why the Pixel 11 Pro's camera flash beats its fancy new HiLight notification LED",
-      "tags": [
-        "Pixel",
         "爆料",
         "自动抓取"
       ]
