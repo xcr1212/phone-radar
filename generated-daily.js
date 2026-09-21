@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-21T19:26:47.455Z",
+  "updatedAt": "2026-09-21T23:16:13.812Z",
   "issueDate": "2026-09-21",
   "issue": "VOL.260921",
   "title": "手机情报日报",
@@ -26,8 +26,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-09-21",
-          "time": "19:26",
-          "publishedAt": "2026-09-21T19:26:47.455Z",
+          "time": "23:16",
+          "publishedAt": "2026-09-21T23:16:13.812Z",
           "url": "https://weibo.com/6048569942/Rj6MNs5hS",
           "image": "",
           "verdict": "先看",
@@ -42,25 +42,26 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-8e7ce402bbec",
-          "title": "曝 iPhone 20 Pro 系列测试无边四曲屏，跳过 19 命名",
+          "id": "coolapk-user-c4d1d964fd40",
+          "title": "JSCHEN小小狐：曝 iPhone 20 Pro 系列测试无边四曲屏，跳过 19 命名",
           "originalTitle": "",
-          "source": "酷安热榜",
+          "source": "JSCHEN小小狐",
           "brand": "iPhone",
           "type": "爆料",
-          "trust": "高关注爆料源",
+          "trust": "高可信爆料",
           "date": "2026-09-21",
-          "time": "",
-          "publishedAt": "",
+          "time": "03:15",
+          "publishedAt": "2026-09-21T03:15:33.000Z",
           "url": "https://www.coolapk.com/feed/73883213",
-          "image": "",
+          "image": "http://image.coolapk.com/feed/2026/0921/11/4702274_398d846e_0532_2835_545@1440x852.jpg",
           "verdict": "先看",
-          "takeaway": "曝 iPhone 20 Pro 系列测试无边四曲屏，跳过 19 命名",
-          "detail": "曝 iPhone 20 Pro 系列测试无边四曲屏，跳过 19 命名",
+          "takeaway": "『跳过 19，曝 iPhone 20 Pro 测试无边四曲屏』 知名数码博主 数码闲聊站 今日爆料称，根据供应链信息，下一代 iPhone 或跳过 19 更名为 iPhone 20 系列，并表示 iPhone 20 Pro 系列早期屏幕方案采用「无边四曲面」设计 + 屏下打孔方案（18 Pro 同款小灵动岛）。爆料规格如下： iPhone 20 Pro -…",
+          "detail": "『跳过 19，曝 iPhone 20 Pro 测试无边四曲屏』 知名数码博主 数码闲聊站 今日爆料称，根据供应链信息，下一代 iPhone 或跳过 19 更名为 iPhone 20 系列，并表示 iPhone 20 Pro 系列早期屏幕方案采用「无边四曲面」设计 + 屏下打孔方案（18 Pro 同款小灵动岛）。爆料规格如下： iPhone 20 Pro -…",
           "keyPoints": [
-            "屏幕形态"
+            "屏幕形态",
+            "爆料来源"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -160,29 +161,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-b10877cf9969",
-          "title": "iPhone 发布 / 上市相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-21",
-          "time": "02:47",
-          "publishedAt": "2026-09-21T02:47:43.000Z",
-          "url": "https://www.macrumors.com/2026/09/20/iphone-duo-lacks-shorter-apple-pencil/",
-          "image": "https://images.macrumors.com/article-new/2026/09/iphone-duo-hero.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 有发布或新功能消息，适合确认是否和新机有关。",
-          "detail": "iPhone 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "newsnow-eccac88a4836",
           "title": "新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试",
           "originalTitle": "",
@@ -202,6 +180,30 @@ window.phoneRadarDaily = {
             "影像硬件"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-55a4cc56aebc",
+          "title": "iPhone 外观设计线索曝光",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-20",
+          "time": "14:38",
+          "publishedAt": "2026-09-20T14:38:43.000Z",
+          "url": "https://9to5mac.com/2026/09/20/heres-why-apple-scrapped-its-shorter-apple-pencil-designed-for-iphone-duo-report/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-side-angle-unfolded.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "iPhone 外观设计线索曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
+          "detail": "iPhone 外观设计线索曝光。这类内容主要看外观设计、按键布局、相机模组和尺寸变化，后续最好等更多渲染图或保护壳线索互相验证。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
