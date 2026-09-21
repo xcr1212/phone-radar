@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-21T12:46:18.907Z",
+  "updatedAt": "2026-09-21T19:26:47.455Z",
   "news": [
+    {
+      "id": "weibo-35bff16da826",
+      "title": "数码闲聊站：华为Mate90系列线下开始分货了： Mate90——12+256GB/12+…",
+      "source": "数码闲聊站",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-21",
+      "time": "19:26",
+      "publishedAt": "2026-09-21T19:26:47.455Z",
+      "url": "https://weibo.com/6048569942/RjbkeBpax",
+      "image": "",
+      "summary": "华为Mate90系列线下开始分货了： Mate90——12+256GB/12+512GB/12+1TB，黑/白/粉/绿 Mate90 Pro——12+256GB/12+512GB/16+512GB/16+1TB，黑/白/橙/绿 Mate90 Pro Max——16+512GB/16+1TB，黑/白/金/绿/摄影套装 Mate90 RS——16+512GB/…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "微博"
+      ]
+    },
     {
       "id": "weibo-f1dfdd501716",
       "title": "数码闲聊站：vivo X500 Pro Max 真机上手体验： 省流——「这是一台不堆无用…",
@@ -10,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-21",
-      "time": "12:46",
-      "publishedAt": "2026-09-21T12:46:18.907Z",
+      "time": "19:26",
+      "publishedAt": "2026-09-21T19:26:47.455Z",
       "url": "https://weibo.com/6048569942/Rjas39yEi",
       "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ihbb9c78anj33lr5eob2c.jpg",
       "summary": "vivo X500 Pro Max 真机上手体验： 省流——「这是一台不堆无用参数，真正适配更多人的影像旗舰」，X500 Pro Max配置更加均衡合理，影像能力也极其亮眼的全能安卓旗舰。 ——vivo X500 Pro Max采用一块6.85英寸2K+144Hz BOE Q11直屏，边框很窄，实测白底手动亮度870nit，JNCD均值0.24，大幅优化显…",
@@ -30,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-21",
-      "time": "12:46",
-      "publishedAt": "2026-09-21T12:46:18.907Z",
+      "time": "19:26",
+      "publishedAt": "2026-09-21T19:26:47.455Z",
       "url": "https://weibo.com/6048569942/Rj7Woyf3o",
       "image": "https://tvax2.sinaimg.cn/large/006BlblIly1ihb86du3u0j31hc0u0ta8.jpg",
       "summary": "小米18 Pro原生防窥屏 VS iPhone 18 Pro防窥膜 小米全系RGB无损像素排列，防窥像素做了单独控制，关防窥全像素点亮，正面效果无影响。 开防窥正常像素关闭，不是极近距离观看正视观感没什么变化，侧面防窥效果略逊于防窥膜，但亮度和清晰度都要优于防窥膜 #小米18Pro系列硬件级防窥屏# 视频无法显示，请前往 微博视频 观看。",
@@ -50,8 +70,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-21",
-      "time": "12:46",
-      "publishedAt": "2026-09-21T12:46:18.907Z",
+      "time": "19:26",
+      "publishedAt": "2026-09-21T19:26:47.455Z",
       "url": "https://weibo.com/6048569942/Rj6MNs5hS",
       "image": "",
       "summary": "独家信息，iPhone 20 Pro系列早期屏幕： iPhone 20 Pro——6.41\"±2686*1236p± iPhone 20 Pro Max——6.96\"±2912*1340p± 测试无边四曲面设计，屏幕打孔方案(小灵动岛)",
@@ -62,39 +82,39 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "weibo-317b4083ebf1",
-      "title": "数码闲聊站：Xiaomi 18 Pro真机实拍图，黑/白/粉/蓝，Pro是骁龙8E6，Pr…",
-      "source": "数码闲聊站",
+      "id": "auto-e0bbb27dd35f",
+      "title": "Redmi M100 Pro is in the works and could revive a 2025 Redmi phone",
+      "source": "Gizmochina",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
       "type": "爆料",
-      "trust": "高关注爆料源",
+      "trust": "媒体汇总",
       "date": "2026-09-21",
-      "time": "12:46",
-      "publishedAt": "2026-09-21T12:46:18.907Z",
-      "url": "https://weibo.com/6048569942/RiZg5agKJ",
-      "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1iha6jhdk20j31kw2dck6n.jpg",
-      "summary": "Xiaomi 18 Pro真机实拍图，黑/白/粉/蓝，Pro是骁龙8E6，Pro Max是骁龙8EE6，全系有大马达，Pro Max比大更大；另外从2亿大底潜望镜的开孔看，这代也有长焦微距……[笑而不语]",
+      "time": "18:27",
+      "publishedAt": "2026-09-21T18:27:57.000Z",
+      "url": "https://www.gizmochina.com/2026/09/21/redmi-m100-pro-specifications-redmi-note-14-pro-5g-rebrand/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2025/07/GuxVc5HWMAAgsRy-300x300.jpeg?x96852",
+      "summary": "Redmi surprised fans in China by launching the M100 as its M-series phone. While this is a China-exclusive phone, it is a rebranded version of the Redmi 17 5G’s global version. No…",
       "tags": [
         "Xiaomi",
         "爆料",
-        "微博"
+        "自动抓取"
       ]
     },
     {
-      "id": "auto-e2947fb0decc",
-      "title": "Apple’s clever software solution lets iPhone batteries skirt shipping limits",
-      "source": "The Verge",
+      "id": "auto-26c991be6139",
+      "title": "iPhone 14 Pro vs. iPhone 18 Pro Buyer's Guide: Should You Upgrade?",
+      "source": "MacRumors",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-09-21",
-      "time": "12:37",
-      "publishedAt": "2026-09-21T12:37:27.000Z",
-      "url": "https://www.theverge.com/tech/998144/apple-iphone-18-pro-max-battery-firmware-limit",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268735_iPhone_18_Pro_MAX_AKrales_0994.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "Apple has developed an unexpected workaround to prevent the iPhone 18 Pro Max from being hit by shipping restrictions on big batteries. There's a \"battery-firmware solution\" in pl…",
+      "time": "18:05",
+      "publishedAt": "2026-09-21T18:05:23.000Z",
+      "url": "https://www.macrumors.com/guide/iphone-14-pro-vs-18-pro/",
+      "image": "https://images.macrumors.com/article-new/2026/09/iphone-14-pro-vs-iphone-18-pro.jpg",
+      "summary": "Apple announced the iPhone 18 Pro and &zwnj;iPhone 18 Pro&zwnj; Max earlier this month, arriving four years after the iPhone 14 Pro and iPhone 14 Pro Max. Four generations of chan…",
       "tags": [
         "iPhone",
         "爆料",
@@ -102,23 +122,463 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-0a327e9e44bd",
-      "title": "竹本青：【收到用户升级诉求，vivo OriginOS 7 新增适配多款老机型】 9月21日，针对大量老机型用户反馈的Or…",
+      "id": "coolapk-user-669858ca3d62",
+      "title": "竹本青：【vivo黄韬：X500 Ultra 明年三四月份发布】 9月22日资讯，vivo产品副总裁黄韬，昨日在 X500…",
       "source": "竹本青",
       "brand": "vivo",
       "model": "vivo 相关机型",
       "type": "爆料",
       "trust": "高可信爆料",
       "date": "2026-09-21",
-      "time": "12:31",
-      "publishedAt": "2026-09-21T12:31:58.000Z",
-      "url": "https://www.coolapk.com/feed/73893637",
-      "image": "http://image.coolapk.com/feed/2026/0921/20/4248714_0080a046_3917_3784_585@1271x925.jpg",
-      "summary": "【收到用户升级诉求，vivo OriginOS 7 新增适配多款老机型】 9月21日，针对大量老机型用户反馈的OriginOS 7升级诉求，vivo客服回应并公布适配计划： vivo Pad3 Pro、iQOO Pad2 Pro预计2026年12月底陆续推送； vivo Pad3、iQOO Pad2、iQOO Z9 Turbo、iQOO Z9 Turbo长…",
+      "time": "17:54",
+      "publishedAt": "2026-09-21T17:54:03.000Z",
+      "url": "https://www.coolapk.com/feed/73900695",
+      "image": "http://image.coolapk.com/feed/2026/0922/01/4248714_5301be9b_3242_5177_692@1440x2001.jpg",
+      "summary": "【vivo黄韬：X500 Ultra 明年三四月份发布】 9月22日资讯，vivo产品副总裁黄韬，昨日在 X500系列发布会后透露：X500 Ultra一定会出，产品很多地方已经定的差不多了，大概明年三四月份发布。 #今日热点# #vivoX500ProMax# #OriginOS7#",
       "tags": [
         "vivo",
         "爆料",
         "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-186356c0a563",
+      "title": "Some iPhone 18 Pro Users Experiencing Face ID Issues",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-21",
+      "time": "16:05",
+      "publishedAt": "2026-09-21T16:05:08.000Z",
+      "url": "https://www.macrumors.com/2026/09/21/iphone-18-pro-face-id-issues/",
+      "image": "https://images.macrumors.com/article-new/2026/09/Face-ID-iPhone-18-Pro.jpg",
+      "summary": "Apple's new iPhone 18 Pro and iPhone 18 Pro Max began arriving to customers on Friday, and unfortunately some early adopters are experiencing Face ID issues. According to a Reddit…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-194950feee0d",
+      "title": "Here’s the OnePlus 16 that you probably won’t be able to buy [Video]",
+      "source": "9to5Google",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-21",
+      "time": "15:40",
+      "publishedAt": "2026-09-21T15:40:00.000Z",
+      "url": "https://9to5google.com/2026/09/21/heres-the-oneplus-16-that-you-probably-wont-be-able-to-buy-video/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/oneplus-16-design-reveal.jpg?quality=82&strip=all&w=1600",
+      "summary": "OnePlus has officially revealed the design of the OnePlus 16, a device that’s likely not going to be available to many of the customers who were previously able to buy OnePlus fla…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e04e107af148",
+      "title": "After a few quiet weeks, Verizon just brought back its best Google Pixel 11 deal — that's a FREE Pixel 11 Pro 256GB, no trade-in required",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-21",
+      "time": "15:31",
+      "publishedAt": "2026-09-21T15:31:35.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/after-a-few-quiet-weeks-verizon-just-brought-back-its-best-google-pixel-11-deal-thats-a-free-pixel-11-pro-256gb-no-trade-in-required",
+      "image": "https://cdn.mos.cms.futurecdn.net/szVyTdHT46kDfFJ64rRg37-1920-80.jpg",
+      "summary": "Verizon is running an offer that will land you a free Google Pixel 11 Pro when you add a line with an eligible unlimited plan.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3638941d37fb",
+      "title": "iPhone 18 Pro Face ID bug causing system to crash and reboot for some users",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-21",
+      "time": "15:20",
+      "publishedAt": "2026-09-21T15:20:20.000Z",
+      "url": "https://9to5mac.com/2026/09/21/iphone-18-pro-face-id-bug-system-reboot/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/mayo.jpg?quality=82&strip=all&w=1600",
+      "summary": "The iPhone 18 Pro and Pro Max introduces a new smaller Face ID system, with the Infrared camera now hidden behind the screen, near where the time is shown in the status bar. It ap…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-863e43a65f0b",
+      "title": "Control how apps behave when you fold your Samsung Galaxy Z Fold 8",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-21",
+      "time": "15:16",
+      "publishedAt": "2026-09-21T15:16:22.000Z",
+      "url": "https://www.sammobile.com/news/control-how-apps-behave-when-you-fold-your-samsung-galaxy-z-fold-8/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/09/continue-on-cover-screen-settings-1920x1449.jpg",
+      "summary": "Arguably, one of the cleverest decisions Apple has made for the iPhone Duo launch was to create a smooth transition animation between the iPhone's two states: folded and unfolded.…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ceec6a293f63",
+      "title": "华为 Mate 60 等老机型升级鸿蒙 7“隐藏”新功能盘点：粒子动效实装、超级省电模式回归",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-21",
+      "time": "15:07",
+      "publishedAt": "2026-09-21T15:07:02.000Z",
+      "url": "https://www.ithome.com/1/005/475.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2023/9/59adb3cf-3469-4872-aa01-7fa2fd262cf9.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 21 日消息，华为 Mate 60、Mate X5、Pura 70 等系列老机型已在 9 月 17 日提前开启了鸿蒙 HarmonyOS 7 系统的花粉 Beta 版升级活动。用户可前往设置 → 软件更新处报名尝鲜。报名成功的用户点击系统更新后就可以获得新版本推送。 ▲ IT之家开箱：华为 Mate60 Pro+「宣白」图赏 官方更新日志…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-15afd5ca32c5",
+      "title": "JSCHEN小小狐：『曝华为 Mate90 系列线下分货 / 各 SKU 现身』 Mate90： 曜石黑、零度白、晶格绿、晶格粉 12…",
+      "source": "JSCHEN小小狐",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-21",
+      "time": "15:06",
+      "publishedAt": "2026-09-21T15:06:12.000Z",
+      "url": "https://www.coolapk.com/feed/73898098",
+      "image": "http://image.coolapk.com/feed/2026/0921/23/4702274_9ffe4807_3171_9428_443@1440x1333.jpg",
+      "summary": "『曝华为 Mate90 系列线下分货 / 各 SKU 现身』 Mate90： 曜石黑、零度白、晶格绿、晶格粉 12GB+256GB / 12GB+512GB / 12GB+1TB Mate90 Pro： 曜石黑、翡冷翠、晶钻白、琥珀橙 12GB+256GB / 12GB+512GB 16GB+512GB / 16GB+1TB Mate90 Pro Max…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-2a78b6d5d1b0",
+      "title": "消息称华为 Mate 90 系列线下开始分货，四款机型 SKU 曝光",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-21",
+      "time": "15:03",
+      "publishedAt": "2026-09-21T15:03:22.000Z",
+      "url": "https://www.ithome.com/1/005/473.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/695e3859-0e0d-418a-8392-89d3f43b4dae.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 21 日消息，据博主 @数码闲聊站 今日爆料，华为 Mate 90 系列线下开始分货，并曝光了四款机型的 SKU。 Mate 90 版 ：12+256GB/12+512GB/12+1TB，黑 / 白 / 粉 / 绿 Mate 90 Pro 版 ： 12+256GB/12+512GB/16+512GB/16+1TB ，黑 / 白 / 橙 /…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5cf40b581d17",
+      "title": "The Pixel 11's battery drain has been traced to a sneaky WiFi firmware bug",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-21",
+      "time": "14:50",
+      "publishedAt": "2026-09-21T14:50:22.000Z",
+      "url": "https://www.androidpolice.com/pixel-11s-battery-drain-may-have-a-surprising-cause/",
+      "image": "",
+      "summary": "Your fast WiFi could be killing your phone's battery",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-43d8f55d84d0",
+      "title": "Vivo X500 launches with Dimensity 9600M, 7,500mAh battery and 144Hz display",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-21",
+      "time": "14:35",
+      "publishedAt": "2026-09-21T14:35:04.000Z",
+      "url": "https://www.gizmochina.com/2026/09/21/vivo-x500-launches-with-dimensity-9600m-7500mah-battery-and-144hz-display/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Vivo-X500-Camera-300x200.jpg?x96852",
+      "summary": "Vivo has officially launched the X500 in China at its X500 series launch event. The new phone sits below the X500 Pro and X500 Pro Max, but it still shares several features with i…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5cea4b700f28",
+      "title": "More rumblings about Exynos 2700 in the Galaxy S27 Ultra surface",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-21",
+      "time": "14:23",
+      "publishedAt": "2026-09-21T14:23:54.000Z",
+      "url": "https://www.sammobile.com/news/more-rumblings-about-exynos-2700-in-the-galaxy-s27-ultra-surface/",
+      "image": "",
+      "summary": "A recent major Exynos 2700 leak suggested that the chipset would deliver performance gains over Qualcomm's competing chip, the Snapdragon 8 Elite Gen 6. This ultimately led to rum…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fc6d3a7cdc33",
+      "title": "Vivo X500 Pro and X500 Pro Max debut as world’s first phones with 2nm Dimensity 9600 Pro",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-21",
+      "time": "14:15",
+      "publishedAt": "2026-09-21T14:15:09.000Z",
+      "url": "https://www.gizmochina.com/2026/09/21/vivo-x500-pro-and-x500-pro-max-debut-as-worlds-first-phones-with-2nm-dimensity-9600-pro/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Vivo-X500-Pro-Max-launch-specs-price-300x200.jpg?x96852",
+      "summary": "Vivo‘s September event is currently underway, and the X500 Pro series has officially moved from weeks of leaks to a real product lineup. We’ve been tracking this launch for weeks,…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-54a622ff7a1a",
+      "title": "iPhone 18 series could see another price hike in 2027",
+      "source": "Gizmochina",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-21",
+      "time": "14:12",
+      "publishedAt": "2026-09-21T14:12:47.000Z",
+      "url": "https://www.gizmochina.com/2026/09/21/iphone-18-series-could-see-another-price-hike-in-2027/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Apple-iPhone-18-Pro-2up-260909-lp.jpg.landing-big_2x-300x169.jpg?x96852",
+      "summary": "Just when Apple’s newest flagships hit the market with higher starting prices, fresh reports suggest the company may have to raise them again next year. The iPhone 18 Pro and Pro…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e594dc1c1998",
+      "title": "CMF 将脱离 Nothing 独立运营，成为一家印度本土企业",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-21",
+      "time": "14:04",
+      "publishedAt": "2026-09-21T14:04:28.000Z",
+      "url": "https://www.ithome.com/1/005/450.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/f4c43a39-f492-449d-b90d-bc1219821b6c.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 21 日消息，瑞典华裔企业家裴宇（Carl Pei）计划将 Nothing 旗下的平价手机与消费电子业务板块分拆出来，组建一家由印度资本控股的独立新公司。裴宇押注印度即将成长为下一个全球消费电子产业中心。 当地时间周一，Nothing 联合创始人兼首席执行官裴宇在 X 平台发布题为《印度是大势所趋》（India Is Inevitable…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b8af407ef74d",
+      "title": "Xiaomi 18 Fold vs Huawei Mate XT 2: Specs, Features and Price Compared",
+      "source": "Gizmochina",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-21",
+      "time": "13:45",
+      "publishedAt": "2026-09-21T13:45:21.000Z",
+      "url": "https://www.gizmochina.com/2026/09/21/xiaomi-18-fold-vs-huawei-mate-xt-2/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/image-123-300x145.png?x96852",
+      "summary": "Xiaomi 18 Fold vs Huawei Mate XT 2 Ultimate is a fascinating foldable comparison because both push the category in different directions. Xiaomi focuses on a more conventional book…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5e6675864738",
+      "title": "vivo X500 Pro Max 专业影像手柄套装 / 增距镜 G2 发布，699 元 / 999 元起",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-21",
+      "time": "13:42",
+      "publishedAt": "2026-09-21T13:42:55.000Z",
+      "url": "https://www.ithome.com/1/005/445.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/d9dd327a-7979-473a-8d1e-01f82be07860.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 21 日消息，vivo X500 系列及智慧终端新品发布会今晚举行，除了常规的手机产品外，官方还带来了专业影像手柄套装、增距镜 G2 等影像配件。 IT之家整理如下： vivo 增距镜 G2 ：建议零售价 999 元，适配 vivo X500 系列 vivo 增距镜 G2 Ultra ：建议零售价 1999 元，适配 vivo X500…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-14fe5e454997",
+      "title": "New all-glass iPhone 20 Pro rumor reveals another design change",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-21",
+      "time": "13:25",
+      "publishedAt": "2026-09-21T13:25:11.000Z",
+      "url": "https://9to5mac.com/2026/09/21/iphone-20-pro-could-be-apples-biggest-pro-phones-yet/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-19-pro-20-anniversary-max.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple’s major 20th-anniversary iPhone refresh is in the works for next year. A new rumor today reiterates expectations that the iPhone 20 Pro and iPhone 20 Pro Max will have even…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fcbec5a87d59",
+      "title": "vivo X500 Pro 1TB 版与 X500 Pro Max 手机首次支持 eSIM",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-21",
+      "time": "13:20",
+      "publishedAt": "2026-09-21T13:20:03.000Z",
+      "url": "https://www.ithome.com/1/005/442.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/a0a7ee5d-6302-4405-be30-b08174d8775b.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 21 日消息，在今晚举行的 vivo X500 系列及智慧终端新品发布会上，vivo X500 Pro 系列手机发布。 IT之家从联通获悉，vivo X500 Pro 1TB 版与 X500 Pro Max 手机 首次支持 eSIM ，均支持“2 实体卡 +2eSIM”。 联通表示， 当前全国联通 2 万多家自有营业厅均具备 eSIM 业…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2c8fe64f1179",
+      "title": "I spotted a worrying charging issue on my iQOO Neo 9 Pro",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-21",
+      "time": "13:17",
+      "publishedAt": "2026-09-21T13:17:39.000Z",
+      "url": "https://www.gizmochina.com/2026/09/21/charging-phone-overnight-i-spotted-a-critical-issue-with-my-iqoo-neo-9-pro/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/1789996047141-300x169.jpg?x96852",
+      "summary": "I keep saying that charging your phone overnight isn’t a problem. Both phones and chargers, whether they use USB PD or proprietary charging technology, are capable enough in 2026…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-877a989a4040",
+      "title": "The Pixel 11’s impressive voice typing feature is coming to Googlebooks",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-21",
+      "time": "13:00",
+      "publishedAt": "2026-09-21T13:00:08.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-rambler-feature-on-googlebooks-3713479/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Lenovo-Googlebook-15-open-lid-scaled-e1789985627710.jpeg",
+      "summary": "Your laptop is finally ready to make sense of your rambling.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c9b4cdf2cad2",
+      "title": "vivo X500 手机发布：首发天玑 9600M、8K 原生 Live，5499 元起",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-21",
+      "time": "12:52",
+      "publishedAt": "2026-09-21T12:52:56.000Z",
+      "url": "https://www.ithome.com/1/005/436.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/15cdc3b5-b0e6-4ce9-b108-2b56475132a1.jpg",
+      "summary": "IT之家 9 月 21 日消息，在今晚举行的 vivo X500 系列及智慧终端新品发布会上，vivo X500 手机发布， 售价 5499 元起 ： 12GB+256GB：5499 元 12GB+512GB：5999 元 12GB+1TB：6999 元 IT之家在发布会现场获悉，vivo X500 手机搭载 X 系列标准版史上主摄最大底 1/1.28 英…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fb0c6821ffe8",
+      "title": "摁！TA 总能直出决定性瞬间",
+      "source": "爱范儿",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-21",
+      "time": "12:41",
+      "publishedAt": "2026-09-21T12:41:12.000Z",
+      "url": "https://www.ifanr.com/1681350?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "image": "https://s3.ifanr.com/wp-content/uploads/2026/09/vivo20260921.png",
+      "summary": "有多少你曾误以为是「废片」的瞬间？其实处处都藏着「决定性瞬间」，vivo X500 Pro Max 让每个人都能放下旅行出片的压力，先生活，再出片。",
+      "tags": [
+        "vivo",
+        "评测",
+        "自动抓取"
       ]
     },
     {
@@ -143,7 +603,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-61a4f12aafff",
-      "title": "竹本青：【影石Insta360 Luna Ultra 长焦增距镜 正式发布，售价199元】 ● 1.5倍光学增距 ● 安装…",
+      "title": "竹本青：影石Insta360 Luna Ultra 长焦增距镜发布，售价199元",
       "source": "竹本青",
       "brand": "行业",
       "model": "智能手机市场",
@@ -163,7 +623,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-bad7523e9536",
-      "title": "竹本青：【iPhone 17系列 中国区最新销量曝光：周增约42.05万台，累计约4271万台】 9月21日，博主「RD观…",
+      "title": "竹本青：iPhone 17系列中国区最新销量曝光：周增约42.05万台",
       "source": "竹本青",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -302,26 +762,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-def263809756",
-      "title": "瑞银：iPhone 18 Pro 系列手机初期需求偏弱，维持苹果“中性”评级",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-21",
-      "time": "08:13",
-      "publishedAt": "2026-09-21T08:13:18.000Z",
-      "url": "https://www.ithome.com/1/005/293.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/ea3718e9-a5a1-4cd6-ad50-f9de9f26b91a.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 21 日消息，瑞士银行近日重申苹果股票的“中性”评级，维持 296 美元 （IT之家注：现汇率约合 1,985 元人民币） 目标价，原因为 iPhone 18 Pro 系列手机需求相对疲软。 瑞银 Evidence Lab 分析全球 30 多个地区 iPhone 供应状况后表示，iPhone 18 Pro Max 平均等候拿货时间为 23…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-45af613a4e40",
       "title": "Apple could steal Pixel’s homework for its Nest Hub rival and the iPhone Duo",
       "source": "Android Authority",
@@ -342,26 +782,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-5df6efa742f8",
-      "title": "竹本青：一加 16「星际光效」预热：不同场景，不同光效",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-21",
-      "time": "07:36",
-      "publishedAt": "2026-09-21T07:36:54.000Z",
-      "url": "https://www.coolapk.com/feed/73887899",
-      "image": "http://image.coolapk.com/feed/2026/0921/15/4248714_be22371c_6213_2665_642@1272x2772.jpg",
-      "summary": "【李杰预热一加 16「星际光效」：不同场景，不同光效】 ● 覆盖多种日常场景 ● 可自定义生效时间 ● 常亮显示、亮度调节 ● 四种个性光效选择 #一加16# #今日热点# #ColorOS17#",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-389683c1ae08",
       "title": "The iPhone 20 Pro could copy this display from a futuristic Android concept",
       "source": "Android Authority",
@@ -379,26 +799,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-6c3a7aa52434",
-      "title": "竹本青：vivo韩伯啸：X500 Pro可能是72毫米以内最好的手机",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-21",
-      "time": "07:27",
-      "publishedAt": "2026-09-21T07:27:33.000Z",
-      "url": "https://www.coolapk.com/feed/73887696",
-      "image": "http://image.coolapk.com/feed/2026/0921/15/4248714_132f3cc4_5652_0792_969@1439x1989.jpg",
-      "summary": "【vivo韩伯啸：X500 Pro可能是72毫米以内最好的手机】 9月21日，vivo产品经理 韩伯啸 再次介绍X500 Pro。他强调，该产品可能是机身宽度72毫米以内最好的手机。 “如今小屏越来越少了，倒是出现了一些完全不考虑单手使用和衣服口袋的82毫米以上手机。而如果想要一部从性能到影像真正Pro定位的小直屏，就选择更少了，X500 Pro可能是你能…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -742,22 +1142,122 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-16fc72635512",
-      "title": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
+      "id": "newsnow-63a20e012809",
+      "title": "【vivo X500系列 售价公布：5499元起】",
+      "source": "酷安热榜",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
       "date": "2026-09-21",
       "time": "",
       "publishedAt": "",
-      "url": "https://sspai.com/post/114084",
+      "url": "https://www.coolapk.com/feed/73894053",
       "image": "",
-      "summary": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
+      "summary": "【vivo X500系列 售价公布：5499元起】",
+      "tags": [
+        "vivo",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-4db63a68110e",
+      "title": "vivo X500 系列正式发布：售价 5499 元起",
+      "source": "酷安热榜",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73893994",
+      "image": "",
+      "summary": "vivo X500 系列正式发布：售价 5499 元起",
+      "tags": [
+        "vivo",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-19ef67518fc8",
+      "title": "#vivoX500# #小米18# #小米18Pro#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73897336",
+      "image": "",
+      "summary": "#vivoX500# #小米18# #小米18Pro#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-ac37436a0a16",
+      "title": "真心建议，不是米粉的酷友们不要买小米手机，也不要入澎湃这个坑。小米手机只适合米粉买，当时我就买了17pm[流泪]后悔死我了，我说小毛病不断不流畅很多人不信，我给我米粉朋友用了他就说啥毛病没有，爱不释手#小米17ProMax# #小米18# #HyperOS4#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73884910",
+      "image": "",
+      "summary": "真心建议，不是米粉的酷友们不要买小米手机，也不要入澎湃这个坑。小米手机只适合米粉买，当时我就买了17pm[流泪]后悔死我了，我说小毛病不断不流畅很多人不信，我给我米粉朋友用了他就说啥毛病没有，爱不释手#小米17ProMax# #小米18# #HyperOS4#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-2cd04507241f",
+      "title": "手里存了8000多元，纠结要不要冲iPhone18 Pro Max",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73895419",
+      "image": "",
+      "summary": "手里存了8000多元，纠结要不要冲iPhone18 Pro Max",
       "tags": [
         "iPhone",
-        "评测",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-688a7a29fe56",
+      "title": "vivo X500系列价格公布：5499元起",
+      "source": "酷安热榜",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73894106",
+      "image": "",
+      "summary": "vivo X500系列价格公布：5499元起",
+      "tags": [
+        "vivo",
+        "爆料",
         "NewsNow"
       ]
     },
@@ -802,89 +1302,29 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-b24fb787ee32",
-      "title": "兄弟们，这是我刚认识的相亲对象，刚认识几个小时就抱了抱她花了点钱吧，他爸妈跟没有一样，不管她从小跟奶奶一起生活，我对她有好感家里面就住几百米两家，她手机好几年了，特别卡，这小女孩手里面没有一点钱我想给她换个手机，现在很是纠结怎么办，酷友们#vivoX300Ultra# #OPPOFindX9Ultra# #相亲#",
-      "source": "酷安热榜",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-21",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73794657",
-      "image": "",
-      "summary": "兄弟们，这是我刚认识的相亲对象，刚认识几个小时就抱了抱她花了点钱吧，他爸妈跟没有一样，不管她从小跟奶奶一起生活，我对她有好感家里面就住几百米两家，她手机好几年了，特别卡，这小女孩手里面没有一点钱我想给她换个手机，现在很是纠结怎么办，酷友们#vivoX300Ultra# #OPPOFindX9Ultra# #相亲#",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-36e164e1357d",
-      "title": "小米这是被薅多了么，新机只换不修的权益取消了",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-21",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73862381",
-      "image": "",
-      "summary": "小米这是被薅多了么，新机只换不修的权益取消了",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-300d5032c385",
-      "title": "隔壁🍠挑iPhone屏幕的高人，一年退货可能达70台…… #iPhone17# #iPhone18#",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-21",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73860575",
-      "image": "",
-      "summary": "隔壁🍠挑iPhone屏幕的高人，一年退货可能达70台…… #iPhone17# #iPhone18#",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-9ad5846b9a4c",
-      "title": "iPhone20Pro配置曝光",
+      "id": "newsnow-b205abdc3587",
+      "title": "vivo X500定价给友商压力",
       "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
       "type": "爆料",
       "trust": "待验证",
       "date": "2026-09-21",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhone20Pro%E9%85%8D%E7%BD%AE%E6%9B%9D%E5%85%89%23&t=31&band_rank=27&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=vivo%20X500%E5%AE%9A%E4%BB%B7%E7%BB%99%E5%8F%8B%E5%95%86%E5%8E%8B%E5%8A%9B&t=31&band_rank=14&Refer=top",
       "image": "",
-      "summary": "iPhone20Pro配置曝光",
+      "summary": "vivo X500定价给友商压力",
       "tags": [
-        "iPhone",
+        "vivo",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-f8f822acaf6a",
-      "title": "vivo X500系列测评",
-      "source": "B站热搜",
+      "id": "newsnow-7897d2c89307",
+      "title": "vivo X500 Pro Max体验",
+      "source": "今日头条热榜",
       "brand": "vivo",
       "model": "vivo 相关机型",
       "type": "爆料",
@@ -892,11 +1332,71 @@ window.phoneRadarAuto = {
       "date": "2026-09-21",
       "time": "",
       "publishedAt": "",
-      "url": "https://search.bilibili.com/all?keyword=vivo%20X500",
+      "url": "https://www.toutiao.com/trending/7687982700161928740/",
       "image": "",
-      "summary": "vivo X500系列测评",
+      "summary": "vivo X500 Pro Max体验",
       "tags": [
         "vivo",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-eded59a83c4d",
+      "title": "iPhone 18系列第一批受害者来了",
+      "source": "百度热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=iPhone+18%E7%B3%BB%E5%88%97%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E6%9D%A5%E4%BA%86",
+      "image": "",
+      "summary": "iPhone 18系列第一批受害者来了",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-f96bf947a246",
+      "title": "旧手机怎么处理最安全",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E6%97%A7%E6%89%8B%E6%9C%BA%E6%80%8E%E4%B9%88%E5%A4%84%E7%90%86%E6%9C%80%E5%AE%89%E5%85%A8",
+      "image": "",
+      "summary": "旧手机怎么处理最安全",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-575a07db890c",
+      "title": "苹果新机或更名为iPhone 20",
+      "source": "抖音热点",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-09-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.douyin.com/hot/2659324",
+      "image": "",
+      "summary": "苹果新机或更名为iPhone 20",
+      "tags": [
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -918,26 +1418,6 @@ window.phoneRadarAuto = {
       "tags": [
         "iPhone",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-add16988a8fe",
-      "title": "Samsung's Galaxy S26 FE battery trick: lasts longer now, dies faster later",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-20",
-      "time": "19:00",
-      "publishedAt": "2026-09-20T19:00:10.000Z",
-      "url": "https://www.androidpolice.com/galaxy-s26-fe-battery-trade-off/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/09/three-samsung-galaxy-s26-fe-held-in-one-hand-against-a-green-battery-patterned-background.png",
-      "summary": "You need to know about this hidden battery problem",
-      "tags": [
-        "Samsung",
-        "爆料",
         "自动抓取"
       ]
     },
