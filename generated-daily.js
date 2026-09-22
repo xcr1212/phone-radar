@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-22T11:36:15.133Z",
+  "updatedAt": "2026-09-22T16:56:23.844Z",
   "issueDate": "2026-09-22",
   "issue": "VOL.260922",
   "title": "手机情报日报",
-  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 10,
-    "iphone": 8,
+    "total": 8,
+    "iphone": 7,
     "leaks": 8,
-    "official": 1,
+    "official": 0,
     "specs": 0
   },
   "sections": [
@@ -38,6 +38,53 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-79fc326446f6",
+          "title": "iPhone 屏幕规格相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-22",
+          "time": "13:27",
+          "publishedAt": "2026-09-22T13:27:17.000Z",
+          "url": "https://www.macrumors.com/2026/09/22/apple-to-bring-iphone-duo-display-tech-to-pro/",
+          "image": "https://images.macrumors.com/article-new/2026/07/iphone-2028-punch-hole-design.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 屏幕规格相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-5bfd7ed03bd4",
+          "title": "iPhone 系统功能 / AI 体验相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-22",
+          "time": "13:22",
+          "publishedAt": "2026-09-22T13:22:15.000Z",
+          "url": "https://www.macrumors.com/2026/09/22/tap-to-pay-on-iphone-8-more-countries/",
+          "image": "https://images.macrumors.com/article-new/2026/09/Tap-to-Pay-on-iPhone-General.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -111,29 +158,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-186356c0a563",
-          "title": "iPhone 相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-21",
-          "time": "16:05",
-          "publishedAt": "2026-09-21T16:05:08.000Z",
-          "url": "https://www.macrumors.com/2026/09/21/iphone-18-pro-face-id-issues/",
-          "image": "https://images.macrumors.com/article-new/2026/09/Face-ID-iPhone-18-Pro.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "auto-14fe5e454997",
           "title": "iPhone 20 Pro 外观设计线索曝光",
           "originalTitle": "",
@@ -159,113 +183,27 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-36598b71b725",
-          "title": "iPhone 20 Pro 屏幕规格相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-21",
-          "time": "05:06",
-          "publishedAt": "2026-09-21T05:06:23.000Z",
-          "url": "https://www.gizmochina.com/2026/09/21/iphone-20-pro-series-screen-details-leak-including-resolutions-and-a-punch-hole-cutout/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Apple-iPhone-18-Pro-2up-260909-lp.jpg.landing-big_2x-300x169.jpg?x96852",
-          "verdict": "先看",
-          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
-          "detail": "iPhone 20 Pro 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-0e3fd2a2339f",
-          "title": "消息称华为在屏幕领域话语权相当高，未来新机在形态上还有“活儿”",
+          "id": "auto-a18e9ddfb5a8",
+          "title": "华为 Mate XT 2 三折叠手机独占功能下放，Pura X View 新增桌面下滑自定义功能",
           "originalTitle": "",
           "source": "IT之家",
           "brand": "Huawei",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-09-22",
-          "time": "07:48",
-          "publishedAt": "2026-09-22T07:48:49.000Z",
-          "url": "https://www.ithome.com/1/005/748.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/1c182b9e-12db-4813-b4f2-1bb7898bc07d.png",
+          "time": "13:48",
+          "publishedAt": "2026-09-22T13:48:16.000Z",
+          "url": "https://www.ithome.com/1/005/969.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/c82a0cbf-96a8-4661-9f95-dc07b847f9d1.jpg?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 9 月 22 日消息，博主 @数码闲聊站 今日发文称，从周冬雨时代挺过来以后，华为在屏幕领域的话语权已经相当高。他透露， 后面在屏幕形态上还有活儿，摸到了新开屏 。 博主此次透露是在屏幕形态上有“活儿”，因此未来的这款新机有望是折叠屏新形态手机或新屏幕比例手机。 目前，华为已推出采用外折叠、双折叠、三折叠、16:10 小阔折、√2:1 大阔折、1…",
-          "detail": "IT之家 9 月 22 日消息，博主 @数码闲聊站 今日发文称，从周冬雨时代挺过来以后，华为在屏幕领域的话语权已经相当高。他透露， 后面在屏幕形态上还有活儿，摸到了新开屏 。 博主此次透露是在屏幕形态上有“活儿”，因此未来的这款新机有望是折叠屏新形态手机或新屏幕比例手机。 目前，华为已推出采用外折叠、双折叠、三折叠、16:10 小阔折、√2:1 大阔折、1…",
+          "takeaway": "IT之家 9 月 22 日消息，在本月初的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东正式发布了 Mate XT 2 非凡大师全新展翼三折叠手机。 该机发布后独占了一项新功能 —— 支持桌面下滑操作自定义。用户可自行选择桌面任意位置下滑时进入小艺搜索，…",
+          "detail": "IT之家 9 月 22 日消息，在本月初的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东正式发布了 Mate XT 2 非凡大师全新展翼三折叠手机。 该机发布后独占了一项新功能 —— 支持桌面下滑操作自定义。用户可自行选择桌面任意位置下滑时进入小艺搜索，…",
           "keyPoints": [
-            "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        }
-      ]
-    },
-    {
-      "id": "iphone",
-      "title": "iPhone 重点",
-      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
-      "items": [
-        {
-          "id": "auto-07e6d6658c80",
-          "title": "iPhone 18 Pro 发布 / 上市相关消息",
-          "originalTitle": "",
-          "source": "Apple Newsroom",
-          "brand": "iPhone",
-          "type": "官方",
-          "trust": "官方确认",
-          "date": "2026-09-22",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone 18 Pro 发布 / 上市相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 18 Pro 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "影像硬件",
-            "电池 / 充电"
-          ],
-          "confidence": "官方内容，可直接作为已确认信息记录。",
-          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        }
-      ]
-    },
-    {
-      "id": "launch",
-      "title": "新机与官方发布",
-      "hint": "能直接更新到参数库。",
-      "items": [
-        {
-          "id": "auto-d89933f047f7",
-          "title": "vivo X500 Pro/Pro Max 手机新增 16+512GB、16+1TB 版本，7999 元起",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-22",
-          "time": "09:15",
-          "publishedAt": "2026-09-22T09:15:42.000Z",
-          "url": "https://www.ithome.com/1/005/852.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/743fa45e-57c0-4806-8ecb-68522ef9995d.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 9 月 22 日消息，vivo 昨天举行新品发布会，推出 X500 Pro、X500 Pro Max 等手机，定价 6499 元起。不过， 发布会现场并没有公布 16GB+512GB、16GB+1TB 普通版等往年常见的规格 ，仅 Pro Max 机型有 16GB+1TB 卫星通信版本，售价 12999 元。 IT之家发现，如今 vivo 已在电…",
-          "detail": "IT之家 9 月 22 日消息，vivo 昨天举行新品发布会，推出 X500 Pro、X500 Pro Max 等手机，定价 6499 元起。不过， 发布会现场并没有公布 16GB+512GB、16GB+1TB 普通版等往年常见的规格 ，仅 Pro Max 机型有 16GB+1TB 卫星通信版本，售价 12999 元。 IT之家发现，如今 vivo 已在电…",
-          "keyPoints": [
-            "成本 / 价格"
+            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     }
