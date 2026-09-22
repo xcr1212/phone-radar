@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-22T04:54:04.893Z",
+  "updatedAt": "2026-09-22T11:36:15.133Z",
   "issueDate": "2026-09-22",
   "issue": "VOL.260922",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 8,
-    "iphone": 7,
+    "total": 10,
+    "iphone": 8,
     "leaks": 8,
-    "official": 0,
+    "official": 1,
     "specs": 0
   },
   "sections": [
@@ -17,54 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-25e7316899c0",
-          "title": "消息称苹果有望在 2029 款 iPhone Pro 直板智能手机导入 CoE OLED",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-22",
-          "time": "03:49",
-          "publishedAt": "2026-09-22T03:49:41.000Z",
-          "url": "https://www.ithome.com/1/005/634.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/14df780f-fe16-438f-839e-c98669078abc.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 9 月 22 日消息，韩国显示产业分析机构 UBI Research 在当地时间本月 16 日的一份报告中预测，Apple（苹果）有望在 2029H2 发布的 iPhone Pro“直板”智能手机导入采用 CoE（封装上彩膜）技术的 OLED 显示面板。 ▲ iPhone 18 Pro 传统 OLED 屏幕包含一层偏光片结构，在降低外部光线反射率…",
-          "detail": "IT之家 9 月 22 日消息，韩国显示产业分析机构 UBI Research 在当地时间本月 16 日的一份报告中预测，Apple（苹果）有望在 2029H2 发布的 iPhone Pro“直板”智能手机导入采用 CoE（封装上彩膜）技术的 OLED 显示面板。 ▲ iPhone 18 Pro 传统 OLED 屏幕包含一层偏光片结构，在降低外部光线反射率…",
-          "keyPoints": [
-            "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-b7b82af2b997",
-          "title": "数码闲聊站：独家信息：iPhone 20 Pro系列早期屏幕： iPhone 20 Pro…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-09-22",
-          "time": "04:54",
-          "publishedAt": "2026-09-22T04:54:04.893Z",
-          "url": "https://weibo.com/6048569942/Rj6MNs5hS",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "独家信息，iPhone 20 Pro系列早期屏幕： iPhone 20 Pro——6.41\"±2686*1236p± iPhone 20 Pro Max——6.96\"±2912*1340p± 测试无边四曲面设计，屏幕打孔方案(小灵动岛)",
-          "detail": "独家信息，iPhone 20 Pro系列早期屏幕： iPhone 20 Pro——6.41\"±2686*1236p± iPhone 20 Pro Max——6.96\"±2912*1340p± 测试无边四曲面设计，屏幕打孔方案(小灵动岛)",
-          "keyPoints": [
-            "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "coolapk-user-c4d1d964fd40",
           "title": "JSCHEN小小狐：曝 iPhone 20 Pro 系列测试无边四曲屏，跳过 19 命名",
@@ -90,24 +42,23 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-efd8343cae71",
-          "title": "一加 16「火星杰作」官图发布：支持全局 165Hz 超高刷，新机定位巅峰性能旗舰",
+          "id": "auto-90db68aefec9",
+          "title": "iPhone 影像能力相关消息",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "OPPO",
+          "source": "MacRumors",
+          "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-09-22",
-          "time": "03:17",
-          "publishedAt": "2026-09-22T03:17:14.000Z",
-          "url": "https://www.ithome.com/1/005/600.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/ea2454ca-616e-4329-b04e-2a8367c49e32.jpg",
+          "time": "10:15",
+          "publishedAt": "2026-09-22T10:15:46.000Z",
+          "url": "https://www.macrumors.com/2026/09/22/apple-backtracks-camera-feature-compatibility/",
+          "image": "https://images.macrumors.com/article-new/2026/09/customize-texture-photographic-styles-3.jpeg",
           "verdict": "先看",
-          "takeaway": "IT之家 9 月 22 日消息，一加手机官方昨日正式公开了一加 16 系列的官图，新机提供三款配色，含明日星光 / 黑暗森林 / 火星杰作，定位巅峰性能旗舰。 一加手机官方今日放出了一加 16「火星杰作」配色的官图，展示了新机更多设计细节。一加官方表示，这款配色拥有时间沉淀下的设计与质感， 主打“一眼精致的高级感” 。 据IT之家此前报道， 消息称一加 1…",
-          "detail": "IT之家 9 月 22 日消息，一加手机官方昨日正式公开了一加 16 系列的官图，新机提供三款配色，含明日星光 / 黑暗森林 / 火星杰作，定位巅峰性能旗舰。 一加手机官方今日放出了一加 16「火星杰作」配色的官图，展示了新机更多设计细节。一加官方表示，这款配色拥有时间沉淀下的设计与质感， 主打“一眼精致的高级感” 。 据IT之家此前报道， 消息称一加 1…",
+          "takeaway": "iPhone 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
+          "detail": "iPhone 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
           "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "爆料来源"
+            "影像硬件"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -206,6 +157,115 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-36598b71b725",
+          "title": "iPhone 20 Pro 屏幕规格相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-21",
+          "time": "05:06",
+          "publishedAt": "2026-09-21T05:06:23.000Z",
+          "url": "https://www.gizmochina.com/2026/09/21/iphone-20-pro-series-screen-details-leak-including-resolutions-and-a-punch-hole-cutout/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Apple-iPhone-18-Pro-2up-260909-lp.jpg.landing-big_2x-300x169.jpg?x96852",
+          "verdict": "先看",
+          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "iPhone 20 Pro 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-0e3fd2a2339f",
+          "title": "消息称华为在屏幕领域话语权相当高，未来新机在形态上还有“活儿”",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-22",
+          "time": "07:48",
+          "publishedAt": "2026-09-22T07:48:49.000Z",
+          "url": "https://www.ithome.com/1/005/748.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/1c182b9e-12db-4813-b4f2-1bb7898bc07d.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 9 月 22 日消息，博主 @数码闲聊站 今日发文称，从周冬雨时代挺过来以后，华为在屏幕领域的话语权已经相当高。他透露， 后面在屏幕形态上还有活儿，摸到了新开屏 。 博主此次透露是在屏幕形态上有“活儿”，因此未来的这款新机有望是折叠屏新形态手机或新屏幕比例手机。 目前，华为已推出采用外折叠、双折叠、三折叠、16:10 小阔折、√2:1 大阔折、1…",
+          "detail": "IT之家 9 月 22 日消息，博主 @数码闲聊站 今日发文称，从周冬雨时代挺过来以后，华为在屏幕领域的话语权已经相当高。他透露， 后面在屏幕形态上还有活儿，摸到了新开屏 。 博主此次透露是在屏幕形态上有“活儿”，因此未来的这款新机有望是折叠屏新形态手机或新屏幕比例手机。 目前，华为已推出采用外折叠、双折叠、三折叠、16:10 小阔折、√2:1 大阔折、1…",
+          "keyPoints": [
+            "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        }
+      ]
+    },
+    {
+      "id": "iphone",
+      "title": "iPhone 重点",
+      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
+      "items": [
+        {
+          "id": "auto-07e6d6658c80",
+          "title": "iPhone 18 Pro 发布 / 上市相关消息",
+          "originalTitle": "",
+          "source": "Apple Newsroom",
+          "brand": "iPhone",
+          "type": "官方",
+          "trust": "官方确认",
+          "date": "2026-09-22",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone 18 Pro 发布 / 上市相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 18 Pro 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "影像硬件",
+            "电池 / 充电"
+          ],
+          "confidence": "官方内容，可直接作为已确认信息记录。",
+          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        }
+      ]
+    },
+    {
+      "id": "launch",
+      "title": "新机与官方发布",
+      "hint": "能直接更新到参数库。",
+      "items": [
+        {
+          "id": "auto-d89933f047f7",
+          "title": "vivo X500 Pro/Pro Max 手机新增 16+512GB、16+1TB 版本，7999 元起",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-22",
+          "time": "09:15",
+          "publishedAt": "2026-09-22T09:15:42.000Z",
+          "url": "https://www.ithome.com/1/005/852.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/743fa45e-57c0-4806-8ecb-68522ef9995d.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 9 月 22 日消息，vivo 昨天举行新品发布会，推出 X500 Pro、X500 Pro Max 等手机，定价 6499 元起。不过， 发布会现场并没有公布 16GB+512GB、16GB+1TB 普通版等往年常见的规格 ，仅 Pro Max 机型有 16GB+1TB 卫星通信版本，售价 12999 元。 IT之家发现，如今 vivo 已在电…",
+          "detail": "IT之家 9 月 22 日消息，vivo 昨天举行新品发布会，推出 X500 Pro、X500 Pro Max 等手机，定价 6499 元起。不过， 发布会现场并没有公布 16GB+512GB、16GB+1TB 普通版等往年常见的规格 ，仅 Pro Max 机型有 16GB+1TB 卫星通信版本，售价 12999 元。 IT之家发现，如今 vivo 已在电…",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         }
       ]
     }
