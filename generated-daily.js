@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-21T23:16:13.812Z",
-  "issueDate": "2026-09-21",
-  "issue": "VOL.260921",
+  "updatedAt": "2026-09-22T04:54:04.893Z",
+  "issueDate": "2026-09-22",
+  "issue": "VOL.260922",
   "title": "手机情报日报",
-  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 9,
-    "iphone": 9,
+    "total": 8,
+    "iphone": 7,
     "leaks": 8,
-    "official": 1,
+    "official": 0,
     "specs": 0
   },
   "sections": [
@@ -18,6 +18,30 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
+          "id": "auto-25e7316899c0",
+          "title": "消息称苹果有望在 2029 款 iPhone Pro 直板智能手机导入 CoE OLED",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-22",
+          "time": "03:49",
+          "publishedAt": "2026-09-22T03:49:41.000Z",
+          "url": "https://www.ithome.com/1/005/634.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/14df780f-fe16-438f-839e-c98669078abc.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 9 月 22 日消息，韩国显示产业分析机构 UBI Research 在当地时间本月 16 日的一份报告中预测，Apple（苹果）有望在 2029H2 发布的 iPhone Pro“直板”智能手机导入采用 CoE（封装上彩膜）技术的 OLED 显示面板。 ▲ iPhone 18 Pro 传统 OLED 屏幕包含一层偏光片结构，在降低外部光线反射率…",
+          "detail": "IT之家 9 月 22 日消息，韩国显示产业分析机构 UBI Research 在当地时间本月 16 日的一份报告中预测，Apple（苹果）有望在 2029H2 发布的 iPhone Pro“直板”智能手机导入采用 CoE（封装上彩膜）技术的 OLED 显示面板。 ▲ iPhone 18 Pro 传统 OLED 屏幕包含一层偏光片结构，在降低外部光线反射率…",
+          "keyPoints": [
+            "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "weibo-b7b82af2b997",
           "title": "数码闲聊站：独家信息：iPhone 20 Pro系列早期屏幕： iPhone 20 Pro…",
           "originalTitle": "",
@@ -25,9 +49,9 @@ window.phoneRadarDaily = {
           "brand": "iPhone",
           "type": "爆料",
           "trust": "高关注爆料源",
-          "date": "2026-09-21",
-          "time": "23:16",
-          "publishedAt": "2026-09-21T23:16:13.812Z",
+          "date": "2026-09-22",
+          "time": "04:54",
+          "publishedAt": "2026-09-22T04:54:04.893Z",
           "url": "https://weibo.com/6048569942/Rj6MNs5hS",
           "image": "",
           "verdict": "先看",
@@ -62,6 +86,53 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-efd8343cae71",
+          "title": "一加 16「火星杰作」官图发布：支持全局 165Hz 超高刷，新机定位巅峰性能旗舰",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-22",
+          "time": "03:17",
+          "publishedAt": "2026-09-22T03:17:14.000Z",
+          "url": "https://www.ithome.com/1/005/600.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/ea2454ca-616e-4329-b04e-2a8367c49e32.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 9 月 22 日消息，一加手机官方昨日正式公开了一加 16 系列的官图，新机提供三款配色，含明日星光 / 黑暗森林 / 火星杰作，定位巅峰性能旗舰。 一加手机官方今日放出了一加 16「火星杰作」配色的官图，展示了新机更多设计细节。一加官方表示，这款配色拥有时间沉淀下的设计与质感， 主打“一眼精致的高级感” 。 据IT之家此前报道， 消息称一加 1…",
+          "detail": "IT之家 9 月 22 日消息，一加手机官方昨日正式公开了一加 16 系列的官图，新机提供三款配色，含明日星光 / 黑暗森林 / 火星杰作，定位巅峰性能旗舰。 一加手机官方今日放出了一加 16「火星杰作」配色的官图，展示了新机更多设计细节。一加官方表示，这款配色拥有时间沉淀下的设计与质感， 主打“一眼精致的高级感” 。 据IT之家此前报道， 消息称一加 1…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-02d5582566f1",
+          "title": "新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试",
+          "originalTitle": "",
+          "source": "少数派热榜",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-09-22",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/114453",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试",
+          "detail": "新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -135,108 +206,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-6c46eadcbb86",
-          "title": "iPhone 20 Pro 屏幕规格相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-21",
-          "time": "11:30",
-          "publishedAt": "2026-09-21T11:30:01.000Z",
-          "url": "https://www.macrumors.com/2026/09/21/iphone-20-pro-display-sizes-leak/",
-          "image": "https://images.macrumors.com/article-new/2026/01/Mostly-Screen-iPhone-Purple-Feature-2027.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 有发布或新功能消息，适合确认是否和新机有关。",
-          "detail": "iPhone 20 Pro 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-eccac88a4836",
-          "title": "新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-09-21",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/114453",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试",
-          "detail": "新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-55a4cc56aebc",
-          "title": "iPhone 外观设计线索曝光",
-          "originalTitle": "",
-          "source": "9to5Mac",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-20",
-          "time": "14:38",
-          "publishedAt": "2026-09-20T14:38:43.000Z",
-          "url": "https://9to5mac.com/2026/09/20/heres-why-apple-scrapped-its-shorter-apple-pencil-designed-for-iphone-duo-report/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-side-angle-unfolded.jpg?quality=82&strip=all&w=1600",
-          "verdict": "先看",
-          "takeaway": "iPhone 外观设计线索曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
-          "detail": "iPhone 外观设计线索曝光。这类内容主要看外观设计、按键布局、相机模组和尺寸变化，后续最好等更多渲染图或保护壳线索互相验证。",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        }
-      ]
-    },
-    {
-      "id": "iphone",
-      "title": "iPhone 重点",
-      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
-      "items": [
-        {
-          "id": "auto-07e6d6658c80",
-          "title": "iPhone 18 Pro 发布 / 上市相关消息",
-          "originalTitle": "",
-          "source": "Apple Newsroom",
-          "brand": "iPhone",
-          "type": "官方",
-          "trust": "官方确认",
-          "date": "2026-09-21",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone 18 Pro 发布 / 上市相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 18 Pro 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "影像硬件",
-            "电池 / 充电"
-          ],
-          "confidence": "官方内容，可直接作为已确认信息记录。",
-          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     }
