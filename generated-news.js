@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-23T07:44:34.012Z",
+  "updatedAt": "2026-09-23T13:37:50.835Z",
   "news": [
+    {
+      "id": "weibo-8c6899435fc3",
+      "title": "数码闲聊站：小米18 Pro系列配置大汇总，猜猜价格吧: Pro——RGB OLED小直屏…",
+      "source": "数码闲聊站",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-23",
+      "time": "13:37",
+      "publishedAt": "2026-09-23T13:37:50.835Z",
+      "url": "https://weibo.com/6048569942/RjrB10Fi8",
+      "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ihdj5on2tsj30zc6mdqv6.jpg",
+      "summary": "小米18 Pro系列配置大汇总，猜猜价格吧: Pro——RGB OLED小直屏，M11发光材料，BT.2020色域，支持原生硬件防窥，0.99mm四等边，原生背屏；2nm骁龙8E6，7000mAh+100W+50W；200Mp 1/1.28英寸主摄+50Mp 17mm超广角+200Mp 1/1.56英寸3.2X潜望长焦，支持12cm长焦微距；7514 X轴…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "微博"
+      ]
+    },
     {
       "id": "weibo-111fcf82b2f1",
       "title": "数码闲聊站：手机厂商今年入局做云台相机，这个品类越来越火热了，顺便看了下影石的销售数据：…",
@@ -10,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-23",
-      "time": "07:44",
-      "publishedAt": "2026-09-23T07:44:34.012Z",
+      "time": "13:37",
+      "publishedAt": "2026-09-23T13:37:50.835Z",
       "url": "https://weibo.com/6048569942/RjpzbrOF6",
       "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1ihdftuq14nj31ly11std3.jpg",
       "summary": "手机厂商今年入局做云台相机，这个品类越来越火热了，顺便看了下影石的销售数据： Luna Ultra好像卖得非常好，尤其是对国际市场的开拓，上市当月拿下亚马逊北美云台相机市场23.8%的份额，6-8月持续保持在两成左右。 最近影石还把旗舰店开到了纽约时代广场，进一步拓展线下市场，中国相机在美国市场的存在感越来越强了，这条赛道将越来越热闹[吃瓜]",
@@ -30,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-23",
-      "time": "07:44",
-      "publishedAt": "2026-09-23T07:44:34.012Z",
+      "time": "13:37",
+      "publishedAt": "2026-09-23T13:37:50.835Z",
       "url": "https://weibo.com/6048569942/RjoQgC4cy",
       "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ihdbug4i39j312e15sgqt.jpg",
       "summary": "moto这个新机感觉如何？同样是最新骁龙8EE6，50Mp 1/1.28英寸LYT910主摄+200Mp潜望长焦，四摄影像，B&O联名音频，设计很独特[笑而不语]",
@@ -50,8 +70,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-23",
-      "time": "07:44",
-      "publishedAt": "2026-09-23T07:44:34.012Z",
+      "time": "13:37",
+      "publishedAt": "2026-09-23T13:37:50.835Z",
       "url": "https://weibo.com/6048569942/RjksBhFyY",
       "image": "",
       "summary": "骁龙8EE6 QRD机器摸到了，常温环境下飙到了560W+，目前安卓阵营最高分，不愧是安卓最强2nm旗舰SOC，明天首发新机见……[笑而不语]",
@@ -62,39 +82,79 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "weibo-80ae27d86023",
-      "title": "数码闲聊站：OPPO Find X10，这价格感觉怎么样？ 12GB+256GB——549…",
-      "source": "数码闲聊站",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
+      "id": "auto-4328a64c737b",
+      "title": "小米 18 Pro Max 首发评测：最好的小米手机，也是最好玩的小米手机",
+      "source": "爱范儿",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
       "date": "2026-09-23",
-      "time": "07:44",
-      "publishedAt": "2026-09-23T07:44:34.012Z",
-      "url": "https://weibo.com/6048569942/RjjVu4cpi",
-      "image": "",
-      "summary": "OPPO Find X10，这价格感觉怎么样？ 12GB+256GB——5499元 12GB+512GB——5999元 16GB+512GB——6499元 16GB+1TB——7499元 OPPO Find X10 Pro Max，这价格感觉怎么样？ 12GB+256GB——6799元 12GB+512GB——7499元 16GB+512GB——7999元…",
+      "time": "13:03",
+      "publishedAt": "2026-09-23T13:03:20.000Z",
+      "url": "https://www.ifanr.com/1681778?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "image": "https://s3.ifanr.com/wp-content/uploads/2026/09/banner16t9-4.jpg",
+      "summary": "从诞生之刻就立意撕下「1999」的印象，与小米手机与生俱来的标签诀别",
       "tags": [
-        "OPPO",
-        "爆料",
-        "微博"
+        "Xiaomi",
+        "评测",
+        "自动抓取"
       ]
     },
     {
-      "id": "auto-ac479a2388a6",
-      "title": "卢伟冰：小米 18 标准版手机后续单独发布",
+      "id": "coolapk-user-fef2688ee514",
+      "title": "竹本青：【极客湾体验小米18 Pro系列 媒体机：骁龙8E6能效比8EE6更强】 ● 续航测试： 小米18 Pro ——…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-23",
+      "time": "12:40",
+      "publishedAt": "2026-09-23T12:40:05.000Z",
+      "url": "https://www.coolapk.com/feed/73938695",
+      "image": "http://image.coolapk.com/feed/2026/0923/21/4248714_39167afd_9500_2831_862-livepic@1920x1080.jpg",
+      "summary": "【极客湾体验小米18 Pro系列 媒体机：骁龙8E6能效比8EE6更强】 ● 续航测试： 小米18 Pro —— 10小时51分钟 小米18 Pro Max —— 11小时36分钟 ● 骁龙8 Elite Extreme Gen6：Offset PoP封装 CPU： 超大核 *2（Oryon-L） 性能核 *3（Oryon-M+） 能效核 *3（Oryon…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-d3387baa3dec",
+      "title": "Xiaomi’s new 18 Pro phones improve on Samsung’s privacy display",
+      "source": "The Verge",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-23",
+      "time": "12:04",
+      "publishedAt": "2026-09-23T12:04:45.000Z",
+      "url": "https://www.theverge.com/tech/999253/xiaomi-18-pro-max-privacy-display-launch-china",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/xiaomi-18-pro-max-pair.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "Xiaomi's new 18 Pro and 18 Pro Max launched in China today, and feature a more flexible take on the privacy display tech introduced this year on Samsung's Galaxy S26 Ultra. They c…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6346566eb9b2",
+      "title": "小米 18 Pro 手机发布：首发第六代骁龙 8 至尊版、一体式纯平背屏，5999 元起",
       "source": "IT之家",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-09-23",
-      "time": "07:39",
-      "publishedAt": "2026-09-23T07:39:27.000Z",
-      "url": "https://www.ithome.com/1/006/292.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/a9a87451-5444-422e-a65d-5d45e4a6f24e.jpg",
-      "summary": "IT之家 9 月 23 日消息，今天晚间的小米 18 Pro 系列手机新品发布会前夕，小米官方针对这款新品又开启了新一轮密集预热。有网友在微博询问小米集团合伙人、总裁，手机部总裁，小米品牌总经理 @卢伟冰 有关小米 18 标准版的消息，卢伟冰回复称： 有的，后面会单独发 。 今年 8 月 @数码闲聊站 爆料的消息称，预计为小米的“某厂”神秘新机将会是 Pr…",
+      "time": "11:58",
+      "publishedAt": "2026-09-23T11:58:46.000Z",
+      "url": "https://www.ithome.com/1/006/426.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/0ef6646e-1136-4c9a-b389-6744e8f44c17.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 23 日消息，在今晚举行的小米秋季新品发布会上，小米正式发布小米 18 Pro 手机，售价 5999 元起。 12GB+256GB：5999 元 12GB+512GB：6999 元 16GB+512GB：7999 元 16GB+1TB：8999 元 IT之家在发布会现场获悉，小米 18 Pro 手机采用新一代自研屏幕封装工艺，0.99mm…",
       "tags": [
         "Xiaomi",
         "爆料",
@@ -102,23 +162,363 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-56b555ff81f3",
-      "title": "竹本青：一加新款超薄散热器：体积极小，不需要外接电源",
+      "id": "auto-1eb15715c935",
+      "title": "小米 18 Pro Max 手机发布：首发第六代骁龙 8 超级至尊版、8500mAh 金沙江电池，6999 元起",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-23",
+      "time": "11:58",
+      "publishedAt": "2026-09-23T11:58:24.000Z",
+      "url": "https://www.ithome.com/1/006/425.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/ec5338ef-d1a8-4e3d-b15f-264c96d0afe6.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 23 日消息，在今晚的小米秋季新品发布会上，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰正式发布了全新一代小米 18 Pro Max 手机， 定价 6999 元起，发布即开售 。 12GB+256GB：定价 6999 元； 12GB+512GB：定价 7999 元； 16GB+512GB：定价 8999 元； 16GB+1T…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6812bd63f330",
+      "title": "亚马逊今年将为配送小哥部署 5000 台智能眼镜：不用手机就能看导航和送货指引",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-23",
+      "time": "11:52",
+      "publishedAt": "2026-09-23T11:52:45.000Z",
+      "url": "https://www.ithome.com/1/006/424.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/1eddccee-eec7-413c-8c67-d37c380d713a.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 23 日消息，当地时间 21 日，亚马逊宣布扩大智能眼镜的应用范围，将 导航和送货指引 直接呈现在配送司机眼前，帮助司机在送达包裹的最后一段路程中减少对智能手机的依赖。 ▲ 图源亚马逊 据IT之家了解，该智能眼镜结合人工智能、计算机视觉和摄像头，为司机提供步行路线，识别潜在危险， 还能辅助查找包裹、拍照记录送达情况 。 过去 18 个月，…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d37205f0636c",
+      "title": "New iPhone Setting Lets Users Shake Off Motion-Sensing Ads",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-23",
+      "time": "11:49",
+      "publishedAt": "2026-09-23T11:49:55.000Z",
+      "url": "https://www.macrumors.com/2026/09/23/iphone-setting-shake-off-motion-sensing-ads/",
+      "image": "https://images.macrumors.com/article-new/2026/09/iOS-27.2-Next-to-iPhone.jpg",
+      "summary": "Apple is testing an iPhone setting for users in China that lets them add apps to a list that prevents them from accessing the device's motion sensors. Apple hasn't explicitly said…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-df0bda93de15",
+      "title": "Hidden Galaxy Z Flip 8 feature turns your phone into a digital pocket mirror",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-23",
+      "time": "11:35",
+      "publishedAt": "2026-09-23T11:35:36.000Z",
+      "url": "https://www.sammobile.com/news/turn-samsung-galaxy-z-flip-8-into-pocket-mirror/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/09/Screenshot_20260923_153735_Camera.jpg",
+      "summary": "Although all three Galaxy Z8 foldables share several fundamental characteristics, each model also stands out with one or two unique features that give it a more powerful identity.…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-66095edf2251",
+      "title": "Galaxy Z Fold 8 and Flip 8 inspire DOMINNICO’s new Spring 27 collection of fashion accessories",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-23",
+      "time": "11:31",
+      "publishedAt": "2026-09-23T11:31:05.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-and-flip-8-inspire-dominnicos-new-spring-27-collection-of-fashion-accessories/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/09/DOMINNICO-BAG.png",
+      "summary": "Samsung and Spanish fashion brand DOMINNICO have teamed up a second time this year for a new fusion of fashion and mobile tech. They've joined creative forces once again to introd…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-25b01b09a3c1",
+      "title": "竹本青：小米手环11 × 三彩釉陶瓷联名版 限量开售，售价499元",
       "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "高可信爆料",
       "date": "2026-09-23",
-      "time": "07:01",
-      "publishedAt": "2026-09-23T07:01:58.000Z",
-      "url": "https://www.coolapk.com/feed/73930967",
-      "image": "http://image.coolapk.com/feed/2026/0923/15/4248714_809c9dd7_6916_2178_245@2000x3000.jpg",
-      "summary": "【李杰官宣一加新款超薄散热器：体积极小，不需要外接电源】 ● 不需要外接电源，插上手机就能用 ● 体积极小，可随身便携 ● 性能“够用”，支持ColorOS X 模式 #今日热点# #ColorOS17# #一加16#",
+      "time": "11:21",
+      "publishedAt": "2026-09-23T11:21:01.000Z",
+      "url": "https://www.coolapk.com/feed/73936279",
+      "image": "http://image.coolapk.com/feed/2026/0923/19/4248714_8b844074_2458_1007_791@2000x2000.jpg",
+      "summary": "【小米手环11 三彩釉陶瓷联名版 正式开售：499元，限量一万台】 9月23日，小米手环11携手上海博物馆，推出三彩釉陶瓷版。产品现已开售，限量一万台。 据介绍，该版本设计灵感源自上博馆藏「唐·彩色釉陶马」，搭配复合编织工艺腕带，汲取唐三彩经典釉色，瓷都景德镇匠心烧制，演绎现代科技时尚。 #今日热点# #HyperOS4# #小米手环11#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-a18681857953",
+      "title": "小米 18 Pro Max 首发第六代骁龙 8 超级至尊版：CPU 主频 5GHz，移动平台历史最高",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-23",
+      "time": "11:14",
+      "publishedAt": "2026-09-23T11:14:06.000Z",
+      "url": "https://www.ithome.com/1/006/415.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/73349824-b912-4b9a-b7ca-131e2e66e88d.jpg",
+      "summary": "IT之家 9 月 23 日消息，在今晚的小米秋季新品发布会上，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰宣布，小米 18 Pro Max 首发第六代骁龙 8 超级至尊版。 据介绍，这颗处理器 CPU 主频 5GHz，移动平台历史最高，采用全新一代 GPU / NPU 架构、先进 OFFSET PoP 高导热芯片封装，叠加新一代环形冷泵散热，…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-32221e07b67a",
+      "title": "卢伟冰：小米 18 Fold 中折叠手机首销零售量同比上代大折叠增长 300%",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-23",
+      "time": "11:07",
+      "publishedAt": "2026-09-23T11:07:15.000Z",
+      "url": "https://www.ithome.com/1/006/413.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/c6ed9736-ca64-40a8-92e3-d0305902f622.jpg",
+      "summary": "IT之家 9 月 23 日消息，在今晚的小米秋季新品发布会上，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰宣布， 小米 18 Fold 中折叠手机首销零售量同比上代大折叠增长 300% 。 据IT之家此前报道， 小米 18 Fold 中折叠手机发布于 9 月 7 日 ，首发玄戒 O3 芯片，配备 5.38″ 外屏 +7.58″ 内屏，并后置徕…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c94c121cfcd9",
+      "title": "iPhone Duo hype proves Samsung was right about foldables all along",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-23",
+      "time": "10:40",
+      "publishedAt": "2026-09-23T10:40:44.000Z",
+      "url": "https://www.sammobile.com/opinion/iphone-duo-hype-shows-samsung-was-right-about-foldables/",
+      "image": "",
+      "summary": "Apple has launched its first foldable phone, and the iPhone Duo appears to have generated a lot of excitement. The interest isn’t limited to tech enthusiasts, either. Foldables ar…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b879e323b348",
+      "title": "Does the Pixel 11 Pro’s modem still lose to the competition? I ran a test to find out",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-23",
+      "time": "10:30",
+      "publishedAt": "2026-09-23T10:30:07.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-pro-modem-vs-galaxy-s26-ultra-3712761/",
+      "image": "",
+      "summary": "The Pixel's modem may finally no longer be its biggest weakness.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-efddddf02678",
+      "title": "Google could bring the Pixel 11’s customized My Pixel colors to older Pixels",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-23",
+      "time": "10:25",
+      "publishedAt": "2026-09-23T10:25:26.000Z",
+      "url": "https://www.androidauthority.com/my-pixel-app-device-colors-apk-teardown-3714457/",
+      "image": "",
+      "summary": "No Pixel 11, no problem.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-853a05847b68",
+      "title": "Samsung hikes Galaxy S26 series price in India",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-23",
+      "time": "10:22",
+      "publishedAt": "2026-09-23T10:22:17.000Z",
+      "url": "https://www.sammobile.com/news/samsung-hikes-galaxy-s26-series-price-india/",
+      "image": "",
+      "summary": "There’s some disappointing news for people in India who were planning to buy Samsung’s Galaxy S26, Galaxy S26+, or Galaxy S26 Ultra. The brand has increased the prices of the thre…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3e0580b2c173",
+      "title": "OnePlus PYB110 新机现身安兔兔：第 6 代骁龙 8 超级至尊版、跑分超 538 万，预计为一加 16",
+      "source": "IT之家",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-23",
+      "time": "09:55",
+      "publishedAt": "2026-09-23T09:55:42.000Z",
+      "url": "https://www.ithome.com/1/006/398.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/8e41f5c7-b41a-4c22-bd8d-c274343ab61f.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 23 日消息，安兔兔官方今日发文称在后台发现了一款一加新机，型号为“PYB110”， 预计为一加 16 旗舰手机 。安兔兔表示，这款新机的跑分成绩在目前安兔兔 V12 后台数据库中属于比较拔尖的存在。 ▲ IT之家图赏：一加 16「明日星光」实拍 测试机型跑分超 538 万（总分 5384433） ，搭载第 6 代骁龙 8 超级至尊版移动…",
       "tags": [
         "OPPO",
         "爆料",
-        "酷安博主"
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-05a0070facf9",
+      "title": "英国监管机构拟议新规：把搜索引擎选择权还给谷歌 Chrome 浏览器及安卓系统用户",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-23",
+      "time": "09:48",
+      "publishedAt": "2026-09-23T09:48:22.000Z",
+      "url": "https://www.ithome.com/1/006/391.htm",
+      "image": "",
+      "summary": "IT之家 9 月 23 日消息，据路透社报道，当地时间 23 日（今天），英国竞争与市场管理局提出一系列方案，拟让谷歌安卓系统和 Chrome 浏览器用户有更多选择，自主决定使用何种搜索服务。 新规拟要求谷歌 在用户首次设置安卓手机或首次打开 Chrome 浏览器时，列出搜索服务供用户选择 ，此后每年提示用户选择一次默认搜索服务。符合谷歌技术和安全标准的…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fe615ce14469",
+      "title": "The iPhone Duo’s under-display camera is a bad idea — these 5 photos prove why",
+      "source": "Android Authority",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-23",
+      "time": "09:30",
+      "publishedAt": "2026-09-23T09:30:57.000Z",
+      "url": "https://www.androidauthority.com/iphone-duo-under-display-camera-bad-idea-photo-test-3710889/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Apple-iPhone-Duo-Hands-On-Visible-under-display-camera-at-angle.jpg",
+      "summary": "The iPhone Duo has an under-display camera, but our testing shows why this tech isn't a good idea.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fc8d57f977fe",
+      "title": "Xiaomi 18 series transparent back version teased as “one more thing” hours before big reveal",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-23",
+      "time": "09:25",
+      "publishedAt": "2026-09-23T09:25:14.000Z",
+      "url": "https://www.gizmochina.com/2026/09/23/xiaomi-18-series-transparent-back-version-teased-as-one-more-thing-hours-before-big-reveal/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/70cf98bcly1ihcvh07f26j20u0140q7g-1-300x169.jpg?x96852",
+      "summary": "Xiaomi is ramping up the hype for today’s flagship launch with a pretty cryptic teaser. In an official Weibo post, the company said: “Tonight is a little special because the last…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6ed872b0e126",
+      "title": "从 iPhone 18 开始，苹果给你的照片打上「看不见」的水印",
+      "source": "爱范儿",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-23",
+      "time": "09:12",
+      "publishedAt": "2026-09-23T09:12:11.000Z",
+      "url": "https://www.ifanr.com/1681780?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "image": "https://s3.ifanr.com/wp-content/uploads/2026/09/img_6ab397990e289.png",
+      "summary": "给真正由相机拍下来的照片，留下「真」的证明",
+      "tags": [
+        "iPhone",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9e0b175e3a14",
+      "title": "RedMagic 12 Pro+ leak fills in the battery, charging, and camera specs RedMagic left out",
+      "source": "Gizmochina",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-23",
+      "time": "09:02",
+      "publishedAt": "2026-09-23T09:02:31.000Z",
+      "url": "https://www.gizmochina.com/2026/09/23/redmagic-12-pro-leak-fills-in-the-battery-charging-and-camera-specs-redmagic-left-out/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2025/11/RedMagic-11-Pro-global-300x175.png?x96852",
+      "summary": "RedMagic confirmed the chip for its next gaming flagship earlier today, and now a fresh leak fills in most of what that announcement left out. You’re looking at an 8,400mAh batter…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -135,66 +535,6 @@ window.phoneRadarAuto = {
       "url": "https://www.gizmochina.com/2026/09/23/xiaomi-18-pro-series-will-be-the-first-to-bring-both-snapdragon-8-elite-gen-6-and-8-elite-extreme-gen-6-to-market/",
       "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/002p2Zyzly1ih9uh718alj61401hckhu02-300x169.jpg?x96852",
       "summary": "At the 2026 Snapdragon Summit, Zeng Xuezhong, Senior Vice President of Xiaomi Group and President of the International Department, announced that Xiaomi will be the world’s first…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f70f70d768ae",
-      "title": "小米 18 Pro 系列手机官宣全系搭载超宽频赛博马达：覆盖 26 大类、183 个场景",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-23",
-      "time": "06:58",
-      "publishedAt": "2026-09-23T06:58:53.000Z",
-      "url": "https://www.ithome.com/1/006/267.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/48fdc852-706f-411d-b4e3-d53c2563fd45.jpg",
-      "summary": "IT之家 9 月 23 日消息，小米官方今日宣布，小米 18 Pro 系列手机将全系搭载超宽频赛博马达： Pro 搭载 7514 线性马达 ，瞬态振动量提升 75%； Pro Max 搭载 0916C 线性马达 ，瞬态振动量提升 112%。 小米官方表示，全新超宽频赛博马达 将覆盖 26 大类、183 个场景 ，支持精细化振效调校，可带来层次丰富的沉浸式振…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-344eb2112dbc",
-      "title": "高通承诺 Elite 级芯片提供 8 年内核更新，旗舰手机有望普及 7 年安卓升级",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-23",
-      "time": "06:49",
-      "publishedAt": "2026-09-23T06:49:41.000Z",
-      "url": "https://www.ithome.com/1/006/253.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/db241f8c-10e4-4835-814d-8425e6b8ad1b.jpg",
-      "summary": "IT之家 9 月 23 日消息，科技媒体 Android Headline 今天（9 月 23 日）发布博文，报道称在 2026 骁龙峰会上， 高通宣布将为其旗舰级芯片（主要为至尊版 Elite 系列）提供 8 年内核更新支持。 IT之家注：内核是操作系统中负责硬件驱动与底层资源调度的核心程序。芯片厂商向手机厂商提供内核更新，是后者能否推送新版安卓系统及安…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5b3ab1edf033",
-      "title": "小米 18 Pro 系列手机“one more thing”官宣，透明探索版有望回归",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-23",
-      "time": "06:36",
-      "publishedAt": "2026-09-23T06:36:08.000Z",
-      "url": "https://www.ithome.com/1/006/243.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/a9b5d6c6-aab4-4308-b137-886d6bd51c9d.png",
-      "summary": "IT之家 9 月 23 日消息，小米刚刚官宣了小米 18 Pro 系列手机的“ one more thing ”，官方微博配文称上次相见还是 6 年前。 今晚，还有点特别的 上一次相见，还是 6 年前 今晚 7 点见 IT之家注意到，小米官方微博的配图，展示了小米 18 Pro 的透明机身。值得一提的是，小米此前最后一款采用透明机身设计的手机 —— 小米…",
       "tags": [
         "Xiaomi",
         "爆料",
@@ -242,26 +582,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-b405f9ca4d87",
-      "title": "苹果 iPhone 18 Pro Max 体验：有颜有料，这杯“勃艮第”还有后劲",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-23",
-      "time": "05:04",
-      "publishedAt": "2026-09-23T05:04:26.000Z",
-      "url": "https://www.ithome.com/1/006/209.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/14ac6a72-d59a-4e62-9597-5e2b782b005a.jpg",
-      "summary": "每年 9 月份都是科技圈最热闹的时候，而这其中最受关注的保留节目，自然就是苹果新 iPhone 的发布了。 而今年的苹果又有些特殊，新的 CEO，新的折叠屏 iPhone Duo，“消失的标准版”iPhone，似乎只有 iPhone 18 Pro 系列延续着“我自岿然不动”的气质，特别是发售之后万人抢购的场景，仿佛是 18 Pro 在大声宣告：“管你折叠不…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-ef6b322ec1be",
       "title": "Vivo X500 Pro Max vs Oppo Find X10 Pro Max: Which Flagship is Better?",
       "source": "Gizmochina",
@@ -282,26 +602,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-16b83fd0a2a5",
-      "title": "竹本青：小米18 Pro Max预热：处理器Offset PoP高导热封装",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-23",
-      "time": "03:02",
-      "publishedAt": "2026-09-23T03:02:15.000Z",
-      "url": "https://www.coolapk.com/feed/73926004",
-      "image": "http://image.coolapk.com/feed/2026/0923/11/4248714_be15aabf_2534_2983_961@1440x1920.jpg",
-      "summary": "【小米18 Pro Max 性能预热：处理器Offset PoP高导热封装】 ● 首发第六代骁龙8超级至尊版 ● Offset PoP高导热封装 ● SoC顶部加盖导热片 ● 号称两倍持续极限性能时间 #今日热点# #小米18ProMax# #HyperOS4#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-0dd77cf7bab5",
       "title": "OnePlus 16 breaks AnTuTu records with 5.38M score, reveals Snapdragon 8 Elite Extreme Gen 6’s brute power",
       "source": "Gizmochina",
@@ -319,46 +619,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-a88aad274653",
-      "title": "竹本青：【荣耀MagicPad4 开启预售：骁龙8s Gen4处理器，售价3299元起】 8GB+256GB —— 329…",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-23",
-      "time": "02:24",
-      "publishedAt": "2026-09-23T02:24:08.000Z",
-      "url": "https://www.coolapk.com/feed/73925271",
-      "image": "http://image.coolapk.com/feed/2026/0923/10/4248714_108205c6_0364_5985_228@2000x3556.jpg",
-      "summary": "【荣耀MagicPad4 开启预售：骁龙8s Gen4处理器，售价3299元起】 8GB+256GB —— 3299元 12GB+256GB —— 3699元 ● 骁龙8s Gen4处理器 ● 12.1\"165Hz 3K LCD屏 ● 10100mAh电池+66W快充 ● 金属机身｜六扬声器 ● 前置8Mp／后置13Mp #今日热点# #荣耀MagicPa…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-297058fc1a16",
-      "title": "竹本青：消息称红魔12系列只有Pro+：取消标准版，10月中旬上市",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-23",
-      "time": "02:07",
-      "publishedAt": "2026-09-23T02:07:55.000Z",
-      "url": "https://www.coolapk.com/feed/73924967",
-      "image": "http://image.coolapk.com/feed/2026/0923/10/4248714_f2ae203e_9274_0757_180@1439x734.jpg",
-      "summary": "【消息称红魔 12系列 只有Pro+：取消标准版，预计10月中旬上市】 9月23日，数码闲聊站爆料红魔 12系列 相关信息。该产品线将取消标准版，仅推出红魔12 Pro+一款机型，预计10月中旬前后上市。 硬件方面，红魔12 Pro+搭载第六代骁龙8超级至尊版；配备8400mAh+120W有线+80W无线续航组合；屏幕首发新一代屏下摄像头方案，0.96mm…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -642,28 +902,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-4f6a9ae08230",
-      "title": "OPPO Find X10系列暨旗舰生态新品发布会售价一览",
-      "source": "酷安热榜",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-23",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73916502",
-      "image": "",
-      "summary": "OPPO Find X10系列暨旗舰生态新品发布会售价一览",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-f5e69e7431a1",
-      "title": "苹果CEO谈要不要每年换iPhone",
+      "id": "newsnow-7db570ab8db7",
+      "title": "张元英超绝不经意露出iPhone18Pro",
       "source": "微博热搜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -672,9 +912,9 @@ window.phoneRadarAuto = {
       "date": "2026-09-23",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9CCEO%E8%B0%88%E8%A6%81%E4%B8%8D%E8%A6%81%E6%AF%8F%E5%B9%B4%E6%8D%A2iPhone%23&t=31&band_rank=13&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%85%83%E8%8B%B1%E8%B6%85%E7%BB%9D%E4%B8%8D%E7%BB%8F%E6%84%8F%E9%9C%B2%E5%87%BAiPhone18Pro%23&t=31&band_rank=12&Refer=top",
       "image": "",
-      "summary": "苹果CEO谈要不要每年换iPhone",
+      "summary": "张元英超绝不经意露出iPhone18Pro",
       "tags": [
         "iPhone",
         "爆料",
@@ -682,29 +922,29 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-5903cb18254e",
-      "title": "iPhone Duo 整机组装良率仅六成多，供应链在等苹果决定是否放宽质量要求，哪些信息值得关注？",
-      "source": "知乎热榜",
+      "id": "newsnow-e7c594db8c52",
+      "title": "iPhoneDuo难产",
+      "source": "微博热搜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
-      "type": "市场报告",
-      "trust": "媒体汇总",
+      "type": "爆料",
+      "trust": "待验证",
       "date": "2026-09-23",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2085398866065618860",
+      "url": "https://s.weibo.com/weibo?q=iPhoneDuo%E9%9A%BE%E4%BA%A7&t=31&band_rank=23&Refer=top",
       "image": "",
-      "summary": "iPhone Duo 整机组装良率仅六成多，供应链在等苹果决定是否放宽质量要求，哪些信息值得关注？",
+      "summary": "iPhoneDuo难产",
       "tags": [
         "iPhone",
-        "市场报告",
+        "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-d4c2af8fdf15",
-      "title": "第一批iPhone 18 Pro受害者出现",
-      "source": "今日头条热榜",
+      "id": "newsnow-44bf560275a8",
+      "title": "iPhone 18 Pro上手体验如何",
+      "source": "B站热搜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
       "type": "爆料",
@@ -712,9 +952,9 @@ window.phoneRadarAuto = {
       "date": "2026-09-23",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7687046601769648179/",
+      "url": "https://search.bilibili.com/all?keyword=iPhone%2018%20Pro%E4%B8%8A%E6%89%8B%E4%BD%93%E9%AA%8C%E5%A6%82%E4%BD%95",
       "image": "",
-      "summary": "第一批iPhone 18 Pro受害者出现",
+      "summary": "iPhone 18 Pro上手体验如何",
       "tags": [
         "iPhone",
         "爆料",
@@ -722,8 +962,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-cd878b18c680",
-      "title": "男子边走边看手机遭叉车碾压",
+      "id": "newsnow-e28d6c4407f7",
+      "title": "借给路人手机被塞1条中华1盒月饼",
       "source": "百度热搜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -732,11 +972,31 @@ window.phoneRadarAuto = {
       "date": "2026-09-23",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BE%B9%E8%B5%B0%E8%BE%B9%E7%9C%8B%E6%89%8B%E6%9C%BA%E9%81%AD%E5%8F%89%E8%BD%A6%E7%A2%BE%E5%8E%8B",
+      "url": "https://www.baidu.com/s?wd=%E5%80%9F%E7%BB%99%E8%B7%AF%E4%BA%BA%E6%89%8B%E6%9C%BA%E8%A2%AB%E5%A1%9E1%E6%9D%A1%E4%B8%AD%E5%8D%8E1%E7%9B%92%E6%9C%88%E9%A5%BC",
       "image": "",
-      "summary": "男子边走边看手机遭叉车碾压",
+      "summary": "借给路人手机被塞1条中华1盒月饼",
       "tags": [
         "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-9fd49a931326",
+      "title": "iPhone Duo难产",
+      "source": "百度热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-23",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=iPhone+Duo%E9%9A%BE%E4%BA%A7",
+      "image": "",
+      "summary": "iPhone Duo难产",
+      "tags": [
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -753,7 +1013,7 @@ window.phoneRadarAuto = {
       "time": "23:57",
       "publishedAt": "2026-09-22T23:57:57.000Z",
       "url": "https://9to5mac.com/2026/09/22/apple-pay-is-getting-even-better-with-four-new-features/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/10/apple-pay-header.jpg?quality=82&strip=all&w=1600",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-pay.jpg?quality=82&strip=all&w=1600",
       "summary": "Apple Pay is a go-to feature for iPhone users when shopping in stores, online, and in apps. Apple recently announced four new features that make Apple Pay even better. Here’s how…",
       "tags": [
         "iPhone",
@@ -942,26 +1202,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-79fc326446f6",
-      "title": "Apple Planning to Bring iPhone Duo Display Tech to Pro in 2029",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-22",
-      "time": "13:27",
-      "publishedAt": "2026-09-22T13:27:17.000Z",
-      "url": "https://www.macrumors.com/2026/09/22/apple-to-bring-iphone-duo-display-tech-to-pro/",
-      "image": "https://images.macrumors.com/article-new/2026/07/iphone-2028-punch-hole-design.jpg",
-      "summary": "Apple's 2029 \"Pro\" iPhones could adopt thinner and more power-efficient OLED screens, according to UBI Research . The technology, known as Color Filter on Encapsulation (CoE), rem…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-96302b750eec",
       "title": "PITAKA’s iPhone 18 Pro cases bring stunning designs and protection from $59.99 [Save 10%]",
       "source": "9to5Mac",
@@ -975,26 +1215,6 @@ window.phoneRadarAuto = {
       "url": "https://9to5mac.com/2026/09/22/pitaka-iphone-18-cases/",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/pitaka-iphone-18-pro-hero.webp?w=1600",
       "summary": "PITAKA’s iPhone 18 Pro cases bring new colors, updated materials, and three different approaches to protecting your next iPhone. Whether you prefer a barely-there shell or a case…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5bfd7ed03bd4",
-      "title": "Apple Announces 'Tap to Pay on iPhone' Availability in 8 More Countries",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-22",
-      "time": "13:22",
-      "publishedAt": "2026-09-22T13:22:15.000Z",
-      "url": "https://www.macrumors.com/2026/09/22/tap-to-pay-on-iphone-8-more-countries/",
-      "image": "https://images.macrumors.com/article-new/2026/09/Tap-to-Pay-on-iPhone-General.jpg",
-      "summary": "Apple today announced that Tap to Pay on iPhone is now available in eight more countries: Argentina, Colombia, Costa Rica, the Dominican Republic, Guatemala, Honduras, Panama, and…",
       "tags": [
         "iPhone",
         "爆料",
@@ -1177,66 +1397,6 @@ window.phoneRadarAuto = {
       "summary": "Huawei is getting ready for its biggest smartphone launch of 2026. The Mate 90 series is likely to launch in China in the last week of September, around two months earlier than th…",
       "tags": [
         "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-509ea516c62f",
-      "title": "Global Vivo X500 Pro Max to pack smaller battery than the Chinese edition, reveals a major certification",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-22",
-      "time": "06:14",
-      "publishedAt": "2026-09-22T06:14:22.000Z",
-      "url": "https://www.gizmochina.com/2026/09/22/vivo-x500-series-global-battery-capacities-revealed/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Vivo-X500-Pro-Max-featured-300x166.jpg?x96852",
-      "summary": "Vivo has just launched the Vivo X500, X500 Pro, and Vivo X500 Pro Max in China. There are speculations that the global launch may happen in November or December. Ahead of the glob…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-fcc0cd844586",
-      "title": "Vivo Camera Screen gives the X500 series the rear display Xiaomi’s 18 Pro has",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-22",
-      "time": "05:29",
-      "publishedAt": "2026-09-22T05:29:56.000Z",
-      "url": "https://www.gizmochina.com/2026/09/22/vivo-camera-screen-gives-the-x500-series-the-rear-display-xiaomis-18-pro-has/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Vivo-Camera-Screen-launch-specs-price-300x200.jpg?x96852",
-      "summary": "The Xiaomi 17 Pro series has its whole identity built around the rear screen, and its successor is following in its footsteps. The Vivo X500 series, which launched yesterday, skip…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2aed648c7bc4",
-      "title": "More Xiaomi devices get global HyperOS 4 beta update",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-22",
-      "time": "05:09",
-      "publishedAt": "2026-09-22T05:09:39.000Z",
-      "url": "https://www.gizmochina.com/2026/09/22/more-xiaomi-devices-get-global-hyperos-4-beta-update/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Xiaomi-HyperOS-4-beta-update-rollout-300x200.png?x96852",
-      "summary": "Xiaomi is rolling out the global HyperOS 4 beta update to the second batch of devices. It includes several high-end smartphones from the Xiaomi 17T and Xiaomi 15 series. Unfortuna…",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "自动抓取"
       ]
