@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-23T00:31:55.784Z",
+  "updatedAt": "2026-09-23T07:44:34.012Z",
   "issueDate": "2026-09-23",
   "issue": "VOL.260923",
   "title": "手机情报日报",
-  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、2 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、2 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 11,
+    "total": 12,
     "iphone": 9,
     "leaks": 8,
     "official": 2,
@@ -17,6 +17,29 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-b405f9ca4d87",
+          "title": "苹果 iPhone 18 Pro Max 体验：有颜有料，这杯“勃艮第”还有后劲",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-23",
+          "time": "05:04",
+          "publishedAt": "2026-09-23T05:04:26.000Z",
+          "url": "https://www.ithome.com/1/006/209.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/14ac6a72-d59a-4e62-9597-5e2b782b005a.jpg",
+          "verdict": "先看",
+          "takeaway": "每年 9 月份都是科技圈最热闹的时候，而这其中最受关注的保留节目，自然就是苹果新 iPhone 的发布了。 而今年的苹果又有些特殊，新的 CEO，新的折叠屏 iPhone Duo，“消失的标准版”iPhone，似乎只有 iPhone 18 Pro 系列延续着“我自岿然不动”的气质，特别是发售之后万人抢购的场景，仿佛是 18 Pro 在大声宣告：“管你折叠不…",
+          "detail": "每年 9 月份都是科技圈最热闹的时候，而这其中最受关注的保留节目，自然就是苹果新 iPhone 的发布了。 而今年的苹果又有些特殊，新的 CEO，新的折叠屏 iPhone Duo，“消失的标准版”iPhone，似乎只有 iPhone 18 Pro 系列延续着“我自岿然不动”的气质，特别是发售之后万人抢购的场景，仿佛是 18 Pro 在大声宣告：“管你折叠不…",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "newsnow-0f44f2de3ee1",
           "title": "iPhone18出现巨大屏幕问题！！",
@@ -157,48 +180,25 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-3d6b832b8ed9",
-          "title": "荣耀 Magic9 Pro Max 手机官宣搭载高通第六代骁龙 8 超级至尊版处理器",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-23",
-          "time": "00:18",
-          "publishedAt": "2026-09-23T00:18:37.000Z",
-          "url": "https://www.ithome.com/1/006/037.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/24a84aac-33e4-4a13-b686-af1082c26667.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 9 月 23 日消息，在夏威夷时间 9 月 22 日 9 点（北京时间 9 月 23 日 3 点）召开的 2026 骁龙峰会上， 高通公司宣布推出第六代骁龙 8 超级至尊版移动平台 。 荣耀手机今日宣布， 全新荣耀 Magic9 系列手机载第六代骁龙 8 超级至尊版 。新机将于 9 月 28 日 14:30 发布并开售。 IT之家注意到，海报右下…",
-          "detail": "IT之家 9 月 23 日消息，在夏威夷时间 9 月 22 日 9 点（北京时间 9 月 23 日 3 点）召开的 2026 骁龙峰会上， 高通公司宣布推出第六代骁龙 8 超级至尊版移动平台 。 荣耀手机今日宣布， 全新荣耀 Magic9 系列手机载第六代骁龙 8 超级至尊版 。新机将于 9 月 28 日 14:30 发布并开售。 IT之家注意到，海报右下…",
-          "keyPoints": [
-            "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-e90f0397d8fb",
-          "title": "全球最快移动 CPU：高通官宣小米、vivo、红魔、REDMI 等率先适配第六代骁龙 8 超级至尊版",
+          "id": "auto-ac479a2388a6",
+          "title": "卢伟冰：小米 18 标准版手机后续单独发布",
           "originalTitle": "",
           "source": "IT之家",
           "brand": "Xiaomi",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-09-22",
-          "time": "21:43",
-          "publishedAt": "2026-09-22T21:43:35.000Z",
-          "url": "https://www.ithome.com/1/006/014.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/5c354003-4192-40ce-b6c9-484ee1c84842.png",
+          "date": "2026-09-23",
+          "time": "07:39",
+          "publishedAt": "2026-09-23T07:39:27.000Z",
+          "url": "https://www.ithome.com/1/006/292.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/a9a87451-5444-422e-a65d-5d45e4a6f24e.jpg",
           "verdict": "先看",
-          "takeaway": "IT之家 9 月 23 日消息，夏威夷时间 9 月 22 日 9 点（北京时间 9 月 23 日 3 点）召开的 2026 骁龙峰会上， 高通宣布小米、vivo、红魔、REDMI、OPPO 等（按官方新闻稿排序）手机品牌将率先适配第六代骁龙 8 超级至尊版 / 至尊版芯片。 高通官方表示小米、vivo、红魔、REDMI、OPPO、一加、Motorola、i…",
-          "detail": "IT之家 9 月 23 日消息，夏威夷时间 9 月 22 日 9 点（北京时间 9 月 23 日 3 点）召开的 2026 骁龙峰会上， 高通宣布小米、vivo、红魔、REDMI、OPPO 等（按官方新闻稿排序）手机品牌将率先适配第六代骁龙 8 超级至尊版 / 至尊版芯片。 高通官方表示小米、vivo、红魔、REDMI、OPPO、一加、Motorola、i…",
+          "takeaway": "IT之家 9 月 23 日消息，今天晚间的小米 18 Pro 系列手机新品发布会前夕，小米官方针对这款新品又开启了新一轮密集预热。有网友在微博询问小米集团合伙人、总裁，手机部总裁，小米品牌总经理 @卢伟冰 有关小米 18 标准版的消息，卢伟冰回复称： 有的，后面会单独发 。 今年 8 月 @数码闲聊站 爆料的消息称，预计为小米的“某厂”神秘新机将会是 Pr…",
+          "detail": "IT之家 9 月 23 日消息，今天晚间的小米 18 Pro 系列手机新品发布会前夕，小米官方针对这款新品又开启了新一轮密集预热。有网友在微博询问小米集团合伙人、总裁，手机部总裁，小米品牌总经理 @卢伟冰 有关小米 18 标准版的消息，卢伟冰回复称： 有的，后面会单独发 。 今年 8 月 @数码闲聊站 爆料的消息称，预计为小米的“某厂”神秘新机将会是 Pr…",
           "keyPoints": [
-            "芯片 / 性能"
+            "爆料来源"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -255,29 +255,59 @@ window.phoneRadarDaily = {
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "行业趋势",
+      "hint": "看方向，不急着当购买依据。",
+      "items": [
         {
-          "id": "newsnow-9a5e5cb4b276",
-          "title": "手里存了8000多元，纠结要不要冲iPhone18 Pro Max",
+          "id": "auto-f70f70d768ae",
+          "title": "小米 18 Pro 系列手机官宣全系搭载超宽频赛博马达：覆盖 26 大类、183 个场景",
           "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
+          "source": "IT之家",
+          "brand": "Xiaomi",
           "type": "爆料",
-          "trust": "高关注爆料源",
+          "trust": "媒体汇总",
           "date": "2026-09-23",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73895419",
-          "image": "",
+          "time": "06:58",
+          "publishedAt": "2026-09-23T06:58:53.000Z",
+          "url": "https://www.ithome.com/1/006/267.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/48fdc852-706f-411d-b4e3-d53c2563fd45.jpg",
           "verdict": "先看",
-          "takeaway": "手里存了8000多元，纠结要不要冲iPhone18 Pro Max",
-          "detail": "手里存了8000多元，纠结要不要冲iPhone18 Pro Max",
+          "takeaway": "IT之家 9 月 23 日消息，小米官方今日宣布，小米 18 Pro 系列手机将全系搭载超宽频赛博马达： Pro 搭载 7514 线性马达 ，瞬态振动量提升 75%； Pro Max 搭载 0916C 线性马达 ，瞬态振动量提升 112%。 小米官方表示，全新超宽频赛博马达 将覆盖 26 大类、183 个场景 ，支持精细化振效调校，可带来层次丰富的沉浸式振…",
+          "detail": "IT之家 9 月 23 日消息，小米官方今日宣布，小米 18 Pro 系列手机将全系搭载超宽频赛博马达： Pro 搭载 7514 线性马达 ，瞬态振动量提升 75%； Pro Max 搭载 0916C 线性马达 ，瞬态振动量提升 112%。 小米官方表示，全新超宽频赛博马达 将覆盖 26 大类、183 个场景 ，支持精细化振效调校，可带来层次丰富的沉浸式振…",
           "keyPoints": [
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
+          "id": "auto-5b3ab1edf033",
+          "title": "小米 18 Pro 系列手机“one more thing”官宣，透明探索版有望回归",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-23",
+          "time": "06:36",
+          "publishedAt": "2026-09-23T06:36:08.000Z",
+          "url": "https://www.ithome.com/1/006/243.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/a9b5d6c6-aab4-4308-b137-886d6bd51c9d.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 9 月 23 日消息，小米刚刚官宣了小米 18 Pro 系列手机的“ one more thing ”，官方微博配文称上次相见还是 6 年前。 今晚，还有点特别的 上一次相见，还是 6 年前 今晚 7 点见 IT之家注意到，小米官方微博的配图，展示了小米 18 Pro 的透明机身。值得一提的是，小米此前最后一款采用透明机身设计的手机 —— 小米…",
+          "detail": "IT之家 9 月 23 日消息，小米刚刚官宣了小米 18 Pro 系列手机的“ one more thing ”，官方微博配文称上次相见还是 6 年前。 今晚，还有点特别的 上一次相见，还是 6 年前 今晚 7 点见 IT之家注意到，小米官方微博的配图，展示了小米 18 Pro 的透明机身。值得一提的是，小米此前最后一款采用透明机身设计的手机 —— 小米…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         }
       ]
     }

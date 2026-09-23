@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-23T00:31:55.784Z",
+  "updatedAt": "2026-09-23T07:44:34.012Z",
   "news": [
+    {
+      "id": "weibo-111fcf82b2f1",
+      "title": "数码闲聊站：手机厂商今年入局做云台相机，这个品类越来越火热了，顺便看了下影石的销售数据：…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-23",
+      "time": "07:44",
+      "publishedAt": "2026-09-23T07:44:34.012Z",
+      "url": "https://weibo.com/6048569942/RjpzbrOF6",
+      "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1ihdftuq14nj31ly11std3.jpg",
+      "summary": "手机厂商今年入局做云台相机，这个品类越来越火热了，顺便看了下影石的销售数据： Luna Ultra好像卖得非常好，尤其是对国际市场的开拓，上市当月拿下亚马逊北美云台相机市场23.8%的份额，6-8月持续保持在两成左右。 最近影石还把旗舰店开到了纽约时代广场，进一步拓展线下市场，中国相机在美国市场的存在感越来越强了，这条赛道将越来越热闹[吃瓜]",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "weibo-8e7705a97b7e",
+      "title": "数码闲聊站：moto这个新机感觉如何？同样是最新骁龙8EE6，50Mp 1/1.28英寸L…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-23",
+      "time": "07:44",
+      "publishedAt": "2026-09-23T07:44:34.012Z",
+      "url": "https://weibo.com/6048569942/RjoQgC4cy",
+      "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ihdbug4i39j312e15sgqt.jpg",
+      "summary": "moto这个新机感觉如何？同样是最新骁龙8EE6，50Mp 1/1.28英寸LYT910主摄+200Mp潜望长焦，四摄影像，B&O联名音频，设计很独特[笑而不语]",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
     {
       "id": "weibo-c11d0ffbcfff",
       "title": "数码闲聊站：骁龙8EE6 QRD机器摸到了，常温环境下飙到了560W+，目前安卓阵营最高分…",
@@ -10,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-23",
-      "time": "00:31",
-      "publishedAt": "2026-09-23T00:31:55.784Z",
+      "time": "07:44",
+      "publishedAt": "2026-09-23T07:44:34.012Z",
       "url": "https://weibo.com/6048569942/RjksBhFyY",
       "image": "",
       "summary": "骁龙8EE6 QRD机器摸到了，常温环境下飙到了560W+，目前安卓阵营最高分，不愧是安卓最强2nm旗舰SOC，明天首发新机见……[笑而不语]",
@@ -30,8 +70,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-23",
-      "time": "00:31",
-      "publishedAt": "2026-09-23T00:31:55.784Z",
+      "time": "07:44",
+      "publishedAt": "2026-09-23T07:44:34.012Z",
       "url": "https://weibo.com/6048569942/RjjVu4cpi",
       "image": "",
       "summary": "OPPO Find X10，这价格感觉怎么样？ 12GB+256GB——5499元 12GB+512GB——5999元 16GB+512GB——6499元 16GB+1TB——7499元 OPPO Find X10 Pro Max，这价格感觉怎么样？ 12GB+256GB——6799元 12GB+512GB——7499元 16GB+512GB——7999元…",
@@ -42,103 +82,303 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "weibo-034e2289e2a5",
-      "title": "数码闲聊站：加加16外观完全揭晓了，大R角极窄四等边直屏+金属中框+左上角金属魔方DECO…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-23",
-      "time": "00:31",
-      "publishedAt": "2026-09-23T00:31:55.784Z",
-      "url": "https://weibo.com/6048569942/Rjhk1etT1",
-      "image": "https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png",
-      "summary": "加加16外观完全揭晓了，大R角极窄四等边直屏+金属中框+左上角金属魔方DECO，黑色是丝绸玻璃，银色是玻璃+呼吸灯，橙色是新工艺玻纤，满足不同的喜好选择。你们喜欢哪个配色？[笑而不语] 网页链接",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "weibo-e744c40f4a2e",
-      "title": "数码闲聊站：OPPO Find X10配置大汇总，分别猜猜价格吧： X10——6.59英寸…",
-      "source": "数码闲聊站",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-23",
-      "time": "00:31",
-      "publishedAt": "2026-09-23T00:31:55.784Z",
-      "url": "https://weibo.com/6048569942/RjgzT0wXc",
-      "image": "https://tvax3.sinaimg.cn/mw2000/006BlblIgy1ihc89umjjgj33cm6bk1ky.jpg",
-      "summary": "OPPO Find X10配置大汇总，分别猜猜价格吧： X10——6.59英寸1.5K+144Hz LTPO BT.2020直屏，0.99mm四等边；天玑9600M，8000mAh+80W+50W；前置50Mp，后置200Mp HPE F1.6主摄+50Mp JN5超广角+200Mp HP5 2.8X F2.6潜望镜+3Mp多光谱镜头，3D超声波指纹，IP…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "weibo-f51b152abcc3",
-      "title": "数码闲聊站：小米18 Pro/Pro Max——200Mp 1/1.28英寸超大底主摄，2…",
-      "source": "数码闲聊站",
+      "id": "auto-ac479a2388a6",
+      "title": "卢伟冰：小米 18 标准版手机后续单独发布",
+      "source": "IT之家",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
       "type": "爆料",
-      "trust": "高关注爆料源",
+      "trust": "媒体汇总",
       "date": "2026-09-23",
-      "time": "00:31",
-      "publishedAt": "2026-09-23T00:31:55.784Z",
-      "url": "https://weibo.com/6048569942/Rjfpp9SKV",
-      "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ihc68khmubj34cy6bku0x.jpg",
-      "summary": "小米18 Pro/Pro Max——200Mp 1/1.28英寸超大底主摄，200Mp 1/1.56英寸大底潜望长焦 之前泄露过2亿潜望焦段是75mm，等效3.2X光学变焦，从镜头开孔看支持近距离长焦微距。",
+      "time": "07:39",
+      "publishedAt": "2026-09-23T07:39:27.000Z",
+      "url": "https://www.ithome.com/1/006/292.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/a9a87451-5444-422e-a65d-5d45e4a6f24e.jpg",
+      "summary": "IT之家 9 月 23 日消息，今天晚间的小米 18 Pro 系列手机新品发布会前夕，小米官方针对这款新品又开启了新一轮密集预热。有网友在微博询问小米集团合伙人、总裁，手机部总裁，小米品牌总经理 @卢伟冰 有关小米 18 标准版的消息，卢伟冰回复称： 有的，后面会单独发 。 今年 8 月 @数码闲聊站 爆料的消息称，预计为小米的“某厂”神秘新机将会是 Pr…",
       "tags": [
         "Xiaomi",
         "爆料",
-        "微博"
+        "自动抓取"
       ]
     },
     {
-      "id": "weibo-35bff16da826",
-      "title": "数码闲聊站：华为Mate90系列线下开始分货了： Mate90——12+256GB/12+…",
-      "source": "数码闲聊站",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "id": "coolapk-user-56b555ff81f3",
+      "title": "竹本青：一加新款超薄散热器：体积极小，不需要外接电源",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
       "type": "爆料",
-      "trust": "高关注爆料源",
+      "trust": "高可信爆料",
       "date": "2026-09-23",
-      "time": "00:31",
-      "publishedAt": "2026-09-23T00:31:55.784Z",
-      "url": "https://weibo.com/6048569942/RjbkeBpax",
-      "image": "",
-      "summary": "华为Mate90系列线下开始分货了： Mate90——12+256GB/12+512GB/12+1TB，黑/白/粉/绿 Mate90 Pro——12+256GB/12+512GB/16+512GB/16+1TB，黑/白/橙/绿 Mate90 Pro Max——16+512GB/16+1TB，黑/白/金/绿/摄影套装 Mate90 RS——16+512GB/…",
+      "time": "07:01",
+      "publishedAt": "2026-09-23T07:01:58.000Z",
+      "url": "https://www.coolapk.com/feed/73930967",
+      "image": "http://image.coolapk.com/feed/2026/0923/15/4248714_809c9dd7_6916_2178_245@2000x3000.jpg",
+      "summary": "【李杰官宣一加新款超薄散热器：体积极小，不需要外接电源】 ● 不需要外接电源，插上手机就能用 ● 体积极小，可随身便携 ● 性能“够用”，支持ColorOS X 模式 #今日热点# #ColorOS17# #一加16#",
       "tags": [
-        "Huawei",
+        "OPPO",
         "爆料",
-        "微博"
+        "酷安博主"
       ]
     },
     {
-      "id": "auto-3d6b832b8ed9",
-      "title": "荣耀 Magic9 Pro Max 手机官宣搭载高通第六代骁龙 8 超级至尊版处理器",
+      "id": "auto-30add27db4ae",
+      "title": "Xiaomi 18 Pro series will be the first to bring both Snapdragon 8 Elite Gen 6 and 8 Elite Extreme Gen 6 to market",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-23",
+      "time": "07:00",
+      "publishedAt": "2026-09-23T07:00:36.000Z",
+      "url": "https://www.gizmochina.com/2026/09/23/xiaomi-18-pro-series-will-be-the-first-to-bring-both-snapdragon-8-elite-gen-6-and-8-elite-extreme-gen-6-to-market/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/002p2Zyzly1ih9uh718alj61401hckhu02-300x169.jpg?x96852",
+      "summary": "At the 2026 Snapdragon Summit, Zeng Xuezhong, Senior Vice President of Xiaomi Group and President of the International Department, announced that Xiaomi will be the world’s first…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f70f70d768ae",
+      "title": "小米 18 Pro 系列手机官宣全系搭载超宽频赛博马达：覆盖 26 大类、183 个场景",
       "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-23",
+      "time": "06:58",
+      "publishedAt": "2026-09-23T06:58:53.000Z",
+      "url": "https://www.ithome.com/1/006/267.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/48fdc852-706f-411d-b4e3-d53c2563fd45.jpg",
+      "summary": "IT之家 9 月 23 日消息，小米官方今日宣布，小米 18 Pro 系列手机将全系搭载超宽频赛博马达： Pro 搭载 7514 线性马达 ，瞬态振动量提升 75%； Pro Max 搭载 0916C 线性马达 ，瞬态振动量提升 112%。 小米官方表示，全新超宽频赛博马达 将覆盖 26 大类、183 个场景 ，支持精细化振效调校，可带来层次丰富的沉浸式振…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-344eb2112dbc",
+      "title": "高通承诺 Elite 级芯片提供 8 年内核更新，旗舰手机有望普及 7 年安卓升级",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-23",
+      "time": "06:49",
+      "publishedAt": "2026-09-23T06:49:41.000Z",
+      "url": "https://www.ithome.com/1/006/253.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/db241f8c-10e4-4835-814d-8425e6b8ad1b.jpg",
+      "summary": "IT之家 9 月 23 日消息，科技媒体 Android Headline 今天（9 月 23 日）发布博文，报道称在 2026 骁龙峰会上， 高通宣布将为其旗舰级芯片（主要为至尊版 Elite 系列）提供 8 年内核更新支持。 IT之家注：内核是操作系统中负责硬件驱动与底层资源调度的核心程序。芯片厂商向手机厂商提供内核更新，是后者能否推送新版安卓系统及安…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5b3ab1edf033",
+      "title": "小米 18 Pro 系列手机“one more thing”官宣，透明探索版有望回归",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-23",
+      "time": "06:36",
+      "publishedAt": "2026-09-23T06:36:08.000Z",
+      "url": "https://www.ithome.com/1/006/243.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/a9b5d6c6-aab4-4308-b137-886d6bd51c9d.png",
+      "summary": "IT之家 9 月 23 日消息，小米刚刚官宣了小米 18 Pro 系列手机的“ one more thing ”，官方微博配文称上次相见还是 6 年前。 今晚，还有点特别的 上一次相见，还是 6 年前 今晚 7 点见 IT之家注意到，小米官方微博的配图，展示了小米 18 Pro 的透明机身。值得一提的是，小米此前最后一款采用透明机身设计的手机 —— 小米…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-99e2fcd91f0b",
+      "title": "Red Magic 12 Pro+ confirmed to use higher-end Snapdragon 8 Elite Extreme Gen 6 chip",
+      "source": "Gizmochina",
       "brand": "HONOR",
       "model": "HONOR 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-09-23",
-      "time": "00:18",
-      "publishedAt": "2026-09-23T00:18:37.000Z",
-      "url": "https://www.ithome.com/1/006/037.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/24a84aac-33e4-4a13-b686-af1082c26667.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 23 日消息，在夏威夷时间 9 月 22 日 9 点（北京时间 9 月 23 日 3 点）召开的 2026 骁龙峰会上， 高通公司宣布推出第六代骁龙 8 超级至尊版移动平台 。 荣耀手机今日宣布， 全新荣耀 Magic9 系列手机载第六代骁龙 8 超级至尊版 。新机将于 9 月 28 日 14:30 发布并开售。 IT之家注意到，海报右下…",
+      "time": "05:36",
+      "publishedAt": "2026-09-23T05:36:22.000Z",
+      "url": "https://www.gizmochina.com/2026/09/23/red-magic-12-pro-confirmed-to-use-higher-end-snapdragon-8-elite-extreme-gen-6-chip/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/007kVUJhgy1ihc7lx5c6aj30u014013r-1-1-300x169.jpg?x96852",
+      "summary": "Red Magic is positioning its next gaming flagship as a big step up in both performance and how it feels in the hand. The Red Magic 12 Pro+ will come with Qualcomm’s latest high-en…",
       "tags": [
         "HONOR",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d2bed2f5a5a8",
+      "title": "Vivo X500 series is going global next month; here’s the launch date",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-23",
+      "time": "05:31",
+      "publishedAt": "2026-09-23T05:31:18.000Z",
+      "url": "https://www.gizmochina.com/2026/09/23/vivo-x500-series-is-going-global-next-month-heres-the-launch-date/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Vivo-X500-Pro-Max-launch-specs-price-300x200.jpg?x96852",
+      "summary": "Vivo‘s X500 series had barely launched in China before the company confirmed its plans for Europe. The brand launched the X500, X500 Pro, and X500 Pro Max with the 2nm Dimensity 9…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b405f9ca4d87",
+      "title": "苹果 iPhone 18 Pro Max 体验：有颜有料，这杯“勃艮第”还有后劲",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-23",
+      "time": "05:04",
+      "publishedAt": "2026-09-23T05:04:26.000Z",
+      "url": "https://www.ithome.com/1/006/209.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/14ac6a72-d59a-4e62-9597-5e2b782b005a.jpg",
+      "summary": "每年 9 月份都是科技圈最热闹的时候，而这其中最受关注的保留节目，自然就是苹果新 iPhone 的发布了。 而今年的苹果又有些特殊，新的 CEO，新的折叠屏 iPhone Duo，“消失的标准版”iPhone，似乎只有 iPhone 18 Pro 系列延续着“我自岿然不动”的气质，特别是发售之后万人抢购的场景，仿佛是 18 Pro 在大声宣告：“管你折叠不…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ef6b322ec1be",
+      "title": "Vivo X500 Pro Max vs Oppo Find X10 Pro Max: Which Flagship is Better?",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-23",
+      "time": "04:46",
+      "publishedAt": "2026-09-23T04:46:29.000Z",
+      "url": "https://www.gizmochina.com/2026/09/23/vivo-x500-pro-max-vs-oppo-find-x10-pro-max-which-flagship-is-better/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Vivo-X500-Pro-Max-vs-Oppo-Find-X10-Pro-Max-300x150.jpg?x96852",
+      "summary": "Oppo and Vivo unveiled their latest flagship phones just one day apart this week. Vivo introduced the X500 Pro Max on September 21, followed by Oppo’s Find X10 Pro Max a day later…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-16b83fd0a2a5",
+      "title": "竹本青：小米18 Pro Max预热：处理器Offset PoP高导热封装",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-23",
+      "time": "03:02",
+      "publishedAt": "2026-09-23T03:02:15.000Z",
+      "url": "https://www.coolapk.com/feed/73926004",
+      "image": "http://image.coolapk.com/feed/2026/0923/11/4248714_be15aabf_2534_2983_961@1440x1920.jpg",
+      "summary": "【小米18 Pro Max 性能预热：处理器Offset PoP高导热封装】 ● 首发第六代骁龙8超级至尊版 ● Offset PoP高导热封装 ● SoC顶部加盖导热片 ● 号称两倍持续极限性能时间 #今日热点# #小米18ProMax# #HyperOS4#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-0dd77cf7bab5",
+      "title": "OnePlus 16 breaks AnTuTu records with 5.38M score, reveals Snapdragon 8 Elite Extreme Gen 6’s brute power",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-23",
+      "time": "02:33",
+      "publishedAt": "2026-09-23T02:33:37.000Z",
+      "url": "https://www.gizmochina.com/2026/09/23/oneplus-16-antutu-score-snapdragon-8-elite-extreme-gen-6/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/OnePlus-16-featured-300x186.png?x96852",
+      "summary": "OnePlus has recently confirmed the design and memory variants of the OnePlus 16, which is expected to break cover next month in China. A Geekbench listing has already revealed tha…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-a88aad274653",
+      "title": "竹本青：【荣耀MagicPad4 开启预售：骁龙8s Gen4处理器，售价3299元起】 8GB+256GB —— 329…",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-23",
+      "time": "02:24",
+      "publishedAt": "2026-09-23T02:24:08.000Z",
+      "url": "https://www.coolapk.com/feed/73925271",
+      "image": "http://image.coolapk.com/feed/2026/0923/10/4248714_108205c6_0364_5985_228@2000x3556.jpg",
+      "summary": "【荣耀MagicPad4 开启预售：骁龙8s Gen4处理器，售价3299元起】 8GB+256GB —— 3299元 12GB+256GB —— 3699元 ● 骁龙8s Gen4处理器 ● 12.1\"165Hz 3K LCD屏 ● 10100mAh电池+66W快充 ● 金属机身｜六扬声器 ● 前置8Mp／后置13Mp #今日热点# #荣耀MagicPa…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-297058fc1a16",
+      "title": "竹本青：消息称红魔12系列只有Pro+：取消标准版，10月中旬上市",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-23",
+      "time": "02:07",
+      "publishedAt": "2026-09-23T02:07:55.000Z",
+      "url": "https://www.coolapk.com/feed/73924967",
+      "image": "http://image.coolapk.com/feed/2026/0923/10/4248714_f2ae203e_9274_0757_180@1439x734.jpg",
+      "summary": "【消息称红魔 12系列 只有Pro+：取消标准版，预计10月中旬上市】 9月23日，数码闲聊站爆料红魔 12系列 相关信息。该产品线将取消标准版，仅推出红魔12 Pro+一款机型，预计10月中旬前后上市。 硬件方面，红魔12 Pro+搭载第六代骁龙8超级至尊版；配备8400mAh+120W有线+80W无线续航组合；屏幕首发新一代屏下摄像头方案，0.96mm…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-5213f3c1a659",
+      "title": "JSCHEN小小狐：荣耀 MagicPad 4 12.1 开启预售：3299 元起",
+      "source": "JSCHEN小小狐",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-23",
+      "time": "00:53",
+      "publishedAt": "2026-09-23T00:53:20.000Z",
+      "url": "https://www.coolapk.com/feed/73923790",
+      "image": "http://image.coolapk.com/feed/2026/0923/09/4702274_06198175_5477_3358_735@800x800.jpg",
+      "summary": "『荣耀 MagicPad 4 12.1 开启预售：3299 元起』 8GB + 256GB —— 3299 元（原价 4199） 12GB + 256GB —— 3699 元（原价 4699） ◇ 外观 元气橙、星空灰 全金属一体化机身 厚 6.29mm，约 537 克 ◇ 性能 骁龙 8s Gen4 移动平台 LPDDR5X 内存 UFS 3.1 闪存…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
       ]
     },
     {
@@ -342,6 +582,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-ec4b8a03c542",
+      "title": "8ee6拉了，也就玄戒O3水平，看来2nm也不过如此 #玄戒O3# #iPhone18ProMax#",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-23",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73922650",
+      "image": "",
+      "summary": "8ee6拉了，也就玄戒O3水平，看来2nm也不过如此 #玄戒O3# #iPhone18ProMax#",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-0f44f2de3ee1",
       "title": "iPhone18出现巨大屏幕问题！！",
       "source": "酷安热榜",
@@ -355,6 +615,26 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/73909103",
       "image": "",
       "summary": "iPhone18出现巨大屏幕问题！！",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-7d215b3a1aef",
+      "title": "苹果硬件高管：不建议给iPhone贴膜",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-23",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73924748",
+      "image": "",
+      "summary": "苹果硬件高管：不建议给iPhone贴膜",
       "tags": [
         "iPhone",
         "爆料",
@@ -382,88 +662,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-9a5e5cb4b276",
-      "title": "手里存了8000多元，纠结要不要冲iPhone18 Pro Max",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-23",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73895419",
-      "image": "",
-      "summary": "手里存了8000多元，纠结要不要冲iPhone18 Pro Max",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-da2c88cb2856",
-      "title": "纯理性讨论:其实我觉得防窥屏还是挺有市场的，我们单位很多女同事都iPhone+防窥膜[皱眉]，甚至很多上级也是贴的防窥膜，问过人家，人家完全不在意那点亮度和清晰度的折损。还有可视角度的问题，个人觉得只要正面清晰度不影响，上硬件防窥其实挺好的，之前就觉得厂家为啥一直偏执于可视角度，毕竟从我自己的日用角度出发，斜着看手机的场景在我个人的使用情况下非常少，反而电视和显示器的可视角度确实需要广才爽。防杠 杠就是你对。",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-23",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73896950",
-      "image": "",
-      "summary": "纯理性讨论:其实我觉得防窥屏还是挺有市场的，我们单位很多女同事都iPhone+防窥膜[皱眉]，甚至很多上级也是贴的防窥膜，问过人家，人家完全不在意那点亮度和清晰度的折损。还有可视角度的问题，个人觉得只要正面清晰度不影响，上硬件防窥其实挺好的，之前就觉得厂家为啥一直偏执于可视角度，毕竟从我自己的日用角度出发，斜着看手机的场景在我个人的使用情况下非常少，反而电…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-632c35d299fa",
-      "title": "#vivoX500# #小米18# #小米18Pro#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-23",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73897336",
-      "image": "",
-      "summary": "#vivoX500# #小米18# #小米18Pro#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-4de09f47ae83",
-      "title": "小米18 Pro系列全系同配2亿潜望长焦",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-23",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73903840",
-      "image": "",
-      "summary": "小米18 Pro系列全系同配2亿潜望长焦",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-ce3463c1057e",
-      "title": "苹果不建议给iPhone贴膜",
+      "id": "newsnow-f5e69e7431a1",
+      "title": "苹果CEO谈要不要每年换iPhone",
       "source": "微博热搜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -472,9 +672,9 @@ window.phoneRadarAuto = {
       "date": "2026-09-23",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E4%B8%8D%E5%BB%BA%E8%AE%AE%E7%BB%99iPhone%E8%B4%B4%E8%86%9C%23&t=31&band_rank=21&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9CCEO%E8%B0%88%E8%A6%81%E4%B8%8D%E8%A6%81%E6%AF%8F%E5%B9%B4%E6%8D%A2iPhone%23&t=31&band_rank=13&Refer=top",
       "image": "",
-      "summary": "苹果不建议给iPhone贴膜",
+      "summary": "苹果CEO谈要不要每年换iPhone",
       "tags": [
         "iPhone",
         "爆料",
@@ -502,26 +702,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-a411a0b07c94",
-      "title": "iPhone17 正常使用，能用几年？",
-      "source": "知乎热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "市场报告",
-      "trust": "媒体汇总",
-      "date": "2026-09-23",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.zhihu.com/question/1969638438677517109",
-      "image": "",
-      "summary": "iPhone17 正常使用，能用几年？",
-      "tags": [
-        "iPhone",
-        "市场报告",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-d4c2af8fdf15",
       "title": "第一批iPhone 18 Pro受害者出现",
       "source": "今日头条热榜",
@@ -542,6 +722,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-cd878b18c680",
+      "title": "男子边走边看手机遭叉车碾压",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-23",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%BE%B9%E8%B5%B0%E8%BE%B9%E7%9C%8B%E6%89%8B%E6%9C%BA%E9%81%AD%E5%8F%89%E8%BD%A6%E7%A2%BE%E5%8E%8B",
+      "image": "",
+      "summary": "男子边走边看手机遭叉车碾压",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "auto-d9b093caecc7",
       "title": "Apple Pay just got even better with four new features and more",
       "source": "9to5Mac",
@@ -557,146 +757,6 @@ window.phoneRadarAuto = {
       "summary": "Apple Pay is a go-to feature for iPhone users when shopping in stores, online, and in apps. Apple recently announced four new features that make Apple Pay even better. Here’s how…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-ada04c3e411e",
-      "title": "竹本青：别逗你A20 Pro叔叔笑了[受虐滑稽] #数码日常# #iPhone18ProMax#",
-      "source": "竹本青",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-22",
-      "time": "23:06",
-      "publishedAt": "2026-09-22T23:06:07.000Z",
-      "url": "https://www.coolapk.com/feed/73922785",
-      "image": "",
-      "summary": "别逗你A20 Pro叔叔笑了[受虐滑稽] #数码日常# #iPhone18ProMax#",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-e90f0397d8fb",
-      "title": "全球最快移动 CPU：高通官宣小米、vivo、红魔、REDMI 等率先适配第六代骁龙 8 超级至尊版",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-22",
-      "time": "21:43",
-      "publishedAt": "2026-09-22T21:43:35.000Z",
-      "url": "https://www.ithome.com/1/006/014.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/5c354003-4192-40ce-b6c9-484ee1c84842.png",
-      "summary": "IT之家 9 月 23 日消息，夏威夷时间 9 月 22 日 9 点（北京时间 9 月 23 日 3 点）召开的 2026 骁龙峰会上， 高通宣布小米、vivo、红魔、REDMI、OPPO 等（按官方新闻稿排序）手机品牌将率先适配第六代骁龙 8 超级至尊版 / 至尊版芯片。 高通官方表示小米、vivo、红魔、REDMI、OPPO、一加、Motorola、i…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-6af3c2593a46",
-      "title": "竹本青：【极客湾前瞻测试 骁龙8 Elite Extreme Gen6：CPU小迭代，GPU大提升】 9月23日，博主「极…",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-22",
-      "time": "21:42",
-      "publishedAt": "2026-09-22T21:42:53.000Z",
-      "url": "https://www.coolapk.com/feed/73922507",
-      "image": "http://image.coolapk.com/feed/2026/0923/05/4248714_d6410db4_3371_1933_235@2216x3741.jpg",
-      "summary": "【极客湾前瞻测试 骁龙8 Elite Extreme Gen6：CPU小迭代，GPU大提升】 9月23日，博主「极客湾Geekerwan」发布最新视频，基于工程机，前瞻测试高通新一代2nm旗舰移动芯片——骁龙8 Elite Extreme Gen6（第六代骁龙8超级至尊版）。以下为具体实测数据： ● 芯片散热： 全新Offset PoP封装，宣称持续极限性…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-472ced444e70",
-      "title": "高通第六代骁龙 8 超级至尊版升级封装方案：峰值性能输出更持久",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-22",
-      "time": "21:03",
-      "publishedAt": "2026-09-22T21:03:35.000Z",
-      "url": "https://www.ithome.com/1/006/011.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/8a886c14-73fa-4b6c-aef0-ffd14574a069.jpg",
-      "summary": "IT之家 9 月 23 日消息，夏威夷时间 9 月 22 日 9 点（北京时间 9 月 23 日 3 点）召开的 2026 骁龙峰会上，高通公司宣布在其第六代骁龙 8 超级至尊版芯片上， 采用了全新的 Offset Package-on-Package（偏移式堆叠封装）方案。 IT之家查询公开资料，主流手机芯片采用 Package-on-Package (…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1790fc00b0f1",
-      "title": "小米曾学忠在 2026 高通骁龙峰会首秀小米 18 Pro 真机",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-22",
-      "time": "20:32",
-      "publishedAt": "2026-09-22T20:32:59.000Z",
-      "url": "https://www.ithome.com/1/006/006.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/dd00f979-32fa-4818-b202-5680e45cf8bd.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 23 日消息，在今日的 2026 高通骁龙峰会上，小米集团高级副总裁、国际部总裁曾学忠宣布，小米将全球首发第六代骁龙 8 超级至尊版和第六代骁龙 8 至尊版处理器，首发机型为小米 18 Pro 系列。 IT之家在峰会现场获悉， 曾学忠直接掏出了小米 18 Pro 系列真机 ，面向全球观众展示了即将发布的新机。 小米 18 Pro 系列已定…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2cb163ce46b9",
-      "title": "小米 18 Pro 系列手机官宣全球首发高通第六代骁龙 8 超级至尊版和第六代骁龙 8 至尊版处理器",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-22",
-      "time": "20:26",
-      "publishedAt": "2026-09-22T20:26:40.000Z",
-      "url": "https://www.ithome.com/1/006/005.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/3ecf8ec6-b5f9-4f30-b33a-ec18879da86e.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 23 日消息，在今日的 2026 骁龙峰会上，小米集团高级副总裁、国际部总裁曾学忠宣布，小米将全球首发第六代骁龙 8 超级至尊版和第六代骁龙 8 至尊版处理器， 首发机型为小米 18 Pro 系列 。 小米集团合伙人、总裁、手机部总裁、小米品牌总经理卢伟冰表示：“小米始终致力于在旗舰产品组合中为消费者带来突破性的创新，高通技术公司全新多旗…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2ef14b4e93a9",
-      "title": "全球最快移动 CPU：高通发布第六代骁龙 8 超级至尊版芯片，CPU 行业首超 5GHz、GPU 性能提升 44%",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-22",
-      "time": "20:14",
-      "publishedAt": "2026-09-22T20:14:43.000Z",
-      "url": "https://www.ithome.com/1/006/004.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/9bdfabe0-5236-4657-a720-1b5dc4439b8a.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 23 日消息，夏威夷时间 9 月 22 日 9 点（北京时间 9 月 23 日 3 点）召开的 2026 骁龙峰会上，高通公司宣布推出第六代骁龙 8 超级至尊版移动平台和第六代骁龙 8 至尊版移动平台， 官方表示这是“全球最快移动 CPU”。 高通称两款产品面向“智能体人工智能”时代的移动终端需求，主要应用于下一代旗舰智能手机。 IT之家…",
-      "tags": [
-        "行业",
         "爆料",
         "自动抓取"
       ]
@@ -982,26 +1042,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-237689938a67",
-      "title": "竹本青：【OPPO Find X10系列 售价公布：5499元起】 ● Find X10 标准版 12GB+256GB —…",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-22",
-      "time": "12:37",
-      "publishedAt": "2026-09-22T12:37:58.000Z",
-      "url": "https://www.coolapk.com/feed/73915636",
-      "image": "http://image.coolapk.com/feed/2026/0922/20/4248714_d4f9f13e_1595_0401_756@2736x3030.jpg",
-      "summary": "【OPPO Find X10系列 售价公布：5499元起】 ● Find X10 标准版 12GB+256GB —— 5499元 12GB+512GB —— 5999元 16GB+512GB —— 6499元 16GB+1TB —— 7499元 6.59\"1.5K 144Hz LTPO直屏 天玑9600M处理器 8000mAh+80W有线+50W无线 2亿…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "coolapk-user-f26663a862a9",
       "title": "JSCHEN小小狐：『OPPO Find X10 E 发布：售价 4999 元起』 12GB + 256GB —— 4999 元 16…",
       "source": "JSCHEN小小狐",
@@ -1195,46 +1235,6 @@ window.phoneRadarAuto = {
       "url": "https://www.gizmochina.com/2026/09/22/more-xiaomi-devices-get-global-hyperos-4-beta-update/",
       "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/Xiaomi-HyperOS-4-beta-update-rollout-300x200.png?x96852",
       "summary": "Xiaomi is rolling out the global HyperOS 4 beta update to the second batch of devices. It includes several high-end smartphones from the Xiaomi 17T and Xiaomi 15 series. Unfortuna…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-16ab9973d29c",
-      "title": "OnePlus 16 officially confirmed to feature 1.15mm ultra-thin bezels, new design details emerge",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-22",
-      "time": "03:50",
-      "publishedAt": "2026-09-22T03:50:47.000Z",
-      "url": "https://www.gizmochina.com/2026/09/22/oneplus-16-design-details-confirmed/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/OnePlus-16-rear-design-300x169.jpg?x96852",
-      "summary": "OnePlus has started revealing details about the OnePlus 16 ahead of its expected launch in October in China. Recently, the brand shared official images, color options, and memory…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-331fd1214c7a",
-      "title": "Xiaomi 18 Pro series confirmed with dual 200MP main and telephoto sensors",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-22",
-      "time": "03:25",
-      "publishedAt": "2026-09-22T03:25:31.000Z",
-      "url": "https://www.gizmochina.com/2026/09/22/xiaomi-18-pro-series-dual-200mp-leica-cameras/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Xiaomi-18-Pro-series-cameras-teaser--300x202.jpg?x96852",
-      "summary": "Xiaomi is gearing up to unveil the Xiaomi 18 Pro and 18 Pro Max, its next-generation flagship smartphones, tomorrow. The company has already confirmed several key details ahead of…",
       "tags": [
         "Xiaomi",
         "爆料",
