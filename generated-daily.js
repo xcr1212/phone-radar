@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-23T13:37:50.835Z",
+  "updatedAt": "2026-09-23T18:23:33.298Z",
   "issueDate": "2026-09-23",
   "issue": "VOL.260923",
   "title": "手机情报日报",
-  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、2 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 14,
-    "iphone": 9,
+    "total": 11,
+    "iphone": 8,
     "leaks": 8,
-    "official": 2,
+    "official": 1,
     "specs": 0
   },
   "sections": [
@@ -64,6 +64,78 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-14a0ac9e8802",
+          "title": "【IT之家开箱】小米 18 Pro Max 透明特别版图赏：红色透明机身，解锁旗舰内部美学",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-23",
+          "time": "14:19",
+          "publishedAt": "2026-09-23T14:19:51.000Z",
+          "url": "https://www.ithome.com/1/006/481.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/58190969-0274-4388-b564-8b893ac3017f.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 9 月 23 日消息，在刚刚举行的小米秋季新品发布会上， 小米正式发布了全新一代小米 18 Pro Max 手机 ，售价 6999 元起。 IT之家目前拿到了此次发布的小米 18 Pro Max 透明特别版配色，其中 16GB + 1TB 售价 10999 元。 此次IT之家拿到的红色透明版本采用时尚红色设计，通过微米级膜片打造立体浮雕质感，将原…",
+          "detail": "IT之家 9 月 23 日消息，在刚刚举行的小米秋季新品发布会上， 小米正式发布了全新一代小米 18 Pro Max 手机 ，售价 6999 元起。 IT之家目前拿到了此次发布的小米 18 Pro Max 透明特别版配色，其中 16GB + 1TB 售价 10999 元。 此次IT之家拿到的红色透明版本采用时尚红色设计，通过微米级膜片打造立体浮雕质感，将原…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-ec39a8210d61",
+          "title": "iPhone 18 Pro 系统功能 / AI 体验相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-23",
+          "time": "16:06",
+          "publishedAt": "2026-09-23T16:06:28.000Z",
+          "url": "https://www.macrumors.com/guide/iphone-air-vs-18-pro/",
+          "image": "https://images.macrumors.com/article-new/2026/09/iphone-18-pro-vs-iphone-air.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "iPhone 18 Pro 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "屏幕形态",
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-95c5d81ca0b2",
+          "title": "iPhone 外观设计线索曝光",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-23",
+          "time": "14:21",
+          "publishedAt": "2026-09-23T14:21:35.000Z",
+          "url": "https://9to5mac.com/2026/09/23/next-years-iphone-pro-models-have-near-borderless-design-report/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-19-pro-20-anniversary-max.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "iPhone 外观设计线索曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
+          "detail": "iPhone 外观设计线索曝光。这类内容主要看外观设计、按键布局、相机模组和尺寸变化，后续最好等更多渲染图或保护壳线索互相验证。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-d37205f0636c",
           "title": "iPhone 相关消息",
           "originalTitle": "",
@@ -110,29 +182,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-9b7ea5251442",
-          "title": "iPhone 影像能力相关消息",
-          "originalTitle": "",
-          "source": "The Verge",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-22",
-          "time": "19:48",
-          "publishedAt": "2026-09-22T19:48:08.000Z",
-          "url": "https://www.theverge.com/tech/998874/apple-iphone-18-pro-ios-27-camera-texture-grain-photographic-style",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/iphone18pro.jpg?quality=90&strip=all&crop=0,0,100,100",
-          "verdict": "先看",
-          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
-          "detail": "iPhone 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "auto-6346566eb9b2",
           "title": "小米 18 Pro 手机发布：首发第六代骁龙 8 至尊版、一体式纯平背屏，5999 元起",
           "originalTitle": "",
@@ -151,52 +200,6 @@ window.phoneRadarDaily = {
           "keyPoints": [
             "屏幕形态",
             "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-1eb15715c935",
-          "title": "小米 18 Pro Max 手机发布：首发第六代骁龙 8 超级至尊版、8500mAh 金沙江电池，6999 元起",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-23",
-          "time": "11:58",
-          "publishedAt": "2026-09-23T11:58:24.000Z",
-          "url": "https://www.ithome.com/1/006/425.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/ec5338ef-d1a8-4e3d-b15f-264c96d0afe6.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 9 月 23 日消息，在今晚的小米秋季新品发布会上，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰正式发布了全新一代小米 18 Pro Max 手机， 定价 6999 元起，发布即开售 。 12GB+256GB：定价 6999 元； 12GB+512GB：定价 7999 元； 16GB+512GB：定价 8999 元； 16GB+1T…",
-          "detail": "IT之家 9 月 23 日消息，在今晚的小米秋季新品发布会上，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰正式发布了全新一代小米 18 Pro Max 手机， 定价 6999 元起，发布即开售 。 12GB+256GB：定价 6999 元； 12GB+512GB：定价 7999 元； 16GB+512GB：定价 8999 元； 16GB+1T…",
-          "keyPoints": [
-            "电池 / 充电"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-32221e07b67a",
-          "title": "卢伟冰：小米 18 Fold 中折叠手机首销零售量同比上代大折叠增长 300%",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-23",
-          "time": "11:07",
-          "publishedAt": "2026-09-23T11:07:15.000Z",
-          "url": "https://www.ithome.com/1/006/413.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/c6ed9736-ca64-40a8-92e3-d0305902f622.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 9 月 23 日消息，在今晚的小米秋季新品发布会上，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰宣布， 小米 18 Fold 中折叠手机首销零售量同比上代大折叠增长 300% 。 据IT之家此前报道， 小米 18 Fold 中折叠手机发布于 9 月 7 日 ，首发玄戒 O3 芯片，配备 5.38″ 外屏 +7.58″ 内屏，并后置徕…",
-          "detail": "IT之家 9 月 23 日消息，在今晚的小米秋季新品发布会上，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰宣布， 小米 18 Fold 中折叠手机首销零售量同比上代大折叠增长 300% 。 据IT之家此前报道， 小米 18 Fold 中折叠手机发布于 9 月 7 日 ，首发玄戒 O3 芯片，配备 5.38″ 外屏 +7.58″ 内屏，并后置徕…",
-          "keyPoints": [
-            "芯片 / 性能"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -249,82 +252,6 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "8ee6拉了，也就玄戒O3水平，看来2nm也不过如此 #玄戒O3# #iPhone18ProMax#",
           "detail": "8ee6拉了，也就玄戒O3水平，看来2nm也不过如此 #玄戒O3# #iPhone18ProMax#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-7d215b3a1aef",
-          "title": "苹果硬件高管：不建议给iPhone贴膜",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-09-23",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73924748",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "苹果硬件高管：不建议给iPhone贴膜",
-          "detail": "苹果硬件高管：不建议给iPhone贴膜",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-728bbee10ddb",
-          "title": "iPhone 发布 / 上市相关消息",
-          "originalTitle": "",
-          "source": "Apple Newsroom",
-          "brand": "iPhone",
-          "type": "官方",
-          "trust": "官方确认",
-          "date": "2026-09-23",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone 有发布或新功能消息，适合确认是否和新机有关。",
-          "detail": "iPhone 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "官方"
-          ],
-          "confidence": "官方内容，可直接作为已确认信息记录。",
-          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "launch",
-      "title": "新机与官方发布",
-      "hint": "能直接更新到参数库。",
-      "items": [
-        {
-          "id": "newsnow-2709bc5c27c4",
-          "title": "OPPO Find X10 系列发布：5499元起",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-09-23",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73915584",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "OPPO Find X10 系列发布：5499元起",
-          "detail": "OPPO Find X10 系列发布：5499元起",
           "keyPoints": [
             "爆料"
           ],
