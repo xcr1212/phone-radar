@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-23T18:23:33.298Z",
+  "updatedAt": "2026-09-23T22:56:37.383Z",
   "issueDate": "2026-09-23",
   "issue": "VOL.260923",
   "title": "手机情报日报",
-  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、2 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 11,
+    "total": 12,
     "iphone": 8,
     "leaks": 8,
-    "official": 1,
+    "official": 2,
     "specs": 0
   },
   "sections": [
@@ -35,29 +35,6 @@ window.phoneRadarDaily = {
           "detail": "给真正由相机拍下来的照片，留下「真」的证明",
           "keyPoints": [
             "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-0f44f2de3ee1",
-          "title": "iPhone18出现巨大屏幕问题！！",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-09-23",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73909103",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone18出现巨大屏幕问题！！",
-          "detail": "iPhone18出现巨大屏幕问题！！",
-          "keyPoints": [
-            "屏幕形态"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -182,6 +159,29 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-ddd679b1cfab",
+          "title": "PBKreviews 拆解三星 Galaxy S26 FE 手机：镜头盖和电池更易维护",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-23",
+          "time": "22:54",
+          "publishedAt": "2026-09-23T22:54:33.000Z",
+          "url": "https://www.ithome.com/1/006/518.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/65983f29-23a4-47e0-b103-1b3d5d741cbd.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 9 月 24 日消息，YouTube 频道 PBKreviews 于 9 月 22 日发布视频， 分享了拆解 三星 Galaxy S26 FE 手机过程，并给出 9/10 的可维修性评分。 拆解显示，Galaxy S26 FE 的摄像头镜头盖可独立替换，维修人员无需像以前那样拆开整部手机，就能更换受损镜头盖。该设计将镜头盖列为可从外部维修流程中处…",
+          "detail": "IT之家 9 月 24 日消息，YouTube 频道 PBKreviews 于 9 月 22 日发布视频， 分享了拆解 三星 Galaxy S26 FE 手机过程，并给出 9/10 的可维修性评分。 拆解显示，Galaxy S26 FE 的摄像头镜头盖可独立替换，维修人员无需像以前那样拆开整部手机，就能更换受损镜头盖。该设计将镜头盖列为可从外部维修流程中处…",
+          "keyPoints": [
+            "电池 / 充电"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-6346566eb9b2",
           "title": "小米 18 Pro 手机发布：首发第六代骁龙 8 至尊版、一体式纯平背屏，5999 元起",
           "originalTitle": "",
@@ -237,23 +237,46 @@ window.phoneRadarDaily = {
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         },
         {
-          "id": "newsnow-ec4b8a03c542",
-          "title": "8ee6拉了，也就玄戒O3水平，看来2nm也不过如此 #玄戒O3# #iPhone18ProMax#",
+          "id": "auto-728bbee10ddb",
+          "title": "iPhone 发布 / 上市相关消息",
           "originalTitle": "",
-          "source": "酷安热榜",
+          "source": "Apple Newsroom",
           "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
+          "type": "官方",
+          "trust": "官方确认",
           "date": "2026-09-23",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73922650",
+          "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
           "image": "",
           "verdict": "先看",
-          "takeaway": "8ee6拉了，也就玄戒O3水平，看来2nm也不过如此 #玄戒O3# #iPhone18ProMax#",
-          "detail": "8ee6拉了，也就玄戒O3水平，看来2nm也不过如此 #玄戒O3# #iPhone18ProMax#",
+          "takeaway": "iPhone 有发布或新功能消息，适合确认是否和新机有关。",
+          "detail": "iPhone 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "爆料"
+            "官方"
+          ],
+          "confidence": "官方内容，可直接作为已确认信息记录。",
+          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-96302b750eec",
+          "title": "iPhone 18 Pro 外观设计线索曝光",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-22",
+          "time": "13:25",
+          "publishedAt": "2026-09-22T13:25:39.000Z",
+          "url": "https://9to5mac.com/2026/09/22/pitaka-iphone-18-cases/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/pitaka-iphone-18-pro-hero.webp?w=1600",
+          "verdict": "先看",
+          "takeaway": "iPhone 18 Pro 外观设计线索曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
+          "detail": "iPhone 18 Pro 外观设计线索曝光。这类内容主要看外观设计、按键布局、相机模组和尺寸变化，后续最好等更多渲染图或保护壳线索互相验证。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",

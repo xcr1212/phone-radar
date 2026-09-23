@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-23T18:23:33.298Z",
+  "updatedAt": "2026-09-23T22:56:37.383Z",
   "news": [
     {
       "id": "weibo-88090b3b726e",
@@ -10,8 +10,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-23",
-      "time": "18:23",
-      "publishedAt": "2026-09-23T18:23:33.298Z",
+      "time": "22:56",
+      "publishedAt": "2026-09-23T22:56:37.383Z",
       "url": "https://weibo.com/6048569942/Rju598Xi8",
       "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ihdz1y39cmj31900u0wno.jpg",
       "summary": "小米18 Pro系列全系2亿超大底主摄，传感器来自思特威——SCC80XS、SCC90XS，后者支持新一代LOFIC技术，拥有超高动态范围，全系双两亿超高清影像，国产Sensor赋能“传奇一瞬”旗舰影像，小米后面还有很多新机用思特威[流鼻血]",
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-23",
-      "time": "18:23",
-      "publishedAt": "2026-09-23T18:23:33.298Z",
+      "time": "22:56",
+      "publishedAt": "2026-09-23T22:56:37.383Z",
       "url": "https://weibo.com/6048569942/RjrB10Fi8",
       "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ihdj5on2tsj30zc6mdqv6.jpg",
       "summary": "小米18 Pro系列配置大汇总，猜猜价格吧: Pro——RGB OLED小直屏，M11发光材料，BT.2020色域，支持原生硬件防窥，0.99mm四等边，原生背屏；2nm骁龙8E6，7000mAh+100W+50W；200Mp 1/1.28英寸主摄+50Mp 17mm超广角+200Mp 1/1.56英寸3.2X潜望长焦，支持12cm长焦微距；7514 X轴…",
@@ -50,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-23",
-      "time": "18:23",
-      "publishedAt": "2026-09-23T18:23:33.298Z",
+      "time": "22:56",
+      "publishedAt": "2026-09-23T22:56:37.383Z",
       "url": "https://weibo.com/6048569942/RjpzbrOF6",
       "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1ihdftuq14nj31ly11std3.jpg",
       "summary": "手机厂商今年入局做云台相机，这个品类越来越火热了，顺便看了下影石的销售数据： Luna Ultra好像卖得非常好，尤其是对国际市场的开拓，上市当月拿下亚马逊北美云台相机市场23.8%的份额，6-8月持续保持在两成左右。 最近影石还把旗舰店开到了纽约时代广场，进一步拓展线下市场，中国相机在美国市场的存在感越来越强了，这条赛道将越来越热闹[吃瓜]",
@@ -70,8 +70,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-23",
-      "time": "18:23",
-      "publishedAt": "2026-09-23T18:23:33.298Z",
+      "time": "22:56",
+      "publishedAt": "2026-09-23T22:56:37.383Z",
       "url": "https://weibo.com/6048569942/RjoQgC4cy",
       "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ihdbug4i39j312e15sgqt.jpg",
       "summary": "moto这个新机感觉如何？同样是最新骁龙8EE6，50Mp 1/1.28英寸LYT910主摄+200Mp潜望长焦，四摄影像，B&O联名音频，设计很独特[笑而不语]",
@@ -79,6 +79,86 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "微博"
+      ]
+    },
+    {
+      "id": "auto-ddd679b1cfab",
+      "title": "PBKreviews 拆解三星 Galaxy S26 FE 手机：镜头盖和电池更易维护",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-23",
+      "time": "22:54",
+      "publishedAt": "2026-09-23T22:54:33.000Z",
+      "url": "https://www.ithome.com/1/006/518.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/65983f29-23a4-47e0-b103-1b3d5d741cbd.png",
+      "summary": "IT之家 9 月 24 日消息，YouTube 频道 PBKreviews 于 9 月 22 日发布视频， 分享了拆解 三星 Galaxy S26 FE 手机过程，并给出 9/10 的可维修性评分。 拆解显示，Galaxy S26 FE 的摄像头镜头盖可独立替换，维修人员无需像以前那样拆开整部手机，就能更换受损镜头盖。该设计将镜头盖列为可从外部维修流程中处…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-63415fe1024a",
+      "title": "Apple’s iPhone Duo could help fix one of Android’s biggest foldable problems",
+      "source": "Android Authority",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-23",
+      "time": "21:05",
+      "publishedAt": "2026-09-23T21:05:20.000Z",
+      "url": "https://www.androidauthority.com/iphone-duo-android-foldable-app-support-3714733/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Apple-iPhone-Duo-Hands-On-Netflix-on-inner-display.jpg",
+      "summary": "More foldable users could finally give developers a reason to optimize.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9040a9c0536c",
+      "title": "Xiaomi 18 Pro series stuns with privacy screen and wondrous rear displays—debuts 'Special Edition,' too",
+      "source": "Android Central",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-23",
+      "time": "18:53",
+      "publishedAt": "2026-09-23T18:53:47.000Z",
+      "url": "https://www.androidcentral.com/phones/xiaomi/xiaomi-18-pro-series-stuns-with-privacy-screen-launch",
+      "image": "https://cdn.mos.cms.futurecdn.net/YW8T5YF6GSAfV5G6tyUTam-1920-80.jpg",
+      "summary": "Xiaomi 18 Pro series launched overseas, bringing a proactive privacy screen, more powerful rear displays, and Qualcomm's latest tech.",
+      "tags": [
+        "Xiaomi",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a66e041b15a0",
+      "title": "I spent 5 minutes with the Galaxy S26 Ultra; its standout upgrade isn't on the spec sheet",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-23",
+      "time": "18:30",
+      "publishedAt": "2026-09-23T18:30:10.000Z",
+      "url": "https://www.androidpolice.com/spent-5-minutes-with-galaxy-s26-ultra-its-standout-upgrade-isnt-on-spec-sheet/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/03/galaxy-s26-ultra-audio-eraser.jpg",
+      "summary": "The real Galaxy upgrade to me isn't in the camera, Bixby, or performance",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -602,26 +682,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-32221e07b67a",
-      "title": "卢伟冰：小米 18 Fold 中折叠手机首销零售量同比上代大折叠增长 300%",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-23",
-      "time": "11:07",
-      "publishedAt": "2026-09-23T11:07:15.000Z",
-      "url": "https://www.ithome.com/1/006/413.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/c6ed9736-ca64-40a8-92e3-d0305902f622.jpg",
-      "summary": "IT之家 9 月 23 日消息，在今晚的小米秋季新品发布会上，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰宣布， 小米 18 Fold 中折叠手机首销零售量同比上代大折叠增长 300% 。 据IT之家此前报道， 小米 18 Fold 中折叠手机发布于 9 月 7 日 ，首发玄戒 O3 芯片，配备 5.38″ 外屏 +7.58″ 内屏，并后置徕…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-c94c121cfcd9",
       "title": "iPhone Duo hype proves Samsung was right about foldables all along",
       "source": "SamMobile",
@@ -677,26 +737,6 @@ window.phoneRadarAuto = {
       "summary": "No Pixel 11, no problem.",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-fe615ce14469",
-      "title": "The iPhone Duo’s under-display camera is a bad idea — these 5 photos prove why",
-      "source": "Android Authority",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-23",
-      "time": "09:30",
-      "publishedAt": "2026-09-23T09:30:57.000Z",
-      "url": "https://www.androidauthority.com/iphone-duo-under-display-camera-bad-idea-photo-test-3710889/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Apple-iPhone-Duo-Hands-On-Visible-under-display-camera-at-angle.jpg",
-      "summary": "The iPhone Duo has an under-display camera, but our testing shows why this tech isn't a good idea.",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -1062,8 +1102,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-2709bc5c27c4",
-      "title": "OPPO Find X10 系列发布：5499元起",
+      "id": "newsnow-67caedf7e5fc",
+      "title": "#ColorOS17# #一加13# #OPPOFindX8Ultra# 兄弟们，推了，吃上了",
       "source": "酷安热榜",
       "brand": "OPPO",
       "model": "OPPO 相关机型",
@@ -1072,71 +1112,11 @@ window.phoneRadarAuto = {
       "date": "2026-09-23",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73915584",
+      "url": "https://www.coolapk.com/feed/73944708",
       "image": "",
-      "summary": "OPPO Find X10 系列发布：5499元起",
+      "summary": "#ColorOS17# #一加13# #OPPOFindX8Ultra# 兄弟们，推了，吃上了",
       "tags": [
         "OPPO",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-ec4b8a03c542",
-      "title": "8ee6拉了，也就玄戒O3水平，看来2nm也不过如此 #玄戒O3# #iPhone18ProMax#",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-23",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73922650",
-      "image": "",
-      "summary": "8ee6拉了，也就玄戒O3水平，看来2nm也不过如此 #玄戒O3# #iPhone18ProMax#",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-0f44f2de3ee1",
-      "title": "iPhone18出现巨大屏幕问题！！",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-23",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73909103",
-      "image": "",
-      "summary": "iPhone18出现巨大屏幕问题！！",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-cc379ff2f839",
-      "title": "iPhoneDuo难产",
-      "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-09-23",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=iPhoneDuo%E9%9A%BE%E4%BA%A7&t=31&band_rank=27&Refer=top",
-      "image": "",
-      "summary": "iPhoneDuo难产",
-      "tags": [
-        "iPhone",
         "爆料",
         "NewsNow"
       ]
