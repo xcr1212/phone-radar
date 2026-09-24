@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-24T04:48:37.316Z",
+  "updatedAt": "2026-09-24T11:44:15.983Z",
   "issueDate": "2026-09-24",
   "issue": "VOL.260924",
   "title": "手机情报日报",
-  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、2 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 13 条重点，其中 8 条是重点爆料，包含 11 条 iPhone 相关、2 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 12,
-    "iphone": 9,
+    "total": 13,
+    "iphone": 11,
     "leaks": 8,
     "official": 2,
     "specs": 0
@@ -17,6 +17,30 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-df4cc5b97782",
+          "title": "倍思推出 iPhone 18 Pro 配件三件套，新机防护、安全充电一次集齐",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-24",
+          "time": "08:09",
+          "publishedAt": "2026-09-24T08:09:41.000Z",
+          "url": "https://www.ithome.com/1/006/825.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/4aa14166-4689-457e-bf77-fef1154ccaa0.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "苹果最新手机 iPhone 18 Pro / Max 已于 9 月 18 日正式开售，起售价 9999 元，小伙伴们都下单了吗？ 不少人买到新机后，第一时间就会给手机贴膜、戴手机壳。新生活移动数码品牌 Baseus 倍思率先针对 iPhone 18 Pro 系列新机推出全套配件，一次配齐三件：倍思 A1 环立壳、倍思金标膜、倍思小智充，防护、贴膜、充电三件…",
+          "detail": "苹果最新手机 iPhone 18 Pro / Max 已于 9 月 18 日正式开售，起售价 9999 元，小伙伴们都下单了吗？ 不少人买到新机后，第一时间就会给手机贴膜、戴手机壳。新生活移动数码品牌 Baseus 倍思率先针对 iPhone 18 Pro 系列新机推出全套配件，一次配齐三件：倍思 A1 环立壳、倍思金标膜、倍思小智充，防护、贴膜、充电三件…",
+          "keyPoints": [
+            "电池 / 充电",
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-6ed872b0e126",
           "title": "从 iPhone 18 开始，苹果给你的照片打上「看不见」的水印",
@@ -49,8 +73,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-09-24",
-          "time": "04:48",
-          "publishedAt": "2026-09-24T04:48:37.316Z",
+          "time": "11:44",
+          "publishedAt": "2026-09-24T11:44:15.983Z",
           "url": "https://weibo.com/6048569942/RjzrmvPxt",
           "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ihc8nohkp0j30zb0hj42c.jpg",
           "verdict": "先看",
@@ -61,6 +85,29 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-e6c8db866f81",
+          "title": "iPhone 18 Pro 功能更新或覆盖范围扩大",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-24",
+          "time": "06:43",
+          "publishedAt": "2026-09-24T06:43:49.000Z",
+          "url": "https://9to5mac.com/2026/09/23/apple-iphone-18-pro-rebooting-bug-software-update-fix/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/mayo.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "iPhone 18 Pro 功能更新或覆盖范围扩大。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 18 Pro 功能更新或覆盖范围扩大。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -153,53 +200,6 @@ window.phoneRadarDaily = {
           "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-257a60c2d755",
-          "title": "一加 16 手机官宣首次搭载 2 亿像素大底主摄，升级索尼 IMX882 潜望长焦",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-24",
-          "time": "01:45",
-          "publishedAt": "2026-09-24T01:45:24.000Z",
-          "url": "https://www.ithome.com/1/006/563.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/939cbd29-32f7-4ee7-9a23-011f2b3f4027.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 9 月 24 日消息，一加手机今日官宣一加 16 影像全面升级，首次搭载 2 亿像素大底主摄，配备新一代 LUMO 凝光影像系统，还升级索尼 IMX882 潜望长焦。 具体如下： 2 亿超清主摄：1/1.4\" 超大底 | F1.6 超大光圈 5000 万超清潜望长焦：3 倍光学长焦 | 6 倍无损变焦 5000 万超清超广角：116 度超广视角…",
-          "detail": "IT之家 9 月 24 日消息，一加手机今日官宣一加 16 影像全面升级，首次搭载 2 亿像素大底主摄，配备新一代 LUMO 凝光影像系统，还升级索尼 IMX882 潜望长焦。 具体如下： 2 亿超清主摄：1/1.4\" 超大底 | F1.6 超大光圈 5000 万超清潜望长焦：3 倍光学长焦 | 6 倍无损变焦 5000 万超清超广角：116 度超广视角…",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-56febb8c53d6",
-          "title": "vivo X500/Pro Max 今日开售：首发天玑 9600M / 天玑 9600 Pro 处理器，5499 元起",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-24",
-          "time": "01:21",
-          "publishedAt": "2026-09-24T01:21:07.000Z",
-          "url": "https://www.ithome.com/1/006/555.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/e47ec477-e44c-4f02-9de5-20316a24dbc8.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 9 月 24 日消息， vivo X500 /Pro Max 手机今日开售，分别首发天玑 9600M / 天玑 9600 Pro 处理器，售价 5499 元起。 vivo X500 12GB+256GB：5499 元 12GB+512GB：5999 元 12GB+1TB：6999 元 vivo X500 Pro Max 12GB+256GB 版…",
-          "detail": "IT之家 9 月 24 日消息， vivo X500 /Pro Max 手机今日开售，分别首发天玑 9600M / 天玑 9600 Pro 处理器，售价 5499 元起。 vivo X500 12GB+256GB：5499 元 12GB+512GB：5999 元 12GB+1TB：6999 元 vivo X500 Pro Max 12GB+256GB 版…",
-          "keyPoints": [
-            "芯片 / 性能",
-            "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -311,6 +311,36 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "行业趋势",
+      "hint": "看方向，不急着当购买依据。",
+      "items": [
+        {
+          "id": "newsnow-1928dbb7d89c",
+          "title": "荣耀 Magic9 16+512GB 价格公布：5999 元",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-09-24",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73957907",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "荣耀 Magic9 16+512GB 价格公布：5999 元",
+          "detail": "荣耀 Magic9 16+512GB 价格公布：5999 元",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响购买预算，值得先看。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     }
