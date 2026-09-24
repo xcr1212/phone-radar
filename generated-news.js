@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-24T17:09:26.963Z",
+  "updatedAt": "2026-09-24T21:30:05.625Z",
   "news": [
     {
       "id": "weibo-51cc3b480185",
@@ -10,8 +10,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-24",
-      "time": "17:09",
-      "publishedAt": "2026-09-24T17:09:26.963Z",
+      "time": "21:30",
+      "publishedAt": "2026-09-24T21:30:05.625Z",
       "url": "https://weibo.com/6048569942/RjB9l5H9B",
       "image": "",
       "summary": "荣耀Magic9直接提前公布价格了，16GB+512GB 5999元，感觉怎么样？[吃瓜] 6.37英寸1.5K+120Hz LTPS小直屏，极窄四等边，骁龙8E5处理器，8000mAh电池+80W+50W；55Mp 1:1方形前摄，后置200Mp 1/1.4英寸主摄+50Mp超广角+200Mp 1/1.56英寸3.5X潜望长焦；3D超声波指纹，IP68/…",
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-24",
-      "time": "17:09",
-      "publishedAt": "2026-09-24T17:09:26.963Z",
+      "time": "21:30",
+      "publishedAt": "2026-09-24T21:30:05.625Z",
       "url": "https://weibo.com/6048569942/RjzrmvPxt",
       "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ihc8nohkp0j30zb0hj42c.jpg",
       "summary": "去年11月的超前瞻，iPhone 18 Pro Max用了钢壳电池，相较于软包方案提升明显，国行版容量都做到了额定5391mAh，典型值算在5500±。 母系旗舰也在测试钢壳电池+叠片电池技术，争取把后续旗舰机容量做到9000-10000mAh±",
@@ -50,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-24",
-      "time": "17:09",
-      "publishedAt": "2026-09-24T17:09:26.963Z",
+      "time": "21:30",
+      "publishedAt": "2026-09-24T21:30:05.625Z",
       "url": "https://weibo.com/6048569942/Rjygr72Er",
       "image": "",
       "summary": "华子还不预热吗，外部信息Mate90 Pro Max典藏版是宝石工艺星环DECO，有原生镜头环，可以外接一颗巨炮，其它配置应该都知道了K9050 Pro+16GB，6800mAh+100W，50Mp 1/1.28英寸超高动态主摄+可变光圈+抗眩光红外镀膜， 200Mp 1/1.28英寸潜望镜，新一代双层OLED",
@@ -70,8 +70,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-24",
-      "time": "17:09",
-      "publishedAt": "2026-09-24T17:09:26.963Z",
+      "time": "21:30",
+      "publishedAt": "2026-09-24T21:30:05.625Z",
       "url": "https://weibo.com/6048569942/Rju598Xi8",
       "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ihdz1y39cmj31900u0wno.jpg",
       "summary": "小米18 Pro系列全系2亿超大底主摄，传感器来自思特威——SCC80XS、SCC90XS，后者支持新一代LOFIC技术，拥有超高动态范围，全系双两亿超高清影像，国产Sensor赋能“传奇一瞬”旗舰影像，小米后面还有很多新机用思特威[流鼻血]",
@@ -79,6 +79,46 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "微博"
+      ]
+    },
+    {
+      "id": "auto-2e20ed36255c",
+      "title": "Bellroy’s leather Pixel 11 Pro case is a keeper",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-24",
+      "time": "19:11",
+      "publishedAt": "2026-09-24T19:11:48.000Z",
+      "url": "https://9to5google.com/2026/09/24/bellroys-leather-pixel-11-pro-case-is-a-keeper/",
+      "image": "",
+      "summary": "Like any sane capitalist, I love getting new stuff. But there’s something heartening about those new things settling into age, like a fecund garden becoming slightly unwieldy, or…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-366323c2a306",
+      "title": "Stop buying Pro phones: The Pixel 10a has the features that matter",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-24",
+      "time": "18:15",
+      "publishedAt": "2026-09-24T18:15:10.000Z",
+      "url": "https://www.androidpolice.com/stop-buying-pro-phones-the-pixel-10a-has-the-features-that-matter/",
+      "image": "",
+      "summary": "The Pixel 10a offers a good camera and reliable performance at a lower price, questioning the value of a flagship phone",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -522,26 +562,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-27ecad10ad0c",
-      "title": "竹本青：小米回应\"员工破坏其他车企车辆\"：造谣者已被行政拘留",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-24",
-      "time": "06:50",
-      "publishedAt": "2026-09-24T06:50:37.000Z",
-      "url": "https://www.coolapk.com/feed/73955526",
-      "image": "http://image.coolapk.com/feed/2026/0924/14/4248714_a0e2025a_2709_9981_63@1271x1419.jpg",
-      "summary": "【小米公司回应\"员工破坏其他车企车辆\"：造谣者已被行政拘留】 9月24日，小米公司就此前\"员工破坏其他车企车辆\"网络谣言作出回应，表示造谣者刘某已被广东公安依法行政拘留；此外，今年6月已有网友因传播扩散该谣言，被查实证据并处罚。 原文如下： 针对此前有网友造谣称我司员工破坏其他车企车辆一事，我们第一时间针对谣言取证，并依法前往公安机关报案。 近日，广东公安…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-e6c8db866f81",
       "title": "Apple says software update to fix iPhone 18 Pro rebooting bug is coming next week",
       "source": "9to5Mac",
@@ -599,6 +619,26 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-270ca0596486",
+      "title": "JSCHEN小小狐：华为 Mate90 Pro Max 典藏版核心配置曝光",
+      "source": "JSCHEN小小狐",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-24",
+      "time": "01:24",
+      "publishedAt": "2026-09-24T01:24:15.000Z",
+      "url": "https://www.coolapk.com/feed/73947844",
+      "image": "http://image.coolapk.com/feed/2026/0924/09/4702274_443c7ab8_3054_6271_816@1440x734.jpg",
+      "summary": "『华为 Mate90 Pro Max 典藏版核心配置曝光』 ◇ 麒麟 9050 Pro 芯片 + 16GB 内存 ◇ 新一代双层 OLED：万级高亮度 ◇ 6800mAh 电池 + 100W 有线 ◇ 原生镜头环：可外接“巨炮” ◇ 宝石工艺星环 Deco 设计 主摄｜50Mp 1/1.28'' SC595XS LOFIC - 超高动态、可变光圈、抗眩光红…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
       ]
     },
     {
@@ -782,26 +822,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-58fcfb58f744",
-      "title": "做小米销售这段时间，感触挺深。看着Xiaomi 18 Pro Max的定价，能理解硬件、内存成本上涨，但顾客第一反应还是觉得贵。介绍的时候要一遍遍解释，讲配置讲工艺，很多人听完还是犹豫。卖得吃力，有时候真觉得心累。热爱这个品牌，但面对越来越高的门槛，偶尔也会迷茫，不知道还能不能坚持，有点想退出这个行业了。",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-24",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73941733",
-      "image": "",
-      "summary": "做小米销售这段时间，感触挺深。看着Xiaomi 18 Pro Max的定价，能理解硬件、内存成本上涨，但顾客第一反应还是觉得贵。介绍的时候要一遍遍解释，讲配置讲工艺，很多人听完还是犹豫。卖得吃力，有时候真觉得心累。热爱这个品牌，但面对越来越高的门槛，偶尔也会迷茫，不知道还能不能坚持，有点想退出这个行业了。",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-1928dbb7d89c",
       "title": "荣耀 Magic9 16+512GB 价格公布：5999 元",
       "source": "酷安热榜",
@@ -822,48 +842,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-7fec46d53aae",
-      "title": "#酷安夜话# 我06年，女朋友04谈了快3年，经常因为一些小事吵架，但应该都是我的问题，9月初因为一些事情闹冷战，过了几天我去找她求和，他明确表示不可能在一起了，但是过了一天两个 她发信息跟我说如果我跟你和好你给我买手机吗，手机是一万3的苹果18pm，我今年2月份才给她买的16pro也才用了差不多半年，这手机是买还是不买",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-24",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73945668",
-      "image": "",
-      "summary": "#酷安夜话# 我06年，女朋友04谈了快3年，经常因为一些小事吵架，但应该都是我的问题，9月初因为一些事情闹冷战，过了几天我去找她求和，他明确表示不可能在一起了，但是过了一天两个 她发信息跟我说如果我跟你和好你给我买手机吗，手机是一万3的苹果18pm，我今年2月份才给她买的16pro也才用了差不多半年，这手机是买还是不买",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-7762587eb691",
-      "title": "华为 Mate90 Pro Max 典藏版核心配置曝光",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-24",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73947844",
-      "image": "",
-      "summary": "华为 Mate90 Pro Max 典藏版核心配置曝光",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-91089065f927",
-      "title": "vivo对不起，原来还有高手[受虐滑稽][受虐滑稽][受虐滑稽]国产手机算是烂完了。#小米17ProMax# #OPPOFindX9Pro# #小米18#",
+      "id": "newsnow-4315699d09a0",
+      "title": "#小米18Pro# #vivoX500ProMax# #vivoX500Pro#",
       "source": "酷安热榜",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
@@ -872,12 +852,92 @@ window.phoneRadarAuto = {
       "date": "2026-09-24",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73937603",
+      "url": "https://www.coolapk.com/feed/73968164",
       "image": "",
-      "summary": "vivo对不起，原来还有高手[受虐滑稽][受虐滑稽][受虐滑稽]国产手机算是烂完了。#小米17ProMax# #OPPOFindX9Pro# #小米18#",
+      "summary": "#小米18Pro# #vivoX500ProMax# #vivoX500Pro#",
       "tags": [
         "Xiaomi",
         "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-58fcfb58f744",
+      "title": "做小米销售这段时间，感触挺深。看着Xiaomi 18 Pro Max的定价，能理解硬件、内存成本上涨，但顾客第一反应还是觉得贵。介绍的时候要一遍遍解释，讲配置讲工艺，很多人听完还是犹豫。卖得吃力，有时候真觉得心累。热爱这个品牌，但面对越来越高的门槛，偶尔也会迷茫，不知道还能不能坚持，有点想退出这个行业了。",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-24",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73941733",
+      "image": "",
+      "summary": "做小米销售这段时间，感触挺深。看着Xiaomi 18 Pro Max的定价，能理解硬件、内存成本上涨，但顾客第一反应还是觉得贵。介绍的时候要一遍遍解释，讲配置讲工艺，很多人听完还是犹豫。卖得吃力，有时候真觉得心累。热爱这个品牌，但面对越来越高的门槛，偶尔也会迷茫，不知道还能不能坚持，有点想退出这个行业了。",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-f7d118d34367",
+      "title": "兄弟们，9月19日收到货，现在发现屏幕上有一根线怎么办啊 一根黑线 #iPhone18Pro系列首发上手# #iPhone18Pro# #iPhone18ProMax#",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-24",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73940826",
+      "image": "",
+      "summary": "兄弟们，9月19日收到货，现在发现屏幕上有一根线怎么办啊 一根黑线 #iPhone18Pro系列首发上手# #iPhone18Pro# #iPhone18ProMax#",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-0f46ec7b4905",
+      "title": "准备润荣耀了，预订了荣耀的Magic 9 pro max，没人觉得这次荣耀的pm是堆料最狠的吗，荣耀这次马达换成了比0916还大的1018规格，5G频段是所有手机中用的最多最全的，价格还可能是几家最便宜的，最关键的是国庆之前就能拿到，不耽误出去玩，感觉无敌了[受虐滑稽] #荣耀Magic9ProMax# #鸿蒙7#",
+      "source": "酷安热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-24",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73952359",
+      "image": "",
+      "summary": "准备润荣耀了，预订了荣耀的Magic 9 pro max，没人觉得这次荣耀的pm是堆料最狠的吗，荣耀这次马达换成了比0916还大的1018规格，5G频段是所有手机中用的最多最全的，价格还可能是几家最便宜的，最关键的是国庆之前就能拿到，不耽误出去玩，感觉无敌了[受虐滑稽] #荣耀Magic9ProMax# #鸿蒙7#",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-dccc36edf09d",
+      "title": "现在 Vibe coding 基本不需要 IDE 辅助了，为什么用手机编程还是很罕见？",
+      "source": "知乎热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-09-24",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2084276691090908383",
+      "image": "",
+      "summary": "现在 Vibe coding 基本不需要 IDE 辅助了，为什么用手机编程还是很罕见？",
+      "tags": [
+        "行业",
+        "市场报告",
         "NewsNow"
       ]
     },
@@ -938,26 +998,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Pixel",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ec39a8210d61",
-      "title": "iPhone Air vs. iPhone 18 Pro Buyer's Guide: Which Should You Buy?",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-23",
-      "time": "16:06",
-      "publishedAt": "2026-09-23T16:06:28.000Z",
-      "url": "https://www.macrumors.com/guide/iphone-air-vs-18-pro/",
-      "image": "https://images.macrumors.com/article-new/2026/09/iphone-18-pro-vs-iphone-air.jpg",
-      "summary": "The iPhone Air and iPhone 18 Pro are just $100 apart at Apple's current prices, but they offer different advantages. The Air puts a 6.5-inch display in an exceptionally thin, ligh…",
-      "tags": [
-        "iPhone",
-        "爆料",
         "自动抓取"
       ]
     },

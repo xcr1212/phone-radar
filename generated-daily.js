@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-24T17:09:26.963Z",
+  "updatedAt": "2026-09-24T21:30:05.625Z",
   "issueDate": "2026-09-24",
   "issue": "VOL.260924",
   "title": "手机情报日报",
-  "intro": "今日筛出 13 条重点，其中 8 条是重点爆料，包含 11 条 iPhone 相关、2 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 10 条 iPhone 相关、2 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 13,
-    "iphone": 11,
+    "total": 12,
+    "iphone": 10,
     "leaks": 8,
     "official": 2,
     "specs": 0
@@ -49,8 +49,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-09-24",
-          "time": "17:09",
-          "publishedAt": "2026-09-24T17:09:26.963Z",
+          "time": "21:30",
+          "publishedAt": "2026-09-24T21:30:05.625Z",
           "url": "https://weibo.com/6048569942/RjzrmvPxt",
           "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ihc8nohkp0j30zb0hj42c.jpg",
           "verdict": "先看",
@@ -61,6 +61,29 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-f7d118d34367",
+          "title": "兄弟们，9月19日收到货，现在发现屏幕上有一根线怎么办啊 一根黑线 #iPhone18Pro系列首发上手# #iPhone18Pro# #iPhone18ProMax#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-09-24",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73940826",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "兄弟们，9月19日收到货，现在发现屏幕上有一根线怎么办啊 一根黑线 #iPhone18Pro系列首发上手# #iPhone18Pro# #iPhone18ProMax#",
+          "detail": "兄弟们，9月19日收到货，现在发现屏幕上有一根线怎么办啊 一根黑线 #iPhone18Pro系列首发上手# #iPhone18Pro# #iPhone18ProMax#",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -128,30 +151,6 @@ window.phoneRadarDaily = {
           "detail": "新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试",
           "keyPoints": [
             "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-ec39a8210d61",
-          "title": "iPhone 18 Pro 系统功能 / AI 体验相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-23",
-          "time": "16:06",
-          "publishedAt": "2026-09-23T16:06:28.000Z",
-          "url": "https://www.macrumors.com/guide/iphone-air-vs-18-pro/",
-          "image": "https://images.macrumors.com/article-new/2026/09/iphone-18-pro-vs-iphone-air.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
-          "detail": "iPhone 18 Pro 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "屏幕形态",
-            "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -280,29 +279,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
-        {
-          "id": "newsnow-7fec46d53aae",
-          "title": "#酷安夜话# 我06年，女朋友04谈了快3年，经常因为一些小事吵架，但应该都是我的问题，9月初因为一些事情闹冷战，过了几天我去找她求和，他明确表示不可能在一起了，但是过了一天两个 她发信息跟我说如果我跟你和好你给我买手机吗，手机是一万3的苹果18pm，我今年2月份才给她买的16pro也才用了差不多半年，这手机是买还是不买",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-09-24",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73945668",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "#酷安夜话# 我06年，女朋友04谈了快3年，经常因为一些小事吵架，但应该都是我的问题，9月初因为一些事情闹冷战，过了几天我去找她求和，他明确表示不可能在一起了，但是过了一天两个 她发信息跟我说如果我跟你和好你给我买手机吗，手机是一万3的苹果18pm，我今年2月份才给她买的16pro也才用了差不多半年，这手机是买还是不买",
-          "detail": "#酷安夜话# 我06年，女朋友04谈了快3年，经常因为一些小事吵架，但应该都是我的问题，9月初因为一些事情闹冷战，过了几天我去找她求和，他明确表示不可能在一起了，但是过了一天两个 她发信息跟我说如果我跟你和好你给我买手机吗，手机是一万3的苹果18pm，我今年2月份才给她买的16pro也才用了差不多半年，这手机是买还是不买",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
