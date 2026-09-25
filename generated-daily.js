@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-24T21:30:05.625Z",
-  "issueDate": "2026-09-24",
-  "issue": "VOL.260924",
+  "updatedAt": "2026-09-25T00:32:40.594Z",
+  "issueDate": "2026-09-25",
+  "issue": "VOL.260925",
   "title": "手机情报日报",
-  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 10 条 iPhone 相关、2 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 17 条重点，其中 8 条是重点爆料，包含 11 条 iPhone 相关、3 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 12,
-    "iphone": 10,
+    "total": 17,
+    "iphone": 11,
     "leaks": 8,
-    "official": 2,
+    "official": 3,
     "specs": 0
   },
   "sections": [
@@ -18,29 +18,6 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "auto-6ed872b0e126",
-          "title": "从 iPhone 18 开始，苹果给你的照片打上「看不见」的水印",
-          "originalTitle": "",
-          "source": "爱范儿",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-09-23",
-          "time": "09:12",
-          "publishedAt": "2026-09-23T09:12:11.000Z",
-          "url": "https://www.ifanr.com/1681780?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "image": "https://s3.ifanr.com/wp-content/uploads/2026/09/img_6ab397990e289.png",
-          "verdict": "先看",
-          "takeaway": "给真正由相机拍下来的照片，留下「真」的证明",
-          "detail": "给真正由相机拍下来的照片，留下「真」的证明",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "weibo-3a1ec5c7ba46",
           "title": "数码闲聊站：去年11月的超前瞻，iPhone 18 Pro Max用了钢壳电池，相较于软包…",
           "originalTitle": "",
@@ -48,9 +25,9 @@ window.phoneRadarDaily = {
           "brand": "iPhone",
           "type": "爆料",
           "trust": "高关注爆料源",
-          "date": "2026-09-24",
-          "time": "21:30",
-          "publishedAt": "2026-09-24T21:30:05.625Z",
+          "date": "2026-09-25",
+          "time": "00:32",
+          "publishedAt": "2026-09-25T00:32:40.594Z",
           "url": "https://weibo.com/6048569942/RjzrmvPxt",
           "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ihc8nohkp0j30zb0hj42c.jpg",
           "verdict": "先看",
@@ -65,14 +42,14 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-f7d118d34367",
+          "id": "newsnow-47cff719b503",
           "title": "兄弟们，9月19日收到货，现在发现屏幕上有一根线怎么办啊 一根黑线 #iPhone18Pro系列首发上手# #iPhone18Pro# #iPhone18ProMax#",
           "originalTitle": "",
           "source": "酷安热榜",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "高关注爆料源",
-          "date": "2026-09-24",
+          "date": "2026-09-25",
           "time": "",
           "publishedAt": "",
           "url": "https://www.coolapk.com/feed/73940826",
@@ -82,6 +59,29 @@ window.phoneRadarDaily = {
           "detail": "兄弟们，9月19日收到货，现在发现屏幕上有一根线怎么办啊 一根黑线 #iPhone18Pro系列首发上手# #iPhone18Pro# #iPhone18ProMax#",
           "keyPoints": [
             "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-68b36c6b94e7",
+          "title": "新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试",
+          "originalTitle": "",
+          "source": "少数派热榜",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-09-25",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/114453",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试",
+          "detail": "新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试",
+          "keyPoints": [
+            "影像硬件"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -134,53 +134,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-2cc5340a75b3",
-          "title": "新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-09-24",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/114453",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试",
-          "detail": "新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-95c5d81ca0b2",
-          "title": "iPhone 外观设计线索曝光",
-          "originalTitle": "",
-          "source": "9to5Mac",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-23",
-          "time": "14:21",
-          "publishedAt": "2026-09-23T14:21:35.000Z",
-          "url": "https://9to5mac.com/2026/09/23/next-years-iphone-pro-models-have-near-borderless-design-report/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-19-pro-20-anniversary-max.jpg?quality=82&strip=all&w=1600",
-          "verdict": "先看",
-          "takeaway": "iPhone 外观设计线索曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
-          "detail": "iPhone 外观设计线索曝光。这类内容主要看外观设计、按键布局、相机模组和尺寸变化，后续最好等更多渲染图或保护壳线索互相验证。",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "auto-47420afd356b",
           "title": "许斐确认小米 18 Pro 系列手机将走向全球，推出国际版",
           "originalTitle": "",
@@ -202,6 +155,56 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-51cc3b480185",
+          "title": "数码闲聊站：荣耀Magic9直接提前公布价格了，16GB+512GB 5999元，感觉怎么…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-09-25",
+          "time": "00:32",
+          "publishedAt": "2026-09-25T00:32:40.594Z",
+          "url": "https://weibo.com/6048569942/RjB9l5H9B",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "荣耀Magic9直接提前公布价格了，16GB+512GB 5999元，感觉怎么样？[吃瓜] 6.37英寸1.5K+120Hz LTPS小直屏，极窄四等边，骁龙8E5处理器，8000mAh电池+80W+50W；55Mp 1:1方形前摄，后置200Mp 1/1.4英寸主摄+50Mp超广角+200Mp 1/1.56英寸3.5X潜望长焦；3D超声波指纹，IP68/…",
+          "detail": "荣耀Magic9直接提前公布价格了，16GB+512GB 5999元，感觉怎么样？[吃瓜] 6.37英寸1.5K+120Hz LTPS小直屏，极窄四等边，骁龙8E5处理器，8000mAh电池+80W+50W；55Mp 1:1方形前摄，后置200Mp 1/1.4英寸主摄+50Mp超广角+200Mp 1/1.56英寸3.5X潜望长焦；3D超声波指纹，IP68/…",
+          "keyPoints": [
+            "影像硬件",
+            "屏幕形态",
+            "电池 / 充电",
+            "芯片 / 性能"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-88090b3b726e",
+          "title": "数码闲聊站：小米18 Pro系列全系2亿超大底主摄，传感器来自思特威——SCC80XS、S…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-09-25",
+          "time": "00:32",
+          "publishedAt": "2026-09-25T00:32:40.594Z",
+          "url": "https://weibo.com/6048569942/Rju598Xi8",
+          "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ihdz1y39cmj31900u0wno.jpg",
+          "verdict": "先看",
+          "takeaway": "小米18 Pro系列全系2亿超大底主摄，传感器来自思特威——SCC80XS、SCC90XS，后者支持新一代LOFIC技术，拥有超高动态范围，全系双两亿超高清影像，国产Sensor赋能“传奇一瞬”旗舰影像，小米后面还有很多新机用思特威[流鼻血]",
+          "detail": "小米18 Pro系列全系2亿超大底主摄，传感器来自思特威——SCC80XS、SCC90XS，后者支持新一代LOFIC技术，拥有超高动态范围，全系双两亿超高清影像，国产Sensor赋能“传奇一瞬”旗舰影像，小米后面还有很多新机用思特威[流鼻血]",
+          "keyPoints": [
+            "影像硬件",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -218,7 +221,7 @@ window.phoneRadarDaily = {
           "brand": "iPhone",
           "type": "官方",
           "trust": "官方确认",
-          "date": "2026-09-24",
+          "date": "2026-09-25",
           "time": "",
           "publishedAt": "",
           "url": "https://www.apple.com/newsroom/2026/09/celebrating-what-holds-us-on-iphone-18-pro/",
@@ -241,7 +244,7 @@ window.phoneRadarDaily = {
           "brand": "iPhone",
           "type": "官方",
           "trust": "官方确认",
-          "date": "2026-09-24",
+          "date": "2026-09-25",
           "time": "",
           "publishedAt": "",
           "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
@@ -279,36 +282,151 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        }
-      ]
-    },
-    {
-      "id": "review",
-      "title": "评测与体验",
-      "hint": "买前再细看，平时扫一眼即可。",
-      "items": [
+        },
         {
-          "id": "auto-4328a64c737b",
-          "title": "小米 18 Pro Max 首发评测：最好的小米手机，也是最好玩的小米手机",
+          "id": "auto-728bbee10ddb",
+          "title": "iPhone 发布 / 上市相关消息",
           "originalTitle": "",
-          "source": "爱范儿",
-          "brand": "Xiaomi",
+          "source": "Apple Newsroom",
+          "brand": "iPhone",
+          "type": "官方",
+          "trust": "官方确认",
+          "date": "2026-09-25",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone 有发布或新功能消息，适合确认是否和新机有关。",
+          "detail": "iPhone 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "官方"
+          ],
+          "confidence": "官方内容，可直接作为已确认信息记录。",
+          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-173660422432",
+          "title": "众测招募｜泡泡骚 Low Pro：给新 iPhone 添一件极简「背心」",
+          "originalTitle": "",
+          "source": "少数派热榜",
+          "brand": "iPhone",
           "type": "评测",
           "trust": "媒体汇总",
-          "date": "2026-09-23",
-          "time": "13:03",
-          "publishedAt": "2026-09-23T13:03:20.000Z",
-          "url": "https://www.ifanr.com/1681778?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "image": "https://s3.ifanr.com/wp-content/uploads/2026/09/banner16t9-4.jpg",
-          "verdict": "先看",
-          "takeaway": "从诞生之刻就立意撕下「1999」的印象，与小米手机与生俱来的标签诀别",
-          "detail": "从诞生之刻就立意撕下「1999」的印象，与小米手机与生俱来的标签诀别",
+          "date": "2026-09-25",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/114410",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "众测招募｜泡泡骚 Low Pro：给新 iPhone 添一件极简「背心」",
+          "detail": "众测招募｜泡泡骚 Low Pro：给新 iPhone 添一件极简「背心」",
           "keyPoints": [
             "评测"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-8b8007a6b7d5",
+          "title": "iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事",
+          "originalTitle": "",
+          "source": "少数派热榜",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-09-25",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/114449",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事",
+          "detail": "iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "行业趋势",
+      "hint": "看方向，不急着当购买依据。",
+      "items": [
+        {
+          "id": "newsnow-c5c3e0ddb669",
+          "title": "荣耀 Magic9 16+512GB 价格公布：5999 元",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-09-25",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73957907",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "荣耀 Magic9 16+512GB 价格公布：5999 元",
+          "detail": "荣耀 Magic9 16+512GB 价格公布：5999 元",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响购买预算，值得先看。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
+          "id": "newsnow-67d8eac4b8a1",
+          "title": "女朋友苹果换小米，直接18promax现场提货，前前后后估计十几个人拿新机走了，小米的差异化真的成功了[捂脸]",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-09-25",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73940151",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "女朋友苹果换小米，直接18promax现场提货，前前后后估计十几个人拿新机走了，小米的差异化真的成功了[捂脸]",
+          "detail": "女朋友苹果换小米，直接18promax现场提货，前前后后估计十几个人拿新机走了，小米的差异化真的成功了[捂脸]",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-2fe147d43512",
+          "title": "准备润荣耀了，预订了荣耀的Magic 9 pro max，没人觉得这次荣耀的pm是堆料最狠的吗，荣耀这次马达换成了比0916还大的1018规格，5G频段是所有手机中用的最多最全的，价格还可能是几家最便宜的，最关键的是国庆之前就能拿到，不耽误出去玩，感觉无敌了[受虐滑稽] #荣耀Magic9ProMax# #鸿蒙7#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-09-25",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/73952359",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "准备润荣耀了，预订了荣耀的Magic 9 pro max，没人觉得这次荣耀的pm是堆料最狠的吗，荣耀这次马达换成了比0916还大的1018规格，5G频段是所有手机中用的最多最全的，价格还可能是几家最便宜的，最关键的是国庆之前就能拿到，不耽误出去玩，感觉无敌了[受虐滑稽] #荣耀Magic9ProMax# #鸿蒙7#",
+          "detail": "准备润荣耀了，预订了荣耀的Magic 9 pro max，没人觉得这次荣耀的pm是堆料最狠的吗，荣耀这次马达换成了比0916还大的1018规格，5G频段是所有手机中用的最多最全的，价格还可能是几家最便宜的，最关键的是国庆之前就能拿到，不耽误出去玩，感觉无敌了[受虐滑稽] #荣耀Magic9ProMax# #鸿蒙7#",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响购买预算，值得先看。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     }
