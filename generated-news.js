@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-25T07:46:54.780Z",
+  "updatedAt": "2026-09-25T13:45:56.181Z",
   "news": [
     {
       "id": "weibo-51cc3b480185",
@@ -10,8 +10,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-25",
-      "time": "07:46",
-      "publishedAt": "2026-09-25T07:46:54.780Z",
+      "time": "13:45",
+      "publishedAt": "2026-09-25T13:45:56.181Z",
       "url": "https://weibo.com/6048569942/RjB9l5H9B",
       "image": "",
       "summary": "荣耀Magic9直接提前公布价格了，16GB+512GB 5999元，感觉怎么样？[吃瓜] 6.37英寸1.5K+120Hz LTPS小直屏，极窄四等边，骁龙8E5处理器，8000mAh电池+80W+50W；55Mp 1:1方形前摄，后置200Mp 1/1.4英寸主摄+50Mp超广角+200Mp 1/1.56英寸3.5X潜望长焦；3D超声波指纹，IP68/…",
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-25",
-      "time": "07:46",
-      "publishedAt": "2026-09-25T07:46:54.780Z",
+      "time": "13:45",
+      "publishedAt": "2026-09-25T13:45:56.181Z",
       "url": "https://weibo.com/6048569942/RjzrmvPxt",
       "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ihc8nohkp0j30zb0hj42c.jpg",
       "summary": "去年11月的超前瞻，iPhone 18 Pro Max用了钢壳电池，相较于软包方案提升明显，国行版容量都做到了额定5391mAh，典型值算在5500±。 母系旗舰也在测试钢壳电池+叠片电池技术，争取把后续旗舰机容量做到9000-10000mAh±",
@@ -50,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-25",
-      "time": "07:46",
-      "publishedAt": "2026-09-25T07:46:54.780Z",
+      "time": "13:45",
+      "publishedAt": "2026-09-25T13:45:56.181Z",
       "url": "https://weibo.com/6048569942/Rjygr72Er",
       "image": "",
       "summary": "华子还不预热吗，外部信息Mate90 Pro Max典藏版是宝石工艺星环DECO，有原生镜头环，可以外接一颗巨炮，其它配置应该都知道了K9050 Pro+16GB，6800mAh+100W，50Mp 1/1.28英寸超高动态主摄+可变光圈+抗眩光红外镀膜， 200Mp 1/1.28英寸潜望镜，新一代双层OLED",
@@ -70,8 +70,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-25",
-      "time": "07:46",
-      "publishedAt": "2026-09-25T07:46:54.780Z",
+      "time": "13:45",
+      "publishedAt": "2026-09-25T13:45:56.181Z",
       "url": "https://weibo.com/6048569942/Rju598Xi8",
       "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ihdz1y39cmj31900u0wno.jpg",
       "summary": "小米18 Pro系列全系2亿超大底主摄，传感器来自思特威——SCC80XS、SCC90XS，后者支持新一代LOFIC技术，拥有超高动态范围，全系双两亿超高清影像，国产Sensor赋能“传奇一瞬”旗舰影像，小米后面还有很多新机用思特威[流鼻血]",
@@ -79,6 +79,226 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "微博"
+      ]
+    },
+    {
+      "id": "auto-f871c921e249",
+      "title": "iPhone Duo video shows left-handed use for new model",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-25",
+      "time": "13:45",
+      "publishedAt": "2026-09-25T13:45:26.000Z",
+      "url": "https://9to5mac.com/2026/09/25/iphone-duo-video-shows-left-handed-use-for-new-model/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-1.jpeg?quality=82&strip=all&w=1600",
+      "summary": "iPhone Duo is less than a month away , but many prospective buyers are still wondering how well the device will work in left-handed use. Here’s a video that shows a left-handed ex…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2d155b89fc12",
+      "title": "REDMI 17C 5G India launch confirmed for October 1",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-25",
+      "time": "13:45",
+      "publishedAt": "2026-09-25T13:45:25.000Z",
+      "url": "https://www.gizmochina.com/2026/09/25/redmi-17c-5g-india-launch-confirmed-for-october-1/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Screenshot-2026-09-25-190601-300x169.png?x96852",
+      "summary": "Xiaomi is lining up another affordable 5G phone for the Indian market. After launching the REDMI 17C 5G in Singapore last month, the company has now confirmed it’s heading to Indi…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a7052461efcf",
+      "title": "小米 18 Fold 中折叠首销情况曝光：9 月 7 日-13 日约 3.97 万台",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-25",
+      "time": "13:43",
+      "publishedAt": "2026-09-25T13:43:30.000Z",
+      "url": "https://www.ithome.com/1/007/244.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/fcf2555e-1e8a-4977-add4-c0543bc52290.png",
+      "summary": "IT之家 9 月 25 日消息，长期关注国内手机市场份额的数码博主 @RD观测 今日发文，爆料了小米 18 Fold 手机的首销情况，9 月 7 日-9 月 13 日约 3.97 万台。 IT之家注意到，小米 18 Fold 中折叠手机发布于 9 月 7 日，并于 9 月 10 日 10:00 正式开售， 售价 10999 元起 ，主打配色便是“西野红”。…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-758de15b8701",
+      "title": "竹本青：【博主更新小米18 Fold爆料销量，称此前数据有问题】 9月25日，博主「RD观测」再次披露小米18 Fold…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-25",
+      "time": "13:10",
+      "publishedAt": "2026-09-25T13:10:37.000Z",
+      "url": "https://www.coolapk.com/feed/73985366",
+      "image": "http://image.coolapk.com/feed/2026/0925/21/4248714_b558993a_3683_7821_186@1272x1034.jpg",
+      "summary": "【博主更新小米18 Fold爆料销量，称此前数据有问题】 9月25日，博主「RD观测」再次披露小米18 Fold 销售情况：截至2026年第37周（9月7日-9月13日），销量约为3.97万台。 该博主此前曾公布，小米18 Fold开售当日销量达3.6万台；开售7日销量接近8万台，创下小米折叠屏新品历史最高。 针对评论区对数据差异的疑问，该博主回应称：“那…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-81b1c99fdcc6",
+      "title": "Android flagships could soon pack massive 10,000mAh batteries, thanks to iPhone’s battery tech",
+      "source": "Android Authority",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-25",
+      "time": "13:09",
+      "publishedAt": "2026-09-25T13:09:49.000Z",
+      "url": "https://www.androidauthority.com/android-copy-apple-iphone-steel-case-battery-3715505/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/iPhone-16-Pros-aluminum-encased-battery-vs-iPhone-15-Pros.jpg",
+      "summary": "Android OEMs could pair Apple's rigid steel-cased battery design with stacked-cell tech for monstrous battery life.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e81547130511",
+      "title": "Three ways Apple’s iPhone Duo could help Samsung foldables",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-25",
+      "time": "11:37",
+      "publishedAt": "2026-09-25T11:37:49.000Z",
+      "url": "https://www.sammobile.com/news/three-ways-iphone-duo-help-samsung-galaxy-foldable-phones/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Galaxy-Z-Fold-8-Ultra-review-30-1920x1079.jpg",
+      "summary": "Apple recently took the wraps off the highly anticipated iPhone Duo. It brings a Galaxy Z Fold 8-like form factor to the masses. While the tech giant is years late to the foldable…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-843c193d8ce4",
+      "title": "竹本青：【卢伟冰：小米17系列 还在销售，骁龙8E5是非常不错的平台】 9月25日，小米高管卢伟冰发文，推荐多款小米系机型…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-25",
+      "time": "11:00",
+      "publishedAt": "2026-09-25T11:00:07.000Z",
+      "url": "https://www.coolapk.com/feed/73982747",
+      "image": "http://image.coolapk.com/feed/2026/0925/19/4248714_427024a0_4006_703_512@1439x794.jpg",
+      "summary": "【卢伟冰：小米17系列 还在销售，骁龙8E5是非常不错的平台】 9月25日，小米高管卢伟冰发文，推荐多款小米系机型，包括REDMI K100 Pro系列和仍在销售的小米17系列。 他同时谈及骁龙8 Elite Gen5处理器，表示该平台非常不错，打磨得非常成熟。 #今日热点# #HyperOS4# #小米18ProMax#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-7e098f479bd1",
+      "title": "竹本青：【华为Pura X Max 最新销量曝光：周增约3.83万台，全系累计超87万台】 Pura X Max ● 截至…",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-25",
+      "time": "10:30",
+      "publishedAt": "2026-09-25T10:30:17.000Z",
+      "url": "https://www.coolapk.com/feed/73982118",
+      "image": "http://image.coolapk.com/feed/2026/0925/18/4248714_40b4239f_2216_7213_673@1440x536.jpg",
+      "summary": "【华为Pura X Max 最新销量曝光：周增约3.83万台，全系累计超87万台】 Pura X Max ● 截至 W37 —— 约43.9万（周增2.25万） 截至 W36 —— 约41.65万（周增1.55万） 截至 W35 —— 约40.1万（周增1.71万） 截至 W34 —— 约38.39万（周增2.07万） Pura X Max 典藏版 ● 截…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-11624e6ae290",
+      "title": "Pixel 11 signal problems? Try these 7 fixes before returning it",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-25",
+      "time": "10:30",
+      "publishedAt": "2026-09-25T10:30:01.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-signal-problems-troubleshooting-tips-3714401/",
+      "image": "",
+      "summary": "Don't give up on your Pixel 11 before trying these simple fixes.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-bb83931fff13",
+      "title": "iQOO 16 camera details officially confirmed ahead of September 29 launch",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-25",
+      "time": "09:06",
+      "publishedAt": "2026-09-25T09:06:37.000Z",
+      "url": "https://www.gizmochina.com/2026/09/25/iqoo-16-camera-specs-officially-confirmed/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/iQOO-16-launch-date--300x169.jpg?x96852",
+      "summary": "The iQOO 16 is set to bring a stronger focus on photography, with iQOO now revealing key details about its camera hardware and imaging technology. The company has shared new infor…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4909265bc8bf",
+      "title": "The OnePlus 16’s coolest feature is also its most embarrassing",
+      "source": "Android Authority",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-25",
+      "time": "09:00",
+      "publishedAt": "2026-09-25T09:00:07.000Z",
+      "url": "https://www.androidauthority.com/oneplus-16-led-lights-embarrassing-3715122/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/oneplus-16-render-glowing-lights-hand.jpg",
+      "summary": "OnePlus clearly wants the OnePlus 16 to stand out, but how?",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -159,66 +379,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-03c37b1ae22c",
-      "title": "iQOO 16 手机官宣升级 5000 万像素 1/1.3\" 主摄，采用蓝厂 vivo 旗舰同款算法",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-25",
-      "time": "02:21",
-      "publishedAt": "2026-09-25T02:21:24.000Z",
-      "url": "https://www.ithome.com/1/007/093.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/ecd5698a-b313-4839-b4a3-2c373303108a.jpg",
-      "summary": "IT之家 9 月 25 日消息，iQOO 16 新机将于 9 月 29 日 19:00 发布并开售。 iQOO 手机官方今日宣布，iQOO 16 升级 5000 万超感光 1/1.3\" 大底主摄 ，相比 iQOO 15 进光量提升 79%。采用蓝厂自研超光影 HDR 技术和 NICE 3.0 光学重建引擎，还有 CIPA 5.5 专业级防抖。 根据官方海报…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-6236a227798a",
-      "title": "竹本青：iQOO 16 影像预热：5000万三摄，主摄1/1.3\"大底",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-25",
-      "time": "02:01",
-      "publishedAt": "2026-09-25T02:01:15.000Z",
-      "url": "https://www.coolapk.com/feed/73971726",
-      "image": "http://image.coolapk.com/feed/2026/0925/10/4248714_f6492ff9_1674_5536_748@2000x2667.jpg",
-      "summary": "【iQOO 16 影像预热：5000万三摄，主摄升级1/1.3\"大底】 主摄｜50Mp 1/1.3\" CIPA5.5 潜望｜50Mp索尼 超广｜50Mp NICE 3.0+4K实况动图 #iQOO16# #今日热点# #OriginOS7#",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-cf2475d41b66",
-      "title": "竹本青：vivo Y600i 官宣：8000mAh电池，9月30日开售",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-25",
-      "time": "01:01",
-      "publishedAt": "2026-09-25T01:01:11.000Z",
-      "url": "https://www.coolapk.com/feed/73970878",
-      "image": "http://image.coolapk.com/feed/2026/0925/09/4248714_aba57bd4_8070_3332_539@2000x2667.jpg",
-      "summary": "【vivo Y600i 正式官宣：8000mAh电池，9月30日开售】 ● 6.87英寸屏幕｜塑料机身 ● 前置800万｜后置5000万 ● 8000mAh电池+44W快充 ● 169.55*79.2*8.69mm/229g #今日热点# #vivoY600# #OriginOS7#",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -402,26 +562,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-90a50515443d",
-      "title": "防窥屏绝对是个战略失误，到底哪个神人拍板全系标配防窥屏的🤣👍最水桶的一代配上最烂的屏幕，别说什么打差异化，不是谁手机里都有见不得人的东西[笑眼]这屏幕素质梦回n年前小米12的水平😆关闭防窥正面看都有偏色😆#小米18Pro# #小米18ProMax# #小米18Fold#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-25",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73966008",
-      "image": "",
-      "summary": "防窥屏绝对是个战略失误，到底哪个神人拍板全系标配防窥屏的🤣👍最水桶的一代配上最烂的屏幕，别说什么打差异化，不是谁手机里都有见不得人的东西[笑眼]这屏幕素质梦回n年前小米12的水平😆关闭防窥正面看都有偏色😆#小米18Pro# #小米18ProMax# #小米18Fold#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-c5c3e0ddb669",
       "title": "荣耀 Magic9 16+512GB 价格公布：5999 元",
       "source": "酷安热榜",
@@ -502,6 +642,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-c0b0eef654b8",
+      "title": "也是毕业了，天天看他的视频当电子榨菜，三个阔折叠那期，发了个评论：华为王者右上角摄像头挡着设置呢，再想看发现进黑名单了，无敌了，是真玻璃心[针不戳][针不戳] #华为PuraXMax# #小米18Fold#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-25",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73972959",
+      "image": "",
+      "summary": "也是毕业了，天天看他的视频当电子榨菜，三个阔折叠那期，发了个评论：华为王者右上角摄像头挡着设置呢，再想看发现进黑名单了，无敌了，是真玻璃心[针不戳][针不戳] #华为PuraXMax# #小米18Fold#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-3c7ea7ead3f1",
       "title": "苹果反复强调 iPhone Duo 的标准读音，中国人想读成「iPhone 多」不行吗？",
       "source": "知乎热榜",
@@ -555,26 +715,6 @@ window.phoneRadarAuto = {
       "url": "https://9to5google.com/2026/09/24/bellroys-leather-pixel-11-pro-case-is-a-keeper/",
       "image": "",
       "summary": "Like any sane capitalist, I love getting new stuff. But there’s something heartening about those new things settling into age, like a fecund garden becoming slightly unwieldy, or…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-366323c2a306",
-      "title": "Stop buying Pro phones: The Pixel 10a has the features that matter",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-24",
-      "time": "18:15",
-      "publishedAt": "2026-09-24T18:15:10.000Z",
-      "url": "https://www.androidpolice.com/stop-buying-pro-phones-the-pixel-10a-has-the-features-that-matter/",
-      "image": "",
-      "summary": "The Pixel 10a offers a good camera and reliable performance at a lower price, questioning the value of a flagship phone",
       "tags": [
         "Pixel",
         "爆料",
@@ -759,46 +899,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-861ca759f2d5",
-      "title": "Galaxy S27 may use UFS 5.1, memory and storage configurations leak",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-24",
-      "time": "13:10",
-      "publishedAt": "2026-09-24T13:10:19.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s27-may-use-ufs-5-1-memory-and-storage-configurations-leak/",
-      "image": "",
-      "summary": "Previous reports about Samsung’s upcoming Galaxy S27 series claimed that the phones could feature LPDDR6 memory and UFS 5.0 storage. These are expected to offer significantly fast…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-4a5651ec438f",
-      "title": "竹本青：OPPO高管：Find X10标准版内存从12GB到16GB都能挑",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-24",
-      "time": "12:39",
-      "publishedAt": "2026-09-24T12:39:58.000Z",
-      "url": "https://www.coolapk.com/feed/73963100",
-      "image": "http://image.coolapk.com/feed/2026/0924/20/4248714_024295ae_3597_6883_829@1440x1532.jpg",
-      "summary": "【OPPO高管：Find X10标准版 内存从12GB到16GB都能挑】 9月24日，OPPO高管卓世杰分享Find X10系列首销门店用户反馈。 其中，Find X10标准版 受到不少消费者青睐，卓世杰表示：“不仅双2亿镜头群拍得真实还原；内存从 12GB 到 16GB 都能挑，按自己习惯来。” ———————————————— Find X10标准版…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
       ]
     },
     {

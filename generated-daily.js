@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-25T07:46:54.780Z",
+  "updatedAt": "2026-09-25T13:45:56.181Z",
   "issueDate": "2026-09-25",
   "issue": "VOL.260925",
   "title": "手机情报日报",
-  "intro": "今日筛出 13 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、3 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 15 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、3 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 13,
-    "iphone": 8,
+    "total": 15,
+    "iphone": 9,
     "leaks": 8,
     "official": 3,
     "specs": 0
@@ -26,8 +26,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-09-25",
-          "time": "07:46",
-          "publishedAt": "2026-09-25T07:46:54.780Z",
+          "time": "13:45",
+          "publishedAt": "2026-09-25T13:45:56.181Z",
           "url": "https://weibo.com/6048569942/RjzrmvPxt",
           "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ihc8nohkp0j30zb0hj42c.jpg",
           "verdict": "先看",
@@ -134,29 +134,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-03c37b1ae22c",
-          "title": "iQOO 16 手机官宣升级 5000 万像素 1/1.3\" 主摄，采用蓝厂 vivo 旗舰同款算法",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-25",
-          "time": "02:21",
-          "publishedAt": "2026-09-25T02:21:24.000Z",
-          "url": "https://www.ithome.com/1/007/093.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/ecd5698a-b313-4839-b4a3-2c373303108a.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 9 月 25 日消息，iQOO 16 新机将于 9 月 29 日 19:00 发布并开售。 iQOO 手机官方今日宣布，iQOO 16 升级 5000 万超感光 1/1.3\" 大底主摄 ，相比 iQOO 15 进光量提升 79%。采用蓝厂自研超光影 HDR 技术和 NICE 3.0 光学重建引擎，还有 CIPA 5.5 专业级防抖。 根据官方海报…",
-          "detail": "IT之家 9 月 25 日消息，iQOO 16 新机将于 9 月 29 日 19:00 发布并开售。 iQOO 手机官方今日宣布，iQOO 16 升级 5000 万超感光 1/1.3\" 大底主摄 ，相比 iQOO 15 进光量提升 79%。采用蓝厂自研超光影 HDR 技术和 NICE 3.0 光学重建引擎，还有 CIPA 5.5 专业级防抖。 根据官方海报…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "weibo-51cc3b480185",
           "title": "数码闲聊站：荣耀Magic9直接提前公布价格了，16GB+512GB 5999元，感觉怎么…",
           "originalTitle": "",
@@ -165,8 +142,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-09-25",
-          "time": "07:46",
-          "publishedAt": "2026-09-25T07:46:54.780Z",
+          "time": "13:45",
+          "publishedAt": "2026-09-25T13:45:56.181Z",
           "url": "https://weibo.com/6048569942/RjB9l5H9B",
           "image": "",
           "verdict": "先看",
@@ -191,8 +168,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-09-25",
-          "time": "07:46",
-          "publishedAt": "2026-09-25T07:46:54.780Z",
+          "time": "13:45",
+          "publishedAt": "2026-09-25T13:45:56.181Z",
           "url": "https://weibo.com/6048569942/Rju598Xi8",
           "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ihdz1y39cmj31900u0wno.jpg",
           "verdict": "先看",
@@ -203,6 +180,30 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-758de15b8701",
+          "title": "竹本青：【博主更新小米18 Fold爆料销量，称此前数据有问题】 9月25日，博主「RD观测」再次披露小米18 Fold…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-09-25",
+          "time": "13:10",
+          "publishedAt": "2026-09-25T13:10:37.000Z",
+          "url": "https://www.coolapk.com/feed/73985366",
+          "image": "http://image.coolapk.com/feed/2026/0925/21/4248714_b558993a_3683_7821_186@1272x1034.jpg",
+          "verdict": "先看",
+          "takeaway": "【博主更新小米18 Fold爆料销量，称此前数据有问题】 9月25日，博主「RD观测」再次披露小米18 Fold 销售情况：截至2026年第37周（9月7日-9月13日），销量约为3.97万台。 该博主此前曾公布，小米18 Fold开售当日销量达3.6万台；开售7日销量接近8万台，创下小米折叠屏新品历史最高。 针对评论区对数据差异的疑问，该博主回应称：“那…",
+          "detail": "【博主更新小米18 Fold爆料销量，称此前数据有问题】 9月25日，博主「RD观测」再次披露小米18 Fold 销售情况：截至2026年第37周（9月7日-9月13日），销量约为3.97万台。 该博主此前曾公布，小米18 Fold开售当日销量达3.6万台；开售7日销量接近8万台，创下小米折叠屏新品历史最高。 针对评论区对数据差异的疑问，该博主回应称：“那…",
+          "keyPoints": [
+            "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -281,6 +282,59 @@ window.phoneRadarDaily = {
           ],
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-3c7ea7ead3f1",
+          "title": "苹果反复强调 iPhone Duo 的标准读音，中国人想读成「iPhone 多」不行吗？",
+          "originalTitle": "",
+          "source": "知乎热榜",
+          "brand": "iPhone",
+          "type": "市场报告",
+          "trust": "媒体汇总",
+          "date": "2026-09-25",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.zhihu.com/question/2084425616397426894",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "苹果反复强调 iPhone Duo 的标准读音，中国人想读成「iPhone 多」不行吗？",
+          "detail": "苹果反复强调 iPhone Duo 的标准读音，中国人想读成「iPhone 多」不行吗？",
+          "keyPoints": [
+            "市场报告"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "目前更像背景信息，对买手机影响不大。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "launch",
+      "title": "新机与官方发布",
+      "hint": "能直接更新到参数库。",
+      "items": [
+        {
+          "id": "coolapk-user-ff0e62e6398b",
+          "title": "竹本青：【真我Neo8 三星堆限定版 真机曝光，产品已取消上市计划】 9月25日资讯，原realme UI产品经理康达，昨…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-09-25",
+          "time": "07:21",
+          "publishedAt": "2026-09-25T07:21:15.000Z",
+          "url": "https://www.coolapk.com/feed/73978148",
+          "image": "http://image.coolapk.com/feed/2026/0925/15/4248714_35ad82cd_0872_943_945@1440x2224.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "【真我Neo8 三星堆限定版 真机曝光，产品已取消上市计划】 9月25日资讯，原realme UI产品经理康达，昨日晒出真我Neo8 三星堆限定版 真机实拍。该机背板采用青绿半透设计，搭配金色电路纹理图案，整体融合科技风格与古蜀文化主题。 今年1月，真我宣布携手奇遇三星堆 联合打造Neo8 三星堆限定礼盒，产品原定于真我Neo8新品发布会一同推出。但在官宣…",
+          "detail": "【真我Neo8 三星堆限定版 真机曝光，产品已取消上市计划】 9月25日资讯，原realme UI产品经理康达，昨日晒出真我Neo8 三星堆限定版 真机实拍。该机背板采用青绿半透设计，搭配金色电路纹理图案，整体融合科技风格与古蜀文化主题。 今年1月，真我宣布携手奇遇三星堆 联合打造Neo8 三星堆限定礼盒，产品原定于真我Neo8新品发布会一同推出。但在官宣…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
