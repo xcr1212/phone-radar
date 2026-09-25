@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-25T18:35:35.253Z",
+  "updatedAt": "2026-09-25T23:17:40.456Z",
   "news": [
     {
       "id": "weibo-51cc3b480185",
@@ -10,8 +10,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-25",
-      "time": "18:35",
-      "publishedAt": "2026-09-25T18:35:35.253Z",
+      "time": "23:17",
+      "publishedAt": "2026-09-25T23:17:40.456Z",
       "url": "https://weibo.com/6048569942/RjB9l5H9B",
       "image": "",
       "summary": "荣耀Magic9直接提前公布价格了，16GB+512GB 5999元，感觉怎么样？[吃瓜] 6.37英寸1.5K+120Hz LTPS小直屏，极窄四等边，骁龙8E5处理器，8000mAh电池+80W+50W；55Mp 1:1方形前摄，后置200Mp 1/1.4英寸主摄+50Mp超广角+200Mp 1/1.56英寸3.5X潜望长焦；3D超声波指纹，IP68/…",
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-25",
-      "time": "18:35",
-      "publishedAt": "2026-09-25T18:35:35.253Z",
+      "time": "23:17",
+      "publishedAt": "2026-09-25T23:17:40.456Z",
       "url": "https://weibo.com/6048569942/RjzrmvPxt",
       "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ihc8nohkp0j30zb0hj42c.jpg",
       "summary": "去年11月的超前瞻，iPhone 18 Pro Max用了钢壳电池，相较于软包方案提升明显，国行版容量都做到了额定5391mAh，典型值算在5500±。 母系旗舰也在测试钢壳电池+叠片电池技术，争取把后续旗舰机容量做到9000-10000mAh±",
@@ -50,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-25",
-      "time": "18:35",
-      "publishedAt": "2026-09-25T18:35:35.253Z",
+      "time": "23:17",
+      "publishedAt": "2026-09-25T23:17:40.456Z",
       "url": "https://weibo.com/6048569942/Rjygr72Er",
       "image": "",
       "summary": "华子还不预热吗，外部信息Mate90 Pro Max典藏版是宝石工艺星环DECO，有原生镜头环，可以外接一颗巨炮，其它配置应该都知道了K9050 Pro+16GB，6800mAh+100W，50Mp 1/1.28英寸超高动态主摄+可变光圈+抗眩光红外镀膜， 200Mp 1/1.28英寸潜望镜，新一代双层OLED",
@@ -70,8 +70,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-25",
-      "time": "18:35",
-      "publishedAt": "2026-09-25T18:35:35.253Z",
+      "time": "23:17",
+      "publishedAt": "2026-09-25T23:17:40.456Z",
       "url": "https://weibo.com/6048569942/Rju598Xi8",
       "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ihdz1y39cmj31900u0wno.jpg",
       "summary": "小米18 Pro系列全系2亿超大底主摄，传感器来自思特威——SCC80XS、SCC90XS，后者支持新一代LOFIC技术，拥有超高动态范围，全系双两亿超高清影像，国产Sensor赋能“传奇一瞬”旗舰影像，小米后面还有很多新机用思特威[流鼻血]",
@@ -79,6 +79,66 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "微博"
+      ]
+    },
+    {
+      "id": "auto-6cd26a6f98af",
+      "title": "苹果为 TestFlight 应用新增横屏模式支持，为旗下首款折叠屏手机 iPhone Duo 上市做准备",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-25",
+      "time": "22:56",
+      "publishedAt": "2026-09-25T22:56:16.000Z",
+      "url": "https://www.ithome.com/1/007/261.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/7b6c87e2-ecd4-4f06-88eb-260cd72d78ce.png",
+      "summary": "IT之家 9 月 26 日消息，随着苹果首款可折叠手机 iPhone Duo 即将上市，官方本周更新 TestFlight 应用至 4.4.0 版本，为应用新增 iPhone 横屏模式支持，同时适配 macOS 27 Golden Gate 中的可调整大小 iPhone 镜像窗口功能。 根据苹果公布的更新说明，在本次更新后，应用要求系统版本 27.0 起步…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-de7551f87099",
+      "title": "You told us your favorite Pixel 11 Pro alternative, and it’s not another Pixel",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-25",
+      "time": "21:19",
+      "publishedAt": "2026-09-25T21:19:35.000Z",
+      "url": "https://www.androidauthority.com/best-pixel-11-pro-alternative-poll-results-3715761/",
+      "image": "",
+      "summary": "Five alternatives entered and only one could top our poll, but there was a bigger surprise at the bottom.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6264406021ee",
+      "title": "微软发布 Win11 Beta / Experimental 频道多个预览版：开始菜单优化手机助手，新增能源推荐",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-25",
+      "time": "17:03",
+      "publishedAt": "2026-09-25T17:03:34.000Z",
+      "url": "https://www.ithome.com/1/007/255.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/68e1883f-05ce-411b-a52b-e5bb0d96be21.png",
+      "summary": "IT之家 9 月 26 日消息，微软昨天（9 月 25 日）发布博文，邀请 Beta 和 Experimental 频道的 Windows Insider 项目成员，测试适用于 Windows 11 的多个预览版更新，本次更新包含多个不同版本： Beta 26H2：Build 26220.9568 Experimental 26H2：Build 26340…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -462,26 +522,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-4fe4423b3cd6",
-      "title": "HMD Vibe2 Pro 手机官宣：联发科天玑 6400 芯片、6400 万像素主摄",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-25",
-      "time": "05:44",
-      "publishedAt": "2026-09-25T05:44:02.000Z",
-      "url": "https://www.ithome.com/1/007/125.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/f1a58e79-d1e3-4537-9336-d08985fefeb9.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 25 日消息，科技媒体 GSMArena 今天（9 月 25 日）发布博文，报道称 HMD 于今年 5 月发布 Vibe2 智能手机后 ，计划于 9 月 29 日推出 Vibe2 Pro 版手机，搭载联发科天玑 6400 芯片，最高 8GB 内存和 128GB 存储空间。 电池方面，HMD Vibe2 Pro 手机配备 6000mAh 电…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-f88c473bc838",
       "title": "Celebrating “What Holds Us” on iPhone 18 Pro",
       "source": "Apple Newsroom",
@@ -642,28 +682,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-c5c3e0ddb669",
-      "title": "荣耀 Magic9 16+512GB 价格公布：5999 元",
-      "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-25",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73957907",
-      "image": "",
-      "summary": "荣耀 Magic9 16+512GB 价格公布：5999 元",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-4d59b8f816ee",
-      "title": "做小米销售这段时间，感触挺深。看着Xiaomi 18 Pro Max的定价，能理解硬件、内存成本上涨，但顾客第一反应还是觉得贵。介绍的时候要一遍遍解释，讲配置讲工艺，很多人听完还是犹豫。卖得吃力，有时候真觉得心累。热爱这个品牌，但面对越来越高的门槛，偶尔也会迷茫，不知道还能不能坚持，有点想退出这个行业了。",
+      "id": "newsnow-523d4a2b6639",
+      "title": "今天去现场看机了，黑子可以消停了。正常的正面角度观看这个屏幕是毫无问题的。大角度侧面纯属鸡蛋里挑骨头。喜欢的可以放心入。不是拿个小米手机发动态你就是米粉。大家自行鉴别。",
       "source": "酷安热榜",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
@@ -672,9 +692,9 @@ window.phoneRadarAuto = {
       "date": "2026-09-25",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73941733",
+      "url": "https://www.coolapk.com/feed/73983124",
       "image": "",
-      "summary": "做小米销售这段时间，感触挺深。看着Xiaomi 18 Pro Max的定价，能理解硬件、内存成本上涨，但顾客第一反应还是觉得贵。介绍的时候要一遍遍解释，讲配置讲工艺，很多人听完还是犹豫。卖得吃力，有时候真觉得心累。热爱这个品牌，但面对越来越高的门槛，偶尔也会迷茫，不知道还能不能坚持，有点想退出这个行业了。",
+      "summary": "今天去现场看机了，黑子可以消停了。正常的正面角度观看这个屏幕是毫无问题的。大角度侧面纯属鸡蛋里挑骨头。喜欢的可以放心入。不是拿个小米手机发动态你就是米粉。大家自行鉴别。",
       "tags": [
         "Xiaomi",
         "爆料",
@@ -682,28 +702,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-67d8eac4b8a1",
-      "title": "女朋友苹果换小米，直接18promax现场提货，前前后后估计十几个人拿新机走了，小米的差异化真的成功了[捂脸]",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-25",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73940151",
-      "image": "",
-      "summary": "女朋友苹果换小米，直接18promax现场提货，前前后后估计十几个人拿新机走了，小米的差异化真的成功了[捂脸]",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-c0b0eef654b8",
-      "title": "也是毕业了，天天看他的视频当电子榨菜，三个阔折叠那期，发了个评论：华为王者右上角摄像头挡着设置呢，再想看发现进黑名单了，无敌了，是真玻璃心[针不戳][针不戳] #华为PuraXMax# #小米18Fold#",
+      "id": "newsnow-243a4475abd5",
+      "title": "是我老了吗[doge笑哭]看的久了咋感觉这个绿色比玫瑰金好看些[捂脸]还有这图是真的，但是是Mate90 Pro Max的模型机，真机质感应该不错，到时候摸摸去#华为PuraXView# #鸿蒙7# #华为Mate80ProMax#",
       "source": "酷安热榜",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
@@ -712,9 +712,9 @@ window.phoneRadarAuto = {
       "date": "2026-09-25",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73972959",
+      "url": "https://www.coolapk.com/feed/73988332",
       "image": "",
-      "summary": "也是毕业了，天天看他的视频当电子榨菜，三个阔折叠那期，发了个评论：华为王者右上角摄像头挡着设置呢，再想看发现进黑名单了，无敌了，是真玻璃心[针不戳][针不戳] #华为PuraXMax# #小米18Fold#",
+      "summary": "是我老了吗[doge笑哭]看的久了咋感觉这个绿色比玫瑰金好看些[捂脸]还有这图是真的，但是是Mate90 Pro Max的模型机，真机质感应该不错，到时候摸摸去#华为PuraXView# #鸿蒙7# #华为Mate80ProMax#",
       "tags": [
         "Huawei",
         "爆料",
@@ -722,21 +722,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-47cff719b503",
-      "title": "兄弟们，9月19日收到货，现在发现屏幕上有一根线怎么办啊 一根黑线 #iPhone18Pro系列首发上手# #iPhone18Pro# #iPhone18ProMax#",
+      "id": "newsnow-6edeadb68f79",
+      "title": "果然物料到了，挡都挡不住，确实是最年轻的一代Mate！#华为PuraXView#",
       "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-25",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73940826",
+      "url": "https://www.coolapk.com/feed/73988395",
       "image": "",
-      "summary": "兄弟们，9月19日收到货，现在发现屏幕上有一根线怎么办啊 一根黑线 #iPhone18Pro系列首发上手# #iPhone18Pro# #iPhone18ProMax#",
+      "summary": "果然物料到了，挡都挡不住，确实是最年轻的一代Mate！#华为PuraXView#",
       "tags": [
-        "iPhone",
+        "Huawei",
         "爆料",
         "NewsNow"
       ]

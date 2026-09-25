@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-25T18:35:35.253Z",
+  "updatedAt": "2026-09-25T23:17:40.456Z",
   "issueDate": "2026-09-25",
   "issue": "VOL.260925",
   "title": "手机情报日报",
-  "intro": "今日筛出 13 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、2 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 15 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、2 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 13,
+    "total": 15,
     "iphone": 8,
     "leaks": 8,
     "official": 2,
@@ -18,6 +18,29 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
+          "id": "auto-6cd26a6f98af",
+          "title": "苹果为 TestFlight 应用新增横屏模式支持，为旗下首款折叠屏手机 iPhone Duo 上市做准备",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-25",
+          "time": "22:56",
+          "publishedAt": "2026-09-25T22:56:16.000Z",
+          "url": "https://www.ithome.com/1/007/261.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/7b6c87e2-ecd4-4f06-88eb-260cd72d78ce.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 9 月 26 日消息，随着苹果首款可折叠手机 iPhone Duo 即将上市，官方本周更新 TestFlight 应用至 4.4.0 版本，为应用新增 iPhone 横屏模式支持，同时适配 macOS 27 Golden Gate 中的可调整大小 iPhone 镜像窗口功能。 根据苹果公布的更新说明，在本次更新后，应用要求系统版本 27.0 起步…",
+          "detail": "IT之家 9 月 26 日消息，随着苹果首款可折叠手机 iPhone Duo 即将上市，官方本周更新 TestFlight 应用至 4.4.0 版本，为应用新增 iPhone 横屏模式支持，同时适配 macOS 27 Golden Gate 中的可调整大小 iPhone 镜像窗口功能。 根据苹果公布的更新说明，在本次更新后，应用要求系统版本 27.0 起步…",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "weibo-3a1ec5c7ba46",
           "title": "数码闲聊站：去年11月的超前瞻，iPhone 18 Pro Max用了钢壳电池，相较于软包…",
           "originalTitle": "",
@@ -26,8 +49,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-09-25",
-          "time": "18:35",
-          "publishedAt": "2026-09-25T18:35:35.253Z",
+          "time": "23:17",
+          "publishedAt": "2026-09-25T23:17:40.456Z",
           "url": "https://weibo.com/6048569942/RjzrmvPxt",
           "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ihc8nohkp0j30zb0hj42c.jpg",
           "verdict": "先看",
@@ -38,29 +61,6 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-47cff719b503",
-          "title": "兄弟们，9月19日收到货，现在发现屏幕上有一根线怎么办啊 一根黑线 #iPhone18Pro系列首发上手# #iPhone18Pro# #iPhone18ProMax#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-09-25",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73940826",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "兄弟们，9月19日收到货，现在发现屏幕上有一根线怎么办啊 一根黑线 #iPhone18Pro系列首发上手# #iPhone18Pro# #iPhone18ProMax#",
-          "detail": "兄弟们，9月19日收到货，现在发现屏幕上有一根线怎么办啊 一根黑线 #iPhone18Pro系列首发上手# #iPhone18Pro# #iPhone18ProMax#",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -166,8 +166,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-09-25",
-          "time": "18:35",
-          "publishedAt": "2026-09-25T18:35:35.253Z",
+          "time": "23:17",
+          "publishedAt": "2026-09-25T23:17:40.456Z",
           "url": "https://weibo.com/6048569942/RjB9l5H9B",
           "image": "",
           "verdict": "先看",
@@ -192,8 +192,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-09-25",
-          "time": "18:35",
-          "publishedAt": "2026-09-25T18:35:35.253Z",
+          "time": "23:17",
+          "publishedAt": "2026-09-25T23:17:40.456Z",
           "url": "https://weibo.com/6048569942/Rju598Xi8",
           "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ihdz1y39cmj31900u0wno.jpg",
           "verdict": "先看",
@@ -269,6 +269,29 @@ window.phoneRadarDaily = {
       "hint": "能直接更新到参数库。",
       "items": [
         {
+          "id": "auto-6264406021ee",
+          "title": "微软发布 Win11 Beta / Experimental 频道多个预览版：开始菜单优化手机助手，新增能源推荐",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-25",
+          "time": "17:03",
+          "publishedAt": "2026-09-25T17:03:34.000Z",
+          "url": "https://www.ithome.com/1/007/255.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/68e1883f-05ce-411b-a52b-e5bb0d96be21.png",
+          "verdict": "扫一眼",
+          "takeaway": "IT之家 9 月 26 日消息，微软昨天（9 月 25 日）发布博文，邀请 Beta 和 Experimental 频道的 Windows Insider 项目成员，测试适用于 Windows 11 的多个预览版更新，本次更新包含多个不同版本： Beta 26H2：Build 26220.9568 Experimental 26H2：Build 26340…",
+          "detail": "IT之家 9 月 26 日消息，微软昨天（9 月 25 日）发布博文，邀请 Beta 和 Experimental 频道的 Windows Insider 项目成员，测试适用于 Windows 11 的多个预览版更新，本次更新包含多个不同版本： Beta 26H2：Build 26220.9568 Experimental 26H2：Build 26340…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
           "id": "auto-7062915ef385",
           "title": "Counterpoint：2025-2030 年间，全球 200 美元以下智能手机年出货将减少超 2.3 亿部",
           "originalTitle": "",
@@ -290,6 +313,29 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响购买预算，值得先看。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
+          "id": "coolapk-user-ff0e62e6398b",
+          "title": "竹本青：【真我Neo8 三星堆限定版 真机曝光，产品已取消上市计划】 9月25日资讯，原realme UI产品经理康达，昨…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-09-25",
+          "time": "07:21",
+          "publishedAt": "2026-09-25T07:21:15.000Z",
+          "url": "https://www.coolapk.com/feed/73978148",
+          "image": "http://image.coolapk.com/feed/2026/0925/15/4248714_35ad82cd_0872_943_945@1440x2224.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "【真我Neo8 三星堆限定版 真机曝光，产品已取消上市计划】 9月25日资讯，原realme UI产品经理康达，昨日晒出真我Neo8 三星堆限定版 真机实拍。该机背板采用青绿半透设计，搭配金色电路纹理图案，整体融合科技风格与古蜀文化主题。 今年1月，真我宣布携手奇遇三星堆 联合打造Neo8 三星堆限定礼盒，产品原定于真我Neo8新品发布会一同推出。但在官宣…",
+          "detail": "【真我Neo8 三星堆限定版 真机曝光，产品已取消上市计划】 9月25日资讯，原realme UI产品经理康达，昨日晒出真我Neo8 三星堆限定版 真机实拍。该机背板采用青绿半透设计，搭配金色电路纹理图案，整体融合科技风格与古蜀文化主题。 今年1月，真我宣布携手奇遇三星堆 联合打造Neo8 三星堆限定礼盒，产品原定于真我Neo8新品发布会一同推出。但在官宣…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -299,44 +345,44 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "newsnow-c5c3e0ddb669",
-          "title": "荣耀 Magic9 16+512GB 价格公布：5999 元",
+          "id": "newsnow-243a4475abd5",
+          "title": "是我老了吗[doge笑哭]看的久了咋感觉这个绿色比玫瑰金好看些[捂脸]还有这图是真的，但是是Mate90 Pro Max的模型机，真机质感应该不错，到时候摸摸去#华为PuraXView# #鸿蒙7# #华为Mate80ProMax#",
           "originalTitle": "",
           "source": "酷安热榜",
-          "brand": "HONOR",
+          "brand": "Huawei",
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-09-25",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73957907",
+          "url": "https://www.coolapk.com/feed/73988332",
           "image": "",
-          "verdict": "先看",
-          "takeaway": "荣耀 Magic9 16+512GB 价格公布：5999 元",
-          "detail": "荣耀 Magic9 16+512GB 价格公布：5999 元",
+          "verdict": "扫一眼",
+          "takeaway": "是我老了吗[doge笑哭]看的久了咋感觉这个绿色比玫瑰金好看些[捂脸]还有这图是真的，但是是Mate90 Pro Max的模型机，真机质感应该不错，到时候摸摸去#华为PuraXView# #鸿蒙7# #华为Mate80ProMax#",
+          "detail": "是我老了吗[doge笑哭]看的久了咋感觉这个绿色比玫瑰金好看些[捂脸]还有这图是真的，但是是Mate90 Pro Max的模型机，真机质感应该不错，到时候摸摸去#华为PuraXView# #鸿蒙7# #华为Mate80ProMax#",
           "keyPoints": [
-            "成本 / 价格"
+            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-67d8eac4b8a1",
-          "title": "女朋友苹果换小米，直接18promax现场提货，前前后后估计十几个人拿新机走了，小米的差异化真的成功了[捂脸]",
+          "id": "newsnow-6edeadb68f79",
+          "title": "果然物料到了，挡都挡不住，确实是最年轻的一代Mate！#华为PuraXView#",
           "originalTitle": "",
           "source": "酷安热榜",
-          "brand": "Xiaomi",
+          "brand": "Huawei",
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-09-25",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73940151",
+          "url": "https://www.coolapk.com/feed/73988395",
           "image": "",
-          "verdict": "先看",
-          "takeaway": "女朋友苹果换小米，直接18promax现场提货，前前后后估计十几个人拿新机走了，小米的差异化真的成功了[捂脸]",
-          "detail": "女朋友苹果换小米，直接18promax现场提货，前前后后估计十几个人拿新机走了，小米的差异化真的成功了[捂脸]",
+          "verdict": "扫一眼",
+          "takeaway": "果然物料到了，挡都挡不住，确实是最年轻的一代Mate！#华为PuraXView#",
+          "detail": "果然物料到了，挡都挡不住，确实是最年轻的一代Mate！#华为PuraXView#",
           "keyPoints": [
             "爆料"
           ],
