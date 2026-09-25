@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-25T00:32:40.594Z",
+  "updatedAt": "2026-09-25T07:46:54.780Z",
   "issueDate": "2026-09-25",
   "issue": "VOL.260925",
   "title": "手机情报日报",
-  "intro": "今日筛出 17 条重点，其中 8 条是重点爆料，包含 11 条 iPhone 相关、3 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 13 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、3 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 17,
-    "iphone": 11,
+    "total": 13,
+    "iphone": 8,
     "leaks": 8,
     "official": 3,
     "specs": 0
@@ -26,8 +26,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-09-25",
-          "time": "00:32",
-          "publishedAt": "2026-09-25T00:32:40.594Z",
+          "time": "07:46",
+          "publishedAt": "2026-09-25T07:46:54.780Z",
           "url": "https://weibo.com/6048569942/RjzrmvPxt",
           "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ihc8nohkp0j30zb0hj42c.jpg",
           "verdict": "先看",
@@ -134,23 +134,23 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-47420afd356b",
-          "title": "许斐确认小米 18 Pro 系列手机将走向全球，推出国际版",
+          "id": "auto-03c37b1ae22c",
+          "title": "iQOO 16 手机官宣升级 5000 万像素 1/1.3\" 主摄，采用蓝厂 vivo 旗舰同款算法",
           "originalTitle": "",
           "source": "IT之家",
-          "brand": "Xiaomi",
+          "brand": "vivo",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-09-24",
-          "time": "12:58",
-          "publishedAt": "2026-09-24T12:58:49.000Z",
-          "url": "https://www.ithome.com/1/007/010.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/1d0b8298-80cc-46b7-b449-579401b25ede.png?x-bce-process=image/format,f_auto",
+          "date": "2026-09-25",
+          "time": "02:21",
+          "publishedAt": "2026-09-25T02:21:24.000Z",
+          "url": "https://www.ithome.com/1/007/093.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/ecd5698a-b313-4839-b4a3-2c373303108a.jpg",
           "verdict": "先看",
-          "takeaway": "IT之家 9 月 24 日消息，小米集团副总裁、集团 CMO 许斐今天在 X 平台宣布，小米 18 Pro 系列手机将走向全球，推出国际版。 据IT之家了解，小米近几年的旗舰直板机型，一般只有数字标准版 / Ultra 机型会推出国际版。 作为参考，小米 18 Pro 手机采用新一代自研屏幕封装工艺，0.99mm 极窄四等边框；机身采用大微弧四曲中框设计，…",
-          "detail": "IT之家 9 月 24 日消息，小米集团副总裁、集团 CMO 许斐今天在 X 平台宣布，小米 18 Pro 系列手机将走向全球，推出国际版。 据IT之家了解，小米近几年的旗舰直板机型，一般只有数字标准版 / Ultra 机型会推出国际版。 作为参考，小米 18 Pro 手机采用新一代自研屏幕封装工艺，0.99mm 极窄四等边框；机身采用大微弧四曲中框设计，…",
+          "takeaway": "IT之家 9 月 25 日消息，iQOO 16 新机将于 9 月 29 日 19:00 发布并开售。 iQOO 手机官方今日宣布，iQOO 16 升级 5000 万超感光 1/1.3\" 大底主摄 ，相比 iQOO 15 进光量提升 79%。采用蓝厂自研超光影 HDR 技术和 NICE 3.0 光学重建引擎，还有 CIPA 5.5 专业级防抖。 根据官方海报…",
+          "detail": "IT之家 9 月 25 日消息，iQOO 16 新机将于 9 月 29 日 19:00 发布并开售。 iQOO 手机官方今日宣布，iQOO 16 升级 5000 万超感光 1/1.3\" 大底主摄 ，相比 iQOO 15 进光量提升 79%。采用蓝厂自研超光影 HDR 技术和 NICE 3.0 光学重建引擎，还有 CIPA 5.5 专业级防抖。 根据官方海报…",
           "keyPoints": [
-            "屏幕形态"
+            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -165,8 +165,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-09-25",
-          "time": "00:32",
-          "publishedAt": "2026-09-25T00:32:40.594Z",
+          "time": "07:46",
+          "publishedAt": "2026-09-25T07:46:54.780Z",
           "url": "https://weibo.com/6048569942/RjB9l5H9B",
           "image": "",
           "verdict": "先看",
@@ -191,8 +191,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-09-25",
-          "time": "00:32",
-          "publishedAt": "2026-09-25T00:32:40.594Z",
+          "time": "07:46",
+          "publishedAt": "2026-09-25T07:46:54.780Z",
           "url": "https://weibo.com/6048569942/Rju598Xi8",
           "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ihdz1y39cmj31900u0wno.jpg",
           "verdict": "先看",
@@ -261,29 +261,6 @@ window.phoneRadarDaily = {
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         },
         {
-          "id": "auto-6fa42499516a",
-          "title": "苹果 iPhone 4“天线门”发布会完整问答视频流出，乔布斯、库克现场答记者问",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-24",
-          "time": "12:51",
-          "publishedAt": "2026-09-24T12:51:05.000Z",
-          "url": "https://www.ithome.com/1/007/002.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/5cdc5cbc-3230-40c7-98db-27542c00bba1.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 9 月 24 日消息，一段时长 47 分钟的苹果 2010 年 iPhone 4“天线门”新闻发布会问答环节视频近日出现在 YouTube 上。视频记录了时任苹果 CEO 史蒂夫 · 乔布斯（Steve Jobs）、蒂姆 · 库克（Tim Cook）以及鲍勃 · 曼斯菲尔德（Bob Mansfield）回答媒体记者提问的完整过程。 据IT之家了解…",
-          "detail": "IT之家 9 月 24 日消息，一段时长 47 分钟的苹果 2010 年 iPhone 4“天线门”新闻发布会问答环节视频近日出现在 YouTube 上。视频记录了时任苹果 CEO 史蒂夫 · 乔布斯（Steve Jobs）、蒂姆 · 库克（Tim Cook）以及鲍勃 · 曼斯菲尔德（Bob Mansfield）回答媒体记者提问的完整过程。 据IT之家了解…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
-        {
           "id": "auto-728bbee10ddb",
           "title": "iPhone 发布 / 上市相关消息",
           "originalTitle": "",
@@ -304,52 +281,6 @@ window.phoneRadarDaily = {
           ],
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-173660422432",
-          "title": "众测招募｜泡泡骚 Low Pro：给新 iPhone 添一件极简「背心」",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-09-25",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/114410",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "众测招募｜泡泡骚 Low Pro：给新 iPhone 添一件极简「背心」",
-          "detail": "众测招募｜泡泡骚 Low Pro：给新 iPhone 添一件极简「背心」",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-8b8007a6b7d5",
-          "title": "iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-09-25",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/114449",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事",
-          "detail": "iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
@@ -404,29 +335,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-2fe147d43512",
-          "title": "准备润荣耀了，预订了荣耀的Magic 9 pro max，没人觉得这次荣耀的pm是堆料最狠的吗，荣耀这次马达换成了比0916还大的1018规格，5G频段是所有手机中用的最多最全的，价格还可能是几家最便宜的，最关键的是国庆之前就能拿到，不耽误出去玩，感觉无敌了[受虐滑稽] #荣耀Magic9ProMax# #鸿蒙7#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-09-25",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73952359",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "准备润荣耀了，预订了荣耀的Magic 9 pro max，没人觉得这次荣耀的pm是堆料最狠的吗，荣耀这次马达换成了比0916还大的1018规格，5G频段是所有手机中用的最多最全的，价格还可能是几家最便宜的，最关键的是国庆之前就能拿到，不耽误出去玩，感觉无敌了[受虐滑稽] #荣耀Magic9ProMax# #鸿蒙7#",
-          "detail": "准备润荣耀了，预订了荣耀的Magic 9 pro max，没人觉得这次荣耀的pm是堆料最狠的吗，荣耀这次马达换成了比0916还大的1018规格，5G频段是所有手机中用的最多最全的，价格还可能是几家最便宜的，最关键的是国庆之前就能拿到，不耽误出去玩，感觉无敌了[受虐滑稽] #荣耀Magic9ProMax# #鸿蒙7#",
-          "keyPoints": [
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     }
