@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-25T13:45:56.181Z",
+  "updatedAt": "2026-09-25T18:35:35.253Z",
   "news": [
     {
       "id": "weibo-51cc3b480185",
@@ -10,8 +10,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-25",
-      "time": "13:45",
-      "publishedAt": "2026-09-25T13:45:56.181Z",
+      "time": "18:35",
+      "publishedAt": "2026-09-25T18:35:35.253Z",
       "url": "https://weibo.com/6048569942/RjB9l5H9B",
       "image": "",
       "summary": "荣耀Magic9直接提前公布价格了，16GB+512GB 5999元，感觉怎么样？[吃瓜] 6.37英寸1.5K+120Hz LTPS小直屏，极窄四等边，骁龙8E5处理器，8000mAh电池+80W+50W；55Mp 1:1方形前摄，后置200Mp 1/1.4英寸主摄+50Mp超广角+200Mp 1/1.56英寸3.5X潜望长焦；3D超声波指纹，IP68/…",
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-25",
-      "time": "13:45",
-      "publishedAt": "2026-09-25T13:45:56.181Z",
+      "time": "18:35",
+      "publishedAt": "2026-09-25T18:35:35.253Z",
       "url": "https://weibo.com/6048569942/RjzrmvPxt",
       "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ihc8nohkp0j30zb0hj42c.jpg",
       "summary": "去年11月的超前瞻，iPhone 18 Pro Max用了钢壳电池，相较于软包方案提升明显，国行版容量都做到了额定5391mAh，典型值算在5500±。 母系旗舰也在测试钢壳电池+叠片电池技术，争取把后续旗舰机容量做到9000-10000mAh±",
@@ -50,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-25",
-      "time": "13:45",
-      "publishedAt": "2026-09-25T13:45:56.181Z",
+      "time": "18:35",
+      "publishedAt": "2026-09-25T18:35:35.253Z",
       "url": "https://weibo.com/6048569942/Rjygr72Er",
       "image": "",
       "summary": "华子还不预热吗，外部信息Mate90 Pro Max典藏版是宝石工艺星环DECO，有原生镜头环，可以外接一颗巨炮，其它配置应该都知道了K9050 Pro+16GB，6800mAh+100W，50Mp 1/1.28英寸超高动态主摄+可变光圈+抗眩光红外镀膜， 200Mp 1/1.28英寸潜望镜，新一代双层OLED",
@@ -70,8 +70,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-25",
-      "time": "13:45",
-      "publishedAt": "2026-09-25T13:45:56.181Z",
+      "time": "18:35",
+      "publishedAt": "2026-09-25T18:35:35.253Z",
       "url": "https://weibo.com/6048569942/Rju598Xi8",
       "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ihdz1y39cmj31900u0wno.jpg",
       "summary": "小米18 Pro系列全系2亿超大底主摄，传感器来自思特威——SCC80XS、SCC90XS，后者支持新一代LOFIC技术，拥有超高动态范围，全系双两亿超高清影像，国产Sensor赋能“传奇一瞬”旗舰影像，小米后面还有很多新机用思特威[流鼻血]",
@@ -79,6 +79,106 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "微博"
+      ]
+    },
+    {
+      "id": "auto-8c75265f3cab",
+      "title": "Some iPhone 18 Pro Max Users Experiencing AT&T Cellular Issues",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-25",
+      "time": "17:02",
+      "publishedAt": "2026-09-25T17:02:15.000Z",
+      "url": "https://www.macrumors.com/2026/09/25/iphone-18-pro-max-att-cellular-issues/",
+      "image": "https://images.macrumors.com/article-new/2026/09/deep-black-iphone-18-pro.jpg",
+      "summary": "A subset of iPhone 18 Pro Max users in the U.S. are experiencing issues with AT&T cellular connectivity and/or eSIM provisioning, according to complaints across the MacRumors Foru…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ea96905ce4dc",
+      "title": "Vivo S2 FE launch date finally revealed, Vivo’s first 10,000mAh battery phone for India incoming",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-25",
+      "time": "16:30",
+      "publishedAt": "2026-09-25T16:30:53.000Z",
+      "url": "https://www.gizmochina.com/2026/09/25/vivo-s2-fe-launch-date-revealed/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Vivo-S2-FE-launch-date-185x300.png?x96852",
+      "summary": "Vivo is rumored to be gearing up to unveil a new S-series phone called the Vivo S2 FE. The handset has been kept under wraps until now, but its existence has been confirmed throug…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-cd62b8e14b09",
+      "title": "竹本青：【Xiaomi Life 上新：NFC手机玩偶盲盒，售价69元起】 单盒 —— 69元 套盒（6个）—— 399元…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-25",
+      "time": "16:03",
+      "publishedAt": "2026-09-25T16:03:54.000Z",
+      "url": "https://www.coolapk.com/feed/73988907",
+      "image": "http://image.coolapk.com/feed/2026/0926/00/4248714_6a18b3a3_2232_2265_484@1080x1188.jpg",
+      "summary": "【Xiaomi Life 上新：NFC手机玩偶盲盒，售价69元起】 单盒 —— 69元 套盒（6个）—— 399元 ● 水獭、海豹、羊、狍子、卡皮巴拉、考拉 ● 内置NFC标签，可与18 Pro系列 背屏互动 ● 1mm挂绳｜10cm尺寸｜100%聚酯纤维 #今日热点# #HyperOS4# #小米18ProMax#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-76252db0d37a",
+      "title": "The MacRumors Show: Tyler Stalman Talks iPhone 18 Pro's Camera",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-25",
+      "time": "15:58",
+      "publishedAt": "2026-09-25T15:58:50.000Z",
+      "url": "https://www.macrumors.com/2026/09/25/the-macrumors-show-tyler-stalman-iphone-18-pro-camera/",
+      "image": "",
+      "summary": "Photographer and videographer Tyler Stalman joins us on this week's episode of The MacRumors Show to examine whether the iPhone 18 Pro 's camera is a compelling reason to upgrade,…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7062915ef385",
+      "title": "Counterpoint：2025-2030 年间，全球 200 美元以下智能手机年出货将减少超 2.3 亿部",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-25",
+      "time": "15:05",
+      "publishedAt": "2026-09-25T15:05:33.000Z",
+      "url": "https://www.ithome.com/1/007/248.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/1a579a1b-6005-43ad-bd8a-fc54f9f7c48c.jpg?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_21,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_8,y_8",
+      "summary": "IT之家 9 月 25 日消息，当地时间 24 日，Counterpoint Research 发布的最新《按价格区间划分的智能手机出货量预测》追踪报告预计，2025 年至 2030 年间，全球 200 美元 （IT之家注：现汇率约合 1,343 元人民币） 以下智能手机的年出货量 将减少超过 2.3 亿部 ，降幅约 40%。 与此同时，全球智能手机整体市…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -143,7 +243,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-758de15b8701",
-      "title": "竹本青：【博主更新小米18 Fold爆料销量，称此前数据有问题】 9月25日，博主「RD观测」再次披露小米18 Fold…",
+      "title": "竹本青：【博主更新小米18 Fold 销量爆料：截至9月13日约3.97万台，此前数据有问题】 9月25日，博主「RD观测…",
       "source": "竹本青",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
@@ -154,7 +254,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-09-25T13:10:37.000Z",
       "url": "https://www.coolapk.com/feed/73985366",
       "image": "http://image.coolapk.com/feed/2026/0925/21/4248714_b558993a_3683_7821_186@1272x1034.jpg",
-      "summary": "【博主更新小米18 Fold爆料销量，称此前数据有问题】 9月25日，博主「RD观测」再次披露小米18 Fold 销售情况：截至2026年第37周（9月7日-9月13日），销量约为3.97万台。 该博主此前曾公布，小米18 Fold开售当日销量达3.6万台；开售7日销量接近8万台，创下小米折叠屏新品历史最高。 针对评论区对数据差异的疑问，该博主回应称：“那…",
+      "summary": "【博主更新小米18 Fold 销量爆料：截至9月13日约3.97万台，此前数据有问题】 9月25日，博主「RD观测」再次披露小米18 Fold 首销情况：截至2026年第37周（9月7日-9月13日），销量约为3.97万台。 该博主此前曾爆料，小米18 Fold开售当日销量达3.6万台；开售7日销量接近8万台，创下小米折叠屏新品历史最高。 针对数据的差异，…",
       "tags": [
         "Xiaomi",
         "爆料",
@@ -542,26 +642,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-e0723473c4d7",
-      "title": "我一定会回来……吗？小手用户与 iPhone 17 Pro Max 的一年",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-09-25",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/114366",
-      "image": "",
-      "summary": "我一定会回来……吗？小手用户与 iPhone 17 Pro Max 的一年",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-c5c3e0ddb669",
       "title": "荣耀 Magic9 16+512GB 价格公布：5999 元",
       "source": "酷安热榜",
@@ -622,26 +702,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-47cff719b503",
-      "title": "兄弟们，9月19日收到货，现在发现屏幕上有一根线怎么办啊 一根黑线 #iPhone18Pro系列首发上手# #iPhone18Pro# #iPhone18ProMax#",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-25",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73940826",
-      "image": "",
-      "summary": "兄弟们，9月19日收到货，现在发现屏幕上有一根线怎么办啊 一根黑线 #iPhone18Pro系列首发上手# #iPhone18Pro# #iPhone18ProMax#",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-c0b0eef654b8",
       "title": "也是毕业了，天天看他的视频当电子榨菜，三个阔折叠那期，发了个评论：华为王者右上角摄像头挡着设置呢，再想看发现进黑名单了，无敌了，是真玻璃心[针不戳][针不戳] #华为PuraXMax# #小米18Fold#",
       "source": "酷安热榜",
@@ -657,6 +717,26 @@ window.phoneRadarAuto = {
       "summary": "也是毕业了，天天看他的视频当电子榨菜，三个阔折叠那期，发了个评论：华为王者右上角摄像头挡着设置呢，再想看发现进黑名单了，无敌了，是真玻璃心[针不戳][针不戳] #华为PuraXMax# #小米18Fold#",
       "tags": [
         "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-47cff719b503",
+      "title": "兄弟们，9月19日收到货，现在发现屏幕上有一根线怎么办啊 一根黑线 #iPhone18Pro系列首发上手# #iPhone18Pro# #iPhone18ProMax#",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-25",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73940826",
+      "image": "",
+      "summary": "兄弟们，9月19日收到货，现在发现屏幕上有一根线怎么办啊 一根黑线 #iPhone18Pro系列首发上手# #iPhone18Pro# #iPhone18ProMax#",
+      "tags": [
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -897,26 +977,6 @@ window.phoneRadarAuto = {
       "summary": "Split-screen display dimming could make it to the early 2027 Samsung flagship.",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-494e4981e445",
-      "title": "Full iPhone 4 'Antennagate' Q&A Video Surfaces After 16 Years",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-24",
-      "time": "12:39",
-      "publishedAt": "2026-09-24T12:39:34.000Z",
-      "url": "https://www.macrumors.com/2026/09/24/iphone-4-antennagate-qa-video-surfaces/",
-      "image": "",
-      "summary": "A 47-minute video of the Q&A session from Apple's 2010 iPhone 4 \"antennagate\" press conference has surfaced on YouTube, showing Steve Jobs, Tim Cook , and Bob Mansfield answering…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]

@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-25T13:45:56.181Z",
+  "updatedAt": "2026-09-25T18:35:35.253Z",
   "issueDate": "2026-09-25",
   "issue": "VOL.260925",
   "title": "手机情报日报",
-  "intro": "今日筛出 15 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、3 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 13 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、2 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 15,
-    "iphone": 9,
+    "total": 13,
+    "iphone": 8,
     "leaks": 8,
-    "official": 3,
+    "official": 2,
     "specs": 0
   },
   "sections": [
@@ -26,8 +26,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-09-25",
-          "time": "13:45",
-          "publishedAt": "2026-09-25T13:45:56.181Z",
+          "time": "18:35",
+          "publishedAt": "2026-09-25T18:35:35.253Z",
           "url": "https://weibo.com/6048569942/RjzrmvPxt",
           "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ihc8nohkp0j30zb0hj42c.jpg",
           "verdict": "先看",
@@ -65,6 +65,53 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-76252db0d37a",
+          "title": "iPhone 18 Pro 影像能力相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-25",
+          "time": "15:58",
+          "publishedAt": "2026-09-25T15:58:50.000Z",
+          "url": "https://www.macrumors.com/2026/09/25/the-macrumors-show-tyler-stalman-iphone-18-pro-camera/",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
+          "detail": "iPhone 18 Pro 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
+          "keyPoints": [
+            "影像硬件",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-8c75265f3cab",
+          "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-25",
+          "time": "17:02",
+          "publishedAt": "2026-09-25T17:02:15.000Z",
+          "url": "https://www.macrumors.com/2026/09/25/iphone-18-pro-max-att-cellular-issues/",
+          "image": "https://images.macrumors.com/article-new/2026/09/deep-black-iphone-18-pro.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "newsnow-68b36c6b94e7",
           "title": "新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试",
           "originalTitle": "",
@@ -80,29 +127,6 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试",
           "detail": "新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-494e4981e445",
-          "title": "iPhone 4 影像能力相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-24",
-          "time": "12:39",
-          "publishedAt": "2026-09-24T12:39:34.000Z",
-          "url": "https://www.macrumors.com/2026/09/24/iphone-4-antennagate-qa-video-surfaces/",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
-          "detail": "iPhone 4 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
           "keyPoints": [
             "影像硬件"
           ],
@@ -142,8 +166,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-09-25",
-          "time": "13:45",
-          "publishedAt": "2026-09-25T13:45:56.181Z",
+          "time": "18:35",
+          "publishedAt": "2026-09-25T18:35:35.253Z",
           "url": "https://weibo.com/6048569942/RjB9l5H9B",
           "image": "",
           "verdict": "先看",
@@ -168,8 +192,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-09-25",
-          "time": "13:45",
-          "publishedAt": "2026-09-25T13:45:56.181Z",
+          "time": "18:35",
+          "publishedAt": "2026-09-25T18:35:35.253Z",
           "url": "https://weibo.com/6048569942/Rju598Xi8",
           "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ihdz1y39cmj31900u0wno.jpg",
           "verdict": "先看",
@@ -182,30 +206,6 @@ window.phoneRadarDaily = {
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-758de15b8701",
-          "title": "竹本青：【博主更新小米18 Fold爆料销量，称此前数据有问题】 9月25日，博主「RD观测」再次披露小米18 Fold…",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-09-25",
-          "time": "13:10",
-          "publishedAt": "2026-09-25T13:10:37.000Z",
-          "url": "https://www.coolapk.com/feed/73985366",
-          "image": "http://image.coolapk.com/feed/2026/0925/21/4248714_b558993a_3683_7821_186@1272x1034.jpg",
-          "verdict": "先看",
-          "takeaway": "【博主更新小米18 Fold爆料销量，称此前数据有问题】 9月25日，博主「RD观测」再次披露小米18 Fold 销售情况：截至2026年第37周（9月7日-9月13日），销量约为3.97万台。 该博主此前曾公布，小米18 Fold开售当日销量达3.6万台；开售7日销量接近8万台，创下小米折叠屏新品历史最高。 针对评论区对数据差异的疑问，该博主回应称：“那…",
-          "detail": "【博主更新小米18 Fold爆料销量，称此前数据有问题】 9月25日，博主「RD观测」再次披露小米18 Fold 销售情况：截至2026年第37周（9月7日-9月13日），销量约为3.97万台。 该博主此前曾公布，小米18 Fold开售当日销量达3.6万台；开售7日销量接近8万台，创下小米折叠屏新品历史最高。 针对评论区对数据差异的疑问，该博主回应称：“那…",
-          "keyPoints": [
-            "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -214,29 +214,6 @@ window.phoneRadarDaily = {
       "title": "iPhone 重点",
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
-        {
-          "id": "auto-f88c473bc838",
-          "title": "iPhone 相关消息",
-          "originalTitle": "",
-          "source": "Apple Newsroom",
-          "brand": "iPhone",
-          "type": "官方",
-          "trust": "官方确认",
-          "date": "2026-09-25",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.apple.com/newsroom/2026/09/celebrating-what-holds-us-on-iphone-18-pro/",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "官方内容，可直接作为已确认信息记录。",
-          "impact": "影响拍照体验，买旗舰机时值得关注。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
         {
           "id": "auto-07e6d6658c80",
           "title": "iPhone 18 Pro 发布 / 上市相关消息",
@@ -283,29 +260,6 @@ window.phoneRadarDaily = {
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-3c7ea7ead3f1",
-          "title": "苹果反复强调 iPhone Duo 的标准读音，中国人想读成「iPhone 多」不行吗？",
-          "originalTitle": "",
-          "source": "知乎热榜",
-          "brand": "iPhone",
-          "type": "市场报告",
-          "trust": "媒体汇总",
-          "date": "2026-09-25",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.zhihu.com/question/2084425616397426894",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "苹果反复强调 iPhone Duo 的标准读音，中国人想读成「iPhone 多」不行吗？",
-          "detail": "苹果反复强调 iPhone Duo 的标准读音，中国人想读成「iPhone 多」不行吗？",
-          "keyPoints": [
-            "市场报告"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "目前更像背景信息，对买手机影响不大。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -315,27 +269,27 @@ window.phoneRadarDaily = {
       "hint": "能直接更新到参数库。",
       "items": [
         {
-          "id": "coolapk-user-ff0e62e6398b",
-          "title": "竹本青：【真我Neo8 三星堆限定版 真机曝光，产品已取消上市计划】 9月25日资讯，原realme UI产品经理康达，昨…",
+          "id": "auto-7062915ef385",
+          "title": "Counterpoint：2025-2030 年间，全球 200 美元以下智能手机年出货将减少超 2.3 亿部",
           "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Samsung",
+          "source": "IT之家",
+          "brand": "行业",
           "type": "爆料",
-          "trust": "高可信爆料",
+          "trust": "媒体汇总",
           "date": "2026-09-25",
-          "time": "07:21",
-          "publishedAt": "2026-09-25T07:21:15.000Z",
-          "url": "https://www.coolapk.com/feed/73978148",
-          "image": "http://image.coolapk.com/feed/2026/0925/15/4248714_35ad82cd_0872_943_945@1440x2224.jpg",
+          "time": "15:05",
+          "publishedAt": "2026-09-25T15:05:33.000Z",
+          "url": "https://www.ithome.com/1/007/248.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/1a579a1b-6005-43ad-bd8a-fc54f9f7c48c.jpg?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_21,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_8,y_8",
           "verdict": "扫一眼",
-          "takeaway": "【真我Neo8 三星堆限定版 真机曝光，产品已取消上市计划】 9月25日资讯，原realme UI产品经理康达，昨日晒出真我Neo8 三星堆限定版 真机实拍。该机背板采用青绿半透设计，搭配金色电路纹理图案，整体融合科技风格与古蜀文化主题。 今年1月，真我宣布携手奇遇三星堆 联合打造Neo8 三星堆限定礼盒，产品原定于真我Neo8新品发布会一同推出。但在官宣…",
-          "detail": "【真我Neo8 三星堆限定版 真机曝光，产品已取消上市计划】 9月25日资讯，原realme UI产品经理康达，昨日晒出真我Neo8 三星堆限定版 真机实拍。该机背板采用青绿半透设计，搭配金色电路纹理图案，整体融合科技风格与古蜀文化主题。 今年1月，真我宣布携手奇遇三星堆 联合打造Neo8 三星堆限定礼盒，产品原定于真我Neo8新品发布会一同推出。但在官宣…",
+          "takeaway": "IT之家 9 月 25 日消息，当地时间 24 日，Counterpoint Research 发布的最新《按价格区间划分的智能手机出货量预测》追踪报告预计，2025 年至 2030 年间，全球 200 美元 （IT之家注：现汇率约合 1,343 元人民币） 以下智能手机的年出货量 将减少超过 2.3 亿部 ，降幅约 40%。 与此同时，全球智能手机整体市…",
+          "detail": "IT之家 9 月 25 日消息，当地时间 24 日，Counterpoint Research 发布的最新《按价格区间划分的智能手机出货量预测》追踪报告预计，2025 年至 2030 年间，全球 200 美元 （IT之家注：现汇率约合 1,343 元人民币） 以下智能手机的年出货量 将减少超过 2.3 亿部 ，降幅约 40%。 与此同时，全球智能手机整体市…",
           "keyPoints": [
-            "爆料"
+            "成本 / 价格"
           ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响购买预算，值得先看。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     },
