@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-26T11:23:17.037Z",
+  "updatedAt": "2026-09-26T16:22:26.773Z",
   "issueDate": "2026-09-26",
   "issue": "VOL.260926",
   "title": "手机情报日报",
@@ -26,8 +26,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-09-26",
-          "time": "11:23",
-          "publishedAt": "2026-09-26T11:23:17.037Z",
+          "time": "16:22",
+          "publishedAt": "2026-09-26T16:22:26.773Z",
           "url": "https://weibo.com/6048569942/RjzrmvPxt",
           "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ihc8nohkp0j30zb0hj42c.jpg",
           "verdict": "先看",
@@ -113,7 +113,7 @@ window.phoneRadarDaily = {
         },
         {
           "id": "auto-21b967a922e5",
-          "title": "消息称首销日 OPPO Find X10 系列手机同比前代旗舰机系列接近 40%，全系列 16GB 内存占比超 60%",
+          "title": "消息称首销日 OPPO Find X10 系列手机销量同比前代旗舰机系列接近 40%，全系列 16GB 内存占比超 60%",
           "originalTitle": "",
           "source": "IT之家",
           "brand": "OPPO",
@@ -123,7 +123,7 @@ window.phoneRadarDaily = {
           "time": "09:31",
           "publishedAt": "2026-09-26T09:31:19.000Z",
           "url": "https://www.ithome.com/1/007/396.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/ec142a15-f303-47eb-9ffd-2c31b7071556.jpg?x-bce-process=image/format,f_auto",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/ec142a15-f303-47eb-9ffd-2c31b7071556.jpg",
           "verdict": "先看",
           "takeaway": "IT之家 9 月 26 日消息，博主 @RD观测 今日透露，由于涨价的影响， 9 月 23 / 24 日开售的三个品牌的旗舰机系列都表现欠佳 。 首销日 OPPO Find X10 系列同比去年开售的前代旗舰机系列 在三个品牌的旗舰机系列中为最高，接近 40% ，且全系列的 16GB 占比达到了 60%+（若不计算 OPPO Find X10E 则是 80…",
           "detail": "IT之家 9 月 26 日消息，博主 @RD观测 今日透露，由于涨价的影响， 9 月 23 / 24 日开售的三个品牌的旗舰机系列都表现欠佳 。 首销日 OPPO Find X10 系列同比去年开售的前代旗舰机系列 在三个品牌的旗舰机系列中为最高，接近 40% ，且全系列的 16GB 占比达到了 60%+（若不计算 OPPO Find X10E 则是 80…",
@@ -158,51 +158,52 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-f78cdae217b4",
-          "title": "iQOO 16 新机影像再曝：5000 万索尼超级潜望长焦 + 5000 万超广角，CIPA 5.5 专业级防抖",
+          "id": "weibo-51cc3b480185",
+          "title": "数码闲聊站：荣耀Magic9直接提前公布价格了，16GB+512GB 5999元，感觉怎么…",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "vivo",
+          "source": "数码闲聊站",
+          "brand": "HONOR",
           "type": "爆料",
-          "trust": "媒体汇总",
+          "trust": "高关注爆料源",
           "date": "2026-09-26",
-          "time": "06:11",
-          "publishedAt": "2026-09-26T06:11:32.000Z",
-          "url": "https://www.ithome.com/1/007/355.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/a4a13bd0-5f23-4d26-8c65-0e1cfe174be9.png?x-bce-process=image/format,f_auto",
+          "time": "16:22",
+          "publishedAt": "2026-09-26T16:22:26.773Z",
+          "url": "https://weibo.com/6048569942/RjB9l5H9B",
+          "image": "",
           "verdict": "先看",
-          "takeaway": "IT之家 9 月 26 日消息，iQOO 旗舰系列产品经理王侃今日曝光了 iQOO 16 新机的影像能力： 主摄升级到 5000 万超感光 1/1.3\" 大底 ，跟 iQOO 15 比，进光量直接提升 79%，夜景拍起来更亮、更干净。再加上 vivo 自研超光影 HDR，影调更还原，色彩更细腻，夜景画质也更纯净。 长焦和超广角也都没含糊： 5000 万索尼…",
-          "detail": "IT之家 9 月 26 日消息，iQOO 旗舰系列产品经理王侃今日曝光了 iQOO 16 新机的影像能力： 主摄升级到 5000 万超感光 1/1.3\" 大底 ，跟 iQOO 15 比，进光量直接提升 79%，夜景拍起来更亮、更干净。再加上 vivo 自研超光影 HDR，影调更还原，色彩更细腻，夜景画质也更纯净。 长焦和超广角也都没含糊： 5000 万索尼…",
+          "takeaway": "荣耀Magic9直接提前公布价格了，16GB+512GB 5999元，感觉怎么样？[吃瓜] 6.37英寸1.5K+120Hz LTPS小直屏，极窄四等边，骁龙8E5处理器，8000mAh电池+80W+50W；55Mp 1:1方形前摄，后置200Mp 1/1.4英寸主摄+50Mp超广角+200Mp 1/1.56英寸3.5X潜望长焦；3D超声波指纹，IP68/…",
+          "detail": "荣耀Magic9直接提前公布价格了，16GB+512GB 5999元，感觉怎么样？[吃瓜] 6.37英寸1.5K+120Hz LTPS小直屏，极窄四等边，骁龙8E5处理器，8000mAh电池+80W+50W；55Mp 1:1方形前摄，后置200Mp 1/1.4英寸主摄+50Mp超广角+200Mp 1/1.56英寸3.5X潜望长焦；3D超声波指纹，IP68/…",
           "keyPoints": [
-            "影像硬件"
+            "影像硬件",
+            "屏幕形态",
+            "电池 / 充电",
+            "芯片 / 性能"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-a4090364ccc3",
-          "title": "vivo S2 FE 手机曝光：联发科天玑 7300e 芯片、10000mAh 容量电池",
+          "id": "weibo-88090b3b726e",
+          "title": "数码闲聊站：小米18 Pro系列全系2亿超大底主摄，传感器来自思特威——SCC80XS、S…",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "vivo",
+          "source": "数码闲聊站",
+          "brand": "Xiaomi",
           "type": "爆料",
-          "trust": "媒体汇总",
+          "trust": "高关注爆料源",
           "date": "2026-09-26",
-          "time": "05:40",
-          "publishedAt": "2026-09-26T05:40:19.000Z",
-          "url": "https://www.ithome.com/1/007/346.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/7c88ff5e-ba79-4199-baf7-e08d2b48a5bc.png",
+          "time": "16:22",
+          "publishedAt": "2026-09-26T16:22:26.773Z",
+          "url": "https://weibo.com/6048569942/Rju598Xi8",
+          "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ihdz1y39cmj31900u0wno.jpg",
           "verdict": "先看",
-          "takeaway": "IT之家 9 月 26 日消息，科技媒体 gizmochina 昨日（9 月 25 日）发布博文， 报道称 vivo S2 FE 手机曝光，预估配联发科天玑 7300e 芯片，以及 10000mAh 容量电池，预估 10 月 6 日发布。 消息称 S2 FE 机身正面配备 6.83 英寸 1.5K AMOLED 显示屏，刷新率为 120Hz，后置 5,00…",
-          "detail": "IT之家 9 月 26 日消息，科技媒体 gizmochina 昨日（9 月 25 日）发布博文， 报道称 vivo S2 FE 手机曝光，预估配联发科天玑 7300e 芯片，以及 10000mAh 容量电池，预估 10 月 6 日发布。 消息称 S2 FE 机身正面配备 6.83 英寸 1.5K AMOLED 显示屏，刷新率为 120Hz，后置 5,00…",
+          "takeaway": "小米18 Pro系列全系2亿超大底主摄，传感器来自思特威——SCC80XS、SCC90XS，后者支持新一代LOFIC技术，拥有超高动态范围，全系双两亿超高清影像，国产Sensor赋能“传奇一瞬”旗舰影像，小米后面还有很多新机用思特威[流鼻血]",
+          "detail": "小米18 Pro系列全系2亿超大底主摄，传感器来自思特威——SCC80XS、SCC90XS，后者支持新一代LOFIC技术，拥有超高动态范围，全系双两亿超高清影像，国产Sensor赋能“传奇一瞬”旗舰影像，小米后面还有很多新机用思特威[流鼻血]",
           "keyPoints": [
-            "屏幕形态",
-            "电池 / 充电",
-            "芯片 / 性能",
+            "影像硬件",
             "爆料来源"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -258,36 +259,6 @@ window.phoneRadarDaily = {
           ],
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "review",
-      "title": "评测与体验",
-      "hint": "买前再细看，平时扫一眼即可。",
-      "items": [
-        {
-          "id": "coolapk-user-a4ed304c3fcc",
-          "title": "竹本青：【刻印华为标识，大疆Osmo Pocket 4 正式入驻华为门店】 HUAWEI x DJI。华为今天官宣， DJ…",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-09-26",
-          "time": "06:01",
-          "publishedAt": "2026-09-26T06:01:42.000Z",
-          "url": "https://www.coolapk.com/feed/73997878",
-          "image": "http://image.coolapk.com/feed/2026/0926/14/4248714_fffd64fb_2501_6021_143@2000x3000.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【刻印华为标识，大疆Osmo Pocket 4 正式入驻华为门店】 HUAWEI x DJI。华为今天官宣， DJI Osmo Pocket 4 即日起入驻线下门店，消费者可前往华为旗舰店、智能生活馆、臻选店进行体验。 从官宣图可见，对比普通版大疆Osmo Pocket 4，本次联名版机身新增华为标识刻印。详细配置见： 【动态】【大疆 Osmo Pocke…",
-          "detail": "【刻印华为标识，大疆Osmo Pocket 4 正式入驻华为门店】 HUAWEI x DJI。华为今天官宣， DJI Osmo Pocket 4 即日起入驻线下门店，消费者可前往华为旗舰店、智能生活馆、臻选店进行体验。 从官宣图可见，对比普通版大疆Osmo Pocket 4，本次联名版机身新增华为标识刻印。详细配置见： 【动态】【大疆 Osmo Pocke…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
@@ -409,6 +380,29 @@ window.phoneRadarDaily = {
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "coolapk-user-b384a4d9acaa",
+          "title": "竹本青：你干嘛嗨哟哟 #华为Mate90#",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-09-26",
+          "time": "12:48",
+          "publishedAt": "2026-09-26T12:48:03.000Z",
+          "url": "https://www.coolapk.com/feed/74005407",
+          "image": "http://image.coolapk.com/feed/2026/0926/20/4248714_9f26b8bd_6883_2535_642@2136x1698.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "你干嘛嗨哟哟 #华为Mate90#",
+          "detail": "你干嘛嗨哟哟 #华为Mate90#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }

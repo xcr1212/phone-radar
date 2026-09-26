@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-26T11:23:17.037Z",
+  "updatedAt": "2026-09-26T16:22:26.773Z",
   "news": [
     {
       "id": "weibo-51cc3b480185",
@@ -10,8 +10,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-26",
-      "time": "11:23",
-      "publishedAt": "2026-09-26T11:23:17.037Z",
+      "time": "16:22",
+      "publishedAt": "2026-09-26T16:22:26.773Z",
       "url": "https://weibo.com/6048569942/RjB9l5H9B",
       "image": "",
       "summary": "荣耀Magic9直接提前公布价格了，16GB+512GB 5999元，感觉怎么样？[吃瓜] 6.37英寸1.5K+120Hz LTPS小直屏，极窄四等边，骁龙8E5处理器，8000mAh电池+80W+50W；55Mp 1:1方形前摄，后置200Mp 1/1.4英寸主摄+50Mp超广角+200Mp 1/1.56英寸3.5X潜望长焦；3D超声波指纹，IP68/…",
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-26",
-      "time": "11:23",
-      "publishedAt": "2026-09-26T11:23:17.037Z",
+      "time": "16:22",
+      "publishedAt": "2026-09-26T16:22:26.773Z",
       "url": "https://weibo.com/6048569942/RjzrmvPxt",
       "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ihc8nohkp0j30zb0hj42c.jpg",
       "summary": "去年11月的超前瞻，iPhone 18 Pro Max用了钢壳电池，相较于软包方案提升明显，国行版容量都做到了额定5391mAh，典型值算在5500±。 母系旗舰也在测试钢壳电池+叠片电池技术，争取把后续旗舰机容量做到9000-10000mAh±",
@@ -50,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-26",
-      "time": "11:23",
-      "publishedAt": "2026-09-26T11:23:17.037Z",
+      "time": "16:22",
+      "publishedAt": "2026-09-26T16:22:26.773Z",
       "url": "https://weibo.com/6048569942/Rjygr72Er",
       "image": "",
       "summary": "华子还不预热吗，外部信息Mate90 Pro Max典藏版是宝石工艺星环DECO，有原生镜头环，可以外接一颗巨炮，其它配置应该都知道了K9050 Pro+16GB，6800mAh+100W，50Mp 1/1.28英寸超高动态主摄+可变光圈+抗眩光红外镀膜， 200Mp 1/1.28英寸潜望镜，新一代双层OLED",
@@ -70,8 +70,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-26",
-      "time": "11:23",
-      "publishedAt": "2026-09-26T11:23:17.037Z",
+      "time": "16:22",
+      "publishedAt": "2026-09-26T16:22:26.773Z",
       "url": "https://weibo.com/6048569942/Rju598Xi8",
       "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ihdz1y39cmj31900u0wno.jpg",
       "summary": "小米18 Pro系列全系2亿超大底主摄，传感器来自思特威——SCC80XS、SCC90XS，后者支持新一代LOFIC技术，拥有超高动态范围，全系双两亿超高清影像，国产Sensor赋能“传奇一瞬”旗舰影像，小米后面还有很多新机用思特威[流鼻血]",
@@ -79,6 +79,126 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "微博"
+      ]
+    },
+    {
+      "id": "coolapk-user-61eb863da529",
+      "title": "竹本青：【vivo X500／Pro Max 首销日情况曝光：全系16GB占比约20%】 9月26日，博主「RD观测」披露…",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-26",
+      "time": "15:22",
+      "publishedAt": "2026-09-26T15:22:15.000Z",
+      "url": "https://www.coolapk.com/feed/74008447",
+      "image": "http://image.coolapk.com/feed/2026/0926/23/4248714_4d97de32_6134_9375_169@1270x453.jpg",
+      "summary": "【vivo X500／Pro Max 首销日情况曝光：全系16GB占比约20%】 9月26日，博主「RD观测」披露vivo X500／Pro Max首销日情况。 第三方数据显示，X500／Pro Max销量在“OV米”三家旗舰系列中处于中位；全系列16GB版本占比约20%，X500 Pro机型暂未开售，完整表现有待后续观察。 今天早些时候，该博主爆料，OP…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-6f10b0ab77a2",
+      "title": "These are my favorite iPhone 18 Pro & Pro Max cases so far [Video]",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-26",
+      "time": "14:00",
+      "publishedAt": "2026-09-26T14:00:00.000Z",
+      "url": "https://9to5mac.com/2026/09/26/these-are-my-favorite-iphone-18-pro-pro-max-cases-so-far-video/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Cases.jpg?quality=82&strip=all&w=1600",
+      "summary": "The new iPhone 18 Pro and 18 Pro Max have been out for a week, and they have been amazing devices to use and test. While the actual footprint and visual design remain unchanged, A…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ab15bfcef549",
+      "title": "Google combines Material 3 Expressive & Liquid Glass on the iPhone [Gallery]",
+      "source": "9to5Google",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-26",
+      "time": "14:00",
+      "publishedAt": "2026-09-26T14:00:00.000Z",
+      "url": "https://9to5google.com/2026/09/26/material-3-liquid-glass/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/Liquid-Glass-dock-on-iPhone-17-Pro-Max.jpg?quality=82&strip=all&w=1600",
+      "summary": "With Liquid Glass now a year old, Google apps on iOS are beginning to incorporate the translucent material alongside its Material 3 Expressive design language. more…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-b384a4d9acaa",
+      "title": "竹本青：你干嘛嗨哟哟 #华为Mate90#",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-26",
+      "time": "12:48",
+      "publishedAt": "2026-09-26T12:48:03.000Z",
+      "url": "https://www.coolapk.com/feed/74005407",
+      "image": "http://image.coolapk.com/feed/2026/0926/20/4248714_9f26b8bd_6883_2535_642@2136x1698.jpg",
+      "summary": "你干嘛嗨哟哟 #华为Mate90#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-faaabc69f5a1",
+      "title": "竹本青：【卢伟冰：小米18 Pro系列 今年登陆国际市场，国外呼声很高】 9月26日，小米集团总裁卢伟冰确认，小米18 P…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-26",
+      "time": "12:01",
+      "publishedAt": "2026-09-26T12:01:45.000Z",
+      "url": "https://www.coolapk.com/feed/74004602",
+      "image": "http://image.coolapk.com/feed/2026/0926/20/4248714_b80e6465_4103_6837_6@1270x963.jpg",
+      "summary": "【卢伟冰：小米18 Pro系列 今年登陆国际市场，国外呼声很高】 9月26日，小米集团总裁卢伟冰确认，小米18 Pro系列将于今年内登陆国际市场，海外媒体及用户对该系列呼声很高。 9月23日，小米18 Pro系列 国行版发布，Pro版5999元起；Pro Max版6999元起。核心配置上，两款机型分别搭载第六代骁龙8至尊版、超级至尊版处理器，配备硬件级全R…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-eec2f87d2259",
+      "title": "OPPO Find X10 Pro Max vs Galaxy S26 Ultra: Which Flagship Is Worth Your Money?",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-26",
+      "time": "11:36",
+      "publishedAt": "2026-09-26T11:36:26.000Z",
+      "url": "https://www.gizmochina.com/2026/09/26/oppo-find-x10-pro-max-vs-galaxy-s26-ultra/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/image-139-300x160.png?x96852",
+      "summary": "OPPO Find X10 Pro Max and Samsung Galaxy S26 Ultra represent two different approaches to the premium smartphone. OPPO pushes aggressive hardware with a 144Hz display, enormous 8,0…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -183,7 +303,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "auto-21b967a922e5",
-      "title": "消息称首销日 OPPO Find X10 系列手机同比前代旗舰机系列接近 40%，全系列 16GB 内存占比超 60%",
+      "title": "消息称首销日 OPPO Find X10 系列手机销量同比前代旗舰机系列接近 40%，全系列 16GB 内存占比超 60%",
       "source": "IT之家",
       "brand": "OPPO",
       "model": "OPPO 相关机型",
@@ -193,7 +313,7 @@ window.phoneRadarAuto = {
       "time": "09:31",
       "publishedAt": "2026-09-26T09:31:19.000Z",
       "url": "https://www.ithome.com/1/007/396.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/ec142a15-f303-47eb-9ffd-2c31b7071556.jpg?x-bce-process=image/format,f_auto",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/ec142a15-f303-47eb-9ffd-2c31b7071556.jpg",
       "summary": "IT之家 9 月 26 日消息，博主 @RD观测 今日透露，由于涨价的影响， 9 月 23 / 24 日开售的三个品牌的旗舰机系列都表现欠佳 。 首销日 OPPO Find X10 系列同比去年开售的前代旗舰机系列 在三个品牌的旗舰机系列中为最高，接近 40% ，且全系列的 16GB 占比达到了 60%+（若不计算 OPPO Find X10E 则是 80…",
       "tags": [
         "OPPO",
@@ -297,86 +417,6 @@ window.phoneRadarAuto = {
       "summary": "IT之家 9 月 26 日消息，博主 @Adak封狼居胥 昨晚发文透露，手机星闪新增支持畅连查找好友功能， 首批适配机型包括 Mate XT 2、Pura X View 。 博主表示，查找好友是畅连在 HarmonyOS 7.0 版本新增的一个功能。 在畅连实时对讲过程中， 如果您和好友的距离小于 500 米 ，且都处于精准定位状态（户外开阔地带或支持精准…",
       "tags": [
         "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1c114c290062",
-      "title": "京沪高铁、京沪铁路预约购票试点服务可预约日期范围将调整为开车前第 30 天至 17 天",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-26",
-      "time": "06:33",
-      "publishedAt": "2026-09-26T06:33:36.000Z",
-      "url": "https://www.ithome.com/1/007/359.htm",
-      "image": "",
-      "summary": "IT之家 9 月 26 日消息，中国铁路今日宣布，9 月 26 日起，铁路部门对京沪高铁、京沪铁路试点的火车票预约购票服务的可预约日期范围从开车前第 60 天至第 17 天，逐步调整为 开车前第 30 天至第 17 天 。 旅客通过铁路 12306 手机客户端“预约购票”专区填报预约需求，9 月 26 日当天可预约 11 月 24 日前车票；9 月 27…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f78cdae217b4",
-      "title": "iQOO 16 新机影像再曝：5000 万索尼超级潜望长焦 + 5000 万超广角，CIPA 5.5 专业级防抖",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-26",
-      "time": "06:11",
-      "publishedAt": "2026-09-26T06:11:32.000Z",
-      "url": "https://www.ithome.com/1/007/355.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/a4a13bd0-5f23-4d26-8c65-0e1cfe174be9.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 26 日消息，iQOO 旗舰系列产品经理王侃今日曝光了 iQOO 16 新机的影像能力： 主摄升级到 5000 万超感光 1/1.3\" 大底 ，跟 iQOO 15 比，进光量直接提升 79%，夜景拍起来更亮、更干净。再加上 vivo 自研超光影 HDR，影调更还原，色彩更细腻，夜景画质也更纯净。 长焦和超广角也都没含糊： 5000 万索尼…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-a4ed304c3fcc",
-      "title": "竹本青：【刻印华为标识，大疆Osmo Pocket 4 正式入驻华为门店】 HUAWEI x DJI。华为今天官宣， DJ…",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-26",
-      "time": "06:01",
-      "publishedAt": "2026-09-26T06:01:42.000Z",
-      "url": "https://www.coolapk.com/feed/73997878",
-      "image": "http://image.coolapk.com/feed/2026/0926/14/4248714_fffd64fb_2501_6021_143@2000x3000.jpg",
-      "summary": "【刻印华为标识，大疆Osmo Pocket 4 正式入驻华为门店】 HUAWEI x DJI。华为今天官宣， DJI Osmo Pocket 4 即日起入驻线下门店，消费者可前往华为旗舰店、智能生活馆、臻选店进行体验。 从官宣图可见，对比普通版大疆Osmo Pocket 4，本次联名版机身新增华为标识刻印。详细配置见： 【动态】【大疆 Osmo Pocke…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-a4090364ccc3",
-      "title": "vivo S2 FE 手机曝光：联发科天玑 7300e 芯片、10000mAh 容量电池",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-26",
-      "time": "05:40",
-      "publishedAt": "2026-09-26T05:40:19.000Z",
-      "url": "https://www.ithome.com/1/007/346.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/7c88ff5e-ba79-4199-baf7-e08d2b48a5bc.png",
-      "summary": "IT之家 9 月 26 日消息，科技媒体 gizmochina 昨日（9 月 25 日）发布博文， 报道称 vivo S2 FE 手机曝光，预估配联发科天玑 7300e 芯片，以及 10000mAh 容量电池，预估 10 月 6 日发布。 消息称 S2 FE 机身正面配备 6.83 英寸 1.5K AMOLED 显示屏，刷新率为 120Hz，后置 5,00…",
-      "tags": [
-        "vivo",
         "爆料",
         "自动抓取"
       ]
@@ -713,7 +753,7 @@ window.phoneRadarAuto = {
       "time": "13:45",
       "publishedAt": "2026-09-25T13:45:25.000Z",
       "url": "https://www.gizmochina.com/2026/09/25/redmi-17c-5g-india-launch-confirmed-for-october-1/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Screenshot-2026-09-25-190601-300x169.png?x96852",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Screenshot-2026-09-25-190108-300x152.png?x96852",
       "summary": "Xiaomi is lining up another affordable 5G phone for the Indian market. After launching the REDMI 17C 5G in Singapore last month, the company has now confirmed it’s heading to Indi…",
       "tags": [
         "Xiaomi",
@@ -817,26 +857,6 @@ window.phoneRadarAuto = {
       "summary": "OnePlus clearly wants the OnePlus 16 to stand out, but how?",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-bb50da4acd02",
-      "title": "Android president says he is a fan of the Galaxy Z Fold 8",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-25",
-      "time": "07:43",
-      "publishedAt": "2026-09-25T07:43:54.000Z",
-      "url": "https://www.sammobile.com/news/android-president-fan-galaxy-z-fold-8/",
-      "image": "",
-      "summary": "Apple recently announced its entry into the foldable phone category with the iPhone Duo, a move that could dethrone Samsung as the world's biggest foldable brand. However, the Gal…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
