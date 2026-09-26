@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-26T04:56:49.839Z",
+  "updatedAt": "2026-09-26T11:23:17.037Z",
   "news": [
     {
       "id": "weibo-51cc3b480185",
@@ -10,8 +10,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-26",
-      "time": "04:56",
-      "publishedAt": "2026-09-26T04:56:49.839Z",
+      "time": "11:23",
+      "publishedAt": "2026-09-26T11:23:17.037Z",
       "url": "https://weibo.com/6048569942/RjB9l5H9B",
       "image": "",
       "summary": "荣耀Magic9直接提前公布价格了，16GB+512GB 5999元，感觉怎么样？[吃瓜] 6.37英寸1.5K+120Hz LTPS小直屏，极窄四等边，骁龙8E5处理器，8000mAh电池+80W+50W；55Mp 1:1方形前摄，后置200Mp 1/1.4英寸主摄+50Mp超广角+200Mp 1/1.56英寸3.5X潜望长焦；3D超声波指纹，IP68/…",
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-26",
-      "time": "04:56",
-      "publishedAt": "2026-09-26T04:56:49.839Z",
+      "time": "11:23",
+      "publishedAt": "2026-09-26T11:23:17.037Z",
       "url": "https://weibo.com/6048569942/RjzrmvPxt",
       "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ihc8nohkp0j30zb0hj42c.jpg",
       "summary": "去年11月的超前瞻，iPhone 18 Pro Max用了钢壳电池，相较于软包方案提升明显，国行版容量都做到了额定5391mAh，典型值算在5500±。 母系旗舰也在测试钢壳电池+叠片电池技术，争取把后续旗舰机容量做到9000-10000mAh±",
@@ -50,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-26",
-      "time": "04:56",
-      "publishedAt": "2026-09-26T04:56:49.839Z",
+      "time": "11:23",
+      "publishedAt": "2026-09-26T11:23:17.037Z",
       "url": "https://weibo.com/6048569942/Rjygr72Er",
       "image": "",
       "summary": "华子还不预热吗，外部信息Mate90 Pro Max典藏版是宝石工艺星环DECO，有原生镜头环，可以外接一颗巨炮，其它配置应该都知道了K9050 Pro+16GB，6800mAh+100W，50Mp 1/1.28英寸超高动态主摄+可变光圈+抗眩光红外镀膜， 200Mp 1/1.28英寸潜望镜，新一代双层OLED",
@@ -70,8 +70,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-26",
-      "time": "04:56",
-      "publishedAt": "2026-09-26T04:56:49.839Z",
+      "time": "11:23",
+      "publishedAt": "2026-09-26T11:23:17.037Z",
       "url": "https://weibo.com/6048569942/Rju598Xi8",
       "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ihdz1y39cmj31900u0wno.jpg",
       "summary": "小米18 Pro系列全系2亿超大底主摄，传感器来自思特威——SCC80XS、SCC90XS，后者支持新一代LOFIC技术，拥有超高动态范围，全系双两亿超高清影像，国产Sensor赋能“传奇一瞬”旗舰影像，小米后面还有很多新机用思特威[流鼻血]",
@@ -82,79 +82,19 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-75692d50e7de",
-      "title": "HMD Aura 2 Pro 手机曝光：Helio G81 处理器、配 4GB RAM",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-26",
-      "time": "04:37",
-      "publishedAt": "2026-09-26T04:37:35.000Z",
-      "url": "https://www.ithome.com/1/007/332.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/8171afae-67f7-41a5-af30-311b14da8b05.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 26 日消息，消息源 smashx_60 现已曝光了 HMD Aura 2 Pro 手机，该机定位入门，将于近期上市。 该机提供冰蓝和炭黑两种配色可选，拥有 IP52 认证，正面配备一块 6.75 英寸 HD+ 90Hz IPS LCD 面板，匹配 5Mp 自拍摄像头；后置 50Mp 主摄 + 0.08Mp 辅助摄像头 + 2Mp &nb…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c4e0f2ff330f",
-      "title": "OPPO Find X10 Pro Max 手机体验：3 颗两亿镜头，就是这么豪横",
-      "source": "IT之家",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-26",
-      "time": "03:15",
-      "publishedAt": "2026-09-26T03:15:14.000Z",
-      "url": "https://www.ithome.com/1/007/317.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/72be4150-c8b0-4209-80ee-7993622575e1.jpg?x-bce-process=image/format,f_auto",
-      "summary": "9 月 22 日，OPPO 举办了新品发布会，正式发布了全新 OPPO Find X10 系列旗舰新机。其中，系列顶配的 Find X10 Pro Max，无疑是本次发布会大家最关注的核心产品。 我们知道，Find X 系列一直是 OPPO 影像旗舰路线的集大成之作，以“真实影像 + 全能体验”为核心定位，特别是在影像上向来是不吝堆料且有自己的想法的，而这…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a9d248d84376",
-      "title": "罗巍晒荣耀 Magic9 Pro Max 手机增距镜中秋圆月拍摄样张，喊话“还有谁”",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-26",
-      "time": "03:10",
-      "publishedAt": "2026-09-26T03:10:44.000Z",
-      "url": "https://www.ithome.com/1/007/315.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/a5158185-8d1c-41df-b06b-f7335f9575ed.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 26 日消息，荣耀首席影像工程师罗巍昨晚分享了 Magic9 Pro Max 手机使用增距镜拍摄的中秋圆月样张， 并喊话“还有谁” 。 IT之家附荣耀 Magic9 Pro Max 手机拍摄样张如下： 据IT之家此前报道， 全新荣耀 Magic9 Pro Max 手机将搭载第六代骁龙 8 超级至尊版处理器 。 ▲ IT之家开箱：荣耀 Ma…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b5369ddb5fff",
-      "title": "华为何刚分享自己转做手机业务趣闻：被余承东一个电话“拽”了过来，原本负责无线全球销售",
+      "id": "auto-9d22e18f23d3",
+      "title": "华为 Mate 60、Pura 70 等机型推送 HarmonyOS 7.0.0.109 SP6 版本，新增智能识别信息内容等功能",
       "source": "IT之家",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-09-26",
-      "time": "02:53",
-      "publishedAt": "2026-09-26T02:53:52.000Z",
-      "url": "https://www.ithome.com/1/007/313.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/e5d443f1-4091-4355-aadc-abddbdb2a1b3.jpg",
-      "summary": "IT之家 9 月 26 日消息，华为终端 BG CEO 何刚昨日发布视频，分享了自己转做手机业务的趣闻。 据何刚回忆，2011 年年底的时候，自己当时负责的是无线全球销售业务。余承东（现任华为常务董事、产品投资评审委员会主任、终端 BG 董事长）打来电话：“何刚，你来做手机吧。” 于是自己就被余承东“拽”过来，到华为终端做手机业务了 。 IT之家查询公开资…",
+      "time": "11:14",
+      "publishedAt": "2026-09-26T11:14:18.000Z",
+      "url": "https://www.ithome.com/1/007/422.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2023/9/99f5c3ba-c4d5-4bb2-952f-7d9a8e50321a.jpg",
+      "summary": "IT之家 9 月 26 日消息，华为今日面向老机型推送了鸿蒙 HarmonyOS 7.0.0.109 SP6 版本，覆盖 Mate 60、Pura 70 等系列设备。据介绍，本次更新优化了部分场景的显示效果，同时提升了整机系统稳定性。 ▲ IT之家开箱：华为 Mate60 Pro+「宣白」图赏 IT之家附新版本更新内容如下： 信息 智能识别信息内容，挪车提…",
       "tags": [
         "Huawei",
         "爆料",
@@ -162,39 +102,59 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-83d229b237c1",
-      "title": "微软 Edge 154 稳定版浏览器发布：支持谷歌账号登录、优化首次运行体验等",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "id": "auto-9cb3e297cd10",
+      "title": "9 excellent iOS apps I wish would come to Android (but probably never will)",
+      "source": "Android Authority",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-09-26",
-      "time": "02:41",
-      "publishedAt": "2026-09-26T02:41:10.000Z",
-      "url": "https://www.ithome.com/1/007/311.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/22c5719a-ce72-4ea7-b458-2490e3cf9fab.jpg",
-      "summary": "IT之家 9 月 26 日消息，微软于 9 月 24 日发布公告，宣布推出 Microsoft Edge 154 稳定版（版本号 154.0.4258.37）更新， 聚焦优化账户登录体验、增强凭证管理，以及淘汰部分旧技术等。 优化账户登录方面，用户除了使用微软账号外，现在可以使用谷歌账号登录 Edge 浏览器，此功能适用于 Windows 和 macOS…",
+      "time": "11:00",
+      "publishedAt": "2026-09-26T11:00:45.000Z",
+      "url": "https://www.androidauthority.com/ios-apps-i-want-on-android-2026-3713705/",
+      "image": "",
+      "summary": "I can keep dreaming.",
       "tags": [
-        "行业",
+        "iPhone",
         "爆料",
         "自动抓取"
       ]
     },
     {
-      "id": "auto-b5b21a1fa804",
-      "title": "谷歌推送安卓 17 QPR2 Beta 6 更新：重点修复 Pixel 9 Pro Fold 手机异常重启问题",
-      "source": "IT之家",
+      "id": "auto-4d82dea13350",
+      "title": "The Galaxy Z Fold 8 is exactly what I’ve wanted in a foldable, but I’m more excited for the Z Fold 9",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-26",
+      "time": "10:15",
+      "publishedAt": "2026-09-26T10:15:20.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-review-3708629/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Samsung-Galaxy-Z-Fold-8-in-hand-showing-folding-screen-scaled-1.jpg",
+      "summary": "The Galaxy Z Fold 8 is easily the closest I've come to pulling the trigger on a foldable. But I still can't do it.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f241c45f309c",
+      "title": "My favorite Pixel 11 Pro feature is something no other Android phone can match",
+      "source": "Android Authority",
       "brand": "Pixel",
       "model": "Pixel 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-09-26",
-      "time": "02:00",
-      "publishedAt": "2026-09-26T02:00:03.000Z",
-      "url": "https://www.ithome.com/1/007/300.htm",
+      "time": "10:00",
+      "publishedAt": "2026-09-26T10:00:42.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-pro-favorite-feature-face-unlock-why-3713749/",
       "image": "",
-      "summary": "IT之家 9 月 26 日消息，谷歌现已面向 Pixel 6a 到 Pixel 11 系列手机，推送安卓 17 QPR2 Beta 6 更新，本轮系统版本为 vCP41.260831.007，主要进一步修复系统稳定性问题。 谷歌表示，此次更新重点修复了 Pixel 9 Pro Fold 的异常重启问题。此前，多名参与 QPR2 Beta 测试的用户在 Go…",
+      "summary": "Face Unlock still rules.",
       "tags": [
         "Pixel",
         "爆料",
@@ -202,19 +162,139 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-4477df9b2ab8",
-      "title": "华为 Mate 90 系列及全场景新品发布会官宣定档 10 月 1 日",
+      "id": "coolapk-user-13b9b1311a7d",
+      "title": "竹本青：【OPPO Find X10系列 首销日情况曝光：同比前代接近40%】 博主「RD观测」刚刚披露第三方统计数据：“…",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-26",
+      "time": "09:37",
+      "publishedAt": "2026-09-26T09:37:29.000Z",
+      "url": "https://www.coolapk.com/feed/74001746",
+      "image": "http://image.coolapk.com/feed/2026/0926/17/4248714_ffd4af2f_5448_3764_205@1270x549.jpg",
+      "summary": "【OPPO Find X10系列 首销日情况曝光：同比前代接近40%】 博主「RD观测」刚刚披露第三方统计数据：“由于涨价的影响，23/24日开售的三个品牌的旗舰机系列都表现欠佳。 首销日OPPO Find X10系列同比去年开售的前代旗舰机系列在三个品牌的旗舰机系列中为最高，接近40%，且全系列的16GB占比达到了60%+（若不计算OPPO Find X…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-21b967a922e5",
+      "title": "消息称首销日 OPPO Find X10 系列手机同比前代旗舰机系列接近 40%，全系列 16GB 内存占比超 60%",
+      "source": "IT之家",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-26",
+      "time": "09:31",
+      "publishedAt": "2026-09-26T09:31:19.000Z",
+      "url": "https://www.ithome.com/1/007/396.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/ec142a15-f303-47eb-9ffd-2c31b7071556.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 26 日消息，博主 @RD观测 今日透露，由于涨价的影响， 9 月 23 / 24 日开售的三个品牌的旗舰机系列都表现欠佳 。 首销日 OPPO Find X10 系列同比去年开售的前代旗舰机系列 在三个品牌的旗舰机系列中为最高，接近 40% ，且全系列的 16GB 占比达到了 60%+（若不计算 OPPO Find X10E 则是 80…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-9d8590dd9475",
+      "title": "竹本青：#小米18ProMax# emm，无关品牌，就事论事。我看上面博主分享的首销数据是表现不佳，而不是上涨",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-26",
+      "time": "09:10",
+      "publishedAt": "2026-09-26T09:10:29.000Z",
+      "url": "https://www.coolapk.com/feed/74001194",
+      "image": "http://image.coolapk.com/feed/2026/0926/17/4248714_c54e8ffa_5934_4097_669@2424x3420.jpg",
+      "summary": "#小米18ProMax# emm，无关品牌，就事论事。我看上面博主分享的首销数据是表现不佳，而不是上涨",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-2dc11e33656a",
+      "title": "I turned my old Pixel into a TV box and security camera — and only one was worth it",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-26",
+      "time": "09:00",
+      "publishedAt": "2026-09-26T09:00:32.000Z",
+      "url": "https://www.androidauthority.com/turned-old-pixel-into-tv-box-security-camera-worth-it-3714104/",
+      "image": "",
+      "summary": "Getting the most out of my 8-year-old Pixel 3 XL.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-88dc15610ddc",
+      "title": "竹本青：【8月国内手机市场份额曝光：华为、OPPO、vivo保持前三，大盘变化不大】 ● 8月：大盘变化不大 1.华为 —…",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-26",
+      "time": "08:55",
+      "publishedAt": "2026-09-26T08:55:18.000Z",
+      "url": "https://www.coolapk.com/feed/74000921",
+      "image": "http://image.coolapk.com/feed/2026/0926/16/4248714_63386803_2917_5497_155@1270x893.jpg",
+      "summary": "【8月国内手机市场份额曝光：华为、OPPO、vivo保持前三，大盘变化不大】 ● 8月：大盘变化不大 1.华为 —— 20.3% 2.OPPO —— 16.4%（含一加 3.2%，realme 0.5%） 3.vivo —— 16.0%（含iQOO 4.2%） 4.小米 —— 15.5% 5.苹果 —— 14.2% 6.荣耀 —— 13.4% ● 7月：大…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-66b200747146",
+      "title": "竹本青：【仅为内部测试？华为官网撤下Mate 90系列发布会页面】 9月26日上午，华为消费者业务官网首页显示，“HUAW…",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-26",
+      "time": "08:34",
+      "publishedAt": "2026-09-26T08:34:25.000Z",
+      "url": "https://www.coolapk.com/feed/74000553",
+      "image": "http://image.coolapk.com/feed/2026/0926/16/4248714_80cdd6ef_2196_4724_520@3000x2763.jpg",
+      "summary": "【仅为内部测试？华为官网撤下Mate 90系列发布会页面】 9月26日上午，华为消费者业务官网首页显示，“HUAWEI Mate90系列及全场景新品发布会”将于10月1日14时30分举行。 但随后午间，有媒体援引知情人士消息称，上述发布会时间信息仅为内部测试，并非正式发布安排，目前具体时间尚未确定。相关页面被发现后，华为已经撤下。 该知情人士补充表示：“准…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-49df54681c7d",
+      "title": "消息称华为 Mate XT 2、Pura X View 手机星闪新增畅连查找好友功能，更多机型正陆续适配",
       "source": "IT之家",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-09-26",
-      "time": "01:51",
-      "publishedAt": "2026-09-26T01:51:24.000Z",
-      "url": "https://www.ithome.com/1/007/296.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/6fa84659-075a-42eb-a0d6-e34513480861.png",
-      "summary": "IT之家 9 月 26 日闪讯速报，华为官网显示，HUAWEI Mate 90 系列及全场景新品发布会正式官宣定档 10 月 1 日 14:30。 据IT之家此前报道，消息称华为 Mate 90 系列线下开始分货， 四款机型的 SKU 也已曝光 ： Mate 90 版：12+256GB/12+512GB/12+1TB，黑 / 白 / 粉 / 绿 Mate…",
+      "time": "07:29",
+      "publishedAt": "2026-09-26T07:29:38.000Z",
+      "url": "https://www.ithome.com/1/007/371.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/4eb18289-3039-48c3-970e-16340f635bc4.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 26 日消息，博主 @Adak封狼居胥 昨晚发文透露，手机星闪新增支持畅连查找好友功能， 首批适配机型包括 Mate XT 2、Pura X View 。 博主表示，查找好友是畅连在 HarmonyOS 7.0 版本新增的一个功能。 在畅连实时对讲过程中， 如果您和好友的距离小于 500 米 ，且都处于精准定位状态（户外开阔地带或支持精准…",
       "tags": [
         "Huawei",
         "爆料",
@@ -222,21 +302,81 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-e0d69422f583",
-      "title": "苹果零售总设计师约翰逊：Apple Store 未过时，iPhone Duo 等仍需“亲手摸、现场试”体验",
+      "id": "auto-1c114c290062",
+      "title": "京沪高铁、京沪铁路预约购票试点服务可预约日期范围将调整为开车前第 30 天至 17 天",
       "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-09-26",
-      "time": "00:56",
-      "publishedAt": "2026-09-26T00:56:17.000Z",
-      "url": "https://www.ithome.com/1/007/288.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/1b59c01f-10df-4d8c-bc28-78a9d677d381.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 26 日消息，科技媒体 AppleInsider 昨日（9 月 25 日）发布博文，采访了罗恩 · 约翰逊（Ron Johnson），并围绕着苹果零售店（Apple Store）等话题展开讨论。 IT之家查询公开资料，约翰逊出生于 1959 年，于 2000 年被史蒂夫 · 乔布斯聘请，担任苹果零售业务高级副总裁，负责从零搭建 Apple…",
+      "time": "06:33",
+      "publishedAt": "2026-09-26T06:33:36.000Z",
+      "url": "https://www.ithome.com/1/007/359.htm",
+      "image": "",
+      "summary": "IT之家 9 月 26 日消息，中国铁路今日宣布，9 月 26 日起，铁路部门对京沪高铁、京沪铁路试点的火车票预约购票服务的可预约日期范围从开车前第 60 天至第 17 天，逐步调整为 开车前第 30 天至第 17 天 。 旅客通过铁路 12306 手机客户端“预约购票”专区填报预约需求，9 月 26 日当天可预约 11 月 24 日前车票；9 月 27…",
       "tags": [
-        "iPhone",
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f78cdae217b4",
+      "title": "iQOO 16 新机影像再曝：5000 万索尼超级潜望长焦 + 5000 万超广角，CIPA 5.5 专业级防抖",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-26",
+      "time": "06:11",
+      "publishedAt": "2026-09-26T06:11:32.000Z",
+      "url": "https://www.ithome.com/1/007/355.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/a4a13bd0-5f23-4d26-8c65-0e1cfe174be9.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 26 日消息，iQOO 旗舰系列产品经理王侃今日曝光了 iQOO 16 新机的影像能力： 主摄升级到 5000 万超感光 1/1.3\" 大底 ，跟 iQOO 15 比，进光量直接提升 79%，夜景拍起来更亮、更干净。再加上 vivo 自研超光影 HDR，影调更还原，色彩更细腻，夜景画质也更纯净。 长焦和超广角也都没含糊： 5000 万索尼…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-a4ed304c3fcc",
+      "title": "竹本青：【刻印华为标识，大疆Osmo Pocket 4 正式入驻华为门店】 HUAWEI x DJI。华为今天官宣， DJ…",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-26",
+      "time": "06:01",
+      "publishedAt": "2026-09-26T06:01:42.000Z",
+      "url": "https://www.coolapk.com/feed/73997878",
+      "image": "http://image.coolapk.com/feed/2026/0926/14/4248714_fffd64fb_2501_6021_143@2000x3000.jpg",
+      "summary": "【刻印华为标识，大疆Osmo Pocket 4 正式入驻华为门店】 HUAWEI x DJI。华为今天官宣， DJI Osmo Pocket 4 即日起入驻线下门店，消费者可前往华为旗舰店、智能生活馆、臻选店进行体验。 从官宣图可见，对比普通版大疆Osmo Pocket 4，本次联名版机身新增华为标识刻印。详细配置见： 【动态】【大疆 Osmo Pocke…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-a4090364ccc3",
+      "title": "vivo S2 FE 手机曝光：联发科天玑 7300e 芯片、10000mAh 容量电池",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-26",
+      "time": "05:40",
+      "publishedAt": "2026-09-26T05:40:19.000Z",
+      "url": "https://www.ithome.com/1/007/346.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/7c88ff5e-ba79-4199-baf7-e08d2b48a5bc.png",
+      "summary": "IT之家 9 月 26 日消息，科技媒体 gizmochina 昨日（9 月 25 日）发布博文， 报道称 vivo S2 FE 手机曝光，预估配联发科天玑 7300e 芯片，以及 10000mAh 容量电池，预估 10 月 6 日发布。 消息称 S2 FE 机身正面配备 6.83 英寸 1.5K AMOLED 显示屏，刷新率为 120Hz，后置 5,00…",
+      "tags": [
+        "vivo",
         "爆料",
         "自动抓取"
       ]
@@ -422,28 +562,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-f9a6851dfb4b",
-      "title": "是我老了吗[doge笑哭]看的久了咋感觉这个绿色比玫瑰金好看些[捂脸]还有这图是真的，但是是Mate90 Pro Max的模型机，真机质感应该不错，到时候摸摸去#华为PuraXView# #鸿蒙7# #华为Mate80ProMax#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-26",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73988332",
-      "image": "",
-      "summary": "是我老了吗[doge笑哭]看的久了咋感觉这个绿色比玫瑰金好看些[捂脸]还有这图是真的，但是是Mate90 Pro Max的模型机，真机质感应该不错，到时候摸摸去#华为PuraXView# #鸿蒙7# #华为Mate80ProMax#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-0784a9254731",
-      "title": "【华为Mate 90系列 官宣10月1日发布，真机外观已同步曝光】",
+      "title": "华为Mate 90系列将于10月1日发布，真机外观已同步曝光",
       "source": "酷安热榜",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
@@ -454,9 +574,29 @@ window.phoneRadarAuto = {
       "publishedAt": "",
       "url": "https://www.coolapk.com/feed/73993186",
       "image": "",
-      "summary": "【华为Mate 90系列 官宣10月1日发布，真机外观已同步曝光】",
+      "summary": "华为Mate 90系列将于10月1日发布，真机外观已同步曝光",
       "tags": [
         "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-b393b1926ea8",
+      "title": "也是南昌第一摔了。第一个晚上去店里看手机，就不小心摔了一个角，被店员要了300块[捂脸][捂脸]，别人首发抢购，我首发赔付，这手感挺贵的",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-26",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73963761",
+      "image": "",
+      "summary": "也是南昌第一摔了。第一个晚上去店里看手机，就不小心摔了一个角，被店员要了300块[捂脸][捂脸]，别人首发抢购，我首发赔付，这手感挺贵的",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -522,26 +662,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-cd62b8e14b09",
-      "title": "竹本青：【Xiaomi Life 上新：NFC手机玩偶盲盒，售价69元起】 单盒 —— 69元 套盒（6个）—— 399元…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-25",
-      "time": "16:03",
-      "publishedAt": "2026-09-25T16:03:54.000Z",
-      "url": "https://www.coolapk.com/feed/73988907",
-      "image": "http://image.coolapk.com/feed/2026/0926/00/4248714_6a18b3a3_2232_2265_484@1080x1188.jpg",
-      "summary": "【Xiaomi Life 上新：NFC手机玩偶盲盒，售价69元起】 单盒 —— 69元 套盒（6个）—— 399元 ● 水獭、海豹、羊、狍子、卡皮巴拉、考拉 ● 内置NFC标签，可与18 Pro系列 背屏互动 ● 1mm挂绳｜10cm尺寸｜100%聚酯纤维 #今日热点# #HyperOS4# #小米18ProMax#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-76252db0d37a",
       "title": "The MacRumors Show: Tyler Stalman Talks iPhone 18 Pro's Camera",
       "source": "MacRumors",
@@ -602,26 +722,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-758de15b8701",
-      "title": "竹本青：【博主更新小米18 Fold 销量爆料：截至9月13日约3.97万台，此前数据有问题】 9月25日，博主「RD观测…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-25",
-      "time": "13:10",
-      "publishedAt": "2026-09-25T13:10:37.000Z",
-      "url": "https://www.coolapk.com/feed/73985366",
-      "image": "http://image.coolapk.com/feed/2026/0925/21/4248714_b558993a_3683_7821_186@1272x1034.jpg",
-      "summary": "【博主更新小米18 Fold 销量爆料：截至9月13日约3.97万台，此前数据有问题】 9月25日，博主「RD观测」再次披露小米18 Fold 首销情况：截至2026年第37周（9月7日-9月13日），销量约为3.97万台。 该博主此前曾爆料，小米18 Fold开售当日销量达3.6万台；开售7日销量接近8万台，创下小米折叠屏新品历史最高。 针对数据的差异，…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-81b1c99fdcc6",
       "title": "Android flagships could soon pack massive 10,000mAh batteries, thanks to iPhone’s battery tech",
       "source": "Android Authority",
@@ -659,46 +759,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-843c193d8ce4",
-      "title": "竹本青：【卢伟冰：小米17系列 还在销售，骁龙8E5是非常不错的平台】 9月25日，小米高管卢伟冰发文，推荐多款小米系机型…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-25",
-      "time": "11:00",
-      "publishedAt": "2026-09-25T11:00:07.000Z",
-      "url": "https://www.coolapk.com/feed/73982747",
-      "image": "http://image.coolapk.com/feed/2026/0925/19/4248714_427024a0_4006_703_512@1439x794.jpg",
-      "summary": "【卢伟冰：小米17系列 还在销售，骁龙8E5是非常不错的平台】 9月25日，小米高管卢伟冰发文，推荐多款小米系机型，包括REDMI K100 Pro系列和仍在销售的小米17系列。 他同时谈及骁龙8 Elite Gen5处理器，表示该平台非常不错，打磨得非常成熟。 #今日热点# #HyperOS4# #小米18ProMax#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-7e098f479bd1",
-      "title": "竹本青：【华为Pura X Max 最新销量曝光：周增约3.83万台，全系累计超87万台】 Pura X Max ● 截至…",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-25",
-      "time": "10:30",
-      "publishedAt": "2026-09-25T10:30:17.000Z",
-      "url": "https://www.coolapk.com/feed/73982118",
-      "image": "http://image.coolapk.com/feed/2026/0925/18/4248714_40b4239f_2216_7213_673@1440x536.jpg",
-      "summary": "【华为Pura X Max 最新销量曝光：周增约3.83万台，全系累计超87万台】 Pura X Max ● 截至 W37 —— 约43.9万（周增2.25万） 截至 W36 —— 约41.65万（周增1.55万） 截至 W35 —— 约40.1万（周增1.71万） 截至 W34 —— 约38.39万（周增2.07万） Pura X Max 典藏版 ● 截…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -779,26 +839,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-ff0e62e6398b",
-      "title": "竹本青：【真我Neo8 三星堆限定版 真机曝光，产品已取消上市计划】 9月25日资讯，原realme UI产品经理康达，昨…",
-      "source": "竹本青",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-25",
-      "time": "07:21",
-      "publishedAt": "2026-09-25T07:21:15.000Z",
-      "url": "https://www.coolapk.com/feed/73978148",
-      "image": "http://image.coolapk.com/feed/2026/0925/15/4248714_35ad82cd_0872_943_945@1440x2224.jpg",
-      "summary": "【真我Neo8 三星堆限定版 真机曝光，产品已取消上市计划】 9月25日资讯，原realme UI产品经理康达，昨日晒出真我Neo8 三星堆限定版 真机实拍。该机背板采用青绿半透设计，搭配金色电路纹理图案，整体融合科技风格与古蜀文化主题。 今年1月，真我宣布携手奇遇三星堆 联合打造Neo8 三星堆限定礼盒，产品原定于真我Neo8新品发布会一同推出。但在官宣…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
