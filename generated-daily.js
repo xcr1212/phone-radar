@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-26T16:22:26.773Z",
+  "updatedAt": "2026-09-26T21:09:18.019Z",
   "issueDate": "2026-09-26",
   "issue": "VOL.260926",
   "title": "手机情报日报",
-  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、2 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、2 条官方确认、0 条参数线索。",
   "stats": {
     "total": 16,
-    "iphone": 6,
+    "iphone": 7,
     "leaks": 8,
     "official": 2,
     "specs": 0
@@ -26,8 +26,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-09-26",
-          "time": "16:22",
-          "publishedAt": "2026-09-26T16:22:26.773Z",
+          "time": "21:09",
+          "publishedAt": "2026-09-26T21:09:18.019Z",
           "url": "https://weibo.com/6048569942/RjzrmvPxt",
           "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ihc8nohkp0j30zb0hj42c.jpg",
           "verdict": "先看",
@@ -166,8 +166,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-09-26",
-          "time": "16:22",
-          "publishedAt": "2026-09-26T16:22:26.773Z",
+          "time": "21:09",
+          "publishedAt": "2026-09-26T21:09:18.019Z",
           "url": "https://weibo.com/6048569942/RjB9l5H9B",
           "image": "",
           "verdict": "先看",
@@ -192,8 +192,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-09-26",
-          "time": "16:22",
-          "publishedAt": "2026-09-26T16:22:26.773Z",
+          "time": "21:09",
+          "publishedAt": "2026-09-26T21:09:18.019Z",
           "url": "https://weibo.com/6048569942/Rju598Xi8",
           "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ihdz1y39cmj31900u0wno.jpg",
           "verdict": "先看",
@@ -259,6 +259,29 @@ window.phoneRadarDaily = {
           ],
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-9cb3e297cd10",
+          "title": "iPhone 系统功能 / AI 体验相关消息",
+          "originalTitle": "",
+          "source": "Android Authority",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-26",
+          "time": "11:00",
+          "publishedAt": "2026-09-26T11:00:45.000Z",
+          "url": "https://www.androidauthority.com/ios-apps-i-want-on-android-2026-3713705/",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "iPhone 系统功能 / AI 体验相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
@@ -353,29 +376,6 @@ window.phoneRadarDaily = {
           "verdict": "扫一眼",
           "takeaway": "『华为 Mate90 Pro Max 真机现身：拼接设计』",
           "detail": "『华为 Mate90 Pro Max 真机现身：拼接设计』",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-b393b1926ea8",
-          "title": "也是南昌第一摔了。第一个晚上去店里看手机，就不小心摔了一个角，被店员要了300块[捂脸][捂脸]，别人首发抢购，我首发赔付，这手感挺贵的",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-09-26",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/73963761",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "也是南昌第一摔了。第一个晚上去店里看手机，就不小心摔了一个角，被店员要了300块[捂脸][捂脸]，别人首发抢购，我首发赔付，这手感挺贵的",
-          "detail": "也是南昌第一摔了。第一个晚上去店里看手机，就不小心摔了一个角，被店员要了300块[捂脸][捂脸]，别人首发抢购，我首发赔付，这手感挺贵的",
           "keyPoints": [
             "爆料"
           ],

@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-26T16:22:26.773Z",
+  "updatedAt": "2026-09-26T21:09:18.019Z",
   "news": [
     {
       "id": "weibo-51cc3b480185",
@@ -10,8 +10,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-26",
-      "time": "16:22",
-      "publishedAt": "2026-09-26T16:22:26.773Z",
+      "time": "21:09",
+      "publishedAt": "2026-09-26T21:09:18.019Z",
       "url": "https://weibo.com/6048569942/RjB9l5H9B",
       "image": "",
       "summary": "荣耀Magic9直接提前公布价格了，16GB+512GB 5999元，感觉怎么样？[吃瓜] 6.37英寸1.5K+120Hz LTPS小直屏，极窄四等边，骁龙8E5处理器，8000mAh电池+80W+50W；55Mp 1:1方形前摄，后置200Mp 1/1.4英寸主摄+50Mp超广角+200Mp 1/1.56英寸3.5X潜望长焦；3D超声波指纹，IP68/…",
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-26",
-      "time": "16:22",
-      "publishedAt": "2026-09-26T16:22:26.773Z",
+      "time": "21:09",
+      "publishedAt": "2026-09-26T21:09:18.019Z",
       "url": "https://weibo.com/6048569942/RjzrmvPxt",
       "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ihc8nohkp0j30zb0hj42c.jpg",
       "summary": "去年11月的超前瞻，iPhone 18 Pro Max用了钢壳电池，相较于软包方案提升明显，国行版容量都做到了额定5391mAh，典型值算在5500±。 母系旗舰也在测试钢壳电池+叠片电池技术，争取把后续旗舰机容量做到9000-10000mAh±",
@@ -50,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-26",
-      "time": "16:22",
-      "publishedAt": "2026-09-26T16:22:26.773Z",
+      "time": "21:09",
+      "publishedAt": "2026-09-26T21:09:18.019Z",
       "url": "https://weibo.com/6048569942/Rjygr72Er",
       "image": "",
       "summary": "华子还不预热吗，外部信息Mate90 Pro Max典藏版是宝石工艺星环DECO，有原生镜头环，可以外接一颗巨炮，其它配置应该都知道了K9050 Pro+16GB，6800mAh+100W，50Mp 1/1.28英寸超高动态主摄+可变光圈+抗眩光红外镀膜， 200Mp 1/1.28英寸潜望镜，新一代双层OLED",
@@ -70,8 +70,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-26",
-      "time": "16:22",
-      "publishedAt": "2026-09-26T16:22:26.773Z",
+      "time": "21:09",
+      "publishedAt": "2026-09-26T21:09:18.019Z",
       "url": "https://weibo.com/6048569942/Rju598Xi8",
       "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ihdz1y39cmj31900u0wno.jpg",
       "summary": "小米18 Pro系列全系2亿超大底主摄，传感器来自思特威——SCC80XS、SCC90XS，后者支持新一代LOFIC技术，拥有超高动态范围，全系双两亿超高清影像，国产Sensor赋能“传奇一瞬”旗舰影像，小米后面还有很多新机用思特威[流鼻血]",
@@ -79,6 +79,26 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "微博"
+      ]
+    },
+    {
+      "id": "auto-e2de3a95793b",
+      "title": "I've been using the Galaxy Z Fold 8 Ultra, but Samsung's wider phone ruined it for me",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-26",
+      "time": "20:00",
+      "publishedAt": "2026-09-26T20:00:10.000Z",
+      "url": "https://www.androidpolice.com/the-samsung-galaxy-z-fold-8-has-ruined-the-ultra/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/09/samsung-galaxy-z-fold-8-ultra-flat.jpg",
+      "summary": "The future is clear",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -562,26 +582,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-d935140bbd81",
-      "title": "可以「折」的 iPhone 正式亮相：Apple 发布会看点回顾",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-09-26",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/114392",
-      "image": "",
-      "summary": "可以「折」的 iPhone 正式亮相：Apple 发布会看点回顾",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-75a291a9b615",
       "title": "『华为 Mate90 Pro Max 真机现身：拼接设计』",
       "source": "酷安热榜",
@@ -622,19 +622,19 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-b393b1926ea8",
-      "title": "也是南昌第一摔了。第一个晚上去店里看手机，就不小心摔了一个角，被店员要了300块[捂脸][捂脸]，别人首发抢购，我首发赔付，这手感挺贵的",
-      "source": "酷安热榜",
+      "id": "newsnow-95256763efa7",
+      "title": "手机拍月亮教程",
+      "source": "抖音热点",
       "brand": "行业",
       "model": "智能手机市场",
       "type": "爆料",
-      "trust": "高关注爆料源",
+      "trust": "待验证",
       "date": "2026-09-26",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73963761",
+      "url": "https://www.douyin.com/hot/2667917",
       "image": "",
-      "summary": "也是南昌第一摔了。第一个晚上去店里看手机，就不小心摔了一个角，被店员要了300块[捂脸][捂脸]，别人首发抢购，我首发赔付，这手感挺贵的",
+      "summary": "手机拍月亮教程",
       "tags": [
         "行业",
         "爆料",
