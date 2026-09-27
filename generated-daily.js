@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-27T13:57:08.927Z",
+  "updatedAt": "2026-09-27T18:22:46.381Z",
   "issueDate": "2026-09-27",
   "issue": "VOL.260927",
   "title": "手机情报日报",
-  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、3 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 13 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、2 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 14,
+    "total": 13,
     "iphone": 8,
     "leaks": 8,
-    "official": 3,
+    "official": 2,
     "specs": 0
   },
   "sections": [
@@ -49,8 +49,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-09-27",
-          "time": "13:57",
-          "publishedAt": "2026-09-27T13:57:08.927Z",
+          "time": "18:22",
+          "publishedAt": "2026-09-27T18:22:46.381Z",
           "url": "https://weibo.com/6048569942/RjzrmvPxt",
           "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ihc8nohkp0j30zb0hj42c.jpg",
           "verdict": "先看",
@@ -66,7 +66,7 @@ window.phoneRadarDaily = {
         },
         {
           "id": "coolapk-user-8a0546eabf53",
-          "title": "竹本青：【iPhone 18 Pro系列 开售7天国内销量曝光：近130万台，约为上代Pro系列的115%】 9月27日，…",
+          "title": "竹本青：【iPhone18 Pro系列 开售7日国内销量曝光：接近130万台，约为上代Pro系列的115%】 9月27日，…",
           "originalTitle": "",
           "source": "竹本青",
           "brand": "iPhone",
@@ -76,10 +76,10 @@ window.phoneRadarDaily = {
           "time": "13:22",
           "publishedAt": "2026-09-27T13:22:53.000Z",
           "url": "https://www.coolapk.com/feed/74025290",
-          "image": "http://image.coolapk.com/feed/2026/0927/21/4248714_9c3267e0_5372_3132_603@1440x382.jpg",
+          "image": "http://image.coolapk.com/feed/2026/0927/22/4248714_00525c0a_7625_4472_975@3441x2409.jpg",
           "verdict": "先看",
-          "takeaway": "【iPhone 18 Pro系列 开售7天国内销量曝光：近130万台，约为上代Pro系列的115%】 9月27日，博主「RD观测」再次分享第三方统计iPhone 18 Pro系列首销情况。 以开售7日为标准，该系列国内销量已经接近130万台，同期约为iPhone 17 Pro系列的115%；iPhone 17系列的90%。 该博主此前爆料，iPhone 1…",
-          "detail": "【iPhone 18 Pro系列 开售7天国内销量曝光：近130万台，约为上代Pro系列的115%】 9月27日，博主「RD观测」再次分享第三方统计iPhone 18 Pro系列首销情况。 以开售7日为标准，该系列国内销量已经接近130万台，同期约为iPhone 17 Pro系列的115%；iPhone 17系列的90%。 该博主此前爆料，iPhone 1…",
+          "takeaway": "【iPhone18 Pro系列 开售7日国内销量曝光：接近130万台，约为上代Pro系列的115%】 9月27日，博主「RD观测」再次分享第三方统计的iPhone 18 Pro系列首销情况。 以开售7日为标准，该系列国内销量已经接近130万台，同期约为iPhone 17 Pro系列的115%；iPhone 17系列的90%。 该博主此前爆料，iPhone…",
+          "detail": "【iPhone18 Pro系列 开售7日国内销量曝光：接近130万台，约为上代Pro系列的115%】 9月27日，博主「RD观测」再次分享第三方统计的iPhone 18 Pro系列首销情况。 以开售7日为标准，该系列国内销量已经接近130万台，同期约为iPhone 17 Pro系列的115%；iPhone 17系列的90%。 该博主此前爆料，iPhone…",
           "keyPoints": [
             "爆料来源"
           ],
@@ -282,26 +282,26 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "auto-728bbee10ddb",
-          "title": "iPhone 发布 / 上市相关消息",
+          "id": "auto-19c8913563dd",
+          "title": "iPhone 18 Pro 系统功能 / AI 体验相关消息",
           "originalTitle": "",
-          "source": "Apple Newsroom",
+          "source": "9to5Mac",
           "brand": "iPhone",
-          "type": "官方",
-          "trust": "官方确认",
+          "type": "爆料",
+          "trust": "媒体汇总",
           "date": "2026-09-27",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
-          "image": "",
+          "time": "08:24",
+          "publishedAt": "2026-09-27T08:24:00.000Z",
+          "url": "https://9to5mac.com/2026/09/27/best-iphone-18-pro-cases-now-available/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Best-iPhone-18-Pro-case-now-available-for-purchase.jpg?quality=82&strip=all&w=1600",
           "verdict": "先看",
-          "takeaway": "iPhone 有发布或新功能消息，适合确认是否和新机有关。",
-          "detail": "iPhone 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "iPhone 18 Pro 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "官方"
+            "外观 / 配色 / 尺寸"
           ],
-          "confidence": "官方内容，可直接作为已确认信息记录。",
-          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
@@ -333,36 +333,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        }
-      ]
-    },
-    {
-      "id": "market",
-      "title": "行业趋势",
-      "hint": "看方向，不急着当购买依据。",
-      "items": [
-        {
-          "id": "coolapk-user-73fbf1787862",
-          "title": "竹本青：【曝卢伟冰拉黑10年米粉：建议小米18 Pro系列 推出无防窥屏版本】 9月23日，小米正式推出18 Pro系列旗…",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-09-27",
-          "time": "13:03",
-          "publishedAt": "2026-09-27T13:03:40.000Z",
-          "url": "https://www.coolapk.com/feed/74024931",
-          "image": "http://image.coolapk.com/feed/2026/0927/21/4248714_380a03df_6978_1768_279@2185x3795.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【曝卢伟冰拉黑10年米粉：建议小米18 Pro系列 推出无防窥屏版本】 9月23日，小米正式推出18 Pro系列旗舰手机。产品起售价5999元，全系搭载“超级像素2.0”硬件防窥屏，采用M11发光材料，峰值亮度达4000nits。 然而新机发售后，有不少消费者反馈，该防窥屏在侧视角度下，存在明显的亮度衰减、色彩偏色等观感问题。 针对这一情况，9月25日，网…",
-          "detail": "【曝卢伟冰拉黑10年米粉：建议小米18 Pro系列 推出无防窥屏版本】 9月23日，小米正式推出18 Pro系列旗舰手机。产品起售价5999元，全系搭载“超级像素2.0”硬件防窥屏，采用M11发光材料，峰值亮度达4000nits。 然而新机发售后，有不少消费者反馈，该防窥屏在侧视角度下，存在明显的亮度衰减、色彩偏色等观感问题。 针对这一情况，9月25日，网…",
-          "keyPoints": [
-            "成本 / 价格"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "影响购买预算，值得先看。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }

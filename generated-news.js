@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-27T13:57:08.927Z",
+  "updatedAt": "2026-09-27T18:22:46.381Z",
   "news": [
     {
       "id": "weibo-51cc3b480185",
@@ -10,8 +10,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-27",
-      "time": "13:57",
-      "publishedAt": "2026-09-27T13:57:08.927Z",
+      "time": "18:22",
+      "publishedAt": "2026-09-27T18:22:46.381Z",
       "url": "https://weibo.com/6048569942/RjB9l5H9B",
       "image": "",
       "summary": "荣耀Magic9直接提前公布价格了，16GB+512GB 5999元，感觉怎么样？[吃瓜] 6.37英寸1.5K+120Hz LTPS小直屏，极窄四等边，骁龙8E5处理器，8000mAh电池+80W+50W；55Mp 1:1方形前摄，后置200Mp 1/1.4英寸主摄+50Mp超广角+200Mp 1/1.56英寸3.5X潜望长焦；3D超声波指纹，IP68/…",
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-27",
-      "time": "13:57",
-      "publishedAt": "2026-09-27T13:57:08.927Z",
+      "time": "18:22",
+      "publishedAt": "2026-09-27T18:22:46.381Z",
       "url": "https://weibo.com/6048569942/RjzrmvPxt",
       "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ihc8nohkp0j30zb0hj42c.jpg",
       "summary": "去年11月的超前瞻，iPhone 18 Pro Max用了钢壳电池，相较于软包方案提升明显，国行版容量都做到了额定5391mAh，典型值算在5500±。 母系旗舰也在测试钢壳电池+叠片电池技术，争取把后续旗舰机容量做到9000-10000mAh±",
@@ -50,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-27",
-      "time": "13:57",
-      "publishedAt": "2026-09-27T13:57:08.927Z",
+      "time": "18:22",
+      "publishedAt": "2026-09-27T18:22:46.381Z",
       "url": "https://weibo.com/6048569942/Rjygr72Er",
       "image": "",
       "summary": "华子还不预热吗，外部信息Mate90 Pro Max典藏版是宝石工艺星环DECO，有原生镜头环，可以外接一颗巨炮，其它配置应该都知道了K9050 Pro+16GB，6800mAh+100W，50Mp 1/1.28英寸超高动态主摄+可变光圈+抗眩光红外镀膜， 200Mp 1/1.28英寸潜望镜，新一代双层OLED",
@@ -62,8 +62,88 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "auto-71491656ff3d",
+      "title": "Huawei Mate 90 live photos reveal vibrant green design ahead of launch",
+      "source": "Gizmochina",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-27",
+      "time": "17:53",
+      "publishedAt": "2026-09-27T17:53:15.000Z",
+      "url": "https://www.gizmochina.com/2026/09/27/huawei-mate-90-live-photos-reveal-vibrant-green-design-ahead-of-launch/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Huawei-Mate-90-live-photos-300x200.jpg?x96852",
+      "summary": "Huawei may have just spilled the launch date for the Mate 90 series, although its arrival was already expected soon. Reportedly, a page briefly went up on Huawei’s official Chines…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e5cb101513f2",
+      "title": "Xiaomi 18 Standard Edition clears MIIT certification, pointing to a December launch",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-27",
+      "time": "17:16",
+      "publishedAt": "2026-09-27T17:16:51.000Z",
+      "url": "https://www.gizmochina.com/2026/09/27/xiaomi-18-standard-edition-clears-miit-certification-pointing-to-a-december-launch/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/03/Xiaomi-17-300x300.png?x96852",
+      "summary": "Xiaomi‘s new flagship line is still missing one phone, and we may now have a rough sense of when it might launch. A device carrying model number M261DB passed wireless certificati…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1917e595083f",
+      "title": "Apple has no answer to the Galaxy Z Fold 8 Ultra, and Samsung should pounce on it",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-27",
+      "time": "16:49",
+      "publishedAt": "2026-09-27T16:49:25.000Z",
+      "url": "https://www.sammobile.com/opinion/apple-no-answer-to-galaxy-z-fold-8-ultra-samsung-should-pounce/",
+      "image": "",
+      "summary": "Since Apple launched the iPhone Duo, people have largely compared it to the Galaxy Z Fold 8. It makes sense, too. Both are wider foldables with a distinct passport-style that's ea…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-6522962508b1",
+      "title": "竹本青：发帖之前，特意去这个网友的主页看了一下，从20年第1条微博的小米8，再到今年的17U，确实这几年换的都是小米手机，…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-27",
+      "time": "14:35",
+      "publishedAt": "2026-09-27T14:35:38.000Z",
+      "url": "https://www.coolapk.com/feed/74026736",
+      "image": "http://image.coolapk.com/feed/2026/0927/22/4248714_b0362e52_9749_2907_705@2160x3570.jpg",
+      "summary": "发帖之前，特意去这个网友的主页看了一下，从20年第1条微博的小米8，再到今年的17U，确实这几年换的都是小米手机，很多还是旗舰 #数码日常#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
       "id": "coolapk-user-8a0546eabf53",
-      "title": "竹本青：【iPhone 18 Pro系列 开售7天国内销量曝光：近130万台，约为上代Pro系列的115%】 9月27日，…",
+      "title": "竹本青：【iPhone18 Pro系列 开售7日国内销量曝光：接近130万台，约为上代Pro系列的115%】 9月27日，…",
       "source": "竹本青",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -73,8 +153,8 @@ window.phoneRadarAuto = {
       "time": "13:22",
       "publishedAt": "2026-09-27T13:22:53.000Z",
       "url": "https://www.coolapk.com/feed/74025290",
-      "image": "http://image.coolapk.com/feed/2026/0927/21/4248714_9c3267e0_5372_3132_603@1440x382.jpg",
-      "summary": "【iPhone 18 Pro系列 开售7天国内销量曝光：近130万台，约为上代Pro系列的115%】 9月27日，博主「RD观测」再次分享第三方统计iPhone 18 Pro系列首销情况。 以开售7日为标准，该系列国内销量已经接近130万台，同期约为iPhone 17 Pro系列的115%；iPhone 17系列的90%。 该博主此前爆料，iPhone 1…",
+      "image": "http://image.coolapk.com/feed/2026/0927/22/4248714_00525c0a_7625_4472_975@3441x2409.jpg",
+      "summary": "【iPhone18 Pro系列 开售7日国内销量曝光：接近130万台，约为上代Pro系列的115%】 9月27日，博主「RD观测」再次分享第三方统计的iPhone 18 Pro系列首销情况。 以开售7日为标准，该系列国内销量已经接近130万台，同期约为iPhone 17 Pro系列的115%；iPhone 17系列的90%。 该博主此前爆料，iPhone…",
       "tags": [
         "iPhone",
         "爆料",
@@ -103,7 +183,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-73fbf1787862",
-      "title": "竹本青：【曝卢伟冰拉黑10年米粉：建议小米18 Pro系列 推出无防窥屏版本】 9月23日，小米正式推出18 Pro系列旗…",
+      "title": "竹本青：【曝卢伟冰拉黑“10年”米粉：建议小米18 Pro系列 推出无防窥屏版本】 9月23日，小米正式推出18 Pro系…",
       "source": "竹本青",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
@@ -114,7 +194,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-09-27T13:03:40.000Z",
       "url": "https://www.coolapk.com/feed/74024931",
       "image": "http://image.coolapk.com/feed/2026/0927/21/4248714_380a03df_6978_1768_279@2185x3795.jpg",
-      "summary": "【曝卢伟冰拉黑10年米粉：建议小米18 Pro系列 推出无防窥屏版本】 9月23日，小米正式推出18 Pro系列旗舰手机。产品起售价5999元，全系搭载“超级像素2.0”硬件防窥屏，采用M11发光材料，峰值亮度达4000nits。 然而新机发售后，有不少消费者反馈，该防窥屏在侧视角度下，存在明显的亮度衰减、色彩偏色等观感问题。 针对这一情况，9月25日，网…",
+      "summary": "【曝卢伟冰拉黑“10年”米粉：建议小米18 Pro系列 推出无防窥屏版本】 9月23日，小米正式推出18 Pro系列旗舰手机。产品起售价5999元，全系搭载“超级像素2.0”硬件防窥屏，采用M11发光材料，峰值亮度达4000nits。 然而新机发售后，有不少消费者反馈，该防窥屏在侧视角度下，存在明显的亮度衰减、色彩偏色等观感问题。 针对这一情况，9月25日…",
       "tags": [
         "Xiaomi",
         "爆料",
@@ -322,6 +402,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "auto-19c8913563dd",
+      "title": "Best iPhone 18 Pro cases now available for purchase [Update #2]",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-27",
+      "time": "08:24",
+      "publishedAt": "2026-09-27T08:24:00.000Z",
+      "url": "https://9to5mac.com/2026/09/27/best-iphone-18-pro-cases-now-available/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Best-iPhone-18-Pro-case-now-available-for-purchase.jpg?quality=82&strip=all&w=1600",
+      "summary": "It is time to take a look at the best new iPhone 18 Pro cases. Apple has a new slate of Silicone and TechWoven models in color-matched treatments, joined by loads of our favorite…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "auto-883a74ff69da",
       "title": "消息称今年开始所有品牌手机暂时都不会有无网通信功能",
       "source": "IT之家",
@@ -402,26 +502,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-5a02e1d3587c",
-      "title": "消息称华为或于今年 11 月推出星耀子品牌，客服回应目前暂无具体信息",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-27",
-      "time": "06:30",
-      "publishedAt": "2026-09-27T06:30:19.000Z",
-      "url": "https://www.ithome.com/1/007/517.htm",
-      "image": "",
-      "summary": "9 月 27 日下午消息，近日有消息称，华为手机板块正酝酿新一轮子品牌布局， 传闻中的线上性价比品牌“星耀”最快有望在今年 11 月落地 ，同时 nova 系列正从产品线向独立子品牌方向演进。 针对此事，截至发稿前，华为终端方面暂无回应。华为终端客服则表示， 目前暂无具体信息 ，更多信息请关注华为官方网站和官方微博通告。 资料显示，早在 2023 年，华为…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-77f62fe2fc55",
       "title": "竹本青：【网传华为nova系列 将升级为独立子品牌“星耀”，或最快于今年11月落地】 9月27日资讯，近日有消息称，华为手…",
       "source": "竹本青",
@@ -437,26 +517,6 @@ window.phoneRadarAuto = {
       "summary": "【网传华为nova系列 将升级为独立子品牌“星耀”，或最快于今年11月落地】 9月27日资讯，近日有消息称，华为手机板块正布局新一轮子品牌，nova系列将从现有产品线升级为独立子品牌“星耀”，最快有望于今年11月落地。 值得注意的是，“星耀”命名此前已多次在华为nova产品线落地应用。如2024年推出的nova12 Ultra 星耀版机型；今年6月，华为还…",
       "tags": [
         "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-28865d0d721a",
-      "title": "竹本青：【荣耀Magic 9 Pro Max 宣布支持双eSIM卡】 「双实体卡 + 双eSIM」融合架构，四卡随心切换，…",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-27",
-      "time": "03:56",
-      "publishedAt": "2026-09-27T03:56:06.000Z",
-      "url": "https://www.coolapk.com/feed/74015314",
-      "image": "http://image.coolapk.com/feed/2026/0927/11/4248714_5063259d_1365_5348_651@2494x3325.jpg",
-      "summary": "【荣耀Magic 9 Pro Max 宣布支持双eSIM卡】 「双实体卡 + 双eSIM」融合架构，四卡随心切换，双号随时在线。 #今日热点# #荣耀Magic9ProMax#",
-      "tags": [
-        "HONOR",
         "爆料",
         "酷安博主"
       ]
@@ -582,26 +642,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-8403576bd178",
-      "title": "新 iPhone 配件精选：多种组合一次配齐",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-09-27",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/114414",
-      "image": "",
-      "summary": "新 iPhone 配件精选：多种组合一次配齐",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-407099b1ef98",
       "title": "小米18 Pro Max12+512首发当晚线下入的，一测存储是飞存闪拓的 UFS 4.1，速度连4.0的速度都跑不到，小米8k的新旗舰机竟然跑不过红米，价格对比上代17Pro max,16+512，价格还整整 贵了2700，然后还用这种听都没听过的小厂的存储，读写速度完全是有问题的，难怪日常使用温度都在40度以上，抛开屏幕问题不说，单单存储芯片这一块，小米这样作死，不骂你骂谁？纯纯把米粉当韭菜割#小米18promax#小米18#",
       "source": "酷安热榜",
@@ -679,46 +719,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-5d8617e8a782",
-      "title": "男子修手机发现相册被使用15分钟",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-27",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%BF%AE%E6%89%8B%E6%9C%BA%E5%8F%91%E7%8E%B0%E7%9B%B8%E5%86%8C%E8%A2%AB%E4%BD%BF%E7%94%A815%E5%88%86%E9%92%9F",
-      "image": "",
-      "summary": "男子修手机发现相册被使用15分钟",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-e2de3a95793b",
-      "title": "I've been using the Galaxy Z Fold 8 Ultra, but Samsung's wider phone ruined it for me",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-26",
-      "time": "20:00",
-      "publishedAt": "2026-09-26T20:00:10.000Z",
-      "url": "https://www.androidpolice.com/the-samsung-galaxy-z-fold-8-has-ruined-the-ultra/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/09/samsung-galaxy-z-fold-8-ultra-flat.jpg",
-      "summary": "The future is clear",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
