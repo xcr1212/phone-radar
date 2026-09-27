@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-27T18:22:46.381Z",
+  "updatedAt": "2026-09-27T23:02:19.858Z",
   "issueDate": "2026-09-27",
   "issue": "VOL.260927",
   "title": "手机情报日报",
-  "intro": "今日筛出 13 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、2 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、3 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 13,
-    "iphone": 8,
+    "total": 14,
+    "iphone": 7,
     "leaks": 8,
-    "official": 2,
+    "official": 3,
     "specs": 0
   },
   "sections": [
@@ -37,30 +37,6 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-3a1ec5c7ba46",
-          "title": "数码闲聊站：去年11月的超前瞻，iPhone 18 Pro Max用了钢壳电池，相较于软包…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-09-27",
-          "time": "18:22",
-          "publishedAt": "2026-09-27T18:22:46.381Z",
-          "url": "https://weibo.com/6048569942/RjzrmvPxt",
-          "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ihc8nohkp0j30zb0hj42c.jpg",
-          "verdict": "先看",
-          "takeaway": "去年11月的超前瞻，iPhone 18 Pro Max用了钢壳电池，相较于软包方案提升明显，国行版容量都做到了额定5391mAh，典型值算在5500±。 母系旗舰也在测试钢壳电池+叠片电池技术，争取把后续旗舰机容量做到9000-10000mAh±",
-          "detail": "去年11月的超前瞻，iPhone 18 Pro Max用了钢壳电池，相较于软包方案提升明显，国行版容量都做到了额定5391mAh，典型值算在5500±。 母系旗舰也在测试钢壳电池+叠片电池技术，争取把后续旗舰机容量做到9000-10000mAh±",
-          "keyPoints": [
-            "电池 / 充电",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -203,6 +179,29 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-883a74ff69da",
+          "title": "消息称今年开始所有品牌手机暂时都不会有无网通信功能",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-27",
+          "time": "08:12",
+          "publishedAt": "2026-09-27T08:12:39.000Z",
+          "url": "https://www.ithome.com/1/007/541.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2025/11/d7da17fa-30eb-42ef-a7f1-981eae597d34.jpg?x-bce-process=image/auto-orient,o_1",
+          "verdict": "先看",
+          "takeaway": "IT之家 9 月 27 日消息，去年 11 月，在华为 Mate 80 系列 | Mate X7 及全场景新品发布会上，华为常务董事、产品投资委员会主任、终端 BG 董事长余承东介绍，华为 Mate 80 系列支持 2.4GHz 畅连无网通信功能。 华为官网显示，畅连无网通信功能当前已适配 Mate 80 系列（不含风驰版）、Mate X7 系列、nova…",
+          "detail": "IT之家 9 月 27 日消息，去年 11 月，在华为 Mate 80 系列 | Mate X7 及全场景新品发布会上，华为常务董事、产品投资委员会主任、终端 BG 董事长余承东介绍，华为 Mate 80 系列支持 2.4GHz 畅连无网通信功能。 华为官网显示，畅连无网通信功能当前已适配 Mate 80 系列（不含风驰版）、Mate X7 系列、nova…",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -259,29 +258,6 @@ window.phoneRadarDaily = {
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         },
         {
-          "id": "newsnow-235f426538aa",
-          "title": "赶快拿起你手上的iPhone 18pro系列白底看一下，#iPhone18ProMax# #iPhone18Pro# 这个问题不是个例，微博穷玩组的做的动图",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-09-27",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/74007889",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "赶快拿起你手上的iPhone 18pro系列白底看一下，#iPhone18ProMax# #iPhone18Pro# 这个问题不是个例，微博穷玩组的做的动图",
-          "detail": "赶快拿起你手上的iPhone 18pro系列白底看一下，#iPhone18ProMax# #iPhone18Pro# 这个问题不是个例，微博穷玩组的做的动图",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
           "id": "auto-19c8913563dd",
           "title": "iPhone 18 Pro 系统功能 / AI 体验相关消息",
           "originalTitle": "",
@@ -302,6 +278,29 @@ window.phoneRadarDaily = {
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-728bbee10ddb",
+          "title": "iPhone 发布 / 上市相关消息",
+          "originalTitle": "",
+          "source": "Apple Newsroom",
+          "brand": "iPhone",
+          "type": "官方",
+          "trust": "官方确认",
+          "date": "2026-09-27",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone 有发布或新功能消息，适合确认是否和新机有关。",
+          "detail": "iPhone 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "官方"
+          ],
+          "confidence": "官方内容，可直接作为已确认信息记录。",
+          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
@@ -333,6 +332,36 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "行业趋势",
+      "hint": "看方向，不急着当购买依据。",
+      "items": [
+        {
+          "id": "newsnow-7522cfc38060",
+          "title": "手机部有卢本伟，系统部有金凡，可穿戴有张雷，王腾大帝单干了，真是提雷总捏把汗啊。现在全力造车了，手机业务真是一天不如一天。#HyperOS4# #小米18Pro# #小米18#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-09-27",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/74007249",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "手机部有卢本伟，系统部有金凡，可穿戴有张雷，王腾大帝单干了，真是提雷总捏把汗啊。现在全力造车了，手机业务真是一天不如一天。#HyperOS4# #小米18Pro# #小米18#",
+          "detail": "手机部有卢本伟，系统部有金凡，可穿戴有张雷，王腾大帝单干了，真是提雷总捏把汗啊。现在全力造车了，手机业务真是一天不如一天。#HyperOS4# #小米18Pro# #小米18#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }

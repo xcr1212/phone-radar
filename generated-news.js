@@ -1,64 +1,24 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-27T18:22:46.381Z",
+  "updatedAt": "2026-09-27T23:02:19.858Z",
   "news": [
     {
-      "id": "weibo-51cc3b480185",
-      "title": "数码闲聊站：荣耀Magic9直接提前公布价格了，16GB+512GB 5999元，感觉怎么…",
-      "source": "数码闲聊站",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-27",
-      "time": "18:22",
-      "publishedAt": "2026-09-27T18:22:46.381Z",
-      "url": "https://weibo.com/6048569942/RjB9l5H9B",
-      "image": "",
-      "summary": "荣耀Magic9直接提前公布价格了，16GB+512GB 5999元，感觉怎么样？[吃瓜] 6.37英寸1.5K+120Hz LTPS小直屏，极窄四等边，骁龙8E5处理器，8000mAh电池+80W+50W；55Mp 1:1方形前摄，后置200Mp 1/1.4英寸主摄+50Mp超广角+200Mp 1/1.56英寸3.5X潜望长焦；3D超声波指纹，IP68/…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "weibo-3a1ec5c7ba46",
-      "title": "数码闲聊站：去年11月的超前瞻，iPhone 18 Pro Max用了钢壳电池，相较于软包…",
-      "source": "数码闲聊站",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-27",
-      "time": "18:22",
-      "publishedAt": "2026-09-27T18:22:46.381Z",
-      "url": "https://weibo.com/6048569942/RjzrmvPxt",
-      "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ihc8nohkp0j30zb0hj42c.jpg",
-      "summary": "去年11月的超前瞻，iPhone 18 Pro Max用了钢壳电池，相较于软包方案提升明显，国行版容量都做到了额定5391mAh，典型值算在5500±。 母系旗舰也在测试钢壳电池+叠片电池技术，争取把后续旗舰机容量做到9000-10000mAh±",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "weibo-9bfc5f214e3d",
-      "title": "数码闲聊站：华子还不预热吗，外部信息Mate90 Pro Max典藏版是宝石工艺星环DEC…",
-      "source": "数码闲聊站",
+      "id": "auto-7d4be414d652",
+      "title": "目标让手机用十年：Linux 手机系统 postmarketOS 正式更名为 Nura",
+      "source": "IT之家",
       "brand": "行业",
       "model": "智能手机市场",
       "type": "爆料",
-      "trust": "高关注爆料源",
+      "trust": "媒体汇总",
       "date": "2026-09-27",
-      "time": "18:22",
-      "publishedAt": "2026-09-27T18:22:46.381Z",
-      "url": "https://weibo.com/6048569942/Rjygr72Er",
-      "image": "",
-      "summary": "华子还不预热吗，外部信息Mate90 Pro Max典藏版是宝石工艺星环DECO，有原生镜头环，可以外接一颗巨炮，其它配置应该都知道了K9050 Pro+16GB，6800mAh+100W，50Mp 1/1.28英寸超高动态主摄+可变光圈+抗眩光红外镀膜， 200Mp 1/1.28英寸潜望镜，新一代双层OLED",
+      "time": "22:59",
+      "publishedAt": "2026-09-27T22:59:29.000Z",
+      "url": "https://www.ithome.com/1/007/620.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/2ae44709-f51c-423f-baa1-205af17ffb4c.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 28 日消息，Linux 手机系统 postmarketOS 宣布项目正式更名为“Nura”，新的名称源自意大利撒丁岛古老的努拉吉（nuraghe）石结构建筑，寓意项目希望让智能手机长期保持可用。 公开信息显示，postmarketOS 诞生于 2017 年，最初目标是让智能手机能够持续使用 10 年。该系统基于 Alpine Linux…",
       "tags": [
         "行业",
         "爆料",
-        "微博"
+        "自动抓取"
       ]
     },
     {
@@ -219,26 +179,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-4e9e602de490",
-      "title": "iPhone 18 Pro's variable aperture sounds radical. Here's how it compares to the Galaxy S26 Ultra",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-27",
-      "time": "12:15",
-      "publishedAt": "2026-09-27T12:15:10.000Z",
-      "url": "https://www.androidpolice.com/iphone-18-pros-variable-aperture-sounds-radical-heres-how-it-compares-to-the-galaxy-s26-ultra/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/09/iphone-18-pro-max-s26-ultra.JPG",
-      "summary": "Does the depth of field look that different?",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -482,26 +422,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-34d0cb0b2b22",
-      "title": "荣耀 Magic9 系列手机配置汇总：至高搭载高通第六代骁龙 8 超级至尊版，9 月 28 日发布",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-27",
-      "time": "06:56",
-      "publishedAt": "2026-09-27T06:56:08.000Z",
-      "url": "https://www.ithome.com/1/007/524.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/5619843c-3576-4abd-9c1a-e15791a6c409.png",
-      "summary": "IT之家 9 月 27 日消息，荣耀 Magic9 系列手机发布会将于 9 月 28 日 14:30 举行，博主 @数码闲聊站 今日对新机的爆料进行了汇总。 IT之家整理如下： Magic9 6.37 英寸 1.5K+120Hz LTPS 小直屏，第五代骁龙 8 至尊版处理器，8000mAh 电池 +80W 有线快充 +50W 无线快充； 55Mp 1:1…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-77f62fe2fc55",
       "title": "竹本青：【网传华为nova系列 将升级为独立子品牌“星耀”，或最快于今年11月落地】 9月27日资讯，近日有消息称，华为手…",
       "source": "竹本青",
@@ -662,8 +582,28 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-2a72e2c3456f",
-      "title": "冷知识：改机型者的评分不会被识别成机主评分[doge]@酷安小编 #华为Mate90ProMax#",
+      "id": "newsnow-7522cfc38060",
+      "title": "手机部有卢本伟，系统部有金凡，可穿戴有张雷，王腾大帝单干了，真是提雷总捏把汗啊。现在全力造车了，手机业务真是一天不如一天。#HyperOS4# #小米18Pro# #小米18#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-27",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74007249",
+      "image": "",
+      "summary": "手机部有卢本伟，系统部有金凡，可穿戴有张雷，王腾大帝单干了，真是提雷总捏把汗啊。现在全力造车了，手机业务真是一天不如一天。#HyperOS4# #小米18Pro# #小米18#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-7ac785a7cb96",
+      "title": "个人感觉这代mate90销量要烂了，现在最大的亮点就是那个大炮，那个只有特定人群感兴趣，对绝大多数人无感，外观还巨丑，人是视觉动物，在技术上也没什么很出彩的，反而手感方面是烂完了，内存涨价也让起售价暴涨，差不多跟苹果一个价位，华为现在还没资格跟苹果抢市场，上代80是靠大降价，卖标准版，这代卖什么呢，nova今年表现不行，pura直板机也烂了，mate从70就能感觉出来力不从心了，现在只有畅享90跟阔直板跟阔折叠的口碑还不错，但一个是低端，另外两个是异类，所以，我判断，这代销量可能会跟mate50持平，大概也就是500万左右，其实已经很多了，国产其他家都是腿部以下截肢的，说华为能借行业大涨价来干翻ov米的，只能说，想多了，华为现在没那个能力了。一句话，mate90销量绝对不会超570万，欢迎一年以后挖坟",
       "source": "酷安热榜",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
@@ -672,9 +612,9 @@ window.phoneRadarAuto = {
       "date": "2026-09-27",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74021825",
+      "url": "https://www.coolapk.com/feed/74024797",
       "image": "",
-      "summary": "冷知识：改机型者的评分不会被识别成机主评分[doge]@酷安小编 #华为Mate90ProMax#",
+      "summary": "个人感觉这代mate90销量要烂了，现在最大的亮点就是那个大炮，那个只有特定人群感兴趣，对绝大多数人无感，外观还巨丑，人是视觉动物，在技术上也没什么很出彩的，反而手感方面是烂完了，内存涨价也让起售价暴涨，差不多跟苹果一个价位，华为现在还没资格跟苹果抢市场，上代80是靠大降价，卖标准版，这代卖什么呢，nova今年表现不行，pura直板机也烂了，mate从70…",
       "tags": [
         "Huawei",
         "爆料",
@@ -682,28 +622,28 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-235f426538aa",
-      "title": "赶快拿起你手上的iPhone 18pro系列白底看一下，#iPhone18ProMax# #iPhone18Pro# 这个问题不是个例，微博穷玩组的做的动图",
+      "id": "newsnow-6ea008577e4d",
+      "title": "由于小米18PROMAX的防窥屏效果偏差的事件持续发酵，手机博主AD愤然在微博上发长文怒斥kml洗地小米18PROMAX防窥效果，具体大家看截图[牛牛鬼脸][牛牛鬼脸][牛牛鬼脸][牛牛鬼脸][牛牛鬼脸]#小米18ProMax#",
       "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-27",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74007889",
+      "url": "https://www.coolapk.com/feed/74027287",
       "image": "",
-      "summary": "赶快拿起你手上的iPhone 18pro系列白底看一下，#iPhone18ProMax# #iPhone18Pro# 这个问题不是个例，微博穷玩组的做的动图",
+      "summary": "由于小米18PROMAX的防窥屏效果偏差的事件持续发酵，手机博主AD愤然在微博上发长文怒斥kml洗地小米18PROMAX防窥效果，具体大家看截图[牛牛鬼脸][牛牛鬼脸][牛牛鬼脸][牛牛鬼脸][牛牛鬼脸]#小米18ProMax#",
       "tags": [
-        "iPhone",
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-43572831a8e7",
-      "title": "也是南昌第一摔了。第一个晚上去店里看手机，就不小心摔了一个角，被店员要了300块[捂脸][捂脸]，别人首发抢购，我首发赔付，这手感挺贵的",
+      "id": "newsnow-18641800ca41",
+      "title": "以后都不用天玑芯片的手机了，吹得再猛都不用，高通至少指哪打哪，天玑进美团返回主页都得重新加载，王者也是点个界面都慢拖拖...",
       "source": "酷安热榜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -712,11 +652,31 @@ window.phoneRadarAuto = {
       "date": "2026-09-27",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/73963761",
+      "url": "https://www.coolapk.com/feed/74004980",
       "image": "",
-      "summary": "也是南昌第一摔了。第一个晚上去店里看手机，就不小心摔了一个角，被店员要了300块[捂脸][捂脸]，别人首发抢购，我首发赔付，这手感挺贵的",
+      "summary": "以后都不用天玑芯片的手机了，吹得再猛都不用，高通至少指哪打哪，天玑进美团返回主页都得重新加载，王者也是点个界面都慢拖拖...",
       "tags": [
         "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-a89ebfe63858",
+      "title": "哎，今年的米18可惜了，要不是这块垃圾屏幕，真的可以吊打ov耀了，芯片升级，影像升级，马达升级，音质升级，外观升级，唯独最常用的屏幕真的是一坨，如果后面出个非防窥版本的还是挺不错的 #vivoX500ProMax# #OPPOFindX10ProMax# #荣耀Magic9ProMax#",
+      "source": "酷安热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-27",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74028480",
+      "image": "",
+      "summary": "哎，今年的米18可惜了，要不是这块垃圾屏幕，真的可以吊打ov耀了，芯片升级，影像升级，马达升级，音质升级，外观升级，唯独最常用的屏幕真的是一坨，如果后面出个非防窥版本的还是挺不错的 #vivoX500ProMax# #OPPOFindX10ProMax# #荣耀Magic9ProMax#",
+      "tags": [
+        "HONOR",
         "爆料",
         "NewsNow"
       ]
