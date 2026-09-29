@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-29T01:56:22.025Z",
+  "updatedAt": "2026-09-29T08:28:48.687Z",
   "issueDate": "2026-09-29",
   "issue": "VOL.260929",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 8,
-    "iphone": 4,
+    "total": 9,
+    "iphone": 5,
     "leaks": 8,
-    "official": 0,
+    "official": 1,
     "specs": 0
   },
   "sections": [
@@ -35,6 +35,30 @@ window.phoneRadarDaily = {
           "detail": "一起来看看 Apple 是如何围绕一块会改变形状的屏幕，重新思考人与界面的关系。",
           "keyPoints": [
             "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-d709419db54a",
+          "title": "华为 Mate 90 系列真机线下门店第一时间现场上手，“巨炮”相机模块吸睛",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-09-29",
+          "time": "06:16",
+          "publishedAt": "2026-09-29T06:16:15.000Z",
+          "url": "https://www.ithome.com/1/008/246.htm",
+          "image": "https://wx3.sinaimg.cn/orj480/001ZzMwgly1ihkhnwm29vj60nh0vadum02.jpg",
+          "verdict": "先看",
+          "takeaway": "华为 Mate 90 系列旗舰手机已在华为线下门店展出，IT之家也在第一时间赶往现场，为大家带来新机实拍。 点击关注IT之家视频号",
+          "detail": "华为 Mate 90 系列旗舰手机已在华为线下门店展出，IT之家也在第一时间赶往现场，为大家带来新机实拍。 点击关注IT之家视频号",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "影像硬件"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -110,98 +134,106 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-1dbe886d1538",
-          "title": "HMD 106 Pure 手机悄然发布，仅支持 2G 网络",
+          "id": "weibo-bfcff5ab188b",
+          "title": "数码闲聊站：荣耀Magic9，这价格感觉怎么样？ 12GB+256GB——4999元 12…",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
+          "source": "数码闲聊站",
+          "brand": "HONOR",
           "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-28",
-          "time": "15:19",
-          "publishedAt": "2026-09-28T15:19:05.000Z",
-          "url": "https://www.ithome.com/1/008/062.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/c83d9b51-0571-4d91-bfb7-ba8cf9c48b0c.png?x-bce-process=image/format,f_auto",
+          "trust": "高关注爆料源",
+          "date": "2026-09-29",
+          "time": "08:28",
+          "publishedAt": "2026-09-29T08:28:48.687Z",
+          "url": "https://weibo.com/6048569942/RkcER5UpI",
+          "image": "",
           "verdict": "先看",
-          "takeaway": "IT之家 9 月 28 日消息，HMD 现已在巴基斯坦市场悄然推出 106 Pure 手机。这款产品是功能手机，仅支持 GSM 网络， 售价 3250 巴基斯坦卢比（IT之家注：现汇率合人民币 78.81 元） 。 据介绍，这款手机提供深灰色、青绿色两种配色可选，搭载紫光展锐 6531E 芯片。 规格方面， 该手机配备一块 1.8 英寸 QQVGA（120…",
-          "detail": "IT之家 9 月 28 日消息，HMD 现已在巴基斯坦市场悄然推出 106 Pure 手机。这款产品是功能手机，仅支持 GSM 网络， 售价 3250 巴基斯坦卢比（IT之家注：现汇率合人民币 78.81 元） 。 据介绍，这款手机提供深灰色、青绿色两种配色可选，搭载紫光展锐 6531E 芯片。 规格方面， 该手机配备一块 1.8 英寸 QQVGA（120…",
+          "takeaway": "荣耀Magic9，这价格感觉怎么样？ 12GB+256GB——4999元 12GB+512GB——5499元 16GB+512GB——5999元 16GB+1TB——6999元 荣耀Magic9 Pro Max，这价格感觉怎么样？ 12GB+256GB——6499元 12GB+512GB——6999元 16GB+512GB——7499元 16GB+1TB—…",
+          "detail": "荣耀Magic9，这价格感觉怎么样？ 12GB+256GB——4999元 12GB+512GB——5499元 16GB+512GB——5999元 16GB+1TB——6999元 荣耀Magic9 Pro Max，这价格感觉怎么样？ 12GB+256GB——6499元 12GB+512GB——6999元 16GB+512GB——7499元 16GB+1TB—…",
+          "keyPoints": [
+            "成本 / 价格",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-bf3ecc68a282",
+          "title": "iQOO16 预热内容一览：2K 165Hz三星珠峰屏 / 自研电竞芯片Q4",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-09-29",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/74055375",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iQOO16 预热内容一览：2K 165Hz三星珠峰屏 / 自研电竞芯片Q4",
+          "detail": "iQOO16 预热内容一览：2K 165Hz三星珠峰屏 / 自研电竞芯片Q4",
+          "keyPoints": [
+            "芯片 / 性能"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-351626487978",
+          "title": "来个18pm和9pm的外观对比吧，玩了一会，感觉荣耀在各方面完胜啊，同样512g，价格只有苹果的一半，荣耀把苹果的液态玻璃复制粘贴过来了 #荣耀Magic9ProMax# #iPhone18ProMax#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-09-29",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/74047512",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "来个18pm和9pm的外观对比吧，玩了一会，感觉荣耀在各方面完胜啊，同样512g，价格只有苹果的一半，荣耀把苹果的液态玻璃复制粘贴过来了 #荣耀Magic9ProMax# #iPhone18ProMax#",
+          "detail": "来个18pm和9pm的外观对比吧，玩了一会，感觉荣耀在各方面完胜啊，同样512g，价格只有苹果的一半，荣耀把苹果的液态玻璃复制粘贴过来了 #荣耀Magic9ProMax# #iPhone18ProMax#",
           "keyPoints": [
             "外观 / 配色 / 尺寸",
-            "芯片 / 性能",
             "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "iphone",
+      "title": "iPhone 重点",
+      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
+      "items": [
         {
-          "id": "auto-34dfa07b8168",
-          "title": "vivo X500 Pro 手机今日开售：全球首发天玑 9600 Pro 旗舰芯，6499 元起",
+          "id": "auto-07e6d6658c80",
+          "title": "iPhone 18 Pro 发布 / 上市相关消息",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "媒体汇总",
+          "source": "Apple Newsroom",
+          "brand": "iPhone",
+          "type": "官方",
+          "trust": "官方确认",
           "date": "2026-09-29",
-          "time": "01:52",
-          "publishedAt": "2026-09-29T01:52:20.000Z",
-          "url": "https://www.ithome.com/1/008/120.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/14713984-e18a-4ef6-9443-9d294a6fd8da.jpg",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+          "image": "",
           "verdict": "先看",
-          "takeaway": "IT之家 9 月 29 日消息，vivo 官微宣布， vivo X500 Pro 手机将于 9 月 29 日（今天）正式开售。该机搭载蔡司超动态主摄、蔡司 APO 超级长焦，全球首发天玑 9600 Pro 旗舰芯，6499 元起。 12GB+256GB 版 6499 元 12GB+512GB 版 7499 元 16GB+512GB 版 7999 元 12G…",
-          "detail": "IT之家 9 月 29 日消息，vivo 官微宣布， vivo X500 Pro 手机将于 9 月 29 日（今天）正式开售。该机搭载蔡司超动态主摄、蔡司 APO 超级长焦，全球首发天玑 9600 Pro 旗舰芯，6499 元起。 12GB+256GB 版 6499 元 12GB+512GB 版 7499 元 16GB+512GB 版 7999 元 12G…",
+          "takeaway": "iPhone 18 Pro 发布 / 上市相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 18 Pro 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "影像硬件"
+            "影像硬件",
+            "电池 / 充电"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-3195558cab70",
-          "title": "华为外挂“巨炮”专利公开，独立镜头可安装在手机相机镜组位置",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-29",
-          "time": "01:46",
-          "publishedAt": "2026-09-29T01:46:45.000Z",
-          "url": "https://www.ithome.com/1/008/117.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/a75b694f-64c6-43a4-8558-617d85fa3b5e.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 9 月 29 日消息，国家知识产权局最近公开了一项来自华为技术有限公司的专利，发明名称为“一种电子系统、转接组件、外接装置和对接装置”，发明人包括沈宝君、林虹帆、王鹏、余银标、叶建波。 本申请涉及电子产品领域，特别涉及一种电子系统、转接组件、外接装置以及对接装置， 包括终端设备和外接装置 ， 终端设备包括外壳和固定件 ，固定件固定连接外壳，且相对…",
-          "detail": "IT之家 9 月 29 日消息，国家知识产权局最近公开了一项来自华为技术有限公司的专利，发明名称为“一种电子系统、转接组件、外接装置和对接装置”，发明人包括沈宝君、林虹帆、王鹏、余银标、叶建波。 本申请涉及电子产品领域，特别涉及一种电子系统、转接组件、外接装置以及对接装置， 包括终端设备和外接装置 ， 终端设备包括外壳和固定件 ，固定件固定连接外壳，且相对…",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-1c15135b1ce6",
-          "title": "华为睿影 Z10 模块相机亮相，Mate 90 Pro Max 典藏版 / RS 非凡大师等特定型号机型可用",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-29",
-          "time": "01:17",
-          "publishedAt": "2026-09-29T01:17:09.000Z",
-          "url": "https://www.ithome.com/1/008/106.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/1d873b5a-2f07-46b8-9118-bf4a4873e53a.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 9 月 29 日消息，华为 Mate 90 系列年度旗舰手机今日正式官宣，定档 10 月 1 日 10:00 正式发布，并于当日 12:08 开售。 华为官方刚刚又发布视频， 主题为“致敬踏光向前的笃定” ，继续预热系列年度旗舰手机。 IT之家注意到，在华为官方预热视频中，出现了一枚“巨炮”配件。 视频小字注释显示，这枚配件是华为睿影 Z10 模…",
-          "detail": "IT之家 9 月 29 日消息，华为 Mate 90 系列年度旗舰手机今日正式官宣，定档 10 月 1 日 10:00 正式发布，并于当日 12:08 开售。 华为官方刚刚又发布视频， 主题为“致敬踏光向前的笃定” ，继续预热系列年度旗舰手机。 IT之家注意到，在华为官方预热视频中，出现了一枚“巨炮”配件。 视频小字注释显示，这枚配件是华为睿影 Z10 模…",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+          "confidence": "官方内容，可直接作为已确认信息记录。",
+          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     }
