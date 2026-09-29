@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-29T16:30:18.363Z",
+  "updatedAt": "2026-09-29T22:14:01.426Z",
   "news": [
     {
       "id": "weibo-e8e676f443fe",
@@ -10,8 +10,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-29",
-      "time": "16:30",
-      "publishedAt": "2026-09-29T16:30:18.363Z",
+      "time": "22:14",
+      "publishedAt": "2026-09-29T22:14:01.426Z",
       "url": "https://weibo.com/6048569942/RknZFiUss",
       "image": "https://tvax3.sinaimg.cn/mw2000/8f4a8a89ly8ihkmzeuhzbj23ls5eoe8i.jpg",
       "summary": "#iQOO16# 真机拿到了，简单聊几句： ——首发2K+165Hz双高规格，iPhone Duo同款三星M16发光材料+2K LEAD 2.0显示技术，实测手动亮度1250nits，全屏峰值亮度超2800nits，局部峰值干到了10000nits，户外阳光下可用性更高，M16材料的发光效率很高，所以屏幕功耗反而有所下降，甚至低于普通1.5K； 而且标配A…",
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-29",
-      "time": "16:30",
-      "publishedAt": "2026-09-29T16:30:18.363Z",
+      "time": "22:14",
+      "publishedAt": "2026-09-29T22:14:01.426Z",
       "url": "https://weibo.com/6048569942/Rkmlmi4pQ",
       "image": "",
       "summary": "华为Mate90——麒麟9030 华为Mate90 Pro——麒麟9035（主频2.85GHz Maleoon 935 GPU）、6.75英寸双层OLED 华为Mate90 Pro Max——麒麟9050 Pro、6.9英寸双层OLED、18EV超大底主摄、2亿超大底长焦、典藏版可挂载1英寸10X镜头 华为Mate90 RS——麒麟9050 Pro、6.9…",
@@ -50,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-29",
-      "time": "16:30",
-      "publishedAt": "2026-09-29T16:30:18.363Z",
+      "time": "22:14",
+      "publishedAt": "2026-09-29T22:14:01.426Z",
       "url": "https://weibo.com/6048569942/RkjgbeQml",
       "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ihk4ltdot8j30y813y1gr.jpg",
       "summary": "华为Mate90 Pro Max典藏版的原生巨炮，1英寸10X光学变焦，等效焦距24mm-240mm[微风] *以上图片均来着网络",
@@ -59,6 +59,146 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "微博"
+      ]
+    },
+    {
+      "id": "auto-1ddcde6b1ee6",
+      "title": "部分苹果 iPhone 18 Pro/Max 用户反馈扬声器存在异响情况",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-29",
+      "time": "22:05",
+      "publishedAt": "2026-09-29T22:05:10.000Z",
+      "url": "https://www.ithome.com/1/008/538.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/5db3b710-c2e2-425b-b532-9ed23cb2cb64.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 30 日消息，科技媒体 MacRumors 今天（9 月 30 日）发布博文，报道称基于论坛、Reddit 社区用户反馈， 苹果 iPhone 18 Pro 和 iPhone 18 Pro Max 扬声器会出现噼啪声或爆音情况。 根据社区用户反馈，在使用 iPhone 18 Pro 和 iPhone 18 Pro Max 过程中，扬声器发…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ac678be41571",
+      "title": "iPhone 18 Pro Owners Complain of Speaker Crackling or Popping",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-29",
+      "time": "20:44",
+      "publishedAt": "2026-09-29T20:44:12.000Z",
+      "url": "https://www.macrumors.com/2026/09/29/iphone-18-pro-speaker-crackling/",
+      "image": "https://images.macrumors.com/article-new/2026/09/Apple-iPhone-18-Pro-2up-16x9-1.jpg",
+      "summary": "Some iPhone 18 Pro owners have noticed an unusual crackling sound coming from the speaker of the device, leading to complaints on the MacRumors forums and Reddit . Users have call…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-de3e44913038",
+      "title": "Amazon will give you up to $275 extra to buy a Pixel 11 right now",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-29",
+      "time": "20:15",
+      "publishedAt": "2026-09-29T20:15:00.000Z",
+      "url": "https://9to5google.com/2026/09/29/amazon-will-give-you-up-to-275-extra-to-buy-a-pixel-11-right-now/",
+      "image": "",
+      "summary": "Through a boosted trade-in deal, Amazon will give Pixel 11 series buyers an extra $275 towards their new device. more…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-491ac536b872",
+      "title": "You Can 'Get Ready' for iPhone Duo Pre-Orders on October 12",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-29",
+      "time": "20:10",
+      "publishedAt": "2026-09-29T20:10:19.000Z",
+      "url": "https://www.macrumors.com/2026/09/29/iphone-duo-get-ready-oct-12/",
+      "image": "https://images.macrumors.com/article-new/2026/09/iphone-duo-get-ready.jpg",
+      "summary": "People who plan to purchase an iPhone Duo can go through the \"Get Ready\" process starting on Monday, October 12. The new detail was added to the iPhone Duo product page yesterday,…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-630ff47afb16",
+      "title": "Apple announces when you can start the iPhone Duo pre-order process",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-29",
+      "time": "19:33",
+      "publishedAt": "2026-09-29T19:33:20.000Z",
+      "url": "https://9to5mac.com/2026/09/29/apple-announces-when-you-can-start-the-iphone-duo-pre-order-process/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-night-sky-front-back.jpg?quality=82&strip=all&w=1600",
+      "summary": "iPhone Duo pre-orders start on Friday, October 16, but Apple just announced when you can get an early start on the process. Here are the details. more…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3a612683acec",
+      "title": "Galaxy S27 Ultra's camera processing may change in a few 'noticeable' ways",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-29",
+      "time": "18:39",
+      "publishedAt": "2026-09-29T18:39:26.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/galaxy-s27-ultras-camera-processing-may-change-in-noticeable-ways-when-it-debuts",
+      "image": "https://cdn.mos.cms.futurecdn.net/3QGjaCmbFv58R4VHvzQ9Eo-1920-80.jpg",
+      "summary": "Major image processing changes were rumored for the Galaxy S27 Ultra. \"Noticeable\" changes could help three key photography aspects.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ef3b09f8bcfe",
+      "title": "October Prime Day Samsung deals — how to find the best Galaxy discounts during Big Deal Days 2026",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-29",
+      "time": "17:55",
+      "publishedAt": "2026-09-29T17:55:49.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/october-prime-day-samsung-galaxy-deals-big-deal-days-2026",
+      "image": "https://cdn.mos.cms.futurecdn.net/Y5eF4E4PnoPAYaqFnWFGSb-1920-80.jpg",
+      "summary": "Whether you're in the market for a Galaxy S26, Z Fold 8, or the latest Samsung laptop, Amazon's Big Deal Days sale will have you covered.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
       ]
     },
     {
@@ -117,26 +257,6 @@ window.phoneRadarAuto = {
       "summary": "A recent report from Chinese outlet Jiemian News offers an update on iPhone Duo production, including how many units are being made, assembly troubles, and more. more…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b7a7a850d910",
-      "title": "This might be our first look at Google’s Pixel 11A",
-      "source": "The Verge",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-29",
-      "time": "15:57",
-      "publishedAt": "2026-09-29T15:57:10.000Z",
-      "url": "https://www.theverge.com/tech/1002072/google-pixel-11a-leaked-renders-first-look",
-      "image": "",
-      "summary": "Google isn't making any significant design changes to its upcoming midrange Pixel update, judging by the leaks shared by Android Headlines. The image renders made by OnLeaks are p…",
-      "tags": [
-        "Pixel",
         "爆料",
         "自动抓取"
       ]
@@ -442,26 +562,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-2566207ea217",
-      "title": "竹本青：【iQOO 16 正式发布：骁龙8EE6处理器+2K 165Hz三星直屏，5999元起】 12GB+256GB —…",
-      "source": "竹本青",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-29",
-      "time": "12:34",
-      "publishedAt": "2026-09-29T12:34:19.000Z",
-      "url": "https://www.coolapk.com/feed/74066709",
-      "image": "http://image.coolapk.com/feed/2026/0929/20/4248714_fec793a6_5512_5384_353@2715x3054.jpg",
-      "summary": "【iQOO 16 正式发布：骁龙8EE6处理器+2K 165Hz三星直屏，5999元起】 12GB+256GB —— 5999元 12GB+512GB —— 6799元 16GB+512GB —— 7499元 16GB+1TB —— 8499元 ＊线下门店限量特惠： 12GB+512GB —— 6299元 16GB+512GB —— 6999元 16GB+…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "coolapk-user-5014f8b6b9fd",
       "title": "竹本青：就硬拉时间，找职业选手上来又是要干啥",
       "source": "竹本青",
@@ -522,26 +622,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-742f1046e7ac",
-      "title": "竹本青：这产品经理为啥说几句就乐一次，我还以为他麦有问题",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-29",
-      "time": "12:00",
-      "publishedAt": "2026-09-29T12:00:50.000Z",
-      "url": "https://www.coolapk.com/feed/74065914",
-      "image": "",
-      "summary": "这产品经理为啥说几句就乐一次，我还以为他麦有问题",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-0f0f69b2c584",
       "title": "Craig Federighi on how Apple helps developers make the most of the iPhone Duo [Video]",
       "source": "9to5Mac",
@@ -577,26 +657,6 @@ window.phoneRadarAuto = {
       "summary": "One small bug for Google, one giant pain for developers.",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5c6f84a81d26",
-      "title": "1299 元：富士 Instax Pal 2 掌上相机开售，1/3.06 英寸 10MP 传感器",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-29",
-      "time": "10:39",
-      "publishedAt": "2026-09-29T10:39:03.000Z",
-      "url": "https://www.ithome.com/1/008/434.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/e24a0455-6ae9-45e3-85da-c562c62bee75.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 29 日消息，富士 Instax Pal 2 掌上相机今天开售。新品采用复古外观设计，拥有类似胶片相机腰平取景的拍照体验，可连接智能手机、富士打印机等设备， 售价 1299 元 。 IT之家了解到，这款相机支持腰平取景和取景器取景，支持拍摄 mini / square / wide 和无边框照片。配备 30 种效果滤镜，用户可自行选择。…",
-      "tags": [
-        "行业",
         "爆料",
         "自动抓取"
       ]
@@ -802,6 +862,286 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-54c2402856e6",
+      "title": "众测招募｜泡泡骚 Low Pro：给新 iPhone 添一件极简「背心」",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-29",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/114410",
+      "image": "",
+      "summary": "众测招募｜泡泡骚 Low Pro：给新 iPhone 添一件极简「背心」",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-3dc5541364a5",
+      "title": "新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-29",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/114453",
+      "image": "",
+      "summary": "新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-6ce85668ee39",
+      "title": "iQOO16 正式发布：5999元起",
+      "source": "酷安热榜",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-29",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74066694",
+      "image": "",
+      "summary": "iQOO16 正式发布：5999元起",
+      "tags": [
+        "vivo",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-b4ebe6b3b1f1",
+      "title": "iqoo16牛逼，这正面太吊了，这是起步6000顶配8500的手机[笑眼]",
+      "source": "酷安热榜",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-29",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74068335",
+      "image": "",
+      "summary": "iqoo16牛逼，这正面太吊了，这是起步6000顶配8500的手机[笑眼]",
+      "tags": [
+        "vivo",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-3438a494723c",
+      "title": "【iQOO 16 正式发布：骁龙8EE6处理器+2K 165Hz三星直屏，5999元起】",
+      "source": "酷安热榜",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-29",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74066709",
+      "image": "",
+      "summary": "【iQOO 16 正式发布：骁龙8EE6处理器+2K 165Hz三星直屏，5999元起】",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-04432894fbc6",
+      "title": "由于荣耀Magic9 Pro Max珠玉在前，vivo X500系列定价又特别癫，iQOO 16定价这次也不敢太飘。目前从官方价格看来，定价跟荣耀Magic9 Pro Max完全一致。",
+      "source": "酷安热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-29",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74069172",
+      "image": "",
+      "summary": "由于荣耀Magic9 Pro Max珠玉在前，vivo X500系列定价又特别癫，iQOO 16定价这次也不敢太飘。目前从官方价格看来，定价跟荣耀Magic9 Pro Max完全一致。",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-a54ac751d944",
+      "title": "那些嫌贵的我真不理解，8ee6，单颗芯片拿货就已经将近两千了，还有三星m16基材，2k165hz，还得给你适配光追，虽然不算严格意义上的原生光追，那也得研发吧？而且内存还在涨价，能给到这个价格我真觉得非常有诚意了 #iQOOPadUltra#",
+      "source": "酷安热榜",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-29",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74072459",
+      "image": "",
+      "summary": "那些嫌贵的我真不理解，8ee6，单颗芯片拿货就已经将近两千了，还有三星m16基材，2k165hz，还得给你适配光追，虽然不算严格意义上的原生光追，那也得研发吧？而且内存还在涨价，能给到这个价格我真觉得非常有诚意了 #iQOOPadUltra#",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-395084d655cc",
+      "title": "看了一大堆人在吹荣耀，价格低是确实的，但是无论是系统还是拍照，我是真不信荣耀能打 oppo，c17 日用无论功能性还是流畅度真的找不到缺点，音质确实比不上荣耀，但是可以用第三方软件调一下，7299 买的其实对比荣耀首发也贵不了多少，几百块钱还是为了热爱买单吧，不想为了几百就妥协 #荣耀Magic9ProMax#",
+      "source": "酷安热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-29",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74059589",
+      "image": "",
+      "summary": "看了一大堆人在吹荣耀，价格低是确实的，但是无论是系统还是拍照，我是真不信荣耀能打 oppo，c17 日用无论功能性还是流畅度真的找不到缺点，音质确实比不上荣耀，但是可以用第三方软件调一下，7299 买的其实对比荣耀首发也贵不了多少，几百块钱还是为了热爱买单吧，不想为了几百就妥协 #荣耀Magic9ProMax#",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-e035f9c00025",
+      "title": "不是iqoo16这，黑边怎么还倒退了，下巴这么宽？[牛牛尴尬][牛牛尴尬][牛牛尴尬]#OriginOS7# #iQOO15##iQOOPadUltra#",
+      "source": "酷安热榜",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-29",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74071341",
+      "image": "",
+      "summary": "不是iqoo16这，黑边怎么还倒退了，下巴这么宽？[牛牛尴尬][牛牛尴尬][牛牛尴尬]#OriginOS7# #iQOO15##iQOOPadUltra#",
+      "tags": [
+        "vivo",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-980350b6bea9",
+      "title": "行业寒冬下，有的人直接摆烂，而有的人绝境求生[微笑] #荣耀Magic9ProMax# #一加16# #iQOO16#",
+      "source": "酷安热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-29",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74044742",
+      "image": "",
+      "summary": "行业寒冬下，有的人直接摆烂，而有的人绝境求生[微笑] #荣耀Magic9ProMax# #一加16# #iQOO16#",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-ce02f06bace0",
+      "title": "荣耀李健发布称，手机这个行业走到了最艰难的时刻，你说厂家难吧？难道用户就不难了吗？成本再高也不能全部转嫁给用户，我们愿意承担多一点压力！！！而小米良心点，让米粉多掏2000块[受虐滑稽]，",
+      "source": "酷安热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-29",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74072816",
+      "image": "",
+      "summary": "荣耀李健发布称，手机这个行业走到了最艰难的时刻，你说厂家难吧？难道用户就不难了吗？成本再高也不能全部转嫁给用户，我们愿意承担多一点压力！！！而小米良心点，让米粉多掏2000块[受虐滑稽]，",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-a9d92d6c5567",
+      "title": "今年小米18拉完了[流汗滑稽]受不了垃圾小米了，想转iPhone。请问尊贵的iPhone 18机主们iPhone18好用吗？Pro和Pro Max推荐哪个[色]还没用过苹果手机呢[色][色]#iPhone18ProMax# #iPhone18Pro# #iPhone18#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-29",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74036079",
+      "image": "",
+      "summary": "今年小米18拉完了[流汗滑稽]受不了垃圾小米了，想转iPhone。请问尊贵的iPhone 18机主们iPhone18好用吗？Pro和Pro Max推荐哪个[色]还没用过苹果手机呢[色][色]#iPhone18ProMax# #iPhone18Pro# #iPhone18#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-ceed23349c9e",
+      "title": "手机内置广告一直被骂，为什么没有一个厂商出一款纯净无广告的手机，是给得太多了吗？",
+      "source": "知乎热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-09-29",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2086472782729196810",
+      "image": "",
+      "summary": "手机内置广告一直被骂，为什么没有一个厂商出一款纯净无广告的手机，是给得太多了吗？",
+      "tags": [
+        "行业",
+        "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-8057c7dc5226",
+      "title": "华为 Mate90 系列旗舰定档 10 月 1 日发售，有哪些亮点值得关注？",
+      "source": "知乎热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-09-29",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2088199945174177197",
+      "image": "",
+      "summary": "华为 Mate90 系列旗舰定档 10 月 1 日发售，有哪些亮点值得关注？",
+      "tags": [
+        "Huawei",
+        "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "auto-0aea1dfe1089",
       "title": "Honor Magic 9 Pro Max vs Vivo X500 Pro Max: What’s Different?",
       "source": "Gizmochina",
@@ -817,26 +1157,6 @@ window.phoneRadarAuto = {
       "summary": "Honor launched the Magic 9 Pro Max in China today, a week after Vivo introduced the X500 Pro Max. It is also the second China flagship this week built around more than one 200MP c…",
       "tags": [
         "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-95075e3a58a0",
-      "title": "iPhone 18 Pro First Impressions: What Do You Think So Far?",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-28",
-      "time": "19:26",
-      "publishedAt": "2026-09-28T19:26:48.000Z",
-      "url": "https://www.macrumors.com/2026/09/28/iphone-18-pro-first-impressions/",
-      "image": "https://images.macrumors.com/article-new/2026/09/Apple-iPhone-18-Pro-color-lineup-16x9-1.jpg",
-      "summary": "It's been a little over a week since the iPhone 18 Pro models launched, and we want to hear from MacRumors readers. What do you think of Apple's newest iPhones? If you upgraded fr…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -1102,46 +1422,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-7c4d4f673986",
-      "title": "Your broken YouTube feed should finally be back to normal",
-      "source": "Android Authority",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-28",
-      "time": "09:14",
-      "publishedAt": "2026-09-28T09:14:26.000Z",
-      "url": "https://www.androidauthority.com/youtube-missing-thumbnails-blank-feed-bug-fixed-3715926/",
-      "image": "",
-      "summary": "The fix covers Home, Subscriptions, and profile feeds on Android and iOS.",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2d5e8068569a",
-      "title": "The Pixel 11 series has a gaming problem, and Google’s new graphics default is to blame",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-28",
-      "time": "09:00",
-      "publishedAt": "2026-09-28T09:00:27.000Z",
-      "url": "https://www.androidauthority.com/pixel-11-angle-gpu-test-gaming-problem-3712446/",
-      "image": "",
-      "summary": "Pixel 11's ANGLE gamble is causing serious gaming stutters.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-c4fd950d970b",
       "title": "Xiaomi 18 leaked specs reveal 7,200mAh battery, triple 200MP camera setup",
       "source": "Gizmochina",
@@ -1179,26 +1459,6 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-22475763e067",
-      "title": "It’s official: The OnePlus 16 launches next month with Elite Extreme power",
-      "source": "Android Authority",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-28",
-      "time": "07:10",
-      "publishedAt": "2026-09-28T07:10:06.000Z",
-      "url": "https://www.androidauthority.com/oneplus-16-launch-date-3715892/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/oneplus-16-hero.jpg",
-      "summary": "It's a pity the phone won't be available in Europe or the US.",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
