@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-29T22:14:01.426Z",
+  "updatedAt": "2026-09-30T01:17:57.070Z",
   "news": [
+    {
+      "id": "weibo-12420d2a04d8",
+      "title": "数码闲聊站：子系红加裤最近都有中端线新机入网，估计10月前后还有一波大乱斗，预计可以见到万…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-30",
+      "time": "01:17",
+      "publishedAt": "2026-09-30T01:17:57.070Z",
+      "url": "https://weibo.com/6048569942/RksQeu5Cp",
+      "image": "",
+      "summary": "子系红加裤最近都有中端线新机入网，估计10月前后还有一波大乱斗，预计可以见到万级大电池、超大主动散热风扇、2K大直屏等……[流鼻血]",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
     {
       "id": "weibo-e8e676f443fe",
       "title": "数码闲聊站：#iQOO16# 真机拿到了，简单聊几句： ——首发2K+165Hz双高规格，…",
@@ -9,9 +29,9 @@ window.phoneRadarAuto = {
       "model": "Samsung 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
-      "date": "2026-09-29",
-      "time": "22:14",
-      "publishedAt": "2026-09-29T22:14:01.426Z",
+      "date": "2026-09-30",
+      "time": "01:17",
+      "publishedAt": "2026-09-30T01:17:57.070Z",
       "url": "https://weibo.com/6048569942/RknZFiUss",
       "image": "https://tvax3.sinaimg.cn/mw2000/8f4a8a89ly8ihkmzeuhzbj23ls5eoe8i.jpg",
       "summary": "#iQOO16# 真机拿到了，简单聊几句： ——首发2K+165Hz双高规格，iPhone Duo同款三星M16发光材料+2K LEAD 2.0显示技术，实测手动亮度1250nits，全屏峰值亮度超2800nits，局部峰值干到了10000nits，户外阳光下可用性更高，M16材料的发光效率很高，所以屏幕功耗反而有所下降，甚至低于普通1.5K； 而且标配A…",
@@ -29,9 +49,9 @@ window.phoneRadarAuto = {
       "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
-      "date": "2026-09-29",
-      "time": "22:14",
-      "publishedAt": "2026-09-29T22:14:01.426Z",
+      "date": "2026-09-30",
+      "time": "01:17",
+      "publishedAt": "2026-09-30T01:17:57.070Z",
       "url": "https://weibo.com/6048569942/Rkmlmi4pQ",
       "image": "",
       "summary": "华为Mate90——麒麟9030 华为Mate90 Pro——麒麟9035（主频2.85GHz Maleoon 935 GPU）、6.75英寸双层OLED 华为Mate90 Pro Max——麒麟9050 Pro、6.9英寸双层OLED、18EV超大底主摄、2亿超大底长焦、典藏版可挂载1英寸10X镜头 华为Mate90 RS——麒麟9050 Pro、6.9…",
@@ -49,9 +69,9 @@ window.phoneRadarAuto = {
       "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
-      "date": "2026-09-29",
-      "time": "22:14",
-      "publishedAt": "2026-09-29T22:14:01.426Z",
+      "date": "2026-09-30",
+      "time": "01:17",
+      "publishedAt": "2026-09-30T01:17:57.070Z",
       "url": "https://weibo.com/6048569942/RkjgbeQml",
       "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ihk4ltdot8j30y813y1gr.jpg",
       "summary": "华为Mate90 Pro Max典藏版的原生巨炮，1英寸10X光学变焦，等效焦距24mm-240mm[微风] *以上图片均来着网络",
@@ -59,6 +79,386 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "微博"
+      ]
+    },
+    {
+      "id": "coolapk-user-dbc7956c6f46",
+      "title": "JSCHEN小小狐：『vivo Y600i 正式开售：1999 元起』 #今日热点# #vivoY600i#",
+      "source": "JSCHEN小小狐",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-30",
+      "time": "01:13",
+      "publishedAt": "2026-09-30T01:13:13.000Z",
+      "url": "https://www.coolapk.com/feed/74075023",
+      "image": "http://image.coolapk.com/feed/2026/0930/09/4702274_d2538800_0792_41_254@2494x3325.jpg",
+      "summary": "『vivo Y600i 正式开售：1999 元起』 #今日热点# #vivoY600i#",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-2490b7bc804b",
+      "title": "全球限 19 台：Caviar 推“终极”版苹果 iPhone Duo，移除后摄 + 黑色钛金属背板",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-30",
+      "time": "01:04",
+      "publishedAt": "2026-09-30T01:04:38.000Z",
+      "url": "https://www.ithome.com/1/008/578.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/bc08b803-0e24-4414-9f90-f43d3696e743.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 30 日消息，奢侈品厂商 Caviar 今天（9 月 30 日）发布公告，宣布在苹果 iPhone 18 Pro、iPhone 18 Pro Max 以及 iPhone Duo 三款机型上， 定制推出 Black Edition 系列，每款限量 19 台，起售价 10,560 美元 （IT之家注：现汇率约合 70,941 元人民币） 。…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f88c473bc838",
+      "title": "Celebrating “What Holds Us” on iPhone 18 Pro",
+      "source": "Apple Newsroom",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-09-30",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.apple.com/newsroom/2026/09/celebrating-what-holds-us-on-iphone-18-pro/",
+      "image": "",
+      "summary": "A new photography exhibition, curated by Kathy Ryan, celebrates the evolving language of visual storytelling and showcases the advanced pro camera system on iPhone 18 Pro.",
+      "tags": [
+        "iPhone",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-728bbee10ddb",
+      "title": "Apple unveils iPhone Duo",
+      "source": "Apple Newsroom",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-09-30",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
+      "image": "",
+      "summary": "Apple today introduced iPhone Duo, the first foldable iPhone.",
+      "tags": [
+        "iPhone",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-07e6d6658c80",
+      "title": "Apple debuts iPhone 18 Pro and iPhone 18 Pro Max",
+      "source": "Apple Newsroom",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-09-30",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+      "image": "",
+      "summary": "Apple announced iPhone 18 Pro and iPhone 18 Pro Max, delivering an advanced pro camera system and improved battery life and performance.",
+      "tags": [
+        "iPhone",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "newsnow-ea9c51e98adf",
+      "title": "众测招募｜泡泡骚 Low Pro：给新 iPhone 添一件极简「背心」",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-30",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/114410",
+      "image": "",
+      "summary": "众测招募｜泡泡骚 Low Pro：给新 iPhone 添一件极简「背心」",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-8410f048e400",
+      "title": "新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-30",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/114453",
+      "image": "",
+      "summary": "新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-89b9d2c6d9ea",
+      "title": "iQOO16 正式发布：5999元起",
+      "source": "酷安热榜",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-30",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74066694",
+      "image": "",
+      "summary": "iQOO16 正式发布：5999元起",
+      "tags": [
+        "vivo",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-6e66bf8214ca",
+      "title": "iqoo16牛逼，这正面太吊了，这是起步6000顶配8500的手机[笑眼]",
+      "source": "酷安热榜",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-30",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74068335",
+      "image": "",
+      "summary": "iqoo16牛逼，这正面太吊了，这是起步6000顶配8500的手机[笑眼]",
+      "tags": [
+        "vivo",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-525e3dbd78fa",
+      "title": "由于荣耀Magic9 Pro Max珠玉在前，vivo X500系列定价又特别癫，iQOO 16定价这次也不敢太飘。目前从官方价格看来，定价跟荣耀Magic9 Pro Max完全一致。",
+      "source": "酷安热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-30",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74069172",
+      "image": "",
+      "summary": "由于荣耀Magic9 Pro Max珠玉在前，vivo X500系列定价又特别癫，iQOO 16定价这次也不敢太飘。目前从官方价格看来，定价跟荣耀Magic9 Pro Max完全一致。",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-d4c977654e8b",
+      "title": "【iQOO 16 正式发布：骁龙8EE6处理器+2K 165Hz三星直屏，5999元起】",
+      "source": "酷安热榜",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-30",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74066709",
+      "image": "",
+      "summary": "【iQOO 16 正式发布：骁龙8EE6处理器+2K 165Hz三星直屏，5999元起】",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-ada13d36ea4b",
+      "title": "看了一大堆人在吹荣耀，价格低是确实的，但是无论是系统还是拍照，我是真不信荣耀能打 oppo，c17 日用无论功能性还是流畅度真的找不到缺点，音质确实比不上荣耀，但是可以用第三方软件调一下，7299 买的其实对比荣耀首发也贵不了多少，几百块钱还是为了热爱买单吧，不想为了几百就妥协 #荣耀Magic9ProMax#",
+      "source": "酷安热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-30",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74059589",
+      "image": "",
+      "summary": "看了一大堆人在吹荣耀，价格低是确实的，但是无论是系统还是拍照，我是真不信荣耀能打 oppo，c17 日用无论功能性还是流畅度真的找不到缺点，音质确实比不上荣耀，但是可以用第三方软件调一下，7299 买的其实对比荣耀首发也贵不了多少，几百块钱还是为了热爱买单吧，不想为了几百就妥协 #荣耀Magic9ProMax#",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-64c38095d09b",
+      "title": "行业寒冬下，有的人直接摆烂，而有的人绝境求生[微笑] #荣耀Magic9ProMax# #一加16# #iQOO16#",
+      "source": "酷安热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-30",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74044742",
+      "image": "",
+      "summary": "行业寒冬下，有的人直接摆烂，而有的人绝境求生[微笑] #荣耀Magic9ProMax# #一加16# #iQOO16#",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-d5817ffb0db2",
+      "title": "不是iqoo16这，黑边怎么还倒退了，下巴这么宽？[牛牛尴尬][牛牛尴尬][牛牛尴尬]#OriginOS7# #iQOO15##iQOOPadUltra#",
+      "source": "酷安热榜",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-30",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74071341",
+      "image": "",
+      "summary": "不是iqoo16这，黑边怎么还倒退了，下巴这么宽？[牛牛尴尬][牛牛尴尬][牛牛尴尬]#OriginOS7# #iQOO15##iQOOPadUltra#",
+      "tags": [
+        "vivo",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-07ea76f899e4",
+      "title": "今年小米18拉完了[流汗滑稽]受不了垃圾小米了，想转iPhone。请问尊贵的iPhone 18机主们iPhone18好用吗？Pro和Pro Max推荐哪个[色]还没用过苹果手机呢[色][色]#iPhone18ProMax# #iPhone18Pro# #iPhone18#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-30",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74036079",
+      "image": "",
+      "summary": "今年小米18拉完了[流汗滑稽]受不了垃圾小米了，想转iPhone。请问尊贵的iPhone 18机主们iPhone18好用吗？Pro和Pro Max推荐哪个[色]还没用过苹果手机呢[色][色]#iPhone18ProMax# #iPhone18Pro# #iPhone18#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "auto-baf9ebeb866e",
+      "title": "vivo Y600i 手机首销：第二代骁龙 4、8000mAh 电池，6GB+256GB 售价 1999 元",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-29",
+      "time": "23:59",
+      "publishedAt": "2026-09-29T23:59:11.000Z",
+      "url": "https://www.ithome.com/1/008/562.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/fbd090c3-6452-499c-ab73-d4a6b91fc3f6.png",
+      "summary": "IT之家 9 月 30 日消息，vivo Y600i 手机今日首销， 6GB+256GB 售价 1999 元 。 6GB+128GB（暂未开售）：1699 元 6GB+256GB：1999 元 这款手机搭载 第二代骁龙 4 移动平台，电池容量 8000mAh，支持 44W 闪充（11V 4A）；前置摄像头 800 万像素、后置摄像头 5000 万像素，支持…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9089d9d4c10f",
+      "title": "Caviar launches ultra-luxury Black Edition iPhone 18 Pro and iPhone Duo with no cameras",
+      "source": "Gizmochina",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-29",
+      "time": "23:22",
+      "publishedAt": "2026-09-29T23:22:16.000Z",
+      "url": "https://www.gizmochina.com/2026/09/29/caviar-iphone-18-pro-and-iphone-duo-black-edition-launched-specs-price/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Caviar-iPhone-18-Pro-and-iPhone-Duo-Black-Edition-1-300x167.webp?x96852",
+      "summary": "Caviar, the company known for wrapping standard Apple hardware in expensive materials, has announced its new Black Edition collection. The lineup includes heavily modified version…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d4250601c1e1",
+      "title": "微软 XBOX 实体光盘数字化服务向全部玩家推送",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-29",
+      "time": "23:01",
+      "publishedAt": "2026-09-29T23:01:48.000Z",
+      "url": "https://www.ithome.com/1/008/552.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/ac443467-0b7e-4c20-94a1-f72f3fbeba38.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 30 日消息，经过数月的传闻之后，微软在八月份证实，公司确实正在为自家的 XBOX 主机开发一项光盘数字化方案。这项功能最先向 XBOX 预览体验计划用户开放，仅仅几周之后，如今已经正式向全部 XBOX 玩家推送。 微软在社交媒体上宣布了光盘转数字版功能的上线消息，不少用户也已经通过 XBOX 手机应用收到通知，提示该功能已经对自己生效。…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-58933c4b9f76",
+      "title": "谷歌 Pixel 11a 手机渲染图曝光：Tensor G6 芯片、联发科调制解调器",
+      "source": "IT之家",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-29",
+      "time": "22:54",
+      "publishedAt": "2026-09-29T22:54:09.000Z",
+      "url": "https://www.ithome.com/1/008/551.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/da3eca9f-d074-4370-b36d-6abdd9cb55f1.png",
+      "summary": "IT之家 9 月 30 日消息，科技媒体 Android Headline 昨日（9 月 29 日）发布博文，分享了一组渲染图， 展示了谷歌 Pixel 11a， 并预估该手机 2027 年春季发布，售价可能从 499 美元 （IT之家注：现汇率约合 3,354 元人民币） 上调至 599 美元 （现汇率约合 4,026 元人民币） 。 外观方面，Pixe…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -322,26 +722,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-13b88a548fc9",
-      "title": "苹果 iPhone 18 Pro 售价大涨，越来越多日本人开始考虑二手手机",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-29",
-      "time": "15:15",
-      "publishedAt": "2026-09-29T15:15:39.000Z",
-      "url": "https://www.ithome.com/1/008/515.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/bacb34e3-2461-47a0-8ac9-1397fbbf434c.jpg",
-      "summary": "IT之家 9 月 29 日消息，苹果本月初推出 iPhone 18 Pro 系列手机。新机带来可变光圈、灵动岛尺寸缩小等一系列升级，售价增长也引发热议。在日本市场， iPhone 18 Pro 与 5 年前同级机型相比 ， 价格几乎翻了一番 。 ▲ IT之家 Apple Park 实拍：iPhone 18 Pro 系列真机 据共同社今天报道， 苹果 iPh…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-1eba959345be",
       "title": "First look: The Pixel 11a breaks cover in purple finish",
       "source": "Android Authority",
@@ -462,26 +842,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-2d1e13aace0a",
-      "title": "【视频】华为 Mate 90 Pro Max典藏版开箱，积木壳玩法多多",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-29",
-      "time": "13:10",
-      "publishedAt": "2026-09-29T13:10:17.000Z",
-      "url": "https://www.ithome.com/1/008/481.htm",
-      "image": "",
-      "summary": "翡冷翠配色回归，神秘触点、能装药能补妆的积木壳……华为 Mate 90 Pro Max典藏版更多玩法请看视频。 点击关注IT之家B站账号",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-9a15ea44c409",
       "title": "竹本青：隔壁平台就吹吧，还竞争力相当强",
       "source": "竹本青",
@@ -559,26 +919,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-5014f8b6b9fd",
-      "title": "竹本青：就硬拉时间，找职业选手上来又是要干啥",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-29",
-      "time": "12:25",
-      "publishedAt": "2026-09-29T12:25:07.000Z",
-      "url": "https://www.coolapk.com/feed/74066430",
-      "image": "",
-      "summary": "就硬拉时间，找职业选手上来又是要干啥",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -799,726 +1139,6 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-f88c473bc838",
-      "title": "Celebrating “What Holds Us” on iPhone 18 Pro",
-      "source": "Apple Newsroom",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "官方",
-      "trust": "官方确认",
-      "date": "2026-09-29",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.apple.com/newsroom/2026/09/celebrating-what-holds-us-on-iphone-18-pro/",
-      "image": "",
-      "summary": "A new photography exhibition, curated by Kathy Ryan, celebrates the evolving language of visual storytelling and showcases the advanced pro camera system on iPhone 18 Pro.",
-      "tags": [
-        "iPhone",
-        "官方",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-728bbee10ddb",
-      "title": "Apple unveils iPhone Duo",
-      "source": "Apple Newsroom",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "官方",
-      "trust": "官方确认",
-      "date": "2026-09-29",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
-      "image": "",
-      "summary": "Apple today introduced iPhone Duo, the first foldable iPhone.",
-      "tags": [
-        "iPhone",
-        "官方",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-07e6d6658c80",
-      "title": "Apple debuts iPhone 18 Pro and iPhone 18 Pro Max",
-      "source": "Apple Newsroom",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "官方",
-      "trust": "官方确认",
-      "date": "2026-09-29",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
-      "image": "",
-      "summary": "Apple announced iPhone 18 Pro and iPhone 18 Pro Max, delivering an advanced pro camera system and improved battery life and performance.",
-      "tags": [
-        "iPhone",
-        "官方",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "newsnow-54c2402856e6",
-      "title": "众测招募｜泡泡骚 Low Pro：给新 iPhone 添一件极简「背心」",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-09-29",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/114410",
-      "image": "",
-      "summary": "众测招募｜泡泡骚 Low Pro：给新 iPhone 添一件极简「背心」",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-3dc5541364a5",
-      "title": "新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-09-29",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/114453",
-      "image": "",
-      "summary": "新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-6ce85668ee39",
-      "title": "iQOO16 正式发布：5999元起",
-      "source": "酷安热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-29",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74066694",
-      "image": "",
-      "summary": "iQOO16 正式发布：5999元起",
-      "tags": [
-        "vivo",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-b4ebe6b3b1f1",
-      "title": "iqoo16牛逼，这正面太吊了，这是起步6000顶配8500的手机[笑眼]",
-      "source": "酷安热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-29",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74068335",
-      "image": "",
-      "summary": "iqoo16牛逼，这正面太吊了，这是起步6000顶配8500的手机[笑眼]",
-      "tags": [
-        "vivo",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-3438a494723c",
-      "title": "【iQOO 16 正式发布：骁龙8EE6处理器+2K 165Hz三星直屏，5999元起】",
-      "source": "酷安热榜",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-29",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74066709",
-      "image": "",
-      "summary": "【iQOO 16 正式发布：骁龙8EE6处理器+2K 165Hz三星直屏，5999元起】",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-04432894fbc6",
-      "title": "由于荣耀Magic9 Pro Max珠玉在前，vivo X500系列定价又特别癫，iQOO 16定价这次也不敢太飘。目前从官方价格看来，定价跟荣耀Magic9 Pro Max完全一致。",
-      "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-29",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74069172",
-      "image": "",
-      "summary": "由于荣耀Magic9 Pro Max珠玉在前，vivo X500系列定价又特别癫，iQOO 16定价这次也不敢太飘。目前从官方价格看来，定价跟荣耀Magic9 Pro Max完全一致。",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-a54ac751d944",
-      "title": "那些嫌贵的我真不理解，8ee6，单颗芯片拿货就已经将近两千了，还有三星m16基材，2k165hz，还得给你适配光追，虽然不算严格意义上的原生光追，那也得研发吧？而且内存还在涨价，能给到这个价格我真觉得非常有诚意了 #iQOOPadUltra#",
-      "source": "酷安热榜",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-29",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74072459",
-      "image": "",
-      "summary": "那些嫌贵的我真不理解，8ee6，单颗芯片拿货就已经将近两千了，还有三星m16基材，2k165hz，还得给你适配光追，虽然不算严格意义上的原生光追，那也得研发吧？而且内存还在涨价，能给到这个价格我真觉得非常有诚意了 #iQOOPadUltra#",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-395084d655cc",
-      "title": "看了一大堆人在吹荣耀，价格低是确实的，但是无论是系统还是拍照，我是真不信荣耀能打 oppo，c17 日用无论功能性还是流畅度真的找不到缺点，音质确实比不上荣耀，但是可以用第三方软件调一下，7299 买的其实对比荣耀首发也贵不了多少，几百块钱还是为了热爱买单吧，不想为了几百就妥协 #荣耀Magic9ProMax#",
-      "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-29",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74059589",
-      "image": "",
-      "summary": "看了一大堆人在吹荣耀，价格低是确实的，但是无论是系统还是拍照，我是真不信荣耀能打 oppo，c17 日用无论功能性还是流畅度真的找不到缺点，音质确实比不上荣耀，但是可以用第三方软件调一下，7299 买的其实对比荣耀首发也贵不了多少，几百块钱还是为了热爱买单吧，不想为了几百就妥协 #荣耀Magic9ProMax#",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-e035f9c00025",
-      "title": "不是iqoo16这，黑边怎么还倒退了，下巴这么宽？[牛牛尴尬][牛牛尴尬][牛牛尴尬]#OriginOS7# #iQOO15##iQOOPadUltra#",
-      "source": "酷安热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-29",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74071341",
-      "image": "",
-      "summary": "不是iqoo16这，黑边怎么还倒退了，下巴这么宽？[牛牛尴尬][牛牛尴尬][牛牛尴尬]#OriginOS7# #iQOO15##iQOOPadUltra#",
-      "tags": [
-        "vivo",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-980350b6bea9",
-      "title": "行业寒冬下，有的人直接摆烂，而有的人绝境求生[微笑] #荣耀Magic9ProMax# #一加16# #iQOO16#",
-      "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-29",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74044742",
-      "image": "",
-      "summary": "行业寒冬下，有的人直接摆烂，而有的人绝境求生[微笑] #荣耀Magic9ProMax# #一加16# #iQOO16#",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-ce02f06bace0",
-      "title": "荣耀李健发布称，手机这个行业走到了最艰难的时刻，你说厂家难吧？难道用户就不难了吗？成本再高也不能全部转嫁给用户，我们愿意承担多一点压力！！！而小米良心点，让米粉多掏2000块[受虐滑稽]，",
-      "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-29",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74072816",
-      "image": "",
-      "summary": "荣耀李健发布称，手机这个行业走到了最艰难的时刻，你说厂家难吧？难道用户就不难了吗？成本再高也不能全部转嫁给用户，我们愿意承担多一点压力！！！而小米良心点，让米粉多掏2000块[受虐滑稽]，",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-a9d92d6c5567",
-      "title": "今年小米18拉完了[流汗滑稽]受不了垃圾小米了，想转iPhone。请问尊贵的iPhone 18机主们iPhone18好用吗？Pro和Pro Max推荐哪个[色]还没用过苹果手机呢[色][色]#iPhone18ProMax# #iPhone18Pro# #iPhone18#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-29",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74036079",
-      "image": "",
-      "summary": "今年小米18拉完了[流汗滑稽]受不了垃圾小米了，想转iPhone。请问尊贵的iPhone 18机主们iPhone18好用吗？Pro和Pro Max推荐哪个[色]还没用过苹果手机呢[色][色]#iPhone18ProMax# #iPhone18Pro# #iPhone18#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-ceed23349c9e",
-      "title": "手机内置广告一直被骂，为什么没有一个厂商出一款纯净无广告的手机，是给得太多了吗？",
-      "source": "知乎热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "市场报告",
-      "trust": "媒体汇总",
-      "date": "2026-09-29",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2086472782729196810",
-      "image": "",
-      "summary": "手机内置广告一直被骂，为什么没有一个厂商出一款纯净无广告的手机，是给得太多了吗？",
-      "tags": [
-        "行业",
-        "市场报告",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-8057c7dc5226",
-      "title": "华为 Mate90 系列旗舰定档 10 月 1 日发售，有哪些亮点值得关注？",
-      "source": "知乎热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "市场报告",
-      "trust": "媒体汇总",
-      "date": "2026-09-29",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2088199945174177197",
-      "image": "",
-      "summary": "华为 Mate90 系列旗舰定档 10 月 1 日发售，有哪些亮点值得关注？",
-      "tags": [
-        "Huawei",
-        "市场报告",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-0aea1dfe1089",
-      "title": "Honor Magic 9 Pro Max vs Vivo X500 Pro Max: What’s Different?",
-      "source": "Gizmochina",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-28",
-      "time": "19:43",
-      "publishedAt": "2026-09-28T19:43:52.000Z",
-      "url": "https://www.gizmochina.com/2026/09/28/honor-magic-9-pro-max-vs-vivo-x500-pro-max-whats-different/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Honor-Magic-9-Pro-Max-vs-Vivo-X500-Pro-Max-300x150.jpg?x96852",
-      "summary": "Honor launched the Magic 9 Pro Max in China today, a week after Vivo introduced the X500 Pro Max. It is also the second China flagship this week built around more than one 200MP c…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-42a5b4844b73",
-      "title": "iPhone Duo accessories: Here are five top picks for Apple’s foldable",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-28",
-      "time": "19:24",
-      "publishedAt": "2026-09-28T19:24:26.000Z",
-      "url": "https://9to5mac.com/2026/09/28/iphone-duo-accessories-here-are-five-top-picks-for-apples-foldable/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-front-display-hand.jpg?quality=82&strip=all&w=1600",
-      "summary": "iPhone Duo will be here soon , so if you want to get a head start on accessories for Apple’s new model, here are our top recommendations. more…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b043bad35d79",
-      "title": "Honor's Magic 9 Pro Max takes the ARRI cinematic route: spotlights 4K 60fps, 8,800mAh battery",
-      "source": "Android Central",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-09-28",
-      "time": "18:06",
-      "publishedAt": "2026-09-28T18:06:15.000Z",
-      "url": "https://www.androidcentral.com/phones/honor-phones/honors-magic-9-pro-max-takes-the-arri-cinematic-route-launch",
-      "image": "https://cdn.mos.cms.futurecdn.net/ZJ7RVYbZXbQZPLbRHK35Vg-1920-80.jpg",
-      "summary": "Honor's Magic 9 Pro Max is a beast of a phone for videographers and photographers, thanks to ARRI's continued presence for cinematic refinements.",
-      "tags": [
-        "HONOR",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-6c4be4b08b24",
-      "title": "Huawei Mate 90 series renders confirm three punch-hole front, show back designs of Pro Max and RS Ultimate Design",
-      "source": "Gizmochina",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-28",
-      "time": "17:42",
-      "publishedAt": "2026-09-28T17:42:54.000Z",
-      "url": "https://www.gizmochina.com/2026/09/28/huawei-mate-90-renders-three-punch-hole-display-back-design/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Huawei-Mate-90-series-front-and-back-design-300x200.jpg?x96852",
-      "summary": "Huawei‘s Mate 90 series has now shown its front design in a set of official-looking renders. They confirm that all four phones keep the three punch-hole layout, and a second set o…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a69e8c8d96a3",
-      "title": "Motorola’s wide Galaxy Z Fold 8 competitor might be very tiny and called ‘Razr Flex’",
-      "source": "9to5Google",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-28",
-      "time": "16:30",
-      "publishedAt": "2026-09-28T16:30:00.000Z",
-      "url": "https://9to5google.com/2026/09/28/motorola-razr-flex-wide-foldable-specs-size-leak/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Motorola-Razr-Fold-Wide-concept-leak-header.jpg?quality=82&strip=all&w=1400",
-      "summary": "According to a new leak, Motorola’s upcoming entry in the wide, book-style foldable space may be called “Razr Flex” and pack some very familiar specs. more…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-737c5cd05726",
-      "title": "Honor Magic 9 Pro Max goes official with 8,800 mAh battery, ARRI cameras, Snapdragon 8 Elite Extreme Gen 6",
-      "source": "9to5Google",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-28",
-      "time": "14:45",
-      "publishedAt": "2026-09-28T14:45:00.000Z",
-      "url": "https://9to5google.com/2026/09/28/honor-magic-9-pro-max-battery-arri-cameras-official-specs/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/honor-magic-9-pro-max-copy.jpg?quality=82&strip=all&w=1600",
-      "summary": "Honor has officially announced its latest flagship in China, with the Honor Magic 9 Pro Max packing powerful specs, upgraded cameras, the latest Snapdragon chip, and confirmed for…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-7355ddc7972e",
-      "title": "Leak reveals new iPhone Duo features not yet announced",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-28",
-      "time": "14:41",
-      "publishedAt": "2026-09-28T14:41:27.000Z",
-      "url": "https://9to5mac.com/2026/09/28/leak-reveals-new-iphone-duo-features-not-yet-announced/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/The-iPhone-Duo-is-Apple-at-its-absolute-best.jpg?quality=82&strip=all&w=1600",
-      "summary": "iPhone Duo is coming October 23 , but there are several unannounced features coming to its StandBy mode that were just discovered hidden in Apple code. more…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-dcd29ee4f0d1",
-      "title": "Samsung Galaxy S27 Ultra camera mystery deepens as leakers clash over new render",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-28",
-      "time": "14:25",
-      "publishedAt": "2026-09-28T14:25:53.000Z",
-      "url": "https://www.androidauthority.com/samsung-galaxy-s27-ultra-camera-render-leak-3716236/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Samsung-Galaxy-S26-Ultra-camera-closeup-scaled.jpg",
-      "summary": "While OnLeaks details a new camera layout, conflicting claims from Ice Universe leave the exact setup in doubt.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-3df55e366e9b",
-      "title": "Survey reveals readers’ favorite Galaxy S26 FE alternative — and it’s not a Samsung or Pixel",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-28",
-      "time": "12:36",
-      "publishedAt": "2026-09-28T12:36:51.000Z",
-      "url": "https://www.androidauthority.com/best-samsung-galaxy-s26-fe-alternative-poll-results-3716055/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Motorola-Moto-Edge-2026-home-screen.jpg",
-      "summary": "The Galaxy S26 and Pixel 11 can't best this dark horse.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-283efe137aae",
-      "title": "The iPhone 18 Pro: The best and final iteration of the current form factor?",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-28",
-      "time": "12:08",
-      "publishedAt": "2026-09-28T12:08:02.000Z",
-      "url": "https://9to5mac.com/2026/09/28/the-iphone-18-pro-the-best-and-final-iteration-of-the-current-form-factor/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iPhone-18-Pro-Diary.jpg?quality=82&strip=all&w=1600",
-      "summary": "There’s a running joke that Apple always breathlessly announces that each year’s iPhone Pro is “the best iPhone we’ve ever made,” as if that were in some way surprising. But I do…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-8d5b34c670b2",
-      "title": "Honor Magic9 is here with dual 200MP ARRI cameras and a 200mm teleconverter",
-      "source": "Gizmochina",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-28",
-      "time": "10:08",
-      "publishedAt": "2026-09-28T10:08:17.000Z",
-      "url": "https://www.gizmochina.com/2026/09/28/honor-magic9-is-here-with-dual-200mp-arri-cameras-and-a-200mm-teleconverter/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Honor-Magic-9-Launch-Specs-Price-300x200.jpg?x96852",
-      "summary": "Honor has officially launched the Magic 9 in China with a compact 6.37-inch display, dual 200MP ARRI cameras, an 8,000mAh battery, and the new MagicOS 11 software. The phone start…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c5c2a5fc0781",
-      "title": "I used the iPhone 17 for a year, but the Pixel 11 won me over for 5 key reasons",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-28",
-      "time": "10:00",
-      "publishedAt": "2026-09-28T10:00:54.000Z",
-      "url": "https://www.androidauthority.com/google-pixel-11-vs-iphone-17-comparison-3714444/",
-      "image": "",
-      "summary": "The grass looks Pixel-er over here.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d3c7155429f3",
-      "title": "Honor Magic9 Pro Max launches with dual 200MP cameras and 10,000-nit display",
-      "source": "Gizmochina",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-28",
-      "time": "09:45",
-      "publishedAt": "2026-09-28T09:45:14.000Z",
-      "url": "https://www.gizmochina.com/2026/09/28/honor-magic-9-pro-max-launched-dual-200mp-cameras-8800mah-battery-price/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Honor-Magic-9-Pro-Max-G500-Telephoto-Converter-300x200.jpg?x96852",
-      "summary": "As scheduled, Honor officially took the wraps off the Magic9 Pro Max in China today. The phone starts at 6,499 yuan, or about $970, and brings two 200MP cameras tuned with ARRI, a…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-92eb5b7b1be6",
-      "title": "Honor Magic 9 Super Edition launches with 11,000mAh battery, 200MP triple cameras, Snapdragon 8 Elite Gen 5",
-      "source": "Gizmochina",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-28",
-      "time": "09:34",
-      "publishedAt": "2026-09-28T09:34:06.000Z",
-      "url": "https://www.gizmochina.com/2026/09/28/honor-magic-9-super-edition-launches-with-11000mah-battery-200mp-triple-cameras-snapdragon-8-elite-gen-5/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Honor-Magic-9-Super-Edition-featured-300x164.png?x96852",
-      "summary": "Honor has finally unveiled the much-anticipated Magic 9 series in China. Alongside the standard Magic 9 and Magic 9 Pro Max models, the lineup also includes the Magic 9 Super Edit…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c4fd950d970b",
-      "title": "Xiaomi 18 leaked specs reveal 7,200mAh battery, triple 200MP camera setup",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-28",
-      "time": "08:14",
-      "publishedAt": "2026-09-28T08:14:18.000Z",
-      "url": "https://www.gizmochina.com/2026/09/28/xiaomi-18-specifications-leaked/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Xiaomi-18-Pro-Series-Unboxing_1.mp4_20260924_182100.987-300x150.jpg?x96852",
-      "summary": "Last week, Xiaomi unveiled the Xiaomi 18 Pro and 18 Pro Max in China, but the standard model was missing from the lineup. A recent certification has since suggested that the Xiaom…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-1a898e957f2e",
-      "title": "JSCHEN小小狐：原来就是 7514A 吗…… 向各位道歉，这波二次传谣了[doge笑哭]",
-      "source": "JSCHEN小小狐",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-28",
-      "time": "07:40",
-      "publishedAt": "2026-09-28T07:40:50.000Z",
-      "url": "https://www.coolapk.com/feed/74038588",
-      "image": "",
-      "summary": "原来就是 7514A 吗…… 向各位道歉，这波二次传谣了[doge笑哭]",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-210aeef9c476",
-      "title": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
-      "source": "少数派",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-09-28",
-      "time": "07:00",
-      "publishedAt": "2026-09-28T07:00:00.000Z",
-      "url": "https://sspai.com/post/114972",
-      "image": "",
-      "summary": "一起来看看 Apple 是如何围绕一块会改变形状的屏幕，重新思考人与界面的关系。",
-      "tags": [
-        "iPhone",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-3805dec47dbd",
-      "title": "JSCHEN小小狐：华为 Mate90 系列海报/背部渲染图曝光",
-      "source": "JSCHEN小小狐",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-28",
-      "time": "05:47",
-      "publishedAt": "2026-09-28T05:47:50.000Z",
-      "url": "https://www.coolapk.com/feed/74036523",
-      "image": "http://image.coolapk.com/feed/2026/0928/13/4702274_51e31fff_4468_8792_191@1920x960.jpg",
-      "summary": "『华为 Mate90 系列海报泄露/背部渲染图曝光』 宣传语：「踏光向前」 华为 Mate90： ◇ 麒麟 9030 5G SoC ◇ 单层 OLED 显示屏 ◇ 50Mp 1/1.56'' 主摄 + 50Mp 潜望 ◇ 6600±mAh 电池，支持无线快充 ◇ 曜石黑、零度白、晶格绿、晶格粉 ◇ 12+256GB/12+512GB/12+1TB 华为 M…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-17b5df67a87b",
-      "title": "百万阿莱失踪案｜荣耀Magic9 Pro Max 首发评测",
-      "source": "爱范儿",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-09-28",
-      "time": "02:32",
-      "publishedAt": "2026-09-28T02:32:03.000Z",
-      "url": "https://www.ifanr.com/1682199?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "image": "https://s3.ifanr.com/wp-content/uploads/2026/09/rongyao20260928.png",
-      "summary": "一份保密协议，一部失踪的手机，这次我们不只介绍荣耀Magic9 Pro Max，而是用它拍一场关于谁拿了它的电影。所有线索都在画面里——至少，一开始我们是这么以为的。",
-      "tags": [
-        "HONOR",
-        "评测",
-        "自动抓取"
       ]
     }
   ]
