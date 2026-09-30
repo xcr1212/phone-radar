@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-30T16:24:18.408Z",
+  "updatedAt": "2026-09-30T22:14:41.557Z",
   "news": [
     {
       "id": "weibo-f7e4d6168a26",
@@ -10,8 +10,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-30",
-      "time": "16:24",
-      "publishedAt": "2026-09-30T16:24:18.408Z",
+      "time": "22:14",
+      "publishedAt": "2026-09-30T22:14:41.557Z",
       "url": "https://weibo.com/6048569942/Rkw3lCtbI",
       "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ihltiohha9j30zc3s9npd.jpg",
       "summary": "华为Mate90系列明天发布，猜猜价格吧： 补充一些信息，Mate90是6600mAh电池+66W(100W)快充，50Mp可变光圈高动态大底主摄，50Mp聚光长焦，麒麟9030； Mate90 Pro是双层OLED，最高12000nits，麒麟9035，50Mp潜望镜支持5cm长焦微距； Mate90 PM/RS都是18EV 50Mp超大底主摄+40Mp…",
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-30",
-      "time": "16:24",
-      "publishedAt": "2026-09-30T16:24:18.408Z",
+      "time": "22:14",
+      "publishedAt": "2026-09-30T22:14:41.557Z",
       "url": "https://weibo.com/6048569942/RkuQYC8En",
       "image": "",
       "summary": "摸了一下昨天 iQOO16 首销数据，竟然是近期已发安卓旗舰中的单品销量TOP1。 目前在狗猫抖三大电商平台的总销量是下半年安卓旗舰首销TOP1，而且是一杯打其它所有厂商的多杯组合，还几乎全打赢了……[哆啦A梦害怕]",
@@ -50,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-30",
-      "time": "16:24",
-      "publishedAt": "2026-09-30T16:24:18.408Z",
+      "time": "22:14",
+      "publishedAt": "2026-09-30T22:14:41.557Z",
       "url": "https://weibo.com/6048569942/RkuyMxv05",
       "image": "",
       "summary": "耀子年底还有一堆新机，荣耀700 Pro系列有原生背屏，主打2亿超清影像。中端线还有X新品，7英寸大屏+超万级大电池，阔折叠加速中，阔直板也立项了，支持卷起来[二哈]",
@@ -70,8 +70,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-30",
-      "time": "16:24",
-      "publishedAt": "2026-09-30T16:24:18.408Z",
+      "time": "22:14",
+      "publishedAt": "2026-09-30T22:14:41.557Z",
       "url": "https://weibo.com/6048569942/RksQeu5Cp",
       "image": "",
       "summary": "子系红加裤最近都有中端线新机入网，估计10月前后还有一波大乱斗，预计可以见到万级大电池、超大主动散热风扇、2K大直屏等……[流鼻血]",
@@ -90,8 +90,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-30",
-      "time": "16:24",
-      "publishedAt": "2026-09-30T16:24:18.408Z",
+      "time": "22:14",
+      "publishedAt": "2026-09-30T22:14:41.557Z",
       "url": "https://weibo.com/6048569942/RknZFiUss",
       "image": "https://tvax3.sinaimg.cn/mw2000/8f4a8a89ly8ihkmzeuhzbj23ls5eoe8i.jpg",
       "summary": "#iQOO16# 真机拿到了，简单聊几句： ——首发2K+165Hz双高规格，iPhone Duo同款三星M16发光材料+2K LEAD 2.0显示技术，实测手动亮度1250nits，全屏峰值亮度超2800nits，局部峰值干到了10000nits，户外阳光下可用性更高，M16材料的发光效率很高，所以屏幕功耗反而有所下降，甚至低于普通1.5K； 而且标配A…",
@@ -110,8 +110,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-30",
-      "time": "16:24",
-      "publishedAt": "2026-09-30T16:24:18.408Z",
+      "time": "22:14",
+      "publishedAt": "2026-09-30T22:14:41.557Z",
       "url": "https://weibo.com/6048569942/Rkmlmi4pQ",
       "image": "",
       "summary": "华为Mate90——麒麟9030 华为Mate90 Pro——麒麟9035（主频2.85GHz Maleoon 935 GPU）、6.75英寸双层OLED 华为Mate90 Pro Max——麒麟9050 Pro、6.9英寸双层OLED、18EV超大底主摄、2亿超大底长焦、典藏版可挂载1英寸10X镜头 华为Mate90 RS——麒麟9050 Pro、6.9…",
@@ -119,6 +119,106 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "微博"
+      ]
+    },
+    {
+      "id": "auto-8f67c7fb631e",
+      "title": "Our top iPhone 18 Pro accessories to upgrade your setup [Update #2]",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-30",
+      "time": "20:10",
+      "publishedAt": "2026-09-30T20:10:00.000Z",
+      "url": "https://9to5mac.com/2026/09/30/best-iphone-18-pro-accessories/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Best-iPhone-18-Pro-accessories.jpg?quality=82&strip=all&w=1600",
+      "summary": "Update 9/30: This post has now been updated with some additional accessories we have in our carts, and with the early fall Amazon Prime Day deals now flying, there are loads of te…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9cf2c8aba52e",
+      "title": "Bad news if you're waiting for the Galaxy S27, prices could go up again",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-30",
+      "time": "19:07",
+      "publishedAt": "2026-09-30T19:07:38.000Z",
+      "url": "https://www.androidpolice.com/galaxy-s27-series-pricing-may-increase/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/02/samsung-galaxy-s26-ultra-display-1.jpg",
+      "summary": "Samsung's next flagships could cost more",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-03b9660f4ed2",
+      "title": "Google Store Referral Program back for Pixel 11: 10% off phones, $50 Store credit",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-30",
+      "time": "18:12",
+      "publishedAt": "2026-09-30T18:12:39.000Z",
+      "url": "https://9to5google.com/2026/09/30/pixel-11-referral-program/",
+      "image": "",
+      "summary": "Following the Pixel 11 launch last month, the Pixel Referral Program is now back and refreshed on the Google Store. more…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-83ff02ef7766",
+      "title": "Apple Event on October 13?",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-30",
+      "time": "17:53",
+      "publishedAt": "2026-09-30T17:53:35.000Z",
+      "url": "https://www.macrumors.com/2026/09/30/apple-event-on-october-13/",
+      "image": "https://images.macrumors.com/article-new/2026/09/Apple-October-13.jpeg",
+      "summary": "Earlier this week, Daring Fireball 's John Gruber floated Tuesday, October 13 as a potential date for Apple to hand out iPhone Duo review units to selected reviewers in person, an…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d851fc8a5e83",
+      "title": "My Pixel 11 is failing at Tap to Pay one time out of five, and I can't trust it anymore",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-30",
+      "time": "17:45",
+      "publishedAt": "2026-09-30T17:45:10.000Z",
+      "url": "https://www.androidpolice.com/pixel-fails-at-tap-to-pay-cant-trust-it-anymore/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2024/10/google-wallet-pay-hero.jpg",
+      "summary": "People behind me in line are frustrated, Google",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -154,7 +254,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-09-30T15:39:40.000Z",
       "url": "https://9to5google.com/2026/09/30/deals-new-fire-tv-stick-4k-50-off-galaxy-s26-ultra/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/9to5Google-Sep-30.webp?w=1600",
-      "summary": "Alongside the early fall Amazon Prime Day sale and the ongoing Moto Tag 2 Android Find Hub trackers from $17.50 each – single for $20, your 9to5Toys Lunch Break is headlined by Am…",
+      "summary": "Update: Amazon is offering a giant $650 price drop hits Galaxy Z Fold 7 at Amazon ($750 less than Fold 8) for today only. Alongside the early fall Amazon Prime Day sale and the on…",
       "tags": [
         "Samsung",
         "爆料",
@@ -315,26 +415,6 @@ window.phoneRadarAuto = {
       "url": "https://www.sammobile.com/news/galaxy-smarttag-3-works-android-iphone/",
       "image": "https://www.sammobile.com/wp-content/uploads/2026/09/Samsung-Galaxy-SmartTag-3-Case-Colors.jpg",
       "summary": "Samsung has just launched the Galaxy SmartTag 3, its latest and most premium location tracker yet. While it brings several hardware improvements over the Galaxy SmartTag 2, one of…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d53f9f1cf5c3",
-      "title": "I revisited the Galaxy S26 Ultra to discover it's not aging well at all",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-30",
-      "time": "13:30",
-      "publishedAt": "2026-09-30T13:30:10.000Z",
-      "url": "https://www.androidpolice.com/i-revisited-to-the-galaxy-s26-ultra-samsung-has-already-made-a-better-phone/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/09/galaxy-s26-ultra-table.JPG",
-      "summary": "Nothing fundamentally bad about it, but you can already get better",
       "tags": [
         "Samsung",
         "爆料",
@@ -822,41 +902,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-89b9d2c6d9ea",
-      "title": "iQOO16 正式发布：5999元起",
+      "id": "newsnow-1ebc76d632f0",
+      "title": "Mate90PM 16+512如果定9999的话，这代肯定是爆死的一代。苹果做梦都笑醒了，苹果18pm基本上第三方平台可以做到10500以下，花粉别玻璃心，同价位18PM除了拍照以外就是全方位的薄纱90PM的。相比90PM提升不大。80PM搞活动也就才6500不到。差价3500，提升完全不值得3500。",
       "source": "酷安热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-30",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74066694",
+      "url": "https://www.coolapk.com/feed/74090859",
       "image": "",
-      "summary": "iQOO16 正式发布：5999元起",
+      "summary": "Mate90PM 16+512如果定9999的话，这代肯定是爆死的一代。苹果做梦都笑醒了，苹果18pm基本上第三方平台可以做到10500以下，花粉别玻璃心，同价位18PM除了拍照以外就是全方位的薄纱90PM的。相比90PM提升不大。80PM搞活动也就才6500不到。差价3500，提升完全不值得3500。",
       "tags": [
-        "vivo",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-6e66bf8214ca",
-      "title": "iqoo16牛逼，这正面太吊了，这是起步6000顶配8500的手机[笑眼]",
-      "source": "酷安热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-30",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74068335",
-      "image": "",
-      "summary": "iqoo16牛逼，这正面太吊了，这是起步6000顶配8500的手机[笑眼]",
-      "tags": [
-        "vivo",
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -882,28 +942,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-9bb9c098141a",
-      "title": "华为 Mate90 全系 SKU 现身：至高 16GB+1TB",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-09-30",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74075708",
-      "image": "",
-      "summary": "华为 Mate90 全系 SKU 现身：至高 16GB+1TB",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-525e3dbd78fa",
-      "title": "由于荣耀Magic9 Pro Max珠玉在前，vivo X500系列定价又特别癫，iQOO 16定价这次也不敢太飘。目前从官方价格看来，定价跟荣耀Magic9 Pro Max完全一致。",
+      "id": "newsnow-a1dd20f059fb",
+      "title": "最近一直在来回对比18 Pro Max跟Magic9 Pro Max，随便唠唠我的想法。",
       "source": "酷安热榜",
       "brand": "HONOR",
       "model": "HONOR 相关机型",
@@ -912,9 +952,9 @@ window.phoneRadarAuto = {
       "date": "2026-09-30",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74069172",
+      "url": "https://www.coolapk.com/feed/74057333",
       "image": "",
-      "summary": "由于荣耀Magic9 Pro Max珠玉在前，vivo X500系列定价又特别癫，iQOO 16定价这次也不敢太飘。目前从官方价格看来，定价跟荣耀Magic9 Pro Max完全一致。",
+      "summary": "最近一直在来回对比18 Pro Max跟Magic9 Pro Max，随便唠唠我的想法。",
       "tags": [
         "HONOR",
         "爆料",
@@ -922,41 +962,61 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-ada13d36ea4b",
-      "title": "看了一大堆人在吹荣耀，价格低是确实的，但是无论是系统还是拍照，我是真不信荣耀能打 oppo，c17 日用无论功能性还是流畅度真的找不到缺点，音质确实比不上荣耀，但是可以用第三方软件调一下，7299 买的其实对比荣耀首发也贵不了多少，几百块钱还是为了热爱买单吧，不想为了几百就妥协 #荣耀Magic9ProMax#",
+      "id": "newsnow-f85c01e22b87",
+      "title": "说实话，今年各家的正面边框看着真是赏心悦目啊，都是超窄的边框，现在终于看不到那种大下巴了。#ColorOS17# #vivoX500# #MagicOS11#",
       "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-30",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74059589",
+      "url": "https://www.coolapk.com/feed/74083861",
       "image": "",
-      "summary": "看了一大堆人在吹荣耀，价格低是确实的，但是无论是系统还是拍照，我是真不信荣耀能打 oppo，c17 日用无论功能性还是流畅度真的找不到缺点，音质确实比不上荣耀，但是可以用第三方软件调一下，7299 买的其实对比荣耀首发也贵不了多少，几百块钱还是为了热爱买单吧，不想为了几百就妥协 #荣耀Magic9ProMax#",
+      "summary": "说实话，今年各家的正面边框看着真是赏心悦目啊，都是超窄的边框，现在终于看不到那种大下巴了。#ColorOS17# #vivoX500# #MagicOS11#",
       "tags": [
-        "HONOR",
+        "OPPO",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-d4c977654e8b",
-      "title": "【iQOO 16 正式发布：骁龙8EE6处理器+2K 165Hz三星直屏，5999元起】",
+      "id": "newsnow-ff72a7ef4dff",
+      "title": "iQOO 16 首销情况曝光：近期安卓旗舰单品销量TOP1",
       "source": "酷安热榜",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-30",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74066709",
+      "url": "https://www.coolapk.com/feed/74080169",
       "image": "",
-      "summary": "【iQOO 16 正式发布：骁龙8EE6处理器+2K 165Hz三星直屏，5999元起】",
+      "summary": "iQOO 16 首销情况曝光：近期安卓旗舰单品销量TOP1",
       "tags": [
-        "Samsung",
+        "vivo",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-c4e680a170a2",
+      "title": "酷友们，iphone17promax到底要不要听酷友的上iphone18promax换来巨大提升，我纠结点在这里，因为我需要一台能用2-3年的手机作为主力机，平常我是买各种各样的安卓手机用2-3个月就卖了，亏损啥的毫不在意主要是体验为主。15pm卖了以后目前还没有主力苹果，17pm可以撑住吗",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-30",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74075276",
+      "image": "",
+      "summary": "酷友们，iphone17promax到底要不要听酷友的上iphone18promax换来巨大提升，我纠结点在这里，因为我需要一台能用2-3年的手机作为主力机，平常我是买各种各样的安卓手机用2-3个月就卖了，亏损啥的毫不在意主要是体验为主。15pm卖了以后目前还没有主力苹果，17pm可以撑住吗",
+      "tags": [
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -982,21 +1042,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-b1e6f51ff2c8",
-      "title": "荣耀高管回应Magic9销量",
-      "source": "微博热搜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
+      "id": "newsnow-9bb9c098141a",
+      "title": "华为 Mate90 全系 SKU 现身：至高 16GB+1TB",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
-      "trust": "待验证",
+      "trust": "高关注爆料源",
       "date": "2026-09-30",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%8D%A3%E8%80%80%E9%AB%98%E7%AE%A1%E5%9B%9E%E5%BA%94Magic9%E9%94%80%E9%87%8F%23&t=31&band_rank=23&Refer=top",
+      "url": "https://www.coolapk.com/feed/74075708",
       "image": "",
-      "summary": "荣耀高管回应Magic9销量",
+      "summary": "华为 Mate90 全系 SKU 现身：至高 16GB+1TB",
       "tags": [
-        "HONOR",
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
@@ -1457,26 +1517,6 @@ window.phoneRadarAuto = {
       "summary": "Apple spent this year’s autumn event telling everyone that the iPhone 18 Pro Max has the best camera it has ever put in an iPhone — the usual. Three weeks later, Honor launched th…",
       "tags": [
         "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-8b90c40721c6",
-      "title": "Latest Galaxy S27 Ultra leak brings good news for low-light shots, bad news for zoom",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-29",
-      "time": "07:46",
-      "publishedAt": "2026-09-29T07:46:32.000Z",
-      "url": "https://www.androidauthority.com/samsung-galaxy-s27-ultra-camera-processing-hp6-leak-3716533/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/s26-ultra-on-a-table-scaled.jpg",
-      "summary": "A new 200MP sensor could also improve highlights, shadows, and color balance.",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
