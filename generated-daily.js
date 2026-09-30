@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-09-30T08:32:39.375Z",
+  "updatedAt": "2026-09-30T16:24:18.408Z",
   "issueDate": "2026-09-30",
   "issue": "VOL.260930",
   "title": "手机情报日报",
-  "intro": "今日筛出 13 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 13,
-    "iphone": 6,
+    "total": 12,
+    "iphone": 4,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -17,29 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-624b6ab9a925",
-          "title": "CounterPoint 称 iPhone 18 Pro / Max 在中国首周销量同比增 12%，苹果 33% 份额跃居第 38 周销冠",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-30",
-          "time": "03:46",
-          "publishedAt": "2026-09-30T03:46:22.000Z",
-          "url": "https://www.ithome.com/1/008/679.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/a8e4d66e-d071-48f4-ab50-0bfc93c9159f.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 9 月 30 日消息，市场调查机构 CounterPoint Research 今天（9 月 30 日）发布博文，报道称相比较 iPhone 17 Pro 系列，苹果 iPhone 18 Pro 系列在中国首周（第 38 周，统计口径为 3 天）同比增长 12%，推动苹果在 2026 年第 38 周登上中国智能手机周销量榜首，市场份额达到 33%…",
-          "detail": "IT之家 9 月 30 日消息，市场调查机构 CounterPoint Research 今天（9 月 30 日）发布博文，报道称相比较 iPhone 17 Pro 系列，苹果 iPhone 18 Pro 系列在中国首周（第 38 周，统计口径为 3 天）同比增长 12%，推动苹果在 2026 年第 38 周登上中国智能手机周销量榜首，市场份额达到 33%…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "newsnow-8410f048e400",
           "title": "新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试",
@@ -110,73 +87,28 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-07d7ab6ee569",
-          "title": "iPhone 发布 / 上市相关消息",
+          "id": "weibo-f7e4d6168a26",
+          "title": "数码闲聊站：华为Mate90系列明天发布，猜猜价格吧： 补充一些信息，Mate90是660…",
           "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
+          "source": "数码闲聊站",
+          "brand": "Huawei",
           "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-29",
-          "time": "13:16",
-          "publishedAt": "2026-09-29T13:16:04.000Z",
-          "url": "https://www.macrumors.com/2026/09/29/iphone-duo-reportedly-facing-production-problems/",
-          "image": "https://images.macrumors.com/article-new/2026/09/iPhone-Duo-Open.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 有发布或新功能消息，适合确认是否和新机有关。",
-          "detail": "iPhone 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-2e460c4ccce9",
-          "title": "荣耀年底新机曝光：700 Pro 系列有原生背屏、X 新品主打 7 英寸大屏 + 超万级大电池，阔折叠加速中",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "媒体汇总",
+          "trust": "高关注爆料源",
           "date": "2026-09-30",
-          "time": "08:32",
-          "publishedAt": "2026-09-30T08:32:18.000Z",
-          "url": "https://www.ithome.com/1/008/788.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/442374ed-599e-4651-8081-c68499a92bbd.png?x-bce-process=image/format,f_auto",
+          "time": "16:24",
+          "publishedAt": "2026-09-30T16:24:18.408Z",
+          "url": "https://weibo.com/6048569942/Rkw3lCtbI",
+          "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ihltiohha9j30zc3s9npd.jpg",
           "verdict": "先看",
-          "takeaway": "IT之家 9 月 30 日消息，博主 @数码闲聊站 今天在微博透露，荣耀年底还有一堆新机， 其中 700 Pro 系列将带有原生背屏 ，主打 2 亿像素超清影像。 博主表示，荣耀中端产品线 X 系新品，拥有 7 英寸大屏、超万级大电池，阔折叠也在加速中，阔直板立项了。 据IT之家此前援引博主消息 ，今年各大手机厂商陆续入局阔折叠手机品类，荣耀也有阔折叠，2…",
-          "detail": "IT之家 9 月 30 日消息，博主 @数码闲聊站 今天在微博透露，荣耀年底还有一堆新机， 其中 700 Pro 系列将带有原生背屏 ，主打 2 亿像素超清影像。 博主表示，荣耀中端产品线 X 系新品，拥有 7 英寸大屏、超万级大电池，阔折叠也在加速中，阔直板立项了。 据IT之家此前援引博主消息 ，今年各大手机厂商陆续入局阔折叠手机品类，荣耀也有阔折叠，2…",
+          "takeaway": "华为Mate90系列明天发布，猜猜价格吧： 补充一些信息，Mate90是6600mAh电池+66W(100W)快充，50Mp可变光圈高动态大底主摄，50Mp聚光长焦，麒麟9030； Mate90 Pro是双层OLED，最高12000nits，麒麟9035，50Mp潜望镜支持5cm长焦微距； Mate90 PM/RS都是18EV 50Mp超大底主摄+40Mp…",
+          "detail": "华为Mate90系列明天发布，猜猜价格吧： 补充一些信息，Mate90是6600mAh电池+66W(100W)快充，50Mp可变光圈高动态大底主摄，50Mp聚光长焦，麒麟9030； Mate90 Pro是双层OLED，最高12000nits，麒麟9035，50Mp潜望镜支持5cm长焦微距； Mate90 PM/RS都是18EV 50Mp超大底主摄+40Mp…",
           "keyPoints": [
             "影像硬件",
+            "屏幕形态",
             "电池 / 充电",
-            "爆料来源"
+            "成本 / 价格"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-5d7f7a9c9ccd",
-          "title": "闪促价 1399 元起，OPPO K15s/K15x 两款新机今日开售",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-09-30",
-          "time": "03:43",
-          "publishedAt": "2026-09-30T03:43:14.000Z",
-          "url": "https://www.ithome.com/1/008/670.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/9e238ce3-e503-4e14-a411-b1ce48685259.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 9 月 30 日消息，OPPO K 系列两款新机 K15s 与 K15x 于今日正式开售。两款产品均主打长续航与耐用性，其中 K15s 定位“满电出击、硬核防水”，K15x 则强调“六年抗造、持久畅快”。在 2026 年 9 月 30 日至 10 月 31 日促销期内购买，两款机型均可享受立减 300 元的闪促价。 OPPO K15s：8000m…",
-          "detail": "IT之家 9 月 30 日消息，OPPO K 系列两款新机 K15s 与 K15x 于今日正式开售。两款产品均主打长续航与耐用性，其中 K15s 定位“满电出击、硬核防水”，K15x 则强调“六年抗造、持久畅快”。在 2026 年 9 月 30 日至 10 月 31 日促销期内购买，两款机型均可享受立减 300 元的闪促价。 OPPO K15s：8000m…",
-          "keyPoints": [
-            "电池 / 充电"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -189,8 +121,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-09-30",
-          "time": "08:32",
-          "publishedAt": "2026-09-30T08:32:39.375Z",
+          "time": "16:24",
+          "publishedAt": "2026-09-30T16:24:18.408Z",
           "url": "https://weibo.com/6048569942/RkuQYC8En",
           "image": "",
           "verdict": "先看",
@@ -200,6 +132,79 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-41b18bf8cfc0",
+          "title": "数码闲聊站：耀子年底还有一堆新机，荣耀700 Pro系列有原生背屏，主打2亿超清影像。中端…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-09-30",
+          "time": "16:24",
+          "publishedAt": "2026-09-30T16:24:18.408Z",
+          "url": "https://weibo.com/6048569942/RkuyMxv05",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "耀子年底还有一堆新机，荣耀700 Pro系列有原生背屏，主打2亿超清影像。中端线还有X新品，7英寸大屏+超万级大电池，阔折叠加速中，阔直板也立项了，支持卷起来[二哈]",
+          "detail": "耀子年底还有一堆新机，荣耀700 Pro系列有原生背屏，主打2亿超清影像。中端线还有X新品，7英寸大屏+超万级大电池，阔折叠加速中，阔直板也立项了，支持卷起来[二哈]",
+          "keyPoints": [
+            "影像硬件",
+            "电池 / 充电",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-e8e676f443fe",
+          "title": "数码闲聊站：#iQOO16# 真机拿到了，简单聊几句： ——首发2K+165Hz双高规格，…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-09-30",
+          "time": "16:24",
+          "publishedAt": "2026-09-30T16:24:18.408Z",
+          "url": "https://weibo.com/6048569942/RknZFiUss",
+          "image": "https://tvax3.sinaimg.cn/mw2000/8f4a8a89ly8ihkmzeuhzbj23ls5eoe8i.jpg",
+          "verdict": "先看",
+          "takeaway": "#iQOO16# 真机拿到了，简单聊几句： ——首发2K+165Hz双高规格，iPhone Duo同款三星M16发光材料+2K LEAD 2.0显示技术，实测手动亮度1250nits，全屏峰值亮度超2800nits，局部峰值干到了10000nits，户外阳光下可用性更高，M16材料的发光效率很高，所以屏幕功耗反而有所下降，甚至低于普通1.5K； 而且标配A…",
+          "detail": "#iQOO16# 真机拿到了，简单聊几句： ——首发2K+165Hz双高规格，iPhone Duo同款三星M16发光材料+2K LEAD 2.0显示技术，实测手动亮度1250nits，全屏峰值亮度超2800nits，局部峰值干到了10000nits，户外阳光下可用性更高，M16材料的发光效率很高，所以屏幕功耗反而有所下降，甚至低于普通1.5K； 而且标配A…",
+          "keyPoints": [
+            "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-d4c977654e8b",
+          "title": "【iQOO 16 正式发布：骁龙8EE6处理器+2K 165Hz三星直屏，5999元起】",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-09-30",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/74066709",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "【iQOO 16 正式发布：骁龙8EE6处理器+2K 165Hz三星直屏，5999元起】",
+          "detail": "【iQOO 16 正式发布：骁龙8EE6处理器+2K 165Hz三星直屏，5999元起】",
+          "keyPoints": [
+            "屏幕形态",
+            "芯片 / 性能"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -242,50 +247,57 @@ window.phoneRadarDaily = {
       "hint": "能直接更新到参数库。",
       "items": [
         {
-          "id": "auto-da5d0eea0733",
-          "title": "vivo X500 手机新增 16GB+512GB 版本，6499 元",
+          "id": "auto-40fb8ed84dc7",
+          "title": "余承东预热华为 Mate 90 系列旗舰新机：大家一次次选择我们，我们就得一次次拿出进步",
           "originalTitle": "",
           "source": "IT之家",
-          "brand": "vivo",
+          "brand": "Huawei",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-09-30",
-          "time": "07:28",
-          "publishedAt": "2026-09-30T07:28:21.000Z",
-          "url": "https://www.ithome.com/1/008/761.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/8e3ad389-baa5-4a66-bc1a-634fa4190ef8.jpg?x-bce-process=image/format,f_auto",
+          "time": "12:15",
+          "publishedAt": "2026-09-30T12:15:46.000Z",
+          "url": "https://www.ithome.com/1/008/903.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/830d9315-1dab-4bb1-8e17-5de1a3020de9.jpg",
           "verdict": "先看",
-          "takeaway": "IT之家 9 月 30 日消息， vivo X500 手机于 9 月 21 日发布，9 月 24 日开售，此前仅有 12GB 内存版本可选，售价 5499 元起： 12GB+256GB：5499 元 12GB+512GB：5999 元 12GB+1TB：6999 元 IT之家注意到，vivo 现已在电商平台上架了 16GB+512GB 规格版本， 售价 6…",
-          "detail": "IT之家 9 月 30 日消息， vivo X500 手机于 9 月 21 日发布，9 月 24 日开售，此前仅有 12GB 内存版本可选，售价 5499 元起： 12GB+256GB：5499 元 12GB+512GB：5999 元 12GB+1TB：6999 元 IT之家注意到，vivo 现已在电商平台上架了 16GB+512GB 规格版本， 售价 6…",
-          "keyPoints": [
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
-        {
-          "id": "newsnow-89b9d2c6d9ea",
-          "title": "iQOO16 正式发布：5999元起",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-09-30",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/74066694",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iQOO16 正式发布：5999元起",
-          "detail": "iQOO16 正式发布：5999元起",
+          "takeaway": "IT之家 9 月 30 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东刚刚发布视频，分享了“我和我的 Mate”活动最新歌曲《闪闪发光的日常》， 并正式预热 Mate 90 系列旗舰新机 。 余承东还在微博向消费者表达了谢意： 每年的我和我的 Mate，主角都是你们。今年，我们把大家记录下的生活，唱成了一首歌。谢谢大家，把 Mate…",
+          "detail": "IT之家 9 月 30 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东刚刚发布视频，分享了“我和我的 Mate”活动最新歌曲《闪闪发光的日常》， 并正式预热 Mate 90 系列旗舰新机 。 余承东还在微博向消费者表达了谢意： 每年的我和我的 Mate，主角都是你们。今年，我们把大家记录下的生活，唱成了一首歌。谢谢大家，把 Mate…",
           "keyPoints": [
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        }
+      ]
+    },
+    {
+      "id": "review",
+      "title": "评测与体验",
+      "hint": "买前再细看，平时扫一眼即可。",
+      "items": [
+        {
+          "id": "auto-d97532b99e0a",
+          "title": "iQOO 16 体验：可能是今年最卷的「性能旗舰」",
+          "originalTitle": "",
+          "source": "爱范儿",
+          "brand": "vivo",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-09-30",
+          "time": "10:30",
+          "publishedAt": "2026-09-30T10:30:18.000Z",
+          "url": "https://www.ifanr.com/1682609?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "image": "https://s3.ifanr.com/wp-content/uploads/2026/09/img_6abc5ab0b9f8e.jpeg",
+          "verdict": "先看",
+          "takeaway": "把日常当主场",
+          "detail": "把日常当主场",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         }
       ]
     },
@@ -295,50 +307,27 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "newsnow-6e66bf8214ca",
-          "title": "iqoo16牛逼，这正面太吊了，这是起步6000顶配8500的手机[笑眼]",
+          "id": "auto-073511dce952",
+          "title": "深圳通 NFC 手机卡限时免费开卡活动开启，截至 10 月 8 日",
           "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "vivo",
+          "source": "IT之家",
+          "brand": "HONOR",
           "type": "爆料",
-          "trust": "高关注爆料源",
+          "trust": "媒体汇总",
           "date": "2026-09-30",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/74068335",
-          "image": "",
+          "time": "10:33",
+          "publishedAt": "2026-09-30T10:33:05.000Z",
+          "url": "https://www.ithome.com/1/008/879.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/d6e5610d-4d37-4534-9389-a73bc5b9f726.jpg?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "iqoo16牛逼，这正面太吊了，这是起步6000顶配8500的手机[笑眼]",
-          "detail": "iqoo16牛逼，这正面太吊了，这是起步6000顶配8500的手机[笑眼]",
+          "takeaway": "IT之家 9 月 30 日消息，深圳通 NFC 手机卡限时免费开卡活动今日开启，原本开卡服务费 16 元的深圳通手机卡现可免服务费开卡， 活动时间为 9 月 30 日 10:30-10 月 8 日 10:00 。 IT之家了解到，本次活动支持华为、Apple、vivo、OPPO、小米、华米、魅族、荣耀、三星、中兴及努比亚等品牌设备， 用户可前往手机 / 手…",
+          "detail": "IT之家 9 月 30 日消息，深圳通 NFC 手机卡限时免费开卡活动今日开启，原本开卡服务费 16 元的深圳通手机卡现可免服务费开卡， 活动时间为 9 月 30 日 10:30-10 月 8 日 10:00 。 IT之家了解到，本次活动支持华为、Apple、vivo、OPPO、小米、华米、魅族、荣耀、三星、中兴及努比亚等品牌设备， 用户可前往手机 / 手…",
           "keyPoints": [
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-525e3dbd78fa",
-          "title": "由于荣耀Magic9 Pro Max珠玉在前，vivo X500系列定价又特别癫，iQOO 16定价这次也不敢太飘。目前从官方价格看来，定价跟荣耀Magic9 Pro Max完全一致。",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-09-30",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/74069172",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "由于荣耀Magic9 Pro Max珠玉在前，vivo X500系列定价又特别癫，iQOO 16定价这次也不敢太飘。目前从官方价格看来，定价跟荣耀Magic9 Pro Max完全一致。",
-          "detail": "由于荣耀Magic9 Pro Max珠玉在前，vivo X500系列定价又特别癫，iQOO 16定价这次也不敢太飘。目前从官方价格看来，定价跟荣耀Magic9 Pro Max完全一致。",
-          "keyPoints": [
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         }
       ]
     }

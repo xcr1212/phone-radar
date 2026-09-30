@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-09-30T08:32:39.375Z",
+  "updatedAt": "2026-09-30T16:24:18.408Z",
   "news": [
+    {
+      "id": "weibo-f7e4d6168a26",
+      "title": "数码闲聊站：华为Mate90系列明天发布，猜猜价格吧： 补充一些信息，Mate90是660…",
+      "source": "数码闲聊站",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-30",
+      "time": "16:24",
+      "publishedAt": "2026-09-30T16:24:18.408Z",
+      "url": "https://weibo.com/6048569942/Rkw3lCtbI",
+      "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ihltiohha9j30zc3s9npd.jpg",
+      "summary": "华为Mate90系列明天发布，猜猜价格吧： 补充一些信息，Mate90是6600mAh电池+66W(100W)快充，50Mp可变光圈高动态大底主摄，50Mp聚光长焦，麒麟9030； Mate90 Pro是双层OLED，最高12000nits，麒麟9035，50Mp潜望镜支持5cm长焦微距； Mate90 PM/RS都是18EV 50Mp超大底主摄+40Mp…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "微博"
+      ]
+    },
     {
       "id": "weibo-e4a68fd30029",
       "title": "数码闲聊站：摸了一下昨天 iQOO16 首销数据，竟然是近期已发安卓旗舰中的单品销量TOP…",
@@ -10,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-30",
-      "time": "08:32",
-      "publishedAt": "2026-09-30T08:32:39.375Z",
+      "time": "16:24",
+      "publishedAt": "2026-09-30T16:24:18.408Z",
       "url": "https://weibo.com/6048569942/RkuQYC8En",
       "image": "",
       "summary": "摸了一下昨天 iQOO16 首销数据，竟然是近期已发安卓旗舰中的单品销量TOP1。 目前在狗猫抖三大电商平台的总销量是下半年安卓旗舰首销TOP1，而且是一杯打其它所有厂商的多杯组合，还几乎全打赢了……[哆啦A梦害怕]",
@@ -23,18 +43,18 @@ window.phoneRadarAuto = {
     },
     {
       "id": "weibo-41b18bf8cfc0",
-      "title": "数码闲聊站：耀子年底还有一堆新机，荣耀700 Pro系列有原生背屏，主打2亿超清影像，还有…",
+      "title": "数码闲聊站：耀子年底还有一堆新机，荣耀700 Pro系列有原生背屏，主打2亿超清影像。中端…",
       "source": "数码闲聊站",
       "brand": "HONOR",
       "model": "HONOR 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-30",
-      "time": "08:32",
-      "publishedAt": "2026-09-30T08:32:39.375Z",
+      "time": "16:24",
+      "publishedAt": "2026-09-30T16:24:18.408Z",
       "url": "https://weibo.com/6048569942/RkuyMxv05",
       "image": "",
-      "summary": "耀子年底还有一堆新机，荣耀700 Pro系列有原生背屏，主打2亿超清影像，还有肖战代言。中端线还有X新品，7英寸大屏+超万级大电池，阔折叠加速中，阔直板也立项了，支持卷起来[二哈]",
+      "summary": "耀子年底还有一堆新机，荣耀700 Pro系列有原生背屏，主打2亿超清影像。中端线还有X新品，7英寸大屏+超万级大电池，阔折叠加速中，阔直板也立项了，支持卷起来[二哈]",
       "tags": [
         "HONOR",
         "爆料",
@@ -50,8 +70,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-30",
-      "time": "08:32",
-      "publishedAt": "2026-09-30T08:32:39.375Z",
+      "time": "16:24",
+      "publishedAt": "2026-09-30T16:24:18.408Z",
       "url": "https://weibo.com/6048569942/RksQeu5Cp",
       "image": "",
       "summary": "子系红加裤最近都有中端线新机入网，估计10月前后还有一波大乱斗，预计可以见到万级大电池、超大主动散热风扇、2K大直屏等……[流鼻血]",
@@ -70,8 +90,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-30",
-      "time": "08:32",
-      "publishedAt": "2026-09-30T08:32:39.375Z",
+      "time": "16:24",
+      "publishedAt": "2026-09-30T16:24:18.408Z",
       "url": "https://weibo.com/6048569942/RknZFiUss",
       "image": "https://tvax3.sinaimg.cn/mw2000/8f4a8a89ly8ihkmzeuhzbj23ls5eoe8i.jpg",
       "summary": "#iQOO16# 真机拿到了，简单聊几句： ——首发2K+165Hz双高规格，iPhone Duo同款三星M16发光材料+2K LEAD 2.0显示技术，实测手动亮度1250nits，全屏峰值亮度超2800nits，局部峰值干到了10000nits，户外阳光下可用性更高，M16材料的发光效率很高，所以屏幕功耗反而有所下降，甚至低于普通1.5K； 而且标配A…",
@@ -90,8 +110,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-09-30",
-      "time": "08:32",
-      "publishedAt": "2026-09-30T08:32:39.375Z",
+      "time": "16:24",
+      "publishedAt": "2026-09-30T16:24:18.408Z",
       "url": "https://weibo.com/6048569942/Rkmlmi4pQ",
       "image": "",
       "summary": "华为Mate90——麒麟9030 华为Mate90 Pro——麒麟9035（主频2.85GHz Maleoon 935 GPU）、6.75英寸双层OLED 华为Mate90 Pro Max——麒麟9050 Pro、6.9英寸双层OLED、18EV超大底主摄、2亿超大底长焦、典藏版可挂载1英寸10X镜头 华为Mate90 RS——麒麟9050 Pro、6.9…",
@@ -102,19 +122,339 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-2e460c4ccce9",
-      "title": "荣耀年底新机曝光：700 Pro 系列有原生背屏、X 新品主打 7 英寸大屏 + 超万级大电池，阔折叠加速中",
+      "id": "auto-3280e0182345",
+      "title": "Samsung’s Galaxy Z Fold 7 is down to the price of a normal smartphone, today-only",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-30",
+      "time": "16:17",
+      "publishedAt": "2026-09-30T16:17:10.000Z",
+      "url": "https://9to5google.com/2026/09/30/samsungs-galaxy-z-fold-7-is-down-to-the-price-of-a-normal-smartphone-today-only/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-fold-7-review-13.jpg?quality=82&strip=all&w=1600",
+      "summary": "Nearly a decade in, foldables have come a long way. Even Apple has noticed all of the fun Android users are having with their bendable smartphones, jumping into the crowd with nex…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ebbc4a1aedd9",
+      "title": "Deals: All-new Fire TV Stick 4K 50% off, Galaxy S26 Ultra $335 off, NXTPAPER Android tabs, MotoTag 2, more",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-30",
+      "time": "15:39",
+      "publishedAt": "2026-09-30T15:39:40.000Z",
+      "url": "https://9to5google.com/2026/09/30/deals-new-fire-tv-stick-4k-50-off-galaxy-s26-ultra/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/9to5Google-Sep-30.webp?w=1600",
+      "summary": "Alongside the early fall Amazon Prime Day sale and the ongoing Moto Tag 2 Android Find Hub trackers from $17.50 each – single for $20, your 9to5Toys Lunch Break is headlined by Am…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-767c655f3fbf",
+      "title": "Google Pixel 11a renders leak, and the price may surprise you",
+      "source": "Gizmochina",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-30",
+      "time": "14:59",
+      "publishedAt": "2026-09-30T14:59:49.000Z",
+      "url": "https://www.gizmochina.com/2026/09/30/google-pixel-11a-renders-leak-and-the-price-may-surprise-you/",
+      "image": "",
+      "summary": "The Google Pixel 11a could arrive in spring 2027 with a higher price than the current model. A new report claims the phone may start at $599, up from the Pixel 10a’s $499 launch p…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4239adfb642b",
+      "title": "OnePlus 16 official AnTuTu score is higher than the leaked result",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-30",
+      "time": "14:38",
+      "publishedAt": "2026-09-30T14:38:45.000Z",
+      "url": "https://www.gizmochina.com/2026/09/30/oneplus-16-official-antutu-score-is-higher-than-the-leaked-result/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/OnePlus-16-official-AnTuTu-score-300x200.jpg?x96852",
+      "summary": "OnePlus has shared its own AnTuTu score for the OnePlus 16, and it is higher than the number from an earlier leak. The company says the phone scored more than 5.63 million points,…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-24a7268c5c62",
+      "title": "Some Pixel models reportedly experiencing an NFC bug that breaks contactless payments",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-30",
+      "time": "14:18",
+      "publishedAt": "2026-09-30T14:18:57.000Z",
+      "url": "https://9to5google.com/2026/09/30/google-pixel-experiencing-nfc-bug-breaking-tap-to-pay/",
+      "image": "",
+      "summary": "Following several Pixel 11-specific bugs after the phone’s launch, another one reportedly breaks NFC tap-to-pay, used for contactless payments. But this one is affecting more than…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-57b6e79021fb",
+      "title": "New Galaxy S21 FE update brings August 2026 security patch",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-30",
+      "time": "14:16",
+      "publishedAt": "2026-09-30T14:16:40.000Z",
+      "url": "https://www.sammobile.com/news/new-galaxy-s21-fe-update-brings-august-2026-security-patch/",
+      "image": "",
+      "summary": "When Samsung releases a security update to phones that are on a quarterly security update schedule, the brand typically rolls out the latest security patch available. Unfortunatel…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-de3aea5f10fc",
+      "title": "Samsung’s Galaxy S27 Ultra may be heavier, but for a good reason",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-30",
+      "time": "13:57",
+      "publishedAt": "2026-09-30T13:57:58.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s27-ultra-thickness-weight-leak-3717357/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Samsung-Galaxy-S26-Ultra-with-S-Pen-out.jpg",
+      "summary": "Samsung’s next major flagship is rumored to maintain the same thickness as the Galaxy S26 Ultra.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-cfd13d728031",
+      "title": "Galaxy S27 Ultra could be slightly heavier despite having the same thickness",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-30",
+      "time": "13:48",
+      "publishedAt": "2026-09-30T13:48:48.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s27-ultra-slightly-heavier-same-thickness/",
+      "image": "",
+      "summary": "We have already seen what Samsung’s next flagship non-foldable smartphone, the Galaxy S27 Ultra, is expected to look like. Now, we are learning more about its physical characteris…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-74dc5cbdeed1",
+      "title": "Galaxy S27 series pricing may not only increase, but cost more to upgrade storage",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-30",
+      "time": "13:45",
+      "publishedAt": "2026-09-30T13:45:30.000Z",
+      "url": "https://9to5google.com/2026/09/30/galaxy-s27-series-pricing-may-not-only-increase-but-cost-more-to-upgrade-storage/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Galaxy-S27-leak-header.jpg?quality=82&strip=all&w=1400",
+      "summary": "Samsung’s new Galaxy S27 series is rumored to come at a higher price than previous versions, but that’s no surprise. What’s a little harder to swallow is the larger rumored gap be…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f06d72b534d9",
+      "title": "The Galaxy SmartTag 3 works with iPhones, too",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-30",
+      "time": "13:40",
+      "publishedAt": "2026-09-30T13:40:39.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-smarttag-3-works-android-iphone/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/09/Samsung-Galaxy-SmartTag-3-Case-Colors.jpg",
+      "summary": "Samsung has just launched the Galaxy SmartTag 3, its latest and most premium location tracker yet. While it brings several hardware improvements over the Galaxy SmartTag 2, one of…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d53f9f1cf5c3",
+      "title": "I revisited the Galaxy S26 Ultra to discover it's not aging well at all",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-30",
+      "time": "13:30",
+      "publishedAt": "2026-09-30T13:30:10.000Z",
+      "url": "https://www.androidpolice.com/i-revisited-to-the-galaxy-s26-ultra-samsung-has-already-made-a-better-phone/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/09/galaxy-s26-ultra-table.JPG",
+      "summary": "Nothing fundamentally bad about it, but you can already get better",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-147ddc666c20",
+      "title": "The clever way Apple embedded Face ID beneath the iPhone 18 Pro screen",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-30",
+      "time": "12:35",
+      "publishedAt": "2026-09-30T12:35:23.000Z",
+      "url": "https://9to5mac.com/2026/09/30/the-clever-way-apple-embedded-face-id-beneath-the-iphone-18-pro-screen/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/The-clever-way-Apple-embedded-Face-ID-beneath-the-iPhone-18-Pro-screen.jpg?quality=82&strip=all&w=1600",
+      "summary": "In the iPhone 18 Pro , Apple has taken one of the next steps toward its long-term vision of the iPhone as a single slab of glass: embedding the Face ID module beneath the display.…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-40fb8ed84dc7",
+      "title": "余承东预热华为 Mate 90 系列旗舰新机：大家一次次选择我们，我们就得一次次拿出进步",
       "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-30",
+      "time": "12:15",
+      "publishedAt": "2026-09-30T12:15:46.000Z",
+      "url": "https://www.ithome.com/1/008/903.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/830d9315-1dab-4bb1-8e17-5de1a3020de9.jpg",
+      "summary": "IT之家 9 月 30 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东刚刚发布视频，分享了“我和我的 Mate”活动最新歌曲《闪闪发光的日常》， 并正式预热 Mate 90 系列旗舰新机 。 余承东还在微博向消费者表达了谢意： 每年的我和我的 Mate，主角都是你们。今年，我们把大家记录下的生活，唱成了一首歌。谢谢大家，把 Mate…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-81fbed6559d5",
+      "title": "Samsung’s SmartTag 3 is smaller, smarter, and iPhone-friendly",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-30",
+      "time": "12:00",
+      "publishedAt": "2026-09-30T12:00:43.000Z",
+      "url": "https://www.androidauthority.com/samsung-smarttag-3-iphone-support-longer-range-3716430/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/smarttag-3-6.jpg",
+      "summary": "But it still won't replace your AirTag",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fcbffab3c0a1",
+      "title": "Bad news: The Galaxy S27 series could get really expensive",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-30",
+      "time": "11:30",
+      "publishedAt": "2026-09-30T11:30:44.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s27-series-price-hike-leak-3717310/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/Samsung-Galaxy-S26-series-showing-backs-1.jpg",
+      "summary": "Thought the Galaxy S26 series price hikes were bad?",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-209857c3135c",
+      "title": "Small number of iPhone 18 Pro users report speaker ‘pops’ or ‘clicks’",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-30",
+      "time": "10:46",
+      "publishedAt": "2026-09-30T10:46:18.000Z",
+      "url": "https://9to5mac.com/2026/09/30/small-number-of-iphone-18-pro-users-report-speaker-pops-or-clicks/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Small-number-of-iPhone-18-Pro-users-report-speaker-pops-or-clicks.jpg?quality=82&strip=all&w=1500",
+      "summary": "A small number of iPhone 18 Pro users are reporting an issue where the speaker sometimes “pops” or “clicks,” describing it as a faint sound when doing things like switching apps ……",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c39d96f95062",
+      "title": "Xiaomi 18 Pro Max vs Galaxy S26 Ultra: Head-to-Head Comparison",
+      "source": "Gizmochina",
       "brand": "HONOR",
       "model": "HONOR 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-09-30",
-      "time": "08:32",
-      "publishedAt": "2026-09-30T08:32:18.000Z",
-      "url": "https://www.ithome.com/1/008/788.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/442374ed-599e-4651-8081-c68499a92bbd.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 30 日消息，博主 @数码闲聊站 今天在微博透露，荣耀年底还有一堆新机， 其中 700 Pro 系列将带有原生背屏 ，主打 2 亿像素超清影像。 博主表示，荣耀中端产品线 X 系新品，拥有 7 英寸大屏、超万级大电池，阔折叠也在加速中，阔直板立项了。 据IT之家此前援引博主消息 ，今年各大手机厂商陆续入局阔折叠手机品类，荣耀也有阔折叠，2…",
+      "time": "10:39",
+      "publishedAt": "2026-09-30T10:39:00.000Z",
+      "url": "https://www.gizmochina.com/2026/09/30/xiaomi-18-pro-max-vs-galaxy-s26-ultra-head-to-head-comparison/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Xiaomi-18-Pro-Max-vs-Galaxy-S26-Ultra1-300x150.jpg?x96852",
+      "summary": "We’ve spent the past couple of days comparing some of 2026’s biggest new flagships, from Honor’s latest phone against the iPhone to other camera-heavy models from the Chinese mark…",
       "tags": [
         "HONOR",
         "爆料",
@@ -122,43 +462,103 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-7f4c8a0f5ab1",
-      "title": "智能眼镜声学性能测试规范 10 月 2 日起正式实施，围绕“收音”“放音”两大模块建立标准化检测流程",
+      "id": "auto-073511dce952",
+      "title": "深圳通 NFC 手机卡限时免费开卡活动开启，截至 10 月 8 日",
       "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-09-30",
-      "time": "08:10",
-      "publishedAt": "2026-09-30T08:10:13.000Z",
-      "url": "https://www.ithome.com/1/008/779.htm",
-      "image": "",
-      "summary": "IT之家 9 月 30 日消息，市场监管总局今日宣布，JJF 2385—2026《智能眼镜声学性能测试规范》国家计量技术规范（以下简称《规范》） 将自 10 月 2 日起正式实施 ，为智能眼镜声学性能检测划定统一技术标尺。 官方表示，随着人工智能快速发展，智能眼镜被应用于大众日常生活与办公场景，成为人机交互的重要载体，通过蓝牙连接手机实现通话、音频播放、语…",
+      "time": "10:33",
+      "publishedAt": "2026-09-30T10:33:05.000Z",
+      "url": "https://www.ithome.com/1/008/879.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/d6e5610d-4d37-4534-9389-a73bc5b9f726.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 30 日消息，深圳通 NFC 手机卡限时免费开卡活动今日开启，原本开卡服务费 16 元的深圳通手机卡现可免服务费开卡， 活动时间为 9 月 30 日 10:30-10 月 8 日 10:00 。 IT之家了解到，本次活动支持华为、Apple、vivo、OPPO、小米、华米、魅族、荣耀、三星、中兴及努比亚等品牌设备， 用户可前往手机 / 手…",
       "tags": [
-        "行业",
+        "HONOR",
         "爆料",
         "自动抓取"
       ]
     },
     {
-      "id": "auto-da5d0eea0733",
-      "title": "vivo X500 手机新增 16GB+512GB 版本，6499 元",
-      "source": "IT之家",
+      "id": "auto-d97532b99e0a",
+      "title": "iQOO 16 体验：可能是今年最卷的「性能旗舰」",
+      "source": "爱范儿",
       "brand": "vivo",
       "model": "vivo 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-09-30",
+      "time": "10:30",
+      "publishedAt": "2026-09-30T10:30:18.000Z",
+      "url": "https://www.ifanr.com/1682609?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "image": "https://s3.ifanr.com/wp-content/uploads/2026/09/img_6abc5ab0b9f8e.jpeg",
+      "summary": "把日常当主场",
+      "tags": [
+        "vivo",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-99870b98bbed",
+      "title": "格科“认领”iQOO 16 手机超广角图像传感器：采用 1/2.8 英寸 50MP GC50F0，像素大小 0.64μm",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-09-30",
-      "time": "07:28",
-      "publishedAt": "2026-09-30T07:28:21.000Z",
-      "url": "https://www.ithome.com/1/008/761.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/8e3ad389-baa5-4a66-bc1a-634fa4190ef8.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 30 日消息， vivo X500 手机于 9 月 21 日发布，9 月 24 日开售，此前仅有 12GB 内存版本可选，售价 5499 元起： 12GB+256GB：5499 元 12GB+512GB：5999 元 12GB+1TB：6999 元 IT之家注意到，vivo 现已在电商平台上架了 16GB+512GB 规格版本， 售价 6…",
+      "time": "09:50",
+      "publishedAt": "2026-09-30T09:50:23.000Z",
+      "url": "https://www.ithome.com/1/008/819.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/531f6c60-bb25-44ca-9aaa-150e5596d3b8.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 9 月 30 日消息，格科今天宣布， iQOO 16 旗舰手机搭载格科高性能 5000 万像素图像传感器 GC50F0。 据介绍，GC50F0 基于格科 GalaxyCell® 2.0 工艺平台打造，采用 0.64μm 像素设计， 光学规格为 1/2.8 英寸 ， 支持 5000 万像素高分辨率图像输出及 4K 视频拍摄 。可以高解析力呈现广角视…",
       "tags": [
-        "vivo",
+        "Samsung",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3606b3b6c983",
+      "title": "Top 5 upcoming smartphones in October 2026",
+      "source": "Gizmochina",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-09-30",
+      "time": "09:10",
+      "publishedAt": "2026-09-30T09:10:49.000Z",
+      "url": "https://www.gizmochina.com/2026/09/30/top-5-upcoming-smartphones-in-october-2026/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/upcoming-smartphones-in-October-2026-300x200.png?x96852",
+      "summary": "September was a pretty exciting month, but it was mostly geared towards premium phones. We saw Apple’s first foldable phones, the iPhone 18 series, and top-end smartphones from Xi…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-be6e017ed7ea",
+      "title": "竹本青：UFCS无线融合快充上线复兴号高铁",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-09-30",
+      "time": "08:40",
+      "publishedAt": "2026-09-30T08:40:44.000Z",
+      "url": "https://www.coolapk.com/feed/74082454",
+      "image": "http://image.coolapk.com/feed/2026/0930/16/4248714_3676b6fc_7585_1086_71@1080x1440.jpg",
+      "summary": "【UFCS无线融合快充上线复兴号高铁】 即日起，G42、G43、G35京沪、京杭热门线路复兴号商务座，正式上线UFCS无线快充功能，真正实现落座即充、无线自由。 据悉，此次上线的UFCS无线快充兼容主流手机、数码设备，无需插拔线材，随手放置即可稳定快充，为商务出行、旅途休闲带来极致便捷体验，大幅升级高铁座舱服务体验。 目前，UFCS有线融合快充标准已正式升…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
       ]
     },
     {
@@ -302,26 +702,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-5cc0d11f5e75",
-      "title": "Google Pixel 11 Pro’s biggest HiLight upgrade yet will make it a little more useful in December",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-30",
-      "time": "04:58",
-      "publishedAt": "2026-09-30T04:58:42.000Z",
-      "url": "https://www.androidpolice.com/google-pixel-11-pro-hilight-upgrade-little-more-useful-december/",
-      "image": "",
-      "summary": "HiLight will glow twice for \"messages from favorites\"",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-5f0a840f5615",
       "title": "竹本青：一加16联动合作10月8日公开，预计为《凡人修仙传》",
       "source": "竹本青",
@@ -337,86 +717,6 @@ window.phoneRadarAuto = {
       "summary": "【一加 16 联动官宣10月8日公开，预计为《凡人修仙传》】 9月30日，一加手机放出全新海报，预告一加16将与国漫《凡人修仙传》开启联名合作，完整内容定于10月8日公开。 海报文案“剑映星光，机缘将启”、“各位道友”，搭配韩立青竹蜂云剑剑阵形象。 #今日热点# #ColorOS17# #一加16#",
       "tags": [
         "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-624b6ab9a925",
-      "title": "CounterPoint 称 iPhone 18 Pro / Max 在中国首周销量同比增 12%，苹果 33% 份额跃居第 38 周销冠",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-30",
-      "time": "03:46",
-      "publishedAt": "2026-09-30T03:46:22.000Z",
-      "url": "https://www.ithome.com/1/008/679.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/a8e4d66e-d071-48f4-ab50-0bfc93c9159f.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 9 月 30 日消息，市场调查机构 CounterPoint Research 今天（9 月 30 日）发布博文，报道称相比较 iPhone 17 Pro 系列，苹果 iPhone 18 Pro 系列在中国首周（第 38 周，统计口径为 3 天）同比增长 12%，推动苹果在 2026 年第 38 周登上中国智能手机周销量榜首，市场份额达到 33%…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5d7f7a9c9ccd",
-      "title": "闪促价 1399 元起，OPPO K15s/K15x 两款新机今日开售",
-      "source": "IT之家",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-30",
-      "time": "03:43",
-      "publishedAt": "2026-09-30T03:43:14.000Z",
-      "url": "https://www.ithome.com/1/008/670.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/9e238ce3-e503-4e14-a411-b1ce48685259.jpg",
-      "summary": "IT之家 9 月 30 日消息，OPPO K 系列两款新机 K15s 与 K15x 于今日正式开售。两款产品均主打长续航与耐用性，其中 K15s 定位“满电出击、硬核防水”，K15x 则强调“六年抗造、持久畅快”。在 2026 年 9 月 30 日至 10 月 31 日促销期内购买，两款机型均可享受立减 300 元的闪促价。 OPPO K15s：8000m…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-3167a1274e99",
-      "title": "电子病历 OFD-H 格式文件有了国家标准，医疗数据互通互认、手机就能查",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-30",
-      "time": "03:25",
-      "publishedAt": "2026-09-30T03:25:32.000Z",
-      "url": "https://www.ithome.com/1/008/654.htm",
-      "image": "",
-      "summary": "IT之家 9 月 30 日消息，市场监管总局（国家标准委）批准发布 GB/T 48666—2026《电子病历版式文档技术要求》国家标准（OFD-H 标准） ，该标准将自 2027 年 4 月 29 日起正式实施。该标准由国家密码管理局归口，国家卫生健康委统计信息中心、中国电子技术标准化研究院等单位起草。 电子病历是医疗机构智慧化建设的核心。2025 年全国…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-3dc6e8ebe65d",
-      "title": "竹本青：荣耀Magic 9系列首销数据曝光：约为上代的95%",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-09-30",
-      "time": "03:01",
-      "publishedAt": "2026-09-30T03:01:44.000Z",
-      "url": "https://www.coolapk.com/feed/74076691",
-      "image": "http://image.coolapk.com/feed/2026/0930/11/4248714_1566779b_7544_2139_893@1270x784.jpg",
-      "summary": "【荣耀Magic 9系列 首销数据曝光：约为上代的95%，Pro Max内占约50%】 9月30日，博主「RD观测」披露第三方统计的荣耀Magic 9系列首销情况。 数据显示，Magic 9系列首销日同期销量约为上代Magic 8系列的95%。机型占比方面，Magic 9 Pro Max内占约50%，Magic 9标准版内占约38%，Magic 9超能版内…",
-      "tags": [
-        "HONOR",
         "爆料",
         "酷安博主"
       ]
@@ -562,6 +862,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-70a6036fba87",
+      "title": "难绷，AR膜拯救小米了属于了，这么贵的手机了，出厂就应该自带AR抗反射 #小米18Pro#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-30",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74079227",
+      "image": "",
+      "summary": "难绷，AR膜拯救小米了属于了，这么贵的手机了，出厂就应该自带AR抗反射 #小米18Pro#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-9bb9c098141a",
       "title": "华为 Mate90 全系 SKU 现身：至高 16GB+1TB",
       "source": "酷安热榜",
@@ -637,6 +957,46 @@ window.phoneRadarAuto = {
       "summary": "【iQOO 16 正式发布：骁龙8EE6处理器+2K 165Hz三星直屏，5999元起】",
       "tags": [
         "Samsung",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-65f7833fde4c",
+      "title": "爽死了，家里人庆祝我保研成功给我买手机（指定买华为），排着问了本市方圆20公里的十几家华为授权店员工，终于在一家小店订到一台512配置的90pm白色，明天下午直接去取机爽歪歪[呲牙] #华为Mate90ProMax#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-09-30",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74082081",
+      "image": "",
+      "summary": "爽死了，家里人庆祝我保研成功给我买手机（指定买华为），排着问了本市方圆20公里的十几家华为授权店员工，终于在一家小店订到一台512配置的90pm白色，明天下午直接去取机爽歪歪[呲牙] #华为Mate90ProMax#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-b1e6f51ff2c8",
+      "title": "荣耀高管回应Magic9销量",
+      "source": "微博热搜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-09-30",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%8D%A3%E8%80%80%E9%AB%98%E7%AE%A1%E5%9B%9E%E5%BA%94Magic9%E9%94%80%E9%87%8F%23&t=31&band_rank=23&Refer=top",
+      "image": "",
+      "summary": "荣耀高管回应Magic9销量",
+      "tags": [
+        "HONOR",
         "爆料",
         "NewsNow"
       ]
@@ -802,26 +1162,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-2601495204e8",
-      "title": "Google's Pixel 11a won't look different, but it's getting the upgrade that matters",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-29",
-      "time": "16:13",
-      "publishedAt": "2026-09-29T16:13:19.000Z",
-      "url": "https://www.androidpolice.com/pixel-11a-leaked-renders/",
-      "image": "",
-      "summary": "Don't judge it by looks",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-beb77845d468",
       "title": "Here’s how many iPhone Duo units Apple is reportedly making",
       "source": "9to5Mac",
@@ -937,26 +1277,6 @@ window.phoneRadarAuto = {
       "summary": "Previous Galaxy S27 Ultra leaks have directed attention to the new camera island, but don’t overlook the missing camera lens left behind with the Galaxy S26 Ultra. Apparently, tha…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-07d7ab6ee569",
-      "title": "iPhone Duo Reportedly Facing Production Problems Ahead of Launch",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-09-29",
-      "time": "13:16",
-      "publishedAt": "2026-09-29T13:16:04.000Z",
-      "url": "https://www.macrumors.com/2026/09/29/iphone-duo-reportedly-facing-production-problems/",
-      "image": "https://images.macrumors.com/article-new/2026/09/iPhone-Duo-Open.jpg",
-      "summary": "The iPhone Duo is reportedly facing production difficulties ahead of its October launch, with early output expected to be limited. A person said to be close to Foxconn's supply ch…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
