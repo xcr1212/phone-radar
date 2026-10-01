@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-01T17:01:12.918Z",
+  "updatedAt": "2026-10-01T22:40:12.342Z",
   "news": [
     {
       "id": "weibo-f7e4d6168a26",
@@ -10,8 +10,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-01",
-      "time": "17:01",
-      "publishedAt": "2026-10-01T17:01:12.918Z",
+      "time": "22:40",
+      "publishedAt": "2026-10-01T22:40:12.342Z",
       "url": "https://weibo.com/6048569942/Rkw3lCtbI",
       "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ihltiohha9j30zc3s9npd.jpg",
       "summary": "华为Mate90系列明天发布，猜猜价格吧： 补充一些信息，Mate90是6600mAh电池+66W(100W)快充，50Mp可变光圈高动态大底主摄，50Mp聚光长焦，麒麟9030； Mate90 Pro是双层OLED，最高12000nits，麒麟9035，50Mp潜望镜支持5cm长焦微距； Mate90 PM/RS都是18EV 50Mp超大底主摄+40Mp…",
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-01",
-      "time": "17:01",
-      "publishedAt": "2026-10-01T17:01:12.918Z",
+      "time": "22:40",
+      "publishedAt": "2026-10-01T22:40:12.342Z",
       "url": "https://weibo.com/6048569942/RkuQYC8En",
       "image": "",
       "summary": "摸了一下昨天 iQOO16 首销数据，竟然是近期已发安卓旗舰中的单品销量TOP1。 目前在狗猫抖三大电商平台的总销量是下半年安卓旗舰首销TOP1，而且是一杯打其它所有厂商的多杯组合，还几乎全打赢了……[哆啦A梦害怕]",
@@ -50,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-01",
-      "time": "17:01",
-      "publishedAt": "2026-10-01T17:01:12.918Z",
+      "time": "22:40",
+      "publishedAt": "2026-10-01T22:40:12.342Z",
       "url": "https://weibo.com/6048569942/RkuyMxv05",
       "image": "",
       "summary": "耀子年底还有一堆新机，荣耀700 Pro系列有原生背屏，主打2亿超清影像。中端线还有X新品，7英寸大屏+超万级大电池，阔折叠加速中，阔直板也立项了，支持卷起来[二哈]",
@@ -70,8 +70,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-01",
-      "time": "17:01",
-      "publishedAt": "2026-10-01T17:01:12.918Z",
+      "time": "22:40",
+      "publishedAt": "2026-10-01T22:40:12.342Z",
       "url": "https://weibo.com/6048569942/RksQeu5Cp",
       "image": "",
       "summary": "子系红加裤最近都有中端线新机入网，估计10月前后还有一波大乱斗，预计可以见到万级大电池、超大主动散热风扇、2K大直屏等……[流鼻血]",
@@ -90,8 +90,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-01",
-      "time": "17:01",
-      "publishedAt": "2026-10-01T17:01:12.918Z",
+      "time": "22:40",
+      "publishedAt": "2026-10-01T22:40:12.342Z",
       "url": "https://weibo.com/6048569942/RknZFiUss",
       "image": "https://tvax3.sinaimg.cn/mw2000/8f4a8a89ly8ihkmzeuhzbj23ls5eoe8i.jpg",
       "summary": "#iQOO16# 真机拿到了，简单聊几句： ——首发2K+165Hz双高规格，iPhone Duo同款三星M16发光材料+2K LEAD 2.0显示技术，实测手动亮度1250nits，全屏峰值亮度超2800nits，局部峰值干到了10000nits，户外阳光下可用性更高，M16材料的发光效率很高，所以屏幕功耗反而有所下降，甚至低于普通1.5K； 而且标配A…",
@@ -99,6 +99,246 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "微博"
+      ]
+    },
+    {
+      "id": "auto-c9a3cf6eb911",
+      "title": "GrayKey maker can reportedly bypass the iPhone’s ‘Inactivity Reboot’ security feature",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-01",
+      "time": "21:36",
+      "publishedAt": "2026-10-01T21:36:16.000Z",
+      "url": "https://9to5mac.com/2026/10/01/graykey-maker-can-reportedly-bypass-the-iphones-inactivity-reboot-security-feature/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/how-to-get-imessage-quantum-security-1.jpg?quality=82&strip=all&w=1600",
+      "summary": "As reported by 404 Media , Magnet Forensics says it has found a way to bypass the iPhone security feature that automatically reboots devices if they haven’t been unlocked for 72 h…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d0be0f8f361d",
+      "title": "The Samsung Galaxy S26 FE drops to $150 with this impressive carrier deal",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-01",
+      "time": "21:32",
+      "publishedAt": "2026-10-01T21:32:36.000Z",
+      "url": "https://www.androidpolice.com/the-samsung-galaxy-s26-fe-drops-to-150-with-this-carrier-deal/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/09/samsung-galaxy-s26-fe-on-surface.jpg",
+      "summary": "The $550 discount is worth taking a look at",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5628977a978b",
+      "title": "Apple Shares Photos Shot on iPhone Duo",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-01",
+      "time": "20:37",
+      "publishedAt": "2026-10-01T20:37:20.000Z",
+      "url": "https://www.macrumors.com/2026/10/01/apple-shares-photos-shot-on-iphone-duo/",
+      "image": "https://images.macrumors.com/article-new/2026/09/iphone-duo-colors.jpg",
+      "summary": "Apple on Instagram today shared a curated gallery of six photos shot on the iPhone Duo . The photos were shot by American photographers Jake Michaels and Jason Nocito , as part of…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-f7a6077504c9",
+      "title": "竹本青：【vivo X500全系列 补齐16GB运存版本】 9月21日，vivo X500系列正式发布。首发时X500、X…",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-01",
+      "time": "19:57",
+      "publishedAt": "2026-10-01T19:57:15.000Z",
+      "url": "https://www.coolapk.com/feed/74112788",
+      "image": "http://image.coolapk.com/feed/2026/1002/03/4248714_fc1a4b32_4633_1008_992@1438x889.jpg",
+      "summary": "【vivo X500全系列 补齐16GB运存版本】 9月21日，vivo X500系列正式发布。首发时X500、X500 Pro只提供12GB运存版本，仅X500 Pro Max配备16GB+512GB版本。当晚，该配置组合引发热议并登上热搜。 9月22日，vivo官宣为X500 Pro、X500 Pro Max新增16GB+512GB/1TB版本。 10…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-7de71e57f97f",
+      "title": "竹本青：【vivo X500 标准版 新增16+512GB版本，售价6499元】 12GB+256GB —— 5499元…",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-01",
+      "time": "19:49",
+      "publishedAt": "2026-10-01T19:49:12.000Z",
+      "url": "https://www.coolapk.com/feed/74112762",
+      "image": "http://image.coolapk.com/feed/2026/1002/03/4248714_fc1a4b32_4149_8105_75@1438x889.jpg",
+      "summary": "【vivo X500 标准版 新增16+512GB版本，售价6499元】 12GB+256GB —— 5499元 12GB+512GB —— 5999元 16GB+512GB —— 6499元 12GB+1TB —— 6999元 #今日热点# #OriginOS7# #vivoX500ProMax#",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-0a0061c95aab",
+      "title": "Google Pixel 2 XL set the stage for a decade of ups and downs",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-01",
+      "time": "19:30",
+      "publishedAt": "2026-10-01T19:30:00.000Z",
+      "url": "https://9to5google.com/2026/10/01/google-pixel-2-xl-set-the-stage-for-a-decade-of-ups-and-downs/",
+      "image": "",
+      "summary": "Google Pixel’s 10-year anniversary has me taking a look back at a bunch of the milestones throughout this lineup’s history and, when picking up the Pixel 2 XL, hindsight really ki…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-97006a097900",
+      "title": "Apple Says iPhone Duo Has Replaceable 'Cover Layer' Above the Display",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-01",
+      "time": "19:25",
+      "publishedAt": "2026-10-01T19:25:11.000Z",
+      "url": "https://www.macrumors.com/2026/10/01/iphone-duo-cover-layer-is-replaceable/",
+      "image": "https://images.macrumors.com/article-new/2026/10/iphone-duo-feature.jpg",
+      "summary": "In a recent interview with content creator Angelica Siciliani Fendi , Apple's vice president of hardware engineering Kate Bergeron revealed that the iPhone Duo's nano-texture cove…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-0bbf6b77107f",
+      "title": "竹本青：【三星Galaxy S26系列 国行涨价，幅度800至1800元】 ● Galaxy S26：全系涨价800元 1…",
+      "source": "竹本青",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-01",
+      "time": "18:51",
+      "publishedAt": "2026-10-01T18:51:11.000Z",
+      "url": "https://www.coolapk.com/feed/74112544",
+      "image": "http://image.coolapk.com/feed/2026/1002/02/4248714_d6e5f0ab_0670_8852_971@2136x2010.jpg",
+      "summary": "【三星Galaxy S26系列 国行涨价，幅度800至1800元】 ● Galaxy S26：全系涨价800元 12+256GB：6999元 → 7799元 ● Galaxy S26+：全系涨价1000元 12+256GB：7999元 → 8999元 12+512GB：9599元 → 10599元 ● Galaxy S26 Ultra：全系涨价1000-1…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-fdddb8b7b208",
+      "title": "Apple says iPhone Duo has ‘replaceable’ folding display layer to minimize crease",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-01",
+      "time": "18:44",
+      "publishedAt": "2026-10-01T18:44:27.000Z",
+      "url": "https://9to5mac.com/2026/10/01/apple-says-iphone-duo-has-replaceable-folding-display-layer-to-minimize-crease/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-siri-app.jpg?quality=82&strip=all&w=1600",
+      "summary": "Foldable displays tend to show a more visible crease over time, but Apple‘s Kate Bergeron says iPhone Duo has a replaceable cover layer on its folding screen to help mitigate that…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8766c90e37f3",
+      "title": "Redmi 17C 5G debuts in India with a massive 6000mAh battery and 6.9-inch 120Hz display",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-01",
+      "time": "18:20",
+      "publishedAt": "2026-10-01T18:20:34.000Z",
+      "url": "https://www.gizmochina.com/2026/10/01/xiaomi-redmi-17c-5g-launched-specs-price/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Redmi-17C-5G-300x188.png?x96852",
+      "summary": "Xiaomi has released the Redmi 17C 5G in India, following its initial launch in Singapore in August. The new budget smartphone is built around two key hardware priorities: a very l…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c84c502e849b",
+      "title": "Galaxy S26 looks more expensive these days: price hikes roll out online",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-10-01",
+      "time": "17:20",
+      "publishedAt": "2026-10-01T17:20:00.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/galaxy-s26-looks-more-expensive-these-days-price-hikes-roll-out-online",
+      "image": "https://cdn.mos.cms.futurecdn.net/YEPnpMWbsBwfNbbUzGaFdL-1920-80.jpg",
+      "summary": "Reports highlight incoming price increases for the Galaxy S26 series. While the majority remain consistent, one device is the outlier, with a larger jump.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-4a68d0e9d4c5",
+      "title": "竹本青：【华为移动影像升级，正式发布睿影XMAGE】 日前，华为高管余承东在Mate 90系列及全场景新品发布会上发表演讲…",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-01",
+      "time": "17:08",
+      "publishedAt": "2026-10-01T17:08:01.000Z",
+      "url": "https://www.coolapk.com/feed/74111822",
+      "image": "http://image.coolapk.com/feed/2026/1002/01/4248714_380ff4fc_4899_1195_28@2160x2432.jpg",
+      "summary": "【华为移动影像升级，正式发布睿影XMAGE】 日前，华为高管余承东在Mate 90系列及全场景新品发布会上发表演讲。他宣布，华为移动影像全新升级，正式发布睿影XMAGE。 “睿观万象，聚光成影，‘睿’，既是技术创新赋予影像的智慧，也是我们对影像背后的人、生活和情感更深的理解。我们希望从全栈自研影像技术品牌，成长为走向世界的影像文化品牌，定义智能影像时代的影…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
       ]
     },
     {
@@ -297,26 +537,6 @@ window.phoneRadarAuto = {
       "summary": "IT之家 10 月 1 日消息，在今天的华为 Mate 90 系列及全场景新品发布会结束后，Mate XT 2 非凡大师三折叠手机迎来了一次系统更新。更新日志显示，新版本锁屏新增 3D 空间壁纸、通信共享支持多人互助通信共享等功能。 IT之家附完整更新日志如下： 亮点推荐 新增 3D 空间壁纸功能 ，通过照片中的元素与景深时钟、透视时钟巧妙结合，打造空间感…",
       "tags": [
         "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b258844837ab",
-      "title": "Samsung raised prices on the Galaxy S26 by $100",
-      "source": "The Verge",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-01",
-      "time": "13:17",
-      "publishedAt": "2026-10-01T13:17:16.000Z",
-      "url": "https://www.theverge.com/tech/1003328/samsung-s26-price-hikes-us",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/samsung-galaxy-s26-plus-3.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "The base Galaxy S26 with 256GB of storage costs nearly $1,000 after Samsung raised prices in the US by $100 or more, Phone Arena reports. The Galaxy S26 and S26 Plus were already…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -702,26 +922,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-721e3e80d1a2",
-      "title": "竹本青：【小米10月服务周电池升级，新增小米14/Pro、Civi 4 Pro、REDMI K70】 ○ 小米14：461…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-01",
-      "time": "07:36",
-      "publishedAt": "2026-10-01T07:36:53.000Z",
-      "url": "https://www.coolapk.com/feed/74101753",
-      "image": "http://image.coolapk.com/feed/2026/1001/15/4248714_d5df4933_0212_9346_223@830x1308.jpg",
-      "summary": "【小米10月服务周电池升级，新增小米14/Pro、Civi 4 Pro、REDMI K70】 ○ 小米14：4610mAh → 4795mAh ○ 小米14 Pro：4880mAh → 5140mAh ○ 小米Civi 4 Pro：4700mAh → 4930mAh ○ REDMI K70：5000mAh → 5220mAh 服务售价统一189元（含手工费…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-517dc3579c4e",
       "title": "Huawei Mate TV 2 series launched with up to 110-inch display and 6,000-nit brightness",
       "source": "Gizmochina",
@@ -759,26 +959,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-51b841bbe959",
-      "title": "竹本青：【荣耀高管披露Magic 9系列第三天首销数据：激活增长超70%】 首销日：线上全渠道销量订单安卓第一 第二天：激…",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-01",
-      "time": "06:39",
-      "publishedAt": "2026-10-01T06:39:07.000Z",
-      "url": "https://www.coolapk.com/feed/74100614",
-      "image": "http://image.coolapk.com/feed/2026/1001/14/4248714_8de8c4a6_6746_7334_510@3278x2530.jpg",
-      "summary": "【荣耀高管披露Magic 9系列第三天首销数据：激活增长超70%】 首销日：线上全渠道销量订单安卓第一 第二天：激活同比去年翻倍 第三天：激活较上代增长超70% #荣耀Magic9ProMax# #MagicOS11# #今日热点#",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -842,6 +1022,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "coolapk-user-134a8731ea98",
+      "title": "JSCHEN小小狐：华为 Mate90 系列正式发布：售价 5999 元起",
+      "source": "JSCHEN小小狐",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-01",
+      "time": "03:13",
+      "publishedAt": "2026-10-01T03:13:00.000Z",
+      "url": "https://www.coolapk.com/feed/74096068",
+      "image": "http://image.coolapk.com/feed/2026/1001/11/4702274_c1102631_4376_8733_264@2160x2160.jpg",
+      "summary": "『华为 Mate90 系列正式发布：售价 5999 元起』 Mate90（麒麟 9030） 12GB + 256GB —— 5999 元 12GB + 512GB —— 6999 元 12GB + 1TB —— 8499 元 Mate90 Pro（麒麟 9035） 12GB + 256GB —— 6999 元 12GB + 512GB —— 7999 元…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
       "id": "auto-f88c473bc838",
       "title": "Celebrating “What Holds Us” on iPhone 18 Pro",
       "source": "Apple Newsroom",
@@ -902,128 +1102,68 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-0a2ccd033239",
-      "title": "【华为Mate 90系列 正式发布：至高搭载麒麟9050 Pro，售价5999元起】",
+      "id": "newsnow-dcfa2d6a8b1f",
+      "title": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-10-01",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/114972",
+      "image": "",
+      "summary": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-a94bf86c8fa2",
+      "title": "众测招募｜泡泡骚 Low Pro：给新 iPhone 添一件极简「背心」",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-10-01",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/114410",
+      "image": "",
+      "summary": "众测招募｜泡泡骚 Low Pro：给新 iPhone 添一件极简「背心」",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-45c6bfe9d900",
+      "title": "这个手机全新已经跌了1200了[汗]说实话即使是往年的OV线下机， #小米18Pro# 也没这么夸张。",
       "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-01",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74096147",
+      "url": "https://www.coolapk.com/feed/74108514",
       "image": "",
-      "summary": "【华为Mate 90系列 正式发布：至高搭载麒麟9050 Pro，售价5999元起】",
+      "summary": "这个手机全新已经跌了1200了[汗]说实话即使是往年的OV线下机， #小米18Pro# 也没这么夸张。",
       "tags": [
-        "Huawei",
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-b4b7f33273df",
-      "title": "〖 华为Mate 90系列发布：5999元起，即日起开售〗",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-01",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74096095",
-      "image": "",
-      "summary": "〖 华为Mate 90系列发布：5999元起，即日起开售〗",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-a975adc7bfb9",
-      "title": "问大家一个问题，如果你手里有一万元，你会选择苹果18pro，还是华为mate90pro Max？[嘿哈][嘿哈]",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-01",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74097100",
-      "image": "",
-      "summary": "问大家一个问题，如果你手里有一万元，你会选择苹果18pro，还是华为mate90pro Max？[嘿哈][嘿哈]",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-1fbd77b101b3",
-      "title": "兄弟们，终极抉择，18pm透明版跟mate90pm，我该怎么选 #华为Mate90ProMax#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-01",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74089611",
-      "image": "",
-      "summary": "兄弟们，终极抉择，18pm透明版跟mate90pm，我该怎么选 #华为Mate90ProMax#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-eeee68f92f17",
-      "title": "华为 Mate90 系列正式发布：售价 5999 元起",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-01",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74096068",
-      "image": "",
-      "summary": "华为 Mate90 系列正式发布：售价 5999 元起",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-9a7b567ebf67",
-      "title": "爽死了，家里人庆祝我保研成功给我买手机（指定买华为），排着问了本市方圆20公里的十几家华为授权店员工，终于在一家小店订到一台512配置的90pm白色，明天下午直接去取机爽歪歪[呲牙] #华为Mate90ProMax#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-01",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74082081",
-      "image": "",
-      "summary": "爽死了，家里人庆祝我保研成功给我买手机（指定买华为），排着问了本市方圆20公里的十几家华为授权店员工，终于在一家小店订到一台512配置的90pm白色，明天下午直接去取机爽歪歪[呲牙] #华为Mate90ProMax#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-97a0a6cbcd68",
-      "title": "最近一直在来回对比18 Pro Max跟Magic9 Pro Max，随便唠唠我的想法。",
+      "id": "newsnow-27ba921d7277",
+      "title": "#OPPOFindX10ProMax# #荣耀Magic9ProMax# #华为Mate90ProMax#",
       "source": "酷安热榜",
       "brand": "HONOR",
       "model": "HONOR 相关机型",
@@ -1032,9 +1172,9 @@ window.phoneRadarAuto = {
       "date": "2026-10-01",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74057333",
+      "url": "https://www.coolapk.com/feed/74110968",
       "image": "",
-      "summary": "最近一直在来回对比18 Pro Max跟Magic9 Pro Max，随便唠唠我的想法。",
+      "summary": "#OPPOFindX10ProMax# #荣耀Magic9ProMax# #华为Mate90ProMax#",
       "tags": [
         "HONOR",
         "爆料",
@@ -1062,9 +1202,169 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-21a19e2561d2",
-      "title": "华为Mate 90系列新品体验",
-      "source": "B站热搜",
+      "id": "newsnow-a975adc7bfb9",
+      "title": "问大家一个问题，如果你手里有一万元，你会选择苹果18pro，还是华为mate90pro Max？[嘿哈][嘿哈]",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-01",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74097100",
+      "image": "",
+      "summary": "问大家一个问题，如果你手里有一万元，你会选择苹果18pro，还是华为mate90pro Max？[嘿哈][嘿哈]",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-7d8245bc3907",
+      "title": "我的天啊，我已经刷到好几个小米18pro，小米18promax黑屏死机重启的视频了，一开始我以为是小米系统调度的不好，但我发现隔壁iqoo16 用骁龙8ee6的也有这情况是不是这最新一代的骁龙8ee6设计有问题啊？用magic9promax的兄弟们有没有出现黑屏死机的情况，很急很需要知道，因为我很想买9pm[受虐滑稽] #小米18ProMax# #iQOO16# #数码日常#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-01",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74092662",
+      "image": "",
+      "summary": "我的天啊，我已经刷到好几个小米18pro，小米18promax黑屏死机重启的视频了，一开始我以为是小米系统调度的不好，但我发现隔壁iqoo16 用骁龙8ee6的也有这情况是不是这最新一代的骁龙8ee6设计有问题啊？用magic9promax的兄弟们有没有出现黑屏死机的情况，很急很需要知道，因为我很想买9pm[受虐滑稽] #小米18ProMax# #iQOO…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-7b0c46c1e6c7",
+      "title": "哈哈😄真是绝了，8499你可以买到magic9promax顶配16+1T，或者去买12G+9030的mate90标准版，注意:不是9030pro而是9030。哈哈哈哈哈哈，12G+9030能卖到8.5k ，我是真理解为啥有人黑华子了，这他么是一点良心没有全是黑心啊[黑线]马上2027了还有四边不等窄的手机呢哈哈哈哈哈🤣🤣🤣闹麻了真是",
+      "source": "酷安热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-01",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74096846",
+      "image": "",
+      "summary": "哈哈😄真是绝了，8499你可以买到magic9promax顶配16+1T，或者去买12G+9030的mate90标准版，注意:不是9030pro而是9030。哈哈哈哈哈哈，12G+9030能卖到8.5k ，我是真理解为啥有人黑华子了，这他么是一点良心没有全是黑心啊[黑线]马上2027了还有四边不等窄的手机呢哈哈哈哈哈🤣🤣🤣闹麻了真是",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-7c5dd87884ca",
+      "title": "昨晚喝大了，打车路上把三个手机全丢啦，小米和iPhone都找到了，屏幕后盖全部都没碎，就是边框啥的惨不忍睹，OPPO好像甩隧道里面了，现在定位也没了，感觉有点死了•ᴗ•💧，奉劝给我没事真别喝，喝大了真的损失惨重[呲牙] #酷安夜话# #OPPOFindX9Ultra# #小米18Pro#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-01",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74098513",
+      "image": "",
+      "summary": "昨晚喝大了，打车路上把三个手机全丢啦，小米和iPhone都找到了，屏幕后盖全部都没碎，就是边框啥的惨不忍睹，OPPO好像甩隧道里面了，现在定位也没了，感觉有点死了•ᴗ•💧，奉劝给我没事真别喝，喝大了真的损失惨重[呲牙] #酷安夜话# #OPPOFindX9Ultra# #小米18Pro#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-0a2ccd033239",
+      "title": "【华为Mate 90系列 正式发布：至高搭载麒麟9050 Pro，售价5999元起】",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-01",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74096147",
+      "image": "",
+      "summary": "【华为Mate 90系列 正式发布：至高搭载麒麟9050 Pro，售价5999元起】",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-e704e9028bb5",
+      "title": "第一感受，屏幕很不满意，还是残影＋延迟，打字残影更重了，和iqoo比iqoo差不多亮，系统延迟到仿佛我走路戴着镣铐，拍照颜色越来越不还原，锐化越来越重，标准版这个亮度我囸真服了更逆天，你让我咋看#华为Mate90#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-01",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74098803",
+      "image": "",
+      "summary": "第一感受，屏幕很不满意，还是残影＋延迟，打字残影更重了，和iqoo比iqoo差不多亮，系统延迟到仿佛我走路戴着镣铐，拍照颜色越来越不还原，锐化越来越重，标准版这个亮度我囸真服了更逆天，你让我咋看#华为Mate90#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-1fbd77b101b3",
+      "title": "兄弟们，终极抉择，18pm透明版跟mate90pm，我该怎么选 #华为Mate90ProMax#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-01",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74089611",
+      "image": "",
+      "summary": "兄弟们，终极抉择，18pm透明版跟mate90pm，我该怎么选 #华为Mate90ProMax#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-765cef473e9d",
+      "title": "华为 Mate90 系列售价 5999 元起，余承东称「在内存大涨价的今天，定价很有诚意」，怎样看待这一定价？",
+      "source": "知乎热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-10-01",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2088953459273725661",
+      "image": "",
+      "summary": "华为 Mate90 系列售价 5999 元起，余承东称「在内存大涨价的今天，定价很有诚意」，怎样看待这一定价？",
+      "tags": [
+        "Huawei",
+        "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-22ab164aa1f9",
+      "title": "Mate90开售华为门店人从众",
+      "source": "今日头条热榜",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
       "type": "爆料",
@@ -1072,9 +1372,49 @@ window.phoneRadarAuto = {
       "date": "2026-10-01",
       "time": "",
       "publishedAt": "",
-      "url": "https://search.bilibili.com/all?keyword=%E5%8D%8E%E4%B8%BAMate%2090%E7%B3%BB%E5%88%97%E6%96%B0%E5%93%81%E4%BD%93%E9%AA%8C",
+      "url": "https://www.toutiao.com/trending/7690745612685594148/",
       "image": "",
-      "summary": "华为Mate 90系列新品体验",
+      "summary": "Mate90开售华为门店人从众",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-639d3afeee26",
+      "title": "华为Mate90全系搭载旗舰韬芯片",
+      "source": "今日头条热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-01",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7691528727615786538/",
+      "image": "",
+      "summary": "华为Mate90全系搭载旗舰韬芯片",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-56dcc9c30ba9",
+      "title": "华为Mate90定价5999起",
+      "source": "抖音热点",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-10-01",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.douyin.com/hot/2676317",
+      "image": "",
+      "summary": "华为Mate90定价5999起",
       "tags": [
         "Huawei",
         "爆料",
