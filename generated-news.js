@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-02T05:35:11.591Z",
+  "updatedAt": "2026-10-02T12:32:47.165Z",
   "news": [
     {
       "id": "weibo-f7e4d6168a26",
@@ -10,8 +10,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-02",
-      "time": "05:35",
-      "publishedAt": "2026-10-02T05:35:11.591Z",
+      "time": "12:32",
+      "publishedAt": "2026-10-02T12:32:47.165Z",
       "url": "https://weibo.com/6048569942/Rkw3lCtbI",
       "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ihltiohha9j30zc3s9npd.jpg",
       "summary": "华为Mate90系列明天发布，猜猜价格吧： 补充一些信息，Mate90是6600mAh电池+66W(100W)快充，50Mp可变光圈高动态大底主摄，50Mp聚光长焦，麒麟9030； Mate90 Pro是双层OLED，最高12000nits，麒麟9035，50Mp潜望镜支持5cm长焦微距； Mate90 PM/RS都是18EV 50Mp超大底主摄+40Mp…",
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-02",
-      "time": "05:35",
-      "publishedAt": "2026-10-02T05:35:11.591Z",
+      "time": "12:32",
+      "publishedAt": "2026-10-02T12:32:47.165Z",
       "url": "https://weibo.com/6048569942/RkuQYC8En",
       "image": "",
       "summary": "摸了一下昨天 iQOO16 首销数据，竟然是近期已发安卓旗舰中的单品销量TOP1。 目前在狗猫抖三大电商平台的总销量是下半年安卓旗舰首销TOP1，而且是一杯打其它所有厂商的多杯组合，还几乎全打赢了……[哆啦A梦害怕]",
@@ -50,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-02",
-      "time": "05:35",
-      "publishedAt": "2026-10-02T05:35:11.591Z",
+      "time": "12:32",
+      "publishedAt": "2026-10-02T12:32:47.165Z",
       "url": "https://weibo.com/6048569942/RkuyMxv05",
       "image": "",
       "summary": "耀子年底还有一堆新机，荣耀700 Pro系列有原生背屏，主打2亿超清影像。中端线还有X新品，7英寸大屏+超万级大电池，阔折叠加速中，阔直板也立项了，支持卷起来[二哈]",
@@ -70,8 +70,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-02",
-      "time": "05:35",
-      "publishedAt": "2026-10-02T05:35:11.591Z",
+      "time": "12:32",
+      "publishedAt": "2026-10-02T12:32:47.165Z",
       "url": "https://weibo.com/6048569942/RksQeu5Cp",
       "image": "",
       "summary": "子系红加裤最近都有中端线新机入网，估计10月前后还有一波大乱斗，预计可以见到万级大电池、超大主动散热风扇、2K大直屏等……[流鼻血]",
@@ -90,8 +90,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-02",
-      "time": "05:35",
-      "publishedAt": "2026-10-02T05:35:11.591Z",
+      "time": "12:32",
+      "publishedAt": "2026-10-02T12:32:47.165Z",
       "url": "https://weibo.com/6048569942/RknZFiUss",
       "image": "https://tvax3.sinaimg.cn/mw2000/8f4a8a89ly8ihkmzeuhzbj23ls5eoe8i.jpg",
       "summary": "#iQOO16# 真机拿到了，简单聊几句： ——首发2K+165Hz双高规格，iPhone Duo同款三星M16发光材料+2K LEAD 2.0显示技术，实测手动亮度1250nits，全屏峰值亮度超2800nits，局部峰值干到了10000nits，户外阳光下可用性更高，M16材料的发光效率很高，所以屏幕功耗反而有所下降，甚至低于普通1.5K； 而且标配A…",
@@ -102,21 +102,201 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-f8a13ff372d2",
-      "title": "摄影师 Zavitz 测试苹果 iPhone 18 Pro 人像模式，媲美专业相机",
+      "id": "auto-bb28ac0e7325",
+      "title": "Galaxy S27 Ultra’s camera housing could finally put an end to desk wobble",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-02",
+      "time": "12:15",
+      "publishedAt": "2026-10-02T12:15:13.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s27-ultras-camera-housing-could-finally-put-an-end-to-desk-wobble/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Samsung-Galaxy-S27-Ultra-Design-Final-CAD-Render-Black.jpg",
+      "summary": "You don't need a deep dive into social media to notice that the vocal majority of people commenting on the recent Galaxy S27 Ultra leaks is dissatisfied with the purported design.…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fe4944809c26",
+      "title": "消息称三星电子已量产 Exynos 2700 处理器，Galaxy S27 系列手机将搭载",
       "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-02",
+      "time": "12:04",
+      "publishedAt": "2026-10-02T12:04:34.000Z",
+      "url": "https://www.ithome.com/1/009/347.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/7c5174a3-9222-42db-81f8-4e443b6cd542.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 2 日消息，博主 @i冰宇宙 今日发文称，三星电子已开始量产 Exynos 2700 处理器，该处理器是 Galaxy S27 系列智能手机的核心部件。据悉，其产量比上一代产品提高了 10%。 IT之家注意到，三星 Exynos 2,700 工程样片 GeekBench 跑分已经曝光，6.7.1 版本单核成绩为 4,328 分，多核成绩…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d015c12c43ec",
+      "title": "I flipped one hidden Google setting on my Android phone; tethering finally works as smoothly as on an iPhone",
+      "source": "Android Police",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-10-02",
-      "time": "05:26",
-      "publishedAt": "2026-10-02T05:26:02.000Z",
-      "url": "https://www.ithome.com/1/009/272.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/15f53249-7184-4500-b22a-5a8e7c774ded.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 2 日消息，摄影师 Lee Zavitz 于 9 月 30 日发布视频， 通过对比认为苹果 iPhone 18 Pro 在拍摄人像模式上，表现接近专业相机水准。 IT之家查询公开资料，Lee Zavitz 是一位来自加拿大多伦多的摄影师、电影摄影师，其内容主要围绕人像摄影、视频拍摄、相机评测、镜头体验和后期调色展开，在 Instagra…",
+      "time": "12:00",
+      "publishedAt": "2026-10-02T12:00:10.000Z",
+      "url": "https://www.androidpolice.com/flipped-hidden-google-setting-on-android-phone-tethering-works-as-smoothly-as-iphone/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/09/two-android-phones-sharing-an-internet-connection-with-instant-hotspot.png",
+      "summary": "I wish more people could use it",
       "tags": [
         "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ebf9252cf2d5",
+      "title": "I thought Google made a mistake with the Pixel 11 Pro XL. 30 days later, I was wrong",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-02",
+      "time": "10:30",
+      "publishedAt": "2026-10-02T10:30:02.000Z",
+      "url": "https://www.androidauthority.com/i-thought-google-made-mistake-pixel-11-pro-xl-wrong-why-3717023/",
+      "image": "",
+      "summary": "If you can hold your nose, the Pixel 11 Pro XL is worth it.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-765ea16fbd0d",
+      "title": "New flagship hands the Pixel 11 Pro a huge defeat in reader poll",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-02",
+      "time": "09:54",
+      "publishedAt": "2026-10-02T09:54:30.000Z",
+      "url": "https://www.androidauthority.com/motorola-signature-27-vs-google-pixel-11-pro-poll-results-3718305/",
+      "image": "",
+      "summary": "According to our readers, Google's current flagship is under threat from a new contender.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-322fa40ab3c5",
+      "title": "荣耀林林：Magic9 系列不会推出 RSR 保时捷设计版本",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-02",
+      "time": "09:48",
+      "publishedAt": "2026-10-02T09:48:07.000Z",
+      "url": "https://www.ithome.com/1/009/329.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/d90a665c-eb5b-4afb-b4cb-d8476eae43cc.png",
+      "summary": "IT之家 10 月 2 日消息， 荣耀 Magic9 系列手机于 9 月 28 日发布，包含 荣耀 Magic9 Pro Max 、荣耀 Magic9、 荣耀 Magic9 超能版 三杯，售价 4499 元起。10 月 1 日，荣耀中国区智慧生活业务部部长林林在微博评论区确认，Magic9 系列不会推出 RSR 版本。 IT之家注意到，荣耀于 2024 年…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-67feed628f1b",
+      "title": "竹本青：【极客湾解析 华为Mate90系列 韬定律芯片：麒麟9050 Pro设计突破极限，终端体验远超参数】 10月2日，…",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-02",
+      "time": "08:23",
+      "publishedAt": "2026-10-02T08:23:41.000Z",
+      "url": "https://www.coolapk.com/feed/74121081",
+      "image": "http://image.coolapk.com/feed/2026/1002/18/4248714_a4cb38bf_5678_0903_814@1820x4096.jpg",
+      "summary": "【极客湾解析 华为Mate90系列 韬定律芯片：麒麟9050 Pro设计突破极限，终端体验远超参数】 10月2日，博主「极客湾Geekerwan」发布最新视频，公开华为Mate 90系列全系芯片方案、首度拆解分析麒麟9050 Pro的逻辑折叠架构细节，并完成Mate 90 Pro Max的全维度性能实测。 该博主表示：“麒麟9050 Pro芯片设计上突破极…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-b0a15cc8faad",
+      "title": "京瓷预热本月下旬在日本市场推出 DIGNO BX4 商用手机：4 年安卓版本更新、搭联发科天玑 6400 处理器",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-02",
+      "time": "07:52",
+      "publishedAt": "2026-10-02T07:52:54.000Z",
+      "url": "https://www.ithome.com/1/009/311.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/634ceb7e-ee74-4cd2-8e10-0accaa4490b5.jpg",
+      "summary": "IT之家 10 月 2 日消息，京瓷宣布，将于 10 月（本月）下旬起在日本市场通过软银 SoftBank 运营商渠道面向企业用户推出一款名为“DIGNO BX4”的智能手机。 京瓷表示，DIGNO BX4 针对长期使用场景设计，支持最多 4 次安卓系统版本升级，并从上市之日起提供最长 5 年的安全更新。该机还通过了谷歌“Android Enterpris…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5fc3f3c5d310",
+      "title": "Samsung has the upper hand: Here’s how much it costs to replace iPhone Duo’s matte screen layer",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-02",
+      "time": "07:00",
+      "publishedAt": "2026-10-02T07:00:14.000Z",
+      "url": "https://www.androidauthority.com/iphone-duo-screen-coating-replacement-cost-3718254/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Apple-iPhone-Duo-Hands-On-Inner-Display-with-no-crease-and-under-display-camera-visible.jpg",
+      "summary": "Samsung offers one-free screen protector replacement for the first 12 months, and subsequent fees are reasonable too.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-29e3a31be711",
+      "title": "Canada, Europe, UK, and US also get hit with Galaxy S26 price hikes",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-02",
+      "time": "06:29",
+      "publishedAt": "2026-10-02T06:29:20.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s26-price-hiked-canda-europe-uk-us/",
+      "image": "",
+      "summary": "Over the past few weeks, Samsung has increased the prices of several of its phones. Last week, it hiked the prices of the Galaxy S26 series in India, and just yesterday, it increa…",
+      "tags": [
+        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -162,46 +342,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-b0cfaf77346a",
-      "title": "三星上调 Galaxy S26 系列手机建议零售价：涨 800-1800 元，7799 元起",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-02",
-      "time": "02:52",
-      "publishedAt": "2026-10-02T02:52:04.000Z",
-      "url": "https://www.ithome.com/1/009/242.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/297fdbfe-5231-4294-bda9-9a9a464aa825.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 2 日消息，三星官网显示，三星上调了国行 Galaxy S26 系列手机的建议零售价。 Galaxy S26 12GB + 256GB：调价前 6,999 元，调价后 7,799 元（涨价 800 元） Galaxy S26+ 12GB + 256GB：调价前 7,999 元，调价后 8,999 元（涨价 1,000 元） 12GB +…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-99a2854221e7",
-      "title": "消息称苹果 iPhone 18 Pro 系列手机开售不到 14 天，国内销量突破 200 万",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-02",
-      "time": "02:08",
-      "publishedAt": "2026-10-02T02:08:06.000Z",
-      "url": "https://www.ithome.com/1/009/232.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/9e0b1553-ea74-42e6-82d4-c831c94be417.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 2 日消息，长期关注国内手机市场份额的数码博主 @RD观测 今日爆料，iPhone 18 Pro 系列开售不到 14 天，销量（Sell out） 已经突破 200 万 。 博主此前曾爆料，iPhone 18 Pro 系列开售 7 天时销量（Sell out）已经接近 1300K（130 万），同期约为 iPhone 17 Pro 系列…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-fe7ff78063d2",
       "title": "竹本青：【一加 16 外围预热：首次搭载三频GPS+四频北斗】 10月2日，一加中国区总裁李杰宣布，一加 16将首次搭载三…",
       "source": "竹本青",
@@ -219,66 +359,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-16b34388ce89",
-      "title": "一加 16 手机官宣首次搭载三频 GPS + 四频北斗，10 月 12 日发布",
-      "source": "IT之家",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-02",
-      "time": "01:37",
-      "publishedAt": "2026-10-02T01:37:29.000Z",
-      "url": "https://www.ithome.com/1/009/225.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/3f7c9da2-b196-4c6c-b173-41993329cece.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 2 日消息，一加中国区总裁李杰今日透露了一加 16 手机的小升级： 首次搭载三频 GPS + 四频北斗 ，定位速度更快，导航也更加精准。 一加 16 手机此前已官宣定档 10 月 12 日发布 ，李杰称这个假期，一加 16 也在全国各大 OPPO 门店提前上柜。 ▲ IT之家图赏： 一加 16「明日星光」实拍 据IT之家此前报道， 一加…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-7952c3b09002",
-      "title": "苹果发布 iPhone Duo 官方样张：专业摄影师掌镜，展现卓越影像实力",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-02",
-      "time": "01:36",
-      "publishedAt": "2026-10-02T01:36:38.000Z",
-      "url": "https://www.ithome.com/1/009/224.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/6d7383f8-9de5-42ad-a7fb-423c35da694a.jpg",
-      "summary": "IT之家 10 月 2 日消息，苹果官方 Instagram 账号今天（10 月 2 日）发布动态， 分享了 6 张由专业摄影师使用 iPhone Duo 拍摄的样张，展示其影像系统能力。 本次拍摄由 Jake Michaels 与 Jason Nocito 两位美国专业摄影师拍摄，苹果在帖子中标注“Foldable. Posable. Shot on i…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-03235117f08a",
-      "title": "森养官宣 AF 28-135mm F2.8 FE 相机镜头：重 854g，明年 2 月推出",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-02",
-      "time": "01:10",
-      "publishedAt": "2026-10-02T01:10:45.000Z",
-      "url": "https://www.ithome.com/1/009/216.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/2dad1e4f-d4a6-4213-83c2-dbbe5ec92fc3.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 2 日消息，森养昨日官宣了 AF 28-135mm F2.8 FE 相机镜头，将于 2027 年 2 月 推出。 这款镜头适配索尼 E 卡口，重约 854g，采用 16 组 20 片光学结构，最近对焦距离 0.27m（广角端）、0.73m（长焦端），滤镜口径 82 mm。 IT之家附这款镜头详细参数如下： 型号 AF 28-135mm…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -422,8 +502,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-09bbfd1088a2",
-      "title": "这手机基本彻底凉了",
+      "id": "newsnow-25824ab7401e",
+      "title": "『极客湾详解逻辑折叠 / Mate90 Pro Max 实测』",
       "source": "酷安热榜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -432,9 +512,29 @@ window.phoneRadarAuto = {
       "date": "2026-10-02",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74114388",
+      "url": "https://www.coolapk.com/feed/74121271",
       "image": "",
-      "summary": "这手机基本彻底凉了",
+      "summary": "『极客湾详解逻辑折叠 / Mate90 Pro Max 实测』",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-8148bef530bf",
+      "title": "兄弟们，我这一段时间用下来我真的怀疑，第一批的8EE6不止是工艺有问题，所有厂商的固件调教都有问题，在重载高频场景的场景下，会有概率手机卡死重启",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-02",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74115607",
+      "image": "",
+      "summary": "兄弟们，我这一段时间用下来我真的怀疑，第一批的8EE6不止是工艺有问题，所有厂商的固件调教都有问题，在重载高频场景的场景下，会有概率手机卡死重启",
       "tags": [
         "行业",
         "爆料",
@@ -482,8 +582,28 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-2792ce5826b0",
-      "title": "哈哈😄真是绝了，8499你可以买到magic9promax顶配16+1T，或者去买12G+9030的mate90标准版，注意:不是9030pro而是9030。哈哈哈哈哈哈，12G+9030能卖到8.5k ，我是真理解为啥有人黑华子了，这他么是一点良心没有全是黑心啊[黑线]马上2027了还有四边不等窄的手机呢哈哈哈哈哈🤣🤣🤣闹麻了真是",
+      "id": "newsnow-448cd033b68a",
+      "title": "mate90promax太恐怖了，WiFi抖音一小时还是100%的电量，这个韬定律芯片真牛啊[doge呵斥][doge呵斥]刚才看博主说80Pro和promax上用的也是韬定律，因为今天上午余总说了9030也是韬定律芯片，难怪前半年极客湾的视频刚上架都下架了，是因为那时候韬定律的论文还没发出来，现在直接大大方方讲了[受虐滑稽][受虐滑稽]",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-02",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74105612",
+      "image": "",
+      "summary": "mate90promax太恐怖了，WiFi抖音一小时还是100%的电量，这个韬定律芯片真牛啊[doge呵斥][doge呵斥]刚才看博主说80Pro和promax上用的也是韬定律，因为今天上午余总说了9030也是韬定律芯片，难怪前半年极客湾的视频刚上架都下架了，是因为那时候韬定律的论文还没发出来，现在直接大大方方讲了[受虐滑稽][受虐滑稽]",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-410c4a44b86a",
+      "title": "听说飞存荣耀也干了，这用了还没两天[流汗滑稽]，这东西能从跑分上看出来吗 #荣耀Magic9ProMax# #小米18ProMax#",
       "source": "酷安热榜",
       "brand": "HONOR",
       "model": "HONOR 相关机型",
@@ -492,9 +612,9 @@ window.phoneRadarAuto = {
       "date": "2026-10-02",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74096846",
+      "url": "https://www.coolapk.com/feed/74115726",
       "image": "",
-      "summary": "哈哈😄真是绝了，8499你可以买到magic9promax顶配16+1T，或者去买12G+9030的mate90标准版，注意:不是9030pro而是9030。哈哈哈哈哈哈，12G+9030能卖到8.5k ，我是真理解为啥有人黑华子了，这他么是一点良心没有全是黑心啊[黑线]马上2027了还有四边不等窄的手机呢哈哈哈哈哈🤣🤣🤣闹麻了真是",
+      "summary": "听说飞存荣耀也干了，这用了还没两天[流汗滑稽]，这东西能从跑分上看出来吗 #荣耀Magic9ProMax# #小米18ProMax#",
       "tags": [
         "HONOR",
         "爆料",
@@ -522,61 +642,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-884a500673db",
-      "title": "【余承东回应华为Mate 90系列定价：还是非常有诚意的】",
+      "id": "newsnow-2792ce5826b0",
+      "title": "哈哈😄真是绝了，8499你可以买到magic9promax顶配16+1T，或者去买12G+9030的mate90标准版，注意:不是9030pro而是9030。哈哈哈哈哈哈，12G+9030能卖到8.5k ，我是真理解为啥有人黑华子了，这他么是一点良心没有全是黑心啊[黑线]马上2027了还有四边不等窄的手机呢哈哈哈哈哈🤣🤣🤣闹麻了真是",
       "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-02",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74102865",
+      "url": "https://www.coolapk.com/feed/74096846",
       "image": "",
-      "summary": "【余承东回应华为Mate 90系列定价：还是非常有诚意的】",
+      "summary": "哈哈😄真是绝了，8499你可以买到magic9promax顶配16+1T，或者去买12G+9030的mate90标准版，注意:不是9030pro而是9030。哈哈哈哈哈哈，12G+9030能卖到8.5k ，我是真理解为啥有人黑华子了，这他么是一点良心没有全是黑心啊[黑线]马上2027了还有四边不等窄的手机呢哈哈哈哈哈🤣🤣🤣闹麻了真是",
       "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-448cd033b68a",
-      "title": "mate90promax太恐怖了，WiFi抖音一小时还是100%的电量，这个韬定律芯片真牛啊[doge呵斥][doge呵斥]刚才看博主说80Pro和promax上用的也是韬定律，因为今天上午余总说了9030也是韬定律芯片，难怪前半年极客湾的视频刚上架都下架了，是因为那时候韬定律的论文还没发出来，现在直接大大方方讲了[受虐滑稽][受虐滑稽]",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-02",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74105612",
-      "image": "",
-      "summary": "mate90promax太恐怖了，WiFi抖音一小时还是100%的电量，这个韬定律芯片真牛啊[doge呵斥][doge呵斥]刚才看博主说80Pro和promax上用的也是韬定律，因为今天上午余总说了9030也是韬定律芯片，难怪前半年极客湾的视频刚上架都下架了，是因为那时候韬定律的论文还没发出来，现在直接大大方方讲了[受虐滑稽][受虐滑稽]",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-1251a9e5f960",
-      "title": "问大家一个问题，如果你手里有一万元，你会选择苹果18pro，还是华为mate90pro Max？[嘿哈][嘿哈]",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-02",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74097100",
-      "image": "",
-      "summary": "问大家一个问题，如果你手里有一万元，你会选择苹果18pro，还是华为mate90pro Max？[嘿哈][嘿哈]",
-      "tags": [
-        "Huawei",
+        "HONOR",
         "爆料",
         "NewsNow"
       ]
@@ -602,21 +682,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-9783e24b8a13",
-      "title": "iPhoneDuo支持更换保护膜",
+      "id": "newsnow-5c8b4030bcc3",
+      "title": "赴泰失联教师手机定位曾在缅甸出现",
       "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "待验证",
       "date": "2026-10-02",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhoneDuo%E6%94%AF%E6%8C%81%E6%9B%B4%E6%8D%A2%E4%BF%9D%E6%8A%A4%E8%86%9C%23&t=31&band_rank=16&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B4%E6%B3%B0%E5%A4%B1%E8%81%94%E6%95%99%E5%B8%88%E6%89%8B%E6%9C%BA%E5%AE%9A%E4%BD%8D%E6%9B%BE%E5%9C%A8%E7%BC%85%E7%94%B8%E5%87%BA%E7%8E%B0%23&t=31&band_rank=21&Refer=top",
       "image": "",
-      "summary": "iPhoneDuo支持更换保护膜",
+      "summary": "赴泰失联教师手机定位曾在缅甸出现",
       "tags": [
-        "iPhone",
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -642,28 +722,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-9c961e193434",
-      "title": "Mate90登场 能打苹果的还得是华为",
-      "source": "百度热搜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-02",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=Mate90%E7%99%BB%E5%9C%BA+%E8%83%BD%E6%89%93%E8%8B%B9%E6%9E%9C%E7%9A%84%E8%BF%98%E5%BE%97%E6%98%AF%E5%8D%8E%E4%B8%BA",
-      "image": "",
-      "summary": "Mate90登场 能打苹果的还得是华为",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-d0784270ec2f",
-      "title": "手机号注销后被免密支付盗刷6551元",
+      "id": "newsnow-ad70ae4a3249",
+      "title": "西湖体长1米4“大青鱼”能帮找手机",
       "source": "百度热搜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -672,33 +732,13 @@ window.phoneRadarAuto = {
       "date": "2026-10-02",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E5%8F%B7%E6%B3%A8%E9%94%80%E5%90%8E%E8%A2%AB%E5%85%8D%E5%AF%86%E6%94%AF%E4%BB%98%E7%9B%97%E5%88%B76551%E5%85%83",
+      "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E6%B9%96%E4%BD%93%E9%95%BF1%E7%B1%B34%E2%80%9C%E5%A4%A7%E9%9D%92%E9%B1%BC%E2%80%9D%E8%83%BD%E5%B8%AE%E6%89%BE%E6%89%8B%E6%9C%BA",
       "image": "",
-      "summary": "手机号注销后被免密支付盗刷6551元",
+      "summary": "西湖体长1米4“大青鱼”能帮找手机",
       "tags": [
         "行业",
         "爆料",
         "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-de1227a3740c",
-      "title": "缓解折痕加深：苹果首款折叠 iPhone Duo 支持更换保护膜",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-01",
-      "time": "23:54",
-      "publishedAt": "2026-10-01T23:54:32.000Z",
-      "url": "https://www.ithome.com/1/009/202.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/2f523e02-8604-43de-b400-f738f83b266f.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 2 日消息，在 TikTok 平台对话 @angietutorials 时，苹果硬件工程副总裁凯特 · 伯杰龙（Kate Bergeron）表示，为了缓解长期使用中折痕加深的问题， 苹果首款折叠 iPhone Duo 支持更换屏幕保护层，AppleCare 用户更换费用为 19 美元 （IT之家注：现汇率约合 127.6 元人民币） 。…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -942,66 +982,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-4a68d0e9d4c5",
-      "title": "竹本青：【华为移动影像升级，正式发布睿影XMAGE】 日前，华为高管余承东在Mate 90系列及全场景新品发布会上发表演讲…",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-01",
-      "time": "17:08",
-      "publishedAt": "2026-10-01T17:08:01.000Z",
-      "url": "https://www.coolapk.com/feed/74111822",
-      "image": "http://image.coolapk.com/feed/2026/1002/01/4248714_380ff4fc_4899_1195_28@2160x2432.jpg",
-      "summary": "【华为移动影像升级，正式发布睿影XMAGE】 日前，华为高管余承东在Mate 90系列及全场景新品发布会上发表演讲。他宣布，华为移动影像全新升级，正式发布睿影XMAGE。 “睿观万象，聚光成影，‘睿’，既是技术创新赋予影像的智慧，也是我们对影像背后的人、生活和情感更深的理解。我们希望从全栈自研影像技术品牌，成长为走向世界的影像文化品牌，定义智能影像时代的影…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-85aef160a831",
-      "title": "The Galaxy S26 Ultra now costs more than iPhone 18 Pro Max thanks to chip shortage",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-01",
-      "time": "16:41",
-      "publishedAt": "2026-10-01T16:41:05.000Z",
-      "url": "https://www.androidpolice.com/galaxy-s26-ultra-costs-more-than-iphone-18-pro-max/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/09/galaxy-s26-ultra-screen.JPG",
-      "summary": "A $100 price bump is here",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-76ba9aba0f4f",
-      "title": "The iPhone 18 Pro feels off. [Video]",
-      "source": "Android Police",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-01",
-      "time": "16:30",
-      "publishedAt": "2026-10-01T16:30:10.000Z",
-      "url": "https://www.androidpolice.com/video/the-iphone-18-pro-feels-off-video/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/09/the-iphone-18-pro-feels-off.jpg",
-      "summary": "Another year, another strange decision.",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-e18a3e2da11e",
       "title": "iPhone 18 Pro Max vs Xiaomi 18 Pro Max: Apple Costs More, But Is It Better?",
       "source": "Gizmochina",
@@ -1202,26 +1182,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-08b9562b565a",
-      "title": "If you plan on upgrading to Galaxy S27, here’s some bad news",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-01",
-      "time": "12:04",
-      "publishedAt": "2026-10-01T12:04:26.000Z",
-      "url": "https://www.sammobile.com/news/upgrading-galaxy-s27-some-bad-news/",
-      "image": "",
-      "summary": "Besides faster performance and newer software, the Galaxy S27 Ultra is expected to bring major camera changes and battery life improvements. However, if you are planning to upgrad…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-b248b4416600",
       "title": "iPhone 18 Pro Sales Jump in China Ahead of iPhone Duo Launch",
       "source": "MacRumors",
@@ -1317,26 +1277,6 @@ window.phoneRadarAuto = {
       "summary": "Huawei has launched the Huawei Mate 90 Pro in China as the first phone powered by the new Kirin 9035 chip. The phone starts at CNY 6,999 (about $1,045) for the 12GB+256GB model. H…",
       "tags": [
         "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-89fab70d5921",
-      "title": "Buying a Galaxy S26 series phone just got more expensive",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-01",
-      "time": "08:28",
-      "publishedAt": "2026-10-01T08:28:40.000Z",
-      "url": "https://www.sammobile.com/news/buying-galaxy-s26-phones-got-more-expensive/",
-      "image": "",
-      "summary": "Samsung increased the prices of its Galaxy S26 series phones in South Korea today, seven months after their initial launch. The company previously raised the prices of these devic…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]

@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-10-02T05:35:11.591Z",
+  "updatedAt": "2026-10-02T12:32:47.165Z",
   "issueDate": "2026-10-02",
   "issue": "VOL.261002",
   "title": "手机情报日报",
-  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
     "total": 9,
-    "iphone": 8,
+    "iphone": 6,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -17,98 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-f8a13ff372d2",
-          "title": "摄影师 Zavitz 测试苹果 iPhone 18 Pro 人像模式，媲美专业相机",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-02",
-          "time": "05:26",
-          "publishedAt": "2026-10-02T05:26:02.000Z",
-          "url": "https://www.ithome.com/1/009/272.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/15f53249-7184-4500-b22a-5a8e7c774ded.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 10 月 2 日消息，摄影师 Lee Zavitz 于 9 月 30 日发布视频， 通过对比认为苹果 iPhone 18 Pro 在拍摄人像模式上，表现接近专业相机水准。 IT之家查询公开资料，Lee Zavitz 是一位来自加拿大多伦多的摄影师、电影摄影师，其内容主要围绕人像摄影、视频拍摄、相机评测、镜头体验和后期调色展开，在 Instagra…",
-          "detail": "IT之家 10 月 2 日消息，摄影师 Lee Zavitz 于 9 月 30 日发布视频， 通过对比认为苹果 iPhone 18 Pro 在拍摄人像模式上，表现接近专业相机水准。 IT之家查询公开资料，Lee Zavitz 是一位来自加拿大多伦多的摄影师、电影摄影师，其内容主要围绕人像摄影、视频拍摄、相机评测、镜头体验和后期调色展开，在 Instagra…",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-99a2854221e7",
-          "title": "消息称苹果 iPhone 18 Pro 系列手机开售不到 14 天，国内销量突破 200 万",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-02",
-          "time": "02:08",
-          "publishedAt": "2026-10-02T02:08:06.000Z",
-          "url": "https://www.ithome.com/1/009/232.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/9e0b1553-ea74-42e6-82d4-c831c94be417.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 10 月 2 日消息，长期关注国内手机市场份额的数码博主 @RD观测 今日爆料，iPhone 18 Pro 系列开售不到 14 天，销量（Sell out） 已经突破 200 万 。 博主此前曾爆料，iPhone 18 Pro 系列开售 7 天时销量（Sell out）已经接近 1300K（130 万），同期约为 iPhone 17 Pro 系列…",
-          "detail": "IT之家 10 月 2 日消息，长期关注国内手机市场份额的数码博主 @RD观测 今日爆料，iPhone 18 Pro 系列开售不到 14 天，销量（Sell out） 已经突破 200 万 。 博主此前曾爆料，iPhone 18 Pro 系列开售 7 天时销量（Sell out）已经接近 1300K（130 万），同期约为 iPhone 17 Pro 系列…",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-7952c3b09002",
-          "title": "苹果发布 iPhone Duo 官方样张：专业摄影师掌镜，展现卓越影像实力",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-02",
-          "time": "01:36",
-          "publishedAt": "2026-10-02T01:36:38.000Z",
-          "url": "https://www.ithome.com/1/009/224.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/6d7383f8-9de5-42ad-a7fb-423c35da694a.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 10 月 2 日消息，苹果官方 Instagram 账号今天（10 月 2 日）发布动态， 分享了 6 张由专业摄影师使用 iPhone Duo 拍摄的样张，展示其影像系统能力。 本次拍摄由 Jake Michaels 与 Jason Nocito 两位美国专业摄影师拍摄，苹果在帖子中标注“Foldable. Posable. Shot on i…",
-          "detail": "IT之家 10 月 2 日消息，苹果官方 Instagram 账号今天（10 月 2 日）发布动态， 分享了 6 张由专业摄影师使用 iPhone Duo 拍摄的样张，展示其影像系统能力。 本次拍摄由 Jake Michaels 与 Jason Nocito 两位美国专业摄影师拍摄，苹果在帖子中标注“Foldable. Posable. Shot on i…",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-de1227a3740c",
-          "title": "缓解折痕加深：苹果首款折叠 iPhone Duo 支持更换保护膜",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-01",
-          "time": "23:54",
-          "publishedAt": "2026-10-01T23:54:32.000Z",
-          "url": "https://www.ithome.com/1/009/202.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/2f523e02-8604-43de-b400-f738f83b266f.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 10 月 2 日消息，在 TikTok 平台对话 @angietutorials 时，苹果硬件工程副总裁凯特 · 伯杰龙（Kate Bergeron）表示，为了缓解长期使用中折痕加深的问题， 苹果首款折叠 iPhone Duo 支持更换屏幕保护层，AppleCare 用户更换费用为 19 美元 （IT之家注：现汇率约合 127.6 元人民币） 。…",
-          "detail": "IT之家 10 月 2 日消息，在 TikTok 平台对话 @angietutorials 时，苹果硬件工程副总裁凯特 · 伯杰龙（Kate Bergeron）表示，为了缓解长期使用中折痕加深的问题， 苹果首款折叠 iPhone Duo 支持更换屏幕保护层，AppleCare 用户更换费用为 19 美元 （IT之家注：现汇率约合 127.6 元人民币） 。…",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "auto-597c1bc69ec1",
           "title": "iPhone 18 Pro 机模 / 配色信息曝光",
@@ -200,35 +108,131 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        }
-      ]
-    },
-    {
-      "id": "market",
-      "title": "行业趋势",
-      "hint": "看方向，不急着当购买依据。",
-      "items": [
+        },
         {
-          "id": "auto-b0cfaf77346a",
-          "title": "三星上调 Galaxy S26 系列手机建议零售价：涨 800-1800 元，7799 元起",
+          "id": "auto-5628977a978b",
+          "title": "iPhone 影像能力相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-01",
+          "time": "20:37",
+          "publishedAt": "2026-10-01T20:37:20.000Z",
+          "url": "https://www.macrumors.com/2026/10/01/apple-shares-photos-shot-on-iphone-duo/",
+          "image": "https://images.macrumors.com/article-new/2026/09/iphone-duo-colors.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
+          "detail": "iPhone 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-b248b4416600",
+          "title": "iPhone 18 Pro 发布 / 上市相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-01",
+          "time": "11:37",
+          "publishedAt": "2026-10-01T11:37:34.000Z",
+          "url": "https://www.macrumors.com/2026/10/01/strong-iphone-18-pro-launch-sales-china/",
+          "image": "https://images.macrumors.com/article-new/2026/09/iphone-18-pro-and-iphone-18-pro-max.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 有发布或新功能消息，适合确认是否和新机有关。",
+          "detail": "iPhone 18 Pro 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-fe4944809c26",
+          "title": "消息称三星电子已量产 Exynos 2700 处理器，Galaxy S27 系列手机将搭载",
           "originalTitle": "",
           "source": "IT之家",
           "brand": "Samsung",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-10-02",
-          "time": "02:52",
-          "publishedAt": "2026-10-02T02:52:04.000Z",
-          "url": "https://www.ithome.com/1/009/242.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/297fdbfe-5231-4294-bda9-9a9a464aa825.jpg?x-bce-process=image/format,f_auto",
+          "time": "12:04",
+          "publishedAt": "2026-10-02T12:04:34.000Z",
+          "url": "https://www.ithome.com/1/009/347.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/7c5174a3-9222-42db-81f8-4e443b6cd542.png?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 10 月 2 日消息，三星官网显示，三星上调了国行 Galaxy S26 系列手机的建议零售价。 Galaxy S26 12GB + 256GB：调价前 6,999 元，调价后 7,799 元（涨价 800 元） Galaxy S26+ 12GB + 256GB：调价前 7,999 元，调价后 8,999 元（涨价 1,000 元） 12GB +…",
-          "detail": "IT之家 10 月 2 日消息，三星官网显示，三星上调了国行 Galaxy S26 系列手机的建议零售价。 Galaxy S26 12GB + 256GB：调价前 6,999 元，调价后 7,799 元（涨价 800 元） Galaxy S26+ 12GB + 256GB：调价前 7,999 元，调价后 8,999 元（涨价 1,000 元） 12GB +…",
+          "takeaway": "IT之家 10 月 2 日消息，博主 @i冰宇宙 今日发文称，三星电子已开始量产 Exynos 2700 处理器，该处理器是 Galaxy S27 系列智能手机的核心部件。据悉，其产量比上一代产品提高了 10%。 IT之家注意到，三星 Exynos 2,700 工程样片 GeekBench 跑分已经曝光，6.7.1 版本单核成绩为 4,328 分，多核成绩…",
+          "detail": "IT之家 10 月 2 日消息，博主 @i冰宇宙 今日发文称，三星电子已开始量产 Exynos 2700 处理器，该处理器是 Galaxy S27 系列智能手机的核心部件。据悉，其产量比上一代产品提高了 10%。 IT之家注意到，三星 Exynos 2,700 工程样片 GeekBench 跑分已经曝光，6.7.1 版本单核成绩为 4,328 分，多核成绩…",
+          "keyPoints": [
+            "芯片 / 性能",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-f7e4d6168a26",
+          "title": "数码闲聊站：华为Mate90系列明天发布，猜猜价格吧： 补充一些信息，Mate90是660…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-10-02",
+          "time": "12:32",
+          "publishedAt": "2026-10-02T12:32:47.165Z",
+          "url": "https://weibo.com/6048569942/Rkw3lCtbI",
+          "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ihltiohha9j30zc3s9npd.jpg",
+          "verdict": "先看",
+          "takeaway": "华为Mate90系列明天发布，猜猜价格吧： 补充一些信息，Mate90是6600mAh电池+66W(100W)快充，50Mp可变光圈高动态大底主摄，50Mp聚光长焦，麒麟9030； Mate90 Pro是双层OLED，最高12000nits，麒麟9035，50Mp潜望镜支持5cm长焦微距； Mate90 PM/RS都是18EV 50Mp超大底主摄+40Mp…",
+          "detail": "华为Mate90系列明天发布，猜猜价格吧： 补充一些信息，Mate90是6600mAh电池+66W(100W)快充，50Mp可变光圈高动态大底主摄，50Mp聚光长焦，麒麟9030； Mate90 Pro是双层OLED，最高12000nits，麒麟9035，50Mp潜望镜支持5cm长焦微距； Mate90 PM/RS都是18EV 50Mp超大底主摄+40Mp…",
+          "keyPoints": [
+            "影像硬件",
+            "屏幕形态",
+            "电池 / 充电",
+            "成本 / 价格"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        }
+      ]
+    },
+    {
+      "id": "launch",
+      "title": "新机与官方发布",
+      "hint": "能直接更新到参数库。",
+      "items": [
+        {
+          "id": "auto-322fa40ab3c5",
+          "title": "荣耀林林：Magic9 系列不会推出 RSR 保时捷设计版本",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-02",
+          "time": "09:48",
+          "publishedAt": "2026-10-02T09:48:07.000Z",
+          "url": "https://www.ithome.com/1/009/329.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/d90a665c-eb5b-4afb-b4cb-d8476eae43cc.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 10 月 2 日消息， 荣耀 Magic9 系列手机于 9 月 28 日发布，包含 荣耀 Magic9 Pro Max 、荣耀 Magic9、 荣耀 Magic9 超能版 三杯，售价 4499 元起。10 月 1 日，荣耀中国区智慧生活业务部部长林林在微博评论区确认，Magic9 系列不会推出 RSR 版本。 IT之家注意到，荣耀于 2024 年…",
+          "detail": "IT之家 10 月 2 日消息， 荣耀 Magic9 系列手机于 9 月 28 日发布，包含 荣耀 Magic9 Pro Max 、荣耀 Magic9、 荣耀 Magic9 超能版 三杯，售价 4499 元起。10 月 1 日，荣耀中国区智慧生活业务部部长林林在微博评论区确认，Magic9 系列不会推出 RSR 版本。 IT之家注意到，荣耀于 2024 年…",
           "keyPoints": [
             "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         }
       ]
