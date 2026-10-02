@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-10-02T19:17:12.718Z",
+  "updatedAt": "2026-10-02T23:45:48.942Z",
   "issueDate": "2026-10-02",
   "issue": "VOL.261002",
   "title": "手机情报日报",
-  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 15 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 9,
+    "total": 15,
     "iphone": 7,
     "leaks": 8,
     "official": 0,
@@ -41,7 +41,7 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-d8721be9d910",
+          "id": "auto-7835bbad55eb",
           "title": "iPhone 相关消息",
           "originalTitle": "",
           "source": "MacRumors",
@@ -49,10 +49,10 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-10-02",
-          "time": "16:18",
-          "publishedAt": "2026-10-02T16:18:55.000Z",
-          "url": "https://www.macrumors.com/2026/10/02/att-statement-on-iphone-18-pro-max-issues/",
-          "image": "https://images.macrumors.com/article-new/2026/10/ATT-Apple.jpg",
+          "time": "19:29",
+          "publishedAt": "2026-10-02T19:29:52.000Z",
+          "url": "https://www.macrumors.com/2026/10/02/att-and-apple-move-to-fix-iphone-18-pro-max-issues/",
+          "image": "https://images.macrumors.com/article-new/2026/10/iPhone-18-Pro-Max-ATT.jpg",
           "verdict": "先看",
           "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
           "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
@@ -231,6 +231,158 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
+          "id": "auto-d78f0b3dab5c",
+          "title": "华为 Mate 90 系列发布：最强 Mate来了，5999 起即日开售",
+          "originalTitle": "",
+          "source": "爱范儿",
+          "brand": "Huawei",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-10-01",
+          "time": "06:17",
+          "publishedAt": "2026-10-01T06:17:57.000Z",
+          "url": "https://www.ifanr.com/1682801?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "image": "https://s3.ifanr.com/wp-content/uploads/2026/10/banner16t9.png",
+          "verdict": "先看",
+          "takeaway": "华为 Mate 90 系列自己就形成了一片机海",
+          "detail": "华为 Mate 90 系列自己就形成了一片机海",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
+          "id": "coolapk-user-134a8731ea98",
+          "title": "JSCHEN小小狐：华为 Mate90 系列正式发布：售价 5999 元起",
+          "originalTitle": "",
+          "source": "JSCHEN小小狐",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-10-01",
+          "time": "03:13",
+          "publishedAt": "2026-10-01T03:13:00.000Z",
+          "url": "https://www.coolapk.com/feed/74096068",
+          "image": "http://image.coolapk.com/feed/2026/1001/11/4702274_c1102631_4376_8733_264@2160x2160.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "『华为 Mate90 系列正式发布：售价 5999 元起』 Mate90（麒麟 9030） 12GB + 256GB —— 5999 元 12GB + 512GB —— 6999 元 12GB + 1TB —— 8499 元 Mate90 Pro（麒麟 9035） 12GB + 256GB —— 6999 元 12GB + 512GB —— 7999 元…",
+          "detail": "『华为 Mate90 系列正式发布：售价 5999 元起』 Mate90（麒麟 9030） 12GB + 256GB —— 5999 元 12GB + 512GB —— 6999 元 12GB + 1TB —— 8499 元 Mate90 Pro（麒麟 9035） 12GB + 256GB —— 6999 元 12GB + 512GB —— 7999 元…",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "review",
+      "title": "评测与体验",
+      "hint": "买前再细看，平时扫一眼即可。",
+      "items": [
+        {
+          "id": "newsnow-308807e780b3",
+          "title": "赶快去缓存，极客湾评测华为这视频不晓得可以活多久[受虐滑稽]#华为Mate90ProMax# #小米18Pro# #iPhone18ProMax#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-10-02",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/74120877",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "赶快去缓存，极客湾评测华为这视频不晓得可以活多久[受虐滑稽]#华为Mate90ProMax# #小米18Pro# #iPhone18ProMax#",
+          "detail": "赶快去缓存，极客湾评测华为这视频不晓得可以活多久[受虐滑稽]#华为Mate90ProMax# #小米18Pro# #iPhone18ProMax#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "行业趋势",
+      "hint": "看方向，不急着当购买依据。",
+      "items": [
+        {
+          "id": "newsnow-feed07daec5a",
+          "title": "这个手机全新已经跌了1200了[汗]说实话即使是往年的OV线下机， #小米18Pro# 也没这么夸张。",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-10-02",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/74108514",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "这个手机全新已经跌了1200了[汗]说实话即使是往年的OV线下机， #小米18Pro# 也没这么夸张。",
+          "detail": "这个手机全新已经跌了1200了[汗]说实话即使是往年的OV线下机， #小米18Pro# 也没这么夸张。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "coolapk-user-0bbf6b77107f",
+          "title": "竹本青：【三星Galaxy S26全系列 国行涨价，幅度800至1800元】 ● Galaxy S26：全系涨价800元…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-10-01",
+          "time": "18:51",
+          "publishedAt": "2026-10-01T18:51:11.000Z",
+          "url": "https://www.coolapk.com/feed/74112544",
+          "image": "http://image.coolapk.com/feed/2026/1002/02/4248714_d6e5f0ab_0670_8852_971@2136x2010.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "【三星Galaxy S26全系列 国行涨价，幅度800至1800元】 ● Galaxy S26：全系涨价800元 12+256GB：6999元 → 7799元 ● Galaxy S26+：全系涨价1000元 12+256GB：7999元 → 8999元 12+512GB：9599元 → 10599元 ● Galaxy S26 Ultra：全系涨价1000-…",
+          "detail": "【三星Galaxy S26全系列 国行涨价，幅度800至1800元】 ● Galaxy S26：全系涨价800元 12+256GB：6999元 → 7799元 ● Galaxy S26+：全系涨价1000元 12+256GB：7999元 → 8999元 12+512GB：9599元 → 10599元 ● Galaxy S26 Ultra：全系涨价1000-…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "影响购买预算，值得先看。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-5797551bd83b",
+          "title": "我嘞个传奇耐电王再世，1.3v给到8ee6，缩肛都跳过了，直接给电死了[受虐滑稽] #骁龙8至尊版Gen6# #荣耀Magic9ProMax# #iQOO16#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-10-02",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/74128360",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "我嘞个传奇耐电王再世，1.3v给到8ee6，缩肛都跳过了，直接给电死了[受虐滑稽] #骁龙8至尊版Gen6# #荣耀Magic9ProMax# #iQOO16#",
+          "detail": "我嘞个传奇耐电王再世，1.3v给到8ee6，缩肛都跳过了，直接给电死了[受虐滑稽] #骁龙8至尊版Gen6# #荣耀Magic9ProMax# #iQOO16#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }

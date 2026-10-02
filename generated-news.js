@@ -1,104 +1,84 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-02T19:17:12.718Z",
+  "updatedAt": "2026-10-02T23:45:48.942Z",
   "news": [
     {
-      "id": "weibo-f7e4d6168a26",
-      "title": "数码闲聊站：华为Mate90系列明天发布，猜猜价格吧： 补充一些信息，Mate90是660…",
-      "source": "数码闲聊站",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "id": "auto-81524b21de5f",
+      "title": "Apple confirms iPhone 18 Pro Max AT&T cellular issues, affected devices require hardware replacement",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
-      "trust": "高关注爆料源",
+      "trust": "媒体汇总",
       "date": "2026-10-02",
-      "time": "19:17",
-      "publishedAt": "2026-10-02T19:17:12.718Z",
-      "url": "https://weibo.com/6048569942/Rkw3lCtbI",
-      "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ihltiohha9j30zc3s9npd.jpg",
-      "summary": "华为Mate90系列明天发布，猜猜价格吧： 补充一些信息，Mate90是6600mAh电池+66W(100W)快充，50Mp可变光圈高动态大底主摄，50Mp聚光长焦，麒麟9030； Mate90 Pro是双层OLED，最高12000nits，麒麟9035，50Mp潜望镜支持5cm长焦微距； Mate90 PM/RS都是18EV 50Mp超大底主摄+40Mp…",
+      "time": "20:47",
+      "publishedAt": "2026-10-02T20:47:02.000Z",
+      "url": "https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-photos-21.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple has confirmed an issue causing a “small number” of iPhone 18 Pro Max devices on AT&T to lose cellular service. Apple released software and carrier updates to prevent the iss…",
       "tags": [
-        "Huawei",
+        "iPhone",
         "爆料",
-        "微博"
+        "自动抓取"
       ]
     },
     {
-      "id": "weibo-e4a68fd30029",
-      "title": "数码闲聊站：摸了一下昨天 iQOO16 首销数据，竟然是近期已发安卓旗舰中的单品销量TOP…",
-      "source": "数码闲聊站",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
+      "id": "auto-34d5790d0fbf",
+      "title": "Pixelated 119: 50 days later, it’s still a phone",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
       "type": "爆料",
-      "trust": "高关注爆料源",
+      "trust": "媒体汇总",
       "date": "2026-10-02",
-      "time": "19:17",
-      "publishedAt": "2026-10-02T19:17:12.718Z",
-      "url": "https://weibo.com/6048569942/RkuQYC8En",
+      "time": "20:30",
+      "publishedAt": "2026-10-02T20:30:00.000Z",
+      "url": "https://9to5google.com/2026/10/02/pixelated-119-50-days-later-its-still-a-phone/",
       "image": "",
-      "summary": "摸了一下昨天 iQOO16 首销数据，竟然是近期已发安卓旗舰中的单品销量TOP1。 目前在狗猫抖三大电商平台的总销量是下半年安卓旗舰首销TOP1，而且是一杯打其它所有厂商的多杯组合，还几乎全打赢了……[哆啦A梦害怕]",
+      "summary": "Welcome to Pixelated episode 119. This week, Ben Schoon fills in for Damien as we discuss our first Pixel 11a leak and the first 50 days of the flagship Pixel 11 series. We also d…",
       "tags": [
-        "vivo",
+        "Pixel",
         "爆料",
-        "微博"
+        "自动抓取"
       ]
     },
     {
-      "id": "weibo-41b18bf8cfc0",
-      "title": "数码闲聊站：耀子年底还有一堆新机，荣耀700 Pro系列有原生背屏，主打2亿超清影像。中端…",
-      "source": "数码闲聊站",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
+      "id": "auto-673b77e1a657",
+      "title": "The Pixel 4 is still my favorite Google smartphone hardware, and it holds up",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
       "type": "爆料",
-      "trust": "高关注爆料源",
+      "trust": "媒体汇总",
       "date": "2026-10-02",
-      "time": "19:17",
-      "publishedAt": "2026-10-02T19:17:12.718Z",
-      "url": "https://weibo.com/6048569942/RkuyMxv05",
+      "time": "19:30",
+      "publishedAt": "2026-10-02T19:30:00.000Z",
+      "url": "https://9to5google.com/2026/10/02/google-pixel-4-favorite-hardware-revisit/",
       "image": "",
-      "summary": "耀子年底还有一堆新机，荣耀700 Pro系列有原生背屏，主打2亿超清影像。中端线还有X新品，7英寸大屏+超万级大电池，阔折叠加速中，阔直板也立项了，支持卷起来[二哈]",
+      "summary": "Google Pixel has evolved tremendously over the years, with some radically different designs showing up between generations. As the lineup turns 10, the Pixel 4 remains the one tha…",
       "tags": [
-        "HONOR",
+        "Pixel",
         "爆料",
-        "微博"
+        "自动抓取"
       ]
     },
     {
-      "id": "weibo-12420d2a04d8",
-      "title": "数码闲聊站：子系红加裤最近都有中端线新机入网，估计10月前后还有一波大乱斗，预计可以见到万…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "id": "auto-7835bbad55eb",
+      "title": "AT&T and Apple Just Took Steps Toward Fixing iPhone 18 Pro Max Issue",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
-      "trust": "高关注爆料源",
+      "trust": "媒体汇总",
       "date": "2026-10-02",
-      "time": "19:17",
-      "publishedAt": "2026-10-02T19:17:12.718Z",
-      "url": "https://weibo.com/6048569942/RksQeu5Cp",
-      "image": "",
-      "summary": "子系红加裤最近都有中端线新机入网，估计10月前后还有一波大乱斗，预计可以见到万级大电池、超大主动散热风扇、2K大直屏等……[流鼻血]",
+      "time": "19:29",
+      "publishedAt": "2026-10-02T19:29:52.000Z",
+      "url": "https://www.macrumors.com/2026/10/02/att-and-apple-move-to-fix-iphone-18-pro-max-issues/",
+      "image": "https://images.macrumors.com/article-new/2026/10/iPhone-18-Pro-Max-ATT.jpg",
+      "summary": "AT&T and Apple are taking action today as they try to resolve iPhone 18 Pro Max cellular issues, according to MacRumors contributor Aaron Perris. Thousands of iPhone 18 Pro Max us…",
       "tags": [
-        "行业",
+        "iPhone",
         "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "weibo-e8e676f443fe",
-      "title": "数码闲聊站：#iQOO16# 真机拿到了，简单聊几句： ——首发2K+165Hz双高规格，…",
-      "source": "数码闲聊站",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-02",
-      "time": "19:17",
-      "publishedAt": "2026-10-02T19:17:12.718Z",
-      "url": "https://weibo.com/6048569942/RknZFiUss",
-      "image": "https://tvax3.sinaimg.cn/mw2000/8f4a8a89ly8ihkmzeuhzbj23ls5eoe8i.jpg",
-      "summary": "#iQOO16# 真机拿到了，简单聊几句： ——首发2K+165Hz双高规格，iPhone Duo同款三星M16发光材料+2K LEAD 2.0显示技术，实测手动亮度1250nits，全屏峰值亮度超2800nits，局部峰值干到了10000nits，户外阳光下可用性更高，M16材料的发光效率很高，所以屏幕功耗反而有所下降，甚至低于普通1.5K； 而且标配A…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "微博"
+        "自动抓取"
       ]
     },
     {
@@ -357,26 +337,6 @@ window.phoneRadarAuto = {
       "summary": "IT之家 10 月 2 日消息，博主 @i冰宇宙 今日发文称，三星电子已开始量产 Exynos 2700 处理器，该处理器是 Galaxy S27 系列智能手机的核心部件。据悉，其产量比上一代产品提高了 10%。 IT之家注意到，三星 Exynos 2,700 工程样片 GeekBench 跑分已经曝光，6.7.1 版本单核成绩为 4,328 分，多核成绩…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d015c12c43ec",
-      "title": "I flipped one hidden Google setting on my Android phone; tethering finally works as smoothly as on an iPhone",
-      "source": "Android Police",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-02",
-      "time": "12:00",
-      "publishedAt": "2026-10-02T12:00:10.000Z",
-      "url": "https://www.androidpolice.com/flipped-hidden-google-setting-on-android-phone-tethering-works-as-smoothly-as-iphone/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/09/two-android-phones-sharing-an-internet-connection-with-instant-hotspot.png",
-      "summary": "I wish more people could use it",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -682,6 +642,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-5797551bd83b",
+      "title": "我嘞个传奇耐电王再世，1.3v给到8ee6，缩肛都跳过了，直接给电死了[受虐滑稽] #骁龙8至尊版Gen6# #荣耀Magic9ProMax# #iQOO16#",
+      "source": "酷安热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-02",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74128360",
+      "image": "",
+      "summary": "我嘞个传奇耐电王再世，1.3v给到8ee6，缩肛都跳过了，直接给电死了[受虐滑稽] #骁龙8至尊版Gen6# #荣耀Magic9ProMax# #iQOO16#",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-8148bef530bf",
       "title": "兄弟们，我这一段时间用下来我真的怀疑，第一批的8EE6不止是工艺有问题，所有厂商的固件调教都有问题，在重载高频场景的场景下，会有概率手机卡死重启",
       "source": "酷安热榜",
@@ -722,21 +702,41 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-5797551bd83b",
-      "title": "我嘞个传奇耐电王再世，1.3v给到8ee6，缩肛都跳过了，直接给电死了[受虐滑稽] #骁龙8至尊版Gen6# #荣耀Magic9ProMax# #iQOO16#",
+      "id": "newsnow-314711b272a8",
+      "title": "#iQOO16# #小米18ProMax# #小米18Pro# 真的假的？说用8ee6的手机出现发热卡顿黑屏",
       "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-02",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74128360",
+      "url": "https://www.coolapk.com/feed/74118675",
       "image": "",
-      "summary": "我嘞个传奇耐电王再世，1.3v给到8ee6，缩肛都跳过了，直接给电死了[受虐滑稽] #骁龙8至尊版Gen6# #荣耀Magic9ProMax# #iQOO16#",
+      "summary": "#iQOO16# #小米18ProMax# #小米18Pro# 真的假的？说用8ee6的手机出现发热卡顿黑屏",
       "tags": [
-        "HONOR",
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-53c755149d23",
+      "title": "兄弟们，今年真是换不了一点新机了",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-02",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74116498",
+      "image": "",
+      "summary": "兄弟们，今年真是换不了一点新机了",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -755,26 +755,6 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/74108514",
       "image": "",
       "summary": "这个手机全新已经跌了1200了[汗]说实话即使是往年的OV线下机， #小米18Pro# 也没这么夸张。",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-314711b272a8",
-      "title": "#iQOO16# #小米18ProMax# #小米18Pro# 真的假的？说用8ee6的手机出现发热卡顿黑屏",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-02",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74118675",
-      "image": "",
-      "summary": "#iQOO16# #小米18ProMax# #小米18Pro# 真的假的？说用8ee6的手机出现发热卡顿黑屏",
       "tags": [
         "Xiaomi",
         "爆料",
@@ -802,21 +782,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-53c755149d23",
-      "title": "兄弟们，今年真是换不了一点新机了",
+      "id": "newsnow-34c914edde5e",
+      "title": "【极客湾解析 华为Mate90系列 韬定律芯片：麒麟9050 Pro设计突破极限，终端体验远超参数】",
       "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-02",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74116498",
+      "url": "https://www.coolapk.com/feed/74121081",
       "image": "",
-      "summary": "兄弟们，今年真是换不了一点新机了",
+      "summary": "【极客湾解析 华为Mate90系列 韬定律芯片：麒麟9050 Pro设计突破极限，终端体验远超参数】",
       "tags": [
-        "行业",
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
@@ -842,21 +822,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-34c914edde5e",
-      "title": "【极客湾解析 华为Mate90系列 韬定律芯片：麒麟9050 Pro设计突破极限，终端体验远超参数】",
+      "id": "newsnow-6bb6d24e7020",
+      "title": "华为高端成了，这人说话向来不偏向华为，看起来也不是捧杀，那估计就是实话实说#荣耀Magic9ProMax# #鸿蒙7# #小米18ProMax#",
       "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-02",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74121081",
+      "url": "https://www.coolapk.com/feed/74123065",
       "image": "",
-      "summary": "【极客湾解析 华为Mate90系列 韬定律芯片：麒麟9050 Pro设计突破极限，终端体验远超参数】",
+      "summary": "华为高端成了，这人说话向来不偏向华为，看起来也不是捧杀，那估计就是实话实说#荣耀Magic9ProMax# #鸿蒙7# #小米18ProMax#",
       "tags": [
-        "Huawei",
+        "HONOR",
         "爆料",
         "NewsNow"
       ]
@@ -897,6 +877,26 @@ window.phoneRadarAuto = {
       "summary": "听说飞存荣耀也干了，这用了还没两天[流汗滑稽]，这东西能从跑分上看出来吗 #荣耀Magic9ProMax# #小米18ProMax#",
       "tags": [
         "HONOR",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-fb3bc335a7fe",
+      "title": "央视赞Mate90争气机换上争气芯",
+      "source": "微博热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-10-02",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E8%B5%9EMate90%E4%BA%89%E6%B0%94%E6%9C%BA%E6%8D%A2%E4%B8%8A%E4%BA%89%E6%B0%94%E8%8A%AF%23&t=31&band_rank=25&Refer=top",
+      "image": "",
+      "summary": "央视赞Mate90争气机换上争气芯",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -1519,26 +1519,6 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-2e5d20c8479e",
-      "title": "数码闲聊站：华为Mate90，这价格感觉怎么样？ 12GB+256GB——5999元 12…",
-      "source": "数码闲聊站",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-01",
-      "time": "03:16",
-      "publishedAt": "2026-10-01T03:16:35.000Z",
-      "url": "https://weibo.com/6048569942/RkD5Tc6I7",
-      "image": "",
-      "summary": "华为Mate90，这价格感觉怎么样？ 12GB+256GB——5999元 12GB+512GB——6999元 12GB+1TB——8499元 华为Mate90 Pro，这价格感觉怎么样？ 12GB+256GB——6999元 12GB+512GB——7999元 16GB+512GB——8499元 16GB+1TB——9999元 华为Mate90 Pro Ma…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "微博"
       ]
     },
     {
