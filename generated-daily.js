@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-10-01T22:40:12.342Z",
-  "issueDate": "2026-10-01",
-  "issue": "VOL.261001",
+  "updatedAt": "2026-10-02T05:35:11.591Z",
+  "issueDate": "2026-10-02",
+  "issue": "VOL.261002",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 8,
-    "iphone": 6,
+    "total": 9,
+    "iphone": 8,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -17,6 +17,98 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-f8a13ff372d2",
+          "title": "摄影师 Zavitz 测试苹果 iPhone 18 Pro 人像模式，媲美专业相机",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-02",
+          "time": "05:26",
+          "publishedAt": "2026-10-02T05:26:02.000Z",
+          "url": "https://www.ithome.com/1/009/272.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/15f53249-7184-4500-b22a-5a8e7c774ded.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 10 月 2 日消息，摄影师 Lee Zavitz 于 9 月 30 日发布视频， 通过对比认为苹果 iPhone 18 Pro 在拍摄人像模式上，表现接近专业相机水准。 IT之家查询公开资料，Lee Zavitz 是一位来自加拿大多伦多的摄影师、电影摄影师，其内容主要围绕人像摄影、视频拍摄、相机评测、镜头体验和后期调色展开，在 Instagra…",
+          "detail": "IT之家 10 月 2 日消息，摄影师 Lee Zavitz 于 9 月 30 日发布视频， 通过对比认为苹果 iPhone 18 Pro 在拍摄人像模式上，表现接近专业相机水准。 IT之家查询公开资料，Lee Zavitz 是一位来自加拿大多伦多的摄影师、电影摄影师，其内容主要围绕人像摄影、视频拍摄、相机评测、镜头体验和后期调色展开，在 Instagra…",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-99a2854221e7",
+          "title": "消息称苹果 iPhone 18 Pro 系列手机开售不到 14 天，国内销量突破 200 万",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-02",
+          "time": "02:08",
+          "publishedAt": "2026-10-02T02:08:06.000Z",
+          "url": "https://www.ithome.com/1/009/232.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/9e0b1553-ea74-42e6-82d4-c831c94be417.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 10 月 2 日消息，长期关注国内手机市场份额的数码博主 @RD观测 今日爆料，iPhone 18 Pro 系列开售不到 14 天，销量（Sell out） 已经突破 200 万 。 博主此前曾爆料，iPhone 18 Pro 系列开售 7 天时销量（Sell out）已经接近 1300K（130 万），同期约为 iPhone 17 Pro 系列…",
+          "detail": "IT之家 10 月 2 日消息，长期关注国内手机市场份额的数码博主 @RD观测 今日爆料，iPhone 18 Pro 系列开售不到 14 天，销量（Sell out） 已经突破 200 万 。 博主此前曾爆料，iPhone 18 Pro 系列开售 7 天时销量（Sell out）已经接近 1300K（130 万），同期约为 iPhone 17 Pro 系列…",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-7952c3b09002",
+          "title": "苹果发布 iPhone Duo 官方样张：专业摄影师掌镜，展现卓越影像实力",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-02",
+          "time": "01:36",
+          "publishedAt": "2026-10-02T01:36:38.000Z",
+          "url": "https://www.ithome.com/1/009/224.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/6d7383f8-9de5-42ad-a7fb-423c35da694a.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 10 月 2 日消息，苹果官方 Instagram 账号今天（10 月 2 日）发布动态， 分享了 6 张由专业摄影师使用 iPhone Duo 拍摄的样张，展示其影像系统能力。 本次拍摄由 Jake Michaels 与 Jason Nocito 两位美国专业摄影师拍摄，苹果在帖子中标注“Foldable. Posable. Shot on i…",
+          "detail": "IT之家 10 月 2 日消息，苹果官方 Instagram 账号今天（10 月 2 日）发布动态， 分享了 6 张由专业摄影师使用 iPhone Duo 拍摄的样张，展示其影像系统能力。 本次拍摄由 Jake Michaels 与 Jason Nocito 两位美国专业摄影师拍摄，苹果在帖子中标注“Foldable. Posable. Shot on i…",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-de1227a3740c",
+          "title": "缓解折痕加深：苹果首款折叠 iPhone Duo 支持更换保护膜",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-01",
+          "time": "23:54",
+          "publishedAt": "2026-10-01T23:54:32.000Z",
+          "url": "https://www.ithome.com/1/009/202.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/2f523e02-8604-43de-b400-f738f83b266f.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 10 月 2 日消息，在 TikTok 平台对话 @angietutorials 时，苹果硬件工程副总裁凯特 · 伯杰龙（Kate Bergeron）表示，为了缓解长期使用中折痕加深的问题， 苹果首款折叠 iPhone Duo 支持更换屏幕保护层，AppleCare 用户更换费用为 19 美元 （IT之家注：现汇率约合 127.6 元人民币） 。…",
+          "detail": "IT之家 10 月 2 日消息，在 TikTok 平台对话 @angietutorials 时，苹果硬件工程副总裁凯特 · 伯杰龙（Kate Bergeron）表示，为了缓解长期使用中折痕加深的问题， 苹果首款折叠 iPhone Duo 支持更换屏幕保护层，AppleCare 用户更换费用为 19 美元 （IT之家注：现汇率约合 127.6 元人民币） 。…",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-597c1bc69ec1",
           "title": "iPhone 18 Pro 机模 / 配色信息曝光",
@@ -35,6 +127,52 @@ window.phoneRadarDaily = {
           "detail": "iPhone 18 Pro 机模 / 配色信息曝光。来源提到未发布机型的机模/配色图，适合先判断外观方向、颜色变化和机身轮廓，但最终量产版本仍可能调整。",
           "keyPoints": [
             "外观 / 配色 / 尺寸"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-07fef8fc8234",
+          "title": "iPhone 18 Pro Max 功能更新或覆盖范围扩大",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-02",
+          "time": "03:42",
+          "publishedAt": "2026-10-02T03:42:44.000Z",
+          "url": "https://www.macrumors.com/2026/10/01/att-acknowledges-iphone-18-pro-max-issues/",
+          "image": "https://images.macrumors.com/article-new/2026/10/iPhone-18-Pro-Max-ATT.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 18 Pro Max 功能更新或覆盖范围扩大。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 18 Pro Max 功能更新或覆盖范围扩大。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-de976adf26bc",
+          "title": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
+          "originalTitle": "",
+          "source": "少数派热榜",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-10-02",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/114972",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
+          "detail": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
+          "keyPoints": [
+            "屏幕形态"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -62,144 +200,36 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "行业趋势",
+      "hint": "看方向，不急着当购买依据。",
+      "items": [
         {
-          "id": "auto-5628977a978b",
-          "title": "iPhone 影像能力相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-01",
-          "time": "20:37",
-          "publishedAt": "2026-10-01T20:37:20.000Z",
-          "url": "https://www.macrumors.com/2026/10/01/apple-shares-photos-shot-on-iphone-duo/",
-          "image": "https://images.macrumors.com/article-new/2026/09/iphone-duo-colors.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
-          "detail": "iPhone 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-97006a097900",
-          "title": "iPhone 屏幕规格相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-01",
-          "time": "19:25",
-          "publishedAt": "2026-10-01T19:25:11.000Z",
-          "url": "https://www.macrumors.com/2026/10/01/iphone-duo-cover-layer-is-replaceable/",
-          "image": "https://images.macrumors.com/article-new/2026/10/iphone-duo-feature.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 屏幕规格相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-b248b4416600",
-          "title": "iPhone 18 Pro 发布 / 上市相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-01",
-          "time": "11:37",
-          "publishedAt": "2026-10-01T11:37:34.000Z",
-          "url": "https://www.macrumors.com/2026/10/01/strong-iphone-18-pro-launch-sales-china/",
-          "image": "https://images.macrumors.com/article-new/2026/09/iphone-18-pro-and-iphone-18-pro-max.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 有发布或新功能消息，适合确认是否和新机有关。",
-          "detail": "iPhone 18 Pro 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-dcfa2d6a8b1f",
-          "title": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-10-01",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/114972",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
-          "detail": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-1b035383f132",
-          "title": "华为 Mate XT 2 三折叠手机获 HarmonyOS 7.0.0.109 SP8 升级，通信共享升级支持多人互助共享",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-01",
-          "time": "14:23",
-          "publishedAt": "2026-10-01T14:23:44.000Z",
-          "url": "https://www.ithome.com/1/009/160.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/bed17dd2-78ec-476a-8ed0-a3138301751a.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 10 月 1 日消息，在今天的华为 Mate 90 系列及全场景新品发布会结束后，Mate XT 2 非凡大师三折叠手机迎来了一次系统更新。更新日志显示，新版本锁屏新增 3D 空间壁纸、通信共享支持多人互助通信共享等功能。 IT之家附完整更新日志如下： 亮点推荐 新增 3D 空间壁纸功能 ，通过照片中的元素与景深时钟、透视时钟巧妙结合，打造空间感…",
-          "detail": "IT之家 10 月 1 日消息，在今天的华为 Mate 90 系列及全场景新品发布会结束后，Mate XT 2 非凡大师三折叠手机迎来了一次系统更新。更新日志显示，新版本锁屏新增 3D 空间壁纸、通信共享支持多人互助通信共享等功能。 IT之家附完整更新日志如下： 亮点推荐 新增 3D 空间壁纸功能 ，通过照片中的元素与景深时钟、透视时钟巧妙结合，打造空间感…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-2dd7f2037141",
-          "title": "曝三星计划 10-11 月生产 114 万台 Galaxy Z Fold8 系列折叠屏手机，Fold8 阔折叠占比最高",
+          "id": "auto-b0cfaf77346a",
+          "title": "三星上调 Galaxy S26 系列手机建议零售价：涨 800-1800 元，7799 元起",
           "originalTitle": "",
           "source": "IT之家",
           "brand": "Samsung",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-10-01",
-          "time": "09:22",
-          "publishedAt": "2026-10-01T09:22:08.000Z",
-          "url": "https://www.ithome.com/1/009/108.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/1c7faffd-fbfe-4c40-9d26-56be915dd0b0.jpg?x-bce-process=image/format,f_auto",
+          "date": "2026-10-02",
+          "time": "02:52",
+          "publishedAt": "2026-10-02T02:52:04.000Z",
+          "url": "https://www.ithome.com/1/009/242.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/297fdbfe-5231-4294-bda9-9a9a464aa825.jpg?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 10 月 1 日消息，据韩媒 EtNews 今天报道，三星电子近期应市场需求，将 Galaxy Z Fold8 系列折叠屏手机 10-11 月的产量调整为 114 万台。 据该媒体获得的三星电子 MX 事业部生产计划， 三星计划在 10-11 月生产约 114 万台 Galaxy Z8 系列手机 ，涵盖 Z Fold8 Ultra、Z Fold8…",
-          "detail": "IT之家 10 月 1 日消息，据韩媒 EtNews 今天报道，三星电子近期应市场需求，将 Galaxy Z Fold8 系列折叠屏手机 10-11 月的产量调整为 114 万台。 据该媒体获得的三星电子 MX 事业部生产计划， 三星计划在 10-11 月生产约 114 万台 Galaxy Z8 系列手机 ，涵盖 Z Fold8 Ultra、Z Fold8…",
+          "takeaway": "IT之家 10 月 2 日消息，三星官网显示，三星上调了国行 Galaxy S26 系列手机的建议零售价。 Galaxy S26 12GB + 256GB：调价前 6,999 元，调价后 7,799 元（涨价 800 元） Galaxy S26+ 12GB + 256GB：调价前 7,999 元，调价后 8,999 元（涨价 1,000 元） 12GB +…",
+          "detail": "IT之家 10 月 2 日消息，三星官网显示，三星上调了国行 Galaxy S26 系列手机的建议零售价。 Galaxy S26 12GB + 256GB：调价前 6,999 元，调价后 7,799 元（涨价 800 元） Galaxy S26+ 12GB + 256GB：调价前 7,999 元，调价后 8,999 元（涨价 1,000 元） 12GB +…",
           "keyPoints": [
-            "屏幕形态"
+            "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+          "impact": "影响购买预算，值得先看。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         }
       ]
     }
