@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-03T16:16:40.212Z",
+  "updatedAt": "2026-10-03T19:15:42.236Z",
   "news": [
     {
       "id": "weibo-f7e4d6168a26",
@@ -10,8 +10,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-03",
-      "time": "16:16",
-      "publishedAt": "2026-10-03T16:16:40.212Z",
+      "time": "19:15",
+      "publishedAt": "2026-10-03T19:15:42.236Z",
       "url": "https://weibo.com/6048569942/Rkw3lCtbI",
       "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ihltiohha9j30zc3s9npd.jpg",
       "summary": "华为Mate90系列明天发布，猜猜价格吧： 补充一些信息，Mate90是6600mAh电池+66W(100W)快充，50Mp可变光圈高动态大底主摄，50Mp聚光长焦，麒麟9030； Mate90 Pro是双层OLED，最高12000nits，麒麟9035，50Mp潜望镜支持5cm长焦微距； Mate90 PM/RS都是18EV 50Mp超大底主摄+40Mp…",
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-03",
-      "time": "16:16",
-      "publishedAt": "2026-10-03T16:16:40.212Z",
+      "time": "19:15",
+      "publishedAt": "2026-10-03T19:15:42.236Z",
       "url": "https://weibo.com/6048569942/RkuQYC8En",
       "image": "",
       "summary": "摸了一下昨天 iQOO16 首销数据，竟然是近期已发安卓旗舰中的单品销量TOP1。 目前在狗猫抖三大电商平台的总销量是下半年安卓旗舰首销TOP1，而且是一杯打其它所有厂商的多杯组合，还几乎全打赢了……[哆啦A梦害怕]",
@@ -50,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-03",
-      "time": "16:16",
-      "publishedAt": "2026-10-03T16:16:40.212Z",
+      "time": "19:15",
+      "publishedAt": "2026-10-03T19:15:42.236Z",
       "url": "https://weibo.com/6048569942/RkuyMxv05",
       "image": "",
       "summary": "耀子年底还有一堆新机，荣耀700 Pro系列有原生背屏，主打2亿超清影像。中端线还有X新品，7英寸大屏+超万级大电池，阔折叠加速中，阔直板也立项了，支持卷起来[二哈]",
@@ -70,8 +70,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-03",
-      "time": "16:16",
-      "publishedAt": "2026-10-03T16:16:40.212Z",
+      "time": "19:15",
+      "publishedAt": "2026-10-03T19:15:42.236Z",
       "url": "https://weibo.com/6048569942/RksQeu5Cp",
       "image": "",
       "summary": "子系红加裤最近都有中端线新机入网，估计10月前后还有一波大乱斗，预计可以见到万级大电池、超大主动散热风扇、2K大直屏等……[流鼻血]",
@@ -90,8 +90,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-03",
-      "time": "16:16",
-      "publishedAt": "2026-10-03T16:16:40.212Z",
+      "time": "19:15",
+      "publishedAt": "2026-10-03T19:15:42.236Z",
       "url": "https://weibo.com/6048569942/RknZFiUss",
       "image": "https://tvax3.sinaimg.cn/mw2000/8f4a8a89ly8ihkmzeuhzbj23ls5eoe8i.jpg",
       "summary": "#iQOO16# 真机拿到了，简单聊几句： ——首发2K+165Hz双高规格，iPhone Duo同款三星M16发光材料+2K LEAD 2.0显示技术，实测手动亮度1250nits，全屏峰值亮度超2800nits，局部峰值干到了10000nits，户外阳光下可用性更高，M16材料的发光效率很高，所以屏幕功耗反而有所下降，甚至低于普通1.5K； 而且标配A…",
@@ -197,46 +197,6 @@ window.phoneRadarAuto = {
       "summary": "Things are getting crazy in the Apple rumor world, as even though the iPhone 18 Pro and several other products have only just launched and the iPhone Duo is right around the corne…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-2c38ec5db394",
-      "title": "JSCHEN小小狐：整理了一下 Mate90 全系的芯片规格： 华为 Mate90： 麒麟 9030 旗舰 τ 芯片（8 核 12 线…",
-      "source": "JSCHEN小小狐",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-03",
-      "time": "11:30",
-      "publishedAt": "2026-10-03T11:30:17.000Z",
-      "url": "https://www.coolapk.com/feed/74142779",
-      "image": "http://image.coolapk.com/feed/2026/1003/19/4702274_125afd90_7016_0005_32@1080x5540.jpg",
-      "summary": "整理了一下 Mate90 全系的芯片规格： 华为 Mate90： 麒麟 9030 旗舰 τ 芯片（8 核 12 线程） - 1×2.7GHz+3×2.27GHz+4×1.72GHz - Maleoon 935A GPU：5CU、933MHz 华为 Mate90 Pro： 麒麟 9035 旗舰 τ 芯片（9 核 14 线程） - 1×2.85GHz+4×2.…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-0432bcc2e5ab",
-      "title": "I've restarted my Pixel 10 Pro three times this month; Google still won't fix it",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-03",
-      "time": "10:30",
-      "publishedAt": "2026-10-03T10:30:10.000Z",
-      "url": "https://www.androidpolice.com/ive-restarted-my-pixel-10-pro-three-times-this-month-alone-google-still-wont-fix-it/",
-      "image": "",
-      "summary": "A year later, things aren't getting better",
-      "tags": [
-        "Pixel",
         "爆料",
         "自动抓取"
       ]
@@ -602,6 +562,46 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-c313406914cd",
+      "title": "被人说是骗子了[笑哭]，我也没招谁没惹谁，我机器全支持走验货宝！什么机器什么价格！我一台机器就赚200，拆过的我自己也会测，收过来也便宜卖的也便宜，，二手机流动性那么大，我有重新修重新翻新的时间，我这笔钱都来回走三四台机器了。可以看我最后一张图，屏幕上的一个极其细微的划痕我都会拍出来！而且我卖的也没那么便宜！我这里都是顾客换新机换下来的二手以旧换新，最后再说一遍，全部支持验货宝！#iPhone18ProMax# #iPhone14ProMax# #iPhone15Pro#",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-03",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74116992",
+      "image": "",
+      "summary": "被人说是骗子了[笑哭]，我也没招谁没惹谁，我机器全支持走验货宝！什么机器什么价格！我一台机器就赚200，拆过的我自己也会测，收过来也便宜卖的也便宜，，二手机流动性那么大，我有重新修重新翻新的时间，我这笔钱都来回走三四台机器了。可以看我最后一张图，屏幕上的一个极其细微的划痕我都会拍出来！而且我卖的也没那么便宜！我这里都是顾客换新机换下来的二手以旧换新，最后再…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-eb3da0309968",
+      "title": "等一波具体数据，如果是真的，那只能说一旦价格涨上来，就知道冲高到底成功没有了[受虐滑稽][受虐滑稽][受虐滑稽] #华为Mate80ProMax#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-03",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74139957",
+      "image": "",
+      "summary": "等一波具体数据，如果是真的，那只能说一旦价格涨上来，就知道冲高到底成功没有了[受虐滑稽][受虐滑稽][受虐滑稽] #华为Mate80ProMax#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-dace9ed1027a",
       "title": "我嘞个传奇耐电王再世，1.3v给到8ee6，缩肛都跳过了，直接给电死了[受虐滑稽] #骁龙8至尊版Gen6# #荣耀Magic9ProMax# #iQOO16#",
       "source": "酷安热榜",
@@ -642,6 +642,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-41201d565c44",
+      "title": "纸上谈兵的可以散了，刷到8ee6暴雷的都是用的低端机[受虐滑稽]哥们你要不上个8ee6试试呢，整天发这个重启了那个重启了，唯恐天下不乱似的 #小米18ProMax# #iQOO16#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-03",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74136201",
+      "image": "",
+      "summary": "纸上谈兵的可以散了，刷到8ee6暴雷的都是用的低端机[受虐滑稽]哥们你要不上个8ee6试试呢，整天发这个重启了那个重启了，唯恐天下不乱似的 #小米18ProMax# #iQOO16#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-a108e4d20d5c",
       "title": "赶快去缓存，极客湾评测华为这视频不晓得可以活多久[受虐滑稽]#华为Mate90ProMax# #小米18Pro# #iPhone18ProMax#",
       "source": "酷安热榜",
@@ -655,66 +675,6 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/74120877",
       "image": "",
       "summary": "赶快去缓存，极客湾评测华为这视频不晓得可以活多久[受虐滑稽]#华为Mate90ProMax# #小米18Pro# #iPhone18ProMax#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-e24f5c968bd7",
-      "title": "『极客湾详解逻辑折叠 / Mate90 Pro Max 实测』",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-03",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74121271",
-      "image": "",
-      "summary": "『极客湾详解逻辑折叠 / Mate90 Pro Max 实测』",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-8b44de90f9fe",
-      "title": "兄弟们，我这一段时间用下来我真的怀疑，第一批的8EE6不止是工艺有问题，所有厂商的固件调教都有问题，在重载高频场景的场景下，会有概率手机卡死重启",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-03",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74115607",
-      "image": "",
-      "summary": "兄弟们，我这一段时间用下来我真的怀疑，第一批的8EE6不止是工艺有问题，所有厂商的固件调教都有问题，在重载高频场景的场景下，会有概率手机卡死重启",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-887ee7508c55",
-      "title": "因为说华为这颗自研芯片便宜不了，被喷了几百楼[受虐滑稽]，极客湾最新视频恰恰证明了我的观点是对的，尽管性能还不如最新的顶级芯片，但是成本非常高，就是便宜不了[受虐滑稽]。当然觉得贵，批评和不买都是对的，我只是分析了一下贵的客观原因而已[受虐滑稽]#华为Mate90ProMax# #鸿蒙7#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-03",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74121993",
-      "image": "",
-      "summary": "因为说华为这颗自研芯片便宜不了，被喷了几百楼[受虐滑稽]，极客湾最新视频恰恰证明了我的观点是对的，尽管性能还不如最新的顶级芯片，但是成本非常高，就是便宜不了[受虐滑稽]。当然觉得贵，批评和不买都是对的，我只是分析了一下贵的客观原因而已[受虐滑稽]#华为Mate90ProMax# #鸿蒙7#",
       "tags": [
         "Huawei",
         "爆料",
@@ -742,6 +702,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-e24f5c968bd7",
+      "title": "『极客湾详解逻辑折叠 / Mate90 Pro Max 实测』",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-03",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74121271",
+      "image": "",
+      "summary": "『极客湾详解逻辑折叠 / Mate90 Pro Max 实测』",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-85018c23a62f",
       "title": "#华为Mate80ProMax# 不是兄弟们，没想到又双叒成为爵中爵了[流泪][流泪]，女朋友又给我安排上Mate90Pro Max",
       "source": "酷安热榜",
@@ -762,101 +742,41 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-a594b963e665",
-      "title": "#iQOO16# #小米18ProMax# #小米18Pro# 真的假的？说用8ee6的手机出现发热卡顿黑屏",
+      "id": "newsnow-5df2362bb49a",
+      "title": "整理了一下 Mate90 全系的芯片规格：",
       "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-03",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74118675",
+      "url": "https://www.coolapk.com/feed/74142779",
       "image": "",
-      "summary": "#iQOO16# #小米18ProMax# #小米18Pro# 真的假的？说用8ee6的手机出现发热卡顿黑屏",
+      "summary": "整理了一下 Mate90 全系的芯片规格：",
       "tags": [
-        "Xiaomi",
+        "行业",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-03f28f55e0bf",
-      "title": "华为高端成了，这人说话向来不偏向华为，看起来也不是捧杀，那估计就是实话实说#荣耀Magic9ProMax# #鸿蒙7# #小米18ProMax#",
+      "id": "newsnow-b4424b14133e",
+      "title": "首销前两日，Mate90系列激活量22w，比去年Mate80系列少3w。",
       "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-03",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74123065",
+      "url": "https://www.coolapk.com/feed/74146705",
       "image": "",
-      "summary": "华为高端成了，这人说话向来不偏向华为，看起来也不是捧杀，那估计就是实话实说#荣耀Magic9ProMax# #鸿蒙7# #小米18ProMax#",
+      "summary": "首销前两日，Mate90系列激活量22w，比去年Mate80系列少3w。",
       "tags": [
-        "HONOR",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-bd4b984eb71f",
-      "title": "【极客湾解析 华为Mate90系列 韬定律芯片：麒麟9050 Pro设计突破极限，终端体验远超参数】",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-03",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74121081",
-      "image": "",
-      "summary": "【极客湾解析 华为Mate90系列 韬定律芯片：麒麟9050 Pro设计突破极限，终端体验远超参数】",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-41201d565c44",
-      "title": "纸上谈兵的可以散了，刷到8ee6暴雷的都是用的低端机[受虐滑稽]哥们你要不上个8ee6试试呢，整天发这个重启了那个重启了，唯恐天下不乱似的 #小米18ProMax# #iQOO16#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-03",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74136201",
-      "image": "",
-      "summary": "纸上谈兵的可以散了，刷到8ee6暴雷的都是用的低端机[受虐滑稽]哥们你要不上个8ee6试试呢，整天发这个重启了那个重启了，唯恐天下不乱似的 #小米18ProMax# #iQOO16#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-e249cb8cc8de",
-      "title": "孩子们，我听说最近8ee6最近量产机体质差异很大，甚至有不少抽到大雷的不仅跑分低，还会有自动重启的问题，跟我之前猜的一样，高通这几代体质差异很大，大雷和大雕体验差别能差出一代多，给大家丢个跑分吧，这是我8e5领先版（简称大雕版）的红魔11spro+的跑分（常温跑分），cpu跑分比很多8ee6要高，gpu甚至没比8ee6的低多少，这就是所谓体质差别，所以建议首发期不要冲8ee6，一个是巨大的体质问题，一个是目前的8ee6的价格严重虚高，我看到米18pm已经跳水了1200了，所以建议各位等等 #荣耀Magic9ProMax# #iQOO16# #小米18ProMax#",
-      "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-03",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74115154",
-      "image": "",
-      "summary": "孩子们，我听说最近8ee6最近量产机体质差异很大，甚至有不少抽到大雷的不仅跑分低，还会有自动重启的问题，跟我之前猜的一样，高通这几代体质差异很大，大雷和大雕体验差别能差出一代多，给大家丢个跑分吧，这是我8e5领先版（简称大雕版）的红魔11spro+的跑分（常温跑分），cpu跑分比很多8ee6要高，gpu甚至没比8ee6的低多少，这就是所谓体质差别，所以建议…",
-      "tags": [
-        "HONOR",
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -1239,6 +1159,26 @@ window.phoneRadarAuto = {
         "Pixel",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-67feed628f1b",
+      "title": "竹本青：【极客湾解析 华为Mate90系列 韬定律芯片：麒麟9050 Pro设计突破极限，终端体验远超参数】 10月2日，…",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-02",
+      "time": "08:23",
+      "publishedAt": "2026-10-02T08:23:41.000Z",
+      "url": "https://www.coolapk.com/feed/74121081",
+      "image": "http://image.coolapk.com/feed/2026/1002/18/4248714_a4cb38bf_5678_0903_814@1820x4096.jpg",
+      "summary": "【极客湾解析 华为Mate90系列 韬定律芯片：麒麟9050 Pro设计突破极限，终端体验远超参数】 10月2日，博主「极客湾Geekerwan」发布最新视频，公开华为Mate 90全系列芯片方案、首度拆解分析麒麟9050 Pro的逻辑折叠架构，并完成Mate 90 Pro Max的性能/续航测试。 该博主表示：“麒麟9050 Pro芯片设计上突破极限，探…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
       ]
     },
     {
