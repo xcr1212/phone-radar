@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-03T19:15:42.236Z",
+  "updatedAt": "2026-10-03T23:02:57.074Z",
   "news": [
     {
       "id": "weibo-f7e4d6168a26",
@@ -10,8 +10,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-03",
-      "time": "19:15",
-      "publishedAt": "2026-10-03T19:15:42.236Z",
+      "time": "23:02",
+      "publishedAt": "2026-10-03T23:02:57.074Z",
       "url": "https://weibo.com/6048569942/Rkw3lCtbI",
       "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ihltiohha9j30zc3s9npd.jpg",
       "summary": "华为Mate90系列明天发布，猜猜价格吧： 补充一些信息，Mate90是6600mAh电池+66W(100W)快充，50Mp可变光圈高动态大底主摄，50Mp聚光长焦，麒麟9030； Mate90 Pro是双层OLED，最高12000nits，麒麟9035，50Mp潜望镜支持5cm长焦微距； Mate90 PM/RS都是18EV 50Mp超大底主摄+40Mp…",
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-03",
-      "time": "19:15",
-      "publishedAt": "2026-10-03T19:15:42.236Z",
+      "time": "23:02",
+      "publishedAt": "2026-10-03T23:02:57.074Z",
       "url": "https://weibo.com/6048569942/RkuQYC8En",
       "image": "",
       "summary": "摸了一下昨天 iQOO16 首销数据，竟然是近期已发安卓旗舰中的单品销量TOP1。 目前在狗猫抖三大电商平台的总销量是下半年安卓旗舰首销TOP1，而且是一杯打其它所有厂商的多杯组合，还几乎全打赢了……[哆啦A梦害怕]",
@@ -50,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-03",
-      "time": "19:15",
-      "publishedAt": "2026-10-03T19:15:42.236Z",
+      "time": "23:02",
+      "publishedAt": "2026-10-03T23:02:57.074Z",
       "url": "https://weibo.com/6048569942/RkuyMxv05",
       "image": "",
       "summary": "耀子年底还有一堆新机，荣耀700 Pro系列有原生背屏，主打2亿超清影像。中端线还有X新品，7英寸大屏+超万级大电池，阔折叠加速中，阔直板也立项了，支持卷起来[二哈]",
@@ -70,8 +70,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-03",
-      "time": "19:15",
-      "publishedAt": "2026-10-03T19:15:42.236Z",
+      "time": "23:02",
+      "publishedAt": "2026-10-03T23:02:57.074Z",
       "url": "https://weibo.com/6048569942/RksQeu5Cp",
       "image": "",
       "summary": "子系红加裤最近都有中端线新机入网，估计10月前后还有一波大乱斗，预计可以见到万级大电池、超大主动散热风扇、2K大直屏等……[流鼻血]",
@@ -90,8 +90,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-03",
-      "time": "19:15",
-      "publishedAt": "2026-10-03T19:15:42.236Z",
+      "time": "23:02",
+      "publishedAt": "2026-10-03T23:02:57.074Z",
       "url": "https://weibo.com/6048569942/RknZFiUss",
       "image": "https://tvax3.sinaimg.cn/mw2000/8f4a8a89ly8ihkmzeuhzbj23ls5eoe8i.jpg",
       "summary": "#iQOO16# 真机拿到了，简单聊几句： ——首发2K+165Hz双高规格，iPhone Duo同款三星M16发光材料+2K LEAD 2.0显示技术，实测手动亮度1250nits，全屏峰值亮度超2800nits，局部峰值干到了10000nits，户外阳光下可用性更高，M16材料的发光效率很高，所以屏幕功耗反而有所下降，甚至低于普通1.5K； 而且标配A…",
@@ -199,6 +199,26 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-2c38ec5db394",
+      "title": "JSCHEN小小狐：整理了一下 Mate90 全系的芯片规格： 华为 Mate90： 麒麟 9030 旗舰 τ 芯片（8 核 12 线…",
+      "source": "JSCHEN小小狐",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-03",
+      "time": "11:30",
+      "publishedAt": "2026-10-03T11:30:17.000Z",
+      "url": "https://www.coolapk.com/feed/74142779",
+      "image": "http://image.coolapk.com/feed/2026/1003/19/4702274_125afd90_7016_0005_32@1080x5540.jpg",
+      "summary": "整理了一下 Mate90 全系的芯片规格： 华为 Mate90： 麒麟 9030 旗舰 τ 芯片（8 核 12 线程） - 1×2.7GHz+3×2.27GHz+4×1.72GHz - Maleoon 935A GPU：5CU、933MHz 华为 Mate90 Pro： 麒麟 9035 旗舰 τ 芯片（9 核 14 线程） - 1×2.85GHz+4×2.…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
       ]
     },
     {
@@ -357,46 +377,6 @@ window.phoneRadarAuto = {
       "summary": "IT之家 10 月 3 日消息，据韩媒 zdnet 报道，三星显示（Samsung Display）计划于本月开始量产 Galaxy S27 系列手机所采用的 AMOLED 屏幕。 三星 Galaxy S27 系列预计将包含 4 款机型，分别为 6.27 英寸的 Galaxy S27、6.66 英寸的 Galaxy S27+、6.47 英寸的 Galaxy…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-6ff30af18b61",
-      "title": "华为李小龙：睿影 Z10 模块相机卡口通过可拆卸转接环实现，未来手机形状变化、换一个转接环就能适配",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-03",
-      "time": "07:50",
-      "publishedAt": "2026-10-03T07:50:48.000Z",
-      "url": "https://www.ithome.com/1/009/494.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/c2cccf43-bbed-47b8-bd61-8c26b1c7eac8.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 3 日消息，在 10 月 1 日举行的华为 Mate 90 系列及全场景新品发布会上，华为睿影 Z10 模块相机正式发布，有 H1、H2 两个卡口版本，分别适配 Mate 90 Pro Max 典藏版和 Mate 90 RS 非凡大师， 定价 5999 元 。 华为终端 BG CTO 李小龙今日就这款新品采用多卡口一事进行回应，他表示华…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e2b94c2e494e",
-      "title": "硅含量达 40%，冠宇电芯及电池包首发配套荣耀 Magic 9 Pro Max",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-03",
-      "time": "07:44",
-      "publishedAt": "2026-10-03T07:44:31.000Z",
-      "url": "https://www.ithome.com/1/009/492.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/b56d1462-4605-4c68-af31-072c5e47f8b1.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 3 日消息， 荣耀 Magic9 系列手机于 9 月 28 日发布，珠海冠宇今日宣布为荣耀 Magic 9 Pro Max 首发配套电芯与电池包。 IT之家从官方介绍获悉，通过负极材料配方创新与工艺优化，冠宇进一步提升电芯负极硅含量，让单位体积容纳更多能量。荣耀 Magic 9 Pro Max 电池 硅含量达到 40% ，体积能量密度达…",
-      "tags": [
-        "HONOR",
         "爆料",
         "自动抓取"
       ]
@@ -662,26 +642,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-a108e4d20d5c",
-      "title": "赶快去缓存，极客湾评测华为这视频不晓得可以活多久[受虐滑稽]#华为Mate90ProMax# #小米18Pro# #iPhone18ProMax#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-03",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74120877",
-      "image": "",
-      "summary": "赶快去缓存，极客湾评测华为这视频不晓得可以活多久[受虐滑稽]#华为Mate90ProMax# #小米18Pro# #iPhone18ProMax#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-a809d50c64b4",
       "title": "兄弟们，强迫症真的没有办法了么，现在买手机接受不了一点瑕疵，而且还会担心不存在的事情，刚发布两天mate90pm就换了一次了 ，今年80pm换了9次，一加15换了五六次。加上其他的今年换机次数已经超过了三十多次。",
       "source": "酷安热榜",
@@ -697,6 +657,26 @@ window.phoneRadarAuto = {
       "summary": "兄弟们，强迫症真的没有办法了么，现在买手机接受不了一点瑕疵，而且还会担心不存在的事情，刚发布两天mate90pm就换了一次了 ，今年80pm换了9次，一加15换了五六次。加上其他的今年换机次数已经超过了三十多次。",
       "tags": [
         "OPPO",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-a108e4d20d5c",
+      "title": "赶快去缓存，极客湾评测华为这视频不晓得可以活多久[受虐滑稽]#华为Mate90ProMax# #小米18Pro# #iPhone18ProMax#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-03",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74120877",
+      "image": "",
+      "summary": "赶快去缓存，极客湾评测华为这视频不晓得可以活多久[受虐滑稽]#华为Mate90ProMax# #小米18Pro# #iPhone18ProMax#",
+      "tags": [
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
@@ -722,61 +702,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-85018c23a62f",
-      "title": "#华为Mate80ProMax# 不是兄弟们，没想到又双叒成为爵中爵了[流泪][流泪]，女朋友又给我安排上Mate90Pro Max",
+      "id": "newsnow-3286e9e27529",
+      "title": "爱否编辑质疑极客湾测试不严谨，分辨率一致不等于画质一致！（估计是觉得极客湾为华为搽脂抹粉吧）#小米18ProMax# #iPhone18ProMax# #荣耀Magic9ProMax#",
       "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-03",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74128872",
+      "url": "https://www.coolapk.com/feed/74135399",
       "image": "",
-      "summary": "#华为Mate80ProMax# 不是兄弟们，没想到又双叒成为爵中爵了[流泪][流泪]，女朋友又给我安排上Mate90Pro Max",
+      "summary": "爱否编辑质疑极客湾测试不严谨，分辨率一致不等于画质一致！（估计是觉得极客湾为华为搽脂抹粉吧）#小米18ProMax# #iPhone18ProMax# #荣耀Magic9ProMax#",
       "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-5df2362bb49a",
-      "title": "整理了一下 Mate90 全系的芯片规格：",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-03",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74142779",
-      "image": "",
-      "summary": "整理了一下 Mate90 全系的芯片规格：",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-b4424b14133e",
-      "title": "首销前两日，Mate90系列激活量22w，比去年Mate80系列少3w。",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-03",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74146705",
-      "image": "",
-      "summary": "首销前两日，Mate90系列激活量22w，比去年Mate80系列少3w。",
-      "tags": [
-        "行业",
+        "HONOR",
         "爆料",
         "NewsNow"
       ]
@@ -817,6 +757,26 @@ window.phoneRadarAuto = {
       "summary": "苹果小米等新手机出现部分黑屏现象",
       "tags": [
         "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-be8625e361e8",
+      "title": "孩子放不下手机怎么办",
+      "source": "今日头条热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-03",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7692430336412106798/",
+      "image": "",
+      "summary": "孩子放不下手机怎么办",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
