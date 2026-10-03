@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-10-03T11:38:08.719Z",
+  "updatedAt": "2026-10-03T16:16:40.212Z",
   "issueDate": "2026-10-03",
   "issue": "VOL.261003",
   "title": "手机情报日报",
@@ -17,6 +17,29 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-1dfbf61110d3",
+          "title": "iPhone 发布 / 上市相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-03",
+          "time": "13:00",
+          "publishedAt": "2026-10-03T13:00:12.000Z",
+          "url": "https://www.macrumors.com/2026/10/03/top-stories-apple-smart-home-launch-october-13/",
+          "image": "https://images.macrumors.com/article-new/2026/10/top-stories-2026-10-03.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 有发布或新功能消息，适合确认是否和新机有关。",
+          "detail": "iPhone 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-32ab1b793d51",
           "title": "iPhone 相关消息",
@@ -64,29 +87,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-afc6fb30b3cf",
-          "title": "iPhone 发布 / 上市相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-02",
-          "time": "14:17",
-          "publishedAt": "2026-10-02T14:17:47.000Z",
-          "url": "https://www.macrumors.com/2026/10/02/apple-store-in-uk-reopens-on-iphone-duo-launch-day/",
-          "image": "https://images.macrumors.com/article-new/2025/07/Apple-Store-Wallpaper-Basic-Apple-Guy.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 有发布或新功能消息，适合确认是否和新机有关。",
-          "detail": "iPhone 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "auto-07fef8fc8234",
           "title": "iPhone 18 Pro Max 功能更新或覆盖范围扩大",
           "originalTitle": "",
@@ -104,6 +104,52 @@ window.phoneRadarDaily = {
           "detail": "iPhone 18 Pro Max 功能更新或覆盖范围扩大。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-69590c70b65e",
+          "title": "经典永不过时：智感旋转功能在 Mate 90 系列手机回归，华为智慧感知能力再补关键一环",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-03",
+          "time": "13:44",
+          "publishedAt": "2026-10-03T13:44:37.000Z",
+          "url": "https://www.ithome.com/1/009/568.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/140e20cd-a866-4f30-9109-094d9863345e.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 10 月 3 日消息，在 2019 年，华为发布了 Mate 30 系列手机，并率先带来智感旋转功能。该功能支持识别人脸方向，智能切换横屏、竖屏。例如：竖持手机斜躺，手机屏幕不会旋转，横持手机则会旋转。 华为智感旋转功能一经发布，便一直预装在华为旗舰手机中，包括经典的 P40 系列、Mate 40 系列、P50 Pro（麒麟版）等。然而该功能在…",
+          "detail": "IT之家 10 月 3 日消息，在 2019 年，华为发布了 Mate 30 系列手机，并率先带来智感旋转功能。该功能支持识别人脸方向，智能切换横屏、竖屏。例如：竖持手机斜躺，手机屏幕不会旋转，横持手机则会旋转。 华为智感旋转功能一经发布，便一直预装在华为旗舰手机中，包括经典的 P40 系列、Mate 40 系列、P50 Pro（麒麟版）等。然而该功能在…",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-524329a577fa",
+          "title": "华为 Mate 90 Pro Max 旗舰机首个版本更新内容曝光，实装四卡三待、3D 动态照片等功能",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-03",
+          "time": "13:08",
+          "publishedAt": "2026-10-03T13:08:18.000Z",
+          "url": "https://www.ithome.com/1/009/539.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/fe776e20-5f96-4f63-99cd-e5bbdfe5ea77.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 10 月 3 日消息，在 10 月 1 日的华为 Mate 90 系列及全场景新品发布会上，华为年度旗舰 ——Mate 90 系列手机正式发布，全系搭载了韬定律芯片。 ▲ IT之家实拍：华为 Mate 90 RS 非凡大师演示样机 IT之家注意到，华为 Mate 90 Pro Max 旗舰机的首个版本更新内容已曝光，包体大小约 745.01 MB…",
+          "detail": "IT之家 10 月 3 日消息，在 10 月 1 日的华为 Mate 90 系列及全场景新品发布会上，华为年度旗舰 ——Mate 90 系列手机正式发布，全系搭载了韬定律芯片。 ▲ IT之家实拍：华为 Mate 90 RS 非凡大师演示样机 IT之家注意到，华为 Mate 90 Pro Max 旗舰机的首个版本更新内容已曝光，包体大小约 745.01 MB…",
+          "keyPoints": [
+            "芯片 / 性能"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -151,52 +197,6 @@ window.phoneRadarDaily = {
           "detail": "IT之家 10 月 3 日消息，在 10 月 1 日举行的华为 Mate 90 系列及全场景新品发布会上，华为睿影 Z10 模块相机正式发布，有 H1、H2 两个卡口版本，分别适配 Mate 90 Pro Max 典藏版和 Mate 90 RS 非凡大师， 定价 5999 元 。 华为终端 BG CTO 李小龙今日就这款新品采用多卡口一事进行回应，他表示华…",
           "keyPoints": [
             "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-e2b94c2e494e",
-          "title": "硅含量达 40%，冠宇电芯及电池包首发配套荣耀 Magic 9 Pro Max",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-03",
-          "time": "07:44",
-          "publishedAt": "2026-10-03T07:44:31.000Z",
-          "url": "https://www.ithome.com/1/009/492.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/b56d1462-4605-4c68-af31-072c5e47f8b1.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 10 月 3 日消息， 荣耀 Magic9 系列手机于 9 月 28 日发布，珠海冠宇今日宣布为荣耀 Magic 9 Pro Max 首发配套电芯与电池包。 IT之家从官方介绍获悉，通过负极材料配方创新与工艺优化，冠宇进一步提升电芯负极硅含量，让单位体积容纳更多能量。荣耀 Magic 9 Pro Max 电池 硅含量达到 40% ，体积能量密度达…",
-          "detail": "IT之家 10 月 3 日消息， 荣耀 Magic9 系列手机于 9 月 28 日发布，珠海冠宇今日宣布为荣耀 Magic 9 Pro Max 首发配套电芯与电池包。 IT之家从官方介绍获悉，通过负极材料配方创新与工艺优化，冠宇进一步提升电芯负极硅含量，让单位体积容纳更多能量。荣耀 Magic 9 Pro Max 电池 硅含量达到 40% ，体积能量密度达…",
-          "keyPoints": [
-            "电池 / 充电"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-96e1deb696e4",
-          "title": "“争气机”换更强“争气芯”：全系韬芯片之华为 Mate 90 发布，央视报道称走出世界半导体的新路",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-03",
-          "time": "06:38",
-          "publishedAt": "2026-10-03T06:38:47.000Z",
-          "url": "https://www.ithome.com/1/009/451.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/a64dda62-cdb1-4288-bfe8-68a0357d9457.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 10 月 3 日消息，在 10 月 1 日的华为 Mate 90 系列及全场景新品发布会上，华为年度旗舰 ——Mate 90 系列手机正式发布，全系搭载了韬定律芯片。 旗舰 τ 芯片：麒麟 9030（Mate 90）、麒麟 9035（Mate 90 Pro）； 逻辑折叠 τ 芯片：麒麟 9050（Mate 90 Pro Max）、麒麟 9050…",
-          "detail": "IT之家 10 月 3 日消息，在 10 月 1 日的华为 Mate 90 系列及全场景新品发布会上，华为年度旗舰 ——Mate 90 系列手机正式发布，全系搭载了韬定律芯片。 旗舰 τ 芯片：麒麟 9030（Mate 90）、麒麟 9035（Mate 90 Pro）； 逻辑折叠 τ 芯片：麒麟 9050（Mate 90 Pro Max）、麒麟 9050…",
-          "keyPoints": [
-            "芯片 / 性能"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
