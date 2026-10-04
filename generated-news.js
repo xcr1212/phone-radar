@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-04T12:19:58.625Z",
+  "updatedAt": "2026-10-04T18:09:12.536Z",
   "news": [
     {
       "id": "weibo-f7e4d6168a26",
@@ -10,8 +10,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-04",
-      "time": "12:19",
-      "publishedAt": "2026-10-04T12:19:58.625Z",
+      "time": "18:09",
+      "publishedAt": "2026-10-04T18:09:12.536Z",
       "url": "https://weibo.com/6048569942/Rkw3lCtbI",
       "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ihltiohha9j30zc3s9npd.jpg",
       "summary": "华为Mate90系列明天发布，猜猜价格吧： 补充一些信息，Mate90是6600mAh电池+66W(100W)快充，50Mp可变光圈高动态大底主摄，50Mp聚光长焦，麒麟9030； Mate90 Pro是双层OLED，最高12000nits，麒麟9035，50Mp潜望镜支持5cm长焦微距； Mate90 PM/RS都是18EV 50Mp超大底主摄+40Mp…",
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-04",
-      "time": "12:19",
-      "publishedAt": "2026-10-04T12:19:58.625Z",
+      "time": "18:09",
+      "publishedAt": "2026-10-04T18:09:12.536Z",
       "url": "https://weibo.com/6048569942/RkuQYC8En",
       "image": "",
       "summary": "摸了一下昨天 iQOO16 首销数据，竟然是近期已发安卓旗舰中的单品销量TOP1。 目前在狗猫抖三大电商平台的总销量是下半年安卓旗舰首销TOP1，而且是一杯打其它所有厂商的多杯组合，还几乎全打赢了……[哆啦A梦害怕]",
@@ -50,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-04",
-      "time": "12:19",
-      "publishedAt": "2026-10-04T12:19:58.625Z",
+      "time": "18:09",
+      "publishedAt": "2026-10-04T18:09:12.536Z",
       "url": "https://weibo.com/6048569942/RkuyMxv05",
       "image": "",
       "summary": "耀子年底还有一堆新机，荣耀700 Pro系列有原生背屏，主打2亿超清影像。中端线还有X新品，7英寸大屏+超万级大电池，阔折叠加速中，阔直板也立项了，支持卷起来[二哈]",
@@ -70,8 +70,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-04",
-      "time": "12:19",
-      "publishedAt": "2026-10-04T12:19:58.625Z",
+      "time": "18:09",
+      "publishedAt": "2026-10-04T18:09:12.536Z",
       "url": "https://weibo.com/6048569942/RksQeu5Cp",
       "image": "",
       "summary": "子系红加裤最近都有中端线新机入网，估计10月前后还有一波大乱斗，预计可以见到万级大电池、超大主动散热风扇、2K大直屏等……[流鼻血]",
@@ -79,6 +79,86 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "微博"
+      ]
+    },
+    {
+      "id": "auto-1e032111cf9e",
+      "title": "Vivo X500 Pro vs iPhone 18 Pro: Two Very Different Compact Flagships",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-04",
+      "time": "16:27",
+      "publishedAt": "2026-10-04T16:27:21.000Z",
+      "url": "https://www.gizmochina.com/2026/10/04/vivo-x500-pro-vs-iphone-18-pro-two-very-different-compact-flagships/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/iPhone-18-Pro-vs-Vivo-X500-Pro-300x150.jpg?x96852",
+      "summary": "The Vivo X500 Pro has a 6,510mAh battery, while the iPhone 18 Pro has a market-dependent 4,056mAh or 4,288mAh battery. Both phones have displays that are close in size, use 2nm ch…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-7f81313e7218",
+      "title": "竹本青：【华为余承东详解 麒麟9050系列芯片：运用逻辑折叠技术，性能全面提升】 ● 逻辑折叠韬芯片： 麒麟9050（Ma…",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-04",
+      "time": "15:06",
+      "publishedAt": "2026-10-04T15:06:03.000Z",
+      "url": "https://www.coolapk.com/feed/74164962",
+      "image": "http://image.coolapk.com/feed/2026/1004/23/4248714_aa170900_6205_4281_142-livepic@1080x1920.jpg",
+      "summary": "【华为余承东详解 麒麟9050系列芯片：运用逻辑折叠技术，性能全面提升】 ● 逻辑折叠韬芯片： 麒麟9050（Mate90 Pro Max 12G） 麒麟9050 Pro（Mate90 Pro Max 16G／典藏版、Mate90 RS非凡大师） 10月4日，华为高管余承东发布视频，详解麒麟9050系列芯片技术。 他指出，传统芯片长期依靠缩小晶体管尺寸提升…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-076258f973c3",
+      "title": "十年前的「外挂相机」，如何在华为 Mate 90 上复活？｜硬哲学",
+      "source": "爱范儿",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-10-04",
+      "time": "14:49",
+      "publishedAt": "2026-10-04T14:49:07.000Z",
+      "url": "https://www.ifanr.com/1682933?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "image": "https://s3.ifanr.com/wp-content/uploads/2026/10/lark2pad-1791125067950-2.png",
+      "summary": "那个曾经太早出现的想法，这一次，可能终于等到了属于它的时代",
+      "tags": [
+        "Huawei",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1fa3cc62cbeb",
+      "title": "Honor Magic 9 series is coming to Europe in January 2027",
+      "source": "Gizmochina",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-04",
+      "time": "13:59",
+      "publishedAt": "2026-10-04T13:59:32.000Z",
+      "url": "https://www.gizmochina.com/2026/10/04/honor-magic-9-series-europe-launch-january-2027/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Honor-Magic-9-series-January-2027-300x158.jpg?x96852",
+      "summary": "Honor’s Magic 9 series is heading towards its international rollout following its recent debut in China. The company has now provided an early indication of when European buyers c…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -302,26 +382,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-55156c93db80",
-      "title": "谷歌在英国应诉 12 亿英镑集体诉讼，被指 Play 商店向消费者转嫁高额佣金",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-04",
-      "time": "05:00",
-      "publishedAt": "2026-10-04T05:00:47.000Z",
-      "url": "https://www.ithome.com/1/009/641.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/6b511454-e131-49ad-851f-73ba7e322811.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 4 日消息，谷歌即将应诉一桩索赔金额 12 亿英镑 （IT之家注：现汇率约合 106.75 亿元人民币） 的诉讼。该诉讼指控十余年间，数百万英国安卓手机用户在应用下载业务上一直被多收费用。这也是针对大型科技企业市场势力的又一起法律纠纷。 如果开庭前夕未能达成和解，这起由堡垒投资集团（Fortress Investment Group）出…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "weibo-a8094fd95942",
       "title": "数码闲聊站：iPhone 18 Pro系列W39累计销量176W，根据国庆期间的走势，W4…",
       "source": "数码闲聊站",
@@ -339,26 +399,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-8e2dda9b2db6",
-      "title": "华为四代 τ 芯片首次集体亮相，余承东详解麒麟 9050 系列首发逻辑折叠技术",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-04",
-      "time": "04:02",
-      "publishedAt": "2026-10-04T04:02:59.000Z",
-      "url": "https://www.ithome.com/1/009/633.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/a64dda62-cdb1-4288-bfe8-68a0357d9457.jpg?x-bce-process=image/auto-orient,o_1",
-      "summary": "IT之家 10 月 4 日消息，在 10 月 1 日的华为 Mate 90 系列及全场景新品发布会上，华为年度旗舰 ——Mate 90 系列手机正式发布，全系搭载了韬定律芯片。 旗舰 τ 芯片：麒麟 9030（Mate 90）、麒麟 9035（Mate 90 Pro）； 逻辑折叠 τ 芯片：麒麟 9050（Mate 90 Pro Max）、麒麟 9050…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -482,6 +522,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-f09ac06d5c2a",
+      "title": "如果Mate 100仍然做不到《完全四边等窄》，我将单方面放弃使用任何华为手机。",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-04",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74151911",
+      "image": "",
+      "summary": "如果Mate 100仍然做不到《完全四边等窄》，我将单方面放弃使用任何华为手机。",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-a80be2feb636",
       "title": "纸上谈兵的可以散了，刷到8ee6暴雷的都是用的低端机[受虐滑稽]哥们你要不上个8ee6试试呢，整天发这个重启了那个重启了，唯恐天下不乱似的 #小米18ProMax# #iQOO16#",
       "source": "酷安热榜",
@@ -522,42 +582,22 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-62c63b75bfc3",
-      "title": "兄弟们，强迫症真的没有办法了么，现在买手机接受不了一点瑕疵，而且还会担心不存在的事情，刚发布两天mate90pm就换了一次了 ，今年80pm换了9次，一加15换了五六次。加上其他的今年换机次数已经超过了三十多次。",
-      "source": "酷安热榜",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-04",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74134876",
-      "image": "",
-      "summary": "兄弟们，强迫症真的没有办法了么，现在买手机接受不了一点瑕疵，而且还会担心不存在的事情，刚发布两天mate90pm就换了一次了 ，今年80pm换了9次，一加15换了五六次。加上其他的今年换机次数已经超过了三十多次。",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-83f3cd2d1a66",
-      "title": "苹果确认iPhone18ProMax存缺陷",
-      "source": "微博热搜",
+      "id": "newsnow-8ca07c0aabe1",
+      "title": "国产旗舰新机集体涨价后 iPhone 销量反弹，导致这一现象的原因是什么？",
+      "source": "知乎热榜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
+      "type": "市场报告",
+      "trust": "媒体汇总",
       "date": "2026-10-04",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E7%A1%AE%E8%AE%A4iPhone18ProMax%E5%AD%98%E7%BC%BA%E9%99%B7%23&t=31&band_rank=25&Refer=top",
+      "url": "https://www.zhihu.com/question/2088048820919734585",
       "image": "",
-      "summary": "苹果确认iPhone18ProMax存缺陷",
+      "summary": "国产旗舰新机集体涨价后 iPhone 销量反弹，导致这一现象的原因是什么？",
       "tags": [
         "iPhone",
-        "爆料",
+        "市场报告",
         "NewsNow"
       ]
     },
@@ -762,26 +802,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-e8f966a6e794",
-      "title": "竹本青：【李小龙：华为未来会提供更多支持睿影模块相机的手机，更换转接环就能适配】 10月1日，华为睿影Z10 模块相机 正…",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-03",
-      "time": "07:28",
-      "publishedAt": "2026-10-03T07:28:40.000Z",
-      "url": "https://www.coolapk.com/feed/74138695",
-      "image": "http://image.coolapk.com/feed/2026/1003/15/4248714_879fdede_2518_9761_721@1440x1875.jpg",
-      "summary": "【李小龙：华为未来会提供更多支持睿影模块相机的手机，更换转接环就能适配】 10月1日，华为睿影Z10 模块相机 正式发布，售价5999元，产品自带1英寸传感器与光学镜头模组，通过手机背部HyperClick超级卡口对接，目前仅适配Mate90 Pro Max典藏版、Mate90 RS非凡大师。 10月3日，针对适配问题，华为高管李小龙表示，该相机的卡口采用…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-32ab1b793d51",
       "title": "Apple Says iPhone 18 Pro Max Users With AT&T Cellular Issue Need to Have Device Replaced",
       "source": "MacRumors",
@@ -803,7 +823,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-cff4f9d27d54",
-      "title": "JSCHEN小小狐：『李杰预热一加 16：满级防水 / 3D 超声波指纹』 ◇ 支持 IP66/68/69/69K 防尘防水 ◇ 3D…",
+      "title": "JSCHEN小小狐：李杰预热一加16：满级防水、3D超声波指纹",
       "source": "JSCHEN小小狐",
       "brand": "OPPO",
       "model": "OPPO 相关机型",
@@ -817,26 +837,6 @@ window.phoneRadarAuto = {
       "summary": "『李杰预热一加 16：满级防水 / 3D 超声波指纹』 ◇ 支持 IP66/68/69/69K 防尘防水 ◇ 3D 超声波指纹：湿手也能秒解锁 ◇ 雨水触控：下雨也能正常操控手机 #今日热点# #一加15# #一加16t#",
       "tags": [
         "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-9a9c53118c3f",
-      "title": "竹本青：【荣耀高管披露 Magic 9系列 第5天首销数据：激活量依旧安卓旗舰第一】 首销日：线上全渠道销量订单安卓第一…",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-03",
-      "time": "01:24",
-      "publishedAt": "2026-10-03T01:24:23.000Z",
-      "url": "https://www.coolapk.com/feed/74132624",
-      "image": "http://image.coolapk.com/feed/2026/1003/09/4248714_0a1e3bfe_0662_9659_696@1272x315.jpg",
-      "summary": "【荣耀高管披露 Magic 9系列 第5天首销数据：激活量依旧安卓旗舰第一】 首销日：线上全渠道销量订单安卓第一 第2天：激活量同比去年翻倍 第3天：激活量较上代增长超70% 第4天：激活量安卓旗舰第一 第5天：激活量依旧安卓旗舰第一 #荣耀Magic9ProMax# #MagicOS11# #今日热点#",
-      "tags": [
-        "HONOR",
         "爆料",
         "酷安博主"
       ]

@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-10-04T12:19:58.625Z",
+  "updatedAt": "2026-10-04T18:09:12.536Z",
   "issueDate": "2026-10-04",
   "issue": "VOL.261004",
   "title": "手机情报日报",
-  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 17 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 18,
+    "total": 17,
     "iphone": 8,
     "leaks": 8,
     "official": 1,
@@ -133,6 +133,29 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-076258f973c3",
+          "title": "十年前的「外挂相机」，如何在华为 Mate 90 上复活？｜硬哲学",
+          "originalTitle": "",
+          "source": "爱范儿",
+          "brand": "Huawei",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-10-04",
+          "time": "14:49",
+          "publishedAt": "2026-10-04T14:49:07.000Z",
+          "url": "https://www.ifanr.com/1682933?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "image": "https://s3.ifanr.com/wp-content/uploads/2026/10/lark2pad-1791125067950-2.png",
+          "verdict": "先看",
+          "takeaway": "那个曾经太早出现的想法，这一次，可能终于等到了属于它的时代",
+          "detail": "那个曾经太早出现的想法，这一次，可能终于等到了属于它的时代",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "weibo-f7e4d6168a26",
           "title": "数码闲聊站：华为Mate90系列明天发布，猜猜价格吧： 补充一些信息，Mate90是660…",
           "originalTitle": "",
@@ -141,8 +164,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-10-04",
-          "time": "12:19",
-          "publishedAt": "2026-10-04T12:19:58.625Z",
+          "time": "18:09",
+          "publishedAt": "2026-10-04T18:09:12.536Z",
           "url": "https://weibo.com/6048569942/Rkw3lCtbI",
           "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ihltiohha9j30zc3s9npd.jpg",
           "verdict": "先看",
@@ -167,39 +190,14 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-10-04",
-          "time": "12:19",
-          "publishedAt": "2026-10-04T12:19:58.625Z",
+          "time": "18:09",
+          "publishedAt": "2026-10-04T18:09:12.536Z",
           "url": "https://weibo.com/6048569942/RkuQYC8En",
           "image": "",
           "verdict": "先看",
           "takeaway": "摸了一下昨天 iQOO16 首销数据，竟然是近期已发安卓旗舰中的单品销量TOP1。 目前在狗猫抖三大电商平台的总销量是下半年安卓旗舰首销TOP1，而且是一杯打其它所有厂商的多杯组合，还几乎全打赢了……[哆啦A梦害怕]",
           "detail": "摸了一下昨天 iQOO16 首销数据，竟然是近期已发安卓旗舰中的单品销量TOP1。 目前在狗猫抖三大电商平台的总销量是下半年安卓旗舰首销TOP1，而且是一杯打其它所有厂商的多杯组合，还几乎全打赢了……[哆啦A梦害怕]",
           "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-41b18bf8cfc0",
-          "title": "数码闲聊站：耀子年底还有一堆新机，荣耀700 Pro系列有原生背屏，主打2亿超清影像。中端…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-10-04",
-          "time": "12:19",
-          "publishedAt": "2026-10-04T12:19:58.625Z",
-          "url": "https://weibo.com/6048569942/RkuyMxv05",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "耀子年底还有一堆新机，荣耀700 Pro系列有原生背屏，主打2亿超清影像。中端线还有X新品，7英寸大屏+超万级大电池，阔折叠加速中，阔直板也立项了，支持卷起来[二哈]",
-          "detail": "耀子年底还有一堆新机，荣耀700 Pro系列有原生背屏，主打2亿超清影像。中端线还有X新品，7英寸大屏+超万级大电池，阔折叠加速中，阔直板也立项了，支持卷起来[二哈]",
-          "keyPoints": [
-            "影像硬件",
-            "电池 / 充电",
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
@@ -286,36 +284,6 @@ window.phoneRadarDaily = {
       ]
     },
     {
-      "id": "launch",
-      "title": "新机与官方发布",
-      "hint": "能直接更新到参数库。",
-      "items": [
-        {
-          "id": "newsnow-62c63b75bfc3",
-          "title": "兄弟们，强迫症真的没有办法了么，现在买手机接受不了一点瑕疵，而且还会担心不存在的事情，刚发布两天mate90pm就换了一次了 ，今年80pm换了9次，一加15换了五六次。加上其他的今年换机次数已经超过了三十多次。",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-10-04",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/74134876",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "兄弟们，强迫症真的没有办法了么，现在买手机接受不了一点瑕疵，而且还会担心不存在的事情，刚发布两天mate90pm就换了一次了 ，今年80pm换了9次，一加15换了五六次。加上其他的今年换机次数已经超过了三十多次。",
-          "detail": "兄弟们，强迫症真的没有办法了么，现在买手机接受不了一点瑕疵，而且还会担心不存在的事情，刚发布两天mate90pm就换了一次了 ，今年80pm换了9次，一加15换了五六次。加上其他的今年换机次数已经超过了三十多次。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
       "id": "review",
       "title": "评测与体验",
       "hint": "买前再细看，平时扫一眼即可。",
@@ -374,6 +342,29 @@ window.phoneRadarDaily = {
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         },
         {
+          "id": "newsnow-f09ac06d5c2a",
+          "title": "如果Mate 100仍然做不到《完全四边等窄》，我将单方面放弃使用任何华为手机。",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-10-04",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/74151911",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "如果Mate 100仍然做不到《完全四边等窄》，我将单方面放弃使用任何华为手机。",
+          "detail": "如果Mate 100仍然做不到《完全四边等窄》，我将单方面放弃使用任何华为手机。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "newsnow-42080ffe032a",
           "title": "还有人说我是收钱黑小米的，日志发出来你们看，我自己就是个多年冲首发的米粉，今天短短半个小时又自动重启了两次，买了这么多个手机第一次遇到这种情况，现已申请退货了。#小米18# #HyperOS4# #小米17ProMax#",
           "originalTitle": "",
@@ -398,7 +389,7 @@ window.phoneRadarDaily = {
         },
         {
           "id": "coolapk-user-cff4f9d27d54",
-          "title": "JSCHEN小小狐：『李杰预热一加 16：满级防水 / 3D 超声波指纹』 ◇ 支持 IP66/68/69/69K 防尘防水 ◇ 3D…",
+          "title": "JSCHEN小小狐：李杰预热一加16：满级防水、3D超声波指纹",
           "originalTitle": "",
           "source": "JSCHEN小小狐",
           "brand": "OPPO",
@@ -412,29 +403,6 @@ window.phoneRadarDaily = {
           "verdict": "扫一眼",
           "takeaway": "『李杰预热一加 16：满级防水 / 3D 超声波指纹』 ◇ 支持 IP66/68/69/69K 防尘防水 ◇ 3D 超声波指纹：湿手也能秒解锁 ◇ 雨水触控：下雨也能正常操控手机 #今日热点# #一加15# #一加16t#",
           "detail": "『李杰预热一加 16：满级防水 / 3D 超声波指纹』 ◇ 支持 IP66/68/69/69K 防尘防水 ◇ 3D 超声波指纹：湿手也能秒解锁 ◇ 雨水触控：下雨也能正常操控手机 #今日热点# #一加15# #一加16t#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "coolapk-user-9a9c53118c3f",
-          "title": "竹本青：【荣耀高管披露 Magic 9系列 第5天首销数据：激活量依旧安卓旗舰第一】 首销日：线上全渠道销量订单安卓第一…",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-10-03",
-          "time": "01:24",
-          "publishedAt": "2026-10-03T01:24:23.000Z",
-          "url": "https://www.coolapk.com/feed/74132624",
-          "image": "http://image.coolapk.com/feed/2026/1003/09/4248714_0a1e3bfe_0662_9659_696@1272x315.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【荣耀高管披露 Magic 9系列 第5天首销数据：激活量依旧安卓旗舰第一】 首销日：线上全渠道销量订单安卓第一 第2天：激活量同比去年翻倍 第3天：激活量较上代增长超70% 第4天：激活量安卓旗舰第一 第5天：激活量依旧安卓旗舰第一 #荣耀Magic9ProMax# #MagicOS11# #今日热点#",
-          "detail": "【荣耀高管披露 Magic 9系列 第5天首销数据：激活量依旧安卓旗舰第一】 首销日：线上全渠道销量订单安卓第一 第2天：激活量同比去年翻倍 第3天：激活量较上代增长超70% 第4天：激活量安卓旗舰第一 第5天：激活量依旧安卓旗舰第一 #荣耀Magic9ProMax# #MagicOS11# #今日热点#",
           "keyPoints": [
             "爆料"
           ],
