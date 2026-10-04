@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-04T05:50:49.432Z",
+  "updatedAt": "2026-10-04T12:19:58.625Z",
   "news": [
     {
       "id": "weibo-f7e4d6168a26",
@@ -10,8 +10,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-04",
-      "time": "05:50",
-      "publishedAt": "2026-10-04T05:50:49.432Z",
+      "time": "12:19",
+      "publishedAt": "2026-10-04T12:19:58.625Z",
       "url": "https://weibo.com/6048569942/Rkw3lCtbI",
       "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ihltiohha9j30zc3s9npd.jpg",
       "summary": "华为Mate90系列明天发布，猜猜价格吧： 补充一些信息，Mate90是6600mAh电池+66W(100W)快充，50Mp可变光圈高动态大底主摄，50Mp聚光长焦，麒麟9030； Mate90 Pro是双层OLED，最高12000nits，麒麟9035，50Mp潜望镜支持5cm长焦微距； Mate90 PM/RS都是18EV 50Mp超大底主摄+40Mp…",
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-04",
-      "time": "05:50",
-      "publishedAt": "2026-10-04T05:50:49.432Z",
+      "time": "12:19",
+      "publishedAt": "2026-10-04T12:19:58.625Z",
       "url": "https://weibo.com/6048569942/RkuQYC8En",
       "image": "",
       "summary": "摸了一下昨天 iQOO16 首销数据，竟然是近期已发安卓旗舰中的单品销量TOP1。 目前在狗猫抖三大电商平台的总销量是下半年安卓旗舰首销TOP1，而且是一杯打其它所有厂商的多杯组合，还几乎全打赢了……[哆啦A梦害怕]",
@@ -50,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-04",
-      "time": "05:50",
-      "publishedAt": "2026-10-04T05:50:49.432Z",
+      "time": "12:19",
+      "publishedAt": "2026-10-04T12:19:58.625Z",
       "url": "https://weibo.com/6048569942/RkuyMxv05",
       "image": "",
       "summary": "耀子年底还有一堆新机，荣耀700 Pro系列有原生背屏，主打2亿超清影像。中端线还有X新品，7英寸大屏+超万级大电池，阔折叠加速中，阔直板也立项了，支持卷起来[二哈]",
@@ -70,8 +70,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-04",
-      "time": "05:50",
-      "publishedAt": "2026-10-04T05:50:49.432Z",
+      "time": "12:19",
+      "publishedAt": "2026-10-04T12:19:58.625Z",
       "url": "https://weibo.com/6048569942/RksQeu5Cp",
       "image": "",
       "summary": "子系红加裤最近都有中端线新机入网，估计10月前后还有一波大乱斗，预计可以见到万级大电池、超大主动散热风扇、2K大直屏等……[流鼻血]",
@@ -79,6 +79,226 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "微博"
+      ]
+    },
+    {
+      "id": "auto-1e5773599296",
+      "title": "RedMagic 12 Pro+ posts the highest Snapdragon 8 Elite Extreme Gen 6 score on Geekbench 7 so far",
+      "source": "Gizmochina",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-04",
+      "time": "11:25",
+      "publishedAt": "2026-10-04T11:25:35.000Z",
+      "url": "https://www.gizmochina.com/2026/10/04/redmagic-12-pro-posts-the-highest-snapdragon-8-elite-extreme-gen-6-score-on-geekbench-7-so-far/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/01/RedMagic-11-Air-Launch-Specs-Price1-300x200.jpg?x96852",
+      "summary": "The RedMagic 12 Pro+ has appeared on Geekbench 7, with what are likely the highest scores so far for a device powered by the Snapdragon 8 Elite Extreme Gen 6. The listing comes ju…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6bd292f45c2b",
+      "title": "OPPO Find X10 vs Xiaomi 18 Pro: Is Xiaomi Worth $200 More?",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-04",
+      "time": "10:07",
+      "publishedAt": "2026-10-04T10:07:24.000Z",
+      "url": "https://www.gizmochina.com/2026/10/04/oppo-find-x10-vs-xiaomi-18-pro/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/image-4-300x171.png?x96852",
+      "summary": "OPPO Find X10 and Xiaomi 18 Pro take different approaches to flagship smartphone design, performance, and photography. While OPPO focuses on a high-refresh-rate display, a massive…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e1d33ef3466f",
+      "title": "This 2025 Motorola phone is quietly becoming one of my favorite Android devices",
+      "source": "Android Authority",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-04",
+      "time": "10:00",
+      "publishedAt": "2026-10-04T10:00:34.000Z",
+      "url": "https://www.androidauthority.com/motorola-edge-70-becoming-favorite-android-phone-3715468/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/the-back-of-the-motorola-edge-70-scaled.jpg",
+      "summary": "The Motorola Edge 70 flew under the radar, but I love it.",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d59e563671af",
+      "title": "After a month with the Galaxy Z Fold 8, every other Android phone feels wrong",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-04",
+      "time": "09:00",
+      "publishedAt": "2026-10-04T09:00:27.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-one-monther-later-3710165/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Samsung-Galaxy-Z-Fold-in-hand.jpg",
+      "summary": "A month with the Galaxy Z Fold 8 has quietly ruined every other phone for me.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f8d2164d240f",
+      "title": "Redmi Mini-LED TV 2027 Competition Edition launches with 360Hz mode and 1,300 nits brightness",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-04",
+      "time": "08:25",
+      "publishedAt": "2026-10-04T08:25:51.000Z",
+      "url": "https://www.gizmochina.com/2026/10/04/redmi-mini-led-tv-2027-competition-edition-launches-with-360hz-mode-and-1300-nits-brightness/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Redmi-Mini-LED-TV-2027-Competition-Edition-Launch-Specs-Price-300x200.jpg?x96852",
+      "summary": "Xiaomi has opened pre-sales for the Redmi TV X RGB-Mini LED 2027 Competition Edition in China. The new model follows the Redmi TV X 2026, which brought standard Mini LED panels to…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a2ac39257e4d",
+      "title": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验",
+      "source": "少数派",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-10-04",
+      "time": "07:58",
+      "publishedAt": "2026-10-04T07:58:39.000Z",
+      "url": "https://sspai.com/post/115308",
+      "image": "",
+      "summary": "iPhone 18 Pro 也许不会让你感觉焕然一新，却在许多地方都变得更加完整了。",
+      "tags": [
+        "iPhone",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-cf777f3a890c",
+      "title": "消息称苹果 iPhone 18 Pro 系列 W39 国内累计销量 176 万台",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-04",
+      "time": "07:56",
+      "publishedAt": "2026-10-04T07:56:58.000Z",
+      "url": "https://www.ithome.com/1/009/662.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/7d88487b-aeb6-4e68-a263-9f14a68e3cb6.png",
+      "summary": "IT之家 10 月 4 日消息，博主 @数码闲聊站 今日爆料，苹果 iPhone 18 Pro 系列 W39 周累计销量 176 万台（预计指国内），根据国庆期间的走势，W40 预估累计销量超 250 万台，两款机型均轻松完成单品激活 100 万台。 IT之家注意到，W39 指的是 2026 年的 第 39 个自然周 ，也就是 9 月 21 日到 9 月…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c3c81da6bc09",
+      "title": "Honor X5ds launches with a rear touchscreen and 6,000mAh battery in the budget segment",
+      "source": "Gizmochina",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-04",
+      "time": "07:50",
+      "publishedAt": "2026-10-04T07:50:47.000Z",
+      "url": "https://www.gizmochina.com/2026/10/04/honor-x5ds-launche-price-specs/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Honor-X5ds-1-1-300x190.jpg?x96852",
+      "summary": "While Xiaomi offers a rear-facing display on its premium Xiaomi 18 Pro series, Honor is adopting a different strategy by offering rear displays on more affordable models like the…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d63b50ed21c6",
+      "title": "iPhone 18 Pro Max vs OPPO Find X10 Pro Max: Is Apple Really Worth $340 More?",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-04",
+      "time": "07:45",
+      "publishedAt": "2026-10-04T07:45:01.000Z",
+      "url": "https://www.gizmochina.com/2026/10/04/iphone-18-pro-max-vs-oppo-find-x10-pro-max/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/image-3-300x165.png?x96852",
+      "summary": "iPhone 18 Pro Max and OPPO Find X10 Pro Max represent two very different approaches to premium smartphone design. Apple focuses on its powerful A20 Pro chipset, advanced video cap…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-af5382047588",
+      "title": "苹果 iPhone 18 Pro 系列手机海南免税价格出炉：相比官网正价便宜约 200-1430 元",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-04",
+      "time": "06:43",
+      "publishedAt": "2026-10-04T06:43:39.000Z",
+      "url": "https://www.ithome.com/1/009/649.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/4ee40e5f-b4eb-4951-8f07-756f0ee2aa74.jpg",
+      "summary": "IT之家 10 月 4 日消息，随着苹果 iPhone 18 Pro 系列手机正式发售，目前有许多网友陆续晒出了系列手机在海南免税后的价格 （不同授权店价格不一，下列价格仅供参考） ，IT之家整理如下： 苹果 iPhone 18 Pro 256GB：原价 9999 元，免税价约 9299-9499 元，省约 500-700 元 512GB：原价 11999…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-328c4fbb463b",
+      "title": "Vivo S60t launches with 7,200mAh battery, 50MP periscope camera, and OriginOS 7",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-04",
+      "time": "06:27",
+      "publishedAt": "2026-10-04T06:27:46.000Z",
+      "url": "https://www.gizmochina.com/2026/10/04/vivo-s60t-launched-price-specs/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Vivo-S60t--300x175.jpg?x96852",
+      "summary": "Vivo unveiled the Vivo S60 and S60e (aka V60 Vitality Edition) smartphones earlier, and now the brand has silently taken the covers off another model called the Vivo S60t. The new…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -137,46 +357,6 @@ window.phoneRadarAuto = {
       "summary": "IT之家 10 月 4 日消息，在 10 月 1 日的华为 Mate 90 系列及全场景新品发布会上，华为年度旗舰 ——Mate 90 系列手机正式发布，全系搭载了韬定律芯片。 旗舰 τ 芯片：麒麟 9030（Mate 90）、麒麟 9035（Mate 90 Pro）； 逻辑折叠 τ 芯片：麒麟 9050（Mate 90 Pro Max）、麒麟 9050…",
       "tags": [
         "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-f096de6f4cea",
-      "title": "竹本青：【“米OV”三家旗舰 首销周激活量曝光：小米18 Pro系列破20万，超另外两家之合】 10月4日，博主数码闲聊站…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-04",
-      "time": "03:33",
-      "publishedAt": "2026-10-04T03:33:35.000Z",
-      "url": "https://www.coolapk.com/feed/74153300",
-      "image": "http://image.coolapk.com/feed/2026/1004/12/4248714_355293e8_6441_1279_382@2515x3296.jpg",
-      "summary": "【“米OV”三家旗舰 首销周激活量曝光：小米18 Pro系列破20万，超另外两家之合】 10月4日，博主数码闲聊站发布数据，曝光小米、OPPO、vivo三大安卓品牌旗舰系列的首销周（9.21-9.27）激活量： ● 小米18 Pro系列：20.3万台± ● OPPO Find X10系列：10.9万台± ● vivo X500/ Pro Max：8.1万台…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-9c29fe9759ed",
-      "title": "索尼相机新品 WW261362 通过 SRRC 认证，中高端定位或为 α7S IV",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-04",
-      "time": "00:58",
-      "publishedAt": "2026-10-04T00:58:41.000Z",
-      "url": "https://www.ithome.com/1/009/603.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/acd6c955-2791-47aa-80a5-d70582ea6815.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 4 日消息，日本索尼公司有一款代号为“WW261362”的新机通过了 SRRC 认证，显示其支持 Wi-Fi 6 和蓝牙，至少为 BIONZ XR2 或更新平台。 按照索尼以往的注册惯例，入门和部分中端机型通常由“索尼无锡”注册，电影机、讯道机等产品通常由“上海索广”注册，而中高端机型通常由“索尼日本”注册。基于这一区分，Sony Al…",
-      "tags": [
-        "行业",
         "爆料",
         "自动抓取"
       ]
@@ -302,26 +482,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-f09ac06d5c2a",
-      "title": "如果Mate 100仍然做不到《完全四边等窄》，我将单方面放弃使用任何华为手机。",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-04",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74151911",
-      "image": "",
-      "summary": "如果Mate 100仍然做不到《完全四边等窄》，我将单方面放弃使用任何华为手机。",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-a80be2feb636",
       "title": "纸上谈兵的可以散了，刷到8ee6暴雷的都是用的低端机[受虐滑稽]哥们你要不上个8ee6试试呢，整天发这个重启了那个重启了，唯恐天下不乱似的 #小米18ProMax# #iQOO16#",
       "source": "酷安热榜",
@@ -382,62 +542,42 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-911f71e28e3e",
-      "title": "我嘞个传奇耐电王再世，1.3v给到8ee6，缩肛都跳过了，直接给电死了[受虐滑稽] #骁龙8至尊版Gen6# #荣耀Magic9ProMax# #iQOO16#",
-      "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
+      "id": "newsnow-83f3cd2d1a66",
+      "title": "苹果确认iPhone18ProMax存缺陷",
+      "source": "微博热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
-      "trust": "高关注爆料源",
+      "trust": "待验证",
       "date": "2026-10-04",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74128360",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E7%A1%AE%E8%AE%A4iPhone18ProMax%E5%AD%98%E7%BC%BA%E9%99%B7%23&t=31&band_rank=25&Refer=top",
       "image": "",
-      "summary": "我嘞个传奇耐电王再世，1.3v给到8ee6，缩肛都跳过了，直接给电死了[受虐滑稽] #骁龙8至尊版Gen6# #荣耀Magic9ProMax# #iQOO16#",
+      "summary": "苹果确认iPhone18ProMax存缺陷",
       "tags": [
-        "HONOR",
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-c10b7a1cbd6f",
-      "title": "爱否编辑质疑极客湾测试不严谨，分辨率一致不等于画质一致！（估计是觉得极客湾为华为搽脂抹粉吧）#小米18ProMax# #iPhone18ProMax# #荣耀Magic9ProMax#",
-      "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
+      "id": "newsnow-84e033ed9124",
+      "title": "如何评价上海一音乐教师赴泰后失联多日，手机 IP 曾显示在缅甸？目前情况如何？",
+      "source": "知乎热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "市场报告",
+      "trust": "媒体汇总",
       "date": "2026-10-04",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74135399",
+      "url": "https://www.zhihu.com/question/2089658031193773369",
       "image": "",
-      "summary": "爱否编辑质疑极客湾测试不严谨，分辨率一致不等于画质一致！（估计是觉得极客湾为华为搽脂抹粉吧）#小米18ProMax# #iPhone18ProMax# #荣耀Magic9ProMax#",
+      "summary": "如何评价上海一音乐教师赴泰后失联多日，手机 IP 曾显示在缅甸？目前情况如何？",
       "tags": [
-        "HONOR",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-2d6389fbf05b",
-      "title": "#小米18Fold# 最开始只是想自己做个手机壳，后来路走偏了，开始沉浸在不断做薄的艺术里[受虐滑稽][受虐滑稽]",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-04",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74144995",
-      "image": "",
-      "summary": "#小米18Fold# 最开始只是想自己做个手机壳，后来路走偏了，开始沉浸在不断做薄的艺术里[受虐滑稽][受虐滑稽]",
-      "tags": [
-        "Xiaomi",
-        "爆料",
+        "行业",
+        "市场报告",
         "NewsNow"
       ]
     },
@@ -459,26 +599,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-33bb4bc56d0c",
-      "title": "Google Pixel 11 Pro Fold's hidden feature is fueling my Pokémon Go addiction",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-03",
-      "time": "16:00",
-      "publishedAt": "2026-10-03T16:00:10.000Z",
-      "url": "https://www.androidpolice.com/googles-private-space-play-pokmon-go-on-both-sides-of-pixel-fold/",
-      "image": "",
-      "summary": "This is how I caught 14 shiny Gibles in one hour",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
       ]
     },
     {

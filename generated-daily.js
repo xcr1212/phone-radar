@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-10-04T05:50:49.432Z",
+  "updatedAt": "2026-10-04T12:19:58.625Z",
   "issueDate": "2026-10-04",
   "issue": "VOL.261004",
   "title": "手机情报日报",
-  "intro": "今日筛出 17 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 17,
-    "iphone": 5,
+    "total": 18,
+    "iphone": 8,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -17,6 +17,29 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-cf777f3a890c",
+          "title": "消息称苹果 iPhone 18 Pro 系列 W39 国内累计销量 176 万台",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-04",
+          "time": "07:56",
+          "publishedAt": "2026-10-04T07:56:58.000Z",
+          "url": "https://www.ithome.com/1/009/662.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/7d88487b-aeb6-4e68-a263-9f14a68e3cb6.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 10 月 4 日消息，博主 @数码闲聊站 今日爆料，苹果 iPhone 18 Pro 系列 W39 周累计销量 176 万台（预计指国内），根据国庆期间的走势，W40 预估累计销量超 250 万台，两款机型均轻松完成单品激活 100 万台。 IT之家注意到，W39 指的是 2026 年的 第 39 个自然周 ，也就是 9 月 21 日到 9 月…",
+          "detail": "IT之家 10 月 4 日消息，博主 @数码闲聊站 今日爆料，苹果 iPhone 18 Pro 系列 W39 周累计销量 176 万台（预计指国内），根据国庆期间的走势，W40 预估累计销量超 250 万台，两款机型均轻松完成单品激活 100 万台。 IT之家注意到，W39 指的是 2026 年的 第 39 个自然周 ，也就是 9 月 21 日到 9 月…",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "weibo-a8094fd95942",
           "title": "数码闲聊站：iPhone 18 Pro系列W39累计销量176W，根据国庆期间的走势，W4…",
@@ -118,8 +141,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-10-04",
-          "time": "05:50",
-          "publishedAt": "2026-10-04T05:50:49.432Z",
+          "time": "12:19",
+          "publishedAt": "2026-10-04T12:19:58.625Z",
           "url": "https://weibo.com/6048569942/Rkw3lCtbI",
           "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ihltiohha9j30zc3s9npd.jpg",
           "verdict": "先看",
@@ -144,8 +167,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-10-04",
-          "time": "05:50",
-          "publishedAt": "2026-10-04T05:50:49.432Z",
+          "time": "12:19",
+          "publishedAt": "2026-10-04T12:19:58.625Z",
           "url": "https://weibo.com/6048569942/RkuQYC8En",
           "image": "",
           "verdict": "先看",
@@ -167,8 +190,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-10-04",
-          "time": "05:50",
-          "publishedAt": "2026-10-04T05:50:49.432Z",
+          "time": "12:19",
+          "publishedAt": "2026-10-04T12:19:58.625Z",
           "url": "https://weibo.com/6048569942/RkuyMxv05",
           "image": "",
           "verdict": "先看",
@@ -177,29 +200,6 @@ window.phoneRadarDaily = {
           "keyPoints": [
             "影像硬件",
             "电池 / 充电",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-f096de6f4cea",
-          "title": "竹本青：【“米OV”三家旗舰 首销周激活量曝光：小米18 Pro系列破20万，超另外两家之合】 10月4日，博主数码闲聊站…",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-10-04",
-          "time": "03:33",
-          "publishedAt": "2026-10-04T03:33:35.000Z",
-          "url": "https://www.coolapk.com/feed/74153300",
-          "image": "http://image.coolapk.com/feed/2026/1004/12/4248714_355293e8_6441_1279_382@2515x3296.jpg",
-          "verdict": "先看",
-          "takeaway": "【“米OV”三家旗舰 首销周激活量曝光：小米18 Pro系列破20万，超另外两家之合】 10月4日，博主数码闲聊站发布数据，曝光小米、OPPO、vivo三大安卓品牌旗舰系列的首销周（9.21-9.27）激活量： ● 小米18 Pro系列：20.3万台± ● OPPO Find X10系列：10.9万台± ● vivo X500/ Pro Max：8.1万台…",
-          "detail": "【“米OV”三家旗舰 首销周激活量曝光：小米18 Pro系列破20万，超另外两家之合】 10月4日，博主数码闲聊站发布数据，曝光小米、OPPO、vivo三大安卓品牌旗舰系列的首销周（9.21-9.27）激活量： ● 小米18 Pro系列：20.3万台± ● OPPO Find X10系列：10.9万台± ● vivo X500/ Pro Max：8.1万台…",
-          "keyPoints": [
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
@@ -235,6 +235,52 @@ window.phoneRadarDaily = {
           ],
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
+          "id": "auto-a2ac39257e4d",
+          "title": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验",
+          "originalTitle": "",
+          "source": "少数派",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-10-04",
+          "time": "07:58",
+          "publishedAt": "2026-10-04T07:58:39.000Z",
+          "url": "https://sspai.com/post/115308",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone 18 Pro 也许不会让你感觉焕然一新，却在许多地方都变得更加完整了。",
+          "detail": "iPhone 18 Pro 也许不会让你感觉焕然一新，却在许多地方都变得更加完整了。",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
+          "id": "auto-af5382047588",
+          "title": "苹果 iPhone 18 Pro 系列手机海南免税价格出炉：相比官网正价便宜约 200-1430 元",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-04",
+          "time": "06:43",
+          "publishedAt": "2026-10-04T06:43:39.000Z",
+          "url": "https://www.ithome.com/1/009/649.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/4ee40e5f-b4eb-4951-8f07-756f0ee2aa74.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 10 月 4 日消息，随着苹果 iPhone 18 Pro 系列手机正式发售，目前有许多网友陆续晒出了系列手机在海南免税后的价格 （不同授权店价格不一，下列价格仅供参考） ，IT之家整理如下： 苹果 iPhone 18 Pro 256GB：原价 9999 元，免税价约 9299-9499 元，省约 500-700 元 512GB：原价 11999…",
+          "detail": "IT之家 10 月 4 日消息，随着苹果 iPhone 18 Pro 系列手机正式发售，目前有许多网友陆续晒出了系列手机在海南免税后的价格 （不同授权店价格不一，下列价格仅供参考） ，IT之家整理如下： 苹果 iPhone 18 Pro 256GB：原价 9999 元，免税价约 9299-9499 元，省约 500-700 元 512GB：原价 11999…",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响购买预算，值得先看。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
@@ -328,29 +374,6 @@ window.phoneRadarDaily = {
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         },
         {
-          "id": "newsnow-f09ac06d5c2a",
-          "title": "如果Mate 100仍然做不到《完全四边等窄》，我将单方面放弃使用任何华为手机。",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-10-04",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/74151911",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "如果Mate 100仍然做不到《完全四边等窄》，我将单方面放弃使用任何华为手机。",
-          "detail": "如果Mate 100仍然做不到《完全四边等窄》，我将单方面放弃使用任何华为手机。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
           "id": "newsnow-42080ffe032a",
           "title": "还有人说我是收钱黑小米的，日志发出来你们看，我自己就是个多年冲首发的米粉，今天短短半个小时又自动重启了两次，买了这么多个手机第一次遇到这种情况，现已申请退货了。#小米18# #HyperOS4# #小米17ProMax#",
           "originalTitle": "",
@@ -366,52 +389,6 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "还有人说我是收钱黑小米的，日志发出来你们看，我自己就是个多年冲首发的米粉，今天短短半个小时又自动重启了两次，买了这么多个手机第一次遇到这种情况，现已申请退货了。#小米18# #HyperOS4# #小米17ProMax#",
           "detail": "还有人说我是收钱黑小米的，日志发出来你们看，我自己就是个多年冲首发的米粉，今天短短半个小时又自动重启了两次，买了这么多个手机第一次遇到这种情况，现已申请退货了。#小米18# #HyperOS4# #小米17ProMax#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-c10b7a1cbd6f",
-          "title": "爱否编辑质疑极客湾测试不严谨，分辨率一致不等于画质一致！（估计是觉得极客湾为华为搽脂抹粉吧）#小米18ProMax# #iPhone18ProMax# #荣耀Magic9ProMax#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-10-04",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/74135399",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "爱否编辑质疑极客湾测试不严谨，分辨率一致不等于画质一致！（估计是觉得极客湾为华为搽脂抹粉吧）#小米18ProMax# #iPhone18ProMax# #荣耀Magic9ProMax#",
-          "detail": "爱否编辑质疑极客湾测试不严谨，分辨率一致不等于画质一致！（估计是觉得极客湾为华为搽脂抹粉吧）#小米18ProMax# #iPhone18ProMax# #荣耀Magic9ProMax#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-2d6389fbf05b",
-          "title": "#小米18Fold# 最开始只是想自己做个手机壳，后来路走偏了，开始沉浸在不断做薄的艺术里[受虐滑稽][受虐滑稽]",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-10-04",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/74144995",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "#小米18Fold# 最开始只是想自己做个手机壳，后来路走偏了，开始沉浸在不断做薄的艺术里[受虐滑稽][受虐滑稽]",
-          "detail": "#小米18Fold# 最开始只是想自己做个手机壳，后来路走偏了，开始沉浸在不断做薄的艺术里[受虐滑稽][受虐滑稽]",
           "keyPoints": [
             "爆料"
           ],
@@ -439,6 +416,52 @@ window.phoneRadarDaily = {
             "爆料"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "coolapk-user-9a9c53118c3f",
+          "title": "竹本青：【荣耀高管披露 Magic 9系列 第5天首销数据：激活量依旧安卓旗舰第一】 首销日：线上全渠道销量订单安卓第一…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-10-03",
+          "time": "01:24",
+          "publishedAt": "2026-10-03T01:24:23.000Z",
+          "url": "https://www.coolapk.com/feed/74132624",
+          "image": "http://image.coolapk.com/feed/2026/1003/09/4248714_0a1e3bfe_0662_9659_696@1272x315.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "【荣耀高管披露 Magic 9系列 第5天首销数据：激活量依旧安卓旗舰第一】 首销日：线上全渠道销量订单安卓第一 第2天：激活量同比去年翻倍 第3天：激活量较上代增长超70% 第4天：激活量安卓旗舰第一 第5天：激活量依旧安卓旗舰第一 #荣耀Magic9ProMax# #MagicOS11# #今日热点#",
+          "detail": "【荣耀高管披露 Magic 9系列 第5天首销数据：激活量依旧安卓旗舰第一】 首销日：线上全渠道销量订单安卓第一 第2天：激活量同比去年翻倍 第3天：激活量较上代增长超70% 第4天：激活量安卓旗舰第一 第5天：激活量依旧安卓旗舰第一 #荣耀Magic9ProMax# #MagicOS11# #今日热点#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-a80be2feb636",
+          "title": "纸上谈兵的可以散了，刷到8ee6暴雷的都是用的低端机[受虐滑稽]哥们你要不上个8ee6试试呢，整天发这个重启了那个重启了，唯恐天下不乱似的 #小米18ProMax# #iQOO16#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-10-04",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/74136201",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "纸上谈兵的可以散了，刷到8ee6暴雷的都是用的低端机[受虐滑稽]哥们你要不上个8ee6试试呢，整天发这个重启了那个重启了，唯恐天下不乱似的 #小米18ProMax# #iQOO16#",
+          "detail": "纸上谈兵的可以散了，刷到8ee6暴雷的都是用的低端机[受虐滑稽]哥们你要不上个8ee6试试呢，整天发这个重启了那个重启了，唯恐天下不乱似的 #小米18ProMax# #iQOO16#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
