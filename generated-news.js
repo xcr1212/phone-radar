@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-05T09:02:13.476Z",
+  "updatedAt": "2026-10-05T19:17:43.714Z",
   "news": [
     {
       "id": "weibo-f7e4d6168a26",
@@ -10,8 +10,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-05",
-      "time": "09:02",
-      "publishedAt": "2026-10-05T09:02:13.476Z",
+      "time": "19:17",
+      "publishedAt": "2026-10-05T19:17:43.714Z",
       "url": "https://weibo.com/6048569942/Rkw3lCtbI",
       "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ihltiohha9j30zc3s9npd.jpg",
       "summary": "华为Mate90系列明天发布，猜猜价格吧： 补充一些信息，Mate90是6600mAh电池+66W(100W)快充，50Mp可变光圈高动态大底主摄，50Mp聚光长焦，麒麟9030； Mate90 Pro是双层OLED，最高12000nits，麒麟9035，50Mp潜望镜支持5cm长焦微距； Mate90 PM/RS都是18EV 50Mp超大底主摄+40Mp…",
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-05",
-      "time": "09:02",
-      "publishedAt": "2026-10-05T09:02:13.476Z",
+      "time": "19:17",
+      "publishedAt": "2026-10-05T19:17:43.714Z",
       "url": "https://weibo.com/6048569942/RkuQYC8En",
       "image": "",
       "summary": "摸了一下昨天 iQOO16 首销数据，竟然是近期已发安卓旗舰中的单品销量TOP1。 目前在狗猫抖三大电商平台的总销量是下半年安卓旗舰首销TOP1，而且是一杯打其它所有厂商的多杯组合，还几乎全打赢了……[哆啦A梦害怕]",
@@ -50,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-05",
-      "time": "09:02",
-      "publishedAt": "2026-10-05T09:02:13.476Z",
+      "time": "19:17",
+      "publishedAt": "2026-10-05T19:17:43.714Z",
       "url": "https://weibo.com/6048569942/RkuyMxv05",
       "image": "",
       "summary": "耀子年底还有一堆新机，荣耀700 Pro系列有原生背屏，主打2亿超清影像。中端线还有X新品，7英寸大屏+超万级大电池，阔折叠加速中，阔直板也立项了，支持卷起来[二哈]",
@@ -59,6 +59,426 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "微博"
+      ]
+    },
+    {
+      "id": "auto-2de29d317a5a",
+      "title": "Looking ahead to the Pixel 12? Early leak talks display upgrades and more",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-10-05",
+      "time": "17:30",
+      "publishedAt": "2026-10-05T17:30:13.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/it-looks-like-the-pixel-12-is-on-the-way-early-leak-talks-supposed-display-upgrades",
+      "image": "https://cdn.mos.cms.futurecdn.net/PDf6r9UNvxSVY3iM4A9qWh-1920-80.jpg",
+      "summary": "Almost a year later, another Pixel 12 rumor surfaces as Google's model numbers and purported \"screen resolution\" upgrades get highlighted.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-65c7d77481e2",
+      "title": "Galaxy Z Fold 8 is the wobbliest phone I’ve ever used, and the solution looks painfully obvious",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-05",
+      "time": "16:30",
+      "publishedAt": "2026-10-05T16:30:00.000Z",
+      "url": "https://www.sammobile.com/opinion/galaxy-z-fold-8-wobbliest-phone-i-ever-used-solution-obvious/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Samsung-Galaxy-S27-Ultra-Design-Final-CAD-Render-Black.jpg",
+      "summary": "The Galaxy Z Fold 8 quickly became my favorite phone ever, but that doesn't mean it's perfect. In fact, it very much feels like a first-gen device in several areas. Some of those…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-80ff87ce2ec6",
+      "title": "Leaked Galaxy S27 Ultra color list doesn’t include Purple, for a change",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-05",
+      "time": "16:24",
+      "publishedAt": "2026-10-05T16:24:47.000Z",
+      "url": "https://9to5google.com/2026/10/05/galaxy-s27-ultra-colors-leaked/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/galaxy-s27-pro-leak-onl-1.webp?w=1600",
+      "summary": "There’s very little left of the Galaxy S27 Ultra left to surface before launch, but new information might change what to expect in Samsung’s device color options. more…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6a44761b4bb5",
+      "title": "iPhone 13 Pro vs. iPhone 18 Pro Buyer's Guide: Is It Worth Upgrading?",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-05",
+      "time": "15:58",
+      "publishedAt": "2026-10-05T15:58:56.000Z",
+      "url": "https://www.macrumors.com/guide/iphone-13-pro-vs-18-pro/",
+      "image": "https://images.macrumors.com/article-new/2026/10/iphone-13-pro-vs-iphone-18-pro.jpg",
+      "summary": "Apple released the iPhone 18 Pro and iPhone 18 Pro Max in September 2026, five years after the iPhone 13 Pro and iPhone 13 Pro Max. The 2021 models introduced ProMotion displays,…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2671ba31ddae",
+      "title": "Honor’s Galaxy Z Fold 8 and iPhone Duo rival is reportedly launching in January",
+      "source": "9to5Google",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-05",
+      "time": "15:40",
+      "publishedAt": "2026-10-05T15:40:00.000Z",
+      "url": "https://9to5google.com/2026/10/05/honor-wide-galaxy-z-fold-8-rival-leak/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/9to5-award-honor-magic-v6-1.jpg?quality=82&strip=all&w=1600",
+      "summary": "Honor’s first wide-format foldable is apparently coming in January, leaks suggest, to take on the Galaxy Z Fold 8 and iPhone Duo. more…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-78a3a6d49126",
+      "title": "The Galaxy S27 Ultra may charge faster than the S26 Ultra despite the same 60W limit",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-05",
+      "time": "14:50",
+      "publishedAt": "2026-10-05T14:50:10.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s27-ultra-may-charge-faster-than-s26-ultra-despite-the-same-60w-limit/",
+      "image": "",
+      "summary": "The Galaxy S26 Ultra was the first Ultra model in years to benefit from a significant battery upgrade, which could mean that the upcoming Galaxy S27 Ultra won't try to raise the b…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a49fb01a0206",
+      "title": "Pixel 12 series leak allegedly reveals model numbers, display specs, no wide Fold",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-05",
+      "time": "13:45",
+      "publishedAt": "2026-10-05T13:45:00.000Z",
+      "url": "https://9to5google.com/2026/10/05/google-pixel-12-model-number-display-spec-leak/",
+      "image": "",
+      "summary": "Google’s Pixel 11 series has only been around for a few months now, but Pixel 12 leaks are already surfacing with some key display specs and confirmation of a familiar Fold. more…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c4d61d80cd37",
+      "title": "消息称三星 Galaxy S27 Ultra 手机将提供“罗兰紫”特殊配色，预计作为官网专属颜色提供",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-05",
+      "time": "12:56",
+      "publishedAt": "2026-10-05T12:56:31.000Z",
+      "url": "https://www.ithome.com/1/009/871.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/1bff436c-1b8a-41ee-b4f8-0f504e96d9b3.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 5 日消息，消息源 @i冰宇宙 发文，透露三星 Galaxy S27 Ultra 除了提供蓝色、黑色、浅粉色、白色四款基础配色可选，同时还拥有一款“罗兰紫”特殊配色，预计该配色可能作为三星官网专属配色提供。 此前消息显示，三星 Galaxy S27 系列手机预计将在 2027 年初正式发布，其中 Pro 和 Ultra 机型都将配备 P…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5bdb1557ff44",
+      "title": "Galaxy S27 Ultra colors leak, and Samsung could be breaking up with purple (Update: Special color)",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-05",
+      "time": "12:50",
+      "publishedAt": "2026-10-05T12:50:45.000Z",
+      "url": "https://www.androidauthority.com/galaxy-s27-ultra-colors-leak-3719062/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Exclusive-Samsung-Galaxy-S27-Ultra-AH-3.jpg.webp",
+      "summary": "Samsung may be picking a color it hasn't used directly on the Ultra for ages.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-be4faea1ad49",
+      "title": "The Galaxy S27 Pro could have bad news for Snapdragon fans",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-05",
+      "time": "12:38",
+      "publishedAt": "2026-10-05T12:38:20.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s27-pro-exynos-3719108/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/Samsung-Galaxy-S26-series-showing-backs.jpg",
+      "summary": "Is this still a Pro phone with Exynos power?",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-08d0d4c94d45",
+      "title": "珠海拱北海关查获旅客人身绑藏旧手机 79 台",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-05",
+      "time": "12:25",
+      "publishedAt": "2026-10-05T12:25:50.000Z",
+      "url": "https://www.ithome.com/1/009/868.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/b8cdddf8-ac06-4026-97a6-57ff8d63e98e.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 5 日消息，据“海关发布”公众号，拱北海关所属港珠澳大桥海关 9 月 4 日在进境随车厅查获 2 名旅客人身绑藏走私旧手机 79 台。 ▲ 图源“海关发布”公众号（下同） 当日 23 时许，海关关员在进境随车厅监管时，发现两名推着婴儿车的旅客步伐沉重、行为异常，存在人身绑藏走私物品嫌疑。经询问，婴儿车内为旅客自己的孩子，随后关员从两人腰…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-15f568b43ad1",
+      "title": "三星 Galaxy S27 Ultra 基础颜色选项曝光：黑色、蓝色、浅粉色、白色",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-05",
+      "time": "12:23",
+      "publishedAt": "2026-10-05T12:23:38.000Z",
+      "url": "https://www.ithome.com/1/009/867.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/0a4cbb6c-d58c-4e71-b30b-18268c61af5e.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 5 日消息，博主 @i冰宇宙 今日曝光三星 Galaxy S27 Ultra 基础颜色选项，分别为黑色、蓝色、浅粉色、白色。 三星 Galaxy S27 系列预计将包含 4 款机型，分别为 6.27 英寸的 Galaxy S27、6.66 英寸的 Galaxy S27+、6.47 英寸的 Galaxy S27 Pro 以及 6.89 英…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-cb7201e629be",
+      "title": "The Pixel 11's Vanilla camera look finally fixed what Google broke years ago",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-05",
+      "time": "12:00",
+      "publishedAt": "2026-10-05T12:00:10.000Z",
+      "url": "https://www.androidpolice.com/pixel-11-vanilla-vs-original-camera-look/",
+      "image": "",
+      "summary": "Cold photos are not for me",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8b17e0a7e644",
+      "title": "Samsung Galaxy S27 Ultra leak reveals four rumored color options",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-10-05",
+      "time": "11:53",
+      "publishedAt": "2026-10-05T11:53:19.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-s27-ultra-leak-reveals-four-rumored-color-options",
+      "image": "https://cdn.mos.cms.futurecdn.net/KNutiXWqfhzqfkgLWYfLeL-1920-80.jpg",
+      "summary": "Samsung is apparently getting ready to paint the Galaxy S27 Ultra in four standard shades, including one that's previously a Samsung store-exclusive.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-bbc97706e8c6",
+      "title": "三星 W27 心系天下折叠屏手机发布会预计 10 月 29 日举行，线下已开启预定",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-05",
+      "time": "11:33",
+      "publishedAt": "2026-10-05T11:33:38.000Z",
+      "url": "https://www.ithome.com/1/009/863.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/899616c5-7d62-49e7-b869-7bdbb7ebcba1.jpg",
+      "summary": "IT之家 10 月 5 日消息，今日，有三星授权体验店发布预告，心系天下 W27 新品发布会将于 10 月 29 日举行。 消息显示，新机预计将于 11 月 5 日开启首批门店取机，高端旗舰折叠现开启优先预定。预交订金锁定首批现货，优先选配色，名额有限，先订先得。 按照以往惯例，三星 W27 心系天下手机预计 基于 Galaxy Z Fold8 系列手机打…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c653dd199f30",
+      "title": "Some iPhone 18 Pro Max units are losing cell service, but the good news is you get a new phone (again)",
+      "source": "Android Authority",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-05",
+      "time": "10:58",
+      "publishedAt": "2026-10-05T10:58:43.000Z",
+      "url": "https://www.androidauthority.com/apple-iphone-18-pro-max-att-cellular-issues-3719002/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Apple-iPhone-18-Pro-Max-in-Burgundy-showing-smaller-Dynamic-Island.jpg",
+      "summary": "Apple has already rolled out a bug fixing update to prevent other iPhone 18 Pro Max models from being impacted.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8158aa4a0e04",
+      "title": "iPhone Duo Makes Focus Modes Easier to Toggle From the Lock Screen",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-05",
+      "time": "10:18",
+      "publishedAt": "2026-10-05T10:18:54.000Z",
+      "url": "https://www.macrumors.com/2026/10/05/iphone-duo-focus-modes-easier-toggle-lock-screen/",
+      "image": "https://images.macrumors.com/article-new/2026/10/focus-mode-iphone-duo@2x-scaled.jpg",
+      "summary": "Code explorer pdfu has shared a new feature tidbit for the upcoming iPhone Duo. Apple is reportedly introducing new Focus mode controls on the device's Lock Screen. When a Focus m…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-50b7ae5d5e1f",
+      "title": "5 Android phones you should buy instead of the iPhone 18 Pro Max",
+      "source": "Android Authority",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-05",
+      "time": "10:00",
+      "publishedAt": "2026-10-05T10:00:13.000Z",
+      "url": "https://www.androidauthority.com/iphone-18-pro-max-android-alternatives-3717855/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Apple-iPhone-18-Pro-Max-in-Burgundy.jpg",
+      "summary": "Apple isn't the only tempting option.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f29b4b0a0ef2",
+      "title": "This Android flagship won our best iPhone 18 Pro alternative survey by a landslide",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-05",
+      "time": "09:20",
+      "publishedAt": "2026-10-05T09:20:17.000Z",
+      "url": "https://www.androidauthority.com/best-iphone-18-pro-alternative-poll-results-3718944/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Apple-iPhone-18-Pro-in-Glacier-Blue.jpg",
+      "summary": "The latest Pixel plays second fiddle to its biggest Android rival.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d223d93cd9d7",
+      "title": "Today Marks the 15th Anniversary of Steve Jobs' Death",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-05",
+      "time": "09:12",
+      "publishedAt": "2026-10-05T09:12:23.000Z",
+      "url": "https://www.macrumors.com/2026/10/05/today-15th-anniversary-steve-jobs-death/",
+      "image": "https://images.macrumors.com/article-new/2026/10/steve-jobs-2010-iphone-4.jpg",
+      "summary": "15 years ago today, Steve Jobs passed away from pancreatic cancer at the age of 56. It was the day after Apple executives introduced the iPhone 4s at a media event on the company'…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ce510c767d43",
+      "title": "I love the Pixel 11 Pro, but Google has 3 big problems to fix for the Pixel 12 Pro",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-05",
+      "time": "09:00",
+      "publishedAt": "2026-10-05T09:00:13.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-pro-problems-google-needs-fix-pixel-12-pro-3717405/",
+      "image": "",
+      "summary": "Google, this is what you need to do.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -123,7 +543,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "auto-fea27663a0d6",
-      "title": "Here’s why Xiaomi 18 Ultra got cancelled, and what it could’ve been",
+      "title": "Cancelled Xiaomi 18 Ultra specs leak: it had three 200MP cameras",
       "source": "Gizmochina",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
@@ -202,26 +622,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-c7c4de9c1957",
-      "title": "Samsung raises prices of cheaper Galaxy phones in the US",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-05",
-      "time": "06:22",
-      "publishedAt": "2026-10-05T06:22:36.000Z",
-      "url": "https://www.sammobile.com/news/cheaper-galaxy-phones-price-hiked-usa/",
-      "image": "",
-      "summary": "Buying phones and other consumer electronics has become substantially more expensive this year. Last week, Samsung raised prices of its high-end phones, including the Galaxy S26.…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-cf5b402ad822",
       "title": "iPhone 18 Pro vs Xiaomi 18 Pro: Xiaomi Has One Huge Advantage",
       "source": "Gizmochina",
@@ -263,7 +663,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-16fa03676b7b",
-      "title": "竹本青：【vivo Y600k Turbo 官网开售：骁龙7s Gen4处理器，12+256GB售价2799元】 12+2…",
+      "title": "竹本青：vivo Y600k Turbo开售：骁龙7s Gen4，2799元",
       "source": "竹本青",
       "brand": "vivo",
       "model": "vivo 相关机型",
@@ -482,59 +882,19 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-bbceddc2e5fd",
-      "title": "iPhone 18 Pro系列W39国内销量曝光：累计约176万台",
+      "id": "newsnow-cf3587f8a8cd",
+      "title": "刚下后夜班，脱工服的时候蹭得满手机油味，我蹲在宿舍楼道的台阶上吹冷风，指尖夹着的五块钱烟烧到了滤嘴都没察觉。",
       "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-05",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74157969",
+      "url": "https://www.coolapk.com/feed/74173316",
       "image": "",
-      "summary": "iPhone 18 Pro系列W39国内销量曝光：累计约176万台",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-74b323204f90",
-      "title": "曝9999元旗舰手机被砍",
-      "source": "微博热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-10-05",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%E6%9B%9D9999%E5%85%83%E6%97%97%E8%88%B0%E6%89%8B%E6%9C%BA%E8%A2%AB%E7%A0%8D&t=31&band_rank=26&Refer=top",
-      "image": "",
-      "summary": "曝9999元旗舰手机被砍",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-49447a0009fa",
-      "title": "别人都活力四射 只有我在倒立玩手机",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-05",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E5%88%AB%E4%BA%BA%E9%83%BD%E6%B4%BB%E5%8A%9B%E5%9B%9B%E5%B0%84+%E5%8F%AA%E6%9C%89%E6%88%91%E5%9C%A8%E5%80%92%E7%AB%8B%E7%8E%A9%E6%89%8B%E6%9C%BA",
-      "image": "",
-      "summary": "别人都活力四射 只有我在倒立玩手机",
+      "summary": "刚下后夜班，脱工服的时候蹭得满手机油味，我蹲在宿舍楼道的台阶上吹冷风，指尖夹着的五块钱烟烧到了滤嘴都没察觉。",
       "tags": [
         "行业",
         "爆料",
@@ -579,26 +939,6 @@ window.phoneRadarAuto = {
         "vivo",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-7f81313e7218",
-      "title": "竹本青：【华为余承东详解 麒麟9050系列芯片：运用逻辑折叠技术，性能全面提升】 ● 逻辑折叠韬芯片： 麒麟9050（Ma…",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-04",
-      "time": "15:06",
-      "publishedAt": "2026-10-04T15:06:03.000Z",
-      "url": "https://www.coolapk.com/feed/74164962",
-      "image": "http://image.coolapk.com/feed/2026/1004/23/4248714_aa170900_6205_4281_142-livepic@1080x1920.jpg",
-      "summary": "【华为余承东详解 麒麟9050系列芯片：运用逻辑折叠技术，性能全面提升】 ● 逻辑折叠韬芯片： 麒麟9050（Mate90 Pro Max 12G） 麒麟9050 Pro（Mate90 Pro Max 16G／典藏版、Mate90 RS非凡大师） 10月4日，华为高管余承东发布视频，详解麒麟9050系列芯片技术。 他指出，传统芯片长期依靠缩小晶体管尺寸提升…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
