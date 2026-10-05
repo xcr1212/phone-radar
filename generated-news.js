@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-05T00:54:38.962Z",
+  "updatedAt": "2026-10-05T09:02:13.476Z",
   "news": [
     {
       "id": "weibo-f7e4d6168a26",
@@ -10,8 +10,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-05",
-      "time": "00:54",
-      "publishedAt": "2026-10-05T00:54:38.962Z",
+      "time": "09:02",
+      "publishedAt": "2026-10-05T09:02:13.476Z",
       "url": "https://weibo.com/6048569942/Rkw3lCtbI",
       "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ihltiohha9j30zc3s9npd.jpg",
       "summary": "华为Mate90系列明天发布，猜猜价格吧： 补充一些信息，Mate90是6600mAh电池+66W(100W)快充，50Mp可变光圈高动态大底主摄，50Mp聚光长焦，麒麟9030； Mate90 Pro是双层OLED，最高12000nits，麒麟9035，50Mp潜望镜支持5cm长焦微距； Mate90 PM/RS都是18EV 50Mp超大底主摄+40Mp…",
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-05",
-      "time": "00:54",
-      "publishedAt": "2026-10-05T00:54:38.962Z",
+      "time": "09:02",
+      "publishedAt": "2026-10-05T09:02:13.476Z",
       "url": "https://weibo.com/6048569942/RkuQYC8En",
       "image": "",
       "summary": "摸了一下昨天 iQOO16 首销数据，竟然是近期已发安卓旗舰中的单品销量TOP1。 目前在狗猫抖三大电商平台的总销量是下半年安卓旗舰首销TOP1，而且是一杯打其它所有厂商的多杯组合，还几乎全打赢了……[哆啦A梦害怕]",
@@ -50,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-05",
-      "time": "00:54",
-      "publishedAt": "2026-10-05T00:54:38.962Z",
+      "time": "09:02",
+      "publishedAt": "2026-10-05T09:02:13.476Z",
       "url": "https://weibo.com/6048569942/RkuyMxv05",
       "image": "",
       "summary": "耀子年底还有一堆新机，荣耀700 Pro系列有原生背屏，主打2亿超清影像。中端线还有X新品，7英寸大屏+超万级大电池，阔折叠加速中，阔直板也立项了，支持卷起来[二哈]",
@@ -62,19 +62,279 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "weibo-12420d2a04d8",
-      "title": "数码闲聊站：子系红加裤最近都有中端线新机入网，估计10月前后还有一波大乱斗，预计可以见到万…",
+      "id": "auto-c3045600ab35",
+      "title": "This ‘Ultra’ flagship looked like a spec monster, but no one will be able to buy it",
+      "source": "Android Authority",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-05",
+      "time": "08:49",
+      "publishedAt": "2026-10-05T08:49:43.000Z",
+      "url": "https://www.androidauthority.com/xiaomi-18-ultra-specs-price-leak-phone-canceled-3718980/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xiaomi-18-Pro-and-18-Pro-Max-China-launch.jpg",
+      "summary": "Xiaomi seemingly canceled the Xiaomi 18 Ultra because it would be too expensive.",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9ea89cb4215d",
+      "title": "2027 款玛莎拉蒂 Mcpura 车型上市：提供硬顶 / 敞篷双版本，237 万元起",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-05",
+      "time": "08:45",
+      "publishedAt": "2026-10-05T08:45:57.000Z",
+      "url": "https://www.ithome.com/1/009/843.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/c6a23f68-f69e-4eca-8cdf-25eae3263367.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 5 日消息，玛莎拉蒂宣布旗下 2027 款 Mcpura 车型正式上市，共推出硬顶版（Coupe）和敞篷版（Cielo）两款车型，售价分别为 237 万元和 270 万元。 该车提供神秘灰、隐秘灰、纯粹黑、冰川皓白、无界曜蓝、烈焰红、绝尘黄、皇家绿、灵动黑、魔力橙配色。前脸采用了与 GT2 赛车相同的设计语言，整个单体壳由碳纤维和复合材…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-53941eccad30",
+      "title": "Xiaomi 18 Pro Max vs Honor Magic9 Pro Max: The $250 Price Gap Changes Everything",
+      "source": "Gizmochina",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-05",
+      "time": "08:40",
+      "publishedAt": "2026-10-05T08:40:25.000Z",
+      "url": "https://www.gizmochina.com/2026/10/05/xiaomi-18-pro-max-vs-honor-magic9-pro-max/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/image-9-300x167.png?x96852",
+      "summary": "Xiaomi 18 Pro Max and Honor Magic9 Pro Max bring flagship power, advanced cameras, and huge batteries, but take very different approaches. Xiaomi stands out with Leica cameras and…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fea27663a0d6",
+      "title": "Here’s why Xiaomi 18 Ultra got cancelled, and what it could’ve been",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-05",
+      "time": "08:32",
+      "publishedAt": "2026-10-05T08:32:01.000Z",
+      "url": "https://www.gizmochina.com/2026/10/05/heres-why-xiaomi-18-ultra-got-cancelled-and-what-it-couldve-been/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/01/G_rGZSFbkAA2jAs-300x244.jpg?x96852",
+      "summary": "It was rumored back in August that Xiaomi decided to cancel the Xiaomi 18 Ultra from its latest flagship lineup. Today, we have a new claim from a prolific tipster to corroborate…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6a7428dd96d1",
+      "title": "Xiaomi 18 Pro Max vs Vivo X500 Pro Max: One Flagship Wins by a Huge Margin",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-05",
+      "time": "08:05",
+      "publishedAt": "2026-10-05T08:05:23.000Z",
+      "url": "https://www.gizmochina.com/2026/10/05/xiaomi-18-pro-max-vs-vivo-x500-pro-max/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/image-8-300x165.png?x96852",
+      "summary": "Xiaomi 18 Pro Max and Vivo X500 Pro Max target buyers who want a no-compromise Android flagship, but they take different routes to get there. Xiaomi emphasizes extreme performance…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-230306c4bf46",
+      "title": "Google Maps has become nearly unusable for some Pixel 11 users on Android Auto",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-05",
+      "time": "07:38",
+      "publishedAt": "2026-10-05T07:38:58.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-google-maps-android-auto-bug-3718880/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/10/android-auto-guidance-audio-google-maps-1.jpg",
+      "summary": "Maps can flicker, freeze, or fall behind while the rest of Android Auto keeps working.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6c3b914e07a2",
+      "title": "iPhone 18 Pro vs Galaxy S26 Ultra: Specs, Camera, Battery and Price Compared",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-05",
+      "time": "07:28",
+      "publishedAt": "2026-10-05T07:28:03.000Z",
+      "url": "https://www.gizmochina.com/2026/10/05/iphone-18-pro-vs-galaxy-s26-ultra/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/image-7-300x161.png?x96852",
+      "summary": "iPhone 18 Pro and Galaxy S26 Ultra represent two very different approaches to the premium smartphone. Apple focuses on a compact flagship experience, camera consistency, and deep…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c7c4de9c1957",
+      "title": "Samsung raises prices of cheaper Galaxy phones in the US",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-05",
+      "time": "06:22",
+      "publishedAt": "2026-10-05T06:22:36.000Z",
+      "url": "https://www.sammobile.com/news/cheaper-galaxy-phones-price-hiked-usa/",
+      "image": "",
+      "summary": "Buying phones and other consumer electronics has become substantially more expensive this year. Last week, Samsung raised prices of its high-end phones, including the Galaxy S26.…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-cf5b402ad822",
+      "title": "iPhone 18 Pro vs Xiaomi 18 Pro: Xiaomi Has One Huge Advantage",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-05",
+      "time": "05:33",
+      "publishedAt": "2026-10-05T05:33:33.000Z",
+      "url": "https://www.gizmochina.com/2026/10/05/iphone-18-pro-vs-xiaomi-18-pro/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/image-6-300x165.png?x96852",
+      "summary": "iPhone 18 Pro and Xiaomi 18 Pro take very different approaches to the premium smartphone market. Apple focuses on polished software, video capabilities, and a mature camera system…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-61fed5a84012",
+      "title": "Fitbit Edge leaks in photos as Google’s screen-equipped tracker that works with iPhone",
+      "source": "Gizmochina",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-05",
+      "time": "05:33",
+      "publishedAt": "2026-10-05T05:33:08.000Z",
+      "url": "https://www.gizmochina.com/2026/10/05/fitbit-edge-leaks-in-photos-as-googles-screen-equipped-tracker-that-works-with-iphone/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Google-Fitbit-Edge-Leak-300x200.jpg?x96852",
+      "summary": "Google could soon have a new Fitbit tracker, and this one looks like a successor to the Charge series. It’s called the Fitbit Edge, according to Android Headlines, and it has a sm…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-16fa03676b7b",
+      "title": "竹本青：【vivo Y600k Turbo 官网开售：骁龙7s Gen4处理器，12+256GB售价2799元】 12+2…",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-05",
+      "time": "05:13",
+      "publishedAt": "2026-10-05T05:13:50.000Z",
+      "url": "https://www.coolapk.com/feed/74173018",
+      "image": "http://image.coolapk.com/feed/2026/1005/13/4248714_44519452_7229_5011_93@1440x1046.jpg",
+      "summary": "【vivo Y600k Turbo 官网开售：骁龙7s Gen4处理器，12+256GB售价2799元】 12+256GB —— 2799元 ● 6.83\"1.5K 120Hz OLED直屏 ● 骁龙7s Gen4处理器 ● LPDDR4X+UFS 3.1 ● 9020mAh电池+90W有线 ● 屏幕： 分辨率2800*1260｜PPI 449 全局200…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-5dd961bfdc75",
+      "title": "竹本青：iQOO16首销情况曝光：同期约为上代的50%",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-05",
+      "time": "04:47",
+      "publishedAt": "2026-10-05T04:47:58.000Z",
+      "url": "https://www.coolapk.com/feed/74172647",
+      "image": "http://image.coolapk.com/feed/2026/1005/12/4248714_c7b26675_5677_2421_188@1440x1025.jpg",
+      "summary": "【iQOO 16 首销情况曝光：同期约为上代的50%，上上代的100%】 10月5日，博主「RD观测」披露第三方统计的iQOO 16首销情况。以首销当天（20:30开售）+后三天为标准，该机市场表现如下： ● 上代iQOO 15 的50% ● 上上代iQOO 13 的100% 博主补充称，如果不出意外，后面所有机型的首销期数据都按照首销当日+后三天统计，且…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-e96540164e6a",
+      "title": "iQOO 16 global launch gets a major hint with new Geekbench listing",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-05",
+      "time": "03:42",
+      "publishedAt": "2026-10-05T03:42:27.000Z",
+      "url": "https://www.gizmochina.com/2026/10/05/iqoo-16-global-variant-geekbench/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/iQOO-16-launch-date--300x169.jpg?x96852",
+      "summary": "Reports suggest that OnePlus may not launch the OnePlus 16 in global markets, despite the phone being scheduled to debut in China this month. Its closest rival, the iQOO 16, which…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-a68d21582256",
+      "title": "数码闲聊站：严肃摸新机中！ 摸到了两家两款万级大电池性能机，一个定位中端，7英寸2K超高刷…",
       "source": "数码闲聊站",
       "brand": "行业",
       "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-05",
-      "time": "00:54",
-      "publishedAt": "2026-10-05T00:54:38.962Z",
-      "url": "https://weibo.com/6048569942/RksQeu5Cp",
+      "time": "02:41",
+      "publishedAt": "2026-10-05T02:41:10.000Z",
+      "url": "https://weibo.com/6048569942/Rlezv4ZVg",
       "image": "",
-      "summary": "子系红加裤最近都有中端线新机入网，估计10月前后还有一波大乱斗，预计可以见到万级大电池、超大主动散热风扇、2K大直屏等……[流鼻血]",
+      "summary": "严肃摸新机中！ 摸到了两家两款万级大电池性能机，一个定位中端，7英寸2K超高刷大直屏；一个定位旗舰，2K超高刷大直屏是四等边，边框＜1mm……[流鼻血]",
       "tags": [
         "行业",
         "爆料",
@@ -182,101 +442,101 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-ca10d8214cc8",
-      "title": "赶快去缓存，极客湾评测华为这视频不晓得可以活多久[受虐滑稽]#华为Mate90ProMax# #小米18Pro# #iPhone18ProMax#",
+      "id": "newsnow-2c609e9926d7",
+      "title": "能不能官方投诉线下门店的，送的礼盒拿个 pdd 手机壳放进去给我。气炸了。",
       "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-05",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74120877",
-      "image": "",
-      "summary": "赶快去缓存，极客湾评测华为这视频不晓得可以活多久[受虐滑稽]#华为Mate90ProMax# #小米18Pro# #iPhone18ProMax#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-dc2f196bd678",
-      "title": "啊哈，中招了啊，vivo产品是不是在虚假宣传？纯纯欺骗消费者啊？挂羊头卖狗肉，硬盘连一半都都没用，手机充满电重启之后，测试依旧垃圾，钻石会员也花了不少钱了，给我整这个。 #OriginOS6# #OriginOS7# #数码日常#",
-      "source": "酷安热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-05",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74150020",
-      "image": "",
-      "summary": "啊哈，中招了啊，vivo产品是不是在虚假宣传？纯纯欺骗消费者啊？挂羊头卖狗肉，硬盘连一半都都没用，手机充满电重启之后，测试依旧垃圾，钻石会员也花了不少钱了，给我整这个。 #OriginOS6# #OriginOS7# #数码日常#",
-      "tags": [
-        "vivo",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-65a7197d63a4",
-      "title": "苹果确认部分美版iPhone 18 Pro Max出现蜂窝网络故障",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-05",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74140030",
-      "image": "",
-      "summary": "苹果确认部分美版iPhone 18 Pro Max出现蜂窝网络故障",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-868effe9923f",
-      "title": "如何评价上海一音乐教师赴泰后失联多日，手机 IP 曾显示在缅甸？目前情况如何？",
-      "source": "知乎热榜",
       "brand": "行业",
       "model": "智能手机市场",
-      "type": "市场报告",
-      "trust": "媒体汇总",
+      "type": "爆料",
+      "trust": "高关注爆料源",
       "date": "2026-10-05",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2089658031193773369",
+      "url": "https://www.coolapk.com/feed/74163561",
       "image": "",
-      "summary": "如何评价上海一音乐教师赴泰后失联多日，手机 IP 曾显示在缅甸？目前情况如何？",
+      "summary": "能不能官方投诉线下门店的，送的礼盒拿个 pdd 手机壳放进去给我。气炸了。",
       "tags": [
         "行业",
-        "市场报告",
+        "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-631fec356074",
-      "title": "苹果将为受影响用户免费更换新机",
-      "source": "今日头条热榜",
+      "id": "newsnow-e6769502c052",
+      "title": "刚才打电话问保值换新到货情况，销售原话“RS太麻烦了，大家都不想卖”，接电话的小伙子对我一顿冷嘲热讽，我说等会我去你们门店找你们店长，他说我们店长这几天不上班你来了也白来，我已经气炸了我把通话录音反馈给华为客服了，也打电话投诉了，我等会去门店要他的工号把录音给他店长听，连门店一块投诉了[发怒]。#鸿蒙7# #华为Mate90ProMax# #荣耀Magic9ProMax#",
+      "source": "酷安热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-05",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74155821",
+      "image": "",
+      "summary": "刚才打电话问保值换新到货情况，销售原话“RS太麻烦了，大家都不想卖”，接电话的小伙子对我一顿冷嘲热讽，我说等会我去你们门店找你们店长，他说我们店长这几天不上班你来了也白来，我已经气炸了我把通话录音反馈给华为客服了，也打电话投诉了，我等会去门店要他的工号把录音给他店长听，连门店一块投诉了[发怒]。#鸿蒙7# #华为Mate90ProMax# #荣耀Magic…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-bbceddc2e5fd",
+      "title": "iPhone 18 Pro系列W39国内销量曝光：累计约176万台",
+      "source": "酷安热榜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-05",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74157969",
+      "image": "",
+      "summary": "iPhone 18 Pro系列W39国内销量曝光：累计约176万台",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-74b323204f90",
+      "title": "曝9999元旗舰手机被砍",
+      "source": "微博热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-10-05",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%E6%9B%9D9999%E5%85%83%E6%97%97%E8%88%B0%E6%89%8B%E6%9C%BA%E8%A2%AB%E7%A0%8D&t=31&band_rank=26&Refer=top",
+      "image": "",
+      "summary": "曝9999元旗舰手机被砍",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-49447a0009fa",
+      "title": "别人都活力四射 只有我在倒立玩手机",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-10-05",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7691648678775475748/",
+      "url": "https://www.baidu.com/s?wd=%E5%88%AB%E4%BA%BA%E9%83%BD%E6%B4%BB%E5%8A%9B%E5%9B%9B%E5%B0%84+%E5%8F%AA%E6%9C%89%E6%88%91%E5%9C%A8%E5%80%92%E7%AB%8B%E7%8E%A9%E6%89%8B%E6%9C%BA",
       "image": "",
-      "summary": "苹果将为受影响用户免费更换新机",
+      "summary": "别人都活力四射 只有我在倒立玩手机",
       "tags": [
-        "iPhone",
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -502,26 +762,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-cf777f3a890c",
-      "title": "消息称苹果 iPhone 18 Pro 系列 W39 国内累计销量 176 万台",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-04",
-      "time": "07:56",
-      "publishedAt": "2026-10-04T07:56:58.000Z",
-      "url": "https://www.ithome.com/1/009/662.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/7d88487b-aeb6-4e68-a263-9f14a68e3cb6.png",
-      "summary": "IT之家 10 月 4 日消息，博主 @数码闲聊站 今日爆料，苹果 iPhone 18 Pro 系列 W39 周累计销量 176 万台（预计指国内），根据国庆期间的走势，W40 预估累计销量超 250 万台，两款机型均轻松完成单品激活 100 万台。 IT之家注意到，W39 指的是 2026 年的 第 39 个自然周 ，也就是 9 月 21 日到 9 月…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-c3c81da6bc09",
       "title": "Honor X5ds launches with a rear touchscreen and 6,000mAh battery in the budget segment",
       "source": "Gizmochina",
@@ -599,26 +839,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "coolapk-user-f096de6f4cea",
-      "title": "竹本青：【“米OV”三家旗舰 首销周激活量曝光：小米18 Pro系列破20万，超另外两家之合】 10月4日，博主数码闲聊站…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-04",
-      "time": "03:33",
-      "publishedAt": "2026-10-04T03:33:35.000Z",
-      "url": "https://www.coolapk.com/feed/74153300",
-      "image": "http://image.coolapk.com/feed/2026/1004/12/4248714_355293e8_6441_1279_382@2515x3296.jpg",
-      "summary": "【“米OV”三家旗舰 首销周激活量曝光：小米18 Pro系列破20万，超另外两家之合】 10月4日，博主数码闲聊站发布数据，曝光小米、OPPO、vivo三大安卓品牌旗舰系列的首销周（9.21-9.27）激活量： ● 小米18 Pro系列：20.3万台± ● OPPO Find X10系列：10.9万台± ● vivo X500/ Pro Max：8.1万台…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
       ]
     }
   ]
