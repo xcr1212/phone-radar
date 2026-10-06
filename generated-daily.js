@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-10-06T16:48:07.428Z",
+  "updatedAt": "2026-10-06T22:38:59.430Z",
   "issueDate": "2026-10-06",
   "issue": "VOL.261006",
   "title": "手机情报日报",
-  "intro": "今日筛出 15 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、3 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 13 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、2 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 15,
+    "total": 13,
     "iphone": 9,
     "leaks": 8,
-    "official": 3,
+    "official": 2,
     "specs": 0
   },
   "sections": [
@@ -17,6 +17,52 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "newsnow-4613bf1e7031",
+          "title": "今天去线下店摸了两分钟苹果18Promax，这就是高端旗舰手机的感觉吗？滑动起来太流畅了，而且握持手感也巨好。屏幕清晰度也是巨特么高[呲牙]",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-10-06",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/74176516",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "今天去线下店摸了两分钟苹果18Promax，这就是高端旗舰手机的感觉吗？滑动起来太流畅了，而且握持手感也巨好。屏幕清晰度也是巨特么高[呲牙]",
+          "detail": "今天去线下店摸了两分钟苹果18Promax，这就是高端旗舰手机的感觉吗？滑动起来太流畅了，而且握持手感也巨好。屏幕清晰度也是巨特么高[呲牙]",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-9fbbf8293eda",
+          "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-06",
+          "time": "19:59",
+          "publishedAt": "2026-10-06T19:59:42.000Z",
+          "url": "https://www.macrumors.com/2026/10/06/iphone-17-pro-charge-limit/",
+          "image": "https://images.macrumors.com/article-new/2025/08/iOS-26-Battery-Glass-Feature.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "电池 / 充电"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-ee8332434f58",
           "title": "iPhone 18 Pro 芯片 / 性能相关消息",
@@ -64,23 +110,23 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-0ddbb4824deb",
-          "title": "iPhone 18 Pro Max 系统功能 / AI 体验相关消息",
+          "id": "newsnow-c3d74856227b",
+          "title": "余承东回应苹果入局折叠屏",
           "originalTitle": "",
-          "source": "MacRumors",
+          "source": "今日头条热榜",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-10-05",
-          "time": "21:10",
-          "publishedAt": "2026-10-05T21:10:06.000Z",
-          "url": "https://www.macrumors.com/2026/10/05/apple-att-yet-to-share-cause-of-iphone-issue/",
-          "image": "https://images.macrumors.com/article-new/2026/10/ATT-Apple.jpg",
+          "date": "2026-10-06",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.toutiao.com/trending/7692460526345584691/",
+          "image": "",
           "verdict": "先看",
-          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
-          "detail": "iPhone 18 Pro Max 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "takeaway": "余承东回应苹果入局折叠屏",
+          "detail": "余承东回应苹果入局折叠屏",
           "keyPoints": [
-            "爆料来源"
+            "屏幕形态"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -145,8 +191,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-10-06",
-          "time": "16:48",
-          "publishedAt": "2026-10-06T16:48:07.428Z",
+          "time": "22:38",
+          "publishedAt": "2026-10-06T22:38:59.430Z",
           "url": "https://weibo.com/6048569942/Rkw3lCtbI",
           "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ihltiohha9j30zc3s9npd.jpg",
           "verdict": "先看",
@@ -161,54 +207,6 @@ window.phoneRadarDaily = {
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-e4a68fd30029",
-          "title": "数码闲聊站：摸了一下昨天 iQOO16 首销数据，竟然是近期已发安卓旗舰中的单品销量TOP…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-10-06",
-          "time": "16:48",
-          "publishedAt": "2026-10-06T16:48:07.428Z",
-          "url": "https://weibo.com/6048569942/RkuQYC8En",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "摸了一下昨天 iQOO16 首销数据，竟然是近期已发安卓旗舰中的单品销量TOP1。 目前在狗猫抖三大电商平台的总销量是下半年安卓旗舰首销TOP1，而且是一杯打其它所有厂商的多杯组合，还几乎全打赢了……[哆啦A梦害怕]",
-          "detail": "摸了一下昨天 iQOO16 首销数据，竟然是近期已发安卓旗舰中的单品销量TOP1。 目前在狗猫抖三大电商平台的总销量是下半年安卓旗舰首销TOP1，而且是一杯打其它所有厂商的多杯组合，还几乎全打赢了……[哆啦A梦害怕]",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-41b18bf8cfc0",
-          "title": "数码闲聊站：耀子年底还有一堆新机，荣耀700 Pro系列有原生背屏，主打2亿超清影像。中端…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-10-06",
-          "time": "16:48",
-          "publishedAt": "2026-10-06T16:48:07.428Z",
-          "url": "https://weibo.com/6048569942/RkuyMxv05",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "耀子年底还有一堆新机，荣耀700 Pro系列有原生背屏，主打2亿超清影像。中端线还有X新品，7英寸大屏+超万级大电池，阔折叠加速中，阔直板也立项了，支持卷起来[二哈]",
-          "detail": "耀子年底还有一堆新机，荣耀700 Pro系列有原生背屏，主打2亿超清影像。中端线还有X新品，7英寸大屏+超万级大电池，阔折叠加速中，阔直板也立项了，支持卷起来[二哈]",
-          "keyPoints": [
-            "影像硬件",
-            "电池 / 充电",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -217,29 +215,6 @@ window.phoneRadarDaily = {
       "title": "iPhone 重点",
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
-        {
-          "id": "auto-f88c473bc838",
-          "title": "iPhone 相关消息",
-          "originalTitle": "",
-          "source": "Apple Newsroom",
-          "brand": "iPhone",
-          "type": "官方",
-          "trust": "官方确认",
-          "date": "2026-10-06",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.apple.com/newsroom/2026/09/celebrating-what-holds-us-on-iphone-18-pro/",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "官方内容，可直接作为已确认信息记录。",
-          "impact": "影响拍照体验，买旗舰机时值得关注。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
         {
           "id": "auto-07e6d6658c80",
           "title": "iPhone 18 Pro 发布 / 上市相关消息",
@@ -288,29 +263,6 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-467a630bba0b",
-          "title": "刚看到iPhone18pro系列的销量信息，卖的太好了，感觉好心酸，今年这波集体涨价潮，一下子让安卓性价比低了很多，不涨又不行，结果就是让更多的人跑去买iPhone，其实也很好理解，价格相差能接受的情况下，选iPhone还是其他，相信绝大部分人的答案还是iPhone。",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-10-06",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/74162856",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "刚看到iPhone18pro系列的销量信息，卖的太好了，感觉好心酸，今年这波集体涨价潮，一下子让安卓性价比低了很多，不涨又不行，结果就是让更多的人跑去买iPhone，其实也很好理解，价格相差能接受的情况下，选iPhone还是其他，相信绝大部分人的答案还是iPhone。",
-          "detail": "刚看到iPhone18pro系列的销量信息，卖的太好了，感觉好心酸，今年这波集体涨价潮，一下子让安卓性价比低了很多，不涨又不行，结果就是让更多的人跑去买iPhone，其实也很好理解，价格相差能接受的情况下，选iPhone还是其他，相信绝大部分人的答案还是iPhone。",
-          "keyPoints": [
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
           "id": "auto-728bbee10ddb",
           "title": "iPhone 发布 / 上市相关消息",
           "originalTitle": "",
@@ -341,6 +293,29 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
+          "id": "newsnow-f0fff5716f43",
+          "title": "以阔换阔了[牛牛呲牙笑][牛牛呲牙笑]，用惯了只适应阔直板了，看样子以后只能用这种胖墩墩的手机了[流泪][流泪][流泪][流泪]#华为Mate90ProMax#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-10-06",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/74191864",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "以阔换阔了[牛牛呲牙笑][牛牛呲牙笑]，用惯了只适应阔直板了，看样子以后只能用这种胖墩墩的手机了[流泪][流泪][流泪][流泪]#华为Mate90ProMax#",
+          "detail": "以阔换阔了[牛牛呲牙笑][牛牛呲牙笑]，用惯了只适应阔直板了，看样子以后只能用这种胖墩墩的手机了[流泪][流泪][流泪][流泪]#华为Mate90ProMax#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "auto-6c3b914e07a2",
           "title": "iPhone 18 Pro 对比 Galaxy S26 Ultra：差异整理",
           "originalTitle": "",
@@ -363,29 +338,6 @@ window.phoneRadarDaily = {
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响购买预算，值得先看。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "auto-cf5b402ad822",
-          "title": "iPhone 18 Pro 对比 Xiaomi 18 Pro：差异整理",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-05",
-          "time": "05:33",
-          "publishedAt": "2026-10-05T05:33:33.000Z",
-          "url": "https://www.gizmochina.com/2026/10/05/iphone-18-pro-vs-xiaomi-18-pro/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/image-6-300x165.png?x96852",
-          "verdict": "扫一眼",
-          "takeaway": "iPhone 18 Pro 对比 Xiaomi 18 Pro：重点看定位、配置差异和价格差，判断是否值得等更高端型号。",
-          "detail": "iPhone 18 Pro 对比 Xiaomi 18 Pro 的差异整理。重点看两款机型的定位、影像规格、屏幕尺寸、价格区间和发布时间是否拉开差距。",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响拍照体验，买旗舰机时值得关注。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]

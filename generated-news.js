@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-06T16:48:07.428Z",
+  "updatedAt": "2026-10-06T22:38:59.430Z",
   "news": [
     {
       "id": "weibo-f7e4d6168a26",
@@ -10,8 +10,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-06",
-      "time": "16:48",
-      "publishedAt": "2026-10-06T16:48:07.428Z",
+      "time": "22:38",
+      "publishedAt": "2026-10-06T22:38:59.430Z",
       "url": "https://weibo.com/6048569942/Rkw3lCtbI",
       "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ihltiohha9j30zc3s9npd.jpg",
       "summary": "华为Mate90系列明天发布，猜猜价格吧： 补充一些信息，Mate90是6600mAh电池+66W(100W)快充，50Mp可变光圈高动态大底主摄，50Mp聚光长焦，麒麟9030； Mate90 Pro是双层OLED，最高12000nits，麒麟9035，50Mp潜望镜支持5cm长焦微距； Mate90 PM/RS都是18EV 50Mp超大底主摄+40Mp…",
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-06",
-      "time": "16:48",
-      "publishedAt": "2026-10-06T16:48:07.428Z",
+      "time": "22:38",
+      "publishedAt": "2026-10-06T22:38:59.430Z",
       "url": "https://weibo.com/6048569942/RkuQYC8En",
       "image": "",
       "summary": "摸了一下昨天 iQOO16 首销数据，竟然是近期已发安卓旗舰中的单品销量TOP1。 目前在狗猫抖三大电商平台的总销量是下半年安卓旗舰首销TOP1，而且是一杯打其它所有厂商的多杯组合，还几乎全打赢了……[哆啦A梦害怕]",
@@ -50,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-06",
-      "time": "16:48",
-      "publishedAt": "2026-10-06T16:48:07.428Z",
+      "time": "22:38",
+      "publishedAt": "2026-10-06T22:38:59.430Z",
       "url": "https://weibo.com/6048569942/RkuyMxv05",
       "image": "",
       "summary": "耀子年底还有一堆新机，荣耀700 Pro系列有原生背屏，主打2亿超清影像。中端线还有X新品，7英寸大屏+超万级大电池，阔折叠加速中，阔直板也立项了，支持卷起来[二哈]",
@@ -59,6 +59,106 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "微博"
+      ]
+    },
+    {
+      "id": "auto-b7d2b825cfe0",
+      "title": "Fall’s first Pixel update just landed, and it’s another end-of-the-road milestone",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-06",
+      "time": "21:17",
+      "publishedAt": "2026-10-06T21:17:49.000Z",
+      "url": "https://www.androidauthority.com/october-2026-pixel-update-3719826/",
+      "image": "",
+      "summary": "This year is just one bummer after another for Pixel 6 users.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9fbbf8293eda",
+      "title": "Three Years of 80% Charge Limits on iPhone: The Results",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-06",
+      "time": "19:59",
+      "publishedAt": "2026-10-06T19:59:42.000Z",
+      "url": "https://www.macrumors.com/2026/10/06/iphone-17-pro-charge-limit/",
+      "image": "https://images.macrumors.com/article-new/2025/08/iOS-26-Battery-Glass-Feature.jpg",
+      "summary": "Since 2023, Apple's newer iPhones have had an 80 percent charge limit for those who want to extend battery lifespan. Charging to 80 percent instead of 100 percent is supposed to p…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9c96980b9c30",
+      "title": "Google's latest Pixel update could mark the end for the Pixel 6",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-06",
+      "time": "19:22",
+      "publishedAt": "2026-10-06T19:22:39.000Z",
+      "url": "https://www.androidpolice.com/google-pixel-update-october-2026/",
+      "image": "",
+      "summary": "Everything new in October's Pixel update",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-73ea8f65c130",
+      "title": "The Xiaomi 18 Ultra would've had insane cameras, but it looks like we'll never get it",
+      "source": "Android Central",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-10-06",
+      "time": "18:24",
+      "publishedAt": "2026-10-06T18:24:47.000Z",
+      "url": "https://www.androidcentral.com/phones/xiaomi/the-xiaomi-18-ultra-wouldve-had-insane-cameras-but-it-looks-like-well-never-get-it",
+      "image": "https://cdn.mos.cms.futurecdn.net/WFwvsko5gDdvZ3FzJrD9tN-1920-80.jpg",
+      "summary": "Beastly cameras on the Xiaomi 18 Ultra look like a reality we'll never get. Rumors say the phone's been dropped, but there's hope for the future.",
+      "tags": [
+        "Xiaomi",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-e24d7dd7cae3",
+      "title": "竹本青：【vivo解答组回应调色盘、扫码导入滤镜下放建议：受芯片算力限制，X全系暂无法】 近日，有用户在vivo官方社区提…",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-06",
+      "time": "17:50",
+      "publishedAt": "2026-10-06T17:50:40.000Z",
+      "url": "https://www.coolapk.com/feed/74203384",
+      "image": "http://image.coolapk.com/feed/2026/1007/01/4248714_87c291a5_9039_8514_453@1440x1921.jpg",
+      "summary": "【vivo解答组回应调色盘、扫码导入滤镜下放建议：受芯片算力限制，X全系暂无法】 近日，有用户在vivo官方社区提议，希望将调色盘、扫码导入滤镜 相机功能下放到X系列更多机型。 对此，vivo社区解答组成员子枫回应称：“产品功能因硬件差异会有所调整，调色盘和扫码导入滤镜受芯片算力限制暂无法全系下放。” 据悉，vivo社区解答组是官方认证的核心用户团队，由熟…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
       ]
     },
     {
@@ -602,26 +702,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-6391c2832cbc",
-      "title": "竹本青：李杰回应一加器件取舍：基于整机综合体验",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-06",
-      "time": "03:43",
-      "publishedAt": "2026-10-06T03:43:42.000Z",
-      "url": "https://www.coolapk.com/feed/74189921",
-      "image": "http://image.coolapk.com/feed/2026/1006/11/4248714_0407b565_8220_9537_1@1271x1643.jpg",
-      "summary": "【李杰谈一加手机器件取舍：外围不是成本问题，优先整机综合体验】 10月6日，一加中国区总裁 李杰 回应网友提问，针对手机配置触控肩键的需求作出解释。 李杰表示，一加手机对于外围器件的选型，决策逻辑不是成本，而是机身内部空间与整机重量。相比内置肩键，他更倾向优先选择更轻量化机身、搭载更大电池的方案，带来更好的综合整机体验。 他补充道：“如果什么器件都堆满，都…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-f88c473bc838",
       "title": "Celebrating “What Holds Us” on iPhone 18 Pro",
       "source": "Apple Newsroom",
@@ -702,26 +782,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-9f2ea74d02c9",
-      "title": "8月份暑假在北京朝阳区某大型商场地下超市做了一个月收银员暑工，日均约500单，每天接触顾客上千人。站在收银这个视角，单看顾客结账掏出来的手机，分享下这段时间的实地观察",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-06",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74176571",
-      "image": "",
-      "summary": "8月份暑假在北京朝阳区某大型商场地下超市做了一个月收银员暑工，日均约500单，每天接触顾客上千人。站在收银这个视角，单看顾客结账掏出来的手机，分享下这段时间的实地观察",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-b49366f37ff7",
       "title": "现阶段内存涨价，手机真是太贵了，而且现在更有旗舰机直接用上 QLC，就比如浓眉大眼的苹果 18 系列，国庆假期闲着无聊，就想着做个小软件，能简单鉴定 QLC 和 TLC，找朋友测了一圈，发现了一个非常让我震惊的事，就近 1 年的新机，拯救者手机可能是极少数采用的 TLC 的 机型",
       "source": "酷安热榜",
@@ -742,28 +802,28 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-670bb63c3984",
-      "title": "荣耀Magic9 Pro Max推送MagicOS 11.0.0.111版本更新，本次更新核心优化系统稳定性，修复了部分极限场景下的崩溃重启问题，该问题为高通图形HAL服务软件缺陷导致的软件层面问题，非硬件故障，更新未对CPU进行降频",
+      "id": "newsnow-9f2ea74d02c9",
+      "title": "8月份暑假在北京朝阳区某大型商场地下超市做了一个月收银员暑工，日均约500单，每天接触顾客上千人。站在收银这个视角，单看顾客结账掏出来的手机，分享下这段时间的实地观察",
       "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-06",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74181897",
+      "url": "https://www.coolapk.com/feed/74176571",
       "image": "",
-      "summary": "荣耀Magic9 Pro Max推送MagicOS 11.0.0.111版本更新，本次更新核心优化系统稳定性，修复了部分极限场景下的崩溃重启问题，该问题为高通图形HAL服务软件缺陷导致的软件层面问题，非硬件故障，更新未对CPU进行降频",
+      "summary": "8月份暑假在北京朝阳区某大型商场地下超市做了一个月收银员暑工，日均约500单，每天接触顾客上千人。站在收银这个视角，单看顾客结账掏出来的手机，分享下这段时间的实地观察",
       "tags": [
-        "HONOR",
+        "行业",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-467a630bba0b",
-      "title": "刚看到iPhone18pro系列的销量信息，卖的太好了，感觉好心酸，今年这波集体涨价潮，一下子让安卓性价比低了很多，不涨又不行，结果就是让更多的人跑去买iPhone，其实也很好理解，价格相差能接受的情况下，选iPhone还是其他，相信绝大部分人的答案还是iPhone。",
+      "id": "newsnow-4613bf1e7031",
+      "title": "今天去线下店摸了两分钟苹果18Promax，这就是高端旗舰手机的感觉吗？滑动起来太流畅了，而且握持手感也巨好。屏幕清晰度也是巨特么高[呲牙]",
       "source": "酷安热榜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -772,9 +832,9 @@ window.phoneRadarAuto = {
       "date": "2026-10-06",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74162856",
+      "url": "https://www.coolapk.com/feed/74176516",
       "image": "",
-      "summary": "刚看到iPhone18pro系列的销量信息，卖的太好了，感觉好心酸，今年这波集体涨价潮，一下子让安卓性价比低了很多，不涨又不行，结果就是让更多的人跑去买iPhone，其实也很好理解，价格相差能接受的情况下，选iPhone还是其他，相信绝大部分人的答案还是iPhone。",
+      "summary": "今天去线下店摸了两分钟苹果18Promax，这就是高端旗舰手机的感觉吗？滑动起来太流畅了，而且握持手感也巨好。屏幕清晰度也是巨特么高[呲牙]",
       "tags": [
         "iPhone",
         "爆料",
@@ -782,41 +842,81 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-0d13423c03cc",
-      "title": "半导体超级周期下的厂家都不好受，DRAM暴涨，NAND大涨最终手机也大涨",
+      "id": "newsnow-f0fff5716f43",
+      "title": "以阔换阔了[牛牛呲牙笑][牛牛呲牙笑]，用惯了只适应阔直板了，看样子以后只能用这种胖墩墩的手机了[流泪][流泪][流泪][流泪]#华为Mate90ProMax#",
       "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-06",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74166511",
+      "url": "https://www.coolapk.com/feed/74191864",
       "image": "",
-      "summary": "半导体超级周期下的厂家都不好受，DRAM暴涨，NAND大涨最终手机也大涨",
+      "summary": "以阔换阔了[牛牛呲牙笑][牛牛呲牙笑]，用惯了只适应阔直板了，看样子以后只能用这种胖墩墩的手机了[流泪][流泪][流泪][流泪]#华为Mate90ProMax#",
       "tags": [
-        "行业",
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-7f96288f116a",
-      "title": "游客一进县城就收到文旅局长手机号",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "id": "newsnow-02b37a49693e",
+      "title": "【#酷安数码#｜iQOO 16「传奇」· 产品图赏】",
+      "source": "酷安热榜",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-06",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74067497",
+      "image": "",
+      "summary": "【#酷安数码#｜iQOO 16「传奇」· 产品图赏】",
+      "tags": [
+        "vivo",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-5e63da85460b",
+      "title": "【#酷安数码#｜vivo X500 Pro Max「览霞」·真机图赏】",
+      "source": "酷安热榜",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-06",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/73893343",
+      "image": "",
+      "summary": "【#酷安数码#｜vivo X500 Pro Max「览霞」·真机图赏】",
+      "tags": [
+        "vivo",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-c3d74856227b",
+      "title": "余承东回应苹果入局折叠屏",
+      "source": "今日头条热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-10-06",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E4%B8%80%E8%BF%9B%E5%8E%BF%E5%9F%8E%E5%B0%B1%E6%94%B6%E5%88%B0%E6%96%87%E6%97%85%E5%B1%80%E9%95%BF%E6%89%8B%E6%9C%BA%E5%8F%B7",
+      "url": "https://www.toutiao.com/trending/7692460526345584691/",
       "image": "",
-      "summary": "游客一进县城就收到文旅局长手机号",
+      "summary": "余承东回应苹果入局折叠屏",
       "tags": [
-        "行业",
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -857,26 +957,6 @@ window.phoneRadarAuto = {
       "summary": "Huawei’s new Mate 90 Pro Max is turning heads for a pretty interesting reason: its Kirin 9050 Pro chip is surprisingly efficient in the real world, especially when you’re gaming.…",
       "tags": [
         "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0ddbb4824deb",
-      "title": "Apple and AT&T Have Yet to Explain Cause of iPhone 18 Pro Max Issue",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-05",
-      "time": "21:10",
-      "publishedAt": "2026-10-05T21:10:06.000Z",
-      "url": "https://www.macrumors.com/2026/10/05/apple-att-yet-to-share-cause-of-iphone-issue/",
-      "image": "https://images.macrumors.com/article-new/2026/10/ATT-Apple.jpg",
-      "summary": "In a statement shared with MacRumors on Friday, Apple said that iPhone 18 Pro Max users who have experienced an issue where AT&T cellular service does not work will need to have t…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -982,46 +1062,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-5bdb1557ff44",
-      "title": "Galaxy S27 Ultra colors leak, and Samsung could be breaking up with purple (Update: Special color)",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-05",
-      "time": "12:50",
-      "publishedAt": "2026-10-05T12:50:45.000Z",
-      "url": "https://www.androidauthority.com/galaxy-s27-ultra-colors-leak-3719062/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Exclusive-Samsung-Galaxy-S27-Ultra-AH-3.jpg.webp",
-      "summary": "Samsung may be picking a color it hasn't used directly on the Ultra for ages.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-be4faea1ad49",
-      "title": "The Galaxy S27 Pro could have bad news for Snapdragon fans",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-05",
-      "time": "12:38",
-      "publishedAt": "2026-10-05T12:38:20.000Z",
-      "url": "https://www.androidauthority.com/samsung-galaxy-s27-pro-exynos-3719108/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/Samsung-Galaxy-S26-series-showing-backs.jpg",
-      "summary": "Is this still a Pro phone with Exynos power?",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-8b17e0a7e644",
       "title": "Samsung Galaxy S27 Ultra leak reveals four rumored color options",
       "source": "Android Central",
@@ -1038,26 +1078,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Samsung",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c653dd199f30",
-      "title": "Some iPhone 18 Pro Max units are losing cell service, but the good news is you get a new phone (again)",
-      "source": "Android Authority",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-05",
-      "time": "10:58",
-      "publishedAt": "2026-10-05T10:58:43.000Z",
-      "url": "https://www.androidauthority.com/apple-iphone-18-pro-max-att-cellular-issues-3719002/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Apple-iPhone-18-Pro-Max-in-Burgundy-showing-smaller-Dynamic-Island.jpg",
-      "summary": "Apple has already rolled out a bug fixing update to prevent other iPhone 18 Pro Max models from being impacted.",
-      "tags": [
-        "iPhone",
-        "爆料",
         "自动抓取"
       ]
     },
