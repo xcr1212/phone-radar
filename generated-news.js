@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-06T01:17:43.639Z",
+  "updatedAt": "2026-10-06T08:57:48.764Z",
   "news": [
     {
       "id": "weibo-f7e4d6168a26",
@@ -10,8 +10,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-06",
-      "time": "01:17",
-      "publishedAt": "2026-10-06T01:17:43.639Z",
+      "time": "08:57",
+      "publishedAt": "2026-10-06T08:57:48.764Z",
       "url": "https://weibo.com/6048569942/Rkw3lCtbI",
       "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ihltiohha9j30zc3s9npd.jpg",
       "summary": "华为Mate90系列明天发布，猜猜价格吧： 补充一些信息，Mate90是6600mAh电池+66W(100W)快充，50Mp可变光圈高动态大底主摄，50Mp聚光长焦，麒麟9030； Mate90 Pro是双层OLED，最高12000nits，麒麟9035，50Mp潜望镜支持5cm长焦微距； Mate90 PM/RS都是18EV 50Mp超大底主摄+40Mp…",
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-06",
-      "time": "01:17",
-      "publishedAt": "2026-10-06T01:17:43.639Z",
+      "time": "08:57",
+      "publishedAt": "2026-10-06T08:57:48.764Z",
       "url": "https://weibo.com/6048569942/RkuQYC8En",
       "image": "",
       "summary": "摸了一下昨天 iQOO16 首销数据，竟然是近期已发安卓旗舰中的单品销量TOP1。 目前在狗猫抖三大电商平台的总销量是下半年安卓旗舰首销TOP1，而且是一杯打其它所有厂商的多杯组合，还几乎全打赢了……[哆啦A梦害怕]",
@@ -50,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-06",
-      "time": "01:17",
-      "publishedAt": "2026-10-06T01:17:43.639Z",
+      "time": "08:57",
+      "publishedAt": "2026-10-06T08:57:48.764Z",
       "url": "https://weibo.com/6048569942/RkuyMxv05",
       "image": "",
       "summary": "耀子年底还有一堆新机，荣耀700 Pro系列有原生背屏，主打2亿超清影像。中端线还有X新品，7英寸大屏+超万级大电池，阔折叠加速中，阔直板也立项了，支持卷起来[二哈]",
@@ -59,6 +59,266 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "微博"
+      ]
+    },
+    {
+      "id": "coolapk-user-63b7cd480672",
+      "title": "竹本青：【中国联通上线荣耀Magic9 Pro Max 开通eSIM权益】 ● 联通渠道购机三选一： 30GB境外eSIM…",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-06",
+      "time": "08:55",
+      "publishedAt": "2026-10-06T08:55:36.000Z",
+      "url": "https://www.coolapk.com/feed/74194708",
+      "image": "http://image.coolapk.com/feed/2026/1006/16/4248714_310b7fa7_6935_9788_328@981x1763.jpg",
+      "summary": "【中国联通上线荣耀Magic9 Pro Max 开通eSIM权益】 ● 联通渠道购机三选一： 30GB境外eSIM 10天包、300元国际漫游券、100GB国内通用流量； ● 非联通渠道购机二选一： 30GB境外eSIM 10天包、300元国际漫游券。 10月6日，中国联通宣布，荣耀Magic9 Pro Max现已在联通渠道全面开售，并推出eSIM尝鲜季专…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-f182c6ca44f0",
+      "title": "Galaxy S27 Ultra renders reveal new color options, including an interesting pink variant",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-06",
+      "time": "08:17",
+      "publishedAt": "2026-10-06T08:17:00.000Z",
+      "url": "https://www.gizmochina.com/2026/10/06/galaxy-s27-ultra-renders-reveal-new-color-options-including-an-interesting-pink-variant/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/006bWoNYly1ihrqhm51xjj32jw1qihdv1-300x169.jpg?x96852",
+      "summary": "Well-known tipster Ice Universe says the standard color options will be black, blue, light pink, and white. These are the everyday finishes you’d normally find in stores and with…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-91842694d0a5",
+      "title": "Google Pixel 11 Pro XL falls to $999 for Prime Day with 23% off",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-06",
+      "time": "07:59",
+      "publishedAt": "2026-10-06T07:59:30.000Z",
+      "url": "https://www.androidauthority.com/google-pixel-11-pro-xl-deal-3718172/",
+      "image": "",
+      "summary": "Save $300 on the Google Pixel 11 Pro XL at Amazon with this best deal of the year on the 6.8-inch flagship.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-410efeb2924c",
+      "title": "OPPO 推出 F35 5G 系列手机：8000mAh 电池，天玑 6360 Max/7360 Max 芯片",
+      "source": "IT之家",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-06",
+      "time": "07:55",
+      "publishedAt": "2026-10-06T07:55:45.000Z",
+      "url": "https://www.ithome.com/1/010/007.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/009728b1-b37b-4af5-b2ed-f475232b2466.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 6 日消息，OPPO 现已在印度市场推出 F35 5G/F35 Pro 5G 手机，新品定位中低端市场，采用 8000mAh 大电池，以及天玑 6360 Max/7360 Max 芯片， 起售价为 38,999 卢比 （IT之家注：现汇率约合 2,725 元人民币） 。 据介绍，OPPO F35 5G 手机搭载 6.57 英寸 AMOL…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-8c113157b58b",
+      "title": "竹本青：【消息称高通澄清与华为专利协议传闻：“涉及逻辑折叠”、“高通为净支付方”说法均不属实】 10月6日，据新浪科技，有…",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-06",
+      "time": "06:54",
+      "publishedAt": "2026-10-06T06:54:53.000Z",
+      "url": "https://www.coolapk.com/feed/74192864",
+      "image": "http://image.coolapk.com/feed/2026/1006/14/4248714_bbc44706_9692_0953_453@1439x909.jpg",
+      "summary": "【消息称高通澄清与华为专利协议传闻：“涉及逻辑折叠”、“高通为净支付方”说法均不属实】 10月6日，据新浪科技，有报道称，高通与华为近日达成专利交叉授权协议，并称高通在协议中扮演净支付方角色、协议内容涉及逻辑折叠芯片技术。 对于上述情况，高通发言人通过声明表示：“高通与华为达成了一项多年期、广泛的专利许可协议，涵盖双方在多个技术领域的交叉许可。协议具体条款…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-a7db5043130e",
+      "title": "谷歌 Pixel 12 系列手机曝光：Fold 折叠内屏升至 2296×2404 分辨率",
+      "source": "IT之家",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-06",
+      "time": "05:34",
+      "publishedAt": "2026-10-06T05:34:42.000Z",
+      "url": "https://www.ithome.com/1/009/985.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/c4284d58-58b2-4d27-9c84-50968d15c357.png",
+      "summary": "IT之家 10 月 6 日消息，科技媒体 ovrplus 于 10 月 4 日发布博文，通过挖掘 GSMA IMEI 数据库， 发现了谷歌 Pixel 12、Pixel 12 Pro、Pixel 12 Pro XL 与 Pixel 12 Pro Fold 四款手机的踪迹。 IT之家援引博文内容以及注册相关信息，附上 4 款手机的注册代码以及屏幕分辨率信息：…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6cbbf308579a",
+      "title": "华为余承东谈内存压力：每部手机成本大增 200 美元，为保公司生存不得不涨价",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-06",
+      "time": "04:51",
+      "publishedAt": "2026-10-06T04:51:49.000Z",
+      "url": "https://www.ithome.com/1/009/978.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/fa128969-c0e5-403a-963b-66a513c714c3.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1",
+      "summary": "IT之家 10 月 6 日消息，华为海外 X 账号今日（10 月 6 日）发布了 9 月 29 日的国际媒体圆桌会议摘要。华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东与多家国际媒体的记者就华为消费者业务及 HarmonyOS 生态系统进行了交流。 在谈到内存成本上涨话题时，余承东坦言，内存组件价格的急剧上涨导致每部手机额外增加了 超过 2…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ec832a4f7565",
+      "title": "余承东回应苹果入局折叠屏：欢迎同行加入竞争，iPhone Duo 发布后华为 Pura X Max 销量大增 76%",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-06",
+      "time": "04:39",
+      "publishedAt": "2026-10-06T04:39:03.000Z",
+      "url": "https://www.ithome.com/1/009/976.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/fa128969-c0e5-403a-963b-66a513c714c3.jpg?x-bce-process=image/auto-orient,o_1",
+      "summary": "IT之家 10 月 6 日消息，华为海外 X 账号今日（10 月 6 日）发布了 9 月 29 日的国际媒体圆桌会议摘要。华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东与多家国际媒体的记者就华为消费者业务及 HarmonyOS 生态系统进行了交流。 有记者询问华为 Mate XT 2 三折叠手机的具体销售或出货量数据。此外，苹果也首次推出了…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-6391c2832cbc",
+      "title": "竹本青：【李杰谈一加手机器件取舍：外围不是成本问题，优先整机综合体验】 10月6日，一加中国区总裁 李杰 回应网友提问，针…",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-06",
+      "time": "03:43",
+      "publishedAt": "2026-10-06T03:43:42.000Z",
+      "url": "https://www.coolapk.com/feed/74189921",
+      "image": "http://image.coolapk.com/feed/2026/1006/11/4248714_0407b565_8220_9537_1@1271x1643.jpg",
+      "summary": "【李杰谈一加手机器件取舍：外围不是成本问题，优先整机综合体验】 10月6日，一加中国区总裁 李杰 回应网友提问，针对手机配置触控肩键的需求作出解释。 李杰表示，一加手机对于外围器件的选型，决策逻辑不是成本，而是机身内部空间与整机重量。相比内置肩键，他更倾向优先选择更轻量化机身、搭载更大电池的方案，带来更好的综合整机体验。 他补充道：“如果什么器件都堆满，都…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-85831a54f7b9",
+      "title": "iPhone 秒变“摄影机”，ShiftCam 与苹果合作推出全新 ProRig 套装",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-06",
+      "time": "03:31",
+      "publishedAt": "2026-10-06T03:31:33.000Z",
+      "url": "https://www.ithome.com/1/009/970.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/844d1f95-0fad-4d12-b03c-0a3d8ac41e55.jpg",
+      "summary": "IT之家 10 月 6 日消息，苹果多年来一直将 iPhone 定位为专业的视频拍摄设备，官方每年的视频短片花絮中都能看到 iPhone 外挂各种专业影像设备的画面。 现在，ShiftCam 与苹果合作， 开发了一套用于 iPhone 的摄影配件 ，包括可用于手持、云台和三脚架拍摄的铝合金外壳“兔笼”，以及外挂的镜头、滤镜、麦克风、LED 灯和手柄等。 S…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-f512a97b5fcc",
+      "title": "竹本青：【华为余承东详解“多设备互助通信共享”功能：Mate90系列首发，鸿蒙7老机型也能用上】 ● 不同账号“碰一碰”即…",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-06",
+      "time": "02:43",
+      "publishedAt": "2026-10-06T02:43:27.000Z",
+      "url": "https://www.coolapk.com/feed/74188863",
+      "image": "http://image.coolapk.com/feed/2026/1006/10/4248714_69fc4d6d_4327_5353_793-livepic@1080x1920.jpg",
+      "summary": "【华为余承东详解“多设备互助通信共享”功能：Mate90系列首发，鸿蒙7老机型也能用上】 ● 不同账号“碰一碰”即可互助 ● 最多支持4台设备互助 ● 鸿蒙7升级后开放更多老机型 10月6日，华为余承东发布视频，详解Mate 90系列首发的\"多设备互助通信共享\"功能。 他介绍，该功能将多台华为设备组成\"用网互助联盟\"：把各自的网络资源整合到一起，再根据每台…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-dc0e8f324974",
+      "title": "Symmetry vs asymmetry: How the Galaxy Z Fold 8 beats the iPhone Duo",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-06",
+      "time": "02:16",
+      "publishedAt": "2026-10-06T02:16:00.000Z",
+      "url": "https://www.sammobile.com/opinion/symmetry-vs-asymmetry-how-galaxy-z-fold-8-beats-iphone-duo/",
+      "image": "",
+      "summary": "Apple's first foldable phone may have split the foldable phone market between models with symmetrical and asymmetrical cover screens. The new Samsung Galaxy Z Fold 8 and the Apple…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c579d71828d8",
+      "title": "余承东详解华为手机“拼好网”：高铁视频通话卡顿减少 90%，Mate 90 系列首发",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-06",
+      "time": "02:11",
+      "publishedAt": "2026-10-06T02:11:40.000Z",
+      "url": "https://www.ithome.com/1/009/957.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/0533e9fd-0e47-4f73-aa9f-15c2f7c4aa65.jpg",
+      "summary": "IT之家 10 月 6 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日发布视频，详细介绍了华为 Mate 90 系列首发的 多设备互助通信共享功能 。 余承东以水资源分配为例， 只需要碰一碰 ，就能把几台华为设备的网络资源整合起来，按需分配。 根据华为工程师实地测试，在京沪高铁上使用三台不同运营商网络的华为设备，开启多设备互助通…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -162,21 +422,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-d57e6ccc4712",
-      "title": "刚下后夜班，脱工服的时候蹭得满手机油味，我蹲在宿舍楼道的台阶上吹冷风，指尖夹着的五块钱烟烧到了滤嘴都没察觉。",
+      "id": "newsnow-670bb63c3984",
+      "title": "荣耀Magic9 Pro Max推送MagicOS 11.0.0.111版本更新，本次更新核心优化系统稳定性，修复了部分极限场景下的崩溃重启问题，该问题为高通图形HAL服务软件缺陷导致的软件层面问题，非硬件故障，更新未对CPU进行降频",
       "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-06",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74173316",
+      "url": "https://www.coolapk.com/feed/74181897",
       "image": "",
-      "summary": "刚下后夜班，脱工服的时候蹭得满手机油味，我蹲在宿舍楼道的台阶上吹冷风，指尖夹着的五块钱烟烧到了滤嘴都没察觉。",
+      "summary": "荣耀Magic9 Pro Max推送MagicOS 11.0.0.111版本更新，本次更新核心优化系统稳定性，修复了部分极限场景下的崩溃重启问题，该问题为高通图形HAL服务软件缺陷导致的软件层面问题，非硬件故障，更新未对CPU进行降频",
       "tags": [
-        "行业",
+        "HONOR",
         "爆料",
         "NewsNow"
       ]
@@ -202,41 +462,61 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-39eefca7a510",
-      "title": "刷个抖音没绷住 王者职业比赛iqoo16黑屏死机8ee6发力了 #iQOO16# #小米18ProMax# #荣耀Magic9ProMax#",
+      "id": "newsnow-e0a51f727e95",
+      "title": "花了2w在vivo，首发拿残次品，这事不解决不再买vivo产品[表面开心]@vivo服务小V #OriginOS7# #vivoX300# #OriginOS6#",
       "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-06",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74183000",
+      "url": "https://www.coolapk.com/feed/74177597",
       "image": "",
-      "summary": "刷个抖音没绷住 王者职业比赛iqoo16黑屏死机8ee6发力了 #iQOO16# #小米18ProMax# #荣耀Magic9ProMax#",
+      "summary": "花了2w在vivo，首发拿残次品，这事不解决不再买vivo产品[表面开心]@vivo服务小V #OriginOS7# #vivoX300# #OriginOS6#",
       "tags": [
-        "HONOR",
+        "vivo",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-670bb63c3984",
-      "title": "荣耀Magic9 Pro Max推送MagicOS 11.0.0.111版本更新，本次更新核心优化系统稳定性，修复了部分极限场景下的崩溃重启问题，该问题为高通图形HAL服务软件缺陷导致的软件层面问题，非硬件故障，更新未对CPU进行降频",
+      "id": "newsnow-d57e6ccc4712",
+      "title": "刚下后夜班，脱工服的时候蹭得满手机油味，我蹲在宿舍楼道的台阶上吹冷风，指尖夹着的五块钱烟烧到了滤嘴都没察觉。",
       "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-06",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74181897",
+      "url": "https://www.coolapk.com/feed/74173316",
       "image": "",
-      "summary": "荣耀Magic9 Pro Max推送MagicOS 11.0.0.111版本更新，本次更新核心优化系统稳定性，修复了部分极限场景下的崩溃重启问题，该问题为高通图形HAL服务软件缺陷导致的软件层面问题，非硬件故障，更新未对CPU进行降频",
+      "summary": "刚下后夜班，脱工服的时候蹭得满手机油味，我蹲在宿舍楼道的台阶上吹冷风，指尖夹着的五块钱烟烧到了滤嘴都没察觉。",
       "tags": [
-        "HONOR",
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-3e49858b7e73",
+      "title": "余承东详解华为手机“拼好网”",
+      "source": "今日头条热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-06",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7693390736930521130/",
+      "image": "",
+      "summary": "余承东详解华为手机“拼好网”",
+      "tags": [
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
@@ -482,26 +762,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-c4d61d80cd37",
-      "title": "消息称三星 Galaxy S27 Ultra 手机将提供“罗兰紫”特殊配色，预计作为官网专属颜色提供",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-05",
-      "time": "12:56",
-      "publishedAt": "2026-10-05T12:56:31.000Z",
-      "url": "https://www.ithome.com/1/009/871.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/1bff436c-1b8a-41ee-b4f8-0f504e96d9b3.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 5 日消息，消息源 @i冰宇宙 发文，透露三星 Galaxy S27 Ultra 除了提供蓝色、黑色、浅粉色、白色四款基础配色可选，同时还拥有一款“罗兰紫”特殊配色，预计该配色可能作为三星官网专属配色提供。 此前消息显示，三星 Galaxy S27 系列手机预计将在 2027 年初正式发布，其中 Pro 和 Ultra 机型都将配备 P…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-5bdb1557ff44",
       "title": "Galaxy S27 Ultra colors leak, and Samsung could be breaking up with purple (Update: Special color)",
       "source": "Android Authority",
@@ -542,46 +802,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-08d0d4c94d45",
-      "title": "珠海拱北海关查获旅客人身绑藏旧手机 79 台",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-05",
-      "time": "12:25",
-      "publishedAt": "2026-10-05T12:25:50.000Z",
-      "url": "https://www.ithome.com/1/009/868.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/b8cdddf8-ac06-4026-97a6-57ff8d63e98e.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 5 日消息，据“海关发布”公众号，拱北海关所属港珠澳大桥海关 9 月 4 日在进境随车厅查获 2 名旅客人身绑藏走私旧手机 79 台。 ▲ 图源“海关发布”公众号（下同） 当日 23 时许，海关关员在进境随车厅监管时，发现两名推着婴儿车的旅客步伐沉重、行为异常，存在人身绑藏走私物品嫌疑。经询问，婴儿车内为旅客自己的孩子，随后关员从两人腰…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-15f568b43ad1",
-      "title": "三星 Galaxy S27 Ultra 基础颜色选项曝光：黑色、蓝色、浅粉色、白色",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-05",
-      "time": "12:23",
-      "publishedAt": "2026-10-05T12:23:38.000Z",
-      "url": "https://www.ithome.com/1/009/867.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/0a4cbb6c-d58c-4e71-b30b-18268c61af5e.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 5 日消息，博主 @i冰宇宙 今日曝光三星 Galaxy S27 Ultra 基础颜色选项，分别为黑色、蓝色、浅粉色、白色。 三星 Galaxy S27 系列预计将包含 4 款机型，分别为 6.27 英寸的 Galaxy S27、6.66 英寸的 Galaxy S27+、6.47 英寸的 Galaxy S27 Pro 以及 6.89 英…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-8b17e0a7e644",
       "title": "Samsung Galaxy S27 Ultra leak reveals four rumored color options",
       "source": "Android Central",
@@ -602,26 +822,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-bbc97706e8c6",
-      "title": "三星 W27 心系天下折叠屏手机发布会预计 10 月 29 日举行，线下已开启预定",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-05",
-      "time": "11:33",
-      "publishedAt": "2026-10-05T11:33:38.000Z",
-      "url": "https://www.ithome.com/1/009/863.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/899616c5-7d62-49e7-b869-7bdbb7ebcba1.jpg",
-      "summary": "IT之家 10 月 5 日消息，今日，有三星授权体验店发布预告，心系天下 W27 新品发布会将于 10 月 29 日举行。 消息显示，新机预计将于 11 月 5 日开启首批门店取机，高端旗舰折叠现开启优先预定。预交订金锁定首批现货，优先选配色，名额有限，先订先得。 按照以往惯例，三星 W27 心系天下手机预计 基于 Galaxy Z Fold8 系列手机打…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-c653dd199f30",
       "title": "Some iPhone 18 Pro Max units are losing cell service, but the good news is you get a new phone (again)",
       "source": "Android Authority",
@@ -635,26 +835,6 @@ window.phoneRadarAuto = {
       "url": "https://www.androidauthority.com/apple-iphone-18-pro-max-att-cellular-issues-3719002/",
       "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Apple-iPhone-18-Pro-Max-in-Burgundy-showing-smaller-Dynamic-Island.jpg",
       "summary": "Apple has already rolled out a bug fixing update to prevent other iPhone 18 Pro Max models from being impacted.",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-8158aa4a0e04",
-      "title": "iPhone Duo Makes Focus Modes Easier to Toggle From the Lock Screen",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-05",
-      "time": "10:18",
-      "publishedAt": "2026-10-05T10:18:54.000Z",
-      "url": "https://www.macrumors.com/2026/10/05/iphone-duo-focus-modes-easier-toggle-lock-screen/",
-      "image": "https://images.macrumors.com/article-new/2026/10/focus-mode-iphone-duo@2x-scaled.jpg",
-      "summary": "Code explorer pdfu has shared a new feature tidbit for the upcoming iPhone Duo. Apple is reportedly introducing new Focus mode controls on the device's Lock Screen. When a Focus m…",
       "tags": [
         "iPhone",
         "爆料",
@@ -879,46 +1059,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-16fa03676b7b",
-      "title": "竹本青：vivo Y600k Turbo开售：骁龙7s Gen4，2799元",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-05",
-      "time": "05:13",
-      "publishedAt": "2026-10-05T05:13:50.000Z",
-      "url": "https://www.coolapk.com/feed/74173018",
-      "image": "http://image.coolapk.com/feed/2026/1005/13/4248714_44519452_7229_5011_93@1440x1046.jpg",
-      "summary": "【vivo Y600k Turbo 官网开售：骁龙7s Gen4处理器，12+256GB售价2799元】 12+256GB —— 2799元 ● 6.83\"1.5K 120Hz OLED直屏 ● 骁龙7s Gen4处理器 ● LPDDR4X+UFS 3.1 ● 9020mAh电池+90W有线 ● 屏幕： 分辨率2800*1260｜PPI 449 全局200…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-5dd961bfdc75",
-      "title": "竹本青：iQOO16首销情况曝光：同期约为上代的50%",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-05",
-      "time": "04:47",
-      "publishedAt": "2026-10-05T04:47:58.000Z",
-      "url": "https://www.coolapk.com/feed/74172647",
-      "image": "http://image.coolapk.com/feed/2026/1005/12/4248714_c7b26675_5677_2421_188@1440x1025.jpg",
-      "summary": "【iQOO 16 首销情况曝光：同期约为上代的50%，上上代的100%】 10月5日，博主「RD观测」披露第三方统计的iQOO 16首销情况。以首销当天（20:30开售）+后三天为标准，该机市场表现如下： ● 上代iQOO 15 的50% ● 上上代iQOO 13 的100% 博主补充称，如果不出意外，后面所有机型的首销期数据都按照首销当日+后三天统计，且…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
       ]
     },
     {

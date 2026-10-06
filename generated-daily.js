@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-10-06T01:17:43.639Z",
+  "updatedAt": "2026-10-06T08:57:48.764Z",
   "issueDate": "2026-10-06",
   "issue": "VOL.261006",
   "title": "手机情报日报",
-  "intro": "今日筛出 15 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、3 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、2 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 15,
-    "iphone": 9,
+    "total": 11,
+    "iphone": 7,
     "leaks": 8,
-    "official": 3,
+    "official": 2,
     "specs": 0
   },
   "sections": [
@@ -18,48 +18,23 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "auto-c4d61d80cd37",
-          "title": "消息称三星 Galaxy S27 Ultra 手机将提供“罗兰紫”特殊配色，预计作为官网专属颜色提供",
+          "id": "auto-85831a54f7b9",
+          "title": "iPhone 秒变“摄影机”，ShiftCam 与苹果合作推出全新 ProRig 套装",
           "originalTitle": "",
           "source": "IT之家",
-          "brand": "Samsung",
+          "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-10-05",
-          "time": "12:56",
-          "publishedAt": "2026-10-05T12:56:31.000Z",
-          "url": "https://www.ithome.com/1/009/871.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/1bff436c-1b8a-41ee-b4f8-0f504e96d9b3.jpg?x-bce-process=image/format,f_auto",
+          "date": "2026-10-06",
+          "time": "03:31",
+          "publishedAt": "2026-10-06T03:31:33.000Z",
+          "url": "https://www.ithome.com/1/009/970.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/844d1f95-0fad-4d12-b03c-0a3d8ac41e55.jpg",
           "verdict": "先看",
-          "takeaway": "IT之家 10 月 5 日消息，消息源 @i冰宇宙 发文，透露三星 Galaxy S27 Ultra 除了提供蓝色、黑色、浅粉色、白色四款基础配色可选，同时还拥有一款“罗兰紫”特殊配色，预计该配色可能作为三星官网专属配色提供。 此前消息显示，三星 Galaxy S27 系列手机预计将在 2027 年初正式发布，其中 Pro 和 Ultra 机型都将配备 P…",
-          "detail": "IT之家 10 月 5 日消息，消息源 @i冰宇宙 发文，透露三星 Galaxy S27 Ultra 除了提供蓝色、黑色、浅粉色、白色四款基础配色可选，同时还拥有一款“罗兰紫”特殊配色，预计该配色可能作为三星官网专属配色提供。 此前消息显示，三星 Galaxy S27 系列手机预计将在 2027 年初正式发布，其中 Pro 和 Ultra 机型都将配备 P…",
+          "takeaway": "IT之家 10 月 6 日消息，苹果多年来一直将 iPhone 定位为专业的视频拍摄设备，官方每年的视频短片花絮中都能看到 iPhone 外挂各种专业影像设备的画面。 现在，ShiftCam 与苹果合作， 开发了一套用于 iPhone 的摄影配件 ，包括可用于手持、云台和三脚架拍摄的铝合金外壳“兔笼”，以及外挂的镜头、滤镜、麦克风、LED 灯和手柄等。 S…",
+          "detail": "IT之家 10 月 6 日消息，苹果多年来一直将 iPhone 定位为专业的视频拍摄设备，官方每年的视频短片花絮中都能看到 iPhone 外挂各种专业影像设备的画面。 现在，ShiftCam 与苹果合作， 开发了一套用于 iPhone 的摄影配件 ，包括可用于手持、云台和三脚架拍摄的铝合金外壳“兔笼”，以及外挂的镜头、滤镜、麦克风、LED 灯和手柄等。 S…",
           "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-bbc97706e8c6",
-          "title": "三星 W27 心系天下折叠屏手机发布会预计 10 月 29 日举行，线下已开启预定",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-05",
-          "time": "11:33",
-          "publishedAt": "2026-10-05T11:33:38.000Z",
-          "url": "https://www.ithome.com/1/009/863.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/899616c5-7d62-49e7-b869-7bdbb7ebcba1.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 10 月 5 日消息，今日，有三星授权体验店发布预告，心系天下 W27 新品发布会将于 10 月 29 日举行。 消息显示，新机预计将于 11 月 5 日开启首批门店取机，高端旗舰折叠现开启优先预定。预交订金锁定首批现货，优先选配色，名额有限，先订先得。 按照以往惯例，三星 W27 心系天下手机预计 基于 Galaxy Z Fold8 系列手机打…",
-          "detail": "IT之家 10 月 5 日消息，今日，有三星授权体验店发布预告，心系天下 W27 新品发布会将于 10 月 29 日举行。 消息显示，新机预计将于 11 月 5 日开启首批门店取机，高端旗舰折叠现开启优先预定。预交订金锁定首批现货，优先选配色，名额有限，先订先得。 按照以往惯例，三星 W27 心系天下手机预计 基于 Galaxy Z Fold8 系列手机打…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "屏幕形态"
+            "影像硬件"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -135,29 +110,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-8158aa4a0e04",
-          "title": "iPhone 屏幕规格相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-05",
-          "time": "10:18",
-          "publishedAt": "2026-10-05T10:18:54.000Z",
-          "url": "https://www.macrumors.com/2026/10/05/iphone-duo-focus-modes-easier-toggle-lock-screen/",
-          "image": "https://images.macrumors.com/article-new/2026/10/focus-mode-iphone-duo@2x-scaled.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 屏幕规格相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "auto-61fed5a84012",
           "title": "iPhone 影像能力相关消息",
           "originalTitle": "",
@@ -183,28 +135,73 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "weibo-f7e4d6168a26",
-          "title": "数码闲聊站：华为Mate90系列明天发布，猜猜价格吧： 补充一些信息，Mate90是660…",
+          "id": "auto-410efeb2924c",
+          "title": "OPPO 推出 F35 5G 系列手机：8000mAh 电池，天玑 6360 Max/7360 Max 芯片",
           "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "Huawei",
+          "source": "IT之家",
+          "brand": "OPPO",
           "type": "爆料",
-          "trust": "高关注爆料源",
+          "trust": "媒体汇总",
           "date": "2026-10-06",
-          "time": "01:17",
-          "publishedAt": "2026-10-06T01:17:43.639Z",
-          "url": "https://weibo.com/6048569942/Rkw3lCtbI",
-          "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ihltiohha9j30zc3s9npd.jpg",
+          "time": "07:55",
+          "publishedAt": "2026-10-06T07:55:45.000Z",
+          "url": "https://www.ithome.com/1/010/007.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/009728b1-b37b-4af5-b2ed-f475232b2466.png?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "华为Mate90系列明天发布，猜猜价格吧： 补充一些信息，Mate90是6600mAh电池+66W(100W)快充，50Mp可变光圈高动态大底主摄，50Mp聚光长焦，麒麟9030； Mate90 Pro是双层OLED，最高12000nits，麒麟9035，50Mp潜望镜支持5cm长焦微距； Mate90 PM/RS都是18EV 50Mp超大底主摄+40Mp…",
-          "detail": "华为Mate90系列明天发布，猜猜价格吧： 补充一些信息，Mate90是6600mAh电池+66W(100W)快充，50Mp可变光圈高动态大底主摄，50Mp聚光长焦，麒麟9030； Mate90 Pro是双层OLED，最高12000nits，麒麟9035，50Mp潜望镜支持5cm长焦微距； Mate90 PM/RS都是18EV 50Mp超大底主摄+40Mp…",
+          "takeaway": "IT之家 10 月 6 日消息，OPPO 现已在印度市场推出 F35 5G/F35 Pro 5G 手机，新品定位中低端市场，采用 8000mAh 大电池，以及天玑 6360 Max/7360 Max 芯片， 起售价为 38,999 卢比 （IT之家注：现汇率约合 2,725 元人民币） 。 据介绍，OPPO F35 5G 手机搭载 6.57 英寸 AMOL…",
+          "detail": "IT之家 10 月 6 日消息，OPPO 现已在印度市场推出 F35 5G/F35 Pro 5G 手机，新品定位中低端市场，采用 8000mAh 大电池，以及天玑 6360 Max/7360 Max 芯片， 起售价为 38,999 卢比 （IT之家注：现汇率约合 2,725 元人民币） 。 据介绍，OPPO F35 5G 手机搭载 6.57 英寸 AMOL…",
           "keyPoints": [
-            "影像硬件",
-            "屏幕形态",
             "电池 / 充电",
+            "芯片 / 性能",
             "成本 / 价格"
           ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-a7db5043130e",
+          "title": "谷歌 Pixel 12 系列手机曝光：Fold 折叠内屏升至 2296×2404 分辨率",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Pixel",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-06",
+          "time": "05:34",
+          "publishedAt": "2026-10-06T05:34:42.000Z",
+          "url": "https://www.ithome.com/1/009/985.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/c4284d58-58b2-4d27-9c84-50968d15c357.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 10 月 6 日消息，科技媒体 ovrplus 于 10 月 4 日发布博文，通过挖掘 GSMA IMEI 数据库， 发现了谷歌 Pixel 12、Pixel 12 Pro、Pixel 12 Pro XL 与 Pixel 12 Pro Fold 四款手机的踪迹。 IT之家援引博文内容以及注册相关信息，附上 4 款手机的注册代码以及屏幕分辨率信息：…",
+          "detail": "IT之家 10 月 6 日消息，科技媒体 ovrplus 于 10 月 4 日发布博文，通过挖掘 GSMA IMEI 数据库， 发现了谷歌 Pixel 12、Pixel 12 Pro、Pixel 12 Pro XL 与 Pixel 12 Pro Fold 四款手机的踪迹。 IT之家援引博文内容以及注册相关信息，附上 4 款手机的注册代码以及屏幕分辨率信息：…",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-6cbbf308579a",
+          "title": "华为余承东谈内存压力：每部手机成本大增 200 美元，为保公司生存不得不涨价",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-06",
+          "time": "04:51",
+          "publishedAt": "2026-10-06T04:51:49.000Z",
+          "url": "https://www.ithome.com/1/009/978.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/fa128969-c0e5-403a-963b-66a513c714c3.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1",
+          "verdict": "先看",
+          "takeaway": "IT之家 10 月 6 日消息，华为海外 X 账号今日（10 月 6 日）发布了 9 月 29 日的国际媒体圆桌会议摘要。华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东与多家国际媒体的记者就华为消费者业务及 HarmonyOS 生态系统进行了交流。 在谈到内存成本上涨话题时，余承东坦言，内存组件价格的急剧上涨导致每部手机额外增加了 超过 2…",
+          "detail": "IT之家 10 月 6 日消息，华为海外 X 账号今日（10 月 6 日）发布了 9 月 29 日的国际媒体圆桌会议摘要。华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东与多家国际媒体的记者就华为消费者业务及 HarmonyOS 生态系统进行了交流。 在谈到内存成本上涨话题时，余承东坦言，内存组件价格的急剧上涨导致每部手机额外增加了 超过 2…",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -261,52 +258,6 @@ window.phoneRadarDaily = {
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "newsnow-467a630bba0b",
-          "title": "刚看到iPhone18pro系列的销量信息，卖的太好了，感觉好心酸，今年这波集体涨价潮，一下子让安卓性价比低了很多，不涨又不行，结果就是让更多的人跑去买iPhone，其实也很好理解，价格相差能接受的情况下，选iPhone还是其他，相信绝大部分人的答案还是iPhone。",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-10-06",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/74162856",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "刚看到iPhone18pro系列的销量信息，卖的太好了，感觉好心酸，今年这波集体涨价潮，一下子让安卓性价比低了很多，不涨又不行，结果就是让更多的人跑去买iPhone，其实也很好理解，价格相差能接受的情况下，选iPhone还是其他，相信绝大部分人的答案还是iPhone。",
-          "detail": "刚看到iPhone18pro系列的销量信息，卖的太好了，感觉好心酸，今年这波集体涨价潮，一下子让安卓性价比低了很多，不涨又不行，结果就是让更多的人跑去买iPhone，其实也很好理解，价格相差能接受的情况下，选iPhone还是其他，相信绝大部分人的答案还是iPhone。",
-          "keyPoints": [
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "auto-728bbee10ddb",
-          "title": "iPhone 发布 / 上市相关消息",
-          "originalTitle": "",
-          "source": "Apple Newsroom",
-          "brand": "iPhone",
-          "type": "官方",
-          "trust": "官方确认",
-          "date": "2026-10-06",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone 有发布或新功能消息，适合确认是否和新机有关。",
-          "detail": "iPhone 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "官方"
-          ],
-          "confidence": "官方内容，可直接作为已确认信息记录。",
-          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -316,82 +267,27 @@ window.phoneRadarDaily = {
       "hint": "能直接更新到参数库。",
       "items": [
         {
-          "id": "auto-08d0d4c94d45",
-          "title": "珠海拱北海关查获旅客人身绑藏旧手机 79 台",
+          "id": "auto-c579d71828d8",
+          "title": "余承东详解华为手机“拼好网”：高铁视频通话卡顿减少 90%，Mate 90 系列首发",
           "originalTitle": "",
           "source": "IT之家",
-          "brand": "行业",
+          "brand": "Huawei",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-10-05",
-          "time": "12:25",
-          "publishedAt": "2026-10-05T12:25:50.000Z",
-          "url": "https://www.ithome.com/1/009/868.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/b8cdddf8-ac06-4026-97a6-57ff8d63e98e.png?x-bce-process=image/format,f_auto",
-          "verdict": "扫一眼",
-          "takeaway": "IT之家 10 月 5 日消息，据“海关发布”公众号，拱北海关所属港珠澳大桥海关 9 月 4 日在进境随车厅查获 2 名旅客人身绑藏走私旧手机 79 台。 ▲ 图源“海关发布”公众号（下同） 当日 23 时许，海关关员在进境随车厅监管时，发现两名推着婴儿车的旅客步伐沉重、行为异常，存在人身绑藏走私物品嫌疑。经询问，婴儿车内为旅客自己的孩子，随后关员从两人腰…",
-          "detail": "IT之家 10 月 5 日消息，据“海关发布”公众号，拱北海关所属港珠澳大桥海关 9 月 4 日在进境随车厅查获 2 名旅客人身绑藏走私旧手机 79 台。 ▲ 图源“海关发布”公众号（下同） 当日 23 时许，海关关员在进境随车厅监管时，发现两名推着婴儿车的旅客步伐沉重、行为异常，存在人身绑藏走私物品嫌疑。经询问，婴儿车内为旅客自己的孩子，随后关员从两人腰…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        }
-      ]
-    },
-    {
-      "id": "market",
-      "title": "行业趋势",
-      "hint": "看方向，不急着当购买依据。",
-      "items": [
-        {
-          "id": "auto-15f568b43ad1",
-          "title": "三星 Galaxy S27 Ultra 基础颜色选项曝光：黑色、蓝色、浅粉色、白色",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-05",
-          "time": "12:23",
-          "publishedAt": "2026-10-05T12:23:38.000Z",
-          "url": "https://www.ithome.com/1/009/867.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/0a4cbb6c-d58c-4e71-b30b-18268c61af5e.png?x-bce-process=image/format,f_auto",
+          "date": "2026-10-06",
+          "time": "02:11",
+          "publishedAt": "2026-10-06T02:11:40.000Z",
+          "url": "https://www.ithome.com/1/009/957.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/0533e9fd-0e47-4f73-aa9f-15c2f7c4aa65.jpg",
           "verdict": "先看",
-          "takeaway": "IT之家 10 月 5 日消息，博主 @i冰宇宙 今日曝光三星 Galaxy S27 Ultra 基础颜色选项，分别为黑色、蓝色、浅粉色、白色。 三星 Galaxy S27 系列预计将包含 4 款机型，分别为 6.27 英寸的 Galaxy S27、6.66 英寸的 Galaxy S27+、6.47 英寸的 Galaxy S27 Pro 以及 6.89 英…",
-          "detail": "IT之家 10 月 5 日消息，博主 @i冰宇宙 今日曝光三星 Galaxy S27 Ultra 基础颜色选项，分别为黑色、蓝色、浅粉色、白色。 三星 Galaxy S27 系列预计将包含 4 款机型，分别为 6.27 英寸的 Galaxy S27、6.66 英寸的 Galaxy S27+、6.47 英寸的 Galaxy S27 Pro 以及 6.89 英…",
+          "takeaway": "IT之家 10 月 6 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日发布视频，详细介绍了华为 Mate 90 系列首发的 多设备互助通信共享功能 。 余承东以水资源分配为例， 只需要碰一碰 ，就能把几台华为设备的网络资源整合起来，按需分配。 根据华为工程师实地测试，在京沪高铁上使用三台不同运营商网络的华为设备，开启多设备互助通…",
+          "detail": "IT之家 10 月 6 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日发布视频，详细介绍了华为 Mate 90 系列首发的 多设备互助通信共享功能 。 余承东以水资源分配为例， 只需要碰一碰 ，就能把几台华为设备的网络资源整合起来，按需分配。 根据华为工程师实地测试，在京沪高铁上使用三台不同运营商网络的华为设备，开启多设备互助通…",
           "keyPoints": [
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
-        {
-          "id": "auto-6c3b914e07a2",
-          "title": "iPhone 18 Pro 对比 Galaxy S26 Ultra：差异整理",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-05",
-          "time": "07:28",
-          "publishedAt": "2026-10-05T07:28:03.000Z",
-          "url": "https://www.gizmochina.com/2026/10/05/iphone-18-pro-vs-galaxy-s26-ultra/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/image-7-300x161.png?x96852",
-          "verdict": "扫一眼",
-          "takeaway": "iPhone 18 Pro 对比 Galaxy S26 Ultra：重点看定位、配置差异和价格差，判断是否值得等更高端型号。",
-          "detail": "iPhone 18 Pro 对比 Galaxy S26 Ultra 的差异整理。重点看两款机型的定位、影像规格、屏幕尺寸、价格区间和发布时间是否拉开差距。",
-          "keyPoints": [
-            "影像硬件",
-            "电池 / 充电",
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     }
