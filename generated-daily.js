@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-10-05T19:17:43.714Z",
-  "issueDate": "2026-10-05",
-  "issue": "VOL.261005",
+  "updatedAt": "2026-10-06T01:17:43.639Z",
+  "issueDate": "2026-10-06",
+  "issue": "VOL.261006",
   "title": "手机情报日报",
-  "intro": "今日筛出 13 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、2 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 15 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、3 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 13,
+    "total": 15,
     "iphone": 9,
     "leaks": 8,
-    "official": 2,
+    "official": 3,
     "specs": 0
   },
   "sections": [
@@ -17,29 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "weibo-a8094fd95942",
-          "title": "数码闲聊站：iPhone 18 Pro系列W39累计销量176W，根据国庆期间的走势，W4…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-10-04",
-          "time": "04:18",
-          "publishedAt": "2026-10-04T04:18:00.000Z",
-          "url": "https://weibo.com/6048569942/Rl5Mj9mAC",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone 18 Pro系列W39累计销量176W，根据国庆期间的走势，W40预估累计销量250W+，两款机型均轻松完成单品激活100W++ [微风][微风][微风]",
-          "detail": "iPhone 18 Pro系列W39累计销量176W，根据国庆期间的走势，W40预估累计销量250W+，两款机型均轻松完成单品激活100W++ [微风][微风][微风]",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "auto-c4d61d80cd37",
           "title": "消息称三星 Galaxy S27 Ultra 手机将提供“罗兰紫”特殊配色，预计作为官网专属颜色提供",
@@ -83,6 +60,52 @@ window.phoneRadarDaily = {
           "keyPoints": [
             "外观 / 配色 / 尺寸",
             "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-6e0f68dc3248",
+          "title": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
+          "originalTitle": "",
+          "source": "少数派热榜",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-10-06",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/114972",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
+          "detail": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-0ddbb4824deb",
+          "title": "iPhone 18 Pro Max 系统功能 / AI 体验相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-05",
+          "time": "21:10",
+          "publishedAt": "2026-10-05T21:10:06.000Z",
+          "url": "https://www.macrumors.com/2026/10/05/apple-att-yet-to-share-cause-of-iphone-issue/",
+          "image": "https://images.macrumors.com/article-new/2026/10/ATT-Apple.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "iPhone 18 Pro Max 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -160,48 +183,28 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-d09c7a77bd47",
-          "title": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
+          "id": "weibo-f7e4d6168a26",
+          "title": "数码闲聊站：华为Mate90系列明天发布，猜猜价格吧： 补充一些信息，Mate90是660…",
           "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-10-05",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/114972",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
-          "detail": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-076258f973c3",
-          "title": "十年前的「外挂相机」，如何在华为 Mate 90 上复活？｜硬哲学",
-          "originalTitle": "",
-          "source": "爱范儿",
+          "source": "数码闲聊站",
           "brand": "Huawei",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-10-04",
-          "time": "14:49",
-          "publishedAt": "2026-10-04T14:49:07.000Z",
-          "url": "https://www.ifanr.com/1682933?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "image": "https://s3.ifanr.com/wp-content/uploads/2026/10/lark2pad-1791125067950-2.png",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-10-06",
+          "time": "01:17",
+          "publishedAt": "2026-10-06T01:17:43.639Z",
+          "url": "https://weibo.com/6048569942/Rkw3lCtbI",
+          "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ihltiohha9j30zc3s9npd.jpg",
           "verdict": "先看",
-          "takeaway": "那个曾经太早出现的想法，这一次，可能终于等到了属于它的时代",
-          "detail": "那个曾经太早出现的想法，这一次，可能终于等到了属于它的时代",
+          "takeaway": "华为Mate90系列明天发布，猜猜价格吧： 补充一些信息，Mate90是6600mAh电池+66W(100W)快充，50Mp可变光圈高动态大底主摄，50Mp聚光长焦，麒麟9030； Mate90 Pro是双层OLED，最高12000nits，麒麟9035，50Mp潜望镜支持5cm长焦微距； Mate90 PM/RS都是18EV 50Mp超大底主摄+40Mp…",
+          "detail": "华为Mate90系列明天发布，猜猜价格吧： 补充一些信息，Mate90是6600mAh电池+66W(100W)快充，50Mp可变光圈高动态大底主摄，50Mp聚光长焦，麒麟9030； Mate90 Pro是双层OLED，最高12000nits，麒麟9035，50Mp潜望镜支持5cm长焦微距； Mate90 PM/RS都是18EV 50Mp超大底主摄+40Mp…",
           "keyPoints": [
-            "影像硬件"
+            "影像硬件",
+            "屏幕形态",
+            "电池 / 充电",
+            "成本 / 价格"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -220,7 +223,7 @@ window.phoneRadarDaily = {
           "brand": "iPhone",
           "type": "官方",
           "trust": "官方确认",
-          "date": "2026-10-05",
+          "date": "2026-10-06",
           "time": "",
           "publishedAt": "",
           "url": "https://www.apple.com/newsroom/2026/09/celebrating-what-holds-us-on-iphone-18-pro/",
@@ -243,7 +246,7 @@ window.phoneRadarDaily = {
           "brand": "iPhone",
           "type": "官方",
           "trust": "官方确认",
-          "date": "2026-10-05",
+          "date": "2026-10-06",
           "time": "",
           "publishedAt": "",
           "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
@@ -260,37 +263,14 @@ window.phoneRadarDaily = {
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         },
         {
-          "id": "auto-a2ac39257e4d",
-          "title": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验",
-          "originalTitle": "",
-          "source": "少数派",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-10-04",
-          "time": "07:58",
-          "publishedAt": "2026-10-04T07:58:39.000Z",
-          "url": "https://sspai.com/post/115308",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone 18 Pro 也许不会让你感觉焕然一新，却在许多地方都变得更加完整了。",
-          "detail": "iPhone 18 Pro 也许不会让你感觉焕然一新，却在许多地方都变得更加完整了。",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
-        {
-          "id": "newsnow-3cd4bd7d436d",
+          "id": "newsnow-467a630bba0b",
           "title": "刚看到iPhone18pro系列的销量信息，卖的太好了，感觉好心酸，今年这波集体涨价潮，一下子让安卓性价比低了很多，不涨又不行，结果就是让更多的人跑去买iPhone，其实也很好理解，价格相差能接受的情况下，选iPhone还是其他，相信绝大部分人的答案还是iPhone。",
           "originalTitle": "",
           "source": "酷安热榜",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "高关注爆料源",
-          "date": "2026-10-05",
+          "date": "2026-10-06",
           "time": "",
           "publishedAt": "",
           "url": "https://www.coolapk.com/feed/74162856",
@@ -304,6 +284,59 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响购买预算，值得先看。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
+          "id": "auto-728bbee10ddb",
+          "title": "iPhone 发布 / 上市相关消息",
+          "originalTitle": "",
+          "source": "Apple Newsroom",
+          "brand": "iPhone",
+          "type": "官方",
+          "trust": "官方确认",
+          "date": "2026-10-06",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone 有发布或新功能消息，适合确认是否和新机有关。",
+          "detail": "iPhone 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "官方"
+          ],
+          "confidence": "官方内容，可直接作为已确认信息记录。",
+          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "launch",
+      "title": "新机与官方发布",
+      "hint": "能直接更新到参数库。",
+      "items": [
+        {
+          "id": "auto-08d0d4c94d45",
+          "title": "珠海拱北海关查获旅客人身绑藏旧手机 79 台",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-05",
+          "time": "12:25",
+          "publishedAt": "2026-10-05T12:25:50.000Z",
+          "url": "https://www.ithome.com/1/009/868.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/b8cdddf8-ac06-4026-97a6-57ff8d63e98e.png?x-bce-process=image/format,f_auto",
+          "verdict": "扫一眼",
+          "takeaway": "IT之家 10 月 5 日消息，据“海关发布”公众号，拱北海关所属港珠澳大桥海关 9 月 4 日在进境随车厅查获 2 名旅客人身绑藏走私旧手机 79 台。 ▲ 图源“海关发布”公众号（下同） 当日 23 时许，海关关员在进境随车厅监管时，发现两名推着婴儿车的旅客步伐沉重、行为异常，存在人身绑藏走私物品嫌疑。经询问，婴儿车内为旅客自己的孩子，随后关员从两人腰…",
+          "detail": "IT之家 10 月 5 日消息，据“海关发布”公众号，拱北海关所属港珠澳大桥海关 9 月 4 日在进境随车厅查获 2 名旅客人身绑藏走私旧手机 79 台。 ▲ 图源“海关发布”公众号（下同） 当日 23 时许，海关关员在进境随车厅监管时，发现两名推着婴儿车的旅客步伐沉重、行为异常，存在人身绑藏走私物品嫌疑。经询问，婴儿车内为旅客自己的孩子，随后关员从两人腰…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         }
       ]
     },
@@ -334,6 +367,31 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
+          "id": "auto-6c3b914e07a2",
+          "title": "iPhone 18 Pro 对比 Galaxy S26 Ultra：差异整理",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-05",
+          "time": "07:28",
+          "publishedAt": "2026-10-05T07:28:03.000Z",
+          "url": "https://www.gizmochina.com/2026/10/05/iphone-18-pro-vs-galaxy-s26-ultra/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/image-7-300x161.png?x96852",
+          "verdict": "扫一眼",
+          "takeaway": "iPhone 18 Pro 对比 Galaxy S26 Ultra：重点看定位、配置差异和价格差，判断是否值得等更高端型号。",
+          "detail": "iPhone 18 Pro 对比 Galaxy S26 Ultra 的差异整理。重点看两款机型的定位、影像规格、屏幕尺寸、价格区间和发布时间是否拉开差距。",
+          "keyPoints": [
+            "影像硬件",
+            "电池 / 充电",
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响购买预算，值得先看。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     }
