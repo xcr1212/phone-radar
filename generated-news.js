@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-06T08:57:48.764Z",
+  "updatedAt": "2026-10-06T16:48:07.428Z",
   "news": [
     {
       "id": "weibo-f7e4d6168a26",
@@ -10,8 +10,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-06",
-      "time": "08:57",
-      "publishedAt": "2026-10-06T08:57:48.764Z",
+      "time": "16:48",
+      "publishedAt": "2026-10-06T16:48:07.428Z",
       "url": "https://weibo.com/6048569942/Rkw3lCtbI",
       "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ihltiohha9j30zc3s9npd.jpg",
       "summary": "华为Mate90系列明天发布，猜猜价格吧： 补充一些信息，Mate90是6600mAh电池+66W(100W)快充，50Mp可变光圈高动态大底主摄，50Mp聚光长焦，麒麟9030； Mate90 Pro是双层OLED，最高12000nits，麒麟9035，50Mp潜望镜支持5cm长焦微距； Mate90 PM/RS都是18EV 50Mp超大底主摄+40Mp…",
@@ -30,8 +30,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-06",
-      "time": "08:57",
-      "publishedAt": "2026-10-06T08:57:48.764Z",
+      "time": "16:48",
+      "publishedAt": "2026-10-06T16:48:07.428Z",
       "url": "https://weibo.com/6048569942/RkuQYC8En",
       "image": "",
       "summary": "摸了一下昨天 iQOO16 首销数据，竟然是近期已发安卓旗舰中的单品销量TOP1。 目前在狗猫抖三大电商平台的总销量是下半年安卓旗舰首销TOP1，而且是一杯打其它所有厂商的多杯组合，还几乎全打赢了……[哆啦A梦害怕]",
@@ -50,8 +50,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-06",
-      "time": "08:57",
-      "publishedAt": "2026-10-06T08:57:48.764Z",
+      "time": "16:48",
+      "publishedAt": "2026-10-06T16:48:07.428Z",
       "url": "https://weibo.com/6048569942/RkuyMxv05",
       "image": "",
       "summary": "耀子年底还有一堆新机，荣耀700 Pro系列有原生背屏，主打2亿超清影像。中端线还有X新品，7英寸大屏+超万级大电池，阔折叠加速中，阔直板也立项了，支持卷起来[二哈]",
@@ -62,8 +62,448 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "auto-6e75f628e251",
+      "title": "OnePlus is dead, but demand for the OnePlus 16 clearly isn’t",
+      "source": "Android Authority",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-06",
+      "time": "15:52",
+      "publishedAt": "2026-10-06T15:52:29.000Z",
+      "url": "https://www.androidauthority.com/oneplus-16-reader-poll-buying-interest-3719618/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/oneplus-16-official.jpg",
+      "summary": "Most of you want the OnePlus 16 — there’s just one small problem.",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-370d267872a9",
+      "title": "Pixel 11 Pro is hard to resist with its new $849 price",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-06",
+      "time": "15:36",
+      "publishedAt": "2026-10-06T15:36:54.000Z",
+      "url": "https://www.androidpolice.com/pixel-11-pro-drops-to-its-best-price-starting-at-just-849/",
+      "image": "",
+      "summary": "This is the best discount we've seen",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9cdb45a46b8a",
+      "title": "Red Magic 12 Pro+ reservations open ahead of October 15 launch",
+      "source": "Gizmochina",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-06",
+      "time": "15:30",
+      "publishedAt": "2026-10-06T15:30:40.000Z",
+      "url": "https://www.gizmochina.com/2026/10/06/redmagic-12-pro-plus-reservations-open-ahead-of-october-15-launch/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Red-Magic-12-Pro-300x188.png?x96852",
+      "summary": "Red Magic has opened reservations for its upcoming Red Magic 12 Pro+ smartphone on Red Magic’s official website and JD.com in China. While the company has not yet shared retail pr…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ee2aef6122cd",
+      "title": "Samsung Galaxy Z Fold 8 Ultra falls to its lowest price yet in this Prime Day deal",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-06",
+      "time": "14:36",
+      "publishedAt": "2026-10-06T14:36:10.000Z",
+      "url": "https://www.androidauthority.com/galaxy-z-fold-8-ultra-prime-day-3719375/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/samsung-galaxy-z-fold-8-ultra-review-2-scaled.jpg",
+      "summary": "Save $400 on the Galaxy Z Fold 8 Ultra at Amazon, with a Prime Day deal on the premium foldable and its 200MP camera.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ee8332434f58",
+      "title": "iPhone 18 Pro and Duo Were Once Planned With 16GB RAM, Leaker Says",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-06",
+      "time": "14:22",
+      "publishedAt": "2026-10-06T14:22:11.000Z",
+      "url": "https://www.macrumors.com/2026/10/06/iphone-18-pro-and-duo-planned-with-16gb/",
+      "image": "",
+      "summary": "Apple initially planned to equip the iPhone 18 Pro lineup and iPhone Duo with 16GB of RAM, according to the leaker known as \" Instant Digital .\" The brief Weibo post does not say…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5a39373506fa",
+      "title": "Here’s what iPhone Duo’s new two-page PDF experience looks like",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-06",
+      "time": "14:20",
+      "publishedAt": "2026-10-06T14:20:32.000Z",
+      "url": "https://9to5mac.com/2026/10/06/heres-what-iphone-duos-new-two-page-pdf-experience-looks-like/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo.jpg?quality=82&strip=all&w=1600",
+      "summary": "iPhone Duo was officially unveiled in early September, but we continue to learn more about the device in the lead-up to its October launch . The latest reveal is a preview of the…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7c2117ff81fc",
+      "title": "Samsung Galaxy S26 Ultra Prime deal knocks $420 off the 512GB model",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-06",
+      "time": "14:12",
+      "publishedAt": "2026-10-06T14:12:17.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s26-ultra-prime-day-deal-3718747/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/Samsung-Galaxy-S26-Ultra-lying-hero.jpg",
+      "summary": "The Galaxy S26 Ultra 512GB drops to $1,179.99 at Amazon, with 512GB storage, 12GB RAM, and a 6.9-inch 120Hz display.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-40a78e3aee4b",
+      "title": "Galaxy Z Fold 8 is $1,549 right now, its lowest price ever",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-06",
+      "time": "14:05",
+      "publishedAt": "2026-10-06T14:05:00.000Z",
+      "url": "https://9to5google.com/2026/10/06/galaxy-z-fold-8-price-amazon-prime-day/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-review-41.jpg?quality=82&strip=all&w=1600",
+      "summary": "Mere months after its launch, Samsung’s Galaxy Z Fold 8 is discounted by hundreds for Amazon’s Prime Day to its lowest price yet. more…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ffdab05a5dcc",
+      "title": "The Google Pixel 11 Pro plunges to a record-low price of just $849",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-06",
+      "time": "13:54",
+      "publishedAt": "2026-10-06T13:54:42.000Z",
+      "url": "https://www.androidauthority.com/google-pixel-11-pro-deal-3718640/",
+      "image": "",
+      "summary": "The Pixel 11 Pro gets a 23% discount for Prime Day, cutting the price on Google’s 6.3-inch compact flagship.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-427c289f8358",
+      "title": "Hot deal: Samsung Galaxy Z Flip 8 falls below $990 in Prime Day pick",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-06",
+      "time": "13:44",
+      "publishedAt": "2026-10-06T13:44:53.000Z",
+      "url": "https://www.androidauthority.com/deal-samsung-galaxy-z-flip-8-3718618/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Flip-8-cover-display-showing-camera-head-on.jpg",
+      "summary": "Amazon cuts $210 off the Galaxy Z Flip 8 for Prime Day, bringing the foldable down to its lowest price since launch.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3e2a47bd63bc",
+      "title": "Google Pixel 12 Pro Fold tipped for a major display upgrade, IMEI listing reveals",
+      "source": "Gizmochina",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-06",
+      "time": "13:42",
+      "publishedAt": "2026-10-06T13:42:15.000Z",
+      "url": "https://www.gizmochina.com/2026/10/06/google-pixel-12-pro-fold-tipped-for-a-major-display-upgrade-imei-listing-reveals/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/unnamed-300x169.jpg?x96852",
+      "summary": "According to tech site OVRPlus, which dug into the GSMA IMEI database, four unannounced Google phones have shown up with new model IDs: Pixel 12 (GC0QU), Pixel 12 Pro (GWU59), Pix…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7fdceeae066a",
+      "title": "Apple will launch 7+ new products in October, here’s what’s coming",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-06",
+      "time": "13:32",
+      "publishedAt": "2026-10-06T13:32:06.000Z",
+      "url": "https://9to5mac.com/2026/10/06/apple-will-launch-7-new-products-in-october-heres-whats-coming/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/DSC02665.jpg?quality=82&strip=all&w=1600",
+      "summary": "iPhone Duo is launching later this month , but Apple reportedly has many other new products set to debut in October too, with the first unveilings coming next week. Here’s what to…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a90c8c7232a9",
+      "title": "Vivo S2 FE debuts in India with 10000mAh battery, 120Hz AMOLED display, IP68 & IP69 rating",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-06",
+      "time": "13:31",
+      "publishedAt": "2026-10-06T13:31:20.000Z",
+      "url": "https://www.gizmochina.com/2026/10/06/vivo-s2-fe-launched-in-india-specs-price/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Vivo-S2-FE-5-300x169.jpeg?x96852",
+      "summary": "Vivo has announced the S2 FE for the Indian market, adding a new device to its S-Series lineup. The smartphone focuses on long battery life and durability, backed by a large-capac…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-eead3d547b9e",
+      "title": "The new Samsung Galaxy Z Fold 8 gets a $350 Prime Day price drop",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-06",
+      "time": "13:22",
+      "publishedAt": "2026-10-06T13:22:11.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-deal-3718178/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Samsung-Galaxy-Z-Fold-8-in-hand-showing-folding-screen-scaled-1.jpg",
+      "summary": "Samsung's new Galaxy Z Fold 8 falls to $1,749.99 at Amazon, its best price since launch.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5b5c45eac72f",
+      "title": "A fun night video test of the iPhone 18 Pro",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-06",
+      "time": "12:49",
+      "publishedAt": "2026-10-06T12:49:04.000Z",
+      "url": "https://9to5mac.com/2026/10/06/a-fun-night-video-test-of-the-iphone-18-pro/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/A-fun-night-video-test-of-the-iPhone-18-Pro.jpeg?quality=82&strip=all&w=1600",
+      "summary": "After taking a series of portrait photos to test the wider aperture of the iPhone 18 Pro , my original plan had been to hang around until it was dark in order to see whether letti…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7e272cb96e76",
+      "title": "All of the best fall Prime Day deals: Pixel 11, Galaxy Z Fold 8, chargers, smart home, TVs, more",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-06",
+      "time": "12:31",
+      "publishedAt": "2026-10-06T12:31:31.000Z",
+      "url": "https://9to5google.com/2026/10/06/best-fall-prime-day-deals-pixel-galaxy/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Prime-Big-Deal-Day-2026-Apple-deals.png?w=1600",
+      "summary": "The 2026 fall Prime Day sale is now officially live with new all-time lows across the Pixel 11 series at up to $300 off and the best straight up cash discounts we have tracked to…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-92381f80bb89",
+      "title": "Samsung's Galaxy S26 FE is a decent phone, but it makes too many compromises to be worth your money",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-10-06",
+      "time": "12:00",
+      "publishedAt": "2026-10-06T12:00:00.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-s26-fe-review",
+      "image": "https://cdn.mos.cms.futurecdn.net/WQXkwmgi2ZjbrQqnvVt3bc-1920-80.jpg",
+      "summary": "Samsung's \"Fan Edition\" phones try to deliver a flagship \"Plus\" experience at lower prices, but the Galaxy S26 FE falls short amid a price hike.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b42fcbddd043",
+      "title": "See for yourself the difference the wider aperture of the iPhone 18 Pro makes",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-06",
+      "time": "11:51",
+      "publishedAt": "2026-10-06T11:51:09.000Z",
+      "url": "https://9to5mac.com/2026/10/06/see-for-yourself-the-difference-the-wider-aperture-of-the-iphone-18-pro-makes/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Heres-the-difference-the-wider-aperture-of-the-iPhone-18-Pro-makes-in-real-life-photos.jpg?quality=82&strip=all&w=1600",
+      "summary": "Alongside a variable aperture lens, the main camera of the iPhone 18 Pro also opens up to a wider aperture than its predecessors. Apple has been promoting this as enabling a shall…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-331737120983",
+      "title": "Is a discounted Galaxy S25 Ultra now the smarter purchase?",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-06",
+      "time": "11:30",
+      "publishedAt": "2026-10-06T11:30:37.000Z",
+      "url": "https://www.sammobile.com/news/is-a-discounted-galaxy-s25-ultra-now-the-smarter-purchase/",
+      "image": "",
+      "summary": "High memory costs have recently forced Samsung to raise prices for the Galaxy S26 series, first in India and Korea, then in the US, Canada, the UK, and Europe. These price hikes a…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a6f721a84f6f",
+      "title": "制造商 Brook 推出 StarRay 无线手柄：霍尔摇杆、1K 回报率，支持 PS5/PC",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-06",
+      "time": "11:10",
+      "publishedAt": "2026-10-06T11:10:24.000Z",
+      "url": "https://www.ithome.com/1/010/037.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/17f087ed-2ac7-4fba-b93d-1ccc4930a906.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 6 日消息，制造商 Brook Gaming 现已在海外市场推出 StarRay 无线手柄。 新品采用类似微软 XBOX 手柄的非对称摇杆布局 ，兼容 PS5、PC、iOS 和 Android 平台。 据介绍，这款手柄配备霍尔效应摇杆、机械按键，相比普通摇杆更加耐用。连接 PC 时， 该手柄最高可实现 1000Hz 回报率 ，扳机支持双…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d80618928325",
+      "title": "I loved using the Galaxy Z Fold 8 Ultra, but I wouldn’t spend $2,000+ on it",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-06",
+      "time": "10:00",
+      "publishedAt": "2026-10-06T10:00:02.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-ultra-review-3715709/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/samsung-galaxy-z-fold-8-ultra-review-2-scaled.jpg",
+      "summary": "Is the Fold 8 Ultra the right foldable for you?",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-a508f1c44d7d",
+      "title": "竹本青：【媒体向华为证实：高通获支撑逻辑折叠芯片技术相关专利许可】 10月6日，深视新闻向华为证实，华为与高通达成的长期广…",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-06",
+      "time": "09:19",
+      "publishedAt": "2026-10-06T09:19:57.000Z",
+      "url": "https://www.coolapk.com/feed/74195140",
+      "image": "http://image.coolapk.com/feed/2026/1006/17/4248714_35be972f_8396_5461_968@1440x2519.jpg",
+      "summary": "【媒体向华为证实：高通获支撑逻辑折叠芯片技术相关专利许可】 10月6日，深视新闻向华为证实，华为与高通达成的长期广泛专利许可协议，授权涵盖近封装光学（Near-Packaged Optics，NPO）互联技术，以及支撑华为逻辑折叠（LogicFolding）芯片技术的相关专利许可。 昨日（10月5日），华为官宣与高通达成一项多年期广泛专利许可协议。内容涵盖…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
       "id": "coolapk-user-63b7cd480672",
-      "title": "竹本青：【中国联通上线荣耀Magic9 Pro Max 开通eSIM权益】 ● 联通渠道购机三选一： 30GB境外eSIM…",
+      "title": "竹本青：中国联通上线荣耀Magic9 Pro Max开通eSIM权益",
       "source": "竹本青",
       "brand": "HONOR",
       "model": "HONOR 相关机型",
@@ -143,7 +583,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-8c113157b58b",
-      "title": "竹本青：【消息称高通澄清与华为专利协议传闻：“涉及逻辑折叠”、“高通为净支付方”说法均不属实】 10月6日，据新浪科技，有…",
+      "title": "竹本青：消息称高通澄清与华为专利协议传闻：部分说法不实",
       "source": "竹本青",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
@@ -162,68 +602,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-a7db5043130e",
-      "title": "谷歌 Pixel 12 系列手机曝光：Fold 折叠内屏升至 2296×2404 分辨率",
-      "source": "IT之家",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-06",
-      "time": "05:34",
-      "publishedAt": "2026-10-06T05:34:42.000Z",
-      "url": "https://www.ithome.com/1/009/985.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/c4284d58-58b2-4d27-9c84-50968d15c357.png",
-      "summary": "IT之家 10 月 6 日消息，科技媒体 ovrplus 于 10 月 4 日发布博文，通过挖掘 GSMA IMEI 数据库， 发现了谷歌 Pixel 12、Pixel 12 Pro、Pixel 12 Pro XL 与 Pixel 12 Pro Fold 四款手机的踪迹。 IT之家援引博文内容以及注册相关信息，附上 4 款手机的注册代码以及屏幕分辨率信息：…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-6cbbf308579a",
-      "title": "华为余承东谈内存压力：每部手机成本大增 200 美元，为保公司生存不得不涨价",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-06",
-      "time": "04:51",
-      "publishedAt": "2026-10-06T04:51:49.000Z",
-      "url": "https://www.ithome.com/1/009/978.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/fa128969-c0e5-403a-963b-66a513c714c3.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1",
-      "summary": "IT之家 10 月 6 日消息，华为海外 X 账号今日（10 月 6 日）发布了 9 月 29 日的国际媒体圆桌会议摘要。华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东与多家国际媒体的记者就华为消费者业务及 HarmonyOS 生态系统进行了交流。 在谈到内存成本上涨话题时，余承东坦言，内存组件价格的急剧上涨导致每部手机额外增加了 超过 2…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ec832a4f7565",
-      "title": "余承东回应苹果入局折叠屏：欢迎同行加入竞争，iPhone Duo 发布后华为 Pura X Max 销量大增 76%",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-06",
-      "time": "04:39",
-      "publishedAt": "2026-10-06T04:39:03.000Z",
-      "url": "https://www.ithome.com/1/009/976.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/fa128969-c0e5-403a-963b-66a513c714c3.jpg?x-bce-process=image/auto-orient,o_1",
-      "summary": "IT之家 10 月 6 日消息，华为海外 X 账号今日（10 月 6 日）发布了 9 月 29 日的国际媒体圆桌会议摘要。华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东与多家国际媒体的记者就华为消费者业务及 HarmonyOS 生态系统进行了交流。 有记者询问华为 Mate XT 2 三折叠手机的具体销售或出货量数据。此外，苹果也首次推出了…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-6391c2832cbc",
-      "title": "竹本青：【李杰谈一加手机器件取舍：外围不是成本问题，优先整机综合体验】 10月6日，一加中国区总裁 李杰 回应网友提问，针…",
+      "title": "竹本青：李杰回应一加器件取舍：基于整机综合体验",
       "source": "竹本青",
       "brand": "OPPO",
       "model": "OPPO 相关机型",
@@ -239,86 +619,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-85831a54f7b9",
-      "title": "iPhone 秒变“摄影机”，ShiftCam 与苹果合作推出全新 ProRig 套装",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-06",
-      "time": "03:31",
-      "publishedAt": "2026-10-06T03:31:33.000Z",
-      "url": "https://www.ithome.com/1/009/970.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/844d1f95-0fad-4d12-b03c-0a3d8ac41e55.jpg",
-      "summary": "IT之家 10 月 6 日消息，苹果多年来一直将 iPhone 定位为专业的视频拍摄设备，官方每年的视频短片花絮中都能看到 iPhone 外挂各种专业影像设备的画面。 现在，ShiftCam 与苹果合作， 开发了一套用于 iPhone 的摄影配件 ，包括可用于手持、云台和三脚架拍摄的铝合金外壳“兔笼”，以及外挂的镜头、滤镜、麦克风、LED 灯和手柄等。 S…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-f512a97b5fcc",
-      "title": "竹本青：【华为余承东详解“多设备互助通信共享”功能：Mate90系列首发，鸿蒙7老机型也能用上】 ● 不同账号“碰一碰”即…",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-06",
-      "time": "02:43",
-      "publishedAt": "2026-10-06T02:43:27.000Z",
-      "url": "https://www.coolapk.com/feed/74188863",
-      "image": "http://image.coolapk.com/feed/2026/1006/10/4248714_69fc4d6d_4327_5353_793-livepic@1080x1920.jpg",
-      "summary": "【华为余承东详解“多设备互助通信共享”功能：Mate90系列首发，鸿蒙7老机型也能用上】 ● 不同账号“碰一碰”即可互助 ● 最多支持4台设备互助 ● 鸿蒙7升级后开放更多老机型 10月6日，华为余承东发布视频，详解Mate 90系列首发的\"多设备互助通信共享\"功能。 他介绍，该功能将多台华为设备组成\"用网互助联盟\"：把各自的网络资源整合到一起，再根据每台…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-dc0e8f324974",
-      "title": "Symmetry vs asymmetry: How the Galaxy Z Fold 8 beats the iPhone Duo",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-06",
-      "time": "02:16",
-      "publishedAt": "2026-10-06T02:16:00.000Z",
-      "url": "https://www.sammobile.com/opinion/symmetry-vs-asymmetry-how-galaxy-z-fold-8-beats-iphone-duo/",
-      "image": "",
-      "summary": "Apple's first foldable phone may have split the foldable phone market between models with symmetrical and asymmetrical cover screens. The new Samsung Galaxy Z Fold 8 and the Apple…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c579d71828d8",
-      "title": "余承东详解华为手机“拼好网”：高铁视频通话卡顿减少 90%，Mate 90 系列首发",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-06",
-      "time": "02:11",
-      "publishedAt": "2026-10-06T02:11:40.000Z",
-      "url": "https://www.ithome.com/1/009/957.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/0533e9fd-0e47-4f73-aa9f-15c2f7c4aa65.jpg",
-      "summary": "IT之家 10 月 6 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日发布视频，详细介绍了华为 Mate 90 系列首发的 多设备互助通信共享功能 。 余承东以水资源分配为例， 只需要碰一碰 ，就能把几台华为设备的网络资源整合起来，按需分配。 根据华为工程师实地测试，在京沪高铁上使用三台不同运营商网络的华为设备，开启多设备互助通…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -422,6 +722,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-b49366f37ff7",
+      "title": "现阶段内存涨价，手机真是太贵了，而且现在更有旗舰机直接用上 QLC，就比如浓眉大眼的苹果 18 系列，国庆假期闲着无聊，就想着做个小软件，能简单鉴定 QLC 和 TLC，找朋友测了一圈，发现了一个非常让我震惊的事，就近 1 年的新机，拯救者手机可能是极少数采用的 TLC 的 机型",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-06",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74196042",
+      "image": "",
+      "summary": "现阶段内存涨价，手机真是太贵了，而且现在更有旗舰机直接用上 QLC，就比如浓眉大眼的苹果 18 系列，国庆假期闲着无聊，就想着做个小软件，能简单鉴定 QLC 和 TLC，找朋友测了一圈，发现了一个非常让我震惊的事，就近 1 年的新机，拯救者手机可能是极少数采用的 TLC 的 机型",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-670bb63c3984",
       "title": "荣耀Magic9 Pro Max推送MagicOS 11.0.0.111版本更新，本次更新核心优化系统稳定性，修复了部分极限场景下的崩溃重启问题，该问题为高通图形HAL服务软件缺陷导致的软件层面问题，非硬件故障，更新未对CPU进行降频",
       "source": "酷安热榜",
@@ -462,28 +782,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-e0a51f727e95",
-      "title": "花了2w在vivo，首发拿残次品，这事不解决不再买vivo产品[表面开心]@vivo服务小V #OriginOS7# #vivoX300# #OriginOS6#",
-      "source": "酷安热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-06",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74177597",
-      "image": "",
-      "summary": "花了2w在vivo，首发拿残次品，这事不解决不再买vivo产品[表面开心]@vivo服务小V #OriginOS7# #vivoX300# #OriginOS6#",
-      "tags": [
-        "vivo",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-d57e6ccc4712",
-      "title": "刚下后夜班，脱工服的时候蹭得满手机油味，我蹲在宿舍楼道的台阶上吹冷风，指尖夹着的五块钱烟烧到了滤嘴都没察觉。",
+      "id": "newsnow-0d13423c03cc",
+      "title": "半导体超级周期下的厂家都不好受，DRAM暴涨，NAND大涨最终手机也大涨",
       "source": "酷安热榜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -492,9 +792,9 @@ window.phoneRadarAuto = {
       "date": "2026-10-06",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74173316",
+      "url": "https://www.coolapk.com/feed/74166511",
       "image": "",
-      "summary": "刚下后夜班，脱工服的时候蹭得满手机油味，我蹲在宿舍楼道的台阶上吹冷风，指尖夹着的五块钱烟烧到了滤嘴都没察觉。",
+      "summary": "半导体超级周期下的厂家都不好受，DRAM暴涨，NAND大涨最终手机也大涨",
       "tags": [
         "行业",
         "爆料",
@@ -502,21 +802,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-3e49858b7e73",
-      "title": "余承东详解华为手机“拼好网”",
-      "source": "今日头条热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "id": "newsnow-7f96288f116a",
+      "title": "游客一进县城就收到文旅局长手机号",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-10-06",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7693390736930521130/",
+      "url": "https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E4%B8%80%E8%BF%9B%E5%8E%BF%E5%9F%8E%E5%B0%B1%E6%94%B6%E5%88%B0%E6%96%87%E6%97%85%E5%B1%80%E9%95%BF%E6%89%8B%E6%9C%BA%E5%8F%B7",
       "image": "",
-      "summary": "余承东详解华为手机“拼好网”",
+      "summary": "游客一进县城就收到文旅局长手机号",
       "tags": [
-        "Huawei",
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -582,26 +882,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-26f42204be98",
-      "title": "Samsung's Galaxy SmartTag 3 works with way more Android phones than anyone realized",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-05",
-      "time": "19:54",
-      "publishedAt": "2026-10-05T19:54:25.000Z",
-      "url": "https://www.androidpolice.com/samsung-galaxy-smarttag-3-tracker-extended-compatibility/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/09/samsung-smarttag-trackers-in-black-and-white.png",
-      "summary": "No longer exclusive to Galaxy and iOS devices.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-808af9dbbb75",
       "title": "Samsung may have found a smart way to speed up Galaxy S27 Ultra charging",
       "source": "Android Authority",
@@ -642,26 +922,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-65c7d77481e2",
-      "title": "Galaxy Z Fold 8 is the wobbliest phone I’ve ever used, and the solution looks painfully obvious",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-05",
-      "time": "16:30",
-      "publishedAt": "2026-10-05T16:30:00.000Z",
-      "url": "https://www.sammobile.com/opinion/galaxy-z-fold-8-wobbliest-phone-i-ever-used-solution-obvious/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Samsung-Galaxy-S27-Ultra-Design-Final-CAD-Render-Black.jpg",
-      "summary": "The Galaxy Z Fold 8 quickly became my favorite phone ever, but that doesn't mean it's perfect. In fact, it very much feels like a first-gen device in several areas. Some of those…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-80ff87ce2ec6",
       "title": "Leaked Galaxy S27 Ultra color list doesn’t include Purple, for a change",
       "source": "9to5Google",
@@ -682,26 +942,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-6a44761b4bb5",
-      "title": "iPhone 13 Pro vs. iPhone 18 Pro Buyer's Guide: Is It Worth Upgrading?",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-05",
-      "time": "15:58",
-      "publishedAt": "2026-10-05T15:58:56.000Z",
-      "url": "https://www.macrumors.com/guide/iphone-13-pro-vs-18-pro/",
-      "image": "https://images.macrumors.com/article-new/2026/10/iphone-13-pro-vs-iphone-18-pro.jpg",
-      "summary": "Apple released the iPhone 18 Pro and iPhone 18 Pro Max in September 2026, five years after the iPhone 13 Pro and iPhone 13 Pro Max. The 2021 models introduced ProMotion displays,…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-2671ba31ddae",
       "title": "Honor’s Galaxy Z Fold 8 and iPhone Duo rival is reportedly launching in January",
       "source": "9to5Google",
@@ -717,26 +957,6 @@ window.phoneRadarAuto = {
       "summary": "Honor’s first wide-format foldable is apparently coming in January, leaks suggest, to take on the Galaxy Z Fold 8 and iPhone Duo. more…",
       "tags": [
         "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-78a3a6d49126",
-      "title": "The Galaxy S27 Ultra may charge faster than the S26 Ultra despite the same 60W limit",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-05",
-      "time": "14:50",
-      "publishedAt": "2026-10-05T14:50:10.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s27-ultra-may-charge-faster-than-s26-ultra-despite-the-same-60w-limit/",
-      "image": "",
-      "summary": "The Galaxy S26 Ultra was the first Ultra model in years to benefit from a significant battery upgrade, which could mean that the upcoming Galaxy S27 Ultra won't try to raise the b…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -842,86 +1062,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-50b7ae5d5e1f",
-      "title": "5 Android phones you should buy instead of the iPhone 18 Pro Max",
-      "source": "Android Authority",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-05",
-      "time": "10:00",
-      "publishedAt": "2026-10-05T10:00:13.000Z",
-      "url": "https://www.androidauthority.com/iphone-18-pro-max-android-alternatives-3717855/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Apple-iPhone-18-Pro-Max-in-Burgundy.jpg",
-      "summary": "Apple isn't the only tempting option.",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f29b4b0a0ef2",
-      "title": "This Android flagship won our best iPhone 18 Pro alternative survey by a landslide",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-05",
-      "time": "09:20",
-      "publishedAt": "2026-10-05T09:20:17.000Z",
-      "url": "https://www.androidauthority.com/best-iphone-18-pro-alternative-poll-results-3718944/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Apple-iPhone-18-Pro-in-Glacier-Blue.jpg",
-      "summary": "The latest Pixel plays second fiddle to its biggest Android rival.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ce510c767d43",
-      "title": "I love the Pixel 11 Pro, but Google has 3 big problems to fix for the Pixel 12 Pro",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-05",
-      "time": "09:00",
-      "publishedAt": "2026-10-05T09:00:13.000Z",
-      "url": "https://www.androidauthority.com/pixel-11-pro-problems-google-needs-fix-pixel-12-pro-3717405/",
-      "image": "",
-      "summary": "Google, this is what you need to do.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c3045600ab35",
-      "title": "This ‘Ultra’ flagship looked like a spec monster, but no one will be able to buy it",
-      "source": "Android Authority",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-05",
-      "time": "08:49",
-      "publishedAt": "2026-10-05T08:49:43.000Z",
-      "url": "https://www.androidauthority.com/xiaomi-18-ultra-specs-price-leak-phone-canceled-3718980/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xiaomi-18-Pro-and-18-Pro-Max-China-launch.jpg",
-      "summary": "Xiaomi seemingly canceled the Xiaomi 18 Ultra because it would be too expensive.",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-53941eccad30",
       "title": "Xiaomi 18 Pro Max vs Honor Magic9 Pro Max: The $250 Price Gap Changes Everything",
       "source": "Gizmochina",
@@ -977,26 +1117,6 @@ window.phoneRadarAuto = {
       "summary": "Xiaomi 18 Pro Max and Vivo X500 Pro Max target buyers who want a no-compromise Android flagship, but they take different routes to get there. Xiaomi emphasizes extreme performance…",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-230306c4bf46",
-      "title": "Google Maps has become nearly unusable for some Pixel 11 users on Android Auto",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-05",
-      "time": "07:38",
-      "publishedAt": "2026-10-05T07:38:58.000Z",
-      "url": "https://www.androidauthority.com/pixel-11-google-maps-android-auto-bug-3718880/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2025/10/android-auto-guidance-audio-google-maps-1.jpg",
-      "summary": "Maps can flicker, freeze, or fall behind while the rest of Android Auto keeps working.",
-      "tags": [
-        "Pixel",
         "爆料",
         "自动抓取"
       ]
