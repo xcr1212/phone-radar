@@ -1,6 +1,126 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-07T13:20:51.333Z",
+  "updatedAt": "2026-10-07T19:58:28.243Z",
   "news": [
+    {
+      "id": "auto-c8a6c36adca8",
+      "title": "I tested the iPhone 18 Pro’s variable aperture camera. Now I want it on every Android phone",
+      "source": "Android Authority",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-07",
+      "time": "18:22",
+      "publishedAt": "2026-10-07T18:22:04.000Z",
+      "url": "https://www.androidauthority.com/iphone-18-pro-variable-aperture-camera-hands-on-android-phones-need-3716270/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/iPhone-18-Pro-Max-variable-aperture-scaled.jpg",
+      "summary": "The Android world is missing out.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a6f582afbe98",
+      "title": "谷歌认证翻新计划扩展至日本：Pixel 8 / 9 系列智能手机最多折扣 45%",
+      "source": "IT之家",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-07",
+      "time": "15:25",
+      "publishedAt": "2026-10-07T15:25:37.000Z",
+      "url": "https://www.ithome.com/1/010/301.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/e99758de-3c40-4293-b2b1-f009fc908262.jpg",
+      "summary": "IT之家 10 月 7 日消息，Google（谷歌）当地时间今日宣布，其认证翻新设备计划正式扩展至日本市场。当地消费者通过官方渠道购买 Pixel 8 / 9 系列等前代 Google Pixel 设备的“官翻机”时 最多可享受 45% 的折扣 。 所有谷歌认证翻新设备都 经过全面且严格的质量测试 。当这些设备需要更换部件或进行维修时，仅会使用谷歌授权服务…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f9ed3dd37fe6",
+      "title": "The 512GB Samsung Galaxy S26 gets a rare 25% Prime Day discount",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-07",
+      "time": "15:01",
+      "publishedAt": "2026-10-07T15:01:03.000Z",
+      "url": "https://www.androidauthority.com/512gb-samsung-galaxy-s26-deal-3720319/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/samsung-galaxy-s26-base-review-display-on-scaled.jpg",
+      "summary": "Amazon cut $300 off the Galaxy S26 512GB for Prime Day, bringing Samsung's 2026 flagship down before the deal ends tonight.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-14d1618f3864",
+      "title": "Best Buy Takes $260 Off All iPhone Air Models During Techtober Sale",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-07",
+      "time": "15:00",
+      "publishedAt": "2026-10-07T15:00:17.000Z",
+      "url": "https://www.macrumors.com/2026/10/07/iphone-air-models-prime-big-deal-days/",
+      "image": "https://images.macrumors.com/article-new/2025/02/iphone-air-camera.jpg",
+      "summary": "Best Buy today is offering customers a chance to get $260 off every model of the iPhone Air during its \"Techtober\" event . This is a match of the record low prices we saw during B…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-798a0ac16c5a",
+      "title": "华为旗舰手机 14 天无忧体验计划上新，新增 Mate 90 标准版 / Pro 机型",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-07",
+      "time": "14:43",
+      "publishedAt": "2026-10-07T14:43:25.000Z",
+      "url": "https://www.ithome.com/1/010/292.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/50225b9f-ce6e-442d-bda1-e2eafaada97b.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 7 日消息，华为官方近期推出了旗舰手机 14 天无忧体验计划活动，支持用户体验华为最新旗舰手机（体验前需支付全款）。 体验期满后，用户可选择自己留用或归还设备并办理退款 。 华为旗舰手机 14 天无忧体验计划已于今年 9 月 10 日开启，截止日期为 2026 年 11 月 15 日。IT之家注意到， 这项活动现在还新增支持了 Mate…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-11579ccc918b",
+      "title": "余承东：华为 Mate XT 2 三折叠手机出货已近 10 万台，预计总量也将超百万台",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-07",
+      "time": "14:18",
+      "publishedAt": "2026-10-07T14:18:13.000Z",
+      "url": "https://www.ithome.com/1/010/290.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/c82a0cbf-96a8-4661-9f95-dc07b847f9d1.jpg?x-bce-process=image/auto-orient,o_1",
+      "summary": "IT之家 10 月 7 日消息，在 9 月初的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东正式发布了 Mate XT 2 非凡大师全新展翼三折叠手机。 据余承东在 9 月 29 日的国际媒体圆桌会议上透露，Mate XT 2 是华为的第二代三折叠手机，…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-c1b6c828144b",
       "title": "Apple Reportedly Waiting on Samsung for Ultimate Bezel-Free iPhone Display",
@@ -242,26 +362,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-54d239f2800f",
-      "title": "荣耀 Magic9 全系列支持红外功能，Pro Max 搭载独有「360° 红外遥控增强」技术",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-07",
-      "time": "08:28",
-      "publishedAt": "2026-10-07T08:28:45.000Z",
-      "url": "https://www.ithome.com/1/010/227.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/363a02ad-f95e-4af7-9d3b-d557657b012b.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 7 日消息，荣耀研发工程师 @荣耀曹工 昨日发文，解答了关于 Magic9 系列手机（手机顶部没有红外发射的开孔）是否支持红外遥控这一问题。他表示： 荣耀 Magic9 全系列都支持红外的功能： ① 荣耀 Magic9 Pro Max 搭载的荣耀独有的「360° 红外遥控增强」 实现遥控全角度覆盖，无需对准即可自由遥控。 ② 荣耀 Ma…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-3a5e20da55fe",
       "title": "Galaxy Z Fold 8 series, Z Flip 8 October 2026 security update goes global",
       "source": "SamMobile",
@@ -277,106 +377,6 @@ window.phoneRadarAuto = {
       "summary": "A couple of days ago, Samsung released software updates for the Galaxy Z Fold 8 Ultra, Galaxy Z Fold 8, and the Galaxy Z Flip 8 that offered the October 2026 security patch. These…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b53401cdfab5",
-      "title": "李杰：全局 165Hz 超高刷需要屏幕硬件支持，目前行业里只有一加 16 可以",
-      "source": "IT之家",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-07",
-      "time": "07:34",
-      "publishedAt": "2026-10-07T07:34:56.000Z",
-      "url": "https://www.ithome.com/1/010/217.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/9b0ebbcc-d020-4365-b188-1ab506e67b5b.png",
-      "summary": "IT之家 10 月 7 日消息，一加中国区总裁李杰昨日发文，预热了一加 16 旗舰新机。他透露， 这款机型支持全局 165Hz 超高刷 。而且一加把开关直接做进了系统设置里面，常用常开。 有网友询问一加 15 是否可以支持全局 165Hz 超高刷，李杰回应称：“ 一加 15 不支持 。全局 165 是需要屏幕硬件支持的，目前行业里只有一加 16 可以支持。…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e947debf2f78",
-      "title": "打通 AirDrop：小米 18 Pro Max 手机上线“与 Apple 设备互传”功能",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-07",
-      "time": "07:05",
-      "publishedAt": "2026-10-07T07:05:50.000Z",
-      "url": "https://www.ithome.com/1/010/209.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/f5bfb865-bf3b-41b3-bd34-efea144d5dbb.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 7 日消息，据博主 @懒酱的日记本 分享，搭载澎湃 OS 4 系统的小米 18 Pro Max 已上线“与 Apple 设备互传”功能。从配图来看， 新功能打通了苹果隔空投送 AirDrop 。 需要注意的是，在互传过程中，对方的 Apple 设备需在“控制中心” 将“隔空投送”（AirDrop）设为“所有人（10 分钟）” 即可接收文…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a404cc382039",
-      "title": "一加 Ace 7 手机曝光：6.78 英寸 185Hz 屏幕、9000mAh 电池、2 亿像素主摄",
-      "source": "IT之家",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-07",
-      "time": "07:03",
-      "publishedAt": "2026-10-07T07:03:20.000Z",
-      "url": "https://www.ithome.com/1/010/208.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/4/a3d81914-45d7-446f-8365-cc48e19c2ed8.png?x-bce-process=image/auto-orient,o_1",
-      "summary": "IT之家 10 月 7 日消息，科技媒体 GSMArena 今天（10 月 7 日）发布博文，爆料分享了一加 Ace 7 手机的规格信息，该手机将会配备高通第五代骁龙 8 至尊版（SM8850 / SM8850Q）芯片。 外观方面，消息称一加 Ace 7 手机采用 6.78 英寸直屏设计。面板类型为低温多晶硅有机发光二极管（LTPS OLED），分辨率标为…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f9c1e9ffa7f1",
-      "title": "Samsung’s Galaxy S26 price hikes are a worrying sign for Galaxy S27 buyers",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-07",
-      "time": "07:00",
-      "publishedAt": "2026-10-07T07:00:00.000Z",
-      "url": "https://www.sammobile.com/news/samsung-galaxy-s26-price-hikes-worrying-sign-for-s27-buyers/",
-      "image": "",
-      "summary": "As you've probably heard, the memory market recently forced Samsung to increase prices across the Galaxy S26 flagship trio. This may be a bad sign for fans who are waiting for 202…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-4f66f8b5b507",
-      "title": "微软 Win11 快速设置面板新增“移动设备”磁贴，方便用户访问已连接手机",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-07",
-      "time": "06:39",
-      "publishedAt": "2026-10-07T06:39:01.000Z",
-      "url": "https://www.ithome.com/1/010/203.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/42ec9e9e-d4ea-4fd2-bdde-f1e6719c8421.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 7 日消息，科技媒体 Windows Latest 今天（10 月 7 日）发布博文，报道称在 Windows 11 Build 26340.9596 预览版中， 微软在快速设置（Quick Settings）新增“移动设备”磁贴，让用户更快从任务栏访问已连接的手机。 用户在连接手机到 Windows 11 PC 之后，不需要打开 Ph…",
-      "tags": [
-        "行业",
         "爆料",
         "自动抓取"
       ]
@@ -419,6 +419,26 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "微博"
+      ]
+    },
+    {
+      "id": "coolapk-user-ce487ef43241",
+      "title": "竹本青：小米18 Fold 首销14天销量曝光：约8.86万台",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-07",
+      "time": "01:56",
+      "publishedAt": "2026-10-07T01:56:10.000Z",
+      "url": "https://www.coolapk.com/feed/74205858",
+      "image": "http://image.coolapk.com/feed/2026/1007/10/4248714_ec3c999b_8411_6933_747@4096x2008.jpg",
+      "summary": "【小米18 Fold 首销14天销量曝光：约8.86万台】 截至2026 W38 (9.14-9.20) —— 约8.86万台 截至2026 W37 (9.7-9.13) —— 约3.97万台 ————————————————— 9月7日 —— 小米18 Fold 发布，10999元起； 9月10日 —— 小米18 Fold 全渠道开售； 9月23日 ——…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
       ]
     },
     {
@@ -542,28 +562,28 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-a050e2d98818",
-      "title": "8月份暑假在北京朝阳区某大型商场地下超市做了一个月收银员暑工，日均约500单，每天接触顾客上千人。站在收银这个视角，单看顾客结账掏出来的手机，分享下这段时间的实地观察",
+      "id": "newsnow-142052557593",
+      "title": "入职华星了，华星屏幕供小米系列比较多，兄弟们有什么想问的吗？#小米18Pro# #REDMIK100ProMax#",
       "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-07",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74176571",
+      "url": "https://www.coolapk.com/feed/74205864",
       "image": "",
-      "summary": "8月份暑假在北京朝阳区某大型商场地下超市做了一个月收银员暑工，日均约500单，每天接触顾客上千人。站在收银这个视角，单看顾客结账掏出来的手机，分享下这段时间的实地观察",
+      "summary": "入职华星了，华星屏幕供小米系列比较多，兄弟们有什么想问的吗？#小米18Pro# #REDMIK100ProMax#",
       "tags": [
-        "行业",
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-4712c322e939",
-      "title": "以阔换阔了[牛牛呲牙笑][牛牛呲牙笑]，用惯了只适应阔直板了，看样子以后只能用这种胖墩墩的手机了[流泪][流泪][流泪][流泪]#华为Mate90ProMax#",
+      "id": "newsnow-6a6a5c246583",
+      "title": "消息称华为 Mate90系列首销期销量已超27万台",
       "source": "酷安热榜",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
@@ -572,11 +592,31 @@ window.phoneRadarAuto = {
       "date": "2026-10-07",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74191864",
+      "url": "https://www.coolapk.com/feed/74213711",
       "image": "",
-      "summary": "以阔换阔了[牛牛呲牙笑][牛牛呲牙笑]，用惯了只适应阔直板了，看样子以后只能用这种胖墩墩的手机了[流泪][流泪][流泪][流泪]#华为Mate90ProMax#",
+      "summary": "消息称华为 Mate90系列首销期销量已超27万台",
       "tags": [
         "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-8d33bee47464",
+      "title": "感觉要预言成真了[捂脸][捂脸]，现在不应该讨论能不能千万了，应该看看能不能稳住600万，我估计可能连600万都没有，开始我预估是570万，现在再降低一下预期，530万左右，反正已经立下Promise了，要是能超过600万我明年就入手mate100，但我估计没这个机会了",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-07",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74200457",
+      "image": "",
+      "summary": "感觉要预言成真了[捂脸][捂脸]，现在不应该讨论能不能千万了，应该看看能不能稳住600万，我估计可能连600万都没有，开始我预估是570万，现在再降低一下预期，530万左右，反正已经立下Promise了，要是能超过600万我明年就入手mate100，但我估计没这个机会了",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -598,6 +638,26 @@ window.phoneRadarAuto = {
       "tags": [
         "Huawei",
         "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-393cf21f95f3",
+      "title": "手机价格在涨 掏钱的理由没涨",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-07",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E4%BB%B7%E6%A0%BC%E5%9C%A8%E6%B6%A8+%E6%8E%8F%E9%92%B1%E7%9A%84%E7%90%86%E7%94%B1%E6%B2%A1%E6%B6%A8",
+      "image": "",
+      "summary": "手机价格在涨 掏钱的理由没涨",
+      "tags": [
+        "行业",
+        "爆料",
         "NewsNow"
       ]
     },
@@ -702,46 +762,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-ee2aef6122cd",
-      "title": "Samsung Galaxy Z Fold 8 Ultra falls to its lowest price yet in this Prime Day deal",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-06",
-      "time": "14:36",
-      "publishedAt": "2026-10-06T14:36:10.000Z",
-      "url": "https://www.androidauthority.com/galaxy-z-fold-8-ultra-prime-day-3719375/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/samsung-galaxy-z-fold-8-ultra-review-2-scaled.jpg",
-      "summary": "Save $400 on the Galaxy Z Fold 8 Ultra at Amazon, with a Prime Day deal on the premium foldable and its 200MP camera.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ee8332434f58",
-      "title": "iPhone 18 Pro and Duo Were Once Planned With 16GB RAM, Leaker Says",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-06",
-      "time": "14:22",
-      "publishedAt": "2026-10-06T14:22:11.000Z",
-      "url": "https://www.macrumors.com/2026/10/06/iphone-18-pro-and-duo-planned-with-16gb/",
-      "image": "",
-      "summary": "Apple initially planned to equip the iPhone 18 Pro lineup and iPhone Duo with 16GB of RAM, according to the leaker known as \" Instant Digital .\" The brief Weibo post does not say…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-5a39373506fa",
       "title": "Here’s what iPhone Duo’s new two-page PDF experience looks like",
       "source": "9to5Mac",
@@ -762,26 +782,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-7c2117ff81fc",
-      "title": "Samsung Galaxy S26 Ultra Prime deal knocks $420 off the 512GB model",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-06",
-      "time": "14:12",
-      "publishedAt": "2026-10-06T14:12:17.000Z",
-      "url": "https://www.androidauthority.com/samsung-galaxy-s26-ultra-prime-day-deal-3718747/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/Samsung-Galaxy-S26-Ultra-lying-hero.jpg",
-      "summary": "The Galaxy S26 Ultra 512GB drops to $1,179.99 at Amazon, with 512GB storage, 12GB RAM, and a 6.9-inch 120Hz display.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-40a78e3aee4b",
       "title": "Galaxy Z Fold 8 is $1,549 right now, its lowest price ever",
       "source": "9to5Google",
@@ -795,46 +795,6 @@ window.phoneRadarAuto = {
       "url": "https://9to5google.com/2026/10/06/galaxy-z-fold-8-price-amazon-prime-day/",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-review-41.jpg?quality=82&strip=all&w=1600",
       "summary": "Mere months after its launch, Samsung’s Galaxy Z Fold 8 is discounted by hundreds for Amazon’s Prime Day to its lowest price yet. more…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ffdab05a5dcc",
-      "title": "The Google Pixel 11 Pro plunges to a record-low price of just $849",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-06",
-      "time": "13:54",
-      "publishedAt": "2026-10-06T13:54:42.000Z",
-      "url": "https://www.androidauthority.com/google-pixel-11-pro-deal-3718640/",
-      "image": "",
-      "summary": "The Pixel 11 Pro gets a 23% discount for Prime Day, cutting the price on Google’s 6.3-inch compact flagship.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-427c289f8358",
-      "title": "Hot deal: Samsung Galaxy Z Flip 8 falls below $990 in Prime Day pick",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-06",
-      "time": "13:44",
-      "publishedAt": "2026-10-06T13:44:53.000Z",
-      "url": "https://www.androidauthority.com/deal-samsung-galaxy-z-flip-8-3718618/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Flip-8-cover-display-showing-camera-head-on.jpg",
-      "summary": "Amazon cuts $210 off the Galaxy Z Flip 8 for Prime Day, bringing the foldable down to its lowest price since launch.",
       "tags": [
         "Samsung",
         "爆料",
@@ -897,26 +857,6 @@ window.phoneRadarAuto = {
       "summary": "Vivo has announced the S2 FE for the Indian market, adding a new device to its S-Series lineup. The smartphone focuses on long battery life and durability, backed by a large-capac…",
       "tags": [
         "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-eead3d547b9e",
-      "title": "The new Samsung Galaxy Z Fold 8 gets a $350 Prime Day price drop",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-06",
-      "time": "13:22",
-      "publishedAt": "2026-10-06T13:22:11.000Z",
-      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-deal-3718178/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Samsung-Galaxy-Z-Fold-8-in-hand-showing-folding-screen-scaled-1.jpg",
-      "summary": "Samsung's new Galaxy Z Fold 8 falls to $1,749.99 at Amazon, its best price since launch.",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -999,6 +939,26 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-a508f1c44d7d",
+      "title": "竹本青：【媒体向华为证实：高通获支撑逻辑折叠芯片技术相关专利许可】 10月6日，深视新闻向华为证实，华为与高通达成的长期广…",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-06",
+      "time": "09:19",
+      "publishedAt": "2026-10-06T09:19:57.000Z",
+      "url": "https://www.coolapk.com/feed/74195140",
+      "image": "http://image.coolapk.com/feed/2026/1006/17/4248714_35be972f_8396_5461_968@1440x2519.jpg",
+      "summary": "【媒体向华为证实：高通获支撑逻辑折叠芯片技术相关专利许可】 10月6日，深视新闻向华为证实，华为与高通达成的长期广泛专利许可协议，授权涵盖近封装光学（Near-Packaged Optics，NPO）互联技术，以及支撑华为逻辑折叠（LogicFolding）芯片技术的相关专利许可。 昨日（10月5日），华为官宣与高通达成一项多年期广泛专利许可协议。内容涵盖…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
       ]
     },
     {
