@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-10-08T06:02:00.511Z",
+  "updatedAt": "2026-10-08T13:27:05.328Z",
   "issueDate": "2026-10-08",
   "issue": "VOL.261008",
   "title": "手机情报日报",
-  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、3 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 17 条重点，其中 8 条是重点爆料，包含 10 条 iPhone 相关、3 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 18,
-    "iphone": 9,
+    "total": 17,
+    "iphone": 10,
     "leaks": 8,
     "official": 3,
     "specs": 0
@@ -17,6 +17,54 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-fb7a221af156",
+          "title": "iPhone 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-08",
+          "time": "11:21",
+          "publishedAt": "2026-10-08T11:21:52.000Z",
+          "url": "https://www.macrumors.com/2026/10/08/iphone-air-2-could-be-as-thin-unfolded-iphone-duo/",
+          "image": "https://images.macrumors.com/article-new/2025/09/iphone-air-thinness.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "iPhone 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "电池 / 充电"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-0fce55802b99",
+          "title": "iPhone 机模 / 配色信息曝光",
+          "originalTitle": "",
+          "source": "Android Authority",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-08",
+          "time": "08:00",
+          "publishedAt": "2026-10-08T08:00:54.000Z",
+          "url": "https://www.androidauthority.com/oppo-find-x10-pro-max-global-first-look-3720562/",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/OPPO-Find-X10-Pro-Max-camera-outside.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 机模 / 配色信息曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
+          "detail": "iPhone 机模 / 配色信息曝光。来源提到未发布机型的机模/配色图，适合先判断外观方向、颜色变化和机身轮廓，但最终量产版本仍可能调整。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "成本 / 价格",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "newsnow-e7a28b7271af",
           "title": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
@@ -64,115 +112,23 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-2a876dcc84d6",
-          "title": "iPhone 折叠屏相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-07",
-          "time": "10:06",
-          "publishedAt": "2026-10-07T10:06:54.000Z",
-          "url": "https://www.macrumors.com/2026/10/07/iphone-duo-document-preview-two-page-layout/",
-          "image": "https://images.macrumors.com/article-new/2026/10/iphone-duo-feature.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-737a0d648f85",
-          "title": "曝欧菲光独家供应华为 Pura 90 Pro 系列主摄与 2 亿像素潜望长焦",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-08",
-          "time": "05:49",
-          "publishedAt": "2026-10-08T05:49:57.000Z",
-          "url": "https://www.ithome.com/1/010/465.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/80e3c796-bfe6-4028-9faf-23e49718a3ee.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 10 月 8 日消息，据蓝鲸新闻今日报道，欧菲光已成为华为 Pura 90 Pro 与 Pura 90 Pro Max 两款旗舰机型的核心光学供应商，独家供应两款机型的主摄模组与 2 亿像素潜望长焦模组。此外，“外挂式”长焦影像系统同样由欧菲光供货。 华为 Pura 90 Pro Max 搭载了超大底 2 亿像素长焦传感器（F2.6 光圈，OIS…",
-          "detail": "IT之家 10 月 8 日消息，据蓝鲸新闻今日报道，欧菲光已成为华为 Pura 90 Pro 与 Pura 90 Pro Max 两款旗舰机型的核心光学供应商，独家供应两款机型的主摄模组与 2 亿像素潜望长焦模组。此外，“外挂式”长焦影像系统同样由欧菲光供货。 华为 Pura 90 Pro Max 搭载了超大底 2 亿像素长焦传感器（F2.6 光圈，OIS…",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-bf1faf47a04b",
-          "title": "“卖出去也不赚钱”：消息称三星手机 2026Q4 最高减产 30%",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-08",
-          "time": "04:37",
-          "publishedAt": "2026-10-08T04:37:47.000Z",
-          "url": "https://www.ithome.com/1/010/454.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/d7f5a4db-9f00-4ca4-98d5-c22e7ad26034.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 10 月 8 日消息，Money Today 今天（10 月 8 日）发布博文，报道称三星电子移动体验（MX）部门已计划智能手机减产计划，预估 2026 年第四季度产量最高降幅达到 30%， 标题还称三星手机“即便卖出去，也不赚钱”。 IT之家注：原文中并未明确指出这 30% 是如何对比得出的，可能是环比、同比，或者是此前预期产量对比。 多家 I…",
-          "detail": "IT之家 10 月 8 日消息，Money Today 今天（10 月 8 日）发布博文，报道称三星电子移动体验（MX）部门已计划智能手机减产计划，预估 2026 年第四季度产量最高降幅达到 30%， 标题还称三星手机“即便卖出去，也不赚钱”。 IT之家注：原文中并未明确指出这 30% 是如何对比得出的，可能是环比、同比，或者是此前预期产量对比。 多家 I…",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-915535f3ded4",
-          "title": "荣耀 CEO 李健：Magic9 系列国庆 7 天稳居安卓旗舰第一",
+          "id": "auto-d38900876dc6",
+          "title": "消息称荣耀也有自己的阔家族，阔直板和阔折叠手机都在做",
           "originalTitle": "",
           "source": "IT之家",
           "brand": "HONOR",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-10-08",
-          "time": "03:04",
-          "publishedAt": "2026-10-08T03:04:43.000Z",
-          "url": "https://www.ithome.com/1/010/415.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/9e2195f3-b53a-41b6-828a-138f0aa2238f.jpg",
+          "time": "12:07",
+          "publishedAt": "2026-10-08T12:07:53.000Z",
+          "url": "https://www.ithome.com/1/010/687.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/fbd0f61c-04cd-4266-87f2-9b37d724dbbd.png?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 10 月 8 日消息，荣耀终端股份有限公司 CEO 李健今日发文，宣布 Magic9 系列在国庆 7 天时间， 稳居安卓旗舰第一 。 荣耀全球首席营销官关海涛则表示：国庆期间每天都是安卓旗舰第一； 另外确实是绝对式领先，大概 2 倍样子 ；很多版本确实持续缺货。 综合IT之家此前报道， 荣耀 Magic9 系列于 9 月 28 日正式发布，包含…",
-          "detail": "IT之家 10 月 8 日消息，荣耀终端股份有限公司 CEO 李健今日发文，宣布 Magic9 系列在国庆 7 天时间， 稳居安卓旗舰第一 。 荣耀全球首席营销官关海涛则表示：国庆期间每天都是安卓旗舰第一； 另外确实是绝对式领先，大概 2 倍样子 ；很多版本确实持续缺货。 综合IT之家此前报道， 荣耀 Magic9 系列于 9 月 28 日正式发布，包含…",
+          "takeaway": "IT之家 10 月 8 日消息，博主 @旺仔百事通 &nbsp;今日发文透露， 荣耀也有自己的阔家族 ，阔直板和阔折叠手机都在做。 有网友询问新机是否会在明年下半年发布，博主表示：“ 不会。 ” 据IT之家此前报道，博主 @数码闲聊站 曾爆料，荣耀阔折叠手机搭载 2nm 骁龙新芯片， 排期 2027 年 Q1 发布 。该博主今日还透露，安卓阵营的阔直板手机…",
+          "detail": "IT之家 10 月 8 日消息，博主 @旺仔百事通 &nbsp;今日发文透露， 荣耀也有自己的阔家族 ，阔直板和阔折叠手机都在做。 有网友询问新机是否会在明年下半年发布，博主表示：“ 不会。 ” 据IT之家此前报道，博主 @数码闲聊站 曾爆料，荣耀阔折叠手机搭载 2nm 骁龙新芯片， 排期 2027 年 Q1 发布 。该博主今日还透露，安卓阵营的阔直板手机…",
           "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-c7be65507963",
-          "title": "维信诺全球首款量产 2K 185Hz 面板曝光：基于第四代 pTSF 发光技术，iQOO 新机本月首发",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-08",
-          "time": "01:05",
-          "publishedAt": "2026-10-08T01:05:43.000Z",
-          "url": "https://www.ithome.com/1/010/377.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/49662874-181c-445a-a47b-7de96858995a.png",
-          "verdict": "先看",
-          "takeaway": "IT之家 10 月 8 日消息，数码博主 @数码闲聊站 刚刚透露，维信诺已实现 2K 分辨率与 185Hz 刷新率组合的全球首发量产，并基于第四代发光技术 pTSF 打造了全新发光材料。 该博主表示，新屏幕在亮度、寿命和显示效果方面均有突破，并暗示“10 月 iQOO 新机见”。除此之外，荣耀方面似乎也将推出采用这款 2K 185Hz 面板的新机。 公开报…",
-          "detail": "IT之家 10 月 8 日消息，数码博主 @数码闲聊站 刚刚透露，维信诺已实现 2K 分辨率与 185Hz 刷新率组合的全球首发量产，并基于第四代发光技术 pTSF 打造了全新发光材料。 该博主表示，新屏幕在亮度、寿命和显示效果方面均有突破，并暗示“10 月 iQOO 新机见”。除此之外，荣耀方面似乎也将推出采用这款 2K 185Hz 面板的新机。 公开报…",
-          "keyPoints": [
-            "屏幕形态",
+            "芯片 / 性能",
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
@@ -196,6 +152,55 @@ window.phoneRadarDaily = {
           "takeaway": "10月也是一大堆新机，你们期待哪一台？ 已定档有一加16、红魔12 Pro+、荣耀WIN2系列 已入网待定档有一加Ace7 Pro、iQOO Neo12、REDMI新机等等，大部分是性能机[吃瓜]",
           "detail": "10月也是一大堆新机，你们期待哪一台？ 已定档有一加16、红魔12 Pro+、荣耀WIN2系列 已入网待定档有一加Ace7 Pro、iQOO Neo12、REDMI新机等等，大部分是性能机[吃瓜]",
           "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-fbcc3230559c",
+          "title": "数码闲聊站：华为Mate90 Pro Max真机随拍，星环Deco+拼色机身，设计感觉更年…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-10-07",
+          "time": "02:56",
+          "publishedAt": "2026-10-07T02:56:09.000Z",
+          "url": "https://weibo.com/6048569942/RlxwzwZAi",
+          "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ihtlfg0iynj34um38g7wj.jpg",
+          "verdict": "先看",
+          "takeaway": "华为Mate90 Pro Max真机随拍，星环Deco+拼色机身，设计感觉更年轻化了，这代影像堆料也有超越P系列的势头，感受一下[揣手]",
+          "detail": "华为Mate90 Pro Max真机随拍，星环Deco+拼色机身，设计感觉更年轻化了，这代影像堆料也有超越P系列的势头，感受一下[揣手]",
+          "keyPoints": [
+            "影像硬件",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-2e3bc955f1fd",
+          "title": "JSCHEN小小狐：消息称华为 nova 评估阔直板 / 多产品线布局",
+          "originalTitle": "",
+          "source": "JSCHEN小小狐",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-10-08",
+          "time": "04:32",
+          "publishedAt": "2026-10-08T04:32:17.000Z",
+          "url": "https://www.coolapk.com/feed/74226120",
+          "image": "http://image.coolapk.com/feed/2026/1008/12/4702274_a1bea15f_3936_6145_488@1440x438.jpg",
+          "verdict": "先看",
+          "takeaway": "『消息称华为 nova 评估阔直板 / 多产品线布局』 知名数码博主 数码闲聊站 今日爆料称，华为正在多条产品线布局阔屏直板机产品，并表示 nova 系列中端线当前已开始评估阔直板新机。 据悉，此前华为已于 9 月 7 日发布旗下首款阔屏直板机 Pura X View。该机采用 6.39 英寸 16:9.5 比例直屏，搭载麒麟 9030S 处理器，后置 2…",
+          "detail": "『消息称华为 nova 评估阔直板 / 多产品线布局』 知名数码博主 数码闲聊站 今日爆料称，华为正在多条产品线布局阔屏直板机产品，并表示 nova 系列中端线当前已开始评估阔直板新机。 据悉，此前华为已于 9 月 7 日发布旗下首款阔屏直板机 Pura X View。该机采用 6.39 英寸 16:9.5 比例直屏，搭载麒麟 9030S 处理器，后置 2…",
+          "keyPoints": [
+            "屏幕形态",
+            "芯片 / 性能",
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
@@ -255,6 +260,29 @@ window.phoneRadarDaily = {
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
+          "id": "auto-518f9fd11a7b",
+          "title": "iPhone Duo：苹果，终究还是对强迫症下手了",
+          "originalTitle": "",
+          "source": "少数派",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-10-08",
+          "time": "09:28",
+          "publishedAt": "2026-10-08T09:28:11.000Z",
+          "url": "https://sspai.com/post/115282",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...",
+          "detail": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         },
         {
           "id": "newsnow-751181806944",
@@ -324,30 +352,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响拍照体验，买旗舰机时值得关注。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "auto-a5c26fea5d29",
-          "title": "iPhone 18 Pro 机模 / 配色信息曝光",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-07",
-          "time": "11:44",
-          "publishedAt": "2026-10-07T11:44:07.000Z",
-          "url": "https://www.gizmochina.com/2026/10/07/iphone-18-pro-burgundy-owners-are-spotting-weird-discoloration-around-the-camera/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/is-this-discoloration-around-the-camera-lens-rings-normal-v0-muhvfr1nlgqh1-300x225.jpg?x96852",
-          "verdict": "先看",
-          "takeaway": "iPhone 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
-          "detail": "iPhone 18 Pro 机模 / 配色信息曝光。来源提到未发布机型的机模/配色图，适合先判断外观方向、颜色变化和机身轮廓，但最终量产版本仍可能调整。",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响拍照体验，买旗舰机时值得关注。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     },
@@ -357,25 +361,25 @@ window.phoneRadarDaily = {
       "hint": "能直接更新到参数库。",
       "items": [
         {
-          "id": "coolapk-user-bba4835f6f3d",
-          "title": "竹本青：OPPO：将持续投入血压健康研究，让高血压问题转变为“每个人都能及早发现”",
+          "id": "auto-62de4f3b21f4",
+          "title": "OPPO 机模 / 配色信息曝光",
           "originalTitle": "",
-          "source": "竹本青",
+          "source": "Gizmochina",
           "brand": "OPPO",
           "type": "爆料",
-          "trust": "高可信爆料",
+          "trust": "媒体汇总",
           "date": "2026-10-08",
-          "time": "03:34",
-          "publishedAt": "2026-10-08T03:34:41.000Z",
-          "url": "https://www.coolapk.com/feed/74225121",
-          "image": "http://image.coolapk.com/feed/2026/1008/11/4248714_45a3b2d7_0478_7191_227@896x1474.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【OPPO：将持续投入血压健康研究，让高血压问题转变为“每个人都能及早发现”】 10月5日，在第 29 个全国高血压日之际，OPPO 正式发布《血压健康研究年度报告 2026》。 该报告基于过去两年多，OPPO 与中国医学科学院阜外医院联合开展的血压健康研究，首次通过可穿戴设备实现了对大众人群高血压风险的规模化、持续性无感评估，识别影响因素实现风险管理闭环…",
-          "detail": "【OPPO：将持续投入血压健康研究，让高血压问题转变为“每个人都能及早发现”】 10月5日，在第 29 个全国高血压日之际，OPPO 正式发布《血压健康研究年度报告 2026》。 该报告基于过去两年多，OPPO 与中国医学科学院阜外医院联合开展的血压健康研究，首次通过可穿戴设备实现了对大众人群高血压风险的规模化、持续性无感评估，识别影响因素实现风险管理闭环…",
+          "time": "12:55",
+          "publishedAt": "2026-10-08T12:55:56.000Z",
+          "url": "https://www.gizmochina.com/2026/10/08/coloros-17-global-launch-date-confirmed/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/ColorOS-17-global-launch-date-300x169.png?x96852",
+          "verdict": "可略过",
+          "takeaway": "OPPO 有发布或新功能消息，适合确认是否和新机有关。",
+          "detail": "OPPO 机模 / 配色信息曝光。来源提到未发布机型的机模/配色图，适合先判断外观方向、颜色变化和机身轮廓，但最终量产版本仍可能调整。",
           "keyPoints": [
-            "爆料"
+            "外观 / 配色 / 尺寸"
           ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
@@ -387,73 +391,50 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "coolapk-user-0e54569e739e",
-          "title": "竹本青：2026年第39周国内手机市场份额曝光：苹果连续榜首",
+          "id": "auto-0a78922921e2",
+          "title": "华为鸿蒙 HarmonyOS 7 系统更多机型 Beta 转公测，覆盖 Mate 60 系列等",
           "originalTitle": "",
-          "source": "竹本青",
-          "brand": "HONOR",
+          "source": "IT之家",
+          "brand": "Huawei",
           "type": "爆料",
-          "trust": "高可信爆料",
+          "trust": "媒体汇总",
           "date": "2026-10-08",
-          "time": "03:16",
-          "publishedAt": "2026-10-08T03:16:41.000Z",
-          "url": "https://www.coolapk.com/feed/74224772",
-          "image": "http://image.coolapk.com/feed/2026/1008/11/4248714_92c95169_9400_6876_856@1271x891.jpg",
+          "time": "10:25",
+          "publishedAt": "2026-10-08T10:25:07.000Z",
+          "url": "https://www.ithome.com/1/010/660.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2023/9/59adb3cf-3469-4872-aa01-7fa2fd262cf9.jpg",
           "verdict": "扫一眼",
-          "takeaway": "【2026年第39周 国内手机市场份额曝光：苹果连续榜首，占比达27.5%】 ● 2026 W39：大盘上涨约20% 1.苹果 —— 27.5% 2.华为 —— 18.1% 3.小米 —— 14.9% 4.OPPO —— 12.8%（含一加 1.8%，realme 0.3%） 5.vivo —— 12.6%（含iQOO 2.6%） 6.荣耀 —— 10.5…",
-          "detail": "【2026年第39周 国内手机市场份额曝光：苹果连续榜首，占比达27.5%】 ● 2026 W39：大盘上涨约20% 1.苹果 —— 27.5% 2.华为 —— 18.1% 3.小米 —— 14.9% 4.OPPO —— 12.8%（含一加 1.8%，realme 0.3%） 5.vivo —— 12.6%（含iQOO 2.6%） 6.荣耀 —— 10.5…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-95f5eafb057a",
-          "title": "买了magic9pm用的感觉不得劲，有点想换小米18pm，这边线下7688元16+512带赠品值不值啊[捂脸]",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-10-08",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/74199675",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "买了magic9pm用的感觉不得劲，有点想换小米18pm，这边线下7688元16+512带赠品值不值啊[捂脸]",
-          "detail": "买了magic9pm用的感觉不得劲，有点想换小米18pm，这边线下7688元16+512带赠品值不值啊[捂脸]",
+          "takeaway": "IT之家 10 月 8 日消息，华为官网最新信息显示，鸿蒙 HarmonyOS 7 系统更多机型从花粉 Beta 转为公测，覆盖 Mate 60 系列、Pura 70 系列等。 ▲ IT之家开箱：华为 Mate60 Pro+「宣白」图赏 IT之家附华为鸿蒙 HarmonyOS 7 最新适配机型清单如下： 正式版 HUAWEI Mate 80 系列 HUAW…",
+          "detail": "IT之家 10 月 8 日消息，华为官网最新信息显示，鸿蒙 HarmonyOS 7 系统更多机型从花粉 Beta 转为公测，覆盖 Mate 60 系列、Pura 70 系列等。 ▲ IT之家开箱：华为 Mate60 Pro+「宣白」图赏 IT之家附华为鸿蒙 HarmonyOS 7 最新适配机型清单如下： 正式版 HUAWEI Mate 80 系列 HUAW…",
           "keyPoints": [
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         },
         {
-          "id": "newsnow-fc75328b135d",
-          "title": "不理解现在为啥还是有很多人不相信拼多多上面的东西[笑哭]朋友让我帮她推荐手机，我把拼多多上面的价格拍给他，不相信，宁愿多花几百，也不愿意买拼多多上面的手机 我没招了[强]#好物安利#",
+          "id": "newsnow-9ad3f9144c41",
+          "title": "曝华为 Mate 90 系列手机首销期销量超 27 万台，「超大杯」占比约 40% 你怎么看？",
           "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
+          "source": "知乎热榜",
+          "brand": "Huawei",
+          "type": "市场报告",
+          "trust": "媒体汇总",
           "date": "2026-10-08",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/74202815",
+          "url": "https://www.zhihu.com/question/2091256143515595155",
           "image": "",
           "verdict": "扫一眼",
-          "takeaway": "不理解现在为啥还是有很多人不相信拼多多上面的东西[笑哭]朋友让我帮她推荐手机，我把拼多多上面的价格拍给他，不相信，宁愿多花几百，也不愿意买拼多多上面的手机 我没招了[强]#好物安利#",
-          "detail": "不理解现在为啥还是有很多人不相信拼多多上面的东西[笑哭]朋友让我帮她推荐手机，我把拼多多上面的价格拍给他，不相信，宁愿多花几百，也不愿意买拼多多上面的手机 我没招了[强]#好物安利#",
+          "takeaway": "曝华为 Mate 90 系列手机首销期销量超 27 万台，「超大杯」占比约 40% 你怎么看？",
+          "detail": "曝华为 Mate 90 系列手机首销期销量超 27 万台，「超大杯」占比约 40% 你怎么看？",
           "keyPoints": [
-            "成本 / 价格"
+            "市场报告"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+          "impact": "目前更像背景信息，对买手机影响不大。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }
