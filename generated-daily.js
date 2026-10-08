@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-10-08T13:27:05.328Z",
+  "updatedAt": "2026-10-08T19:56:23.012Z",
   "issueDate": "2026-10-08",
   "issue": "VOL.261008",
   "title": "手机情报日报",
-  "intro": "今日筛出 17 条重点，其中 8 条是重点爆料，包含 10 条 iPhone 相关、3 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 10 条 iPhone 相关、2 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 17,
+    "total": 14,
     "iphone": 10,
     "leaks": 8,
-    "official": 3,
+    "official": 2,
     "specs": 0
   },
   "sections": [
@@ -17,6 +17,52 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-03b513e89f84",
+          "title": "iPhone 系统功能 / AI 体验相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-08",
+          "time": "18:05",
+          "publishedAt": "2026-10-08T18:05:23.000Z",
+          "url": "https://www.macrumors.com/2026/10/08/tim-cook-interview-about-john-ternus/",
+          "image": "https://images.macrumors.com/article-new/2026/10/iphone-duo-feature.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-f182e9d022df",
+          "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-08",
+          "time": "17:10",
+          "publishedAt": "2026-10-08T17:10:06.000Z",
+          "url": "https://9to5toys.com/2026/10/08/exclusive-nomad-iphone-18-pro-case-promo-code/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Nomad-iPhone-18-Pro-Duo-leather-cases-2026.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-fb7a221af156",
           "title": "iPhone 折叠屏相关消息",
@@ -89,23 +135,46 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-14d1618f3864",
-          "title": "iPhone 系统功能 / AI 体验相关消息",
+          "id": "auto-7375d79c44c6",
+          "title": "余承东：未来肯定会有更多华为手机采用基于韬定律的逻辑折叠芯片",
           "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
+          "source": "IT之家",
+          "brand": "Huawei",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-10-07",
-          "time": "15:00",
-          "publishedAt": "2026-10-07T15:00:17.000Z",
-          "url": "https://www.macrumors.com/2026/10/07/iphone-air-models-prime-big-deal-days/",
-          "image": "https://images.macrumors.com/article-new/2025/02/iphone-air-camera.jpg",
+          "date": "2026-10-08",
+          "time": "15:29",
+          "publishedAt": "2026-10-08T15:29:17.000Z",
+          "url": "https://www.ithome.com/1/010/737.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/5/3ef0711c-7583-47e8-b979-6e085dfe2b86.png?x-bce-process=image/resize,w_1200,h_795/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_50,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_20,y_20/format,f_auto",
           "verdict": "先看",
-          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
-          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "takeaway": "IT之家 10 月 8 日消息，在 5 月 25 日的 2026 国际电路与系统研讨会上，华为公司董事、半导体业务部总裁何庭波时隔 7 年再次回到公众视野，并在主旨演讲中首次提出半导体全新演进路径 ——“韬（τ）定律”。 这是中国在全球半导体领域首次提出指导产业发展的新原则 。 华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东在 9 月 29…",
+          "detail": "IT之家 10 月 8 日消息，在 5 月 25 日的 2026 国际电路与系统研讨会上，华为公司董事、半导体业务部总裁何庭波时隔 7 年再次回到公众视野，并在主旨演讲中首次提出半导体全新演进路径 ——“韬（τ）定律”。 这是中国在全球半导体领域首次提出指导产业发展的新原则 。 华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东在 9 月 29…",
           "keyPoints": [
-            "成本 / 价格"
+            "芯片 / 性能"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-31ad8daf3ca4",
+          "title": "谷歌为 Pixel 手机开发新人脸解锁算法，改善暗光环境解锁体验",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Pixel",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-08",
+          "time": "14:08",
+          "publishedAt": "2026-10-08T14:08:55.000Z",
+          "url": "https://www.ithome.com/1/010/714.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/cbbd4bc7-787d-4e8f-b9bf-fec384fb5015.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 10 月 8 日消息，据科技媒体 Android Headline 今天报道，谷歌似乎在为 Pixel 系列手机开发“Face Active Illumination”功能，可利用屏幕发出的光照亮人脸，改善暗光环境下的人脸解锁体验。 据报道，谷歌 Pixel 手机的人脸解锁功能在环境光良好的情况下表现尚可，当用户进入光线昏暗的房间时，它就显得力不…",
+          "detail": "IT之家 10 月 8 日消息，据科技媒体 Android Headline 今天报道，谷歌似乎在为 Pixel 系列手机开发“Face Active Illumination”功能，可利用屏幕发出的光照亮人脸，改善暗光环境下的人脸解锁体验。 据报道，谷歌 Pixel 手机的人脸解锁功能在环境光良好的情况下表现尚可，当用户进入光线昏暗的房间时，它就显得力不…",
+          "keyPoints": [
+            "屏幕形态"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -134,78 +203,6 @@ window.phoneRadarDaily = {
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-f2b689e3eb2d",
-          "title": "数码闲聊站：10月也是一大堆新机，你们期待哪一台？ 已定档有一加16、红魔12 Pro+、…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-10-07",
-          "time": "09:18",
-          "publishedAt": "2026-10-07T09:18:00.000Z",
-          "url": "https://weibo.com/6048569942/RlA1zdQev",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "10月也是一大堆新机，你们期待哪一台？ 已定档有一加16、红魔12 Pro+、荣耀WIN2系列 已入网待定档有一加Ace7 Pro、iQOO Neo12、REDMI新机等等，大部分是性能机[吃瓜]",
-          "detail": "10月也是一大堆新机，你们期待哪一台？ 已定档有一加16、红魔12 Pro+、荣耀WIN2系列 已入网待定档有一加Ace7 Pro、iQOO Neo12、REDMI新机等等，大部分是性能机[吃瓜]",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-fbcc3230559c",
-          "title": "数码闲聊站：华为Mate90 Pro Max真机随拍，星环Deco+拼色机身，设计感觉更年…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-10-07",
-          "time": "02:56",
-          "publishedAt": "2026-10-07T02:56:09.000Z",
-          "url": "https://weibo.com/6048569942/RlxwzwZAi",
-          "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ihtlfg0iynj34um38g7wj.jpg",
-          "verdict": "先看",
-          "takeaway": "华为Mate90 Pro Max真机随拍，星环Deco+拼色机身，设计感觉更年轻化了，这代影像堆料也有超越P系列的势头，感受一下[揣手]",
-          "detail": "华为Mate90 Pro Max真机随拍，星环Deco+拼色机身，设计感觉更年轻化了，这代影像堆料也有超越P系列的势头，感受一下[揣手]",
-          "keyPoints": [
-            "影像硬件",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-2e3bc955f1fd",
-          "title": "JSCHEN小小狐：消息称华为 nova 评估阔直板 / 多产品线布局",
-          "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-10-08",
-          "time": "04:32",
-          "publishedAt": "2026-10-08T04:32:17.000Z",
-          "url": "https://www.coolapk.com/feed/74226120",
-          "image": "http://image.coolapk.com/feed/2026/1008/12/4702274_a1bea15f_3936_6145_488@1440x438.jpg",
-          "verdict": "先看",
-          "takeaway": "『消息称华为 nova 评估阔直板 / 多产品线布局』 知名数码博主 数码闲聊站 今日爆料称，华为正在多条产品线布局阔屏直板机产品，并表示 nova 系列中端线当前已开始评估阔直板新机。 据悉，此前华为已于 9 月 7 日发布旗下首款阔屏直板机 Pura X View。该机采用 6.39 英寸 16:9.5 比例直屏，搭载麒麟 9030S 处理器，后置 2…",
-          "detail": "『消息称华为 nova 评估阔直板 / 多产品线布局』 知名数码博主 数码闲聊站 今日爆料称，华为正在多条产品线布局阔屏直板机产品，并表示 nova 系列中端线当前已开始评估阔直板新机。 据悉，此前华为已于 9 月 7 日发布旗下首款阔屏直板机 Pura X View。该机采用 6.39 英寸 16:9.5 比例直屏，搭载麒麟 9030S 处理器，后置 2…",
-          "keyPoints": [
-            "屏幕形态",
-            "芯片 / 性能",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -214,29 +211,6 @@ window.phoneRadarDaily = {
       "title": "iPhone 重点",
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
-        {
-          "id": "auto-f88c473bc838",
-          "title": "iPhone 相关消息",
-          "originalTitle": "",
-          "source": "Apple Newsroom",
-          "brand": "iPhone",
-          "type": "官方",
-          "trust": "官方确认",
-          "date": "2026-10-08",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.apple.com/newsroom/2026/09/celebrating-what-holds-us-on-iphone-18-pro/",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "官方内容，可直接作为已确认信息记录。",
-          "impact": "影响拍照体验，买旗舰机时值得关注。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
         {
           "id": "auto-07e6d6658c80",
           "title": "iPhone 18 Pro 发布 / 上市相关消息",
@@ -285,29 +259,6 @@ window.phoneRadarDaily = {
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         },
         {
-          "id": "newsnow-751181806944",
-          "title": "iPhone Duo 适配规则：明年4月起应用需提交机型截图",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-10-08",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/74208208",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone Duo 适配规则：明年4月起应用需提交机型截图",
-          "detail": "iPhone Duo 适配规则：明年4月起应用需提交机型截图",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
           "id": "auto-728bbee10ddb",
           "title": "iPhone 发布 / 上市相关消息",
           "originalTitle": "",
@@ -352,36 +303,30 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响拍照体验，买旗舰机时值得关注。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        }
-      ]
-    },
-    {
-      "id": "launch",
-      "title": "新机与官方发布",
-      "hint": "能直接更新到参数库。",
-      "items": [
+        },
         {
-          "id": "auto-62de4f3b21f4",
-          "title": "OPPO 机模 / 配色信息曝光",
+          "id": "auto-a5c26fea5d29",
+          "title": "iPhone 18 Pro 机模 / 配色信息曝光",
           "originalTitle": "",
           "source": "Gizmochina",
-          "brand": "OPPO",
+          "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-10-08",
-          "time": "12:55",
-          "publishedAt": "2026-10-08T12:55:56.000Z",
-          "url": "https://www.gizmochina.com/2026/10/08/coloros-17-global-launch-date-confirmed/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/ColorOS-17-global-launch-date-300x169.png?x96852",
-          "verdict": "可略过",
-          "takeaway": "OPPO 有发布或新功能消息，适合确认是否和新机有关。",
-          "detail": "OPPO 机模 / 配色信息曝光。来源提到未发布机型的机模/配色图，适合先判断外观方向、颜色变化和机身轮廓，但最终量产版本仍可能调整。",
+          "date": "2026-10-07",
+          "time": "11:44",
+          "publishedAt": "2026-10-07T11:44:07.000Z",
+          "url": "https://www.gizmochina.com/2026/10/07/iphone-18-pro-burgundy-owners-are-spotting-weird-discoloration-around-the-camera/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/is-this-discoloration-around-the-camera-lens-rings-normal-v0-muhvfr1nlgqh1-300x225.jpg?x96852",
+          "verdict": "先看",
+          "takeaway": "iPhone 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
+          "detail": "iPhone 18 Pro 机模 / 配色信息曝光。来源提到未发布机型的机模/配色图，适合先判断外观方向、颜色变化和机身轮廓，但最终量产版本仍可能调整。",
           "keyPoints": [
-            "外观 / 配色 / 尺寸"
+            "外观 / 配色 / 尺寸",
+            "影像硬件"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+          "impact": "影响拍照体验，买旗舰机时值得关注。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     },
@@ -391,49 +336,26 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "auto-0a78922921e2",
-          "title": "华为鸿蒙 HarmonyOS 7 系统更多机型 Beta 转公测，覆盖 Mate 60 系列等",
+          "id": "newsnow-b1884e7e2ad4",
+          "title": "说实话鸿蒙智行倒闭对任何人都是好事，包括华为和🌸粉，老老实实做手机不香吗，又没啥大安全问题。今年这么多逆天操作，加上这个用料真垃圾，你这车要是十来万复合国标到无所谓，问题是你卖的可是70w，真当买豪车的是冤大头吗[流汗滑稽][流汗滑稽]",
           "originalTitle": "",
-          "source": "IT之家",
+          "source": "酷安热榜",
           "brand": "Huawei",
           "type": "爆料",
-          "trust": "媒体汇总",
+          "trust": "高关注爆料源",
           "date": "2026-10-08",
-          "time": "10:25",
-          "publishedAt": "2026-10-08T10:25:07.000Z",
-          "url": "https://www.ithome.com/1/010/660.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2023/9/59adb3cf-3469-4872-aa01-7fa2fd262cf9.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "IT之家 10 月 8 日消息，华为官网最新信息显示，鸿蒙 HarmonyOS 7 系统更多机型从花粉 Beta 转为公测，覆盖 Mate 60 系列、Pura 70 系列等。 ▲ IT之家开箱：华为 Mate60 Pro+「宣白」图赏 IT之家附华为鸿蒙 HarmonyOS 7 最新适配机型清单如下： 正式版 HUAWEI Mate 80 系列 HUAW…",
-          "detail": "IT之家 10 月 8 日消息，华为官网最新信息显示，鸿蒙 HarmonyOS 7 系统更多机型从花粉 Beta 转为公测，覆盖 Mate 60 系列、Pura 70 系列等。 ▲ IT之家开箱：华为 Mate60 Pro+「宣白」图赏 IT之家附华为鸿蒙 HarmonyOS 7 最新适配机型清单如下： 正式版 HUAWEI Mate 80 系列 HUAW…",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/74237177",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "说实话鸿蒙智行倒闭对任何人都是好事，包括华为和🌸粉，老老实实做手机不香吗，又没啥大安全问题。今年这么多逆天操作，加上这个用料真垃圾，你这车要是十来万复合国标到无所谓，问题是你卖的可是70w，真当买豪车的是冤大头吗[流汗滑稽][流汗滑稽]",
+          "detail": "说实话鸿蒙智行倒闭对任何人都是好事，包括华为和🌸粉，老老实实做手机不香吗，又没啥大安全问题。今年这么多逆天操作，加上这个用料真垃圾，你这车要是十来万复合国标到无所谓，问题是你卖的可是70w，真当买豪车的是冤大头吗[流汗滑稽][流汗滑稽]",
           "keyPoints": [
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
-        {
-          "id": "newsnow-9ad3f9144c41",
-          "title": "曝华为 Mate 90 系列手机首销期销量超 27 万台，「超大杯」占比约 40% 你怎么看？",
-          "originalTitle": "",
-          "source": "知乎热榜",
-          "brand": "Huawei",
-          "type": "市场报告",
-          "trust": "媒体汇总",
-          "date": "2026-10-08",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.zhihu.com/question/2091256143515595155",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "曝华为 Mate 90 系列手机首销期销量超 27 万台，「超大杯」占比约 40% 你怎么看？",
-          "detail": "曝华为 Mate 90 系列手机首销期销量超 27 万台，「超大杯」占比约 40% 你怎么看？",
-          "keyPoints": [
-            "市场报告"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "目前更像背景信息，对买手机影响不大。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]

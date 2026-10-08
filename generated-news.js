@@ -1,6 +1,286 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-08T13:27:05.328Z",
+  "updatedAt": "2026-10-08T19:56:23.012Z",
   "news": [
+    {
+      "id": "auto-889b5d211de0",
+      "title": "What price hike? Amazon just slashed $450 off the Galaxy S26 Ultra",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-10-08",
+      "time": "19:47",
+      "publishedAt": "2026-10-08T19:47:34.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/what-price-hike-galaxy-s26-ultra-is-down-to-its-best-price-ever-right-now",
+      "image": "https://cdn.mos.cms.futurecdn.net/uFdNLMKD2mmUBqdoJNu9W-1920-80.jpg",
+      "summary": "Forget Samsung's recent price hike — Amazon just knocked $450 off its best flagship.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-03b513e89f84",
+      "title": "Tim Cook Explains Why He Stepped Down as Apple CEO Before iPhone Duo Launch",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-08",
+      "time": "18:05",
+      "publishedAt": "2026-10-08T18:05:23.000Z",
+      "url": "https://www.macrumors.com/2026/10/08/tim-cook-interview-about-john-ternus/",
+      "image": "https://images.macrumors.com/article-new/2026/10/iphone-duo-feature.jpg",
+      "summary": "The Independent 's David Phelan on Wednesday interviewed Apple's executive chairman Tim Cook at Apple's U.K. headquarters in the Battersea Power Station, and one of the topics the…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e391b596b16c",
+      "title": "The Galaxy S26 Ultra is now even cheaper than it was during Amazon's Prime Big Deal Days",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-08",
+      "time": "17:33",
+      "publishedAt": "2026-10-08T17:33:19.000Z",
+      "url": "https://www.androidpolice.com/the-galaxy-s26-ultra-is-now-even-cheaper/",
+      "image": "",
+      "summary": "The lowest price in months",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-455d0a1b3989",
+      "title": "Samsung Galaxy S27 leak suggests good news for pricing, but don’t get too optimistic",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-08",
+      "time": "17:20",
+      "publishedAt": "2026-10-08T17:20:52.000Z",
+      "url": "https://www.androidauthority.com/galaxy-s27-pricing-targets-and-display-details-3720884/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/Samsung-Galaxy-S26-series-showing-backs-1.jpg",
+      "summary": "This leak suggests Samsung may hold the line for the base model and Plus.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f182e9d022df",
+      "title": "9to5 readers can score an exclusive 15% off all Nomad iPhone 18 Pro cases with this code",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-08",
+      "time": "17:10",
+      "publishedAt": "2026-10-08T17:10:06.000Z",
+      "url": "https://9to5toys.com/2026/10/08/exclusive-nomad-iphone-18-pro-case-promo-code/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Nomad-iPhone-18-Pro-Duo-leather-cases-2026.jpg?quality=82&strip=all&w=1600",
+      "summary": "Any avid 9to5Toys reader already knows how much we love us some Nomad around here. The brand has been delivering some of the best iPhone cases anywhere for years, and the new iPho…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-963480afb567",
+      "title": "The Pixel 11 Pro is in another league from the iPhone 18 Pro. [Video]",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-08",
+      "time": "17:04",
+      "publishedAt": "2026-10-08T17:04:10.000Z",
+      "url": "https://www.androidpolice.com/video/the-pixel-11-pro-is-in-another-league-from-the-iphone-18-pro-video/",
+      "image": "",
+      "summary": "It's next level.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-93e6658766eb",
+      "title": "消息称华为阔直板机型有多产品线布局动作，nova 中端线也在评估中",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-08",
+      "time": "16:50",
+      "publishedAt": "2026-10-08T16:50:47.000Z",
+      "url": "https://www.ithome.com/1/010/744.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/95397b28-e6aa-46b8-9580-99b3dcf76d7a.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 9 日消息，博主 @数码闲聊站 发文透露，菊菊（此处预计指华为）阔直板手机有多产品线布局的动作， n 中端线（预计指 nova 产品线）也在评估阔直板中 。 有网友询问 Mate 系列是否会推出阔直板形态手机，博主表示：“ Mate 暂时没有这个计划。 ”还有网友谈及了 Pura X View 的销量带火了阔直板这一形态，博主回复称：“…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a25f60c044a7",
+      "title": "Save $300 on the top-spec Google Pixel 11 Pro XL in its first discount",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-08",
+      "time": "16:49",
+      "publishedAt": "2026-10-08T16:49:23.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-pro-xl-1tb-deal-3720909/",
+      "image": "",
+      "summary": "Amazon cuts 18% off the Pixel 11 Pro XL 1TB, making Google's big 2026 flagship a much more tempting prospect.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a651150b290c",
+      "title": "鸿蒙新补丁包惊喜 +1：华为 Mate 80 等系列机型新增隔空手势翻转加密分享功能",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-08",
+      "time": "16:16",
+      "publishedAt": "2026-10-08T16:16:27.000Z",
+      "url": "https://www.ithome.com/1/010/742.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/f48ffef9-ea36-4255-a431-aa40d882c856.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 9 日消息，华为今日面向 Mate 80 系列等机型，推送了鸿蒙 HarmonyOS 7.0.0.109 版本最新补丁包，包体大小约 206.99MB，优化了部分场景的使用体验。 IT之家实测发现，更新该补丁包除了带来多设备互助通信共享外， 还支持了隔空手势翻转加密分享功能 （使用隔空手势抓取需要分享的内容，设备弹出动画后再翻转手势）。…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7375d79c44c6",
+      "title": "余承东：未来肯定会有更多华为手机采用基于韬定律的逻辑折叠芯片",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-08",
+      "time": "15:29",
+      "publishedAt": "2026-10-08T15:29:17.000Z",
+      "url": "https://www.ithome.com/1/010/737.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/5/3ef0711c-7583-47e8-b979-6e085dfe2b86.png?x-bce-process=image/resize,w_1200,h_795/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_50,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_20,y_20/format,f_auto",
+      "summary": "IT之家 10 月 8 日消息，在 5 月 25 日的 2026 国际电路与系统研讨会上，华为公司董事、半导体业务部总裁何庭波时隔 7 年再次回到公众视野，并在主旨演讲中首次提出半导体全新演进路径 ——“韬（τ）定律”。 这是中国在全球半导体领域首次提出指导产业发展的新原则 。 华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东在 9 月 29…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9d95e168490a",
+      "title": "There’s a clear divide between Galaxy S27 tiers, as the latest leak lists price",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-08",
+      "time": "15:17",
+      "publishedAt": "2026-10-08T15:17:21.000Z",
+      "url": "https://9to5google.com/2026/10/08/galaxy-s27-pricing-leaks-with-oled-specs/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/galaxy-s27-pro-leak-onl-2.webp?w=1600",
+      "summary": "Samsung’s Galaxy S27 launch is getting closer, which means pricing and final details are being finalized and, further, leaked. The latest report lists Galaxy S27 series pricing an…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-466d8bee6fc3",
+      "title": "华为推送鸿蒙 HarmonyOS 7.0.0.109 新补丁包，实装多设备互助通信共享功能",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-08",
+      "time": "15:07",
+      "publishedAt": "2026-10-08T15:07:52.000Z",
+      "url": "https://www.ithome.com/1/010/736.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/f48ffef9-ea36-4255-a431-aa40d882c856.jpg",
+      "summary": "IT之家 10 月 8 日消息，华为今日面向 Mate 80 系列等机型，推送了鸿蒙 HarmonyOS 7.0.0.109 版本最新补丁包，包体大小约 206.99MB，优化了部分场景的使用体验。 IT之家实测发现，更新该补丁包的机型实装了多设备互助通信共享功能， 支持碰一碰共享本机移动网络 （需要分享端处于“设置-多设备协同-通信共享”页面）。 外部设…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-31ad8daf3ca4",
+      "title": "谷歌为 Pixel 手机开发新人脸解锁算法，改善暗光环境解锁体验",
+      "source": "IT之家",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-08",
+      "time": "14:08",
+      "publishedAt": "2026-10-08T14:08:55.000Z",
+      "url": "https://www.ithome.com/1/010/714.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/cbbd4bc7-787d-4e8f-b9bf-fec384fb5015.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 8 日消息，据科技媒体 Android Headline 今天报道，谷歌似乎在为 Pixel 系列手机开发“Face Active Illumination”功能，可利用屏幕发出的光照亮人脸，改善暗光环境下的人脸解锁体验。 据报道，谷歌 Pixel 手机的人脸解锁功能在环境光良好的情况下表现尚可，当用户进入光线昏暗的房间时，它就显得力不…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-26ff4420172b",
+      "title": "Galaxy SmartTag 3: Key features missing on iPhone",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-08",
+      "time": "13:55",
+      "publishedAt": "2026-10-08T13:55:06.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-smarttag-3-key-features-missing-on-iphone/",
+      "image": "",
+      "summary": "The Galaxy SmartTag 3 went on sale in Korea on October 7 and was scheduled for a USA launch in early November. The SmartTag 3 brings several improvements over the previous model,…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-62de4f3b21f4",
       "title": "ColorOS 17’s global launch set for October 13, with Find X10 series users to experience it first",
@@ -242,26 +522,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-c98cd29cb1ed",
-      "title": "OPPO、一加、真我全覆盖，ColorOS17 正式版升级计划开启",
-      "source": "IT之家",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-08",
-      "time": "07:58",
-      "publishedAt": "2026-10-08T07:58:48.000Z",
-      "url": "https://www.ithome.com/1/010/568.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/9/5a2e4fd1-7fe7-4e26-ba8d-67a6002a19f0.jpg",
-      "summary": "IT之家 10 月 8 日消息，根据此前官方规划，OPPO 今日将正式开启 ColorOS 17 正式版升级计划，OPPO、一加、realme 真我三大品牌首批全覆盖。 从官方公布的升级时间表来看，10 月 8 日首批获得推送的机型包括 OPPO Find N6、Find N6 卫星通信版、Find X9 Ultra、Find X9 Ultra 卫星通信版…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-923dfb8ee09a",
       "title": "iQOO Neo 12 could get the world’s first mass-produced 2K 185Hz OLED display",
       "source": "Gizmochina",
@@ -442,21 +702,101 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-751181806944",
-      "title": "iPhone Duo 适配规则：明年4月起应用需提交机型截图",
+      "id": "newsnow-d19ad914f4b6",
+      "title": "现在到底能买啥手机？",
       "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-08",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74208208",
+      "url": "https://www.coolapk.com/feed/74221811",
       "image": "",
-      "summary": "iPhone Duo 适配规则：明年4月起应用需提交机型截图",
+      "summary": "现在到底能买啥手机？",
       "tags": [
-        "iPhone",
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-4ddf5e638eac",
+      "title": "这特么也能洗啊[笑眼] #华为Mate80ProMax# #华为鸿蒙# 急刹车我还得掌握力度角度踩刹车？命重要还是踩刹车的角度力度重要[受虐滑稽][受虐滑稽][受虐滑稽][受虐滑稽][受虐滑稽]",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74231711",
+      "image": "",
+      "summary": "这特么也能洗啊[笑眼] #华为Mate80ProMax# #华为鸿蒙# 急刹车我还得掌握力度角度踩刹车？命重要还是踩刹车的角度力度重要[受虐滑稽][受虐滑稽][受虐滑稽][受虐滑稽][受虐滑稽]",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-e291547d2333",
+      "title": "#懂车帝测试尊界V800刹车踏板断裂# #麒麟9050Pro# #华为Mate90Pro#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74233127",
+      "image": "",
+      "summary": "#懂车帝测试尊界V800刹车踏板断裂# #麒麟9050Pro# #华为Mate90Pro#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-b1884e7e2ad4",
+      "title": "说实话鸿蒙智行倒闭对任何人都是好事，包括华为和🌸粉，老老实实做手机不香吗，又没啥大安全问题。今年这么多逆天操作，加上这个用料真垃圾，你这车要是十来万复合国标到无所谓，问题是你卖的可是70w，真当买豪车的是冤大头吗[流汗滑稽][流汗滑稽]",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74237177",
+      "image": "",
+      "summary": "说实话鸿蒙智行倒闭对任何人都是好事，包括华为和🌸粉，老老实实做手机不香吗，又没啥大安全问题。今年这么多逆天操作，加上这个用料真垃圾，你这车要是十来万复合国标到无所谓，问题是你卖的可是70w，真当买豪车的是冤大头吗[流汗滑稽][流汗滑稽]",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-16138720a4c6",
+      "title": "希望未来某一年，能出现一款集各家优点的手机",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74220880",
+      "image": "",
+      "summary": "希望未来某一年，能出现一款集各家优点的手机",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -495,6 +835,26 @@ window.phoneRadarAuto = {
       "url": "https://www.toutiao.com/trending/7693984805352129070/",
       "image": "",
       "summary": "余承东：手机芯片基本摆脱外部依赖",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-3f25e5426f54",
+      "title": "的哥3天3次上门：还钱、送手机、退谢礼",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E7%9A%84%E5%93%A53%E5%A4%A93%E6%AC%A1%E4%B8%8A%E9%97%A8%EF%BC%9A%E8%BF%98%E9%92%B1%E3%80%81%E9%80%81%E6%89%8B%E6%9C%BA%E3%80%81%E9%80%80%E8%B0%A2%E7%A4%BC",
+      "image": "",
+      "summary": "的哥3天3次上门：还钱、送手机、退谢礼",
       "tags": [
         "行业",
         "爆料",
@@ -562,26 +922,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-14d1618f3864",
-      "title": "Best Buy Takes $260 Off All iPhone Air Models During Techtober Sale",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-07",
-      "time": "15:00",
-      "publishedAt": "2026-10-07T15:00:17.000Z",
-      "url": "https://www.macrumors.com/2026/10/07/iphone-air-models-prime-big-deal-days/",
-      "image": "https://images.macrumors.com/article-new/2025/02/iphone-air-camera.jpg",
-      "summary": "Best Buy today is offering customers a chance to get $260 off every model of the iPhone Air during its \"Techtober\" event . This is a match of the record low prices we saw during B…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-f556f927603f",
       "title": "XREAL’s first Android XR glasses are almost as expensive as a Galaxy S26 Ultra",
       "source": "Android Authority",
@@ -617,46 +957,6 @@ window.phoneRadarAuto = {
       "summary": "Just a few weeks after the iPhone 18 Pro and Pro Max started shipping, some owners started posting about what looked like weird color shifts around the rear camera module, especia…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-403204d292af",
-      "title": "Galaxy Z Fold 8 Ultra battery tests reveal the biggest challenge facing the iPhone Duo",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-07",
-      "time": "10:00",
-      "publishedAt": "2026-10-07T10:00:55.000Z",
-      "url": "https://www.androidauthority.com/galaxy-z-fold-8-ultra-battery-tests-iphone-duo-challenge-3718097/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Apple-iPhone-Duo-Hands-On-Inner-Display-with-iOS-27-home-screen.jpg",
-      "summary": "Galaxy Z Fold 8 battery life: Does Silicon-Carbon help?",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9acfad4f9646",
-      "title": "Pixel 11’s Screen Saver options are quietly making their way to older Pixels",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-07",
-      "time": "09:53",
-      "publishedAt": "2026-10-07T09:53:36.000Z",
-      "url": "https://www.androidauthority.com/pixel-11-screen-saver-on-pixel-9-pro-3720016/",
-      "image": "",
-      "summary": "Pixel 9 is getting all the new options, while Pixel 10 is getting the new Charge style.",
-      "tags": [
-        "Pixel",
         "爆料",
         "自动抓取"
       ]
@@ -699,46 +999,6 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-43bb4f256c45",
-      "title": "5 reasons I’d buy the Pixel 11 Pro over any other Android phone right now",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-07",
-      "time": "09:00",
-      "publishedAt": "2026-10-07T09:00:39.000Z",
-      "url": "https://www.androidauthority.com/why-id-buy-pixel-11-pro-over-all-other-android-phones-3716793/",
-      "image": "",
-      "summary": "The newest Pixel is absolutely goated.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ef2142021d21",
-      "title": "Amazon drops the Samsung Galaxy S26 Plus to $774 in a Prime Day deal",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-07",
-      "time": "06:38",
-      "publishedAt": "2026-10-07T06:38:14.000Z",
-      "url": "https://www.androidauthority.com/galaxy-s26-plus-prime-deal-3719759/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/Samsung-Galaxy-S26-Plus-held-in-hand-.jpg",
-      "summary": "Amazon cuts 36% off the Samsung Galaxy S26 Plus, bringing the 6.7-inch flagship down to one of its best prices ever.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
