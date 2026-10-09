@@ -1,6 +1,146 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-09T16:59:02.966Z",
+  "updatedAt": "2026-10-09T22:37:02.058Z",
   "news": [
+    {
+      "id": "auto-69ed71569f52",
+      "title": "iPhone Duo buyers to get a special surprise at U.S. Apple Stores, Gurman says",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-09",
+      "time": "22:29",
+      "publishedAt": "2026-10-09T22:29:17.000Z",
+      "url": "https://9to5mac.com/2026/10/09/iphone-duo-buyers-to-get-a-special-surprise-at-u-s-apple-stores-gurman-says/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-front-display-hand.jpg?quality=82&strip=all&w=1600",
+      "summary": "According to Bloomberg’s Mark Gurman, iPhone Duo buyers who purchase their device at an Apple Store in the US will be treated to a nice little surprise when they turn it on for th…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-98593355ee2d",
+      "title": "Survey suggests that the iPhone Duo is tempting a surprising number of Android fans",
+      "source": "Android Authority",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-09",
+      "time": "22:29",
+      "publishedAt": "2026-10-09T22:29:05.000Z",
+      "url": "https://www.androidauthority.com/ditch-android-for-the-iphone-duo-poll-results-3721582/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/iphone-duo-camera-features-image-4.jpg",
+      "summary": "Not quite an Android exodus, but encouraging reading for Apple.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4c0c3554e4eb",
+      "title": "Want an iPhone Duo? These AT&T deals will knock the price down",
+      "source": "Android Authority",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-09",
+      "time": "19:13",
+      "publishedAt": "2026-10-09T19:13:04.000Z",
+      "url": "https://www.androidauthority.com/apple-iphone-duo-att-deals-3721516/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Apple-iPhone-Duo-Hands-On-Opened.jpg",
+      "summary": "With pre-orders starting in the coming days, AT&T has revealed its iPhone Duo deals.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-be4326d4f985",
+      "title": "竹本青：25年1月，陈希发布了OPPO Find系列 全新的图腾开机动画： 「X」代表了不断探索未知的不凡初心 「N」代表…",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-09",
+      "time": "19:04",
+      "publishedAt": "2026-10-09T19:04:57.000Z",
+      "url": "https://www.coolapk.com/feed/74261121",
+      "image": "http://image.coolapk.com/feed/2026/1010/03/4248714_0a6a9876_2695_6653_343-livepic@1440x3200.jpg",
+      "summary": "25年1月，陈希发布了OPPO Find系列 全新的图腾开机动画： 「X」代表了不断探索未知的不凡初心 「N」代表了持续突破认知的创新高度 #OPPOFindX10ProMax# #OPPOFindN6#",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-2b8c77fec1cf",
+      "title": "I switched to the Galaxy S26 Ultra, but its biggest display upgrade comes with a major catch",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-09",
+      "time": "19:00",
+      "publishedAt": "2026-10-09T19:00:10.000Z",
+      "url": "https://www.androidpolice.com/galaxy-s26-ultra-display-upgrade-comes-with-major-catch/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/02/galaxy-s26-ultra-privacy-display-menu.JPG",
+      "summary": "I used the Galaxy S26 Ultra and Galaxy S25 Ultra; the Privacy Display isn't a clear win",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6f4110ebeea4",
+      "title": "The Samsung Galaxy S26 Ultra is down to $950 after Prime Day",
+      "source": "The Verge",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-09",
+      "time": "17:41",
+      "publishedAt": "2026-10-09T17:41:24.000Z",
+      "url": "https://www.theverge.com/gadgets/1008857/samsung-galaxy-s26-ultra-deal-sale",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268399_Samsung_Galaxy_S26_Ultra_review_AJohnson_0011.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "Amazon has the Samsung Galaxy S26 Ultra in black with 256GB of storage discounted to $949.99, a healthy discount from its usual price of $1,399.99. This phone’s standout feature i…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-07dd012897a7",
+      "title": "Forget the Pixel 11; I'm saving my money for the Pixel 11a",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-09",
+      "time": "17:00",
+      "publishedAt": "2026-10-09T17:00:10.000Z",
+      "url": "https://www.androidpolice.com/forget-the-pixel-11-im-saving-my-money-for-the-pixel-11a/",
+      "image": "",
+      "summary": "Google's Pixel 11a proves flagship phones do too much",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-e2493ad58207",
       "title": "Apple Shares Fall After News of iPhone 18 Pro Order Cuts",
@@ -59,26 +199,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-0e5d6bcada62",
-      "title": "JSCHEN小小狐：得说 Mate90 这次的主摄裁切微距还挺有欺骗性的，调用很积极且煞有其事的做了多摄切换的“错位”效果，甚至还覆盖…",
-      "source": "JSCHEN小小狐",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-09",
-      "time": "14:36",
-      "publishedAt": "2026-10-09T14:36:03.000Z",
-      "url": "https://www.coolapk.com/feed/74257801",
-      "image": "http://image.coolapk.com/feed/2026/1009/22/4702274_034832a9_6448_532_47-livepic@2160x3840.jpg",
-      "summary": "得说 Mate90 这次的主摄裁切微距还挺有欺骗性的，调用很积极且煞有其事的做了多摄切换的“错位”效果，甚至还覆盖到了专业模式，光看取景框画质根本看不出来，难怪会有人以为有微距了。 至于为什么标准版没有真的上长焦微距，我想第二张 Live 图已经展示的很清楚了。另外这颗长焦是固定光圈 f/2.2，考虑到华为默认模式下水印上标的就是物理光圈，所以像 f/2.…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -297,26 +417,6 @@ window.phoneRadarAuto = {
       "summary": "In the coming week, OnePlus will unveil the OnePlus 16, equipped with the Snapdragon 8 Elite Extreme Gen 6 chip, in China. Apart from the OP16, the brand is also said to be workin…",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ea4d12c96795",
-      "title": "5 reasons the $899 Pixel 11 is secretly the best Android flagship of the year",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-09",
-      "time": "10:30",
-      "publishedAt": "2026-10-09T10:30:10.000Z",
-      "url": "https://www.androidpolice.com/5-reasons-pixel-11-is-best-android-flagship-of-year/",
-      "image": "",
-      "summary": "It has less to do with Google and more to do with the other flagships",
-      "tags": [
-        "Pixel",
         "爆料",
         "自动抓取"
       ]
@@ -802,21 +902,41 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-97acfed7efcc",
-      "title": "这特么也能洗啊[笑眼] #华为Mate80ProMax# #华为鸿蒙# 急刹车我还得掌握力度角度踩刹车？命重要还是踩刹车的角度力度重要[受虐滑稽][受虐滑稽][受虐滑稽][受虐滑稽][受虐滑稽]",
+      "id": "newsnow-26c07b336db9",
+      "title": "徕卡一瞬 M9：三个模型权重全部解出，以及我为什么放弃手机端移植",
       "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-09",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74231711",
+      "url": "https://www.coolapk.com/feed/74256894",
       "image": "",
-      "summary": "这特么也能洗啊[笑眼] #华为Mate80ProMax# #华为鸿蒙# 急刹车我还得掌握力度角度踩刹车？命重要还是踩刹车的角度力度重要[受虐滑稽][受虐滑稽][受虐滑稽][受虐滑稽][受虐滑稽]",
+      "summary": "徕卡一瞬 M9：三个模型权重全部解出，以及我为什么放弃手机端移植",
       "tags": [
-        "Huawei",
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-6ab11a8c1098",
+      "title": "买了苹果，就要接受没有小窗不能分身的缺点；买了华为就要接受性能不佳的缺点；买了小米要接受功能不全，系统操蛋的问题；买了 OPPO 又要接受推送不好的问题；买了 VIVO 又要接受负优化，审美 childish，大圆饼的问题；买了荣耀又要接受小白条沉浸一塌糊涂，并行动画迟迟不上的问题；买了三星又得接受本地化烂，续航拉闸的问题。有没有一款手机能做到动画好，可以小窗分屏，性能完美，屏幕比较护眼，拍照比较可以，推送完美，小白条沉浸做得比较好，系统动画比较完美，不是大圆饼，或者后色凸起比较小的手机啊[流泪][流泪]",
+      "source": "酷安热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-09",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74245108",
+      "image": "",
+      "summary": "买了苹果，就要接受没有小窗不能分身的缺点；买了华为就要接受性能不佳的缺点；买了小米要接受功能不全，系统操蛋的问题；买了 OPPO 又要接受推送不好的问题；买了 VIVO 又要接受负优化，审美 childish，大圆饼的问题；买了荣耀又要接受小白条沉浸一塌糊涂，并行动画迟迟不上的问题；买了三星又得接受本地化烂，续航拉闸的问题。有没有一款手机能做到动画好，可以…",
+      "tags": [
+        "HONOR",
         "爆料",
         "NewsNow"
       ]
@@ -842,8 +962,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-bdfc7cecf311",
-      "title": "希望未来某一年，能出现一款集各家优点的手机",
+      "id": "newsnow-786abb0f85dc",
+      "title": "得说 Mate90 这次的主摄裁切微距还挺有欺骗性的，调用很积极且煞有其事的做了多摄切换的“错位”效果，甚至还覆盖到了专业模式，光看取景框画质根本看不出来，难怪会有人以为有微距了。",
       "source": "酷安热榜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -852,9 +972,9 @@ window.phoneRadarAuto = {
       "date": "2026-10-09",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74220880",
+      "url": "https://www.coolapk.com/feed/74257801",
       "image": "",
-      "summary": "希望未来某一年，能出现一款集各家优点的手机",
+      "summary": "得说 Mate90 这次的主摄裁切微距还挺有欺骗性的，调用很积极且煞有其事的做了多摄切换的“错位”效果，甚至还覆盖到了专业模式，光看取景框画质根本看不出来，难怪会有人以为有微距了。",
       "tags": [
         "行业",
         "爆料",
@@ -862,42 +982,42 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-74ffaaa066fc",
-      "title": "现在到底能买啥手机？",
+      "id": "newsnow-97acfed7efcc",
+      "title": "这特么也能洗啊[笑眼] #华为Mate80ProMax# #华为鸿蒙# 急刹车我还得掌握力度角度踩刹车？命重要还是踩刹车的角度力度重要[受虐滑稽][受虐滑稽][受虐滑稽][受虐滑稽][受虐滑稽]",
       "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-09",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74221811",
+      "url": "https://www.coolapk.com/feed/74231711",
       "image": "",
-      "summary": "现在到底能买啥手机？",
+      "summary": "这特么也能洗啊[笑眼] #华为Mate80ProMax# #华为鸿蒙# 急刹车我还得掌握力度角度踩刹车？命重要还是踩刹车的角度力度重要[受虐滑稽][受虐滑稽][受虐滑稽][受虐滑稽][受虐滑稽]",
       "tags": [
-        "行业",
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-f8f288a76db7",
-      "title": "人形机器人越来越像手机了",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
+      "id": "newsnow-0522fdb557af",
+      "title": "曝华为 Mate 90 系列手机首销期销量超 27 万台，「超大杯」占比约 40% 你怎么看？",
+      "source": "知乎热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "市场报告",
       "trust": "媒体汇总",
       "date": "2026-10-09",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%83%8F%E6%89%8B%E6%9C%BA%E4%BA%86",
+      "url": "https://www.zhihu.com/question/2091256143515595155",
       "image": "",
-      "summary": "人形机器人越来越像手机了",
+      "summary": "曝华为 Mate 90 系列手机首销期销量超 27 万台，「超大杯」占比约 40% 你怎么看？",
       "tags": [
-        "行业",
-        "爆料",
+        "Huawei",
+        "市场报告",
         "NewsNow"
       ]
     },

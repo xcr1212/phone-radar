@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-10-09T16:59:02.966Z",
+  "updatedAt": "2026-10-09T22:37:02.058Z",
   "issueDate": "2026-10-09",
   "issue": "VOL.261009",
   "title": "手机情报日报",
@@ -41,25 +41,25 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-e2493ad58207",
+          "id": "auto-69ed71569f52",
           "title": "iPhone 相关消息",
           "originalTitle": "",
-          "source": "MacRumors",
+          "source": "9to5Mac",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-10-09",
-          "time": "15:35",
-          "publishedAt": "2026-10-09T15:35:09.000Z",
-          "url": "https://www.macrumors.com/2026/10/09/apple-shares-fall-after-iphone-18-pro-order-cuts/",
-          "image": "",
+          "time": "22:29",
+          "publishedAt": "2026-10-09T22:29:17.000Z",
+          "url": "https://9to5mac.com/2026/10/09/iphone-duo-buyers-to-get-a-special-surprise-at-u-s-apple-stores-gurman-says/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-front-display-hand.jpg?quality=82&strip=all&w=1600",
           "verdict": "先看",
           "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
           "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "爆料"
+            "爆料来源"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
