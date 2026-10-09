@@ -1,6 +1,286 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-08T19:56:23.012Z",
+  "updatedAt": "2026-10-09T00:21:57.829Z",
   "news": [
+    {
+      "id": "auto-3dd8f97292f0",
+      "title": "苹果库克解释为何赶在 iPhone Duo 发布前交接：为特努斯创造有利开局",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-09",
+      "time": "00:00",
+      "publishedAt": "2026-10-09T00:00:25.000Z",
+      "url": "https://www.ithome.com/1/010/767.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/83fcae7b-b6e2-486e-a56e-6f714953df7e.jpg",
+      "summary": "IT之家 10 月 9 日消息，本周三在接受《独立报》记者大卫 · 费兰（David Phelan）采访时，苹果前首席执行官蒂姆 · 库克（Tim Cook）表示，他于 9 月 1 日卸任 CEO， 部分原因是在 iPhone Duo 发布前 8 天，为继任者约翰 · 特努斯（John Ternus）创造有利开局。 库克表示，这次交接“数年前就已启动”。他…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f88c473bc838",
+      "title": "Celebrating “What Holds Us” on iPhone 18 Pro",
+      "source": "Apple Newsroom",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-10-09",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.apple.com/newsroom/2026/09/celebrating-what-holds-us-on-iphone-18-pro/",
+      "image": "",
+      "summary": "A new photography exhibition, curated by Kathy Ryan, celebrates the evolving language of visual storytelling and showcases the advanced pro camera system on iPhone 18 Pro.",
+      "tags": [
+        "iPhone",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-728bbee10ddb",
+      "title": "Apple unveils iPhone Duo",
+      "source": "Apple Newsroom",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-10-09",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
+      "image": "",
+      "summary": "Apple today introduced iPhone Duo, the first foldable iPhone.",
+      "tags": [
+        "iPhone",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-07e6d6658c80",
+      "title": "Apple debuts iPhone 18 Pro and iPhone 18 Pro Max",
+      "source": "Apple Newsroom",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-10-09",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+      "image": "",
+      "summary": "Apple announced iPhone 18 Pro and iPhone 18 Pro Max, delivering an advanced pro camera system and improved battery life and performance.",
+      "tags": [
+        "iPhone",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "newsnow-c65b77a8d851",
+      "title": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-10-09",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/114972",
+      "image": "",
+      "summary": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-97acfed7efcc",
+      "title": "这特么也能洗啊[笑眼] #华为Mate80ProMax# #华为鸿蒙# 急刹车我还得掌握力度角度踩刹车？命重要还是踩刹车的角度力度重要[受虐滑稽][受虐滑稽][受虐滑稽][受虐滑稽][受虐滑稽]",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-09",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74231711",
+      "image": "",
+      "summary": "这特么也能洗啊[笑眼] #华为Mate80ProMax# #华为鸿蒙# 急刹车我还得掌握力度角度踩刹车？命重要还是踩刹车的角度力度重要[受虐滑稽][受虐滑稽][受虐滑稽][受虐滑稽][受虐滑稽]",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-95a30fb52565",
+      "title": "说实话鸿蒙智行倒闭对任何人都是好事，包括华为和🌸粉，老老实实做手机不香吗，又没啥大安全问题。今年这么多逆天操作，加上这个用料真垃圾，你这车要是十来万复合国标到无所谓，问题是你卖的可是70w，真当买豪车的是冤大头吗[流汗滑稽][流汗滑稽]",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-09",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74237177",
+      "image": "",
+      "summary": "说实话鸿蒙智行倒闭对任何人都是好事，包括华为和🌸粉，老老实实做手机不香吗，又没啥大安全问题。今年这么多逆天操作，加上这个用料真垃圾，你这车要是十来万复合国标到无所谓，问题是你卖的可是70w，真当买豪车的是冤大头吗[流汗滑稽][流汗滑稽]",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-74ffaaa066fc",
+      "title": "现在到底能买啥手机？",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-09",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74221811",
+      "image": "",
+      "summary": "现在到底能买啥手机？",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-c44e852f4ebe",
+      "title": "#懂车帝测试尊界V800刹车踏板断裂# #麒麟9050Pro# #华为Mate90Pro#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-09",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74233127",
+      "image": "",
+      "summary": "#懂车帝测试尊界V800刹车踏板断裂# #麒麟9050Pro# #华为Mate90Pro#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-bdfc7cecf311",
+      "title": "希望未来某一年，能出现一款集各家优点的手机",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-09",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74220880",
+      "image": "",
+      "summary": "希望未来某一年，能出现一款集各家优点的手机",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-ec99037fb299",
+      "title": "余承东：手机芯片基本摆脱外部依赖",
+      "source": "今日头条热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-09",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7693984805352129070/",
+      "image": "",
+      "summary": "余承东：手机芯片基本摆脱外部依赖",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "auto-d7271dae9ce3",
+      "title": "iPhone 间谍软件 P7 DarkSword 曝光：每 15 秒通信外传照片等用户数据",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-08",
+      "time": "23:41",
+      "publishedAt": "2026-10-08T23:41:55.000Z",
+      "url": "https://www.ithome.com/1/010/761.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/d3d406c9-ddc8-4f90-bcc0-cb703234ebc2.png",
+      "summary": "IT之家 10 月 9 日消息，网络安全公司 iVerify 昨日（10 月 8 日）发布博文，披露名为 P7 DarkSword 的 iOS 间谍软件变种，针对苹果 iPhone（原文并未披露具体影响机型）， 在降低设备痕迹的同时，每 15 秒一次的双向远程控制通信，可外传照片、备忘录、应用数据及任意文件。 本次发现源于 8 月调查一起 DarkSwor…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-366695fdbcc5",
+      "title": "Researchers uncover new DarkSword spyware variant affecting unpatched iPhones",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-08",
+      "time": "23:08",
+      "publishedAt": "2026-10-08T23:08:18.000Z",
+      "url": "https://9to5mac.com/2026/10/08/researchers-uncover-new-darksword-spyware-variant-affecting-unpatched-iphones/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-hacked.jpg?quality=82&strip=all&w=1600",
+      "summary": "iVerify released a report today detailing P7 DarkSword, a new variant of the malware associated with the DarkSword iPhone exploit chain uncovered earlier this year. Here are the d…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e00a8f954b63",
+      "title": "7999 元起，小米 17 Ultra 手机全系涨价 1000 元",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-08",
+      "time": "22:48",
+      "publishedAt": "2026-10-08T22:48:31.000Z",
+      "url": "https://www.ithome.com/1/010/748.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/09de2f9b-1b65-4fd7-88f3-7588a46eac38.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 9 日消息，据博主 @怕不是小小白 ，今日起小米 17 Ultra 手机 全系涨价 1000 元 。 标准版 ：6999 元起 → 7999 元起 12GB+512GB：6999 元 → 7999 元 16GB+512GB：7499 元 → 8499 元 16GB+1TB： 8499 元 → 9499 元 徕卡版 ：7999 元起 →…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-889b5d211de0",
       "title": "What price hike? Amazon just slashed $450 off the Galaxy S26 Ultra",
@@ -322,26 +602,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-d38900876dc6",
-      "title": "消息称荣耀也有自己的阔家族，阔直板和阔折叠手机都在做",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-08",
-      "time": "12:07",
-      "publishedAt": "2026-10-08T12:07:53.000Z",
-      "url": "https://www.ithome.com/1/010/687.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/fbd0f61c-04cd-4266-87f2-9b37d724dbbd.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 8 日消息，博主 @旺仔百事通 &nbsp;今日发文透露， 荣耀也有自己的阔家族 ，阔直板和阔折叠手机都在做。 有网友询问新机是否会在明年下半年发布，博主表示：“ 不会。 ” 据IT之家此前报道，博主 @数码闲聊站 曾爆料，荣耀阔折叠手机搭载 2nm 骁龙新芯片， 排期 2027 年 Q1 发布 。该博主今日还透露，安卓阵营的阔直板手机…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-d62987282e0c",
       "title": "Oppo and Honor to lead wide-screen candybar push after Huawei Pura X View",
       "source": "Gizmochina",
@@ -377,46 +637,6 @@ window.phoneRadarAuto = {
       "summary": "Apple's iPhone Air 2 will be approximately 0.4mm thinner than the current model despite having a higher-capacity battery, claims the account \" yeux1122 \" on the Korean Naver blog.…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-42a94dc27841",
-      "title": "微软 Edge 浏览器 157 版本将停止支持 Windows 旧版登录器 WAM，转用 OneAuth",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-08",
-      "time": "11:09",
-      "publishedAt": "2026-10-08T11:09:55.000Z",
-      "url": "https://www.ithome.com/1/010/674.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/29b36daa-ead5-4dac-9d56-911c5ba90e48.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 8 日消息，据科技媒体 neowin 今天报道，微软计划今年 11 月推出 Edge 157 版。届时该浏览器将停止支持 Windows 的旧版 Web Account Manager（IT之家注：WAM）登录器，转为统一使用 OneAuth 身份验证库。 此次调整后，旧版 WAM 备用路径将在所有情况下默认关闭，影响尚未完成迁移的用户…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0a78922921e2",
-      "title": "华为鸿蒙 HarmonyOS 7 系统更多机型 Beta 转公测，覆盖 Mate 60 系列等",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-08",
-      "time": "10:25",
-      "publishedAt": "2026-10-08T10:25:07.000Z",
-      "url": "https://www.ithome.com/1/010/660.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2023/9/59adb3cf-3469-4872-aa01-7fa2fd262cf9.jpg",
-      "summary": "IT之家 10 月 8 日消息，华为官网最新信息显示，鸿蒙 HarmonyOS 7 系统更多机型从花粉 Beta 转为公测，覆盖 Mate 60 系列、Pura 70 系列等。 ▲ IT之家开箱：华为 Mate60 Pro+「宣白」图赏 IT之家附华为鸿蒙 HarmonyOS 7 最新适配机型清单如下： 正式版 HUAWEI Mate 80 系列 HUAW…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
@@ -497,26 +717,6 @@ window.phoneRadarAuto = {
       "summary": "Oppo introduced the Find X10 series in China last month to strong reception. Following a few days of teasers from its international channels, the company has officially locked in…",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0fce55802b99",
-      "title": "First look: This Pro Max Android phone is everything the iPhone isn’t",
-      "source": "Android Authority",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-08",
-      "time": "08:00",
-      "publishedAt": "2026-10-08T08:00:54.000Z",
-      "url": "https://www.androidauthority.com/oppo-find-x10-pro-max-global-first-look-3720562/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/OPPO-Find-X10-Pro-Max-camera-outside.jpg",
-      "summary": "Our first hands-on with the global Find X10 Pro Max reveals a premium design to go with that rumored price tag.",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -617,406 +817,6 @@ window.phoneRadarAuto = {
       "summary": "维信诺有点东西，全球首发量产2K+185Hz，而且基于第四代发光技术pTSF打造了全新的发光材料，屏幕亮度/寿命/显示都有突破，甚至有行业最强新技术，10月新机见👖",
       "tags": [
         "行业",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "auto-f88c473bc838",
-      "title": "Celebrating “What Holds Us” on iPhone 18 Pro",
-      "source": "Apple Newsroom",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "官方",
-      "trust": "官方确认",
-      "date": "2026-10-08",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.apple.com/newsroom/2026/09/celebrating-what-holds-us-on-iphone-18-pro/",
-      "image": "",
-      "summary": "A new photography exhibition, curated by Kathy Ryan, celebrates the evolving language of visual storytelling and showcases the advanced pro camera system on iPhone 18 Pro.",
-      "tags": [
-        "iPhone",
-        "官方",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-728bbee10ddb",
-      "title": "Apple unveils iPhone Duo",
-      "source": "Apple Newsroom",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "官方",
-      "trust": "官方确认",
-      "date": "2026-10-08",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
-      "image": "",
-      "summary": "Apple today introduced iPhone Duo, the first foldable iPhone.",
-      "tags": [
-        "iPhone",
-        "官方",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-07e6d6658c80",
-      "title": "Apple debuts iPhone 18 Pro and iPhone 18 Pro Max",
-      "source": "Apple Newsroom",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "官方",
-      "trust": "官方确认",
-      "date": "2026-10-08",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
-      "image": "",
-      "summary": "Apple announced iPhone 18 Pro and iPhone 18 Pro Max, delivering an advanced pro camera system and improved battery life and performance.",
-      "tags": [
-        "iPhone",
-        "官方",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "newsnow-e7a28b7271af",
-      "title": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-10-08",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/114972",
-      "image": "",
-      "summary": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-d19ad914f4b6",
-      "title": "现在到底能买啥手机？",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-08",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74221811",
-      "image": "",
-      "summary": "现在到底能买啥手机？",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-4ddf5e638eac",
-      "title": "这特么也能洗啊[笑眼] #华为Mate80ProMax# #华为鸿蒙# 急刹车我还得掌握力度角度踩刹车？命重要还是踩刹车的角度力度重要[受虐滑稽][受虐滑稽][受虐滑稽][受虐滑稽][受虐滑稽]",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-08",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74231711",
-      "image": "",
-      "summary": "这特么也能洗啊[笑眼] #华为Mate80ProMax# #华为鸿蒙# 急刹车我还得掌握力度角度踩刹车？命重要还是踩刹车的角度力度重要[受虐滑稽][受虐滑稽][受虐滑稽][受虐滑稽][受虐滑稽]",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-e291547d2333",
-      "title": "#懂车帝测试尊界V800刹车踏板断裂# #麒麟9050Pro# #华为Mate90Pro#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-08",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74233127",
-      "image": "",
-      "summary": "#懂车帝测试尊界V800刹车踏板断裂# #麒麟9050Pro# #华为Mate90Pro#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-b1884e7e2ad4",
-      "title": "说实话鸿蒙智行倒闭对任何人都是好事，包括华为和🌸粉，老老实实做手机不香吗，又没啥大安全问题。今年这么多逆天操作，加上这个用料真垃圾，你这车要是十来万复合国标到无所谓，问题是你卖的可是70w，真当买豪车的是冤大头吗[流汗滑稽][流汗滑稽]",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-08",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74237177",
-      "image": "",
-      "summary": "说实话鸿蒙智行倒闭对任何人都是好事，包括华为和🌸粉，老老实实做手机不香吗，又没啥大安全问题。今年这么多逆天操作，加上这个用料真垃圾，你这车要是十来万复合国标到无所谓，问题是你卖的可是70w，真当买豪车的是冤大头吗[流汗滑稽][流汗滑稽]",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-16138720a4c6",
-      "title": "希望未来某一年，能出现一款集各家优点的手机",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-08",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74220880",
-      "image": "",
-      "summary": "希望未来某一年，能出现一款集各家优点的手机",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-9ad3f9144c41",
-      "title": "曝华为 Mate 90 系列手机首销期销量超 27 万台，「超大杯」占比约 40% 你怎么看？",
-      "source": "知乎热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "市场报告",
-      "trust": "媒体汇总",
-      "date": "2026-10-08",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2091256143515595155",
-      "image": "",
-      "summary": "曝华为 Mate 90 系列手机首销期销量超 27 万台，「超大杯」占比约 40% 你怎么看？",
-      "tags": [
-        "Huawei",
-        "市场报告",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-8392f3f52d42",
-      "title": "余承东：手机芯片基本摆脱外部依赖",
-      "source": "今日头条热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-08",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7693984805352129070/",
-      "image": "",
-      "summary": "余承东：手机芯片基本摆脱外部依赖",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-3f25e5426f54",
-      "title": "的哥3天3次上门：还钱、送手机、退谢礼",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-08",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E7%9A%84%E5%93%A53%E5%A4%A93%E6%AC%A1%E4%B8%8A%E9%97%A8%EF%BC%9A%E8%BF%98%E9%92%B1%E3%80%81%E9%80%81%E6%89%8B%E6%9C%BA%E3%80%81%E9%80%80%E8%B0%A2%E7%A4%BC",
-      "image": "",
-      "summary": "的哥3天3次上门：还钱、送手机、退谢礼",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-a4117e372dff",
-      "title": "Review: Rhinoshield’s iPhone 18 Pro bumper case is minimalist but surprisingly protective",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-07",
-      "time": "21:57",
-      "publishedAt": "2026-10-07T21:57:58.000Z",
-      "url": "https://9to5mac.com/2026/10/07/review-rhinoshields-iphone-18-pro-bumper-case-is-minimalist-but-surprisingly-protective/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Rhinoshield-18-Pro-Bumper-Featued-Image.png?w=1600",
-      "summary": "iPhone bumper cases have been a fan-favorite since the iPhone 4 bumpers, but options these days are few and far between. Rhinoshield offers a decent option for those wanting a min…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c8a6c36adca8",
-      "title": "I tested the iPhone 18 Pro’s variable aperture camera. Now I want it on every Android phone",
-      "source": "Android Authority",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-07",
-      "time": "18:22",
-      "publishedAt": "2026-10-07T18:22:04.000Z",
-      "url": "https://www.androidauthority.com/iphone-18-pro-variable-aperture-camera-hands-on-android-phones-need-3716270/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/iPhone-18-Pro-Max-variable-aperture-scaled.jpg",
-      "summary": "The Android world is missing out.",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f9ed3dd37fe6",
-      "title": "The 512GB Samsung Galaxy S26 gets a rare 25% Prime Day discount",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-07",
-      "time": "15:01",
-      "publishedAt": "2026-10-07T15:01:03.000Z",
-      "url": "https://www.androidauthority.com/512gb-samsung-galaxy-s26-deal-3720319/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/samsung-galaxy-s26-base-review-display-on-scaled.jpg",
-      "summary": "Amazon cut $300 off the Galaxy S26 512GB for Prime Day, bringing Samsung's 2026 flagship down before the deal ends tonight.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f556f927603f",
-      "title": "XREAL’s first Android XR glasses are almost as expensive as a Galaxy S26 Ultra",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-07",
-      "time": "12:00",
-      "publishedAt": "2026-10-07T12:00:29.000Z",
-      "url": "https://www.androidauthority.com/xreal-aura-android-xr-glasses-price-availability-3719491/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/XREAL-AURA-at-Snapdragon-Summit-2026-5-of-11.jpg",
-      "summary": "They do match Meta's VR glasses, though.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a5c26fea5d29",
-      "title": "iPhone 18 Pro (Burgundy) owners are spotting weird discoloration around the camera",
-      "source": "Gizmochina",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-07",
-      "time": "11:44",
-      "publishedAt": "2026-10-07T11:44:07.000Z",
-      "url": "https://www.gizmochina.com/2026/10/07/iphone-18-pro-burgundy-owners-are-spotting-weird-discoloration-around-the-camera/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/is-this-discoloration-around-the-camera-lens-rings-normal-v0-muhvfr1nlgqh1-300x225.jpg?x96852",
-      "summary": "Just a few weeks after the iPhone 18 Pro and Pro Max started shipping, some owners started posting about what looked like weird color shifts around the rear camera module, especia…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-4709ce99c06a",
-      "title": "Oppo Find X10 Pro Max to launch later this month in India",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-07",
-      "time": "09:18",
-      "publishedAt": "2026-10-07T09:18:40.000Z",
-      "url": "https://www.gizmochina.com/2026/10/07/oppo-find-x10-pro-max-dimensity-9600-pro-india/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Mediatek-Launch-event-KV-1-300x149.png?x96852",
-      "summary": "Last month, Oppo unveiled the Find X10 series in China, and the lineup is scheduled to hit global markets later this month. Now, the brand’s Indian wing has confirmed that the Fin…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-f2b689e3eb2d",
-      "title": "数码闲聊站：10月也是一大堆新机，你们期待哪一台？ 已定档有一加16、红魔12 Pro+、…",
-      "source": "数码闲聊站",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-07",
-      "time": "09:18",
-      "publishedAt": "2026-10-07T09:18:00.000Z",
-      "url": "https://weibo.com/6048569942/RlA1zdQev",
-      "image": "",
-      "summary": "10月也是一大堆新机，你们期待哪一台？ 已定档有一加16、红魔12 Pro+、荣耀WIN2系列 已入网待定档有一加Ace7 Pro、iQOO Neo12、REDMI新机等等，大部分是性能机[吃瓜]",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "weibo-fbcc3230559c",
-      "title": "数码闲聊站：华为Mate90 Pro Max真机随拍，星环Deco+拼色机身，设计感觉更年…",
-      "source": "数码闲聊站",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-07",
-      "time": "02:56",
-      "publishedAt": "2026-10-07T02:56:09.000Z",
-      "url": "https://weibo.com/6048569942/RlxwzwZAi",
-      "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ihtlfg0iynj34um38g7wj.jpg",
-      "summary": "华为Mate90 Pro Max真机随拍，星环Deco+拼色机身，设计感觉更年轻化了，这代影像堆料也有超越P系列的势头，感受一下[揣手]",
-      "tags": [
-        "Huawei",
         "爆料",
         "微博"
       ]
