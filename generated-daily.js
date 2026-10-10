@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-10-10T05:50:43.226Z",
+  "updatedAt": "2026-10-10T12:30:08.807Z",
   "issueDate": "2026-10-10",
   "issue": "VOL.261010",
   "title": "手机情报日报",
-  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 10,
-    "iphone": 8,
+    "total": 9,
+    "iphone": 7,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -37,29 +37,6 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-d67d0638c431",
-          "title": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-10-10",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/114972",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
-          "detail": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -180,23 +157,50 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-3b301d79cf13",
-          "title": "华为 Pura X View 阔直板手机获鸿蒙 HarmonyOS 7.0.0.109 SP10 升级，支持多人互助通信共享功能",
+          "id": "coolapk-user-2f3bf7e74da1",
+          "title": "竹本青：荣耀WIN 2系列真机照曝光：横向大矩阵，内置散热风扇",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-10-10",
+          "time": "11:15",
+          "publishedAt": "2026-10-10T11:15:42.000Z",
+          "url": "https://www.coolapk.com/feed/74274513",
+          "image": "http://image.coolapk.com/feed/2026/1010/19/4248714_40bfda21_1529_3141_455@1664x1248.jpg",
+          "verdict": "先看",
+          "takeaway": "【荣耀WIN 2系列 真机照曝光：横向大矩阵，内置散热风扇】 10月10日，成都AG超玩会放出一诺上手荣耀WIN 2系列真机图。新机采用红蓝白渐变后盖，横向大矩形Deco，内置RGB环形灯效。 据此前爆料，荣耀WIN 2系列备案三款机型，提供红蓝Buff、快开黑、指定赢三款配色；硬件搭载骁龙8EE6处理器、2K OLED超高刷屏，并配备大尺寸散热风扇，续航…",
+          "detail": "【荣耀WIN 2系列 真机照曝光：横向大矩阵，内置散热风扇】 10月10日，成都AG超玩会放出一诺上手荣耀WIN 2系列真机图。新机采用红蓝白渐变后盖，横向大矩形Deco，内置RGB环形灯效。 据此前爆料，荣耀WIN 2系列备案三款机型，提供红蓝Buff、快开黑、指定赢三款配色；硬件搭载骁龙8EE6处理器、2K OLED超高刷屏，并配备大尺寸散热风扇，续航…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "屏幕形态",
+            "电池 / 充电",
+            "芯片 / 性能"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-f25e67b86c98",
+          "title": "荣耀 WIN 2 手机外观首曝：横向矩阵 Deco 设计，后置 RGB 灯 + 散热风扇",
           "originalTitle": "",
           "source": "IT之家",
-          "brand": "Huawei",
+          "brand": "HONOR",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-10-10",
-          "time": "04:53",
-          "publishedAt": "2026-10-10T04:53:57.000Z",
-          "url": "https://www.ithome.com/1/011/321.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/003e02f0-2588-4277-99ab-3a11104fcca2.jpg?x-bce-process=image/format,f_auto",
+          "time": "12:26",
+          "publishedAt": "2026-10-10T12:26:51.000Z",
+          "url": "https://www.ithome.com/1/011/503.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/1c500770-e127-445e-a69a-496e6da1f4fc.png?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 10 月 10 日消息，华为今日面向 Pura X View 手机率先推送了鸿蒙 HarmonyOS 7.0.0.109 SP10 版本升级，包体大小约 4.83GB。新版本带来了多人互助通信共享、熄屏循迹导航等功能。 IT之家附华为 Pura X View 阔直板手机此次更新内容如下： 多设备协同 通信共享功能再升级， 手机与搭载 Harmon…",
-          "detail": "IT之家 10 月 10 日消息，华为今日面向 Pura X View 手机率先推送了鸿蒙 HarmonyOS 7.0.0.109 SP10 版本升级，包体大小约 4.83GB。新版本带来了多人互助通信共享、熄屏循迹导航等功能。 IT之家附华为 Pura X View 阔直板手机此次更新内容如下： 多设备协同 通信共享功能再升级， 手机与搭载 Harmon…",
+          "takeaway": "IT之家 10 月 10 日消息，成都 AG 超玩会今日晒出了徐必成（一诺）的近照。画面中，一诺手持一款神秘新机。多方爆料显示，该机归属即将发布的荣耀 WIN 2 系列。 可以看到，荣耀 WIN 2 采用了横向矩阵 Deco + 立边设计， 后置 RGB 灯 + 散热风扇 ，后盖拥有云纹状特殊图案。 据IT之家此前报道， 消息称荣耀 WIN 2 系列新机代…",
+          "detail": "IT之家 10 月 10 日消息，成都 AG 超玩会今日晒出了徐必成（一诺）的近照。画面中，一诺手持一款神秘新机。多方爆料显示，该机归属即将发布的荣耀 WIN 2 系列。 可以看到，荣耀 WIN 2 采用了横向矩阵 Deco + 立边设计， 后置 RGB 灯 + 散热风扇 ，后盖拥有云纹状特殊图案。 据IT之家此前报道， 消息称荣耀 WIN 2 系列新机代…",
           "keyPoints": [
-            "爆料"
+            "外观 / 配色 / 尺寸",
+            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -232,36 +236,6 @@ window.phoneRadarDaily = {
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        }
-      ]
-    },
-    {
-      "id": "launch",
-      "title": "新机与官方发布",
-      "hint": "能直接更新到参数库。",
-      "items": [
-        {
-          "id": "auto-7c059dfc0567",
-          "title": "早报｜苹果定档10月13日发布新品/三星手机业务或减产30%/保时捷计划削减9000个岗位",
-          "originalTitle": "",
-          "source": "爱范儿",
-          "brand": "Samsung",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-10-09",
-          "time": "00:51",
-          "publishedAt": "2026-10-09T00:51:15.000Z",
-          "url": "https://www.ifanr.com/1683244?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "image": "https://s3.ifanr.com/wp-content/uploads/2026/10/Pro.jpg",
-          "verdict": "先看",
-          "takeaway": "· 小米澎程上市 30 天锁单超过 7 万台 · Manus 母公司完成超 5 亿美元新一轮融资 · 小鹏 Robotaxi 定名「小鹏悠游」，下单小程序同步上线",
-          "detail": "· 小米澎程上市 30 天锁单超过 7 万台 · Manus 母公司完成超 5 亿美元新一轮融资 · 小鹏 Robotaxi 定名「小鹏悠游」，下单小程序同步上线",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         }
       ]
     }
