@@ -1,6 +1,106 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-10T12:30:08.807Z",
+  "updatedAt": "2026-10-10T18:34:17.961Z",
   "news": [
+    {
+      "id": "auto-afae568a0c1f",
+      "title": "安卓首款、全球第二款阔直板手机将至：酷派新机首曝，价格干到“999 定位千元档”",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-10",
+      "time": "16:15",
+      "publishedAt": "2026-10-10T16:15:27.000Z",
+      "url": "https://www.ithome.com/1/011/540.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/003e02f0-2588-4277-99ab-3a11104fcca2.jpg",
+      "summary": "IT之家 10 月 11 日消息，全球首款阔直板手机 —— 华为 Pura X View 已于今年 9 月正式发布，搭载麒麟 9030S 处理器，配备 6400mm² VC 均热板，正面采用一块 6.39 英寸 2232×1320 分辨率的 OLED 直屏，屏幕比例为 16:9.5，售价 5999 元起。 IT之家注意到，简介为“酷派手机旗舰店”的小红书账…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6d06d9d48dc6",
+      "title": "Here’s a list of phones launching in the rest of October",
+      "source": "Gizmochina",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-10",
+      "time": "15:59",
+      "publishedAt": "2026-10-10T15:59:57.000Z",
+      "url": "https://www.gizmochina.com/2026/10/10/smartphones-list-launching-october/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/OnePlus-16-rear-design-300x169.jpg?x96852",
+      "summary": "September ended with several flagship launches across Android and iOS, while the first week of October has been relatively quiet. The break may not last long, as the rest of the m…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ce4e54064369",
+      "title": "华为神秘小屏新机首曝，消息称有一块 6.17 英寸 1.5K 小直屏开案中",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-10",
+      "time": "15:19",
+      "publishedAt": "2026-10-10T15:19:18.000Z",
+      "url": "https://www.ithome.com/1/011/533.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/23ad5d0a-e54e-485c-8225-cb92b1c719b3.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 10 日消息，博主 @数码闲聊站 今日曝光了一款神秘小屏新机。他透露， 华为有一块 6.17 英寸 1.5K 小直屏开案中 。 不过遗憾的是，目前仅有早期开屏信息， 暂不清楚产品线 。 有网友认为，小屏手机的销量一直都不太好。博主回复称：“还可以啊，现在是存量市场的竞争， 形态和尺寸都得有新意才会有人买单 。” 近年来，用户对于小屏手机…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4d4704d7cc38",
+      "title": "上汽奥迪 E7X 首次 OTA 推送：新增屏幕护眼模式、零重力座椅倾角调节功能等",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-10",
+      "time": "14:08",
+      "publishedAt": "2026-10-10T14:08:48.000Z",
+      "url": "https://www.ithome.com/1/011/520.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/639a56b4-b229-411c-babc-160ba1c51e89.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 10 日消息，10 月 9 日，上汽奥迪 E7X 开启首次 OTA 推送，版本号为 AUDI OS 2.1.4，覆盖寻车、车手互联、语音、驾控、舒适全场景。 IT之家整理主要内容如下： 优化寻车闪灯鸣笛体验 手机端寻车功能支持「闪灯」、「闪灯鸣笛」两种模式自由选择； 在这两种寻车模式基础上，可自定义 5s、10s 和 15s 三档执行时…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-d6ac34b55cc9",
+      "title": "JSCHEN小小狐：抽空去了一趟上海，不过来回捅了兔子窝 其实设定上讲我不是很喜欢 3 系车（） #手机摄影# #假期随手拍#",
+      "source": "JSCHEN小小狐",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-10",
+      "time": "13:17",
+      "publishedAt": "2026-10-10T13:17:35.000Z",
+      "url": "https://www.coolapk.com/feed/74276920",
+      "image": "http://image.coolapk.com/feed/2026/1010/21/4702274_1baa4853_8251_466_878-uhdr@3102x2672.jpg",
+      "summary": "抽空去了一趟上海，不过来回捅了兔子窝 其实设定上讲我不是很喜欢 3 系车（） #手机摄影# #假期随手拍#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "auto-f25e67b86c98",
       "title": "荣耀 WIN 2 手机外观首曝：横向矩阵 Deco 设计，后置 RGB 灯 + 散热风扇",
@@ -53,8 +153,8 @@ window.phoneRadarAuto = {
       "time": "12:08",
       "publishedAt": "2026-10-10T12:08:39.000Z",
       "url": "https://www.ithome.com/1/011/501.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/73fe5eef-7d2d-4bb3-aaaa-7e8fb4c0664f.jpg",
-      "summary": "IT之家 10 月 10 日消息，综合部分博主透露，苹果前首席执行官、现苹果公司董事会执行主席蒂姆 · 库克（Tim Cook）再度开启中国之行。 IT之家注意到，目前蒂姆 · 库克首站落地广东广州，现场观看使用苹果 iPhone 18 Pro 手机拍摄非遗咏春作品，记录传统文化。 如今约翰 · 特努斯（John Ternus）已接替库克出任苹果 CEO，…",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/73fe5eef-7d2d-4bb3-aaaa-7e8fb4c0664f.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 10 日消息，综合部分博主透露，苹果前首席执行官、现苹果公司董事会执行主席蒂姆 · 库克（Tim Cook）再度开启中国之行。 IT之家注意到，目前蒂姆 · 库克首站落地广东广州，现场观看使用苹果 iPhone 18 Pro 手机拍摄非遗咏春作品，记录传统文化。 IT之家随附官方照片如下： 如今约翰 · 特努斯（John Ternus）…",
       "tags": [
         "iPhone",
         "爆料",
@@ -282,46 +382,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-f4398f5d4a87",
-      "title": "2026 年国庆假期，境外银联持卡人境内消费金额同比增长超 40%",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-10",
-      "time": "08:02",
-      "publishedAt": "2026-10-10T08:02:44.000Z",
-      "url": "https://www.ithome.com/1/011/406.htm",
-      "image": "",
-      "summary": "IT之家 10 月 10 日消息，据央视新闻从中国银联了解到，2026 年国庆假期，境外银联持卡人境内消费金额同比增长超 40%。 从目的地来看，港澳地区银联持卡人在 浙江、四川、湖南等秋游热门省份 交易增长显著。蒙古持卡人来华消费同比增长 1.4 倍，韩国、东南亚及中亚持卡人来华消费同样增速亮眼。 支付方式上，境外银联持卡人境内使用手机 Pay 支付笔数…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-fd656d8f105f",
-      "title": "竹本青：红米K100 Pro Max 支持《三角洲行动》185帧高清画质",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-10",
-      "time": "08:01",
-      "publishedAt": "2026-10-10T08:01:47.000Z",
-      "url": "https://www.coolapk.com/feed/74270669",
-      "image": "http://image.coolapk.com/feed/2026/1010/16/4248714_e7e6fd90_9306_427_311@1080x1440.jpg",
-      "summary": "【REDMI K100 Pro Max 宣布首批支持《三角洲行动》185帧+高清画质】 K100 Pro Max —— 首批支持185帧+高清画质 K90 Max —— 首批支持165帧+高清画质 更灵敏、更高清，远距离清晰锁敌，占先机。 #今日热点# #三角洲行动# #REDMIK100ProMax#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-4cab216ff1f7",
       "title": "Upcoming Vivo X500E bags important certification, here’s what to expect",
       "source": "Gizmochina",
@@ -337,86 +397,6 @@ window.phoneRadarAuto = {
       "summary": "Vivo has just launched the Vivo X500, X500 Pro, and X500 Pro Max in China. These phones are expected to hit the global market by the end of the month. There have been reports that…",
       "tags": [
         "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d3a3c48b2841",
-      "title": "消息称某厂 2nm 阔折叠工程机采用三星屏、哈苏全焦段影像，预计 OPPO 旗下",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-10",
-      "time": "07:40",
-      "publishedAt": "2026-10-10T07:40:51.000Z",
-      "url": "https://www.ithome.com/1/011/396.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/389831ff-d40f-43b8-9cca-22b482719314.png",
-      "summary": "IT之家 10 月 10 日消息，据博主 @数码闲聊站 今日爆料，某厂阔家族将率先推出搭载 2nm 芯片的阔折叠，结合该博主此前的爆料习惯，预计该机为 OPPO 旗下。 据其爆料，该机采用 7.6 英寸无痕铰链方案，工程机是三星屏，搭载 200Mp 大底主摄 +50Mp 超广角 +50Mp 潜望长焦 +3Mp 多光谱镜头，哈苏全焦段影像， 主打轻薄无痕全能…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-670f81ba0e08",
-      "title": "竹本青：荣耀Magic 9系列首周销量曝光：约20.94万台",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-10",
-      "time": "07:34",
-      "publishedAt": "2026-10-10T07:34:15.000Z",
-      "url": "https://www.coolapk.com/feed/74270118",
-      "image": "http://image.coolapk.com/feed/2026/1010/15/4248714_47ebc551_8497_7639_204@1270x716.jpg",
-      "summary": "【荣耀Magic 9系列 首周销量曝光：约20.94万台】 10月10日，博主「RD观测」分享的第三方数据显示，截至10月4日的首销周内，荣耀Magic 9系列 销量约为20.94万台。 荣耀CEO高管此前官宣称，Magic 9系列 在国庆七天期间位居安卓旗舰销量第一，每日销量均实现大约2倍的绝对式领先。 #荣耀Magic9ProMax# #MagicOS…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-0a7257ec18fc",
-      "title": "一加 Ace 7 手机跑分曝光：高通第五代骁龙 8 至尊版芯片，16GB 内存",
-      "source": "IT之家",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-10",
-      "time": "07:30",
-      "publishedAt": "2026-10-10T07:30:06.000Z",
-      "url": "https://www.ithome.com/1/011/391.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/322ffd54-543e-4528-800b-a213843657c3.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 10 日消息，型号为 PMS110 的一加（OnePlus）手机昨日（10 月 9 日）现身 GeekBench 跑分库，目前共有 3 条 GeekBench 6 记录，跑分最高的一条单核成绩为 3,627 分，多核成绩为 11,016 分，该机预估关联一加 Ace 7 手机。 根据跑分页面显示，PMS110 手机搭载高通“SM8850…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-cb1a0d0beb67",
-      "title": "一加 16 旗舰配置公布：首次支持三频 GPS + 四频北斗，一加最多信号频段",
-      "source": "IT之家",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-10",
-      "time": "07:20",
-      "publishedAt": "2026-10-10T07:20:24.000Z",
-      "url": "https://www.ithome.com/1/011/386.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/55e5e30b-2ae3-44f4-97a0-64207363af3a.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 10 日消息，一加 16 手机将于 10 月 12 日 19:00 发布，官方今日公布新品的部分旗舰配置。 IT之家整理如下： 100W 有线闪充、50W 无线闪充 IP66/68/69/69K 超强防水 首次支持三频 GPS 四频北斗信号导航 支持 USB 3.2 Gen1 一加最多信号频段，支持 n79 高频段 大师对称立体声双扬声…",
-      "tags": [
-        "OPPO",
         "爆料",
         "自动抓取"
       ]
@@ -662,6 +642,126 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-c0095ddf0f33",
+      "title": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-10-10",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/115308",
+      "image": "",
+      "summary": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-d67d0638c431",
+      "title": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-10-10",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/114972",
+      "image": "",
+      "summary": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-fd76fc216456",
+      "title": "bug价拿下，目前还有，豆包搜这个手机型号卷-1000，啊啊啊太爽了，真的拿下了。",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-10",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74269973",
+      "image": "",
+      "summary": "bug价拿下，目前还有，豆包搜这个手机型号卷-1000，啊啊啊太爽了，真的拿下了。",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-4be237a2890e",
+      "title": "最恐怖的是，荣耀还有win系列，数字系列，折叠屏，阔直板四张牌可以打。",
+      "source": "酷安热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-10",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74263478",
+      "image": "",
+      "summary": "最恐怖的是，荣耀还有win系列，数字系列，折叠屏，阔直板四张牌可以打。",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-64fc8a096f14",
+      "title": "买了苹果，就要接受没有小窗不能分身的缺点；买了华为就要接受性能不佳的缺点；买了小米要接受功能不全，系统操蛋的问题；买了 OPPO 又要接受推送不好的问题；买了 VIVO 又要接受负优化，审美 childish，大圆饼的问题；买了荣耀又要接受小白条沉浸一塌糊涂，并行动画迟迟不上的问题；买了三星又得接受本地化烂，续航拉闸的问题。有没有一款手机能做到动画好，可以小窗分屏，性能完美，屏幕比较护眼，拍照比较可以，推送完美，小白条沉浸做得比较好，系统动画比较完美，不是大圆饼，或者后色凸起比较小的手机啊[流泪][流泪]",
+      "source": "酷安热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-10",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74245108",
+      "image": "",
+      "summary": "买了苹果，就要接受没有小窗不能分身的缺点；买了华为就要接受性能不佳的缺点；买了小米要接受功能不全，系统操蛋的问题；买了 OPPO 又要接受推送不好的问题；买了 VIVO 又要接受负优化，审美 childish，大圆饼的问题；买了荣耀又要接受小白条沉浸一塌糊涂，并行动画迟迟不上的问题；买了三星又得接受本地化烂，续航拉闸的问题。有没有一款手机能做到动画好，可以…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-f1e71de56549",
+      "title": "吓死我了，原来不是 vivo 啊，对不起，vivo 我错怪你了，再给你道个歉吧[流泪]#vivoX300s# #iQOO15# #vivoX300#",
+      "source": "酷安热榜",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-10",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74248152",
+      "image": "",
+      "summary": "吓死我了，原来不是 vivo 啊，对不起，vivo 我错怪你了，再给你道个歉吧[流泪]#vivoX300s# #iQOO15# #vivoX300#",
+      "tags": [
+        "vivo",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "auto-abdd4bfbbd6a",
       "title": "Apple Stores Will Add Your Name to iPhone Duo's Startup Screen",
       "source": "MacRumors",
@@ -757,26 +857,6 @@ window.phoneRadarAuto = {
       "summary": "With pre-orders starting in the coming days, AT&T has revealed its iPhone Duo deals.",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2b8c77fec1cf",
-      "title": "I switched to the Galaxy S26 Ultra, but its biggest display upgrade comes with a major catch",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-09",
-      "time": "19:00",
-      "publishedAt": "2026-10-09T19:00:10.000Z",
-      "url": "https://www.androidpolice.com/galaxy-s26-ultra-display-upgrade-comes-with-major-catch/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/02/galaxy-s26-ultra-privacy-display-menu.JPG",
-      "summary": "I used the Galaxy S26 Ultra and Galaxy S25 Ultra; the Privacy Display isn't a clear win",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
