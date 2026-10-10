@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-10T18:34:17.961Z",
+  "updatedAt": "2026-10-10T23:32:30.966Z",
   "news": [
     {
       "id": "auto-afae568a0c1f",
@@ -199,26 +199,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-2f3bf7e74da1",
-      "title": "竹本青：荣耀WIN 2系列真机照曝光：横向大矩阵，内置散热风扇",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-10",
-      "time": "11:15",
-      "publishedAt": "2026-10-10T11:15:42.000Z",
-      "url": "https://www.coolapk.com/feed/74274513",
-      "image": "http://image.coolapk.com/feed/2026/1010/19/4248714_40bfda21_1529_3141_455@1664x1248.jpg",
-      "summary": "【荣耀WIN 2系列 真机照曝光：横向大矩阵，内置散热风扇】 10月10日，成都AG超玩会放出一诺上手荣耀WIN 2系列真机图。新机采用红蓝白渐变后盖，横向大矩形Deco，内置RGB环形灯效。 据此前爆料，荣耀WIN 2系列备案三款机型，提供红蓝Buff、快开黑、指定赢三款配色；硬件搭载骁龙8EE6处理器、2K OLED超高刷屏，并配备大尺寸散热风扇，续航…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -722,41 +702,41 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-64fc8a096f14",
-      "title": "买了苹果，就要接受没有小窗不能分身的缺点；买了华为就要接受性能不佳的缺点；买了小米要接受功能不全，系统操蛋的问题；买了 OPPO 又要接受推送不好的问题；买了 VIVO 又要接受负优化，审美 childish，大圆饼的问题；买了荣耀又要接受小白条沉浸一塌糊涂，并行动画迟迟不上的问题；买了三星又得接受本地化烂，续航拉闸的问题。有没有一款手机能做到动画好，可以小窗分屏，性能完美，屏幕比较护眼，拍照比较可以，推送完美，小白条沉浸做得比较好，系统动画比较完美，不是大圆饼，或者后色凸起比较小的手机啊[流泪][流泪]",
+      "id": "newsnow-60d1b0ff08f1",
+      "title": "iPhone Duo「定制开机问候」界面曝光：可显示用户姓名",
       "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-10",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74245108",
+      "url": "https://www.coolapk.com/feed/74274708",
       "image": "",
-      "summary": "买了苹果，就要接受没有小窗不能分身的缺点；买了华为就要接受性能不佳的缺点；买了小米要接受功能不全，系统操蛋的问题；买了 OPPO 又要接受推送不好的问题；买了 VIVO 又要接受负优化，审美 childish，大圆饼的问题；买了荣耀又要接受小白条沉浸一塌糊涂，并行动画迟迟不上的问题；买了三星又得接受本地化烂，续航拉闸的问题。有没有一款手机能做到动画好，可以…",
+      "summary": "iPhone Duo「定制开机问候」界面曝光：可显示用户姓名",
       "tags": [
-        "HONOR",
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-f1e71de56549",
-      "title": "吓死我了，原来不是 vivo 啊，对不起，vivo 我错怪你了，再给你道个歉吧[流泪]#vivoX300s# #iQOO15# #vivoX300#",
+      "id": "newsnow-07a13f6c045d",
+      "title": "消息称安卓下一代超大杯手机或全员停更",
       "source": "酷安热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-10",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74248152",
+      "url": "https://www.coolapk.com/feed/74269778",
       "image": "",
-      "summary": "吓死我了，原来不是 vivo 啊，对不起，vivo 我错怪你了，再给你道个歉吧[流泪]#vivoX300s# #iQOO15# #vivoX300#",
+      "summary": "消息称安卓下一代超大杯手机或全员停更",
       "tags": [
-        "vivo",
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -777,26 +757,6 @@ window.phoneRadarAuto = {
       "summary": "Apple has something special planned for customers who purchase an iPhone Duo in an Apple Store . Employees will be able to customize the Duo so it displays the name of the buyer a…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c9bc9f4afb97",
-      "title": "Mint Mobile is selling the Galaxy S26 FE for $480 with a year of service",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-09",
-      "time": "23:05",
-      "publishedAt": "2026-10-09T23:05:56.000Z",
-      "url": "https://www.androidpolice.com/pick-up-the-galaxy-s26-fe-for-480/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/08/galaxy-s26-fe-using.JPG",
-      "summary": "An absolute steal",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
