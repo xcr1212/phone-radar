@@ -1,6 +1,206 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-11T12:47:47.633Z",
+  "updatedAt": "2026-10-11T18:53:34.727Z",
   "news": [
+    {
+      "id": "auto-84006f222afa",
+      "title": "Kuxiu’s D5 charger now comes in Burgundy to perfectly match your iPhone 18 Pro",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-11",
+      "time": "17:03",
+      "publishedAt": "2026-10-11T17:03:34.000Z",
+      "url": "https://9to5mac.com/2026/10/11/kuxius-d5-charger-now-comes-in-burgundy-to-perfectly-match-your-iphone-18-pro/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/IMG_6370-e1791734782767.jpeg?quality=82&strip=all&w=1600",
+      "summary": "Last year, Kuxiu was the first to make chargers that perfectly match the Cosmic Orange iPhone. They released their 3-in-1 X40 turbo and their S4 Solid State battery pack. They bot…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4efbc99e30e9",
+      "title": "iPhone 18 Pro vs iPhone 17 Pro: Is the Upgrade Worth It?",
+      "source": "Gizmochina",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-11",
+      "time": "17:01",
+      "publishedAt": "2026-10-11T17:01:45.000Z",
+      "url": "https://www.gizmochina.com/2026/10/11/iphone-18-pro-vs-iphone-17-pro-is-the-upgrade-worth-it/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/iPhone-18-Pro-vs-iPhone-17-Pro--300x150.jpg?x96852",
+      "summary": "It’s been almost a month since the iPhone 18 Pro hit the market, and the new burgundy finish is already showing up everywhere. I spotted quite a few of them while traveling last w…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-425f7a6a2b4a",
+      "title": "Apple Plans Major iPhone Duo Retail Showcase, But Supply Will Be Limited",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-11",
+      "time": "15:44",
+      "publishedAt": "2026-10-11T15:44:17.000Z",
+      "url": "https://www.macrumors.com/2026/10/11/iphone-duo-retail-showcase/",
+      "image": "https://images.macrumors.com/article-new/2025/03/Apple-Fifth-Avenue-Hero.jpeg",
+      "summary": "Apple is preparing new displays and large numbers of demo units for the iPhone Duo 's October 23 launch, but supply will be limited, according to Bloomberg 's Mark Gurman . Ahead…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d91f3f5e7bdb",
+      "title": "李杰回应一加 16 不支持全局 185Hz：产品追求体验优先，屏幕暂时做不到",
+      "source": "IT之家",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-11",
+      "time": "15:28",
+      "publishedAt": "2026-10-11T15:28:59.000Z",
+      "url": "https://www.ithome.com/1/011/715.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/13b80987-aa94-4f25-a2a3-ee4b9c5c04ef.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 11 日消息，一加中国区总裁李杰今日在微博评论区回应关于一加 16 屏幕刷新率相关问题， 据其介绍，一加 16 追求体验优先，不是参数优先。要同时兼顾流畅，功耗，发热，屏幕显示效果，现在的屏幕技术 暂时做不到全局 185Hz 。全局高刷要做到常用常开，目前最佳体验就是全局 165Hz，欢迎大家上手一加 16 去对比其他手机。 IT之家注…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-7d7c924fc941",
+      "title": "竹本青：刚才刷到的直播，看话题有好几个酷友比我提前刷到，要清库存了 这手机发布是6000块起，骁龙8E处理器，主摄OV50…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-11",
+      "time": "15:02",
+      "publishedAt": "2026-10-11T15:02:04.000Z",
+      "url": "https://www.coolapk.com/feed/74298580",
+      "image": "http://image.coolapk.com/feed/2026/1011/23/4248714_bb4fbce9_0935_5883_427@1271x2268.jpg",
+      "summary": "刚才刷到的直播，看话题有好几个酷友比我提前刷到，要清库存了 这手机发布是6000块起，骁龙8E处理器，主摄OV50E+超广JN5，没长焦，5165mAh+67W+50W #数码日常# #小米MIXFlip2#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-dcfab1d8ee69",
+      "title": "古尔曼：苹果计划在多个直营店举办 iPhone Duo 大型体验活动，最多摆出 150 台以上样机",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-11",
+      "time": "15:01",
+      "publishedAt": "2026-10-11T15:01:19.000Z",
+      "url": "https://www.ithome.com/1/011/712.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/2a8a88e2-cc2a-4c04-9a0e-003b6990fb25.jpg",
+      "summary": "IT之家 10 月 11 日消息，彭博社记者马克 · 古尔曼今天在新一期《Power On》通讯透露，苹果正在为其首款折叠屏手机 iPhone Duo 谋划声势浩大的展示活动， 让每一位潜在顾客都能充分体验这款新品 。 古尔曼表示，苹果将在美国各地的 Apple Store 直营店摆出大量样机，供到来的顾客上手体验。 预计纽约第五大道的旗舰店将布置超 15…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e1016c9e5e87",
+      "title": "Apple planning huge iPhone Duo demo experiences at select retail stores: report",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-11",
+      "time": "14:31",
+      "publishedAt": "2026-10-11T14:31:59.000Z",
+      "url": "https://9to5mac.com/2026/10/11/apple-planning-huge-iphone-duo-demo-experiences-at-select-retail-stores-report/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Craig-Federighi-on-how-Apple-helps-developers-make-the-most-of-the-iPhone-Duo.jpg?quality=82&strip=all&w=1500",
+      "summary": "iPhone Duo is just about two weeks away from releasing, and according to Bloomberg’s Mark Gurman , Apple has big retail plans ahead for its first foldable iPhone, to make sure eve…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c01fc6c03d8d",
+      "title": "Global Xiaomi 18 Pro, Xiaomi 18 Pro Max appear on Geekbench as launch nears",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-11",
+      "time": "14:25",
+      "publishedAt": "2026-10-11T14:25:30.000Z",
+      "url": "https://www.gizmochina.com/2026/10/11/global-xiaomi-18-pro-max-geekbench-listing/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Xiaomi-18-Pro-Max-1-300x169.png?x96852",
+      "summary": "Xiaomi unveiled its Xiaomi 18 Pro and Xiaomi 18 Pro Max flagship smartphones in China last month. Soon after their debut, the company confirmed plans to bring the series to global…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-6da3559562f5",
+      "title": "竹本青：【李杰回应一加 16 不支持全局185Hz：产品追求体验优先，屏幕暂时做不到】 10月11日，一加中国区总裁李杰回…",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-11",
+      "time": "14:19",
+      "publishedAt": "2026-10-11T14:19:51.000Z",
+      "url": "https://www.coolapk.com/feed/74297794",
+      "image": "http://image.coolapk.com/feed/2026/1011/22/4248714_84f7e589_8390_6086_682@1440x1907.jpg",
+      "summary": "【李杰回应一加 16 不支持全局185Hz：产品追求体验优先，屏幕暂时做不到】 10月11日，一加中国区总裁李杰回应网友提问，解答一加 16 屏幕为何不支持全局185Hz刷新率。 他表示，一加 16 追求体验优先，而不是参数优先；产品要同时兼顾流畅、功耗、发热、屏幕显示效果。 “现在的屏幕技术暂时做不到全局185。全局高刷要做到常用常开，目前最佳体验就是全…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-b590028cfe1b",
+      "title": "竹本青：【郑钦文中网女单夺冠，刷新中国网球历史】 10月11日，郑钦文以7-5/6-4战胜4号种子、今年法网冠军米拉·安德…",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-11",
+      "time": "14:00",
+      "publishedAt": "2026-10-11T14:00:23.000Z",
+      "url": "https://www.coolapk.com/feed/74297388",
+      "image": "http://image.coolapk.com/feed/2026/1011/22/4248714_d4c574a6_7220_0075_540@1500x2000.jpg",
+      "summary": "【郑钦文中网女单夺冠，刷新中国网球历史】 10月11日，郑钦文以7-5/6-4战胜4号种子、今年法网冠军米拉·安德列娃，职业生涯首夺WTA1000赛冠军，也成为第一位捧起中网女单冠军的本土球员，继续刷新中国网球历史。 #今日热点# #OriginOS7# #vivoX500ProMax#",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "auto-41d87e68cf2a",
       "title": "消息称三星 Galaxy S27 Ultra 手机可能不会采用 Exynos 2700 芯片",
@@ -102,26 +302,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-f2c19e85bf03",
-      "title": "竹本青：电池网传是5000mAh，不过现在没确认，所以帖子里没写进去，但是在评论区提一句",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-11",
-      "time": "06:07",
-      "publishedAt": "2026-10-11T06:07:37.000Z",
-      "url": "https://www.coolapk.com/feed/74288685",
-      "image": "",
-      "summary": "电池网传是5000mAh，不过现在没确认，所以帖子里没写进去，但是在评论区提一句",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "coolapk-user-5cc15a843142",
       "title": "JSCHEN小小狐：一加 16 操控预热：灵犀触控芯 / 大师陀螺仪",
       "source": "JSCHEN小小狐",
@@ -137,26 +317,6 @@ window.phoneRadarAuto = {
       "summary": "『一加 16 操控预热：灵犀触控芯 / 大师陀螺仪』 自研「灵犀触控芯片 T3」 - 520Hz 多指触控采样率 全新首发「高精度大师陀螺仪」 - 800Hz 陀螺仪采样率 - 规格、校准、实际体验均为行业领先 行业领先「185Hz 极速高刷」 #今日热点# #一加15# #一加15T#",
       "tags": [
         "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-cd9a83db2dbd",
-      "title": "竹本青：华为Pura X View 最新销量曝光：约49.4万台",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-11",
-      "time": "05:25",
-      "publishedAt": "2026-10-11T05:25:39.000Z",
-      "url": "https://www.coolapk.com/feed/74287936",
-      "image": "http://image.coolapk.com/feed/2026/1011/13/4248714_032d66d2_6338_5365_214@856x374.jpg",
-      "summary": "【华为Pura X View 最新销量曝光：截至10月4日，约49.4万台】 ● 截至 W40（9.28-10.4） —— 约49.4万台 截至 W39（9.21-9.27） —— 约44.98万台 截至 W38（9.14-9.20）—— 约37.57万台 截至 W37（9.7-9.13） —— 约28.21万台 开售 7日 —— 约31万台 开售 当日…",
-      "tags": [
-        "Huawei",
         "爆料",
         "酷安博主"
       ]
@@ -322,21 +482,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-e3cc25bd8fa9",
-      "title": "消息称安卓下一代超大杯手机或全员停更",
+      "id": "newsnow-02a00387e7af",
+      "title": "OPPO手机能查看品牌颗粒了，还是有大佬在的，可惜是三星ufs4.0的#OPPOFindX10# #ColorOS17# #OPPOFindX9Pro#",
       "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-11",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74269778",
+      "url": "https://www.coolapk.com/feed/74280771",
       "image": "",
-      "summary": "消息称安卓下一代超大杯手机或全员停更",
+      "summary": "OPPO手机能查看品牌颗粒了，还是有大佬在的，可惜是三星ufs4.0的#OPPOFindX10# #ColorOS17# #OPPOFindX9Pro#",
       "tags": [
-        "行业",
+        "Samsung",
         "爆料",
         "NewsNow"
       ]
@@ -362,21 +522,41 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-02a00387e7af",
-      "title": "OPPO手机能查看品牌颗粒了，还是有大佬在的，可惜是三星ufs4.0的#OPPOFindX10# #ColorOS17# #OPPOFindX9Pro#",
+      "id": "newsnow-5037a78b09a3",
+      "title": "【酷派阔直板手机本月开售：720P LCD屏，联发科G99芯片，售价999元】",
       "source": "酷安热榜",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-11",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74280771",
+      "url": "https://www.coolapk.com/feed/74288596",
       "image": "",
-      "summary": "OPPO手机能查看品牌颗粒了，还是有大佬在的，可惜是三星ufs4.0的#OPPOFindX10# #ColorOS17# #OPPOFindX9Pro#",
+      "summary": "【酷派阔直板手机本月开售：720P LCD屏，联发科G99芯片，售价999元】",
       "tags": [
-        "Samsung",
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-e3cc25bd8fa9",
+      "title": "消息称安卓下一代超大杯手机或全员停更",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-11",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74269778",
+      "image": "",
+      "summary": "消息称安卓下一代超大杯手机或全员停更",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]

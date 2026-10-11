@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-10-11T12:47:47.633Z",
+  "updatedAt": "2026-10-11T18:53:34.727Z",
   "issueDate": "2026-10-11",
   "issue": "VOL.261011",
   "title": "手机情报日报",
-  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、3 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、3 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 18,
-    "iphone": 5,
+    "total": 14,
+    "iphone": 7,
     "leaks": 8,
     "official": 3,
     "specs": 0
@@ -17,6 +17,53 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-dcfab1d8ee69",
+          "title": "古尔曼：苹果计划在多个直营店举办 iPhone Duo 大型体验活动，最多摆出 150 台以上样机",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-11",
+          "time": "15:01",
+          "publishedAt": "2026-10-11T15:01:19.000Z",
+          "url": "https://www.ithome.com/1/011/712.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/2a8a88e2-cc2a-4c04-9a0e-003b6990fb25.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 10 月 11 日消息，彭博社记者马克 · 古尔曼今天在新一期《Power On》通讯透露，苹果正在为其首款折叠屏手机 iPhone Duo 谋划声势浩大的展示活动， 让每一位潜在顾客都能充分体验这款新品 。 古尔曼表示，苹果将在美国各地的 Apple Store 直营店摆出大量样机，供到来的顾客上手体验。 预计纽约第五大道的旗舰店将布置超 15…",
+          "detail": "IT之家 10 月 11 日消息，彭博社记者马克 · 古尔曼今天在新一期《Power On》通讯透露，苹果正在为其首款折叠屏手机 iPhone Duo 谋划声势浩大的展示活动， 让每一位潜在顾客都能充分体验这款新品 。 古尔曼表示，苹果将在美国各地的 Apple Store 直营店摆出大量样机，供到来的顾客上手体验。 预计纽约第五大道的旗舰店将布置超 15…",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-425f7a6a2b4a",
+          "title": "iPhone 系统功能 / AI 体验相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-11",
+          "time": "15:44",
+          "publishedAt": "2026-10-11T15:44:17.000Z",
+          "url": "https://www.macrumors.com/2026/10/11/iphone-duo-retail-showcase/",
+          "image": "https://images.macrumors.com/article-new/2025/03/Apple-Fifth-Avenue-Hero.jpeg",
+          "verdict": "先看",
+          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "newsnow-83f7d56d512a",
           "title": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
@@ -154,52 +201,6 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-10f1d4cc8c96",
-          "title": "全球首款支持 Eclipsa Audio 3D 空间音频的手机麦克风：索尼推出 ECM-AX10",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-11",
-          "time": "08:47",
-          "publishedAt": "2026-10-11T08:47:35.000Z",
-          "url": "https://www.ithome.com/1/011/636.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/911112ad-31d0-47db-8e15-317980d0ec9f.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 10 月 11 日消息，索尼前天宣布推出 ECM-AX10， 这是全球首款支持 Eclipsa Audio 3D 空间音频的手机麦克风 ，可在拍摄视频时同步录制空间音频。 据介绍，这款产品具备 Eclipsa Audio 认证，可以直接安装在智能手机上使用。无论是拍摄 Vlog、旅行记录、演唱会，还是观看体育赛事，它都能将视觉难以传达的现场氛围和…",
-          "detail": "IT之家 10 月 11 日消息，索尼前天宣布推出 ECM-AX10， 这是全球首款支持 Eclipsa Audio 3D 空间音频的手机麦克风 ，可在拍摄视频时同步录制空间音频。 据介绍，这款产品具备 Eclipsa Audio 认证，可以直接安装在智能手机上使用。无论是拍摄 Vlog、旅行记录、演唱会，还是观看体育赛事，它都能将视觉难以传达的现场氛围和…",
-          "keyPoints": [
-            "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-5cc15a843142",
-          "title": "JSCHEN小小狐：一加 16 操控预热：灵犀触控芯 / 大师陀螺仪",
-          "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-10-11",
-          "time": "06:06",
-          "publishedAt": "2026-10-11T06:06:27.000Z",
-          "url": "https://www.coolapk.com/feed/74288668",
-          "image": "http://image.coolapk.com/feed/2026/1011/14/4702274_406f14ad_8786_3716_381@1080x1440.jpg",
-          "verdict": "先看",
-          "takeaway": "『一加 16 操控预热：灵犀触控芯 / 大师陀螺仪』 自研「灵犀触控芯片 T3」 - 520Hz 多指触控采样率 全新首发「高精度大师陀螺仪」 - 800Hz 陀螺仪采样率 - 规格、校准、实际体验均为行业领先 行业领先「185Hz 极速高刷」 #今日热点# #一加15# #一加15T#",
-          "detail": "『一加 16 操控预热：灵犀触控芯 / 大师陀螺仪』 自研「灵犀触控芯片 T3」 - 520Hz 多指触控采样率 全新首发「高精度大师陀螺仪」 - 800Hz 陀螺仪采样率 - 规格、校准、实际体验均为行业领先 行业领先「185Hz 极速高刷」 #今日热点# #一加15# #一加15T#",
-          "keyPoints": [
-            "芯片 / 性能"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -353,98 +354,6 @@ window.phoneRadarDaily = {
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "coolapk-user-d6ac34b55cc9",
-          "title": "JSCHEN小小狐：抽空去了一趟上海，不过来回捅了兔子窝 其实设定上讲我不是很喜欢 3 系车（） #手机摄影# #假期随手拍#",
-          "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-10-10",
-          "time": "13:17",
-          "publishedAt": "2026-10-10T13:17:35.000Z",
-          "url": "https://www.coolapk.com/feed/74276920",
-          "image": "http://image.coolapk.com/feed/2026/1010/21/4702274_1baa4853_8251_466_878-uhdr@3102x2672.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "抽空去了一趟上海，不过来回捅了兔子窝 其实设定上讲我不是很喜欢 3 系车（） #手机摄影# #假期随手拍#",
-          "detail": "抽空去了一趟上海，不过来回捅了兔子窝 其实设定上讲我不是很喜欢 3 系车（） #手机摄影# #假期随手拍#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-df416e81414a",
-          "title": "bug价拿下，目前还有，豆包搜这个手机型号卷-1000，啊啊啊太爽了，真的拿下了。",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-10-11",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/74269973",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "bug价拿下，目前还有，豆包搜这个手机型号卷-1000，啊啊啊太爽了，真的拿下了。",
-          "detail": "bug价拿下，目前还有，豆包搜这个手机型号卷-1000，啊啊啊太爽了，真的拿下了。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "coolapk-user-cd9a83db2dbd",
-          "title": "竹本青：华为Pura X View 最新销量曝光：约49.4万台",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-10-11",
-          "time": "05:25",
-          "publishedAt": "2026-10-11T05:25:39.000Z",
-          "url": "https://www.coolapk.com/feed/74287936",
-          "image": "http://image.coolapk.com/feed/2026/1011/13/4248714_032d66d2_6338_5365_214@856x374.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【华为Pura X View 最新销量曝光：截至10月4日，约49.4万台】 ● 截至 W40（9.28-10.4） —— 约49.4万台 截至 W39（9.21-9.27） —— 约44.98万台 截至 W38（9.14-9.20）—— 约37.57万台 截至 W37（9.7-9.13） —— 约28.21万台 开售 7日 —— 约31万台 开售 当日…",
-          "detail": "【华为Pura X View 最新销量曝光：截至10月4日，约49.4万台】 ● 截至 W40（9.28-10.4） —— 约49.4万台 截至 W39（9.21-9.27） —— 约44.98万台 截至 W38（9.14-9.20）—— 约37.57万台 截至 W37（9.7-9.13） —— 约28.21万台 开售 7日 —— 约31万台 开售 当日…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "coolapk-user-2637b4271315",
-          "title": "JSCHEN小小狐：红魔 12 Pro+ 外放预热：双 1115E 杜比全景声",
-          "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-10-11",
-          "time": "02:03",
-          "publishedAt": "2026-10-11T02:03:20.000Z",
-          "url": "https://www.coolapk.com/feed/74284212",
-          "image": "http://image.coolapk.com/feed/2026/1011/10/4702274_280e5e6c_4198_7028_136@1080x1510.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "『红魔 12 Pro+ 外放预热：双 1115E 杜比全景声』 ◇ 双 1115E 立体对称式扬声器 ◇ 支持杜比全景声 红魔 12 Pro+，迄今为止音效最好的红魔旗舰。 #今日热点# #红魔12Pro+# #红魔11PRO+#",
-          "detail": "『红魔 12 Pro+ 外放预热：双 1115E 杜比全景声』 ◇ 双 1115E 立体对称式扬声器 ◇ 支持杜比全景声 红魔 12 Pro+，迄今为止音效最好的红魔旗舰。 #今日热点# #红魔12Pro+# #红魔11PRO+#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
