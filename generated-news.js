@@ -1,9 +1,149 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-11T05:44:45.850Z",
+  "updatedAt": "2026-10-11T12:47:47.633Z",
   "news": [
     {
+      "id": "auto-41d87e68cf2a",
+      "title": "消息称三星 Galaxy S27 Ultra 手机可能不会采用 Exynos 2700 芯片",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-11",
+      "time": "11:02",
+      "publishedAt": "2026-10-11T11:02:38.000Z",
+      "url": "https://www.ithome.com/1/011/679.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/34cab74a-4aad-4af7-b3ce-09662cca1904.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 11 日消息，此前曾有传闻称，三星可能会为部分市场的 Galaxy S27 Ultra 机型使用 Exynos 2700 芯片，其余市场采用高通最新骁龙芯片。 消息人士 yeux1122 则在本周四（IT之家注：10 月 8 日）表示，Exynos 2700 目前良率表现优秀，三星 Galaxy S27 系列手机应该能用上。但三星尚未给…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a658d6a7b4c2",
+      "title": "I’m using the vivo X Fold 6, and now the Galaxy Z Fold 8 Ultra feels ancient",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-11",
+      "time": "10:30",
+      "publishedAt": "2026-10-11T10:30:44.000Z",
+      "url": "https://www.androidauthority.com/vivo-x-fold-6-vs-galaxy-z-fold-8-ultra-hands-on-3720287/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/vivo-x-fold-6-galaxy-z-fold-8-9-e1791395397838-500w-260h.jpg",
+      "summary": "The X Fold 6 scores a big win for book-style foldables.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b889bbc20d29",
+      "title": "Galaxy S27 Ultra may not use the Exynos 2700, latest rumor claims",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-11",
+      "time": "10:24",
+      "publishedAt": "2026-10-11T10:24:55.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s27-ultra-may-not-use-the-exynos-2700-latest-rumor-claims/",
+      "image": "",
+      "summary": "It has been rumored for a while now that Samsung might use the Exynos 2700 for the Galaxy S27 Ultra in some regions, while others would have the latest Snapdragon chipset. A new r…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2dfc56d826da",
+      "title": "More bad news, Galaxy S27 prices may increase by up to $100",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-11",
+      "time": "09:41",
+      "publishedAt": "2026-10-11T09:41:15.000Z",
+      "url": "https://www.sammobile.com/news/more-bad-news-galaxy-s27-prices-may-increase-by-up-to-100/",
+      "image": "",
+      "summary": "Samsung has recently been jacking up the prices for its Galaxy S26 series in most markets. Even its home country of South Korea, where Samsung typically offers the best prices for…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-10f1d4cc8c96",
+      "title": "全球首款支持 Eclipsa Audio 3D 空间音频的手机麦克风：索尼推出 ECM-AX10",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-11",
+      "time": "08:47",
+      "publishedAt": "2026-10-11T08:47:35.000Z",
+      "url": "https://www.ithome.com/1/011/636.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/911112ad-31d0-47db-8e15-317980d0ec9f.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 11 日消息，索尼前天宣布推出 ECM-AX10， 这是全球首款支持 Eclipsa Audio 3D 空间音频的手机麦克风 ，可在拍摄视频时同步录制空间音频。 据介绍，这款产品具备 Eclipsa Audio 认证，可以直接安装在智能手机上使用。无论是拍摄 Vlog、旅行记录、演唱会，还是观看体育赛事，它都能将视觉难以传达的现场氛围和…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-f2c19e85bf03",
+      "title": "竹本青：电池网传是5000mAh，不过现在没确认，所以帖子里没写进去，但是在评论区提一句",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-11",
+      "time": "06:07",
+      "publishedAt": "2026-10-11T06:07:37.000Z",
+      "url": "https://www.coolapk.com/feed/74288685",
+      "image": "",
+      "summary": "电池网传是5000mAh，不过现在没确认，所以帖子里没写进去，但是在评论区提一句",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-5cc15a843142",
+      "title": "JSCHEN小小狐：一加 16 操控预热：灵犀触控芯 / 大师陀螺仪",
+      "source": "JSCHEN小小狐",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-11",
+      "time": "06:06",
+      "publishedAt": "2026-10-11T06:06:27.000Z",
+      "url": "https://www.coolapk.com/feed/74288668",
+      "image": "http://image.coolapk.com/feed/2026/1011/14/4702274_406f14ad_8786_3716_381@1080x1440.jpg",
+      "summary": "『一加 16 操控预热：灵犀触控芯 / 大师陀螺仪』 自研「灵犀触控芯片 T3」 - 520Hz 多指触控采样率 全新首发「高精度大师陀螺仪」 - 800Hz 陀螺仪采样率 - 规格、校准、实际体验均为行业领先 行业领先「185Hz 极速高刷」 #今日热点# #一加15# #一加15T#",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
       "id": "coolapk-user-cd9a83db2dbd",
-      "title": "竹本青：【华为Pura X View 最新销量曝光：截至10月4日，约49.4万台】 ● 截至 W40（9.28-10.4…",
+      "title": "竹本青：华为Pura X View 最新销量曝光：约49.4万台",
       "source": "竹本青",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
@@ -22,48 +162,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-d5783678af50",
-      "title": "酷派阔直板手机背部外观曝光，消息称搭载联发科 Helio G99 处理器",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-11",
-      "time": "03:48",
-      "publishedAt": "2026-10-11T03:48:48.000Z",
-      "url": "https://www.ithome.com/1/011/581.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/074b3710-57e5-4a7f-a0d2-619d14eae622.jpg",
-      "summary": "IT之家 10 月 11 日消息，简介为“酷派手机旗舰店”的小红书账号 @coolpad方块数码 昨晚首曝了 酷派 6.3 英寸阔直板新机 ，并透露新品即将到来，价格“999 定位千元档”。 值得一提的是，从该账号公布的图片来看，这款手机并未采用四边等窄设计，其下巴明显宽于另外三边。由此推断，该机有望配备一块 LCD 屏幕。 IT之家注意到，博主 @体验m…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-b95fda3856aa",
-      "title": "竹本青：【红魔12 Pro+ 外围预热：1115E对称双扬】 10月11日，红魔12 Pro+官宣搭载双1115E立体对称…",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-11",
-      "time": "02:04",
-      "publishedAt": "2026-10-11T02:04:33.000Z",
-      "url": "https://www.coolapk.com/feed/74284229",
-      "image": "http://image.coolapk.com/feed/2026/1011/10/4248714_7d788ee5_4267_8581_932@1080x1510.jpg",
-      "summary": "【红魔12 Pro+ 外围预热：1115E对称双扬】 10月11日，红魔12 Pro+官宣搭载双1115E立体对称式扬声器，并同时支持杜比全景声。称其为迄今为止音效最好的红魔旗舰。 #今日热点# #红魔12Pro+# #数码日常#",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "coolapk-user-2637b4271315",
-      "title": "JSCHEN小小狐：『红魔 12 Pro+ 外放预热：双 1115E 杜比全景声』 ◇ 双 1115E 立体对称式扬声器 ◇ 支持杜比…",
+      "title": "JSCHEN小小狐：红魔 12 Pro+ 外放预热：双 1115E 杜比全景声",
       "source": "JSCHEN小小狐",
       "brand": "行业",
       "model": "智能手机市场",
@@ -262,23 +362,43 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-afae568a0c1f",
-      "title": "安卓首款、全球第二款阔直板手机将至：酷派新机首曝，价格干到“999 定位千元档”",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "id": "newsnow-02a00387e7af",
+      "title": "OPPO手机能查看品牌颗粒了，还是有大佬在的，可惜是三星ufs4.0的#OPPOFindX10# #ColorOS17# #OPPOFindX9Pro#",
+      "source": "酷安热榜",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
       "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-10",
-      "time": "16:15",
-      "publishedAt": "2026-10-10T16:15:27.000Z",
-      "url": "https://www.ithome.com/1/011/540.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/003e02f0-2588-4277-99ab-3a11104fcca2.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 11 日消息，全球首款阔直板手机 —— 华为 Pura X View 已于今年 9 月正式发布，搭载麒麟 9030S 处理器，配备 6400mm² VC 均热板，正面采用一块 6.39 英寸 2232×1320 分辨率的 OLED 直屏，屏幕比例为 16:9.5，售价 5999 元起。 IT之家注意到，简介为“酷派手机旗舰店”的小红书账…",
+      "trust": "高关注爆料源",
+      "date": "2026-10-11",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74280771",
+      "image": "",
+      "summary": "OPPO手机能查看品牌颗粒了，还是有大佬在的，可惜是三星ufs4.0的#OPPOFindX10# #ColorOS17# #OPPOFindX9Pro#",
       "tags": [
-        "Huawei",
+        "Samsung",
         "爆料",
-        "自动抓取"
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-83ad8efa8306",
+      "title": "没人觉得这个审美很差吗，感觉就是找不到满意的主题，然后这里推荐的主题大多都是模仿 ios，然后有点土，澎湃 os#HyperOS3#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-11",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74266921",
+      "image": "",
+      "summary": "没人觉得这个审美很差吗，感觉就是找不到满意的主题，然后这里推荐的主题大多都是模仿 ios，然后有点土，澎湃 os#HyperOS3#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
       ]
     },
     {
@@ -297,46 +417,6 @@ window.phoneRadarAuto = {
       "summary": "September ended with several flagship launches across Android and iOS, while the first week of October has been relatively quiet. The break may not last long, as the rest of the m…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ce4e54064369",
-      "title": "华为神秘小屏新机首曝，消息称有一块 6.17 英寸 1.5K 小直屏开案中",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-10",
-      "time": "15:19",
-      "publishedAt": "2026-10-10T15:19:18.000Z",
-      "url": "https://www.ithome.com/1/011/533.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/23ad5d0a-e54e-485c-8225-cb92b1c719b3.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 10 日消息，博主 @数码闲聊站 今日曝光了一款神秘小屏新机。他透露， 华为有一块 6.17 英寸 1.5K 小直屏开案中 。 不过遗憾的是，目前仅有早期开屏信息， 暂不清楚产品线 。 有网友认为，小屏手机的销量一直都不太好。博主回复称：“还可以啊，现在是存量市场的竞争， 形态和尺寸都得有新意才会有人买单 。” 近年来，用户对于小屏手机…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-4d4704d7cc38",
-      "title": "上汽奥迪 E7X 首次 OTA 推送：新增屏幕护眼模式、零重力座椅倾角调节功能等",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-10",
-      "time": "14:08",
-      "publishedAt": "2026-10-10T14:08:48.000Z",
-      "url": "https://www.ithome.com/1/011/520.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/639a56b4-b229-411c-babc-160ba1c51e89.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 10 日消息，10 月 9 日，上汽奥迪 E7X 开启首次 OTA 推送，版本号为 AUDI OS 2.1.4，覆盖寻车、车手互联、语音、驾控、舒适全场景。 IT之家整理主要内容如下： 优化寻车闪灯鸣笛体验 手机端寻车功能支持「闪灯」、「闪灯鸣笛」两种模式自由选择； 在这两种寻车模式基础上，可自定义 5s、10s 和 15s 三档执行时…",
-      "tags": [
-        "行业",
         "爆料",
         "自动抓取"
       ]
@@ -362,26 +442,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-b8441d97f426",
-      "title": "竹本青：iQOO？ #荣耀WIN# #iQOO15# #数码日常#",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-10",
-      "time": "11:39",
-      "publishedAt": "2026-10-10T11:39:25.000Z",
-      "url": "https://www.coolapk.com/feed/74274986",
-      "image": "http://image.coolapk.com/feed/2026/1010/19/4248714_0d4f2ce2_2392_2599_706@2000x2667.jpg",
-      "summary": "iQOO？ #荣耀WIN# #iQOO15# #数码日常#",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-7626204e4833",
       "title": "ColorOS 17 Open Beta is here for these OnePlus, Oppo, and Realme phones",
       "source": "Gizmochina",
@@ -402,26 +462,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-2f3bf7e74da1",
-      "title": "竹本青：荣耀WIN 2系列真机照曝光：横向大矩阵，内置散热风扇",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-10",
-      "time": "11:15",
-      "publishedAt": "2026-10-10T11:15:42.000Z",
-      "url": "https://www.coolapk.com/feed/74274513",
-      "image": "http://image.coolapk.com/feed/2026/1010/19/4248714_40bfda21_1529_3141_455@1664x1248.jpg",
-      "summary": "【荣耀WIN 2系列 真机照曝光：横向大矩阵，内置散热风扇】 10月10日，成都AG超玩会放出一诺上手荣耀WIN 2系列真机图。新机采用红蓝白渐变后盖，横向大矩形Deco，内置RGB环形灯效。 据此前爆料，荣耀WIN 2系列备案三款机型，提供红蓝Buff、快开黑、指定赢三款配色；硬件搭载骁龙8EE6处理器、2K OLED超高刷屏，并配备大尺寸散热风扇，续航…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-a21670916ac8",
       "title": "If you only care about the basics, this is the only Android phone I’d recommend",
       "source": "Android Authority",
@@ -435,26 +475,6 @@ window.phoneRadarAuto = {
       "url": "https://www.androidauthority.com/best-android-phone-for-only-basics-2026-3719291/",
       "image": "",
       "summary": "The Pixel 10a is the perfect no-nonsense phone.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0ace3bf077ef",
-      "title": "Music sounds better after I changed this one setting on Pixel 11",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-10",
-      "time": "11:00",
-      "publishedAt": "2026-10-10T11:00:10.000Z",
-      "url": "https://www.androidpolice.com/music-sounds-better-after-i-changed-this-one-setting-on-pixel-11/",
-      "image": "",
-      "summary": "Manual bitrate adjustment? Sign me up!",
       "tags": [
         "Pixel",
         "爆料",
