@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-10-11T18:53:34.727Z",
+  "updatedAt": "2026-10-11T23:38:55.788Z",
   "issueDate": "2026-10-11",
   "issue": "VOL.261011",
   "title": "手机情报日报",
-  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、3 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 17 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、3 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 14,
-    "iphone": 7,
+    "total": 17,
+    "iphone": 6,
     "leaks": 8,
     "official": 3,
     "specs": 0
@@ -158,29 +158,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-cc985d8aeb1b",
-          "title": "最恐怖的是，荣耀还有win系列，数字系列，折叠屏，阔直板四张牌可以打。",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-10-11",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/74263478",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "最恐怖的是，荣耀还有win系列，数字系列，折叠屏，阔直板四张牌可以打。",
-          "detail": "最恐怖的是，荣耀还有win系列，数字系列，折叠屏，阔直板四张牌可以打。",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "weibo-266498461fa3",
           "title": "数码闲聊站：独家信息：阔家族先上2nm阔折叠，7.6英寸无痕铰链方案，工程机是三星屏，20…",
           "originalTitle": "",
@@ -201,6 +178,30 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-7d7c924fc941",
+          "title": "竹本青：刚才刷到的直播，看话题有好几个酷友比我提前刷到，要清库存了 这手机发布是6000块起，骁龙8E处理器，主摄OV50…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-10-11",
+          "time": "15:02",
+          "publishedAt": "2026-10-11T15:02:04.000Z",
+          "url": "https://www.coolapk.com/feed/74298580",
+          "image": "http://image.coolapk.com/feed/2026/1011/23/4248714_bb4fbce9_0935_5883_427@1271x2268.jpg",
+          "verdict": "先看",
+          "takeaway": "刚才刷到的直播，看话题有好几个酷友比我提前刷到，要清库存了 这手机发布是6000块起，骁龙8E处理器，主摄OV50E+超广JN5，没长焦，5165mAh+67W+50W #数码日常# #小米MIXFlip2#",
+          "detail": "刚才刷到的直播，看话题有好几个酷友比我提前刷到，要清库存了 这手机发布是6000块起，骁龙8E处理器，主摄OV50E+超广JN5，没长焦，5165mAh+67W+50W #数码日常# #小米MIXFlip2#",
+          "keyPoints": [
+            "影像硬件",
+            "芯片 / 性能"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -257,29 +258,6 @@ window.phoneRadarDaily = {
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "newsnow-b774779fed55",
-          "title": "iPhone Duo「定制开机问候」界面曝光：可显示用户姓名",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-10-11",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/74274708",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone Duo「定制开机问候」界面曝光：可显示用户姓名",
-          "detail": "iPhone Duo「定制开机问候」界面曝光：可显示用户姓名",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
           "id": "auto-728bbee10ddb",
@@ -350,6 +328,98 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "没人觉得这个审美很差吗，感觉就是找不到满意的主题，然后这里推荐的主题大多都是模仿 ios，然后有点土，澎湃 os#HyperOS3#",
           "detail": "没人觉得这个审美很差吗，感觉就是找不到满意的主题，然后这里推荐的主题大多都是模仿 ios，然后有点土，澎湃 os#HyperOS3#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "coolapk-user-d6ac34b55cc9",
+          "title": "JSCHEN小小狐：抽空去了一趟上海，不过来回捅了兔子窝 其实设定上讲我不是很喜欢 3 系车（） #手机摄影# #假期随手拍#",
+          "originalTitle": "",
+          "source": "JSCHEN小小狐",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-10-10",
+          "time": "13:17",
+          "publishedAt": "2026-10-10T13:17:35.000Z",
+          "url": "https://www.coolapk.com/feed/74276920",
+          "image": "http://image.coolapk.com/feed/2026/1010/21/4702274_1baa4853_8251_466_878-uhdr@3102x2672.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "抽空去了一趟上海，不过来回捅了兔子窝 其实设定上讲我不是很喜欢 3 系车（） #手机摄影# #假期随手拍#",
+          "detail": "抽空去了一趟上海，不过来回捅了兔子窝 其实设定上讲我不是很喜欢 3 系车（） #手机摄影# #假期随手拍#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-8c466be72b0f",
+          "title": "这是我接触智能机以来，使用过最久的一部手机。也是破纪录了",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-10-11",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/74285104",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "这是我接触智能机以来，使用过最久的一部手机。也是破纪录了",
+          "detail": "这是我接触智能机以来，使用过最久的一部手机。也是破纪录了",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-5e93255f8f92",
+          "title": "酷友们，预算30张，想买个女生用的手机",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-10-11",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/74274791",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "酷友们，预算30张，想买个女生用的手机",
+          "detail": "酷友们，预算30张，想买个女生用的手机",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-df416e81414a",
+          "title": "bug价拿下，目前还有，豆包搜这个手机型号卷-1000，啊啊啊太爽了，真的拿下了。",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-10-11",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/74269973",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "bug价拿下，目前还有，豆包搜这个手机型号卷-1000，啊啊啊太爽了，真的拿下了。",
+          "detail": "bug价拿下，目前还有，豆包搜这个手机型号卷-1000，啊啊啊太爽了，真的拿下了。",
           "keyPoints": [
             "爆料"
           ],

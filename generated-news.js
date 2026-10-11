@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-11T18:53:34.727Z",
+  "updatedAt": "2026-10-11T23:38:55.788Z",
   "news": [
+    {
+      "id": "auto-3227afbb875d",
+      "title": "Huawei Pura X View sells 449,800 units in China in about a month",
+      "source": "Gizmochina",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-11",
+      "time": "21:57",
+      "publishedAt": "2026-10-11T21:57:40.000Z",
+      "url": "https://www.gizmochina.com/2026/10/11/huawei-pura-x-view-sells-449800-units-in-china-in-about-a-month/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/huawei-pura-x-view-kv-md-1024x576-1-300x169.jpg?x96852",
+      "summary": "Huawei’s unusually wide-screen Pura X View has turned into a bit of a surprise hit in China, but good luck actually getting one. According to digital blogger @RDObservation, who t…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-84006f222afa",
       "title": "Kuxiu’s D5 charger now comes in Burgundy to perfectly match your iPhone 18 Pro",
@@ -282,26 +302,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-10f1d4cc8c96",
-      "title": "全球首款支持 Eclipsa Audio 3D 空间音频的手机麦克风：索尼推出 ECM-AX10",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-11",
-      "time": "08:47",
-      "publishedAt": "2026-10-11T08:47:35.000Z",
-      "url": "https://www.ithome.com/1/011/636.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/911112ad-31d0-47db-8e15-317980d0ec9f.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 11 日消息，索尼前天宣布推出 ECM-AX10， 这是全球首款支持 Eclipsa Audio 3D 空间音频的手机麦克风 ，可在拍摄视频时同步录制空间音频。 据介绍，这款产品具备 Eclipsa Audio 认证，可以直接安装在智能手机上使用。无论是拍摄 Vlog、旅行记录、演唱会，还是观看体育赛事，它都能将视觉难以传达的现场氛围和…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-5cc15a843142",
       "title": "JSCHEN小小狐：一加 16 操控预热：灵犀触控芯 / 大师陀螺仪",
       "source": "JSCHEN小小狐",
@@ -442,8 +442,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-df416e81414a",
-      "title": "bug价拿下，目前还有，豆包搜这个手机型号卷-1000，啊啊啊太爽了，真的拿下了。",
+      "id": "newsnow-8c466be72b0f",
+      "title": "这是我接触智能机以来，使用过最久的一部手机。也是破纪录了",
       "source": "酷安热榜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -452,71 +452,11 @@ window.phoneRadarAuto = {
       "date": "2026-10-11",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74269973",
+      "url": "https://www.coolapk.com/feed/74285104",
       "image": "",
-      "summary": "bug价拿下，目前还有，豆包搜这个手机型号卷-1000，啊啊啊太爽了，真的拿下了。",
+      "summary": "这是我接触智能机以来，使用过最久的一部手机。也是破纪录了",
       "tags": [
         "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-cc985d8aeb1b",
-      "title": "最恐怖的是，荣耀还有win系列，数字系列，折叠屏，阔直板四张牌可以打。",
-      "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-11",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74263478",
-      "image": "",
-      "summary": "最恐怖的是，荣耀还有win系列，数字系列，折叠屏，阔直板四张牌可以打。",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-02a00387e7af",
-      "title": "OPPO手机能查看品牌颗粒了，还是有大佬在的，可惜是三星ufs4.0的#OPPOFindX10# #ColorOS17# #OPPOFindX9Pro#",
-      "source": "酷安热榜",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-11",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74280771",
-      "image": "",
-      "summary": "OPPO手机能查看品牌颗粒了，还是有大佬在的，可惜是三星ufs4.0的#OPPOFindX10# #ColorOS17# #OPPOFindX9Pro#",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-b774779fed55",
-      "title": "iPhone Duo「定制开机问候」界面曝光：可显示用户姓名",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-11",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74274708",
-      "image": "",
-      "summary": "iPhone Duo「定制开机问候」界面曝光：可显示用户姓名",
-      "tags": [
-        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -542,21 +482,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-e3cc25bd8fa9",
-      "title": "消息称安卓下一代超大杯手机或全员停更",
+      "id": "newsnow-02a00387e7af",
+      "title": "OPPO手机能查看品牌颗粒了，还是有大佬在的，可惜是三星ufs4.0的#OPPOFindX10# #ColorOS17# #OPPOFindX9Pro#",
       "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-11",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74269778",
+      "url": "https://www.coolapk.com/feed/74280771",
       "image": "",
-      "summary": "消息称安卓下一代超大杯手机或全员停更",
+      "summary": "OPPO手机能查看品牌颗粒了，还是有大佬在的，可惜是三星ufs4.0的#OPPOFindX10# #ColorOS17# #OPPOFindX9Pro#",
       "tags": [
-        "行业",
+        "Samsung",
         "爆料",
         "NewsNow"
       ]
@@ -577,6 +517,46 @@ window.phoneRadarAuto = {
       "summary": "没人觉得这个审美很差吗，感觉就是找不到满意的主题，然后这里推荐的主题大多都是模仿 ios，然后有点土，澎湃 os#HyperOS3#",
       "tags": [
         "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-5e93255f8f92",
+      "title": "酷友们，预算30张，想买个女生用的手机",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-11",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74274791",
+      "image": "",
+      "summary": "酷友们，预算30张，想买个女生用的手机",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-df416e81414a",
+      "title": "bug价拿下，目前还有，豆包搜这个手机型号卷-1000，啊啊啊太爽了，真的拿下了。",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-11",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74269973",
+      "image": "",
+      "summary": "bug价拿下，目前还有，豆包搜这个手机型号卷-1000，啊啊啊太爽了，真的拿下了。",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
