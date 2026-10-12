@@ -1,6 +1,246 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-12T15:21:54.851Z",
+  "updatedAt": "2026-10-12T22:58:08.499Z",
   "news": [
+    {
+      "id": "auto-40724a4825eb",
+      "title": "CounterPoint 称内存短缺冲击全球手机市场：2026Q3 出货量创 14 年新低、今年平均售价已涨 20%",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-12",
+      "time": "22:47",
+      "publishedAt": "2026-10-12T22:47:37.000Z",
+      "url": "https://www.ithome.com/1/012/130.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/2b62d8dc-74fd-4058-8a60-81863423ecec.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 13 日消息，市场调查机构 CounterPoint Research 昨日（10 月 12 日）发布博文，报告称由于持续的内存短缺，影响全球大多数 OEM 厂商出货， 导致 2026 年第三季度全球智能手机出货量同比下降 20%，创 2012 年以来第三季度最低水平。 报告指出，DRAM 内存与 NAND 闪存价格持续上涨，加剧第三季…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c8dbeb6e5489",
+      "title": "Apple gets a $360 price target from JP Morgan despite iPhone demand concerns",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-12",
+      "time": "22:23",
+      "publishedAt": "2026-10-12T22:23:50.000Z",
+      "url": "https://9to5mac.com/2026/10/12/apple-gets-a-360-price-target-from-jp-morgan-despite-iphone-demand-concerns/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-stock-up.jpg?quality=82&strip=all&w=1600",
+      "summary": "Just days after Apple’s stock took a hit over reports of iPhone 18 Pro production cuts, JP Morgan has raised its AAPL price target by $20. Here are the details. more…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e4edd4d5e81e",
+      "title": "Google is now selling refurbished Pixel 9 phones, and the prices are pretty tempting",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-10-12",
+      "time": "21:27",
+      "publishedAt": "2026-10-12T21:27:13.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/google-pixel-9-refurbushed-starts-sales-usa",
+      "image": "https://cdn.mos.cms.futurecdn.net/L5VRabFbfGinbLoqNxmwif-1920-80.jpg",
+      "summary": "Google is giving the Pixel 9 series a second life with some tempting discounts",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9e292b000354",
+      "title": "iPhone hits record Q3 shipment share as global smartphone market plunges 20%, per report",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-12",
+      "time": "20:25",
+      "publishedAt": "2026-10-12T20:25:16.000Z",
+      "url": "https://9to5mac.com/2026/10/12/iphone-hits-record-q3-shipment-share-as-global-smartphone-market-plunges-20-per-report/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-pro-max-hand.jpg?quality=82&strip=all&w=1600",
+      "summary": "According to Counterpoint Research , Apple saw its share of global smartphone shipments cross 20% for the first time in a third quarter, despite an industry-wide decline. Here are…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-14a5ae89229f",
+      "title": "OnePlus launches Magnetic Phone Cooler smaller than a bank card",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-12",
+      "time": "20:24",
+      "publishedAt": "2026-10-12T20:24:25.000Z",
+      "url": "https://www.gizmochina.com/2026/10/12/oneplus-launches-magnetic-phone-cooler-smaller-than-a-bank-card/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Screenshot-2026-10-13-013824-300x169.png?x96852",
+      "summary": "Long gaming sessions heat up the phone, performance tanks, and frames start dropping right when it matters most. OnePlus is trying to fix that with a tiny new accessory that packs…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2e37f2bd6192",
+      "title": "Planning to buy Apple’s iPhone Duo? Here are Xfinity Mobile’s deals",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-12",
+      "time": "20:11",
+      "publishedAt": "2026-10-12T20:11:34.000Z",
+      "url": "https://www.androidauthority.com/iphone-duo-xfinity-mobile-deals-3722304/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Apple-iPhone-Duo-Hands-On-Inner-Display-with-no-crease-and-under-display-camera-visible.jpg",
+      "summary": "Here's what Xfinity Mobile is offering for Apple's Galaxy Z Fold 8 rival.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9fbc206b241c",
+      "title": "Galaxy S27 Ultra might take eye strain seriously amid rumors of DC dimming",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-10-12",
+      "time": "18:28",
+      "publishedAt": "2026-10-12T18:28:05.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/galaxy-s27-ultra-might-take-eye-strain-seriously-dc-dimming",
+      "image": "https://cdn.mos.cms.futurecdn.net/ygMKG9aBZikNUtH6YX99bf-1920-80.jpg",
+      "summary": "Eye strain has been a problem for Galaxy phones, but a rumor says Samsung's S27 Pro and Ultra might fix that.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-12df8660e252",
+      "title": "How many Galaxy S27 models is Samsung actually working on?",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-12",
+      "time": "17:24",
+      "publishedAt": "2026-10-12T17:24:02.000Z",
+      "url": "https://www.sammobile.com/news/how-many-galaxy-s27-models-samsung-making/",
+      "image": "",
+      "summary": "There's no doubt Samsung is already working on a new series of Galaxy flagship phones. However, lately the company has tried new and interesting strategies, such as releasing a th…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-35e837404bc6",
+      "title": "You Can Now Set Up Your iPhone Duo Pre-Order - Do It Before Friday",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-12",
+      "time": "16:16",
+      "publishedAt": "2026-10-12T16:16:49.000Z",
+      "url": "https://www.macrumors.com/2026/10/12/you-can-now-set-up-your-iphone-duo-pre-order/",
+      "image": "https://images.macrumors.com/article-new/2026/09/iphone-duo-get-ready.jpg",
+      "summary": "Apple has opened its \"Get Ready\" service for iPhone Duo pre-orders, allowing customers to pre-select a variety of options to streamline the process of ordering and have a better c…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b430dfead990",
+      "title": "You can now get a refurbished Pixel 9 Pro directly from Google and save up to $400",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-12",
+      "time": "15:50",
+      "publishedAt": "2026-10-12T15:50:45.000Z",
+      "url": "https://www.androidauthority.com/google-store-pixel-9-certified-refurbished-program-3722041/",
+      "image": "",
+      "summary": "The Pixel 8 series is also seeing price revisions to accommodate the new arrivals.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1cb1ea41e6e7",
+      "title": "OnePlus 16 debuts with 165Hz global refresh rate, 185fps gameplay, Snapdragon 8EE Gen6, 9000mAh battery",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-12",
+      "time": "15:42",
+      "publishedAt": "2026-10-12T15:42:12.000Z",
+      "url": "https://www.gizmochina.com/2026/10/12/oneplus-16-debuts-with-165hz-global-refresh-rate-185fps-gameplay-snapdragon-8ee-gen6-9000mah-battery/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/4320-1800-300x169.jpg?x96852",
+      "summary": "The OnePlus 16 has launched in China, and it brings quite a few things that its more expensive competitors don’t have. Alongside the Snapdragon 8 Elite Extreme Gen 6, it packs a P…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-50074394b669",
+      "title": "Galaxy Z Fold 8 popularity saves Samsung from shipment slump",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-12",
+      "time": "15:27",
+      "publishedAt": "2026-10-12T15:27:33.000Z",
+      "url": "https://www.androidauthority.com/galaxy-z-fold-8-demand-3722120/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z8-family-Z-Fold-8-Z-Fold-8-Ultra-Z-Flip-8-on-table.jpg",
+      "summary": "The memory shortage continues to hit hard, but a strong product lineup helps Samsung retain its market dominance.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-80a614ac349f",
       "title": "Apple has reportedly increased its iPhone Duo orders by 30%",
@@ -22,26 +262,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-48a4c6a01ac0",
-      "title": "竹本青：极客湾上手一加 16 媒体机：算是“驯龙高手”，性能对得起定位",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-12",
-      "time": "14:22",
-      "publishedAt": "2026-10-12T14:22:47.000Z",
-      "url": "https://www.coolapk.com/feed/74318689",
-      "image": "http://image.coolapk.com/feed/2026/1012/22/4248714_a8f5213a_4964_3189_564-livepic@1920x1080.jpg",
-      "summary": "【极客湾上手一加 16 媒体机：算是“驯龙高手”，性能对得起定位】 《原神》975P最高画质 ● 一加16 骁龙8EE6： 平均59.9帧，1%Low 43.6帧，平均4.6W ○ 一加15 骁龙8E5： 平均59.9帧，1%Low 33.5帧，平均4.9W ○ 天玑9600 Pro机型： 平均59.9帧，1%Low 47.9帧，平均3.8W ○ 天玑95…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-832ce4d188e3",
       "title": "Top 5 alternatives to OnePlus 16",
       "source": "Gizmochina",
@@ -57,26 +277,6 @@ window.phoneRadarAuto = {
       "summary": "The OnePlus 16 has arrived in China with flagship hardware, including a high-refresh-rate display, a massive battery, and upgraded cameras. However, its availability outside China…",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1a1c9ecded88",
-      "title": "Samsung Galaxy Z Flip8 portability: What its thinner, lighter design changes day to day",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-12",
-      "time": "14:00",
-      "publishedAt": "2026-10-12T14:00:00.000Z",
-      "url": "https://www.sammobile.com/news/samsung-galaxy-z-flip8-portability-what-thinner-lighter-design-changes-day-to-day/",
-      "image": "",
-      "summary": "The Samsung Galaxy Z Flip8 measures 13.1 mm when folded and weighs 180 g. That makes it the thinnest and lightest Galaxy Z Flip yet, shaving 0.6 mm and 8 g off the Galaxy Z Flip7.…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -402,26 +602,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-790a8bbf13a1",
-      "title": "鸿蒙 7 补齐又一高呼声特性：华为 Pura X View 手机“109”版本支持深色模式随日出日落自动切换",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-12",
-      "time": "09:52",
-      "publishedAt": "2026-10-12T09:52:49.000Z",
-      "url": "https://www.ithome.com/1/012/034.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/003e02f0-2588-4277-99ab-3a11104fcca2.jpg",
-      "summary": "IT之家 10 月 12 日消息，华为近日面向 Pura X View 手机率先推送了鸿蒙 HarmonyOS 7.0.0.109 SP10 版本升级，包体大小约 4.83GB。新版本带来了多人互助通信共享、熄屏循迹导航等功能。 IT之家实测发现，在官方更新日志外， 该机还补齐了一项用户呼声很高的特性 —— 深色模式支持随日出日落自动切换 。 需要注意的是…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-72a29d4e1852",
       "title": "This unofficial port brings Pixel 11's Rambler to any Android phone",
       "source": "Android Central",
@@ -459,26 +639,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-cd1c3dec159f",
-      "title": "数码闲聊站：又被我独家首发猜对了，耀子WIN2系列采用2K+185Hz大直屏，大R角物理四…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-12",
-      "time": "07:36",
-      "publishedAt": "2026-10-12T07:36:00.000Z",
-      "url": "https://weibo.com/6048569942/RmkuEgPrt",
-      "image": "https://tvax3.sinaimg.cn/mw2000/006BlblIgy1ihzaai8c3dj30zc121497.jpg",
-      "summary": "又被我独家首发猜对了，耀子WIN2系列采用2K+185Hz大直屏，大R角物理四等边，黑边刷记录，万级大电池也会刷记录[二哈]",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
       ]
     },
     {
@@ -539,26 +699,6 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-c648c28a055a",
-      "title": "数码闲聊站：荣耀WIN2真机超前瞻： 行业最窄四等边2K直屏，大R角形态，荣耀自研天际线封…",
-      "source": "数码闲聊站",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-12",
-      "time": "01:00",
-      "publishedAt": "2026-10-12T01:00:02.000Z",
-      "url": "https://weibo.com/6048569942/RmhTW0O7y",
-      "image": "https://tvax2.sinaimg.cn/mw2000/008niS2ily8ihyooc9sxfj323u35qb29.jpg",
-      "summary": "荣耀WIN2真机超前瞻： 行业最窄四等边2K直屏，大R角形态，荣耀自研天际线封装工艺，黑边刷新纪录✓ 横向战斗舱大矩阵Deco，内嵌环形RGB氛围灯， 绯红战斗舱腰线，主动散热风扇，性能拉满✓ WIN2系列主推红蓝Buff，红蓝撞色极具电竞氛围感，这一代ID设计完全戳中电竞玩家啊[流鼻血] #荣耀WIN2# #荣耀WIN2红蓝Buff配色#",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "微博"
       ]
     },
     {
@@ -682,81 +822,41 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-3a23ea6ef507",
-      "title": "这是我接触智能机以来，使用过最久的一部手机。也是破纪录了",
+      "id": "newsnow-85fddb568bc4",
+      "title": "兄弟们，父母说出钱帮我买个房子，如果我自己住有点想买商品房，同价格新的商品房和二手的私宅一样，父母想给我买自建房，说商品房又小还要交物业相当于租房，我觉得商品房装修好看，打扫卫生也方便，视野也好，不用经常走楼梯，但是平时住的都是自建房不知道商品房有啥缺点，如果你们会买哪一种，自建房好还是商品房，如果是买商品房的话要注意什么的？ #OPPOFindX10# #小米18# #荣耀Magic9ProMax#",
       "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-12",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74285104",
+      "url": "https://www.coolapk.com/feed/74312683",
       "image": "",
-      "summary": "这是我接触智能机以来，使用过最久的一部手机。也是破纪录了",
+      "summary": "兄弟们，父母说出钱帮我买个房子，如果我自己住有点想买商品房，同价格新的商品房和二手的私宅一样，父母想给我买自建房，说商品房又小还要交物业相当于租房，我觉得商品房装修好看，打扫卫生也方便，视野也好，不用经常走楼梯，但是平时住的都是自建房不知道商品房有啥缺点，如果你们会买哪一种，自建房好还是商品房，如果是买商品房的话要注意什么的？ #OPPOFindX10#…",
       "tags": [
-        "行业",
+        "HONOR",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-0eae60e16464",
-      "title": "【酷派阔直板手机本月开售：720P LCD屏，联发科G99芯片，售价999元】",
+      "id": "newsnow-f101c89482f1",
+      "title": "一加16为啥比k100promax贵两三千？1.5k不如超级像素 双杨不如三扬低音炮 续航差了70毫安 优势是8ee6跑分高 实际体验没区别 拍照强一些 频段多一些 16加512卖到7000多 红米现在可以做到4000出头 实际内存涨价哪有这么夸张吧？ #一加16# #iQOO16# #一加15#",
       "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-12",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74288596",
+      "url": "https://www.coolapk.com/feed/74321562",
       "image": "",
-      "summary": "【酷派阔直板手机本月开售：720P LCD屏，联发科G99芯片，售价999元】",
+      "summary": "一加16为啥比k100promax贵两三千？1.5k不如超级像素 双杨不如三扬低音炮 续航差了70毫安 优势是8ee6跑分高 实际体验没区别 拍照强一些 频段多一些 16加512卖到7000多 红米现在可以做到4000出头 实际内存涨价哪有这么夸张吧？ #一加16# #iQOO16# #一加15#",
       "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-6167c38187ff",
-      "title": "酷友们，预算30张，想买个女生用的手机",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-12",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74274791",
-      "image": "",
-      "summary": "酷友们，预算30张，想买个女生用的手机",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-50a5fb6b7b60",
-      "title": "没人觉得这个审美很差吗，感觉就是找不到满意的主题，然后这里推荐的主题大多都是模仿 ios，然后有点土，澎湃 os#HyperOS3#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-12",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74266921",
-      "image": "",
-      "summary": "没人觉得这个审美很差吗，感觉就是找不到满意的主题，然后这里推荐的主题大多都是模仿 ios，然后有点土，澎湃 os#HyperOS3#",
-      "tags": [
-        "Xiaomi",
+        "OPPO",
         "爆料",
         "NewsNow"
       ]

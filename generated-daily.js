@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-10-12T15:21:54.851Z",
+  "updatedAt": "2026-10-12T22:58:08.499Z",
   "issueDate": "2026-10-12",
   "issue": "VOL.261012",
   "title": "手机情报日报",
-  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、2 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 22 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、2 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 18,
-    "iphone": 7,
+    "total": 22,
+    "iphone": 9,
     "leaks": 8,
     "official": 2,
     "specs": 0
@@ -18,50 +18,25 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "auto-80a614ac349f",
+          "id": "auto-35e837404bc6",
           "title": "iPhone 相关消息",
           "originalTitle": "",
-          "source": "9to5Mac",
+          "source": "MacRumors",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-10-12",
-          "time": "14:53",
-          "publishedAt": "2026-10-12T14:53:38.000Z",
-          "url": "https://9to5mac.com/2026/10/12/apple-has-reportedly-increased-its-iphone-duo-orders-by-30/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-night-sky-front-back.jpg?quality=82&strip=all&w=1600",
+          "time": "16:16",
+          "publishedAt": "2026-10-12T16:16:49.000Z",
+          "url": "https://www.macrumors.com/2026/10/12/you-can-now-set-up-your-iphone-duo-pre-order/",
+          "image": "https://images.macrumors.com/article-new/2026/09/iphone-duo-get-ready.jpg",
           "verdict": "先看",
           "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-c648c28a055a",
-          "title": "数码闲聊站：荣耀WIN2真机超前瞻： 行业最窄四等边2K直屏，大R角形态，荣耀自研天际线封…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-10-12",
-          "time": "01:00",
-          "publishedAt": "2026-10-12T01:00:02.000Z",
-          "url": "https://weibo.com/6048569942/RmhTW0O7y",
-          "image": "https://tvax2.sinaimg.cn/mw2000/008niS2ily8ihyooc9sxfj323u35qb29.jpg",
-          "verdict": "先看",
-          "takeaway": "荣耀WIN2真机超前瞻： 行业最窄四等边2K直屏，大R角形态，荣耀自研天际线封装工艺，黑边刷新纪录✓ 横向战斗舱大矩阵Deco，内嵌环形RGB氛围灯， 绯红战斗舱腰线，主动散热风扇，性能拉满✓ WIN2系列主推红蓝Buff，红蓝撞色极具电竞氛围感，这一代ID设计完全戳中电竞玩家啊[流鼻血] #荣耀WIN2# #荣耀WIN2红蓝Buff配色#",
-          "detail": "荣耀WIN2真机超前瞻： 行业最窄四等边2K直屏，大R角形态，荣耀自研天际线封装工艺，黑边刷新纪录✓ 横向战斗舱大矩阵Deco，内嵌环形RGB氛围灯， 绯红战斗舱腰线，主动散热风扇，性能拉满✓ WIN2系列主推红蓝Buff，红蓝撞色极具电竞氛围感，这一代ID设计完全戳中电竞玩家啊[流鼻血] #荣耀WIN2# #荣耀WIN2红蓝Buff配色#",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -113,23 +88,24 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-790a8bbf13a1",
-          "title": "鸿蒙 7 补齐又一高呼声特性：华为 Pura X View 手机“109”版本支持深色模式随日出日落自动切换",
+          "id": "newsnow-f101c89482f1",
+          "title": "一加16为啥比k100promax贵两三千？1.5k不如超级像素 双杨不如三扬低音炮 续航差了70毫安 优势是8ee6跑分高 实际体验没区别 拍照强一些 频段多一些 16加512卖到7000多 红米现在可以做到4000出头 实际内存涨价哪有这么夸张吧？ #一加16# #iQOO16# #一加15#",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Huawei",
+          "source": "酷安热榜",
+          "brand": "OPPO",
           "type": "爆料",
-          "trust": "媒体汇总",
+          "trust": "高关注爆料源",
           "date": "2026-10-12",
-          "time": "09:52",
-          "publishedAt": "2026-10-12T09:52:49.000Z",
-          "url": "https://www.ithome.com/1/012/034.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/003e02f0-2588-4277-99ab-3a11104fcca2.jpg",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/74321562",
+          "image": "",
           "verdict": "先看",
-          "takeaway": "IT之家 10 月 12 日消息，华为近日面向 Pura X View 手机率先推送了鸿蒙 HarmonyOS 7.0.0.109 SP10 版本升级，包体大小约 4.83GB。新版本带来了多人互助通信共享、熄屏循迹导航等功能。 IT之家实测发现，在官方更新日志外， 该机还补齐了一项用户呼声很高的特性 —— 深色模式支持随日出日落自动切换 。 需要注意的是…",
-          "detail": "IT之家 10 月 12 日消息，华为近日面向 Pura X View 手机率先推送了鸿蒙 HarmonyOS 7.0.0.109 SP10 版本升级，包体大小约 4.83GB。新版本带来了多人互助通信共享、熄屏循迹导航等功能。 IT之家实测发现，在官方更新日志外， 该机还补齐了一项用户呼声很高的特性 —— 深色模式支持随日出日落自动切换 。 需要注意的是…",
+          "takeaway": "一加16为啥比k100promax贵两三千？1.5k不如超级像素 双杨不如三扬低音炮 续航差了70毫安 优势是8ee6跑分高 实际体验没区别 拍照强一些 频段多一些 16加512卖到7000多 红米现在可以做到4000出头 实际内存涨价哪有这么夸张吧？ #一加16# #iQOO16# #一加15#",
+          "detail": "一加16为啥比k100promax贵两三千？1.5k不如超级像素 双杨不如三扬低音炮 续航差了70毫安 优势是8ee6跑分高 实际体验没区别 拍照强一些 频段多一些 16加512卖到7000多 红米现在可以做到4000出头 实际内存涨价哪有这么夸张吧？ #一加16# #iQOO16# #一加15#",
           "keyPoints": [
-            "爆料"
+            "电池 / 充电",
+            "芯片 / 性能"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -182,27 +158,49 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "weibo-cd1c3dec159f",
-          "title": "数码闲聊站：又被我独家首发猜对了，耀子WIN2系列采用2K+185Hz大直屏，大R角物理四…",
+          "id": "auto-9fbc206b241c",
+          "title": "Galaxy S27 Ultra 系统功能 / AI 体验相关消息",
           "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
+          "source": "Android Central",
+          "brand": "Samsung",
+          "type": "评测",
+          "trust": "媒体汇总",
           "date": "2026-10-12",
-          "time": "07:36",
-          "publishedAt": "2026-10-12T07:36:00.000Z",
-          "url": "https://weibo.com/6048569942/RmkuEgPrt",
-          "image": "https://tvax3.sinaimg.cn/mw2000/006BlblIgy1ihzaai8c3dj30zc121497.jpg",
+          "time": "18:28",
+          "publishedAt": "2026-10-12T18:28:05.000Z",
+          "url": "https://www.androidcentral.com/phones/samsung-galaxy/galaxy-s27-ultra-might-take-eye-strain-seriously-dc-dimming",
+          "image": "https://cdn.mos.cms.futurecdn.net/ygMKG9aBZikNUtH6YX99bf-1920-80.jpg",
           "verdict": "先看",
-          "takeaway": "又被我独家首发猜对了，耀子WIN2系列采用2K+185Hz大直屏，大R角物理四等边，黑边刷记录，万级大电池也会刷记录[二哈]",
-          "detail": "又被我独家首发猜对了，耀子WIN2系列采用2K+185Hz大直屏，大R角物理四等边，黑边刷记录，万级大电池也会刷记录[二哈]",
+          "takeaway": "Samsung 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "Galaxy S27 Ultra 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "屏幕形态",
-            "电池 / 充电",
             "爆料来源"
           ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-338142d40283",
+          "title": "OPPO 相关消息",
+          "originalTitle": "",
+          "source": "Android Authority",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-12",
+          "time": "11:10",
+          "publishedAt": "2026-10-12T11:10:33.000Z",
+          "url": "https://www.androidauthority.com/oneplus-16r-spec-leak-3721941/",
+          "image": "https://www.androidauthority.com/wp-content/uploads/2025/12/OnePlus-15R-green-held-in-hand.jpg",
+          "verdict": "先看",
+          "takeaway": "OPPO 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "OPPO 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "影像硬件",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -261,6 +259,29 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
+          "id": "auto-c8dbeb6e5489",
+          "title": "iPhone 价格 / 成本相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-12",
+          "time": "22:23",
+          "publishedAt": "2026-10-12T22:23:50.000Z",
+          "url": "https://9to5mac.com/2026/10/12/apple-gets-a-360-price-target-from-jp-morgan-despite-iphone-demand-concerns/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-stock-up.jpg?quality=82&strip=all&w=1600",
+          "verdict": "扫一眼",
+          "takeaway": "iPhone 价格 / 成本相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
+          "detail": "iPhone 价格 / 成本相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响购买预算，值得先看。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
           "id": "newsnow-029d54f30977",
           "title": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验",
           "originalTitle": "",
@@ -305,6 +326,89 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-4efbc99e30e9",
+          "title": "iPhone 18 Pro 对比 iPhone 17 Pro：差异整理",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-11",
+          "time": "17:01",
+          "publishedAt": "2026-10-11T17:01:45.000Z",
+          "url": "https://www.gizmochina.com/2026/10/11/iphone-18-pro-vs-iphone-17-pro-is-the-upgrade-worth-it/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/iPhone-18-Pro-vs-iPhone-17-Pro--300x150.jpg?x96852",
+          "verdict": "扫一眼",
+          "takeaway": "iPhone 18 Pro 对比 iPhone 17 Pro：重点看定位、配置差异和价格差，判断是否值得等更高端型号。",
+          "detail": "iPhone 18 Pro 对比 iPhone 17 Pro 的差异整理。重点看两款机型的定位、影像规格、屏幕尺寸、价格区间和发布时间是否拉开差距。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "launch",
+      "title": "新机与官方发布",
+      "hint": "能直接更新到参数库。",
+      "items": [
+        {
+          "id": "auto-40724a4825eb",
+          "title": "CounterPoint 称内存短缺冲击全球手机市场：2026Q3 出货量创 14 年新低、今年平均售价已涨 20%",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-12",
+          "time": "22:47",
+          "publishedAt": "2026-10-12T22:47:37.000Z",
+          "url": "https://www.ithome.com/1/012/130.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/2b62d8dc-74fd-4058-8a60-81863423ecec.png?x-bce-process=image/format,f_auto",
+          "verdict": "扫一眼",
+          "takeaway": "IT之家 10 月 13 日消息，市场调查机构 CounterPoint Research 昨日（10 月 12 日）发布博文，报告称由于持续的内存短缺，影响全球大多数 OEM 厂商出货， 导致 2026 年第三季度全球智能手机出货量同比下降 20%，创 2012 年以来第三季度最低水平。 报告指出，DRAM 内存与 NAND 闪存价格持续上涨，加剧第三季…",
+          "detail": "IT之家 10 月 13 日消息，市场调查机构 CounterPoint Research 昨日（10 月 12 日）发布博文，报告称由于持续的内存短缺，影响全球大多数 OEM 厂商出货， 导致 2026 年第三季度全球智能手机出货量同比下降 20%，创 2012 年以来第三季度最低水平。 报告指出，DRAM 内存与 NAND 闪存价格持续上涨，加剧第三季…",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响购买预算，值得先看。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        }
+      ]
+    },
+    {
+      "id": "review",
+      "title": "评测与体验",
+      "hint": "买前再细看，平时扫一眼即可。",
+      "items": [
+        {
+          "id": "auto-e4edd4d5e81e",
+          "title": "Pixel 9 价格 / 成本相关消息",
+          "originalTitle": "",
+          "source": "Android Central",
+          "brand": "Pixel",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-10-12",
+          "time": "21:27",
+          "publishedAt": "2026-10-12T21:27:13.000Z",
+          "url": "https://www.androidcentral.com/phones/google-pixel/google-pixel-9-refurbushed-starts-sales-usa",
+          "image": "https://cdn.mos.cms.futurecdn.net/L5VRabFbfGinbLoqNxmwif-1920-80.jpg",
+          "verdict": "可略过",
+          "takeaway": "Pixel 9 价格 / 成本相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
+          "detail": "Pixel 9 价格 / 成本相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     },
@@ -314,27 +418,27 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "newsnow-50a5fb6b7b60",
-          "title": "没人觉得这个审美很差吗，感觉就是找不到满意的主题，然后这里推荐的主题大多都是模仿 ios，然后有点土，澎湃 os#HyperOS3#",
+          "id": "newsnow-85fddb568bc4",
+          "title": "兄弟们，父母说出钱帮我买个房子，如果我自己住有点想买商品房，同价格新的商品房和二手的私宅一样，父母想给我买自建房，说商品房又小还要交物业相当于租房，我觉得商品房装修好看，打扫卫生也方便，视野也好，不用经常走楼梯，但是平时住的都是自建房不知道商品房有啥缺点，如果你们会买哪一种，自建房好还是商品房，如果是买商品房的话要注意什么的？ #OPPOFindX10# #小米18# #荣耀Magic9ProMax#",
           "originalTitle": "",
           "source": "酷安热榜",
-          "brand": "Xiaomi",
+          "brand": "HONOR",
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-10-12",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/74266921",
+          "url": "https://www.coolapk.com/feed/74312683",
           "image": "",
           "verdict": "先看",
-          "takeaway": "没人觉得这个审美很差吗，感觉就是找不到满意的主题，然后这里推荐的主题大多都是模仿 ios，然后有点土，澎湃 os#HyperOS3#",
-          "detail": "没人觉得这个审美很差吗，感觉就是找不到满意的主题，然后这里推荐的主题大多都是模仿 ios，然后有点土，澎湃 os#HyperOS3#",
+          "takeaway": "兄弟们，父母说出钱帮我买个房子，如果我自己住有点想买商品房，同价格新的商品房和二手的私宅一样，父母想给我买自建房，说商品房又小还要交物业相当于租房，我觉得商品房装修好看，打扫卫生也方便，视野也好，不用经常走楼梯，但是平时住的都是自建房不知道商品房有啥缺点，如果你们会买哪一种，自建房好还是商品房，如果是买商品房的话要注意什么的？ #OPPOFindX10#…",
+          "detail": "兄弟们，父母说出钱帮我买个房子，如果我自己住有点想买商品房，同价格新的商品房和二手的私宅一样，父母想给我买自建房，说商品房又小还要交物业相当于租房，我觉得商品房装修好看，打扫卫生也方便，视野也好，不用经常走楼梯，但是平时住的都是自建房不知道商品房有啥缺点，如果你们会买哪一种，自建房好还是商品房，如果是买商品房的话要注意什么的？ #OPPOFindX10#…",
           "keyPoints": [
-            "爆料"
+            "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+          "impact": "影响购买预算，值得先看。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         },
         {
           "id": "coolapk-user-4918abb7c74a",
@@ -383,72 +487,72 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-3a23ea6ef507",
-          "title": "这是我接触智能机以来，使用过最久的一部手机。也是破纪录了",
+          "id": "coolapk-user-a9e0b20cfab9",
+          "title": "竹本青：给我干哪年来了，这打法是16年吧 #荣耀WIN# #一加16# #荣耀WIN2#",
           "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "行业",
+          "source": "竹本青",
+          "brand": "HONOR",
           "type": "爆料",
-          "trust": "高关注爆料源",
+          "trust": "高可信爆料",
           "date": "2026-10-12",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/74285104",
+          "time": "13:45",
+          "publishedAt": "2026-10-12T13:45:28.000Z",
+          "url": "https://www.coolapk.com/feed/74317829",
           "image": "",
           "verdict": "扫一眼",
-          "takeaway": "这是我接触智能机以来，使用过最久的一部手机。也是破纪录了",
-          "detail": "这是我接触智能机以来，使用过最久的一部手机。也是破纪录了",
+          "takeaway": "给我干哪年来了，这打法是16年吧 #荣耀WIN# #一加16# #荣耀WIN2#",
+          "detail": "给我干哪年来了，这打法是16年吧 #荣耀WIN# #一加16# #荣耀WIN2#",
           "keyPoints": [
             "爆料"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-6167c38187ff",
-          "title": "酷友们，预算30张，想买个女生用的手机",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-10-12",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/74274791",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "酷友们，预算30张，想买个女生用的手机",
-          "detail": "酷友们，预算30张，想买个女生用的手机",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "coolapk-user-48a4c6a01ac0",
-          "title": "竹本青：极客湾上手一加 16 媒体机：算是“驯龙高手”，性能对得起定位",
+          "id": "coolapk-user-6e9584001076",
+          "title": "竹本青：怎么隔几句就来一个：你们说↓，是吗？↑",
           "originalTitle": "",
           "source": "竹本青",
           "brand": "OPPO",
           "type": "爆料",
           "trust": "高可信爆料",
           "date": "2026-10-12",
-          "time": "14:22",
-          "publishedAt": "2026-10-12T14:22:47.000Z",
-          "url": "https://www.coolapk.com/feed/74318689",
-          "image": "http://image.coolapk.com/feed/2026/1012/22/4248714_a8f5213a_4964_3189_564-livepic@1920x1080.jpg",
+          "time": "11:42",
+          "publishedAt": "2026-10-12T11:42:43.000Z",
+          "url": "https://www.coolapk.com/feed/74314821",
+          "image": "",
           "verdict": "扫一眼",
-          "takeaway": "【极客湾上手一加 16 媒体机：算是“驯龙高手”，性能对得起定位】 《原神》975P最高画质 ● 一加16 骁龙8EE6： 平均59.9帧，1%Low 43.6帧，平均4.6W ○ 一加15 骁龙8E5： 平均59.9帧，1%Low 33.5帧，平均4.9W ○ 天玑9600 Pro机型： 平均59.9帧，1%Low 47.9帧，平均3.8W ○ 天玑95…",
-          "detail": "【极客湾上手一加 16 媒体机：算是“驯龙高手”，性能对得起定位】 《原神》975P最高画质 ● 一加16 骁龙8EE6： 平均59.9帧，1%Low 43.6帧，平均4.6W ○ 一加15 骁龙8E5： 平均59.9帧，1%Low 33.5帧，平均4.9W ○ 天玑9600 Pro机型： 平均59.9帧，1%Low 47.9帧，平均3.8W ○ 天玑95…",
+          "takeaway": "怎么隔几句就来一个：你们说↓，是吗？↑",
+          "detail": "怎么隔几句就来一个：你们说↓，是吗？↑",
           "keyPoints": [
             "爆料"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "影响性能和寿命判断，适合放进参数库。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "coolapk-user-db32d842c14f",
+          "title": "竹本青：去年念叨165，今年185，这刚是第一场",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-10-12",
+          "time": "11:28",
+          "publishedAt": "2026-10-12T11:28:17.000Z",
+          "url": "https://www.coolapk.com/feed/74314545",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "去年念叨165，今年185，这刚是第一场",
+          "detail": "去年念叨165，今年185，这刚是第一场",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
