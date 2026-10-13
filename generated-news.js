@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-13T15:57:05.376Z",
+  "updatedAt": "2026-10-13T21:13:49.605Z",
   "news": [
+    {
+      "id": "auto-1e9bd4fd7ab9",
+      "title": "Galaxy S27 Ultra’s “Privacy Display v2” to offer better viewing angles, sharper image quality",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-13",
+      "time": "20:08",
+      "publishedAt": "2026-10-13T20:08:46.000Z",
+      "url": "https://www.gizmochina.com/2026/10/13/galaxy-s27-ultras-privacy-display-v2-to-offer-better-viewing-angles-sharper-image-quality/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/galaxy-s27-front-back-side-design-300x169.jpg?x96852",
+      "summary": "The Galaxy S27 Ultra could get a smarter version of one of Samsung’s coolest privacy tricks. Early word is that the phone will come with “Privacy Display v2”. For anyone who misse…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-9bc09a37da5f",
       "title": "The Galaxy Z Fold 8 Ultra's cover screen keeps flipping on me; it's driving me mad",
@@ -362,6 +382,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "coolapk-user-5a96b951877a",
+      "title": "JSCHEN小小狐：李杰公布一加 16 首销战报：销量突破 7 万台",
+      "source": "JSCHEN小小狐",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-13",
+      "time": "04:45",
+      "publishedAt": "2026-10-13T04:45:12.000Z",
+      "url": "https://www.coolapk.com/feed/74328188",
+      "image": "http://image.coolapk.com/feed/2026/1013/12/4702274_5000f6e9_6711_2765_181@1440x1149.jpg",
+      "summary": "『李杰公布一加 16 首销战报：销量突破 7 万台』 10 月 13 日，一加中国区总裁 李杰 发博宣布，截至当日 11:00，一加 16 首销销量已突破 7 万台，成为今年安卓旗舰首销同期销量 Top 1，并称其“实现了行业罕见的大幅上涨”。 据悉，一加 16 于 10 月 13 日 10:00 正式开售，搭载第六代骁龙 8 超级至尊版及自研电竞三芯；采…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
       "id": "auto-35702604071d",
       "title": "2026 年，日本翻盖手机终于过气了",
       "source": "爱范儿",
@@ -582,26 +622,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-5aaa13ef614a",
-      "title": "兄弟们，父母说出钱帮我买个房子，如果我自己住有点想买商品房，同价格新的商品房和二手的私宅一样，父母想给我买自建房，说商品房又小还要交物业相当于租房，我觉得商品房装修好看，打扫卫生也方便，视野也好，不用经常走楼梯，但是平时住的都是自建房不知道商品房有啥缺点，如果你们会买哪一种，自建房好还是商品房，如果是买商品房的话要注意什么的？ #OPPOFindX10# #小米18# #荣耀Magic9ProMax#",
-      "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-13",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74312683",
-      "image": "",
-      "summary": "兄弟们，父母说出钱帮我买个房子，如果我自己住有点想买商品房，同价格新的商品房和二手的私宅一样，父母想给我买自建房，说商品房又小还要交物业相当于租房，我觉得商品房装修好看，打扫卫生也方便，视野也好，不用经常走楼梯，但是平时住的都是自建房不知道商品房有啥缺点，如果你们会买哪一种，自建房好还是商品房，如果是买商品房的话要注意什么的？ #OPPOFindX10#…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-d66d5ace8206",
       "title": "兄弟们 我要退货了 还是用回我的一加12 这代处理器确实不咋稳定 手机一直温温的 165刷新率确实可以 手感不是那么太好 请原谅我！",
       "source": "酷安热榜",
@@ -622,8 +642,28 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-f196230add35",
-      "title": "安卓现在最低配对比苹果真的毫无性价比可言了，拉完了，运行内存都一样大了，以前总是比苹果大的，同样12g运行内存，苹果我认为还是比安卓更强的，像后台保留这种，反正我认为价格超过8000，能买的起8000以上的，我认为也不差那点钱了，加个2000买苹果不好吗？安卓手机我认为价格最多上7000都顶天了，说的pro版本，标配版5000差不多，7000买顶配pro，24+1t这种，不然真的拉完了#小米15Pro# #小米15# #酷安夜话#",
+      "id": "newsnow-5aaa13ef614a",
+      "title": "兄弟们，父母说出钱帮我买个房子，如果我自己住有点想买商品房，同价格新的商品房和二手的私宅一样，父母想给我买自建房，说商品房又小还要交物业相当于租房，我觉得商品房装修好看，打扫卫生也方便，视野也好，不用经常走楼梯，但是平时住的都是自建房不知道商品房有啥缺点，如果你们会买哪一种，自建房好还是商品房，如果是买商品房的话要注意什么的？ #OPPOFindX10# #小米18# #荣耀Magic9ProMax#",
+      "source": "酷安热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-13",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74312683",
+      "image": "",
+      "summary": "兄弟们，父母说出钱帮我买个房子，如果我自己住有点想买商品房，同价格新的商品房和二手的私宅一样，父母想给我买自建房，说商品房又小还要交物业相当于租房，我觉得商品房装修好看，打扫卫生也方便，视野也好，不用经常走楼梯，但是平时住的都是自建房不知道商品房有啥缺点，如果你们会买哪一种，自建房好还是商品房，如果是买商品房的话要注意什么的？ #OPPOFindX10#…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-2fa7fd9f090d",
+      "title": "酷友们，双十一，16+512，k90至尊版，k100promax，17max，iQOO15，x300Pro。这些机器多少算好价啊[托腮][托腮][托腮]。还有一个真我gt8Pro但是好像16+512没货了。#iQOO15# #REDMIK90至尊版# #vivoX300Pro#",
       "source": "酷安热榜",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
@@ -632,9 +672,9 @@ window.phoneRadarAuto = {
       "date": "2026-10-13",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74298896",
+      "url": "https://www.coolapk.com/feed/74340825",
       "image": "",
-      "summary": "安卓现在最低配对比苹果真的毫无性价比可言了，拉完了，运行内存都一样大了，以前总是比苹果大的，同样12g运行内存，苹果我认为还是比安卓更强的，像后台保留这种，反正我认为价格超过8000，能买的起8000以上的，我认为也不差那点钱了，加个2000买苹果不好吗？安卓手机我认为价格最多上7000都顶天了，说的pro版本，标配版5000差不多，7000买顶配pro，…",
+      "summary": "酷友们，双十一，16+512，k90至尊版，k100promax，17max，iQOO15，x300Pro。这些机器多少算好价啊[托腮][托腮][托腮]。还有一个真我gt8Pro但是好像16+512没货了。#iQOO15# #REDMIK90至尊版# #vivoX300Pro#",
       "tags": [
         "Xiaomi",
         "爆料",
@@ -642,7 +682,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-8af9a8b6a26f",
+      "id": "newsnow-d9ee8ce72ffb",
       "title": "手机不好卖了",
       "source": "微博热搜",
       "brand": "行业",
@@ -652,7 +692,7 @@ window.phoneRadarAuto = {
       "date": "2026-10-13",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E4%B8%8D%E5%A5%BD%E5%8D%96%E4%BA%86%23&t=31&band_rank=10&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E4%B8%8D%E5%A5%BD%E5%8D%96%E4%BA%86%23&t=31&band_rank=29&Refer=top",
       "image": "",
       "summary": "手机不好卖了",
       "tags": [
@@ -902,26 +942,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-1cd0a0d37030",
-      "title": "Huawei Mate 90 Pro Max vs iPhone 18 Pro Max: Which Flagship Is Better?",
-      "source": "Gizmochina",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-12",
-      "time": "13:00",
-      "publishedAt": "2026-10-12T13:00:53.000Z",
-      "url": "https://www.gizmochina.com/2026/10/12/huawei-mate-90-pro-max-vs-iphone-18-pro-max/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/image-26-300x165.png?x96852",
-      "summary": "The Huawei Mate 90 Pro Max and iPhone 18 Pro Max target premium smartphone buyers but take different approaches to performance, photography, and battery life. Huawei focuses on a…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-9a73728acd09",
       "title": "iPhone Air 2 is coming, here’s everything we know so far",
       "source": "9to5Mac",
@@ -959,26 +979,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-6c82a2306de0",
-      "title": "Upcoming Oppo Find X10 Pro “Mini” may sport a widescreen display and dual 200MP cameras",
-      "source": "Gizmochina",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-12",
-      "time": "11:24",
-      "publishedAt": "2026-10-12T11:24:25.000Z",
-      "url": "https://www.gizmochina.com/2026/10/12/oppo-find-x10-pro-widescreen-display-dual-200mp-cameras/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/OPPO-Find-X10-Pro-Max-Review-1.mp4_20261009_103510.777-300x150.jpg?x96852",
-      "summary": "It appears that the next trend to hit the smartphone industry is the launch of widescreen smartphones, as Huawei has done with the Pura View X. While Huawei’s offering is a flagsh…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
