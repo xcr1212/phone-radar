@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-10-14T18:36:48.441Z",
+  "updatedAt": "2026-10-14T23:12:42.734Z",
   "issueDate": "2026-10-14",
   "issue": "VOL.261014",
   "title": "手机情报日报",
-  "intro": "今日筛出 15 条重点，其中 8 条是重点爆料，包含 13 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 13 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 15,
+    "total": 14,
     "iphone": 13,
     "leaks": 8,
     "official": 1,
@@ -355,29 +355,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-fff23e1df6f7",
-          "title": "新老用户均可享：努比亚 NaviX Ultra 手机追加购机权益，加赠半年豆包标准版会员权益",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-14",
-          "time": "13:46",
-          "publishedAt": "2026-10-14T13:46:42.000Z",
-          "url": "https://www.ithome.com/1/013/109.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/0e4936a3-b24d-4cc3-adb6-963f699a43d4.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "扫一眼",
-          "takeaway": "IT之家 10 月 14 日消息，在今晚的 努比亚 NaviX Ultra 首场进化直播中，努比亚手机官方宣布，将追加 NaviX Ultra 的购机权益， 新老用户均可享受 。 ▲ IT之家实拍：努比亚 NaviX Ultra 手机 据介绍，双十一（10.15-11.11）新购机的用户晒单即加赠半年豆包标准版会员权益， 而首月（9.16-10.14）购机…",
-          "detail": "IT之家 10 月 14 日消息，在今晚的 努比亚 NaviX Ultra 首场进化直播中，努比亚手机官方宣布，将追加 NaviX Ultra 的购机权益， 新老用户均可享受 。 ▲ IT之家实拍：努比亚 NaviX Ultra 手机 据介绍，双十一（10.15-11.11）新购机的用户晒单即加赠半年豆包标准版会员权益， 而首月（9.16-10.14）购机…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         }
       ]
     }

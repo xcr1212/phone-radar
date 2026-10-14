@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-14T18:36:48.441Z",
+  "updatedAt": "2026-10-14T23:12:42.734Z",
   "news": [
+    {
+      "id": "auto-b65139b36bf2",
+      "title": "微软发布 XBOX Nano 口袋手柄：旗下尺寸最小手柄，售价 329 元",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-14",
+      "time": "22:58",
+      "publishedAt": "2026-10-14T22:58:57.000Z",
+      "url": "https://www.ithome.com/1/013/147.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/45052072-0480-437e-a014-24b66d239100.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 15 日消息，微软今日正式发布 XBOX Nano 手柄，这款体积更小、价格更低的手柄可以轻松放进口袋，手柄面向“低龄玩家、手掌偏小的人群，或是所有想要便携设备随时随地游玩的人”设计。 售价 329 元的 XBOX Nano 是微软尺寸最小的手柄，长度略超 5 英寸 （IT之家注：约 127 毫米） ，比大多数智能手机还要短。其配备普通…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-7d7268bd0c69",
       "title": "Discover the Best Cases and Screen Protectors for Your New iPhone Duo",
@@ -542,26 +562,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-f21615c8255d",
-      "title": "I tested the first phone with triple 200MP cameras — and resolution isn’t the best part",
-      "source": "Android Authority",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-14",
-      "time": "08:00",
-      "publishedAt": "2026-10-14T08:00:30.000Z",
-      "url": "https://www.androidauthority.com/oppo-find-x10-pro-max-camera-test-hands-on-3719124/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/OPPO-Find-X10-Pro-Max-back-on-desk.jpg",
-      "summary": "200MP on every camera sounds ridiculous. Then I tried OPPO’s Find X10 Pro Max.",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-92e8fc4e94ad",
       "title": "OnePlus Ace 7’s leaked schematic reveals its dual-airflow built-in cooling fan system",
       "source": "Gizmochina",
@@ -782,26 +782,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-1c60d4f6e40c",
-      "title": "REDMI Note 17 Pro焕新版开售：首销1399元起",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-14",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74335806",
-      "image": "",
-      "summary": "REDMI Note 17 Pro焕新版开售：首销1399元起",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-04333e5cf6d8",
       "title": "如何看待华为要求酷安关停安卓版与鸿蒙版不同步的特性？ #iPhone18ProMax# #小米18ProMax# #荣耀Magic9ProMax#",
       "source": "酷安热榜",
@@ -822,7 +802,87 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-ef8e8c3cde84",
+      "id": "newsnow-164454708246",
+      "title": "还有货，大家快去。我准备换华为了，老旗舰，不上90了，90太贵了。#华为Mate90ProMax# #荣耀Magic9ProMax# #OPPOFindX8Ultra#",
+      "source": "酷安热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-14",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74362104",
+      "image": "",
+      "summary": "还有货，大家快去。我准备换华为了，老旗舰，不上90了，90太贵了。#华为Mate90ProMax# #荣耀Magic9ProMax# #OPPOFindX8Ultra#",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-fe14f0aca632",
+      "title": "大家全小的去dy 商城这个软件开，这里的会比那个大一些。我那里是780，这里是915。#华为Mate90ProMax# #荣耀Magic9ProMax# #OPPOFindX8Ultra#",
+      "source": "酷安热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-14",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74360712",
+      "image": "",
+      "summary": "大家全小的去dy 商城这个软件开，这里的会比那个大一些。我那里是780，这里是915。#华为Mate90ProMax# #荣耀Magic9ProMax# #OPPOFindX8Ultra#",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-1d23f82a9636",
+      "title": "[笑哭]小米18系列评分快被刷起来了，全是注册几天的小号刷5星，酷安不管吗？小米这种行为，米粉也是视而不见#小米17ProMax# #小米18Pro# #REDMIK100ProMax#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-14",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74360715",
+      "image": "",
+      "summary": "[笑哭]小米18系列评分快被刷起来了，全是注册几天的小号刷5星，酷安不管吗？小米这种行为，米粉也是视而不见#小米17ProMax# #小米18Pro# #REDMIK100ProMax#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-8a89c45493fb",
+      "title": "今年所有的影像旗舰里，谁背后的镜头设计是做的最好的一款[受虐滑稽]#数码日常# #iPhone18ProMax# #华为Mate90ProMax#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-14",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74333127",
+      "image": "",
+      "summary": "今年所有的影像旗舰里，谁背后的镜头设计是做的最好的一款[受虐滑稽]#数码日常# #iPhone18ProMax# #华为Mate90ProMax#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-e1a65785bcc1",
       "title": "iPhoneDuo维修价格出炉",
       "source": "微博热搜",
       "brand": "iPhone",
@@ -832,7 +892,7 @@ window.phoneRadarAuto = {
       "date": "2026-10-14",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhoneDuo%E7%BB%B4%E4%BF%AE%E4%BB%B7%E6%A0%BC%E5%87%BA%E7%82%89%23&t=31&band_rank=10&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23iPhoneDuo%E7%BB%B4%E4%BF%AE%E4%BB%B7%E6%A0%BC%E5%87%BA%E7%82%89%23&t=31&band_rank=19&Refer=top",
       "image": "",
       "summary": "iPhoneDuo维修价格出炉",
       "tags": [
@@ -842,21 +902,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-3342d7b69807",
-      "title": "iPhoneDuo早鸟包重新上架",
-      "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "id": "newsnow-f13ab8c336a3",
+      "title": "永琪回村变身手机医生",
+      "source": "B站热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
-      "trust": "待验证",
+      "trust": "媒体汇总",
       "date": "2026-10-14",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhoneDuo%E6%97%A9%E9%B8%9F%E5%8C%85%E9%87%8D%E6%96%B0%E4%B8%8A%E6%9E%B6%23&t=31&band_rank=24&Refer=top",
+      "url": "https://search.bilibili.com/all?keyword=%E6%B0%B8%E7%90%AA%E5%9B%9E%E6%9D%91%E5%8F%98%E8%BA%AB%E6%89%8B%E6%9C%BA%E5%8C%BB%E7%94%9F",
       "image": "",
-      "summary": "iPhoneDuo早鸟包重新上架",
+      "summary": "永琪回村变身手机医生",
       "tags": [
-        "iPhone",
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -1022,46 +1082,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-5c79dd88be6c",
-      "title": "Galaxy S26 Ultra is $1,049.99 on Amazon, a fair price after Samsung’s US price hike",
-      "source": "Gizmochina",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-13",
-      "time": "10:18",
-      "publishedAt": "2026-10-13T10:18:50.000Z",
-      "url": "https://www.gizmochina.com/2026/10/13/galaxy-s26-ultra-is-1-049-99-on-amazon-fair-price/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Samsung-Galaxy-S26-Ultra-1-300x200.png?x96852",
-      "summary": "Galaxy S26 Ultra 256GB is $1,049.99 on Amazon after Samsung's $100 US price hike. A fair price, not a great one. When to buy, when to wait for Black Friday. The post Galaxy S26 Ul…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-74a628f16746",
-      "title": "iQOO Neo 12 front design revealed, 2K 185Hz display confirmed",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-13",
-      "time": "10:05",
-      "publishedAt": "2026-10-13T10:05:19.000Z",
-      "url": "https://www.gizmochina.com/2026/10/13/iqoo-neo-12-display-design/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/iQOO-Neo-12-display1--300x168.jpg?x96852",
-      "summary": "iQOO has offered a closer look at its upcoming Neo 12 smartphone ahead of its expected debut. The latest teasers focus on the device’s front design and display technology. They al…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-78a268499cc4",
       "title": "After 6 months with the Galaxy S26 Ultra, I think Samsung is its own worst enemy",
       "source": "Android Authority",
@@ -1077,26 +1097,6 @@ window.phoneRadarAuto = {
       "summary": "Suffering from success looks exhausting.",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d65cb4e27223",
-      "title": "The iPhone Duo’s hinge cooling is the breakthrough Android foldables need",
-      "source": "Android Authority",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-13",
-      "time": "08:17",
-      "publishedAt": "2026-10-13T08:17:32.000Z",
-      "url": "https://www.androidauthority.com/iphone-duo-hinge-cooling-breakthrough-3722435/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Apple-iPhone-Duo-Hands-On-Netflix-on-inner-display_1.jpg",
-      "summary": "Android foldables typically do not use the hinge as part of the thermal dissipation layer.",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
