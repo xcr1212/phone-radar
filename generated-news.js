@@ -1,6 +1,306 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-14T13:42:28.386Z",
+  "updatedAt": "2026-10-14T18:36:48.441Z",
   "news": [
+    {
+      "id": "auto-7d7268bd0c69",
+      "title": "Discover the Best Cases and Screen Protectors for Your New iPhone Duo",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-14",
+      "time": "18:32",
+      "publishedAt": "2026-10-14T18:32:25.000Z",
+      "url": "https://www.macrumors.com/2026/10/14/cases-protectors-iphone-duo/",
+      "image": "https://images.macrumors.com/article-new/2026/09/iphone-18-duo-cases-new-blue.jpeg",
+      "summary": "iPhone Duo pre-orders kick off this Friday , and in anticipation of the event we've gathered all of the best cases and screen protectors you can get for your new iPhone Duo. This…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-37975c9f24ca",
+      "title": "Burgundy iPhone 18 Pro turns red in 3 weeks, and nobody knows exactly why",
+      "source": "Gizmochina",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-14",
+      "time": "17:47",
+      "publishedAt": "2026-10-14T17:47:01.000Z",
+      "url": "https://www.gizmochina.com/2026/10/14/burgundy-iphone-18-pro-turns-red-and-nobody-knows-exactly-why/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/9lvwdd4gwmuh1-300x169.jpg?x96852",
+      "summary": "The rich, dark Burgundy finish on some iPhone 18 Pro and Pro Max units is apparently lightening up noticeably. Hands-on images highlight the color shift, and it’s hard to ignore.…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-93417e725f65",
+      "title": "竹本青：【iPhone Duo 维修预估费用公布：内屏损坏7998元，电池服务1898元】 日前，苹果中国官网公布iPho…",
+      "source": "竹本青",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-14",
+      "time": "17:29",
+      "publishedAt": "2026-10-14T17:29:36.000Z",
+      "url": "https://www.coolapk.com/feed/74362889",
+      "image": "http://image.coolapk.com/feed/2026/1015/01/4248714_4ded67cd_9183_145_317@1976x2634.jpg",
+      "summary": "【iPhone Duo 维修预估费用公布：内屏损坏7998元，电池服务1898元】 日前，苹果中国官网公布iPhone Duo的保外维修预估费用，覆盖多类损坏场景： ○ 表层损坏：398元 ○ 背面玻璃损坏：1598元 ○ 电池服务：1898元 ○ 后置相机损坏：1798元 ○ 外屏损坏：3198元 ○ 外屏和背面玻璃损坏：4298元 ○ 内屏损坏：799…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-6d9d2091b73a",
+      "title": "Play Store isn't just for apps anymore, and you might even find a better Galaxy S26 deal there",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-10-14",
+      "time": "16:25",
+      "publishedAt": "2026-10-14T16:25:48.000Z",
+      "url": "https://www.androidcentral.com/apps-software/google-play-store/play-store-has-a-new-shop-devices-option",
+      "image": "https://cdn.mos.cms.futurecdn.net/5bGn34kesYNpYY8YDgL4E5-1920-80.jpg",
+      "summary": "The Play Store now wants to sell you smartphones.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e65dd4479082",
+      "title": "iPhone Duo Compromises: Everything You Have to Give Up",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-14",
+      "time": "16:08",
+      "publishedAt": "2026-10-14T16:08:53.000Z",
+      "url": "https://www.macrumors.com/2026/10/14/iphone-duo-compromises/",
+      "image": "https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Compromises-Compared-to-iPhone-18-Pro-Feature.jpg",
+      "summary": "Apple's $1,999 iPhone Duo asks buyers to pay more for a folding screen while accepting almost 40 compromises compared with the iPhone 18 Pro and &zwnj;iPhone 18 Pro&zwnj; Max, spa…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f6e6c06e1700",
+      "title": "Galaxy S27 and S27 Plus will reportedly miss out on a key camera upgrade",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-14",
+      "time": "15:26",
+      "publishedAt": "2026-10-14T15:26:15.000Z",
+      "url": "https://www.androidauthority.com/galaxy-s27-selfie-camera-3723309/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-S26-on-a-table-showing-notifications-panel-scaled.jpg",
+      "summary": "They could be sticking with a Galaxy S23-era selfie cam.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-995193db3103",
+      "title": "竹本青：【努比亚AIOS研发总工 回应“151款应用拒自动操作”：跨应用生态不是智能体手机的全部】 10月14日，豆包手机…",
+      "source": "竹本青",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-14",
+      "time": "15:12",
+      "publishedAt": "2026-10-14T15:12:00.000Z",
+      "url": "https://www.coolapk.com/feed/74359979",
+      "image": "http://image.coolapk.com/feed/2026/1014/23/4248714_70d93649_0709_7789_505-livepic@1920x1080.jpg",
+      "summary": "【努比亚AIOS研发总工 回应“151款应用拒自动操作”：跨应用生态不是智能体手机的全部】 10月14日，豆包手机助手宣布，现将逐步放开第三方应用的屏幕自动化操作权限。据官网显示，微信、支付宝、腾讯系、阿里系等151款常用应用，目前均明确拒绝相关操作。 当日晚间，在努比亚NaviX Ultra首场进化直播中，AIOS研发总工刁亮作出回应。他认为跨应用生态解…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-067927301af3",
+      "title": "Samsung won't show my Galaxy S24 Ultra's battery health, so I found it in a hidden log",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-14",
+      "time": "15:00",
+      "publishedAt": "2026-10-14T15:00:10.000Z",
+      "url": "https://www.androidpolice.com/samsung-wont-show-galaxy-s24-ultras-battery-health-found-it-in-hidden-log/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/10/samsung-galaxy-s24-ultra-battery-health-indicator.jpg",
+      "summary": "It tracks the data, it just doesn't show you",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f3615e619241",
+      "title": "Apple reportedly gearing up for strong iPhone 18 sales",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-14",
+      "time": "14:59",
+      "publishedAt": "2026-10-14T14:59:39.000Z",
+      "url": "https://9to5mac.com/2026/10/14/apple-reportedly-gearing-up-for-strong-iphone-18-sales/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-18-mockup-blue.jpg?quality=82&strip=all&w=1600",
+      "summary": "While the iPhone 18 Pro is out, the entry-level model has been held back until early next year. That’s likely because the company wanted to maximize early production capacity and…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-4540d3b43bb3",
+      "title": "竹本青：？ #iPhoneDuo#",
+      "source": "竹本青",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-14",
+      "time": "14:43",
+      "publishedAt": "2026-10-14T14:43:34.000Z",
+      "url": "https://www.coolapk.com/feed/74359391",
+      "image": "http://image.coolapk.com/feed/2026/1014/22/4248714_79f6aab0_9013_1183_371@1439x2679.jpg",
+      "summary": "？ #iPhoneDuo#",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-90e0f9ebc37c",
+      "title": "苹果公布 iPhone Duo 折叠屏手机维修预估费用：内屏损坏 7998 元、电池服务 1898 元",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-14",
+      "time": "14:21",
+      "publishedAt": "2026-10-14T14:21:15.000Z",
+      "url": "https://www.ithome.com/1/013/117.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/68249555-5dc7-4deb-bfdd-a7867f30233e.jpg",
+      "summary": "IT之家 10 月 14 日消息，苹果在 2026 年秋季发布会上发布了旗下首款折叠屏手机 iPhone Duo，将于 10 月 16 日晚 8 点接受预购，10 月 23 日正式发售，售价 15,999 元起。 IT之家注意到，苹果官网现已公布了 iPhoneDuo 手机的维修预估费用。 表层损坏：398 元 背面玻璃损坏：1,598 元 电池服务：1,…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-09fee9127126",
+      "title": "Vivo X500E’s key specifications, front design revealed as launch nears",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-14",
+      "time": "14:19",
+      "publishedAt": "2026-10-14T14:19:19.000Z",
+      "url": "https://www.gizmochina.com/2026/10/14/vivo-x500e-specs-image-leak/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Vivo-X500e-front-design-278x300.jpg?x96852",
+      "summary": "Vivo appears to be preparing another smartphone for its X-series lineup. The upcoming Vivo X500e has surfaced on Google’s device database, offering an early look at its hardware a…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b0aa6f9655a7",
+      "title": "Redmi K100 tipped to cost around $490 with Snapdragon 8 Elite and 10,000mAh battery",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-14",
+      "time": "13:57",
+      "publishedAt": "2026-10-14T13:57:46.000Z",
+      "url": "https://www.gizmochina.com/2026/10/14/redmi-k100-price-tipped/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/REDMI-K100-Pro-Max-Review.mp4_20260824_172509.374-300x150.jpg?x96852",
+      "summary": "The forthcoming standard Redmi K100 could offer flagship-grade hardware at a competitive price. A new tip from Digital Chat Station sheds light on its potential pricing and hardwa…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fff23e1df6f7",
+      "title": "新老用户均可享：努比亚 NaviX Ultra 手机追加购机权益，加赠半年豆包标准版会员权益",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-14",
+      "time": "13:46",
+      "publishedAt": "2026-10-14T13:46:42.000Z",
+      "url": "https://www.ithome.com/1/013/109.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/0e4936a3-b24d-4cc3-adb6-963f699a43d4.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 14 日消息，在今晚的 努比亚 NaviX Ultra 首场进化直播中，努比亚手机官方宣布，将追加 NaviX Ultra 的购机权益， 新老用户均可享受 。 ▲ IT之家实拍：努比亚 NaviX Ultra 手机 据介绍，双十一（10.15-11.11）新购机的用户晒单即加赠半年豆包标准版会员权益， 而首月（9.16-10.14）购机…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5ce89c81310b",
+      "title": "Apple Reportedly Planning Large iPhone 18 Production Run",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-14",
+      "time": "13:42",
+      "publishedAt": "2026-10-14T13:42:29.000Z",
+      "url": "https://www.macrumors.com/2026/10/14/apple-reportedly-planning-iphone-18-production/",
+      "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-models.jpg",
+      "summary": "Apple is reportedly preparing a substantial production run for the standard iPhone 18 , following the iPhone 17 's success as the world's best-selling smartphone. In a new Weibo p…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-89174b214402",
       "title": "Samsung updates Galaxy A54 with October 2026 security update",
@@ -182,46 +482,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-136a7eee23df",
-      "title": "竹本青：努比亚NaviX Ultra 「内测实验室」计划开启，招募300人",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-14",
-      "time": "11:22",
-      "publishedAt": "2026-10-14T11:22:37.000Z",
-      "url": "https://www.coolapk.com/feed/74355238",
-      "image": "http://image.coolapk.com/feed/2026/1014/19/4248714_7d8738db_6956_0665_581@3200x1800.jpg",
-      "summary": "【努比亚NaviX Ultra 「内测实验室」计划开启，开放招募300人】 10月14日，努比亚手机启动NaviX Ultra「内测实验室」计划，开放招募300个资格，用户可抢先体验更强大的模型、记忆等功能。 #努比亚NaviXUltra# #今日热点#",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-efb1945adca2",
-      "title": "Galaxy S27 and S27+ to miss out on Galaxy S27 Pro and Ultra front camera upgrade",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-14",
-      "time": "10:03",
-      "publishedAt": "2026-10-14T10:03:55.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s27-plus-not-get-s27-ultra-upgraded-selfie-camera/",
-      "image": "",
-      "summary": "A few months ago, reports indicated that the Galaxy S27 series would receive an upgraded selfie camera. However, it now appears the standard Galaxy S27 and Galaxy S27+ will not ge…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-b197ca7d22b4",
       "title": "The iPhone 18 Pro’s new camera feature is a sneaky trap for Android brands",
       "source": "Android Authority",
@@ -237,46 +497,6 @@ window.phoneRadarAuto = {
       "summary": "We've been here before.",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1783a752d8db",
-      "title": "荣耀 MagicOS11 系统 10 月更新今晚推送，第二批内测机型报名通道重新开放",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-14",
-      "time": "10:00",
-      "publishedAt": "2026-10-14T10:00:05.000Z",
-      "url": "https://www.ithome.com/1/013/035.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/b398bc9b-1521-4d93-83a5-5c23a0f0ad28.jpg",
-      "summary": "IT之家 10 月 14 日消息，荣耀产品维护与升级 @荣耀小芳哥 今日发布推送预告，称 MagicOS11 系统 10 月更新将在今晚开启推送，同时第二批内测报名通道也会重新开放。 首批内测机型： 今晚 20 点开始，Magic V6、Magic8 系列等 17 款机型率先推送 10 月版本 第二批内测机型： Magic6 系列、500 系列等 20 款…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d01106670d09",
-      "title": "曝小米 REDMI K100 标准版手机将堆米系最大电池、Bose 双扬等配置，定位 3500 元档",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-14",
-      "time": "09:12",
-      "publishedAt": "2026-10-14T09:12:18.000Z",
-      "url": "https://www.ithome.com/1/012/972.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/7f48190d-01fb-4a51-b711-7119cee0fe0d.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 14 日消息，博主 @数码闲聊站 今日发文，爆料了小米 REDMI K100 标准版外围配置信息。他透露， 新机堆了米系最大电池、独显芯片、相对大马达、Bose 双扬 ，属于配置不搞花活的类型。 博主称，目前的行情，骁龙 8 至尊版处理器 + 12GB LPDDR5X + 256GB UFS4.1 这套组合光成本就已经干到了 3000…",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "自动抓取"
       ]
@@ -322,26 +542,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-f98d83c60362",
-      "title": "竹本青：优化超级小爱小白条识别文字能力，目前对比其他家，识别总会顿一下慢半拍，复制文本/验证码或者其他信息的时候好怪 以这…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-14",
-      "time": "08:18",
-      "publishedAt": "2026-10-14T08:18:31.000Z",
-      "url": "https://www.coolapk.com/feed/74351888",
-      "image": "http://image.coolapk.com/feed/2026/1014/16/4248714_1363963e_6261_232_855-livepic@1080x1440.jpg",
-      "summary": "优化超级小爱小白条识别文字能力，目前对比其他家，识别总会顿一下慢半拍，复制文本/验证码或者其他信息的时候好怪 以这个动图为例，有的时候正常，有的时候会顿一下才能够显示 #HyperOS4#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-f21615c8255d",
       "title": "I tested the first phone with triple 200MP cameras — and resolution isn’t the best part",
       "source": "Android Authority",
@@ -359,26 +559,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-31a52881e2ce",
-      "title": "竹本青：消息称REDMI K100标准版定位3500元档",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-14",
-      "time": "07:34",
-      "publishedAt": "2026-10-14T07:34:22.000Z",
-      "url": "https://www.coolapk.com/feed/74351067",
-      "image": "http://image.coolapk.com/feed/2026/1014/15/4248714_a8ab8df6_3261_6442_917@1271x590.jpg",
-      "summary": "【消息称REDMI K100标准版 定位3500元档：骁龙8E芯片+米系最大电池】 10月14日，据数码闲聊站爆料，目前骁龙8 Elite处理器+12GB LPDDR5X+256GB UFS4.1的硬件组合成本已接近3000元。 REDMI K100标准版 在该基础上升级外围，搭载米系最大电池、独显芯片、相对大尺寸马达以及Bose双扬。整机将定位3500元…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -622,8 +802,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-1dd018f8498e",
-      "title": "#荣耀Magic9系列开箱有礼# 差点信了黑子的邪，这影像也叫差？[疑问]这解析力强得一批好吧，色彩就是老华子RYYB那一套。#手机摄影# #数码日常#",
+      "id": "newsnow-04333e5cf6d8",
+      "title": "如何看待华为要求酷安关停安卓版与鸿蒙版不同步的特性？ #iPhone18ProMax# #小米18ProMax# #荣耀Magic9ProMax#",
       "source": "酷安热榜",
       "brand": "HONOR",
       "model": "HONOR 相关机型",
@@ -632,9 +812,9 @@ window.phoneRadarAuto = {
       "date": "2026-10-14",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74332077",
+      "url": "https://www.coolapk.com/feed/74353203",
       "image": "",
-      "summary": "#荣耀Magic9系列开箱有礼# 差点信了黑子的邪，这影像也叫差？[疑问]这解析力强得一批好吧，色彩就是老华子RYYB那一套。#手机摄影# #数码日常#",
+      "summary": "如何看待华为要求酷安关停安卓版与鸿蒙版不同步的特性？ #iPhone18ProMax# #小米18ProMax# #荣耀Magic9ProMax#",
       "tags": [
         "HONOR",
         "爆料",
@@ -642,28 +822,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-4417b2c720d8",
-      "title": "豆包手机助手第三方应用操作权限开放：腾讯系等拒绝",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-14",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74345834",
-      "image": "",
-      "summary": "豆包手机助手第三方应用操作权限开放：腾讯系等拒绝",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-0da3fb93b62a",
-      "title": "iPhoneDuo早鸟包不退款",
+      "id": "newsnow-ef8e8c3cde84",
+      "title": "iPhoneDuo维修价格出炉",
       "source": "微博热搜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -672,9 +832,9 @@ window.phoneRadarAuto = {
       "date": "2026-10-14",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=iPhoneDuo%E6%97%A9%E9%B8%9F%E5%8C%85%E4%B8%8D%E9%80%80%E6%AC%BE&t=31&band_rank=13&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23iPhoneDuo%E7%BB%B4%E4%BF%AE%E4%BB%B7%E6%A0%BC%E5%87%BA%E7%82%89%23&t=31&band_rank=10&Refer=top",
       "image": "",
-      "summary": "iPhoneDuo早鸟包不退款",
+      "summary": "iPhoneDuo维修价格出炉",
       "tags": [
         "iPhone",
         "爆料",
@@ -682,22 +842,22 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-685784a60816",
-      "title": "王星自曝在缅甸手机被拿走刷网贷，从法律角度看，被胁迫借下的网贷该还吗？",
-      "source": "知乎热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "市场报告",
-      "trust": "媒体汇总",
+      "id": "newsnow-3342d7b69807",
+      "title": "iPhoneDuo早鸟包重新上架",
+      "source": "微博热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
       "date": "2026-10-14",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2093416023558811798",
+      "url": "https://s.weibo.com/weibo?q=%23iPhoneDuo%E6%97%A9%E9%B8%9F%E5%8C%85%E9%87%8D%E6%96%B0%E4%B8%8A%E6%9E%B6%23&t=31&band_rank=24&Refer=top",
       "image": "",
-      "summary": "王星自曝在缅甸手机被拿走刷网贷，从法律角度看，被胁迫借下的网贷该还吗？",
+      "summary": "iPhoneDuo早鸟包重新上架",
       "tags": [
-        "行业",
-        "市场报告",
+        "iPhone",
+        "爆料",
         "NewsNow"
       ]
     },
@@ -715,26 +875,6 @@ window.phoneRadarAuto = {
       "url": "https://www.baidu.com/s?wd=iPhoneDuo%E5%B0%86%E6%98%AF%E6%9C%80%E9%9A%BE%E6%8A%A2%E7%9A%84%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA",
       "image": "",
       "summary": "iPhoneDuo将是最难抢的苹果手机",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-78ccecadaa63",
-      "title": "iPhoneDuo早鸟包不能退款不抵购机款",
-      "source": "百度热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-14",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=iPhoneDuo%E6%97%A9%E9%B8%9F%E5%8C%85%E4%B8%8D%E8%83%BD%E9%80%80%E6%AC%BE%E4%B8%8D%E6%8A%B5%E8%B4%AD%E6%9C%BA%E6%AC%BE",
-      "image": "",
-      "summary": "iPhoneDuo早鸟包不能退款不抵购机款",
       "tags": [
         "iPhone",
         "爆料",
@@ -942,26 +1082,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-945217bb4ad9",
-      "title": "Redmi quietly launches Note 17 Pro Refreshed Edition, but the changes are hard to find",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-13",
-      "time": "09:29",
-      "publishedAt": "2026-10-13T09:29:15.000Z",
-      "url": "https://www.gizmochina.com/2026/10/13/redmi-quietly-launches-note-17-pro-refreshed-edition-but-the-changes-are-hard-to-find/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Redmi-Note-17-Pro-Refreshed-Edition-Design-300x200.jpg?x96852",
-      "summary": "Redmi has launched a refreshed version of the Redmi Note 17 Pro in China; however, there’s not much new to write about. The phone comes in new colors and a different set of memory…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-d65cb4e27223",
       "title": "The iPhone Duo’s hinge cooling is the breakthrough Android foldables need",
       "source": "Android Authority",
@@ -977,46 +1097,6 @@ window.phoneRadarAuto = {
       "summary": "Android foldables typically do not use the hinge as part of the thermal dissipation layer.",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d8df9039234c",
-      "title": "OnePlus 16R tipped to bring back telephoto camera, feature Snapdragon 8 Elite Gen 5, 165Hz display",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-13",
-      "time": "08:12",
-      "publishedAt": "2026-10-13T08:12:27.000Z",
-      "url": "https://www.gizmochina.com/2026/10/13/oneplus-16r-tipped-to-bring-back-telephoto-camera-feature-snapdragon-8-elite-gen-5-165hz-display/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/4320-1800-1-300x169.jpg?x96852",
-      "summary": "OnePlus just launched its newest flagship in China, but a different model is already getting more attention for Indian buyers (and a few other markets). Fresh leaks suggest the On…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ceb413ce1d62",
-      "title": "OnePlus 16 sales cross 70,000 units within first hour",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-13",
-      "time": "07:53",
-      "publishedAt": "2026-10-13T07:53:49.000Z",
-      "url": "https://www.gizmochina.com/2026/10/13/oneplus-16-first-day-sales-report/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/OnePlus-16-featured-300x186.png?x96852",
-      "summary": "OnePlus has reported a strong start for its latest OnePlus 16 flagship smartphone in China. The company has shared its initial sales figures following the device’s retail debut. T…",
-      "tags": [
-        "OPPO",
         "爆料",
         "自动抓取"
       ]

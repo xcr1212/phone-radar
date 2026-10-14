@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-10-14T13:42:28.386Z",
+  "updatedAt": "2026-10-14T18:36:48.441Z",
   "issueDate": "2026-10-14",
   "issue": "VOL.261014",
   "title": "手机情报日报",
-  "intro": "今日筛出 17 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、2 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 15 条重点，其中 8 条是重点爆料，包含 13 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 17,
-    "iphone": 8,
+    "total": 15,
+    "iphone": 13,
     "leaks": 8,
-    "official": 2,
+    "official": 1,
     "specs": 0
   },
   "sections": [
@@ -17,6 +17,31 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-90e0f9ebc37c",
+          "title": "苹果公布 iPhone Duo 折叠屏手机维修预估费用：内屏损坏 7998 元、电池服务 1898 元",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-14",
+          "time": "14:21",
+          "publishedAt": "2026-10-14T14:21:15.000Z",
+          "url": "https://www.ithome.com/1/013/117.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/68249555-5dc7-4deb-bfdd-a7867f30233e.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 10 月 14 日消息，苹果在 2026 年秋季发布会上发布了旗下首款折叠屏手机 iPhone Duo，将于 10 月 16 日晚 8 点接受预购，10 月 23 日正式发售，售价 15,999 元起。 IT之家注意到，苹果官网现已公布了 iPhoneDuo 手机的维修预估费用。 表层损坏：398 元 背面玻璃损坏：1,598 元 电池服务：1,…",
+          "detail": "IT之家 10 月 14 日消息，苹果在 2026 年秋季发布会上发布了旗下首款折叠屏手机 iPhone Duo，将于 10 月 16 日晚 8 点接受预购，10 月 23 日正式发售，售价 15,999 元起。 IT之家注意到，苹果官网现已公布了 iPhoneDuo 手机的维修预估费用。 表层损坏：398 元 背面玻璃损坏：1,598 元 电池服务：1,…",
+          "keyPoints": [
+            "屏幕形态",
+            "电池 / 充电",
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-7103114265c2",
           "title": "技嘉 Z790/B760/H610 全系主板获 BIOS 更新：支持英特尔新一代 LGA1700 处理器 Raptor Lake Next",
@@ -64,6 +89,99 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "coolapk-user-93417e725f65",
+          "title": "竹本青：【iPhone Duo 维修预估费用公布：内屏损坏7998元，电池服务1898元】 日前，苹果中国官网公布iPho…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-10-14",
+          "time": "17:29",
+          "publishedAt": "2026-10-14T17:29:36.000Z",
+          "url": "https://www.coolapk.com/feed/74362889",
+          "image": "http://image.coolapk.com/feed/2026/1015/01/4248714_4ded67cd_9183_145_317@1976x2634.jpg",
+          "verdict": "先看",
+          "takeaway": "【iPhone Duo 维修预估费用公布：内屏损坏7998元，电池服务1898元】 日前，苹果中国官网公布iPhone Duo的保外维修预估费用，覆盖多类损坏场景： ○ 表层损坏：398元 ○ 背面玻璃损坏：1598元 ○ 电池服务：1898元 ○ 后置相机损坏：1798元 ○ 外屏损坏：3198元 ○ 外屏和背面玻璃损坏：4298元 ○ 内屏损坏：799…",
+          "detail": "【iPhone Duo 维修预估费用公布：内屏损坏7998元，电池服务1898元】 日前，苹果中国官网公布iPhone Duo的保外维修预估费用，覆盖多类损坏场景： ○ 表层损坏：398元 ○ 背面玻璃损坏：1598元 ○ 电池服务：1898元 ○ 后置相机损坏：1798元 ○ 外屏损坏：3198元 ○ 外屏和背面玻璃损坏：4298元 ○ 内屏损坏：799…",
+          "keyPoints": [
+            "影像硬件",
+            "电池 / 充电"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-995193db3103",
+          "title": "竹本青：【努比亚AIOS研发总工 回应“151款应用拒自动操作”：跨应用生态不是智能体手机的全部】 10月14日，豆包手机…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-10-14",
+          "time": "15:12",
+          "publishedAt": "2026-10-14T15:12:00.000Z",
+          "url": "https://www.coolapk.com/feed/74359979",
+          "image": "http://image.coolapk.com/feed/2026/1014/23/4248714_70d93649_0709_7789_505-livepic@1920x1080.jpg",
+          "verdict": "先看",
+          "takeaway": "【努比亚AIOS研发总工 回应“151款应用拒自动操作”：跨应用生态不是智能体手机的全部】 10月14日，豆包手机助手宣布，现将逐步放开第三方应用的屏幕自动化操作权限。据官网显示，微信、支付宝、腾讯系、阿里系等151款常用应用，目前均明确拒绝相关操作。 当日晚间，在努比亚NaviX Ultra首场进化直播中，AIOS研发总工刁亮作出回应。他认为跨应用生态解…",
+          "detail": "【努比亚AIOS研发总工 回应“151款应用拒自动操作”：跨应用生态不是智能体手机的全部】 10月14日，豆包手机助手宣布，现将逐步放开第三方应用的屏幕自动化操作权限。据官网显示，微信、支付宝、腾讯系、阿里系等151款常用应用，目前均明确拒绝相关操作。 当日晚间，在努比亚NaviX Ultra首场进化直播中，AIOS研发总工刁亮作出回应。他认为跨应用生态解…",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-7d7268bd0c69",
+          "title": "iPhone 屏幕规格相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-14",
+          "time": "18:32",
+          "publishedAt": "2026-10-14T18:32:25.000Z",
+          "url": "https://www.macrumors.com/2026/10/14/cases-protectors-iphone-duo/",
+          "image": "https://images.macrumors.com/article-new/2026/09/iphone-18-duo-cases-new-blue.jpeg",
+          "verdict": "先看",
+          "takeaway": "iPhone 屏幕规格相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-e65dd4479082",
+          "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-14",
+          "time": "16:08",
+          "publishedAt": "2026-10-14T16:08:53.000Z",
+          "url": "https://www.macrumors.com/2026/10/14/iphone-duo-compromises/",
+          "image": "https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Compromises-Compared-to-iPhone-18-Pro-Feature.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "newsnow-10c008a7f9b2",
           "title": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
           "originalTitle": "",
@@ -85,128 +203,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-93913ae39f0c",
-          "title": "iQOO Neo12 手机官宣“十月底见”：pTSF 技术 2K 185Hz 超冠屏、第五代骁龙 8 至尊版芯片",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-14",
-          "time": "12:51",
-          "publishedAt": "2026-10-14T12:51:35.000Z",
-          "url": "https://www.ithome.com/1/013/093.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/8d660d06-c0a1-4a69-97cd-f7debd08234c.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 10 月 14 日消息，在今天的维信诺 × iQOO × 清华大学屏幕技术沟通会上，iQOO 产品副总裁罗峰现场宣布， iQOO Neo12“十月底见” （PPT 显示十月见）。 据介绍，iQOO Neo12 手机将行业首发搭载 pTSF 技术的 2K 185Hz 超冠屏、行业首发「天空之镜」发光材料、行业首发 2K 185Hz 高性能驱动芯片。…",
-          "detail": "IT之家 10 月 14 日消息，在今天的维信诺 × iQOO × 清华大学屏幕技术沟通会上，iQOO 产品副总裁罗峰现场宣布， iQOO Neo12“十月底见” （PPT 显示十月见）。 据介绍，iQOO Neo12 手机将行业首发搭载 pTSF 技术的 2K 185Hz 超冠屏、行业首发「天空之镜」发光材料、行业首发 2K 185Hz 高性能驱动芯片。…",
-          "keyPoints": [
-            "屏幕形态",
-            "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-d01106670d09",
-          "title": "曝小米 REDMI K100 标准版手机将堆米系最大电池、Bose 双扬等配置，定位 3500 元档",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-14",
-          "time": "09:12",
-          "publishedAt": "2026-10-14T09:12:18.000Z",
-          "url": "https://www.ithome.com/1/012/972.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/7f48190d-01fb-4a51-b711-7119cee0fe0d.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 10 月 14 日消息，博主 @数码闲聊站 今日发文，爆料了小米 REDMI K100 标准版外围配置信息。他透露， 新机堆了米系最大电池、独显芯片、相对大马达、Bose 双扬 ，属于配置不搞花活的类型。 博主称，目前的行情，骁龙 8 至尊版处理器 + 12GB LPDDR5X + 256GB UFS4.1 这套组合光成本就已经干到了 3000…",
-          "detail": "IT之家 10 月 14 日消息，博主 @数码闲聊站 今日发文，爆料了小米 REDMI K100 标准版外围配置信息。他透露， 新机堆了米系最大电池、独显芯片、相对大马达、Bose 双扬 ，属于配置不搞花活的类型。 博主称，目前的行情，骁龙 8 至尊版处理器 + 12GB LPDDR5X + 256GB UFS4.1 这套组合光成本就已经干到了 3000…",
-          "keyPoints": [
-            "电池 / 充电",
-            "芯片 / 性能",
-            "成本 / 价格",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-4834600e4379",
-          "title": "数码闲聊站：iQOO Neo12屏幕提前摸到了👀 维信诺2K+185Hz LTPS，肉眼…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-10-14",
-          "time": "12:42",
-          "publishedAt": "2026-10-14T12:42:07.000Z",
-          "url": "https://weibo.com/6048569942/RmFlTsuFB",
-          "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ii25zaourcj635c2dckjm08.jpg",
-          "verdict": "先看",
-          "takeaway": "iQOO Neo12屏幕提前摸到了👀 维信诺2K+185Hz LTPS，肉眼看起来画质精细度不错，感官流畅度直接升了一档，看着很舒服。这也离不开iQOO和维信诺定制的驱动芯片，国产先进工艺，功耗差不多同传统1.5K屏。 首发维信诺×清华联合研发的「天空之镜」 发光材料，采用了第四代发光技术 pTSF，打破了屏幕高发光效率，长寿命，高色彩纯净度的不可能三角…",
-          "detail": "iQOO Neo12屏幕提前摸到了👀 维信诺2K+185Hz LTPS，肉眼看起来画质精细度不错，感官流畅度直接升了一档，看着很舒服。这也离不开iQOO和维信诺定制的驱动芯片，国产先进工艺，功耗差不多同传统1.5K屏。 首发维信诺×清华联合研发的「天空之镜」 发光材料，采用了第四代发光技术 pTSF，打破了屏幕高发光效率，长寿命，高色彩纯净度的不可能三角…",
-          "keyPoints": [
-            "屏幕形态",
-            "芯片 / 性能",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-1dd018f8498e",
-          "title": "#荣耀Magic9系列开箱有礼# 差点信了黑子的邪，这影像也叫差？[疑问]这解析力强得一批好吧，色彩就是老华子RYYB那一套。#手机摄影# #数码日常#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-10-14",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/74332077",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "#荣耀Magic9系列开箱有礼# 差点信了黑子的邪，这影像也叫差？[疑问]这解析力强得一批好吧，色彩就是老华子RYYB那一套。#手机摄影# #数码日常#",
-          "detail": "#荣耀Magic9系列开箱有礼# 差点信了黑子的邪，这影像也叫差？[疑问]这解析力强得一批好吧，色彩就是老华子RYYB那一套。#手机摄影# #数码日常#",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-ff7dad86e85a",
-          "title": "竹本青：iQOO Neo12 本月底见：首发维信诺2K 185Hz，骁龙8E5+主动风冷",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-10-14",
-          "time": "11:44",
-          "publishedAt": "2026-10-14T11:44:52.000Z",
-          "url": "https://www.coolapk.com/feed/74355648",
-          "image": "http://image.coolapk.com/feed/2026/1014/19/4248714_c7fcd282_8291_2977_941@3200x1800.jpg",
-          "verdict": "先看",
-          "takeaway": "【iQOO Neo12 官宣本月底见：首发维信诺2K 185Hz超冠屏，骁龙8E5+主动风冷】 ● 屏幕： 维信诺2K 185Hz超冠屏 首发 pTSF技术 首发「天空之镜」发光材料 首发高性能驱动芯片 全屏峰值2200nits 圆偏振光显示2.0 iQOO 16同款Q-flex技术 功耗比Neo11降低27% ● 性能： 骁龙8 Elite Gen5芯片…",
-          "detail": "【iQOO Neo12 官宣本月底见：首发维信诺2K 185Hz超冠屏，骁龙8E5+主动风冷】 ● 屏幕： 维信诺2K 185Hz超冠屏 首发 pTSF技术 首发「天空之镜」发光材料 首发高性能驱动芯片 全屏峰值2200nits 圆偏振光显示2.0 iQOO 16同款Q-flex技术 功耗比Neo11降低27% ● 性能： 骁龙8 Elite Gen5芯片…",
-          "keyPoints": [
-            "屏幕形态",
-            "芯片 / 性能"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -216,27 +212,27 @@ window.phoneRadarDaily = {
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
         {
-          "id": "auto-f88c473bc838",
-          "title": "iPhone 相关消息",
+          "id": "coolapk-user-4540d3b43bb3",
+          "title": "竹本青：？ #iPhoneDuo#",
           "originalTitle": "",
-          "source": "Apple Newsroom",
+          "source": "竹本青",
           "brand": "iPhone",
-          "type": "官方",
-          "trust": "官方确认",
+          "type": "爆料",
+          "trust": "高可信爆料",
           "date": "2026-10-14",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.apple.com/newsroom/2026/09/celebrating-what-holds-us-on-iphone-18-pro/",
-          "image": "",
+          "time": "14:43",
+          "publishedAt": "2026-10-14T14:43:34.000Z",
+          "url": "https://www.coolapk.com/feed/74359391",
+          "image": "http://image.coolapk.com/feed/2026/1014/22/4248714_79f6aab0_9013_1183_371@1439x2679.jpg",
           "verdict": "先看",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "takeaway": "？ #iPhoneDuo#",
+          "detail": "？ #iPhoneDuo#",
           "keyPoints": [
-            "影像硬件"
+            "爆料"
           ],
-          "confidence": "官方内容，可直接作为已确认信息记录。",
-          "impact": "影响拍照体验，买旗舰机时值得关注。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
           "id": "coolapk-user-bf5952ef51de",
@@ -333,108 +329,55 @@ window.phoneRadarDaily = {
       ]
     },
     {
-      "id": "review",
-      "title": "评测与体验",
-      "hint": "买前再细看，平时扫一眼即可。",
-      "items": [
-        {
-          "id": "auto-95aaaba8c8bf",
-          "title": "不是水桶机，却想颠覆行业：一台「模型原生」手机的疯狂野心",
-          "originalTitle": "",
-          "source": "爱范儿",
-          "brand": "行业",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-10-13",
-          "time": "13:04",
-          "publishedAt": "2026-10-13T13:04:54.000Z",
-          "url": "https://www.ifanr.com/1684008?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "image": "https://s3.ifanr.com/wp-content/uploads/2026/10/lark2pad-1791894406930-33.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "把「塑造手机」的权利第一次交到用户手上",
-          "detail": "把「塑造手机」的权利第一次交到用户手上",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
-        {
-          "id": "auto-35702604071d",
-          "title": "2026 年，日本翻盖手机终于过气了",
-          "originalTitle": "",
-          "source": "爱范儿",
-          "brand": "行业",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-10-13",
-          "time": "04:30",
-          "publishedAt": "2026-10-13T04:30:03.000Z",
-          "url": "https://www.ifanr.com/1683941?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "image": "https://s3.ifanr.com/wp-content/uploads/2026/10/keitai-scaled.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "一个时代，啪嗒合上。",
-          "detail": "一个时代，啪嗒合上。",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        }
-      ]
-    },
-    {
       "id": "market",
       "title": "行业趋势",
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "coolapk-user-dd23179dea2f",
-          "title": "JSCHEN小小狐：IDC 公布 2026 年第三季度中国手机市场数据",
+          "id": "newsnow-04333e5cf6d8",
+          "title": "如何看待华为要求酷安关停安卓版与鸿蒙版不同步的特性？ #iPhone18ProMax# #小米18ProMax# #荣耀Magic9ProMax#",
           "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "Huawei",
+          "source": "酷安热榜",
+          "brand": "HONOR",
           "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-10-13",
-          "time": "07:53",
-          "publishedAt": "2026-10-13T07:53:34.000Z",
-          "url": "https://www.coolapk.com/feed/74331577",
-          "image": "http://image.coolapk.com/feed/2026/1013/15/4702274_0741f204_8013_1552_611@997x484.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "『IDC 公布 2026 年第三季度中国手机市场数据』 市场份额排名 ① 华为：21.1%，同比 +17.3%，环比 -17.6% ② 苹果：17.8%，同比 -4.3%，环比 -15.1%： ③ OPPO：15.5%，同比 -17.6%，环比 -15.5% ④ vivo：15.3%，同比 -24.9%，环比 -16.1% ⑤ 小米：13.8%，同比 -2…",
-          "detail": "『IDC 公布 2026 年第三季度中国手机市场数据』 市场份额排名 ① 华为：21.1%，同比 +17.3%，环比 -17.6% ② 苹果：17.8%，同比 -4.3%，环比 -15.1%： ③ OPPO：15.5%，同比 -17.6%，环比 -15.5% ④ vivo：15.3%，同比 -24.9%，环比 -16.1% ⑤ 小米：13.8%，同比 -2…",
+          "trust": "高关注爆料源",
+          "date": "2026-10-14",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/74353203",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "如何看待华为要求酷安关停安卓版与鸿蒙版不同步的特性？ #iPhone18ProMax# #小米18ProMax# #荣耀Magic9ProMax#",
+          "detail": "如何看待华为要求酷安关停安卓版与鸿蒙版不同步的特性？ #iPhone18ProMax# #小米18ProMax# #荣耀Magic9ProMax#",
           "keyPoints": [
             "爆料"
           ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "coolapk-user-5a96b951877a",
-          "title": "JSCHEN小小狐：李杰公布一加 16 首销战报：销量突破 7 万台",
+          "id": "auto-fff23e1df6f7",
+          "title": "新老用户均可享：努比亚 NaviX Ultra 手机追加购机权益，加赠半年豆包标准版会员权益",
           "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "OPPO",
+          "source": "IT之家",
+          "brand": "行业",
           "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-10-13",
-          "time": "04:45",
-          "publishedAt": "2026-10-13T04:45:12.000Z",
-          "url": "https://www.coolapk.com/feed/74328188",
-          "image": "http://image.coolapk.com/feed/2026/1013/12/4702274_5000f6e9_6711_2765_181@1440x1149.jpg",
+          "trust": "媒体汇总",
+          "date": "2026-10-14",
+          "time": "13:46",
+          "publishedAt": "2026-10-14T13:46:42.000Z",
+          "url": "https://www.ithome.com/1/013/109.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/0e4936a3-b24d-4cc3-adb6-963f699a43d4.jpg?x-bce-process=image/format,f_auto",
           "verdict": "扫一眼",
-          "takeaway": "『李杰公布一加 16 首销战报：销量突破 7 万台』 10 月 13 日，一加中国区总裁 李杰 发博宣布，截至当日 11:00，一加 16 首销销量已突破 7 万台，成为今年安卓旗舰首销同期销量 Top 1，并称其“实现了行业罕见的大幅上涨”。 据悉，一加 16 于 10 月 13 日 10:00 正式开售，搭载第六代骁龙 8 超级至尊版及自研电竞三芯；采…",
-          "detail": "『李杰公布一加 16 首销战报：销量突破 7 万台』 10 月 13 日，一加中国区总裁 李杰 发博宣布，截至当日 11:00，一加 16 首销销量已突破 7 万台，成为今年安卓旗舰首销同期销量 Top 1，并称其“实现了行业罕见的大幅上涨”。 据悉，一加 16 于 10 月 13 日 10:00 正式开售，搭载第六代骁龙 8 超级至尊版及自研电竞三芯；采…",
+          "takeaway": "IT之家 10 月 14 日消息，在今晚的 努比亚 NaviX Ultra 首场进化直播中，努比亚手机官方宣布，将追加 NaviX Ultra 的购机权益， 新老用户均可享受 。 ▲ IT之家实拍：努比亚 NaviX Ultra 手机 据介绍，双十一（10.15-11.11）新购机的用户晒单即加赠半年豆包标准版会员权益， 而首月（9.16-10.14）购机…",
+          "detail": "IT之家 10 月 14 日消息，在今晚的 努比亚 NaviX Ultra 首场进化直播中，努比亚手机官方宣布，将追加 NaviX Ultra 的购机权益， 新老用户均可享受 。 ▲ IT之家实拍：努比亚 NaviX Ultra 手机 据介绍，双十一（10.15-11.11）新购机的用户晒单即加赠半年豆包标准版会员权益， 而首月（9.16-10.14）购机…",
           "keyPoints": [
             "爆料"
           ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         }
       ]
     }
