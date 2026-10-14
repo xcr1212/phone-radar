@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-10-13T21:13:49.605Z",
-  "issueDate": "2026-10-13",
-  "issue": "VOL.261013",
+  "updatedAt": "2026-10-14T01:12:37.861Z",
+  "issueDate": "2026-10-14",
+  "issue": "VOL.261014",
   "title": "手机情报日报",
-  "intro": "今日筛出 19 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 22 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、2 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 19,
-    "iphone": 6,
+    "total": 22,
+    "iphone": 7,
     "leaks": 8,
-    "official": 1,
+    "official": 2,
     "specs": 0
   },
   "sections": [
@@ -18,14 +18,14 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "newsnow-c0cc870492b5",
+          "id": "newsnow-10c008a7f9b2",
           "title": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
           "originalTitle": "",
           "source": "少数派热榜",
           "brand": "iPhone",
           "type": "评测",
           "trust": "媒体汇总",
-          "date": "2026-10-13",
+          "date": "2026-10-14",
           "time": "",
           "publishedAt": "",
           "url": "https://sspai.com/post/114972",
@@ -41,61 +41,14 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-80a614ac349f",
-          "title": "iPhone 相关消息",
-          "originalTitle": "",
-          "source": "9to5Mac",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-12",
-          "time": "14:53",
-          "publishedAt": "2026-10-12T14:53:38.000Z",
-          "url": "https://9to5mac.com/2026/10/12/apple-has-reportedly-increased-its-iphone-duo-orders-by-30/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-night-sky-front-back.jpg?quality=82&strip=all&w=1600",
-          "verdict": "先看",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-988c957e9cc8",
-          "title": "阶跃终端首款大模型原生智能体手机 STEPX Neo 先行版发布：骁龙 8 系芯片，全栈价 3999 元起",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-13",
-          "time": "12:18",
-          "publishedAt": "2026-10-13T12:18:55.000Z",
-          "url": "https://www.ithome.com/1/012/556.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/16a74b51-3eb5-4a14-9608-ed9bb0803f1c.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 10 月 13 日消息，阶跃终端首款大模型原生智能体手机 STEPX Neo 先行版今晚正式发布，搭载骁龙 8 系芯片，采用 16GB+256GB 规格方案，并提供碳黑、硅银两种配色，软硬模三位一体 全栈价（包含 STEPX Neo 手机本体、StepAOS+Step Studio、Step 系列模型） 3999 元 。 新机今日开启预售，将在…",
-          "detail": "IT之家 10 月 13 日消息，阶跃终端首款大模型原生智能体手机 STEPX Neo 先行版今晚正式发布，搭载骁龙 8 系芯片，采用 16GB+256GB 规格方案，并提供碳黑、硅银两种配色，软硬模三位一体 全栈价（包含 STEPX Neo 手机本体、StepAOS+Step Studio、Step 系列模型） 3999 元 。 新机今日开启预售，将在…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-d66d5ace8206",
+          "id": "newsnow-c8a2bf5e73b1",
           "title": "兄弟们 我要退货了 还是用回我的一加12 这代处理器确实不咋稳定 手机一直温温的 165刷新率确实可以 手感不是那么太好 请原谅我！",
           "originalTitle": "",
           "source": "酷安热榜",
           "brand": "OPPO",
           "type": "爆料",
           "trust": "高关注爆料源",
-          "date": "2026-10-13",
+          "date": "2026-10-14",
           "time": "",
           "publishedAt": "",
           "url": "https://www.coolapk.com/feed/74322896",
@@ -107,6 +60,32 @@ window.phoneRadarDaily = {
             "芯片 / 性能"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-209142216fd5",
+          "title": "竹本青：【消息称REDMI K100 标准版已入网：骁龙8E处理器，万级电池+100W快充】 ○ 骁龙8 Elite处理器…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-10-14",
+          "time": "01:06",
+          "publishedAt": "2026-10-14T01:06:08.000Z",
+          "url": "https://www.coolapk.com/feed/74344255",
+          "image": "http://image.coolapk.com/feed/2026/1014/09/4248714_2cbaea31_9967_4448_480@1438x768.jpg",
+          "verdict": "先看",
+          "takeaway": "【消息称REDMI K100 标准版已入网：骁龙8E处理器，万级电池+100W快充】 ○ 骁龙8 Elite处理器 ○ 1.5K 超高刷大直屏 ○ 万级电池+100W快充 ○ 对称双扬声器 ○ 相对大尺寸马达 ○ 3D超声波指纹 ○ IP68防尘防水 #今日热点# #HyperOS4#",
+          "detail": "【消息称REDMI K100 标准版已入网：骁龙8E处理器，万级电池+100W快充】 ○ 骁龙8 Elite处理器 ○ 1.5K 超高刷大直屏 ○ 万级电池+100W快充 ○ 对称双扬声器 ○ 相对大尺寸马达 ○ 3D超声波指纹 ○ IP68防尘防水 #今日热点# #HyperOS4#",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "屏幕形态",
+            "电池 / 充电",
+            "芯片 / 性能"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -135,48 +114,27 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "coolapk-user-90f3c9ba6947",
-          "title": "竹本青：泰讯认领：荣耀Magic9系列摄影大师套装、200/500mm增距镜",
+          "id": "weibo-f77e46f3fb23",
+          "title": "数码闲聊站：红米K100标准版入网了，支持100W快充，你们对这台性能机有何期待？米系最大…",
           "originalTitle": "",
-          "source": "竹本青",
-          "brand": "HONOR",
+          "source": "数码闲聊站",
+          "brand": "行业",
           "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-10-13",
-          "time": "09:36",
-          "publishedAt": "2026-10-13T09:36:17.000Z",
-          "url": "https://www.coolapk.com/feed/74333626",
-          "image": "http://image.coolapk.com/feed/2026/1013/17/4248714_d241e0ad_4174_8129_255@1440x1920.jpg",
+          "trust": "高关注爆料源",
+          "date": "2026-10-14",
+          "time": "01:00",
+          "publishedAt": "2026-10-14T01:00:45.000Z",
+          "url": "https://weibo.com/6048569942/RmALd4lCT",
+          "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ii1lqyh86kj30oy082gom.jpg",
           "verdict": "先看",
-          "takeaway": "【泰讯认领：荣耀Magic9系列摄影大师套装、200/500mm增距镜】 10月13日，荣耀生态合作伙伴泰迅（Telesin）发文认领配件，包含Magic9系列摄影大师套装，以及200mm、500mm两款增距镜。 泰讯表示，上述配件深度适配荣耀原生系统，可拓展手机长焦拍摄能力。未来将持续探索移动影像创作相关产品。 #今日热点# #荣耀Magic9ProMa…",
-          "detail": "【泰讯认领：荣耀Magic9系列摄影大师套装、200/500mm增距镜】 10月13日，荣耀生态合作伙伴泰迅（Telesin）发文认领配件，包含Magic9系列摄影大师套装，以及200mm、500mm两款增距镜。 泰讯表示，上述配件深度适配荣耀原生系统，可拓展手机长焦拍摄能力。未来将持续探索移动影像创作相关产品。 #今日热点# #荣耀Magic9ProMa…",
+          "takeaway": "红米K100标准版入网了，支持100W快充，你们对这台性能机有何期待？米系最大容量电池？超高刷直屏？更均衡外围配套？快了快了[doge]",
+          "detail": "红米K100标准版入网了，支持100W快充，你们对这台性能机有何期待？米系最大容量电池？超高刷直屏？更均衡外围配套？快了快了[doge]",
           "keyPoints": [
-            "影像硬件"
+            "屏幕形态",
+            "电池 / 充电",
+            "爆料来源"
           ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-83ca943f4b48",
-          "title": "JSCHEN小小狐：『一加 16 发布：5999 元起 / 首销 5699 元起』 12GB + 256GB —— 5999 元（首销…",
-          "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-10-12",
-          "time": "12:06",
-          "publishedAt": "2026-10-12T12:06:22.000Z",
-          "url": "https://www.coolapk.com/feed/74315330",
-          "image": "http://image.coolapk.com/feed/2026/1012/20/4702274_c57b22cb_6702_88_365@3000x2001.jpg",
-          "verdict": "先看",
-          "takeaway": "『一加 16 发布：5999 元起 / 首销 5699 元起』 12GB + 256GB —— 5999 元（首销 5699） 12GB + 512GB —— 6799 元（首销 6499） 16GB + 512GB —— 7499 元（首销 7199） 16GB + 1TB —— 8499 元（首销 8199） ◇ 外观 明日星光、黑暗森林、火星杰作（玻…",
-          "detail": "『一加 16 发布：5999 元起 / 首销 5699 元起』 12GB + 256GB —— 5999 元（首销 5699） 12GB + 512GB —— 6799 元（首销 6499） 16GB + 512GB —— 7499 元（首销 7199） 16GB + 1TB —— 8499 元（首销 8199） ◇ 外观 明日星光、黑暗森林、火星杰作（玻…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -203,6 +161,52 @@ window.phoneRadarDaily = {
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-371894da657a",
+          "title": "数码闲聊站：独家信息：之前说过各家均有评估阔直板手机，最新信息是大概率会做，预估档期在20…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-10-13",
+          "time": "01:07",
+          "publishedAt": "2026-10-13T01:07:38.000Z",
+          "url": "https://weibo.com/6048569942/RmrnvmJQl",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "独家信息，之前说过各家均有评估阔直板手机，最新信息是大概率会做，预估档期在2027H2～ 目前项目还在早期阶段，目前网传信息是完全失真，过几个月有确切消息我再来更新嗷",
+          "detail": "独家信息，之前说过各家均有评估阔直板手机，最新信息是大概率会做，预估档期在2027H2～ 目前项目还在早期阶段，目前网传信息是完全失真，过几个月有确切消息我再来更新嗷",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-9963443ed827",
+          "title": "vivo X500 Pro Max 影像漫谈：当视频创作像拍照一样轻巧",
+          "originalTitle": "",
+          "source": "少数派热榜",
+          "brand": "vivo",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-10-14",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/115456",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "vivo X500 Pro Max 影像漫谈：当视频创作像拍照一样轻巧",
+          "detail": "vivo X500 Pro Max 影像漫谈：当视频创作像拍照一样轻巧",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -212,6 +216,52 @@ window.phoneRadarDaily = {
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
         {
+          "id": "auto-f88c473bc838",
+          "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "Apple Newsroom",
+          "brand": "iPhone",
+          "type": "官方",
+          "trust": "官方确认",
+          "date": "2026-10-14",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.apple.com/newsroom/2026/09/celebrating-what-holds-us-on-iphone-18-pro/",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "官方内容，可直接作为已确认信息记录。",
+          "impact": "影响拍照体验，买旗舰机时值得关注。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
+          "id": "auto-e1af063a354a",
+          "title": "无 AppleCare 维修约占新机价 93%：苹果公布智能家居中枢 HomeView 维修费用",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-14",
+          "time": "00:54",
+          "publishedAt": "2026-10-14T00:54:10.000Z",
+          "url": "https://www.ithome.com/1/012/657.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/87ba6837-3b49-415c-a99a-435c470f0d53.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 10 月 14 日消息，苹果美国官网公布新款 HomeView 智能家居中枢维修价格， 在没有购买 AppleCare 保障的情况下，“其他损坏”服务费为 279 美元 （IT之家注：现汇率约合 1,871 元人民币） ，接近 299 美元 （现汇率约合 2,005 元人民币） 的整机售价 ；而 AppleCare 用户意外损坏服务费为 39 美…",
+          "detail": "IT之家 10 月 14 日消息，苹果美国官网公布新款 HomeView 智能家居中枢维修价格， 在没有购买 AppleCare 保障的情况下，“其他损坏”服务费为 279 美元 （IT之家注：现汇率约合 1,871 元人民币） ，接近 299 美元 （现汇率约合 2,005 元人民币） 的整机售价 ；而 AppleCare 用户意外损坏服务费为 39 美…",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响购买预算，值得先看。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
           "id": "auto-728bbee10ddb",
           "title": "iPhone 发布 / 上市相关消息",
           "originalTitle": "",
@@ -219,7 +269,7 @@ window.phoneRadarDaily = {
           "brand": "iPhone",
           "type": "官方",
           "trust": "官方确认",
-          "date": "2026-10-13",
+          "date": "2026-10-14",
           "time": "",
           "publishedAt": "",
           "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
@@ -232,6 +282,52 @@ window.phoneRadarDaily = {
           ],
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-54c3db85d063",
+          "title": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验",
+          "originalTitle": "",
+          "source": "少数派热榜",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-10-14",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/115308",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验",
+          "detail": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-024164480f8b",
+          "title": "iPhone Duo：苹果，终究还是对强迫症下手了",
+          "originalTitle": "",
+          "source": "少数派热榜",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-10-14",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/115282",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "iPhone Duo：苹果，终究还是对强迫症下手了",
+          "detail": "iPhone Duo：苹果，终究还是对强迫症下手了",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
@@ -256,52 +352,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-04fcda67e9b9",
-          "title": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-10-13",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/115308",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验",
-          "detail": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-4ce32cb33910",
-          "title": "iPhone Duo：苹果，终究还是对强迫症下手了",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-10-13",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/115282",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "iPhone Duo：苹果，终究还是对强迫症下手了",
-          "detail": "iPhone Duo：苹果，终究还是对强迫症下手了",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -311,27 +361,27 @@ window.phoneRadarDaily = {
       "hint": "能直接更新到参数库。",
       "items": [
         {
-          "id": "auto-8712e2257737",
-          "title": "德国 16 岁少女疑遭机器人骚扰：相关过程被直播，遥控嫌疑人手机已被警方扣押",
+          "id": "auto-67b6135b94d3",
+          "title": "OPPO 电池 / 充电相关消息",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
+          "source": "9to5Google",
+          "brand": "OPPO",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-10-13",
-          "time": "11:26",
-          "publishedAt": "2026-10-13T11:26:41.000Z",
-          "url": "https://www.ithome.com/1/012/544.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/9d6d6106-37ec-4a04-a8e1-d532d22dba9e.png",
-          "verdict": "扫一眼",
-          "takeaway": "IT之家 10 月 13 日消息，德国科隆警方当地时间 10 月 12 日发布通报，称当地一名 16 岁少女疑似遭到人形机器人的性骚扰。 警方已扣押涉事机器人及两名嫌疑人的手机，并就涉嫌以性为由实施侮辱的案件展开调查。IT之家从官方获悉，科隆警方目前正在核实机器人当时的运行方式，以及是否有人刻意控制其动作。 据警方通报，此次事件发生在当地时间 10 月 1…",
-          "detail": "IT之家 10 月 13 日消息，德国科隆警方当地时间 10 月 12 日发布通报，称当地一名 16 岁少女疑似遭到人形机器人的性骚扰。 警方已扣押涉事机器人及两名嫌疑人的手机，并就涉嫌以性为由实施侮辱的案件展开调查。IT之家从官方获悉，科隆警方目前正在核实机器人当时的运行方式，以及是否有人刻意控制其动作。 据警方通报，此次事件发生在当地时间 10 月 1…",
+          "time": "21:05",
+          "publishedAt": "2026-10-13T21:05:00.000Z",
+          "url": "https://9to5google.com/2026/10/13/oneplus-16-goes-official-with-9000-mah-battery-and-it-just-makes-me-sad/",
+          "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/oneplus-16-1.jpg?quality=82&strip=all&w=1400",
+          "verdict": "可略过",
+          "takeaway": "OPPO 电池 / 充电相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "OPPO 电池 / 充电相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "爆料"
+            "电池 / 充电"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     },
@@ -394,14 +444,37 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "newsnow-5aaa13ef614a",
+          "id": "auto-980a8261f7ad",
+          "title": "IDC 称 2026Q3 中国智能手机出货跌 15.4%，华为逆势同比增长 17.3%",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-13",
+          "time": "23:50",
+          "publishedAt": "2026-10-13T23:50:19.000Z",
+          "url": "https://www.ithome.com/1/012/376.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/b9a5782c-6897-42a1-af9b-dbe5590fdf3b.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 10 月 13 日消息，国际数据公司（ IDC ）最新手机季度跟踪报告初版数据显示，2026 年第三季度中国智能手机市场出货量约为 5,790 万台，同比下降 15.4% 。 华为是头部厂商中唯一实现同比双位数增长的品牌。 整体市场：2026Q3 出货 5,790 万台，同比降 15.4% 相较上半年约 4% 的同比降幅，下半年整体市场规模下滑速…",
+          "detail": "IT之家 10 月 13 日消息，国际数据公司（ IDC ）最新手机季度跟踪报告初版数据显示，2026 年第三季度中国智能手机市场出货量约为 5,790 万台，同比下降 15.4% 。 华为是头部厂商中唯一实现同比双位数增长的品牌。 整体市场：2026Q3 出货 5,790 万台，同比降 15.4% 相较上半年约 4% 的同比降幅，下半年整体市场规模下滑速…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
+          "id": "newsnow-22c92e2b8150",
           "title": "兄弟们，父母说出钱帮我买个房子，如果我自己住有点想买商品房，同价格新的商品房和二手的私宅一样，父母想给我买自建房，说商品房又小还要交物业相当于租房，我觉得商品房装修好看，打扫卫生也方便，视野也好，不用经常走楼梯，但是平时住的都是自建房不知道商品房有啥缺点，如果你们会买哪一种，自建房好还是商品房，如果是买商品房的话要注意什么的？ #OPPOFindX10# #小米18# #荣耀Magic9ProMax#",
           "originalTitle": "",
           "source": "酷安热榜",
           "brand": "HONOR",
           "type": "爆料",
           "trust": "高关注爆料源",
-          "date": "2026-10-13",
+          "date": "2026-10-14",
           "time": "",
           "publishedAt": "",
           "url": "https://www.coolapk.com/feed/74312683",
@@ -463,21 +536,21 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-2fa7fd9f090d",
-          "title": "酷友们，双十一，16+512，k90至尊版，k100promax，17max，iQOO15，x300Pro。这些机器多少算好价啊[托腮][托腮][托腮]。还有一个真我gt8Pro但是好像16+512没货了。#iQOO15# #REDMIK90至尊版# #vivoX300Pro#",
+          "id": "newsnow-0826ca6c30f8",
+          "title": "#手机摄影# 有很多小伙伴好奇为啥我拿个手机都有那么多路人妹妹愿意让我拍，还愿意拉手手，今天就给大家澄清和分享一下。",
           "originalTitle": "",
           "source": "酷安热榜",
-          "brand": "Xiaomi",
+          "brand": "行业",
           "type": "爆料",
           "trust": "高关注爆料源",
-          "date": "2026-10-13",
+          "date": "2026-10-14",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/74340825",
+          "url": "https://www.coolapk.com/feed/74337454",
           "image": "",
           "verdict": "扫一眼",
-          "takeaway": "酷友们，双十一，16+512，k90至尊版，k100promax，17max，iQOO15，x300Pro。这些机器多少算好价啊[托腮][托腮][托腮]。还有一个真我gt8Pro但是好像16+512没货了。#iQOO15# #REDMIK90至尊版# #vivoX300Pro#",
-          "detail": "酷友们，双十一，16+512，k90至尊版，k100promax，17max，iQOO15，x300Pro。这些机器多少算好价啊[托腮][托腮][托腮]。还有一个真我gt8Pro但是好像16+512没货了。#iQOO15# #REDMIK90至尊版# #vivoX300Pro#",
+          "takeaway": "#手机摄影# 有很多小伙伴好奇为啥我拿个手机都有那么多路人妹妹愿意让我拍，还愿意拉手手，今天就给大家澄清和分享一下。",
+          "detail": "#手机摄影# 有很多小伙伴好奇为啥我拿个手机都有那么多路人妹妹愿意让我拍，还愿意拉手手，今天就给大家澄清和分享一下。",
           "keyPoints": [
             "爆料"
           ],
