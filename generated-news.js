@@ -1,9 +1,369 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-14T07:36:51.861Z",
+  "updatedAt": "2026-10-14T13:42:28.386Z",
   "news": [
     {
+      "id": "auto-89174b214402",
+      "title": "Samsung updates Galaxy A54 with October 2026 security update",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-14",
+      "time": "13:20",
+      "publishedAt": "2026-10-14T13:20:55.000Z",
+      "url": "https://www.sammobile.com/news/samsung-updates-galaxy-a54-with-october-2026-security-update/",
+      "image": "",
+      "summary": "Samsung started rolling out the October 2026 security patch to Galaxy smartphones even before the month began. As expected, the Galaxy S26 series, one of the company’s newest and…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-bf5952ef51de",
+      "title": "竹本青：【努比亚NaviX Ultra追加购机权益，全部用户赠送半年豆包标准版会员】 10月14日，努比亚AIOS研发总工…",
+      "source": "竹本青",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-14",
+      "time": "13:08",
+      "publishedAt": "2026-10-14T13:08:33.000Z",
+      "url": "https://www.coolapk.com/feed/74357349",
+      "image": "http://image.coolapk.com/feed/2026/1014/21/4248714_dc5f7d49_3311_6892_923@3200x1800.jpg",
+      "summary": "【努比亚NaviX Ultra追加购机权益，全部用户赠送半年豆包标准版会员】 10月14日，努比亚AIOS研发总工刁亮，宣布NaviX Ultra追送半年豆包会员标准套餐。 9月16日至10月14日的首月购机用户，直接赠送该权益；10月15日至11月11日期间新购机用户，完成站内晒单与站外种草任务后，也可获赠相同权益。 #今日热点# #努比亚NaviXUl…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-7103114265c2",
+      "title": "技嘉 Z790/B760/H610 全系主板获 BIOS 更新：支持英特尔新一代 LGA1700 处理器 Raptor Lake Next",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-14",
+      "time": "13:04",
+      "publishedAt": "2026-10-14T13:04:11.000Z",
+      "url": "https://www.ithome.com/1/013/097.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/35fe6cfc-2e06-49f2-9ef4-06d8dd0b9e00.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 14 日消息，技嘉今日宣布面向旗下全部 Z790、B760 及 H610 主板推出新版 BIOS，为英特尔即将推出的 LGA1700 处理器提供支持，涵盖 DDR4 与 DDR5 两种内存版本。 IT之家此前报道，技嘉已于 10 月 9 日宣布 B760 和 H610 系列获得支持，但当时 Z790 的缺席曾引发市场猜测，认为新处理器可…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-93913ae39f0c",
+      "title": "iQOO Neo12 手机官宣“十月底见”：pTSF 技术 2K 185Hz 超冠屏、第五代骁龙 8 至尊版芯片",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-14",
+      "time": "12:51",
+      "publishedAt": "2026-10-14T12:51:35.000Z",
+      "url": "https://www.ithome.com/1/013/093.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/8d660d06-c0a1-4a69-97cd-f7debd08234c.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 14 日消息，在今天的维信诺 × iQOO × 清华大学屏幕技术沟通会上，iQOO 产品副总裁罗峰现场宣布， iQOO Neo12“十月底见” （PPT 显示十月见）。 据介绍，iQOO Neo12 手机将行业首发搭载 pTSF 技术的 2K 185Hz 超冠屏、行业首发「天空之镜」发光材料、行业首发 2K 185Hz 高性能驱动芯片。…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2ad857703c1b",
+      "title": "不止于 2K+185Hz，从“天空之镜”看中国显示产业的“越级”与“破局”",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-14",
+      "time": "12:51",
+      "publishedAt": "2026-10-14T12:51:00.000Z",
+      "url": "https://www.ithome.com/1/013/092.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/6a0f5095-7fe8-4ba2-a129-61b8ded2af24.jpg",
+      "summary": "这几年，屏幕一直是智能手机“军备竞赛”的重要战场。 以前，1080P 已经足够让人觉得清晰；如今，2K 分辨率逐渐成为旗舰机的标配。刷新率也是如此，从 60Hz 到 90Hz、120Hz，再到如今一路冲上 185Hz，手机屏幕正在不断刷新人们对“流畅”的认知。 而即将亮相的 iQOO Neo12，更是直接把两项指标拉到一个新的高度 —— 行业首发搭载 pT…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-4834600e4379",
+      "title": "数码闲聊站：iQOO Neo12屏幕提前摸到了👀 维信诺2K+185Hz LTPS，肉眼…",
+      "source": "数码闲聊站",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-14",
+      "time": "12:42",
+      "publishedAt": "2026-10-14T12:42:07.000Z",
+      "url": "https://weibo.com/6048569942/RmFlTsuFB",
+      "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ii25zaourcj635c2dckjm08.jpg",
+      "summary": "iQOO Neo12屏幕提前摸到了👀 维信诺2K+185Hz LTPS，肉眼看起来画质精细度不错，感官流畅度直接升了一档，看着很舒服。这也离不开iQOO和维信诺定制的驱动芯片，国产先进工艺，功耗差不多同传统1.5K屏。 首发维信诺×清华联合研发的「天空之镜」 发光材料，采用了第四代发光技术 pTSF，打破了屏幕高发光效率，长寿命，高色彩纯净度的不可能三角…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-5151379f265e",
+      "title": "iQOO Neo 12 will be the first phone with Visionox’s new pTSF OLED material",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-14",
+      "time": "11:55",
+      "publishedAt": "2026-10-14T11:55:46.000Z",
+      "url": "https://www.gizmochina.com/2026/10/14/iqoo-neo-12-will-be-the-first-phone-with-visionoxs-new-ptsf-oled-material/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/iQOO-Neo-12-display1--300x168.jpg?x96852",
+      "summary": "The iQOO Neo 12 will be the first smartphone to use Visionox’s new “Sky Mirror” pTSF luminescent material, iQOO confirmed at a display technology event held tonight with Visionox…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-5c7fdf63d957",
+      "title": "竹本青：AIOS研发总工刁亮 #努比亚#",
+      "source": "竹本青",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-14",
+      "time": "11:55",
+      "publishedAt": "2026-10-14T11:55:26.000Z",
+      "url": "https://www.coolapk.com/feed/74355844",
+      "image": "http://image.coolapk.com/feed/2026/1014/19/4248714_fca150d9_8925_0259_105@3200x1800.jpg",
+      "summary": "AIOS研发总工刁亮 #努比亚#",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-ff7dad86e85a",
+      "title": "竹本青：iQOO Neo12 本月底见：首发维信诺2K 185Hz，骁龙8E5+主动风冷",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-14",
+      "time": "11:44",
+      "publishedAt": "2026-10-14T11:44:52.000Z",
+      "url": "https://www.coolapk.com/feed/74355648",
+      "image": "http://image.coolapk.com/feed/2026/1014/19/4248714_c7fcd282_8291_2977_941@3200x1800.jpg",
+      "summary": "【iQOO Neo12 官宣本月底见：首发维信诺2K 185Hz超冠屏，骁龙8E5+主动风冷】 ● 屏幕： 维信诺2K 185Hz超冠屏 首发 pTSF技术 首发「天空之镜」发光材料 首发高性能驱动芯片 全屏峰值2200nits 圆偏振光显示2.0 iQOO 16同款Q-flex技术 功耗比Neo11降低27% ● 性能： 骁龙8 Elite Gen5芯片…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-136a7eee23df",
+      "title": "竹本青：努比亚NaviX Ultra 「内测实验室」计划开启，招募300人",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-14",
+      "time": "11:22",
+      "publishedAt": "2026-10-14T11:22:37.000Z",
+      "url": "https://www.coolapk.com/feed/74355238",
+      "image": "http://image.coolapk.com/feed/2026/1014/19/4248714_7d8738db_6956_0665_581@3200x1800.jpg",
+      "summary": "【努比亚NaviX Ultra 「内测实验室」计划开启，开放招募300人】 10月14日，努比亚手机启动NaviX Ultra「内测实验室」计划，开放招募300个资格，用户可抢先体验更强大的模型、记忆等功能。 #努比亚NaviXUltra# #今日热点#",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-efb1945adca2",
+      "title": "Galaxy S27 and S27+ to miss out on Galaxy S27 Pro and Ultra front camera upgrade",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-14",
+      "time": "10:03",
+      "publishedAt": "2026-10-14T10:03:55.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s27-plus-not-get-s27-ultra-upgraded-selfie-camera/",
+      "image": "",
+      "summary": "A few months ago, reports indicated that the Galaxy S27 series would receive an upgraded selfie camera. However, it now appears the standard Galaxy S27 and Galaxy S27+ will not ge…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b197ca7d22b4",
+      "title": "The iPhone 18 Pro’s new camera feature is a sneaky trap for Android brands",
+      "source": "Android Authority",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-14",
+      "time": "10:00",
+      "publishedAt": "2026-10-14T10:00:49.000Z",
+      "url": "https://www.androidauthority.com/iphone-18-pro-variable-aperture-trap-android-brands-3717442/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Apple-iPhone-18-Pro-in-Glacier-Blue.jpg",
+      "summary": "We've been here before.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1783a752d8db",
+      "title": "荣耀 MagicOS11 系统 10 月更新今晚推送，第二批内测机型报名通道重新开放",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-14",
+      "time": "10:00",
+      "publishedAt": "2026-10-14T10:00:05.000Z",
+      "url": "https://www.ithome.com/1/013/035.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/b398bc9b-1521-4d93-83a5-5c23a0f0ad28.jpg",
+      "summary": "IT之家 10 月 14 日消息，荣耀产品维护与升级 @荣耀小芳哥 今日发布推送预告，称 MagicOS11 系统 10 月更新将在今晚开启推送，同时第二批内测报名通道也会重新开放。 首批内测机型： 今晚 20 点开始，Magic V6、Magic8 系列等 17 款机型率先推送 10 月版本 第二批内测机型： Magic6 系列、500 系列等 20 款…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d01106670d09",
+      "title": "曝小米 REDMI K100 标准版手机将堆米系最大电池、Bose 双扬等配置，定位 3500 元档",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-14",
+      "time": "09:12",
+      "publishedAt": "2026-10-14T09:12:18.000Z",
+      "url": "https://www.ithome.com/1/012/972.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/7f48190d-01fb-4a51-b711-7119cee0fe0d.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 14 日消息，博主 @数码闲聊站 今日发文，爆料了小米 REDMI K100 标准版外围配置信息。他透露， 新机堆了米系最大电池、独显芯片、相对大马达、Bose 双扬 ，属于配置不搞花活的类型。 博主称，目前的行情，骁龙 8 至尊版处理器 + 12GB LPDDR5X + 256GB UFS4.1 这套组合光成本就已经干到了 3000…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f62a12f1de0e",
+      "title": "How to add the Pixel 11’s Rambler feature to your Android phone right now",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-14",
+      "time": "09:00",
+      "publishedAt": "2026-10-14T09:00:23.000Z",
+      "url": "https://www.androidauthority.com/how-to-add-pixel-11-rambler-feature-to-your-android-phone-3722617/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/DSCF3397.jpeg",
+      "summary": "Google’s smartest voice typing feature is no longer a Pixel exclusive.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-09dbe632d338",
+      "title": "Want to show an iPhone on TV? These are some of Apple’s ridiculous licensing rules",
+      "source": "Android Authority",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-14",
+      "time": "08:47",
+      "publishedAt": "2026-10-14T08:47:42.000Z",
+      "url": "https://www.androidauthority.com/tv-series-switch-iphone-to-android-3722992/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/iphone-samsung-galaxy-side-by-side-1-scaled.jpg",
+      "summary": "We've known that bad guys can't use iPhones, but Apple's list of restrictions is really something.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-f98d83c60362",
+      "title": "竹本青：优化超级小爱小白条识别文字能力，目前对比其他家，识别总会顿一下慢半拍，复制文本/验证码或者其他信息的时候好怪 以这…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-14",
+      "time": "08:18",
+      "publishedAt": "2026-10-14T08:18:31.000Z",
+      "url": "https://www.coolapk.com/feed/74351888",
+      "image": "http://image.coolapk.com/feed/2026/1014/16/4248714_1363963e_6261_232_855-livepic@1080x1440.jpg",
+      "summary": "优化超级小爱小白条识别文字能力，目前对比其他家，识别总会顿一下慢半拍，复制文本/验证码或者其他信息的时候好怪 以这个动图为例，有的时候正常，有的时候会顿一下才能够显示 #HyperOS4#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-f21615c8255d",
+      "title": "I tested the first phone with triple 200MP cameras — and resolution isn’t the best part",
+      "source": "Android Authority",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-14",
+      "time": "08:00",
+      "publishedAt": "2026-10-14T08:00:30.000Z",
+      "url": "https://www.androidauthority.com/oppo-find-x10-pro-max-camera-test-hands-on-3719124/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/OPPO-Find-X10-Pro-Max-back-on-desk.jpg",
+      "summary": "200MP on every camera sounds ridiculous. Then I tried OPPO’s Find X10 Pro Max.",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "coolapk-user-31a52881e2ce",
-      "title": "竹本青：【消息称REDMI K100标准版 定位3500元档】 10月14日，据数码闲聊站爆料，目前骁龙8E lite处理…",
+      "title": "竹本青：消息称REDMI K100标准版定位3500元档",
       "source": "竹本青",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
@@ -14,31 +374,11 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-10-14T07:34:22.000Z",
       "url": "https://www.coolapk.com/feed/74351067",
       "image": "http://image.coolapk.com/feed/2026/1014/15/4248714_a8ab8df6_3261_6442_917@1271x590.jpg",
-      "summary": "【消息称REDMI K100标准版 定位3500元档】 10月14日，据数码闲聊站爆料，目前骁龙8E lite处理器+12GB LPDDR5X+256GB UFS4.1的核心硬件组合成本已接近3000元。 REDMI K100标准版将在该硬件基础上进一步升级配置，搭载米系最大容量电池、独显芯片、大尺寸线性马达及Bose双扬声器，整机定位3500元档。 #今…",
+      "summary": "【消息称REDMI K100标准版 定位3500元档：骁龙8E芯片+米系最大电池】 10月14日，据数码闲聊站爆料，目前骁龙8 Elite处理器+12GB LPDDR5X+256GB UFS4.1的硬件组合成本已接近3000元。 REDMI K100标准版 在该基础上升级外围，搭载米系最大电池、独显芯片、相对大尺寸马达以及Bose双扬。整机将定位3500元…",
       "tags": [
         "Xiaomi",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-e30765627faa",
-      "title": "小米澎湃 OS 4 应用商店新增悬浮底栏，胡馨心透露 REDMI K100 系列手机马上推首批正式版系统升级",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-14",
-      "time": "07:33",
-      "publishedAt": "2026-10-14T07:33:14.000Z",
-      "url": "https://www.ithome.com/1/012/916.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/f3363d49-127a-42de-8b22-c8a9a6ba5fca.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 14 日消息，博主 @缪特mt 今日发文透露， 称小米澎湃 OS 4 系统的应用商店新增悬浮底栏设计 ，搜索框改为类系统样式。 小米 REDMI 产品经理胡馨心随后转发了该微博， 并透露 REDMI K100 系列手机马上推送首批澎湃 OS 4 正式版系统升级 。 需要注意的是，胡馨心此次表述的是“REDMI K100 系列手机”，而非…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -62,143 +402,43 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-d7c051d67cf3",
-      "title": "Galaxy A58 camera specs leak for the first time",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-14",
-      "time": "06:54",
-      "publishedAt": "2026-10-14T06:54:43.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-a58-camera-specs-leak-for-the-first-time/",
-      "image": "",
-      "summary": "With its smartphone launches wrapped up for this year, Samsung is turning its attention to its 2027 Galaxy lineup. Following the launch of the Galaxy S27 series early next year, t…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-a9f2c9eba175",
-      "title": "竹本青：鸿蒙版的酷安优化是都可见的，每隔几天/周，我的头条推荐就能刷到，陈冠希发布的优化/新增的内容 #鸿蒙7#",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-14",
-      "time": "06:50",
-      "publishedAt": "2026-10-14T06:50:51.000Z",
-      "url": "https://www.coolapk.com/feed/74350265",
-      "image": "",
-      "summary": "鸿蒙版的酷安优化是都可见的，每隔几天/周，我的头条推荐就能刷到，陈冠希发布的优化/新增的内容 #鸿蒙7#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-a59d67944361",
-      "title": "华为畅享 100 系列手机前瞻爆料：消息称 Pro 延续麒麟 8 系平台 + 6.84 英寸 1.5K LTPS 直屏方案",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-14",
-      "time": "06:25",
-      "publishedAt": "2026-10-14T06:25:47.000Z",
-      "url": "https://www.ithome.com/1/012/835.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/1fcbd7c0-185e-485a-bc53-91a0bc4e7c29.png",
-      "summary": "IT之家 10 月 14 日消息，博主 @数码闲聊站 今日放出了华为畅享 100 系列手机的前瞻爆料。据称，Pro 有曜金黑 / 雪域白 / 流沙金 / 蔚蓝海四种配色， 屏幕还是 6.84 英寸 1.5K LTPS 直屏，采用麒麟 8 系平台打造 ，电池容量超 8000mAh。 而标准版和低配版有幻夜黑 / 冰川白 / 云水蓝三种配色， 会做运营商渠道机…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e8ea595a2352",
-      "title": "苹果 iPhone 15 Pro 及后续机型国行版备案大模型编号：Apple 智能、通义万相、通义千问",
-      "source": "IT之家",
+      "id": "auto-3bf53492e716",
+      "title": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
+      "source": "少数派",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
-      "type": "爆料",
+      "type": "评测",
       "trust": "媒体汇总",
       "date": "2026-10-14",
-      "time": "05:51",
-      "publishedAt": "2026-10-14T05:51:51.000Z",
-      "url": "https://www.ithome.com/1/012/818.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/ff4e963a-3e45-4c59-891c-e3cd4ce4c04e.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 14 日消息，据IT之家小伙伴反馈，苹果多款 iPhone 手机于 9 月 29 日国行备案换证，增加搭载的大模型备案编号： Shanghai-AppleZhiNeng-202506160057 Shanghai-TongYiWanXiang-202410090024 ZheJiang-TongYiQianWen-20230901 IT…",
+      "time": "07:00",
+      "publishedAt": "2026-10-14T07:00:00.000Z",
+      "url": "https://sspai.com/post/115426",
+      "image": "",
+      "summary": "这些新技术将如何让我们的照片和视频更好？",
       "tags": [
         "iPhone",
-        "爆料",
+        "评测",
         "自动抓取"
       ]
     },
     {
-      "id": "auto-f563b289e3aa",
-      "title": "苹果 iPhone Duo 国行备案新增大模型编号：Apple 智能、通义万相、通义千问",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "id": "auto-d4915c3d242d",
+      "title": "Struggling with calls on your Pixel? The latest Android beta has tools for you (Update: Not new)",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-10-14",
-      "time": "05:33",
-      "publishedAt": "2026-10-14T05:33:40.000Z",
-      "url": "https://www.ithome.com/1/012/814.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/1a66f522-3d14-4881-b1a7-8cfe28ac0cb6.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 14 日消息，据IT之家小伙伴反馈，苹果 iPhone Duo 折叠屏手机国行版（型号 A3721）在今年 9 月 2 日获得试用批文许可证后，于 9 月 29 日换证， 增加搭载的大模型备案编号 。 IT之家从备案信息获悉，该设备搭载的大模型备案编号为： Shanghai-AppleZhiNeng-202506160057 Shang…",
+      "time": "06:32",
+      "publishedAt": "2026-10-14T06:32:33.000Z",
+      "url": "https://www.androidauthority.com/android-17-qpr3-beta-1-more-diagnostic-tools-3722950/",
+      "image": "",
+      "summary": "Update: These tools aren't actually new, but previously arrived on the Pixel 11 series.",
       "tags": [
-        "iPhone",
+        "Pixel",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-1ee5285f2ef0",
-      "title": "竹本青：【一加本月底性能新机曝光：骁龙8E5处理器，首发双路出风散热架构】 10月14日，据数码闲聊站爆料，一加将于本月底…",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-14",
-      "time": "05:18",
-      "publishedAt": "2026-10-14T05:18:54.000Z",
-      "url": "https://www.coolapk.com/feed/74348780",
-      "image": "http://image.coolapk.com/feed/2026/1014/13/4248714_7f4c1b5e_5132_6823_661@1271x1442.jpg",
-      "summary": "【一加本月底性能新机曝光：骁龙8E5处理器，首发双路出风散热架构】 10月14日，据数码闲聊站爆料，一加将于本月底推出一款性能向新机，首发双路出风主动散热架构，搭载骁龙8E5处理器。 其介绍，该散热架构风道采用横出热风、下出凉风布局，可同时覆盖CPU核心区域与机身后盖，压制芯片核心温度、降低机身背壳温度。在此加持下，骁龙8E5处理器性能表现可对标骁龙8EE…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-9a295df5309c",
-      "title": "竹本青：【消息称阶跃STEPX Neo屏幕供应商为TCL华星】 10月13日，阶跃终端发布首款大模型原生智能体手机STEP…",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-14",
-      "time": "04:49",
-      "publishedAt": "2026-10-14T04:49:04.000Z",
-      "url": "https://www.coolapk.com/feed/74348269",
-      "image": "http://image.coolapk.com/feed/2026/1014/12/4248714_88508531_3342_1767_404@2560x1440.jpg",
-      "summary": "【消息称阶跃STEPX Neo屏幕供应商为TCL华星】 10月13日，阶跃终端发布首款大模型原生智能体手机STEPX Neo「先行版」，搭载1.5K LTPO OLED屏，16+256GB售价3999元。 10月14日，蓝鲸科技从供应链人士处独家获悉，该机屏幕供应商为TCL华星。 #今日热点# #STEPXNeo# #数码日常#",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -402,41 +642,41 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-c8a2bf5e73b1",
-      "title": "兄弟们 我要退货了 还是用回我的一加12 这代处理器确实不咋稳定 手机一直温温的 165刷新率确实可以 手感不是那么太好 请原谅我！",
+      "id": "newsnow-4417b2c720d8",
+      "title": "豆包手机助手第三方应用操作权限开放：腾讯系等拒绝",
       "source": "酷安热榜",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-14",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74322896",
+      "url": "https://www.coolapk.com/feed/74345834",
       "image": "",
-      "summary": "兄弟们 我要退货了 还是用回我的一加12 这代处理器确实不咋稳定 手机一直温温的 165刷新率确实可以 手感不是那么太好 请原谅我！",
+      "summary": "豆包手机助手第三方应用操作权限开放：腾讯系等拒绝",
       "tags": [
-        "OPPO",
+        "行业",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-42044caef76c",
-      "title": "幸福是教会我那97岁的小老太，用智能机给我打视频——红米k80至尊真真一代神机，感谢雷总，让我奶奶也赶上了科技的乐趣（某书我逛到问2000块给父母买什么手机的，我全回答的#REDMIK80至尊版# ，在内存涨价潮的现在，一台性能够电池大喇叭响的充新的手机已经不多了）#数码日常#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "id": "newsnow-0da3fb93b62a",
+      "title": "iPhoneDuo早鸟包不退款",
+      "source": "微博热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
-      "trust": "高关注爆料源",
+      "trust": "待验证",
       "date": "2026-10-14",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74323000",
+      "url": "https://s.weibo.com/weibo?q=iPhoneDuo%E6%97%A9%E9%B8%9F%E5%8C%85%E4%B8%8D%E9%80%80%E6%AC%BE&t=31&band_rank=13&Refer=top",
       "image": "",
-      "summary": "幸福是教会我那97岁的小老太，用智能机给我打视频——红米k80至尊真真一代神机，感谢雷总，让我奶奶也赶上了科技的乐趣（某书我逛到问2000块给父母买什么手机的，我全回答的#REDMIK80至尊版# ，在内存涨价潮的现在，一台性能够电池大喇叭响的充新的手机已经不多了）#数码日常#",
+      "summary": "iPhoneDuo早鸟包不退款",
       "tags": [
-        "Xiaomi",
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -458,6 +698,66 @@ window.phoneRadarAuto = {
       "tags": [
         "行业",
         "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-3ec64c131175",
+      "title": "iPhoneDuo将是最难抢的苹果手机",
+      "source": "百度热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-14",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=iPhoneDuo%E5%B0%86%E6%98%AF%E6%9C%80%E9%9A%BE%E6%8A%A2%E7%9A%84%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA",
+      "image": "",
+      "summary": "iPhoneDuo将是最难抢的苹果手机",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-78ccecadaa63",
+      "title": "iPhoneDuo早鸟包不能退款不抵购机款",
+      "source": "百度热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-14",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=iPhoneDuo%E6%97%A9%E9%B8%9F%E5%8C%85%E4%B8%8D%E8%83%BD%E9%80%80%E6%AC%BE%E4%B8%8D%E6%8A%B5%E8%B4%AD%E6%9C%BA%E6%AC%BE",
+      "image": "",
+      "summary": "iPhoneDuo早鸟包不能退款不抵购机款",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-372fe3c49eee",
+      "title": "iPhone Duo已完成大模型备案",
+      "source": "抖音热点",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-10-14",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.douyin.com/hot/2695338",
+      "image": "",
+      "summary": "iPhone Duo已完成大模型备案",
+      "tags": [
+        "iPhone",
+        "爆料",
         "NewsNow"
       ]
     },
@@ -515,26 +815,6 @@ window.phoneRadarAuto = {
       "url": "https://www.gizmochina.com/2026/10/13/galaxy-s27-ultras-privacy-display-v2-to-offer-better-viewing-angles-sharper-image-quality/",
       "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/galaxy-s27-front-back-side-design-300x169.jpg?x96852",
       "summary": "The Galaxy S27 Ultra could get a smarter version of one of Samsung’s coolest privacy tricks. Early word is that the phone will come with “Privacy Display v2”. For anyone who misse…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9bc09a37da5f",
-      "title": "The Galaxy Z Fold 8 Ultra's cover screen keeps flipping on me; it's driving me mad",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-13",
-      "time": "15:00",
-      "publishedAt": "2026-10-13T15:00:10.000Z",
-      "url": "https://www.androidpolice.com/the-galaxy-z-fold-8-ultra-cover-screen-keeps-flipping/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/10/samsung-galaxy-z-fold-8-and-ultra-stack-1.jpg",
-      "summary": "Know when to hold, know when to Fold",
       "tags": [
         "Samsung",
         "爆料",
@@ -799,46 +1079,6 @@ window.phoneRadarAuto = {
         "行业",
         "评测",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-8c0aa2c501db",
-      "title": "OnePlus 15 vs OnePlus 16: What are the upgrades?",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-13",
-      "time": "03:31",
-      "publishedAt": "2026-10-13T03:31:53.000Z",
-      "url": "https://www.gizmochina.com/2026/10/13/oneplus-15-vs-oneplus-16-what-are-the-upgrades/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/OnePlus-16-vs-OnePlus-15--300x150.jpg?x96852",
-      "summary": "The OnePlus 16 brings several major hardware changes over the OnePlus 15, including a new 2nm Snapdragon chipset, a 9,000mAh battery, a 200MP main camera, and a display that suppo…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-491f5311588b",
-      "title": "数码闲聊站：独家信息：下一代轻薄拍照机，测试了旗舰同款64Mp LYT610潜望长焦+增距…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-13",
-      "time": "02:15",
-      "publishedAt": "2026-10-13T02:15:43.000Z",
-      "url": "https://weibo.com/6048569942/RmrP8EARr",
-      "image": "",
-      "summary": "独家信息，下一代轻薄拍照机，测试了旗舰同款64Mp LYT610潜望长焦+增距镜，开始普及[笑哈哈]",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
       ]
     },
     {
