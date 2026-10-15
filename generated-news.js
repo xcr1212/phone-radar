@@ -1,6 +1,326 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-15T04:36:45.095Z",
+  "updatedAt": "2026-10-15T11:26:36.834Z",
   "news": [
+    {
+      "id": "auto-e867056eb87e",
+      "title": "小米员工：小米 18 Fold 正适配 18 Pro 系列手机“传奇一瞬”功能，17 Ultra 徕卡版有望支持 M10R 相机效果",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-15",
+      "time": "10:25",
+      "publishedAt": "2026-10-15T10:25:26.000Z",
+      "url": "https://www.ithome.com/1/013/580.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/513b24c4-3a01-4c14-ad69-cdb6a3ca6997.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 15 日消息，小米相机部产品经理 @Bao_小李 今日发文称， 小米 18 Fold 折叠手机正在适配小米 18 Pro 系列的“传奇一瞬”功能 。 同时他还透露，小米 17 Ultra 徕卡版的“徕卡一瞬”功能， 正在适配 Leica M10R 相机的机身效果 ， 以及 Summicron 35mm、Summilux 75mm 的相机…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-90b22350f5a3",
+      "title": "Google is handing out a surprise 30% discount on the Pixel 11 series",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-15",
+      "time": "10:24",
+      "publishedAt": "2026-10-15T10:24:18.000Z",
+      "url": "https://www.androidpolice.com/google-handing-users-a-surprise-discount-on-the-pixel-11-series/",
+      "image": "",
+      "summary": "A welcome discount on the Pixel 11 lineup",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-54b17c63404f",
+      "title": "UBI Research：存储器价格飙升挤压其它组件成本，智能手机面临屏幕降级",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-15",
+      "time": "10:10",
+      "publishedAt": "2026-10-15T10:10:33.000Z",
+      "url": "https://www.ithome.com/1/013/575.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/d8f6c51c-3b06-48aa-8be8-fb6daf92518d.jpg",
+      "summary": "IT之家 10 月 15 日消息，韩国显示研究机构 UBI Research 在本月 13 日的一篇文章中提到，在存储器价格飙升的背景下， 智能手机为其它组件留出的成本空间已显著缩小 ，屏幕降级成为制造商的被迫选择。 对于旗舰级设备来说，存储器与显示屏幕两方面的物料成本在 2025 年早期时接近；而到 2026 年下半年， 存储器的成本已占到整机的 40%…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7f7f8552ba5a",
+      "title": "Even a 1TB Galaxy Z Fold 8 can cost less than a 256GB iPhone Duo",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-15",
+      "time": "10:00",
+      "publishedAt": "2026-10-15T10:00:00.000Z",
+      "url": "https://www.sammobile.com/news/1tb-galaxy-z-fold-8-cost-less-than-256gb-iphone-duo/",
+      "image": "",
+      "summary": "There is a familiar frustration with rising smartphone prices: the bill gets bigger, but it is not always clear what the extra money buys. With prices already this high, it is wor…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2b8881cc8f40",
+      "title": "I switched from Android to the iPhone 18 Pro Max for 3 weeks — my 5 biggest takeaways",
+      "source": "Android Authority",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-15",
+      "time": "09:30",
+      "publishedAt": "2026-10-15T09:30:40.000Z",
+      "url": "https://www.androidauthority.com/switch-from-android-iphone-18-pro-max-biggest-takeaways-3721758/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/iphone-18-pro-max-1-scaled.jpg",
+      "summary": "There's a lot to like in the iPhone 18 Pro Max if you're an Android fan.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-155c0d7bcaf7",
+      "title": "消息称骁龙 8 Elite Gen5 处理器新机已规划到 2028 年，依旧卖 4000 元档位",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-15",
+      "time": "09:24",
+      "publishedAt": "2026-10-15T09:24:14.000Z",
+      "url": "https://www.ithome.com/1/013/520.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/f7c22b23-d29e-46bb-9682-973ac7fa7d45.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 15 日消息，博主 @数码闲聊站 刚刚发文透露， 搭载骁龙 8 Elite Gen5 处理器的新机已规划到 2028 年 。 2025 年骁龙 8E5 新机卖 4000 档位 2026 年骁龙 8E5 新机卖 4000 档位 2027 年骁龙 8E5 新机卖 4000 档位 2028 年骁龙 8E5 新机卖 4000 档位 据IT之家此…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-8932cdcdd3a6",
+      "title": "数码闲聊站：骁龙8E5新机已规划到2028年[允悲] 2025年骁龙8E5新机卖4000档…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-15",
+      "time": "09:17",
+      "publishedAt": "2026-10-15T09:17:00.000Z",
+      "url": "https://weibo.com/6048569942/RmNr8lm6b",
+      "image": "",
+      "summary": "骁龙8E5新机已规划到2028年[允悲] 2025年骁龙8E5新机卖4000档位 2026年骁龙8E5新机卖4000档位 2027年骁龙8E5新机卖4000档位 2028年骁龙8E5新机卖4000档位",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-d023a5ea7497",
+      "title": "Red Magic 12 Pro+ gaming phone launches with Snapdragon 8 Elite Extreme Gen 6, liquid-cooling system, 8,400mAh battery, and more",
+      "source": "Gizmochina",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-15",
+      "time": "09:13",
+      "publishedAt": "2026-10-15T09:13:34.000Z",
+      "url": "https://www.gizmochina.com/2026/10/15/red-magic-12-pro-plus-launched-price-specs/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/RedMagic-12-Pro--300x220.jpg?x96852",
+      "summary": "Red Magic 12 Pro+ has officially launched in China with a range of hardware upgrades aimed at mobile gamers. The new flagship combines high-refresh-rate visuals with advanced cool…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-296fb81bcabe",
+      "title": "Omdia 初步数据：全球智能手机出货量在 2026Q3 同比萎缩 20%",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-15",
+      "time": "08:38",
+      "publishedAt": "2026-10-15T08:38:43.000Z",
+      "url": "https://www.ithome.com/1/013/473.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/ba4b32ae-01f9-4f29-9958-3df98f4a1695.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 15 日消息，Omdia 英国当地时间今日根据其初步估计表示，全球智能手机出货量在 2026 年第 3 季度出现了 20% 的同比下滑， 衰退幅度较 Q2 的 6% 显著扩大 。 ▲ 图源：Omdia 而从季对季的角度看，尽管多家制造商都在 2026Q3 发布了旗舰新品，但全球的智能手机出货量 在环比层面仍出现了萎缩 。 ▲ 图源：Om…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-716d480a854e",
+      "title": "努比亚 NaviX Ultra 手机新配色“星空典藏版”亮相，采用微纳米浮雕工艺设计",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-15",
+      "time": "08:30",
+      "publishedAt": "2026-10-15T08:30:13.000Z",
+      "url": "https://www.ithome.com/1/013/471.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/9/fcea21ac-0099-41a8-b5c3-91b6a40302ce.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 15 日消息，在昨晚的 努比亚 NaviX Ultra 首场进化直播中，努比亚手机官方公开了这款手机的全新配色 ——“星空典藏版”。 ▲ IT之家实拍：努比亚 NaviX Ultra 手机 据介绍，努比亚 NaviX Ultra 手机的“星空典藏版”采用微纳米浮雕工艺， 灵感源自梵高《星空》 。官方表示，也是努比亚星空影像基因的一次传承…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2648b114d0fc",
+      "title": "Galaxy Z Fold 8 sees a 300% surge in search interest over the last month",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-15",
+      "time": "08:22",
+      "publishedAt": "2026-10-15T08:22:19.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-sees-300-percent-surge-search-interest-over-last-month/",
+      "image": "",
+      "summary": "Samsung’s first smartphone with a 4:3 foldable display, the Galaxy Z Fold 8, has witnessed immense global demand, breaking multiple sales records and leaving the company strugglin…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-14bc55e8af80",
+      "title": "竹本青：【荣耀WIN2 售价提前公布：12+512GB版本 5999元，骁龙8EE6，2K 185Hz双芯屏】 ● 第六代…",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-15",
+      "time": "07:37",
+      "publishedAt": "2026-10-15T07:37:53.000Z",
+      "url": "https://www.coolapk.com/feed/74374991",
+      "image": "http://image.coolapk.com/feed/2026/1015/15/4248714_1ece8981_0391_4524_633@2000x3556.jpg",
+      "summary": "【荣耀WIN2 售价提前公布：12+512GB版本 5999元，骁龙8EE6，2K 185Hz双芯屏】 ● 第六代骁龙8超级至尊版 ● 2K 185Hz双芯直屏 ● 0.93mm四等边+大R角 ● 双风扇主动散热 ● 10100mAh电池 10月15日，荣耀高管关海涛提前公布WIN2售价，12GB+512GB版本5999元，10月21日发布即首销。 他表示…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-863a843a4778",
+      "title": "三星 Galaxy A58 手机影像曝光：500 万微距摄像头恐沿用第 7 年",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-15",
+      "time": "07:30",
+      "publishedAt": "2026-10-15T07:30:40.000Z",
+      "url": "https://www.ithome.com/1/013/447.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/59787d8b-b497-4a61-8268-9429a989776c.jpg",
+      "summary": "IT之家 10 月 15 日消息，科技媒体 Galaxy Club 昨日（10 月 14 日）发布博文，分享了三星 Galaxy A58 5G 手机的影像配置 ，称将会沿用 Galaxy A57 手机方案，预计继续缺少长焦镜头。 IT之家援引博文介绍，三星 Galaxy A58 手机正面采用 1,200 万像素前置摄像头，背面采用 5,000 万像素主摄像…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a7df9ecb1b35",
+      "title": "New leak reveals display details of Oppo’s upcoming wide-screen flagship",
+      "source": "Gizmochina",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-15",
+      "time": "07:27",
+      "publishedAt": "2026-10-15T07:27:05.000Z",
+      "url": "https://www.gizmochina.com/2026/10/15/oppo-wide-screen-flagship-display-leak/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/OPPO-Find-X10-Pro-Max-Review-1.mp4_20261009_103510.777-300x150.jpg?x96852",
+      "summary": "Several reports have revealed that Oppo is working on a wide-screen flagship phone similar to the Huawei Pura X View. Recently, reliable tipster Digital Chat Station shared key de…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-a883c3115fba",
+      "title": "数码闲聊站：独家信息：阔直板工程机是6.35英寸左右直屏，工程机分辨率2560*1440p…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-15",
+      "time": "05:27",
+      "publishedAt": "2026-10-15T05:27:49.000Z",
+      "url": "https://weibo.com/6048569942/RmLW6DMeZ",
+      "image": "",
+      "summary": "独家信息，阔直板工程机是6.35英寸左右直屏，工程机分辨率2560*1440p，比例是16:9，不知道会定义为1.5K还是2K，PPI和传统比例1.5K差不多。8T LTPO，3D超声波指纹……[偷乐]",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-d0067fd3802a",
+      "title": "Oppo Reno 17 live shot leaked ahead of November launch",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-15",
+      "time": "04:49",
+      "publishedAt": "2026-10-15T04:49:55.000Z",
+      "url": "https://www.gizmochina.com/2026/10/15/oppo-reno-17-live-shot-leak/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Oppo-Reno-17-live-shot-by-SmartPrix--300x174.jpg?x96852",
+      "summary": "Oppo is all set to unveil the Find X10 series of photography-focused flagship phones globally on October 21. This will be followed by the Indian launch on October 22. After the X1…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-8a336c8263ad",
       "title": "Check your inbox: Google is quietly handing out Pixel 11 discount codes",
@@ -17,26 +337,6 @@ window.phoneRadarAuto = {
       "summary": "Google is sending out 30% discount codes for the Pixel 11 series, and you can club them with trade-in offers!",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-86073b8c0afc",
-      "title": "Samsung is taking more steps to avoid phone manufacturing bottlenecks",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-15",
-      "time": "03:39",
-      "publishedAt": "2026-10-15T03:39:34.000Z",
-      "url": "https://www.sammobile.com/news/samsung-avoid-phone-manufacturing-bottlenecks-display-driver-chips/",
-      "image": "",
-      "summary": "RAM and storage chips are not the only smartphone components in short supply these days. Samsung recently faced a shortage of display driver ICs (DDIs) for the Galaxy Z Fold 8. So…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -97,26 +397,6 @@ window.phoneRadarAuto = {
       "summary": "『曝荣耀阔折叠加速：7.58 英寸 / 2nm 骁龙芯』 ◇ 2nm 骁龙 8 Elite Gen6 系列平台 ◇ 约 7.58 英寸 120Hz LTPO BOE 阔屏 ◇ 200Mp 大底三摄：潜望规格“还不错” ◇ 或成“阔折最大电池”｜保留轻薄特性 #今日热点# #荣耀MagicV6# #荣耀MagicV2Flip#",
       "tags": [
         "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-8193daebc745",
-      "title": "竹本青：华为Mate X8配置曝光：新处理器，思特威大底主摄",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-15",
-      "time": "01:29",
-      "publishedAt": "2026-10-15T01:29:58.000Z",
-      "url": "https://www.coolapk.com/feed/74366643",
-      "image": "http://image.coolapk.com/feed/2026/1015/09/4248714_cf52c6c8_7797_6655_615@1439x1017.jpg",
-      "summary": "【华为Mate X8 配置曝光：新一代处理器，思特威LOFIC大底主摄，定位万元档】 ● 新一代旗舰处理器 ● 6.5英寸外屏+8.15英寸UTG内屏 ● 电池超6000mAh 主摄｜50Mp 1/1.28\" SC595XS 可变光圈 RYYB 18EV LOFIC 潜望｜50Mp± #今日热点# #鸿蒙7# #华为MateX7#",
-      "tags": [
-        "Huawei",
         "爆料",
         "酷安博主"
       ]
@@ -322,8 +602,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-9ffe9b998bfe",
-      "title": "曝iPhone18Pro褪色",
+      "id": "newsnow-f9a4c2924fd6",
+      "title": "女子买iPhone18Pro被5名骑手冒领快递",
       "source": "微博热搜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -332,9 +612,9 @@ window.phoneRadarAuto = {
       "date": "2026-10-15",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DiPhone18Pro%E8%A4%AA%E8%89%B2%23&t=31&band_rank=14&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B0iPhone18Pro%E8%A2%AB5%E5%90%8D%E9%AA%91%E6%89%8B%E5%86%92%E9%A2%86%E5%BF%AB%E9%80%92%23&t=31&band_rank=9&Refer=top",
       "image": "",
-      "summary": "曝iPhone18Pro褪色",
+      "summary": "女子买iPhone18Pro被5名骑手冒领快递",
       "tags": [
         "iPhone",
         "爆料",
@@ -362,19 +642,19 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-43cbd3bcdcab",
-      "title": "iPhone Duo已完成大模型备案",
-      "source": "抖音热点",
+      "id": "newsnow-9d39c5b421bc",
+      "title": "iPhone 18 Pro系列降价",
+      "source": "百度热搜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
       "type": "爆料",
-      "trust": "待验证",
+      "trust": "媒体汇总",
       "date": "2026-10-15",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.douyin.com/hot/2695338",
+      "url": "https://www.baidu.com/s?wd=iPhone+18+Pro%E7%B3%BB%E5%88%97%E9%99%8D%E4%BB%B7",
       "image": "",
-      "summary": "iPhone Duo已完成大模型备案",
+      "summary": "iPhone 18 Pro系列降价",
       "tags": [
         "iPhone",
         "爆料",
@@ -419,26 +699,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-93417e725f65",
-      "title": "竹本青：iPhone Duo 维修预估费用公布：内屏损坏7998元",
-      "source": "竹本青",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-14",
-      "time": "17:29",
-      "publishedAt": "2026-10-14T17:29:36.000Z",
-      "url": "https://www.coolapk.com/feed/74362889",
-      "image": "http://image.coolapk.com/feed/2026/1015/01/4248714_4ded67cd_9183_145_317@1976x2634.jpg",
-      "summary": "【iPhone Duo 维修预估费用公布：内屏损坏7998元，电池服务1898元】 日前，苹果中国官网公布iPhone Duo的保外维修预估费用，覆盖多类损坏场景： ○ 表层损坏：398元 ○ 背面玻璃损坏：1598元 ○ 电池服务：1898元 ○ 后置相机损坏：1798元 ○ 外屏损坏：3198元 ○ 外屏和背面玻璃损坏：4298元 ○ 内屏损坏：799…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -502,26 +762,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-067927301af3",
-      "title": "Samsung won't show my Galaxy S24 Ultra's battery health, so I found it in a hidden log",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-14",
-      "time": "15:00",
-      "publishedAt": "2026-10-14T15:00:10.000Z",
-      "url": "https://www.androidpolice.com/samsung-wont-show-galaxy-s24-ultras-battery-health-found-it-in-hidden-log/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/10/samsung-galaxy-s24-ultra-battery-health-indicator.jpg",
-      "summary": "It tracks the data, it just doesn't show you",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-f3615e619241",
       "title": "Apple reportedly gearing up for strong iPhone 18 sales",
       "source": "9to5Mac",
@@ -577,26 +817,6 @@ window.phoneRadarAuto = {
       "summary": "The forthcoming standard Redmi K100 could offer flagship-grade hardware at a competitive price. A new tip from Digital Chat Station sheds light on its potential pricing and hardwa…",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-89174b214402",
-      "title": "Samsung updates Galaxy A54 with October 2026 security update",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-14",
-      "time": "13:20",
-      "publishedAt": "2026-10-14T13:20:55.000Z",
-      "url": "https://www.sammobile.com/news/samsung-updates-galaxy-a54-with-october-2026-security-update/",
-      "image": "",
-      "summary": "Samsung started rolling out the October 2026 security patch to Galaxy smartphones even before the month began. As expected, the Galaxy S26 series, one of the company’s newest and…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -759,26 +979,6 @@ window.phoneRadarAuto = {
         "Pixel",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-f77e46f3fb23",
-      "title": "数码闲聊站：红米K100标准版入网了，支持100W快充，你们对这台性能机有何期待？米系最大…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-14",
-      "time": "01:00",
-      "publishedAt": "2026-10-14T01:00:45.000Z",
-      "url": "https://weibo.com/6048569942/RmALd4lCT",
-      "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ii1lqyh86kj30oy082gom.jpg",
-      "summary": "红米K100标准版入网了，支持100W快充，你们对这台性能机有何期待？米系最大容量电池？超高刷直屏？更均衡外围配套？快了快了[doge]",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
       ]
     },
     {

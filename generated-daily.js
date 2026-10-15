@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-10-15T04:36:45.095Z",
+  "updatedAt": "2026-10-15T11:26:36.834Z",
   "issueDate": "2026-10-15",
   "issue": "VOL.261015",
   "title": "手机情报日报",
-  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 12 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 16,
-    "iphone": 12,
+    "total": 10,
+    "iphone": 7,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -37,30 +37,6 @@ window.phoneRadarDaily = {
             "影像硬件"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-93417e725f65",
-          "title": "竹本青：iPhone Duo 维修预估费用公布：内屏损坏7998元",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-10-14",
-          "time": "17:29",
-          "publishedAt": "2026-10-14T17:29:36.000Z",
-          "url": "https://www.coolapk.com/feed/74362889",
-          "image": "http://image.coolapk.com/feed/2026/1015/01/4248714_4ded67cd_9183_145_317@1976x2634.jpg",
-          "verdict": "先看",
-          "takeaway": "【iPhone Duo 维修预估费用公布：内屏损坏7998元，电池服务1898元】 日前，苹果中国官网公布iPhone Duo的保外维修预估费用，覆盖多类损坏场景： ○ 表层损坏：398元 ○ 背面玻璃损坏：1598元 ○ 电池服务：1898元 ○ 后置相机损坏：1798元 ○ 外屏损坏：3198元 ○ 外屏和背面玻璃损坏：4298元 ○ 内屏损坏：799…",
-          "detail": "【iPhone Duo 维修预估费用公布：内屏损坏7998元，电池服务1898元】 日前，苹果中国官网公布iPhone Duo的保外维修预估费用，覆盖多类损坏场景： ○ 表层损坏：398元 ○ 背面玻璃损坏：1598元 ○ 电池服务：1898元 ○ 后置相机损坏：1798元 ○ 外屏损坏：3198元 ○ 外屏和背面玻璃损坏：4298元 ○ 内屏损坏：799…",
-          "keyPoints": [
-            "影像硬件",
-            "电池 / 充电"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -157,21 +133,45 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-daeed9eb34cc",
-          "title": "今年所有的影像旗舰里，谁背后的镜头设计是做的最好的一款[受虐滑稽]#数码日常# #iPhone18ProMax# #华为Mate90ProMax#",
+          "id": "auto-716d480a854e",
+          "title": "努比亚 NaviX Ultra 手机新配色“星空典藏版”亮相，采用微纳米浮雕工艺设计",
           "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Huawei",
+          "source": "IT之家",
+          "brand": "行业",
           "type": "爆料",
-          "trust": "高关注爆料源",
+          "trust": "媒体汇总",
           "date": "2026-10-15",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/74333127",
-          "image": "",
+          "time": "08:30",
+          "publishedAt": "2026-10-15T08:30:13.000Z",
+          "url": "https://www.ithome.com/1/013/471.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/fcea21ac-0099-41a8-b5c3-91b6a40302ce.jpg?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "今年所有的影像旗舰里，谁背后的镜头设计是做的最好的一款[受虐滑稽]#数码日常# #iPhone18ProMax# #华为Mate90ProMax#",
-          "detail": "今年所有的影像旗舰里，谁背后的镜头设计是做的最好的一款[受虐滑稽]#数码日常# #iPhone18ProMax# #华为Mate90ProMax#",
+          "takeaway": "IT之家 10 月 15 日消息，在昨晚的 努比亚 NaviX Ultra 首场进化直播中，努比亚手机官方公开了这款手机的全新配色 ——“星空典藏版”。 ▲ IT之家实拍：努比亚 NaviX Ultra 手机 据介绍，努比亚 NaviX Ultra 手机的“星空典藏版”采用微纳米浮雕工艺， 灵感源自梵高《星空》 。官方表示，也是努比亚星空影像基因的一次传承…",
+          "detail": "IT之家 10 月 15 日消息，在昨晚的 努比亚 NaviX Ultra 首场进化直播中，努比亚手机官方公开了这款手机的全新配色 ——“星空典藏版”。 ▲ IT之家实拍：努比亚 NaviX Ultra 手机 据介绍，努比亚 NaviX Ultra 手机的“星空典藏版”采用微纳米浮雕工艺， 灵感源自梵高《星空》 。官方表示，也是努比亚星空影像基因的一次传承…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-e867056eb87e",
+          "title": "小米员工：小米 18 Fold 正适配 18 Pro 系列手机“传奇一瞬”功能，17 Ultra 徕卡版有望支持 M10R 相机效果",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-15",
+          "time": "10:25",
+          "publishedAt": "2026-10-15T10:25:26.000Z",
+          "url": "https://www.ithome.com/1/013/580.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/513b24c4-3a01-4c14-ad69-cdb6a3ca6997.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 10 月 15 日消息，小米相机部产品经理 @Bao_小李 今日发文称， 小米 18 Fold 折叠手机正在适配小米 18 Pro 系列的“传奇一瞬”功能 。 同时他还透露，小米 17 Ultra 徕卡版的“徕卡一瞬”功能， 正在适配 Leica M10R 相机的机身效果 ， 以及 Summicron 35mm、Summilux 75mm 的相机…",
+          "detail": "IT之家 10 月 15 日消息，小米相机部产品经理 @Bao_小李 今日发文称， 小米 18 Fold 折叠手机正在适配小米 18 Pro 系列的“传奇一瞬”功能 。 同时他还透露，小米 17 Ultra 徕卡版的“徕卡一瞬”功能， 正在适配 Leica M10R 相机的机身效果 ， 以及 Summicron 35mm、Summilux 75mm 的相机…",
           "keyPoints": [
             "影像硬件"
           ],
@@ -180,27 +180,25 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "weibo-4834600e4379",
-          "title": "数码闲聊站：iQOO Neo12屏幕提前摸到了👀 维信诺2K+185Hz LTPS，肉眼…",
+          "id": "auto-863a843a4778",
+          "title": "三星 Galaxy A58 手机影像曝光：500 万微距摄像头恐沿用第 7 年",
           "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "vivo",
+          "source": "IT之家",
+          "brand": "Samsung",
           "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-10-14",
-          "time": "12:42",
-          "publishedAt": "2026-10-14T12:42:07.000Z",
-          "url": "https://weibo.com/6048569942/RmFlTsuFB",
-          "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ii25zaourcj635c2dckjm08.jpg",
+          "trust": "媒体汇总",
+          "date": "2026-10-15",
+          "time": "07:30",
+          "publishedAt": "2026-10-15T07:30:40.000Z",
+          "url": "https://www.ithome.com/1/013/447.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/59787d8b-b497-4a61-8268-9429a989776c.jpg",
           "verdict": "先看",
-          "takeaway": "iQOO Neo12屏幕提前摸到了👀 维信诺2K+185Hz LTPS，肉眼看起来画质精细度不错，感官流畅度直接升了一档，看着很舒服。这也离不开iQOO和维信诺定制的驱动芯片，国产先进工艺，功耗差不多同传统1.5K屏。 首发维信诺×清华联合研发的「天空之镜」 发光材料，采用了第四代发光技术 pTSF，打破了屏幕高发光效率，长寿命，高色彩纯净度的不可能三角…",
-          "detail": "iQOO Neo12屏幕提前摸到了👀 维信诺2K+185Hz LTPS，肉眼看起来画质精细度不错，感官流畅度直接升了一档，看着很舒服。这也离不开iQOO和维信诺定制的驱动芯片，国产先进工艺，功耗差不多同传统1.5K屏。 首发维信诺×清华联合研发的「天空之镜」 发光材料，采用了第四代发光技术 pTSF，打破了屏幕高发光效率，长寿命，高色彩纯净度的不可能三角…",
+          "takeaway": "IT之家 10 月 15 日消息，科技媒体 Galaxy Club 昨日（10 月 14 日）发布博文，分享了三星 Galaxy A58 5G 手机的影像配置 ，称将会沿用 Galaxy A57 手机方案，预计继续缺少长焦镜头。 IT之家援引博文介绍，三星 Galaxy A58 手机正面采用 1,200 万像素前置摄像头，背面采用 5,000 万像素主摄像…",
+          "detail": "IT之家 10 月 15 日消息，科技媒体 Galaxy Club 昨日（10 月 14 日）发布博文，分享了三星 Galaxy A58 5G 手机的影像配置 ，称将会沿用 Galaxy A57 手机方案，预计继续缺少长焦镜头。 IT之家援引博文介绍，三星 Galaxy A58 手机正面采用 1,200 万像素前置摄像头，背面采用 5,000 万像素主摄像…",
           "keyPoints": [
-            "屏幕形态",
-            "芯片 / 性能",
-            "爆料来源"
+            "影像硬件"
           ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -256,151 +254,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响拍照体验，买旗舰机时值得关注。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "newsnow-a05aab0f616b",
-          "title": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-10-15",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/115308",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验",
-          "detail": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-71ad3efacfdb",
-          "title": "iPhone Duo：苹果，终究还是对强迫症下手了",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-10-15",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/115282",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "iPhone Duo：苹果，终究还是对强迫症下手了",
-          "detail": "iPhone Duo：苹果，终究还是对强迫症下手了",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-9ffe9b998bfe",
-          "title": "曝iPhone18Pro褪色",
-          "originalTitle": "",
-          "source": "微博热搜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "待验证",
-          "date": "2026-10-15",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DiPhone18Pro%E8%A4%AA%E8%89%B2%23&t=31&band_rank=14&Refer=top",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "曝iPhone18Pro褪色",
-          "detail": "曝iPhone18Pro褪色",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-43cbd3bcdcab",
-          "title": "iPhone Duo已完成大模型备案",
-          "originalTitle": "",
-          "source": "抖音热点",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "待验证",
-          "date": "2026-10-15",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.douyin.com/hot/2695338",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "iPhone Duo已完成大模型备案",
-          "detail": "iPhone Duo已完成大模型备案",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "market",
-      "title": "行业趋势",
-      "hint": "看方向，不急着当购买依据。",
-      "items": [
-        {
-          "id": "newsnow-7bd1339b2d89",
-          "title": "#酷安夜话#谁下班不想急头白脸吃一顿老婆做的饭！由于最近我俩工作太忙中午没时间吃饭老婆晚上把饭做了让我带去公司吃[流泪][流泪][流泪]，晚上出门吃了一顿胖哥俩说实话还没我老婆做的饭好吃[发怒][发怒]#荣耀Magic9ProMax# #酷工作# 工作再苦再累也值了！只要你觉得我累，我就不觉得累这句话是真的[流泪][流泪]",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-10-15",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/74360212",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "#酷安夜话#谁下班不想急头白脸吃一顿老婆做的饭！由于最近我俩工作太忙中午没时间吃饭老婆晚上把饭做了让我带去公司吃[流泪][流泪][流泪]，晚上出门吃了一顿胖哥俩说实话还没我老婆做的饭好吃[发怒][发怒]#荣耀Magic9ProMax# #酷工作# 工作再苦再累也值了！只要你觉得我累，我就不觉得累这句话是真的[流泪][流泪]",
-          "detail": "#酷安夜话#谁下班不想急头白脸吃一顿老婆做的饭！由于最近我俩工作太忙中午没时间吃饭老婆晚上把饭做了让我带去公司吃[流泪][流泪][流泪]，晚上出门吃了一顿胖哥俩说实话还没我老婆做的饭好吃[发怒][发怒]#荣耀Magic9ProMax# #酷工作# 工作再苦再累也值了！只要你觉得我累，我就不觉得累这句话是真的[流泪][流泪]",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-8a336c8263ad",
-          "title": "Pixel 相关消息",
-          "originalTitle": "",
-          "source": "Android Authority",
-          "brand": "Pixel",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-15",
-          "time": "04:29",
-          "publishedAt": "2026-10-15T04:29:29.000Z",
-          "url": "https://www.androidauthority.com/google-pixel-11-discount-ai-pro-subscriber-benefit-3723553/",
-          "image": "",
-          "verdict": "可略过",
-          "takeaway": "Pixel 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Pixel 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }
