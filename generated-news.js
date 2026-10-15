@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-15T16:59:22.236Z",
+  "updatedAt": "2026-10-15T21:21:26.762Z",
   "news": [
+    {
+      "id": "auto-b01de1d872c6",
+      "title": "IDC: Apple closes in on Samsung as global smartphone shipments see record decline in Q3",
+      "source": "9to5Mac",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-15",
+      "time": "20:35",
+      "publishedAt": "2026-10-15T20:35:49.000Z",
+      "url": "https://9to5mac.com/2026/10/15/idc-apple-closes-in-on-samsung-as-global-smartphone-shipments-see-record-decline-in-q3/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-pro-max-hand.jpg?quality=82&strip=all&w=1600",
+      "summary": "In a report published today, IDC says Apple saw a 4% year-over-year decline in global iPhone shipments during Q3 2026, but its share of worldwide smartphone shipments increased 23…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fd5c157ae008",
+      "title": "Apple execs talk Samsung’s role in creating iPhone Duo display",
+      "source": "9to5Mac",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-15",
+      "time": "19:00",
+      "publishedAt": "2026-10-15T19:00:14.000Z",
+      "url": "https://9to5mac.com/2026/10/15/apple-execs-talk-samsungs-role-in-creating-iphone-duo-display/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple is widely reported to have Samsung as its key supplier in building the iPhone Duo’s folding display. As a result, some have claimed that Apple is just “using a Samsung displ…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3156270510db",
+      "title": "This gaming phone gives Qualcomm’s latest powerhouse the liquid-cooling treatment",
+      "source": "Android Authority",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-15",
+      "time": "18:16",
+      "publishedAt": "2026-10-15T18:16:33.000Z",
+      "url": "https://www.androidauthority.com/redmagic-12-pro-snapdragon-8-elite-extreme-gen-6-3723955/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/REDMAGIC-12-Pro-Plus-scaled.jpg",
+      "summary": "The REDMAGIC 12 Pro Plus has an 8,400mAh battery and RGB liquid cooling.",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1fb5709201e4",
+      "title": "Apple is about to kick off four weeks straight of new product launches",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-15",
+      "time": "17:58",
+      "publishedAt": "2026-10-15T17:58:48.000Z",
+      "url": "https://9to5mac.com/2026/10/15/apple-is-about-to-kick-off-four-weeks-straight-of-new-product-launches/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-apple-fifth-avenue-store-launch.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple’s busiest product launch month is usually September. But despite a packed event last month, many more products remain ahead this fall. Next week’s iPhone Duo launch kicks of…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-67246e136862",
       "title": "特努斯谈早期折叠屏手机：感觉“有点廉价、质量也不怎么样”，苹果早在 2011 年就开始探索相关技术",
@@ -135,26 +215,6 @@ window.phoneRadarAuto = {
       "url": "https://9to5mac.com/2026/10/15/john-ternus-talks-iphone-duo-cheap-and-crappy-foldables-in-new-interview/",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-iphone-duo-introduction.jpg?quality=82&strip=all&w=1600",
       "summary": "TIME has just published its list of the best inventions of 2026, and iPhone Duo made the list with John Ternus featured on the magazine cover. Here’s what Ternus said in his inter…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2a4b7a7dc287",
-      "title": "Prep your cart before iPhone Duo preorders open tomorrow",
-      "source": "The Verge",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-15",
-      "time": "14:07",
-      "publishedAt": "2026-10-15T14:07:33.000Z",
-      "url": "https://www.theverge.com/news/1011902/apple-iphone-duo-get-ready-preorder",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_2026_event_handson_ADiBenedetto_0003.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "Apple's iPhone Duo foldable phone opens for preorder tomorrow, October 16th, at 8am ET / 5am PT, but you don't have to wait until then to get your order mostly sorted. The company…",
       "tags": [
         "iPhone",
         "爆料",
@@ -522,26 +582,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-90b22350f5a3",
-      "title": "Google is handing out a surprise 30% discount on the Pixel 11 series",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-15",
-      "time": "10:24",
-      "publishedAt": "2026-10-15T10:24:18.000Z",
-      "url": "https://www.androidpolice.com/google-handing-users-a-surprise-discount-on-the-pixel-11-series/",
-      "image": "",
-      "summary": "A welcome discount on the Pixel 11 lineup",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-c21b248a20a0",
       "title": "Even a 1TB Galaxy Z Fold 8 can cost less than a 256GB iPhone Duo",
       "source": "SamMobile",
@@ -902,6 +942,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-3460cfbf2025",
+      "title": "酷友们，双十一，16+512，k90至尊版，k100promax，17max，iQOO15，x300Pro。这些机器多少算好价啊[托腮][托腮][托腮]。还有一个真我gt8Pro但是好像16+512没货了。#iQOO15# #REDMIK90至尊版# #vivoX300Pro#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-15",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74340825",
+      "image": "",
+      "summary": "酷友们，双十一，16+512，k90至尊版，k100promax，17max，iQOO15，x300Pro。这些机器多少算好价啊[托腮][托腮][托腮]。还有一个真我gt8Pro但是好像16+512没货了。#iQOO15# #REDMIK90至尊版# #vivoX300Pro#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-7bd1339b2d89",
       "title": "#酷安夜话#谁下班不想急头白脸吃一顿老婆做的饭！由于最近我俩工作太忙中午没时间吃饭老婆晚上把饭做了让我带去公司吃[流泪][流泪][流泪]，晚上出门吃了一顿胖哥俩说实话还没我老婆做的饭好吃[发怒][发怒]#荣耀Magic9ProMax# #酷工作# 工作再苦再累也值了！只要你觉得我累，我就不觉得累这句话是真的[流泪][流泪]",
       "source": "酷安热榜",
@@ -917,6 +977,26 @@ window.phoneRadarAuto = {
       "summary": "#酷安夜话#谁下班不想急头白脸吃一顿老婆做的饭！由于最近我俩工作太忙中午没时间吃饭老婆晚上把饭做了让我带去公司吃[流泪][流泪][流泪]，晚上出门吃了一顿胖哥俩说实话还没我老婆做的饭好吃[发怒][发怒]#荣耀Magic9ProMax# #酷工作# 工作再苦再累也值了！只要你觉得我累，我就不觉得累这句话是真的[流泪][流泪]",
       "tags": [
         "HONOR",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-04dacfb4b06c",
+      "title": "Holy shit，真的是错怪 iPhone Air 了，这 iPhone 18 Pro Max 发起热来也不容小觑，我一时竟分不清到底是散热好还是散热不好了，打个补丁，新机倒腾了不少东西，明天看看还是不是热热的、温温的",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-15",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74342405",
+      "image": "",
+      "summary": "Holy shit，真的是错怪 iPhone Air 了，这 iPhone 18 Pro Max 发起热来也不容小觑，我一时竟分不清到底是散热好还是散热不好了，打个补丁，新机倒腾了不少东西，明天看看还是不是热热的、温温的",
+      "tags": [
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -939,26 +1019,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-7d7268bd0c69",
-      "title": "Discover the Best Cases and Screen Protectors for Your New iPhone Duo",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-14",
-      "time": "18:32",
-      "publishedAt": "2026-10-14T18:32:25.000Z",
-      "url": "https://www.macrumors.com/2026/10/14/cases-protectors-iphone-duo/",
-      "image": "https://images.macrumors.com/article-new/2026/09/iphone-18-duo-cases-new-blue.jpeg",
-      "summary": "iPhone Duo pre-orders kick off this Friday , and in anticipation of the event we've gathered all of the best cases and screen protectors you can get for your new iPhone Duo. This…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -1218,26 +1278,6 @@ window.phoneRadarAuto = {
       "tags": [
         "iPhone",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d4915c3d242d",
-      "title": "Struggling with calls on your Pixel? The latest Android beta has tools for you (Update: Not new)",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-14",
-      "time": "06:32",
-      "publishedAt": "2026-10-14T06:32:33.000Z",
-      "url": "https://www.androidauthority.com/android-17-qpr3-beta-1-more-diagnostic-tools-3722950/",
-      "image": "",
-      "summary": "Update: These tools aren't actually new, but previously arrived on the Pixel 11 series.",
-      "tags": [
-        "Pixel",
-        "爆料",
         "自动抓取"
       ]
     },

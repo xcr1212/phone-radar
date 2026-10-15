@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-10-15T16:59:22.236Z",
+  "updatedAt": "2026-10-15T21:21:26.762Z",
   "issueDate": "2026-10-15",
   "issue": "VOL.261015",
   "title": "手机情报日报",
@@ -58,6 +58,29 @@ window.phoneRadarDaily = {
           "detail": "这些新技术将如何让我们的照片和视频更好？",
           "keyPoints": [
             "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-04dacfb4b06c",
+          "title": "Holy shit，真的是错怪 iPhone Air 了，这 iPhone 18 Pro Max 发起热来也不容小觑，我一时竟分不清到底是散热好还是散热不好了，打个补丁，新机倒腾了不少东西，明天看看还是不是热热的、温温的",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-10-15",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/74342405",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "Holy shit，真的是错怪 iPhone Air 了，这 iPhone 18 Pro Max 发起热来也不容小觑，我一时竟分不清到底是散热好还是散热不好了，打个补丁，新机倒腾了不少东西，明天看看还是不是热热的、温温的",
+          "detail": "Holy shit，真的是错怪 iPhone Air 了，这 iPhone 18 Pro Max 发起热来也不容小觑，我一时竟分不清到底是散热好还是散热不好了，打个补丁，新机倒腾了不少东西，明天看看还是不是热热的、温温的",
+          "keyPoints": [
+            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -125,29 +148,6 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
           "detail": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-7d7268bd0c69",
-          "title": "iPhone 屏幕规格相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-14",
-          "time": "18:32",
-          "publishedAt": "2026-10-14T18:32:25.000Z",
-          "url": "https://www.macrumors.com/2026/10/14/cases-protectors-iphone-duo/",
-          "image": "https://images.macrumors.com/article-new/2026/09/iphone-18-duo-cases-new-blue.jpeg",
-          "verdict": "先看",
-          "takeaway": "iPhone 屏幕规格相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "屏幕形态"
           ],
