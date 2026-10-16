@@ -1,6 +1,146 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-16T18:02:45.612Z",
+  "updatedAt": "2026-10-16T21:06:29.786Z",
   "news": [
+    {
+      "id": "auto-4f960f6a6f6d",
+      "title": "Report: Apple gains ground on rivals, but iPhone 18 Pro and iPhone Duo face challenges",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-16",
+      "time": "21:06",
+      "publishedAt": "2026-10-16T21:06:13.000Z",
+      "url": "https://9to5mac.com/2026/10/16/report-apple-gains-ground-on-rivals-but-iphone-18-pro-and-iphone-duo-face-challenges/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-color-lineup-official.jpg?quality=82&strip=all&w=1600",
+      "summary": "In a new investor note sent out this week, GF Securities’ Jeff Pu and Henry Huang project that Apple will be the only major smartphone manufacturer to grow shipments in 2026, even…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-473b2c9fcb0e",
+      "title": "竹本青：【一加 Ace7系列 外观曝光：左上矩阵Deco，内置散热风扇】 日前，一加 Ace7系列 手机开启超前预约。新机…",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-16",
+      "time": "20:10",
+      "publishedAt": "2026-10-16T20:10:16.000Z",
+      "url": "https://www.coolapk.com/feed/74411269",
+      "image": "http://image.coolapk.com/feed/2026/1017/04/4248714_2b4d5046_2936_4934_703@1272x1810.jpg",
+      "summary": "【一加 Ace7系列 外观曝光：左上矩阵Deco，内置散热风扇】 日前，一加 Ace7系列 手机开启超前预约。新机外观同步曝光，采用左上角矩阵Deco，内置主动散热风扇，首发双路出风架构。 据此前博主爆料，Ace7系列将搭载骁龙8E5V/8E5处理器；全系标配185Hz高刷屏、200MP HP5主摄，Pro版新增50MP 3.5X潜望长焦，OPPO影像旗舰…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-3218a42344ef",
+      "title": "iPhone Duo vs iPhone 18 Pro: Here’s every key difference",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-16",
+      "time": "19:55",
+      "publishedAt": "2026-10-16T19:55:17.000Z",
+      "url": "https://9to5mac.com/2026/10/16/iphone-18-pro-vs-iphone-duo-heres-every-key-difference/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-vs-iphone-duo-fi.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple has strong pitches for all of its flagship iPhones this fall, but which model is right for you? Here’s an overview of the key differences between iPhone Duo and iPhone 18 Pr…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3d5a3af98b47",
+      "title": "Apple's $79 iPhone Duo Case Sticks On With Adhesive",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-16",
+      "time": "19:51",
+      "publishedAt": "2026-10-16T19:51:58.000Z",
+      "url": "https://www.macrumors.com/2026/10/16/iphone-duo-case-adhesive/",
+      "image": "https://images.macrumors.com/article-new/2026/09/iphone-duo-case.jpg",
+      "summary": "Apple's iPhone Duo Case uses adhesive to attach to the device, according to people who have picked one up . The case comes in two pieces and uses adhesive strips along the inside…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-74b07d473621",
+      "title": "My Pixel 10 Pro's battery life reached a new level after turning off Smooth Display",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-16",
+      "time": "19:00",
+      "publishedAt": "2026-10-16T19:00:13.000Z",
+      "url": "https://www.androidpolice.com/pixel-10-pros-battery-life-reached-new-level-after-turning-off-smooth-display/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/04/img_9655.jpg",
+      "summary": "Smooth Display sounded great at first, but the battery drainage wasn't worth it",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9685111c57cb",
+      "title": "Google’s latest anti-doomscrolling tool is shedding its Pixel exclusivity",
+      "source": "Android Authority",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-16",
+      "time": "18:42",
+      "publishedAt": "2026-10-16T18:42:03.000Z",
+      "url": "https://www.androidauthority.com/pause-point-expanding-3724620/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2022/08/Google-Digital-Wellbeing-stock-photo-4.jpg",
+      "summary": "OnePlus phones are starting to get a taste of Digital Wellbeing's Pause Point.",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-126d158c9b0a",
+      "title": "Buying an iPhone Duo? Verizon has a few ways to make it cheaper",
+      "source": "Android Authority",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-16",
+      "time": "18:05",
+      "publishedAt": "2026-10-16T18:05:41.000Z",
+      "url": "https://www.androidauthority.com/verizon-iphone-pre-oder-deals-3724574/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Apple-iPhone-Duo-Hands-On-Inner-display.jpg",
+      "summary": "Save as much as $1,200 with these Verizon offers.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-34d0ac8275f8",
       "title": "Galaxy S26 Ultra is one of the ‘best inventions of 2026’ thanks to its Privacy Display",
@@ -282,26 +422,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-ee4ef01f0dc5",
-      "title": "iPhone Duo orders are already delayed into 2027",
-      "source": "The Verge",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-16",
-      "time": "13:10",
-      "publishedAt": "2026-10-16T13:10:11.000Z",
-      "url": "https://www.theverge.com/tech/1012805/apple-iphone-duo-preorder-delay",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/apple-event-september-2026-452-10-57-30.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "Delivery estimates for the iPhone Duo slipped into next year in less than an hour after Apple opened preorders for it at 8AM ET on Friday. At the time of writing we are seeing lat…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-ce4f6e853144",
       "title": "iPhone Duo sells out immediately, now backordered until next year",
       "source": "9to5Mac",
@@ -522,46 +642,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-d1219c811bce",
-      "title": "Galaxy S27 Ultra could ditch Snapdragon after Qualcomm reportedly fails Samsung's tests",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-16",
-      "time": "11:05",
-      "publishedAt": "2026-10-16T11:05:28.000Z",
-      "url": "https://www.androidpolice.com/s27-ultra-exynos-snapdragon-overheating/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/09/galaxy-s27-ultra-background.png",
-      "summary": "Samsung may ditch Snapdragon for Exynos",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-f403d5e918f3",
-      "title": "竹本青：荣耀高管怒批自家宣发：WIN2屏幕实力不允许再低调",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-16",
-      "time": "11:00",
-      "publishedAt": "2026-10-16T11:00:50.000Z",
-      "url": "https://www.coolapk.com/feed/74401986",
-      "image": "http://image.coolapk.com/feed/2026/1016/19/4248714_5318e612_8447_7387_648@1272x1819.jpg",
-      "summary": "【荣耀高管怒批自家宣发：WIN2屏幕实力不允许再低调】 10月16日，荣耀中国区电商部部长发文称，刚才已猛猛批评自家团队： “去年别人大肆宣传165Hz屏，我们185Hz却很低调。今年别人追到了 185Hz ，都又拿来当主菜，而今年我们屏幕更夯上大分，无死角的强，我们就不能再像去年那样再低调了，实力不允许啊。” 据荣耀官方此前预热，WIN2系列全系搭载2K…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "coolapk-user-a0c5b664bb6e",
       "title": "竹本青：上周国内手机市场份额曝光：苹果连续四周榜首",
       "source": "竹本青",
@@ -639,26 +719,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-c4ad7307a5ad",
-      "title": "竹本青：【Flyme 12.7「超级Aicy」内测开启，支持魅族22/21/20系列】 10月16日，魅族Flyme 12…",
-      "source": "竹本青",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-16",
-      "time": "08:39",
-      "publishedAt": "2026-10-16T08:39:12.000Z",
-      "url": "https://www.coolapk.com/feed/74399040",
-      "image": "http://image.coolapk.com/feed/2026/1016/16/4248714_d5efc5c4_0128_6948_35@1000x1778.jpg",
-      "summary": "【Flyme 12.7「超级Aicy」内测开启，支持魅族22/21/20系列】 10月16日，魅族Flyme 12.7「超级Aicy」内测开启招募，支持魅族22、21、20系列共6款机型，预计10月19日起陆续推送。 此次更新围绕「超级Aicy」展开，要求版本号12.6.0.0A，但具体新增特性尚未公布。 #今日热点# #FlymeAIOS2# #魅族22#",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -1042,21 +1102,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-0dcbf1df3df9",
-      "title": "REDMI K100 亮相：后置双摄/横贯矩阵",
+      "id": "newsnow-712853305cbf",
+      "title": "iPhone Duo 入选 2026《时代周刊》年度最佳发明",
       "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-16",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74393639",
+      "url": "https://www.coolapk.com/feed/74400785",
       "image": "",
-      "summary": "REDMI K100 亮相：后置双摄/横贯矩阵",
+      "summary": "iPhone Duo 入选 2026《时代周刊》年度最佳发明",
       "tags": [
-        "Xiaomi",
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -1082,7 +1142,27 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-aaef29096341",
+      "id": "newsnow-0dcbf1df3df9",
+      "title": "REDMI K100 亮相：后置双摄/横贯矩阵",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-16",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74393639",
+      "image": "",
+      "summary": "REDMI K100 亮相：后置双摄/横贯矩阵",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-b6aab67f9218",
       "title": "iPhoneDuo首批黑色溢价16000元",
       "source": "微博热搜",
       "brand": "iPhone",
@@ -1092,7 +1172,7 @@ window.phoneRadarAuto = {
       "date": "2026-10-16",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhoneDuo%E9%A6%96%E6%89%B9%E9%BB%91%E8%89%B2%E6%BA%A2%E4%BB%B716000%E5%85%83%23&t=31&band_rank=22&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23iPhoneDuo%E9%A6%96%E6%89%B9%E9%BB%91%E8%89%B2%E6%BA%A2%E4%BB%B716000%E5%85%83%23&t=31&band_rank=25&Refer=top",
       "image": "",
       "summary": "iPhoneDuo首批黑色溢价16000元",
       "tags": [
@@ -1142,6 +1222,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-7b8de2100432",
+      "title": "iPhone Duo选购指南",
+      "source": "B站热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-16",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://search.bilibili.com/all?keyword=iPhone%20Duo%E9%80%89%E8%B4%AD%E6%8C%87%E5%8D%97",
+      "image": "",
+      "summary": "iPhone Duo选购指南",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-b92891dc367b",
       "title": "多个手机品牌集体宣布降价",
       "source": "今日头条热榜",
@@ -1162,26 +1262,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-03ebd1b1467b",
-      "title": "iPhone Duo首批现货最高涨7143元",
-      "source": "百度热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-16",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=iPhone+Duo%E9%A6%96%E6%89%B9%E7%8E%B0%E8%B4%A7%E6%9C%80%E9%AB%98%E6%B6%A87143%E5%85%83",
-      "image": "",
-      "summary": "iPhone Duo首批现货最高涨7143元",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-2a4bb0e066ff",
       "title": "iPhone Duo发货已排到明年",
       "source": "百度热搜",
@@ -1195,6 +1275,26 @@ window.phoneRadarAuto = {
       "url": "https://www.baidu.com/s?wd=iPhone+Duo%E5%8F%91%E8%B4%A7%E5%B7%B2%E6%8E%92%E5%88%B0%E6%98%8E%E5%B9%B4",
       "image": "",
       "summary": "iPhone Duo发货已排到明年",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-03ebd1b1467b",
+      "title": "iPhone Duo首批现货最高涨7143元",
+      "source": "百度热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-16",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=iPhone+Duo%E9%A6%96%E6%89%B9%E7%8E%B0%E8%B4%A7%E6%9C%80%E9%AB%98%E6%B6%A87143%E5%85%83",
+      "image": "",
+      "summary": "iPhone Duo首批现货最高涨7143元",
       "tags": [
         "iPhone",
         "爆料",
