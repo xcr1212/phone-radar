@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-10-16T13:14:14.174Z",
+  "updatedAt": "2026-10-16T18:02:45.612Z",
   "issueDate": "2026-10-16",
   "issue": "VOL.261016",
   "title": "手机情报日报",
-  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 11,
-    "iphone": 7,
+    "total": 12,
+    "iphone": 6,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -111,29 +111,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-4f414a312bb5",
-          "title": "iPhone 发布 / 上市相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-15",
-          "time": "13:10",
-          "publishedAt": "2026-10-15T13:10:37.000Z",
-          "url": "https://www.macrumors.com/2026/10/15/apple-deadline-to-get-ready-iphone-duo-preorder/",
-          "image": "https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Trio.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 发布 / 上市相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "weibo-869f67f72608",
           "title": "数码闲聊站：在主流品牌中，一加16是唯一支持全局165Hz的新机，主要这块屏幕是185Hz…",
           "originalTitle": "",
@@ -201,6 +178,29 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-4d783301f918",
+          "title": "竹本青：【维信诺认领：荣耀WIN 2系列 全系首发搭载2K 185Hz电竞屏】 10月16日晚间，维信诺官宣为荣耀WIN…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-10-16",
+          "time": "13:43",
+          "publishedAt": "2026-10-16T13:43:09.000Z",
+          "url": "https://www.coolapk.com/feed/74406013",
+          "image": "http://image.coolapk.com/feed/2026/1016/21/4248714_dbfbd06a_8188_2861_528@1072x1916.jpg",
+          "verdict": "先看",
+          "takeaway": "【维信诺认领：荣耀WIN 2系列 全系首发搭载2K 185Hz电竞屏】 10月16日晚间，维信诺官宣为荣耀WIN 2系列全系屏幕唯一战略合作伙伴，双方联合定制全球首款2K 185Hz电竞护眼屏 今天早些时候，荣耀中国区电商部部长怒评自家宣发团队，称去年竞品大肆宣传165Hz屏幕时，荣耀185Hz屏幕保持低调；今年竞品跟进至185Hz并作为核心卖点，而荣耀W…",
+          "detail": "【维信诺认领：荣耀WIN 2系列 全系首发搭载2K 185Hz电竞屏】 10月16日晚间，维信诺官宣为荣耀WIN 2系列全系屏幕唯一战略合作伙伴，双方联合定制全球首款2K 185Hz电竞护眼屏 今天早些时候，荣耀中国区电商部部长怒评自家宣发团队，称去年竞品大肆宣传165Hz屏幕时，荣耀185Hz屏幕保持低调；今年竞品跟进至185Hz并作为核心卖点，而荣耀W…",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -284,6 +284,29 @@ window.phoneRadarDaily = {
             "爆料"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-0dcbf1df3df9",
+          "title": "REDMI K100 亮相：后置双摄/横贯矩阵",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-10-16",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/74393639",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "REDMI K100 亮相：后置双摄/横贯矩阵",
+          "detail": "REDMI K100 亮相：后置双摄/横贯矩阵",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }

@@ -1,6 +1,266 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-16T13:14:14.174Z",
+  "updatedAt": "2026-10-16T18:02:45.612Z",
   "news": [
+    {
+      "id": "auto-34d0ac8275f8",
+      "title": "Galaxy S26 Ultra is one of the ‘best inventions of 2026’ thanks to its Privacy Display",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-16",
+      "time": "17:42",
+      "publishedAt": "2026-10-16T17:42:53.000Z",
+      "url": "https://9to5google.com/2026/10/16/galaxy-s26-ultra-privacy-display-gets-it-on-best-inventions-list/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Privacy-Screen-angled-Galaxy-S26-Ultra-1.jpg?quality=82&strip=all&w=1600",
+      "summary": "A new 2026 roundup has the Galaxy S26 Ultra included in a list of best inventions for the year, all thanks to what it doesn’t display. more…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ce413f57a0e8",
+      "title": "Overheating issues may force Galaxy S27 Ultra to switch from Snapdragon to Exynos",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-10-16",
+      "time": "17:35",
+      "publishedAt": "2026-10-16T17:35:05.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/overheating-issues-may-force-galaxy-s27-ultra-to-switch-from-snapdragon-to-exynos",
+      "image": "https://cdn.mos.cms.futurecdn.net/bmBwfAjjnb3SV27iRx2b4G-1920-80.jpg",
+      "summary": "The Galaxy S27 Ultra is reportedly overheating severely in tests with Qualcomm's Extreme Snapdragon chip. If unfixed, Samsung could be faced with an important decision.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d756f2dd9b43",
+      "title": "Galaxy S27 reportedly skips Snapdragon 8 Elite Extreme Gen 6 due to overheating",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-16",
+      "time": "16:50",
+      "publishedAt": "2026-10-16T16:50:00.000Z",
+      "url": "https://9to5google.com/2026/10/16/samsung-galaxy-s27-snapdragon-overheating-report/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Snapdragon-8-Elite-Extreme-Gen-6.jpg?quality=82&strip=all&w=1600",
+      "summary": "According to a new report, Samsung’s Galaxy S27 series might not use the latest Snapdragon chipset due to overheating problems. more…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0fdf41ace09d",
+      "title": "iPhone Duo orders are delayed into 2027; here are the Android foldables you should try instead",
+      "source": "9to5Google",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-16",
+      "time": "16:10",
+      "publishedAt": "2026-10-16T16:10:00.000Z",
+      "url": "https://9to5google.com/2026/10/16/iphone-duo-pre-order-delay-android-foldable-alternatives/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/iphone-duo-10.jpg?quality=82&strip=all&w=1600",
+      "summary": "The iPhone Duo is already delayed for months just hours after pre-orders have opened, leaving those interested in foldables unable to get Apple’s take anytime soon. If you’re seri…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fe021b783bac",
+      "title": "Here’s the difference the variable aperture of the iPhone 18 Pro makes at night",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-16",
+      "time": "16:00",
+      "publishedAt": "2026-10-16T16:00:00.000Z",
+      "url": "https://9to5mac.com/2026/10/16/heres-the-difference-the-variable-aperture-of-the-iphone-18-pro-makes-at-night/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iPhone-18-Pro-night-shot.jpeg?quality=82&strip=all&w=1600",
+      "summary": "I previously tested the difference the wider aperture of the iPhone 18 Pro makes when it comes to depth of field . The executive summary is that the difference is small, but defin…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-92be4fc19bde",
+      "title": "Readers crown this Android flagship the best iPhone 18 Pro Max alternative",
+      "source": "Android Authority",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-16",
+      "time": "15:27",
+      "publishedAt": "2026-10-16T15:27:14.000Z",
+      "url": "https://www.androidauthority.com/best-iphone-18-pro-max-alternative-poll-results-3724532/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/iphone-18-pro-max-5-scaled.jpg",
+      "summary": "Pro or Pro Max? You'd rather have an Ultra instead.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-129d1a1ac65b",
+      "title": "iPhone Duo launch is a massive success, but Apple has a problem",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-16",
+      "time": "15:10",
+      "publishedAt": "2026-10-16T15:10:55.000Z",
+      "url": "https://9to5mac.com/2026/10/16/iphone-duo-launch-is-a-massive-success-but-apple-has-a-problem/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-iphone-duo-introduction.jpg?quality=82&strip=all&w=1600",
+      "summary": "iPhone Duo pre-orders opened today, but if you weren’t there right at the start, you likely now can’t get one before 2027 . That makes the iPhone Duo launch a massive success, but…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-bd6de2d3ee0e",
+      "title": "Best iPhone Duo cases now available for purchase: Fabric, leather, aramid fiber, metal, more",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-16",
+      "time": "15:00",
+      "publishedAt": "2026-10-16T15:00:36.000Z",
+      "url": "https://9to5mac.com/2026/10/16/best-iphone-duo-cases-now-available-purchase/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Best-iPhone-Duo-Cases-available-purchase.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple’s new iPhone Duo Apple’s all-new TechWoven treatment and Pitaka’s aramid fiber, we are also seeing some of the best leather brands in the business ready to take orders for t…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6b93cda3e4ac",
+      "title": "iPhone 18 Pro one month later: These features keep impressing me",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-16",
+      "time": "14:23",
+      "publishedAt": "2026-10-16T14:23:42.000Z",
+      "url": "https://9to5mac.com/2026/10/16/iphone-18-pro-one-month-later-these-features-keep-impressing-me/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-rc-airpods-pro-3.jpg?quality=82&strip=all&w=1600",
+      "summary": "I’ve had the iPhone 18 Pro for about a month now , and during that time three main features have consistently impressed me. more…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-4d783301f918",
+      "title": "竹本青：【维信诺认领：荣耀WIN 2系列 全系首发搭载2K 185Hz电竞屏】 10月16日晚间，维信诺官宣为荣耀WIN…",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-16",
+      "time": "13:43",
+      "publishedAt": "2026-10-16T13:43:09.000Z",
+      "url": "https://www.coolapk.com/feed/74406013",
+      "image": "http://image.coolapk.com/feed/2026/1016/21/4248714_dbfbd06a_8188_2861_528@1072x1916.jpg",
+      "summary": "【维信诺认领：荣耀WIN 2系列 全系首发搭载2K 185Hz电竞屏】 10月16日晚间，维信诺官宣为荣耀WIN 2系列全系屏幕唯一战略合作伙伴，双方联合定制全球首款2K 185Hz电竞护眼屏 今天早些时候，荣耀中国区电商部部长怒评自家宣发团队，称去年竞品大肆宣传165Hz屏幕时，荣耀185Hz屏幕保持低调；今年竞品跟进至185Hz并作为核心卖点，而荣耀W…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-2a4739362a09",
+      "title": "Developers Question Scope of Potential Apple Antitrust Settlement",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-16",
+      "time": "13:41",
+      "publishedAt": "2026-10-16T13:41:29.000Z",
+      "url": "https://www.macrumors.com/2026/10/16/developers-question-scope-of-antitrust-settlement/",
+      "image": "https://images.macrumors.com/article-new/2024/03/Apple-vs-DOJ-Feature.jpg",
+      "summary": "Developers are questioning whether a settlement of the U.S. government's antitrust case against Apple would meaningfully loosen the company's control over the iPhone, according to…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-dd4894544b88",
+      "title": "iPhone Duo Resold for $5,000 on eBay After Selling Out",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-16",
+      "time": "13:39",
+      "publishedAt": "2026-10-16T13:39:15.000Z",
+      "url": "https://www.macrumors.com/2026/10/16/iphone-duo-resold-for-5000-dollars-on-ebay/",
+      "image": "https://images.macrumors.com/article-new/2026/10/iPhone-Duo-on-eBay.jpg",
+      "summary": "As spotted by Vadim Yuryev of the YouTube channel Max Tech , the iPhone Duo has already been resold on eBay for as much as $5,000 after shipping estimates for the device slipped i…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2af07efe734f",
+      "title": "iPhone Duo accessories: Here are five top picks for Apple’s foldable",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-16",
+      "time": "13:17",
+      "publishedAt": "2026-10-16T13:17:34.000Z",
+      "url": "https://9to5mac.com/2026/10/16/iphone-duo-accessories-here-are-five-top-picks-for-apples-foldable/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-5.jpeg?quality=82&strip=all&w=1600",
+      "summary": "iPhone Duo is almost here, so if you want to get a head start on accessories for Apple’s new model, here are our top recommendations. more…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-749d313ee88f",
       "title": "iPhone Duo is Sold Out for Christmas as Shipping Estimates Slip to 2027",
@@ -155,26 +415,6 @@ window.phoneRadarAuto = {
       "url": "https://www.ithome.com/1/014/146.htm",
       "image": "https://img.ithome.com/newsuploadfiles/2026/10/7eedaf9a-b202-4f14-8d9e-a1ddeecf8be5.jpg?x-bce-process=image/format,f_auto",
       "summary": "IT之家 10 月 16 日消息，中国联通今日宣布，面向 2009 年通过联通渠道购得正版 iPhone 的老用户，开放 iPhone Duo 最高优先级购机资格。 相关用户可通过联通官网（IT之家附地址： https://go.10010.com:32001/apple-booking/ ）核验身份，结果显示为“尊享挚友”后，可前往就近的联通苹果授权门店…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1251a3c3c9fd",
-      "title": "The iPhone Duo is now available to preorder at $1,999",
-      "source": "The Verge",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-16",
-      "time": "11:41",
-      "publishedAt": "2026-10-16T11:41:35.000Z",
-      "url": "https://www.theverge.com/gadgets/988582/apple-iphone-duo-preorder-buy-foldable",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0005.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "Few phones have been more anticipated than a foldable iPhone, but it's finally here. The iPhone Duo was unveiled during Apple's \"Surprise and shine\" event alongside the iPhone 18…",
       "tags": [
         "iPhone",
         "爆料",
@@ -582,28 +822,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-20caecdd1b4a",
-      "title": "竹本青：荣耀WIN2 安兔兔低温实验室跑分曝光：超570万",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-16",
-      "time": "06:09",
-      "publishedAt": "2026-10-16T06:09:11.000Z",
-      "url": "https://www.coolapk.com/feed/74395901",
-      "image": "http://image.coolapk.com/feed/2026/1016/14/4248714_351fc4cf_0950_353_951@700x984.jpg",
-      "summary": "【荣耀WIN2 安兔兔低温实验室跑分曝光：超570万】 10月16日，据安兔兔官方消息，其在后台发现了即将发布的荣耀WIN2，搭载第六代骁龙8超级至尊版移动平台，内置16GB内存以及1TB存储，同时还有2K分辨率185Hz屏幕。 在低温状态下，实验室跑分达到了5702964。其中，CPU成绩为1502737，GPU成绩为2072221，MEM成绩为7557…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-a3cf550ae74b",
-      "title": "Snapdragon heating issues could force Samsung to use Exynos in Galaxy S27 Ultra",
+      "title": "[Updated] Snapdragon heating issues could force Samsung to use Exynos in Galaxy S27 Ultra",
       "source": "SamMobile",
       "brand": "Samsung",
       "model": "Samsung 相关机型",
@@ -614,7 +834,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-10-16T05:55:08.000Z",
       "url": "https://www.sammobile.com/news/galaxy-s27-ultra-snapdragon-heating-issues-use-exynos-2700/",
       "image": "",
-      "summary": "Samsung has exclusively used Qualcomm's Snapdragon chips in its Galaxy S Ultra phones for the past few years, and the Galaxy S27 Ultra was expected to follow suit. However, it now…",
+      "summary": "Update: Reports of the Snapdragon 8 Elite Extreme Gen 6 chip overheating in the Galaxy S27 Ultra are “100% NOT accurate,” according to Qualcomm Executive Vice President and Chief…",
       "tags": [
         "Samsung",
         "爆料",
@@ -862,8 +1082,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-b38eac4131b3",
-      "title": "iPhoneDuo开抢",
+      "id": "newsnow-aaef29096341",
+      "title": "iPhoneDuo首批黑色溢价16000元",
       "source": "微博热搜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -872,9 +1092,9 @@ window.phoneRadarAuto = {
       "date": "2026-10-16",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=iPhoneDuo%E5%BC%80%E6%8A%A2&t=31&band_rank=6&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23iPhoneDuo%E9%A6%96%E6%89%B9%E9%BB%91%E8%89%B2%E6%BA%A2%E4%BB%B716000%E5%85%83%23&t=31&band_rank=22&Refer=top",
       "image": "",
-      "summary": "iPhoneDuo开抢",
+      "summary": "iPhoneDuo首批黑色溢价16000元",
       "tags": [
         "iPhone",
         "爆料",
@@ -882,22 +1102,22 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-27cc8499f4c0",
-      "title": "iPhone Duo预售溢价10000元",
-      "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
+      "id": "newsnow-67c9dd946f63",
+      "title": "女子在自己手机上登录前男友账号以「1314」等金额转走近二十万，法院判决全部返还，如何从法律角度解读？",
+      "source": "知乎热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "市场报告",
+      "trust": "媒体汇总",
       "date": "2026-10-16",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=iPhone%20Duo%E9%A2%84%E5%94%AE%E6%BA%A2%E4%BB%B710000%E5%85%83&t=31&band_rank=22&Refer=top",
+      "url": "https://www.zhihu.com/question/2094468678930674171",
       "image": "",
-      "summary": "iPhone Duo预售溢价10000元",
+      "summary": "女子在自己手机上登录前男友账号以「1314」等金额转走近二十万，法院判决全部返还，如何从法律角度解读？",
       "tags": [
-        "iPhone",
-        "爆料",
+        "行业",
+        "市场报告",
         "NewsNow"
       ]
     },
@@ -942,28 +1162,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-221f3ba6c57b",
-      "title": "手机掉进地铁缝连播16小时短剧",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-16",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E6%8E%89%E8%BF%9B%E5%9C%B0%E9%93%81%E7%BC%9D%E8%BF%9E%E6%92%AD16%E5%B0%8F%E6%97%B6%E7%9F%AD%E5%89%A7",
-      "image": "",
-      "summary": "手机掉进地铁缝连播16小时短剧",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-a002715a3ebd",
-      "title": "iPhone Duo预售溢价10000元",
+      "id": "newsnow-03ebd1b1467b",
+      "title": "iPhone Duo首批现货最高涨7143元",
       "source": "百度热搜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -972,9 +1172,29 @@ window.phoneRadarAuto = {
       "date": "2026-10-16",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=iPhone+Duo%E9%A2%84%E5%94%AE%E6%BA%A2%E4%BB%B710000%E5%85%83",
+      "url": "https://www.baidu.com/s?wd=iPhone+Duo%E9%A6%96%E6%89%B9%E7%8E%B0%E8%B4%A7%E6%9C%80%E9%AB%98%E6%B6%A87143%E5%85%83",
       "image": "",
-      "summary": "iPhone Duo预售溢价10000元",
+      "summary": "iPhone Duo首批现货最高涨7143元",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-2a4bb0e066ff",
+      "title": "iPhone Duo发货已排到明年",
+      "source": "百度热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-16",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=iPhone+Duo%E5%8F%91%E8%B4%A7%E5%B7%B2%E6%8E%92%E5%88%B0%E6%98%8E%E5%B9%B4",
+      "image": "",
+      "summary": "iPhone Duo发货已排到明年",
       "tags": [
         "iPhone",
         "爆料",
@@ -1202,26 +1422,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-2cbb90026b44",
-      "title": "The Galaxy S27 Ultra will have slimmer display bezels but a thicker camera housing",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-15",
-      "time": "13:50",
-      "publishedAt": "2026-10-15T13:50:19.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s27-ultra-slimmer-display-bezels-but-thicker-camera-housing/",
-      "image": "",
-      "summary": "A new leak has shed a bit more light on Samsung's design approach for the upcoming Galaxy S27 Ultra. The phone may have thinner display bezels than its predecessor, but the camera…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-ba1d26aba258",
       "title": "Apple sets cutoff time for getting fastest iPhone Duo pre-order",
       "source": "9to5Mac",
@@ -1235,26 +1435,6 @@ window.phoneRadarAuto = {
       "url": "https://9to5mac.com/2026/10/15/apple-sets-cutoff-time-for-getting-fastest-iphone-duo-pre-order/",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-front-display-hand.jpg?quality=82&strip=all&w=1600",
       "summary": "iPhone Duo pre-orders start tomorrow, and if you want the fastest checkout possible, Apple just set the deadline for completing its ‘Get Ready’ process. more…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-4f414a312bb5",
-      "title": "Apple Announces Deadline to 'Get Ready' to Pre-Order the iPhone Duo",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-15",
-      "time": "13:10",
-      "publishedAt": "2026-10-15T13:10:37.000Z",
-      "url": "https://www.macrumors.com/2026/10/15/apple-deadline-to-get-ready-iphone-duo-preorder/",
-      "image": "https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Trio.jpg",
-      "summary": "Apple today announced that customers have until 9 p.m. Pacific Time today to \"get ready\" for their iPhone Duo pre-order . By completing this process via Apple's online store or th…",
       "tags": [
         "iPhone",
         "爆料",
