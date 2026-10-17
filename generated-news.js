@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-17T18:29:45.835Z",
+  "updatedAt": "2026-10-17T22:17:05.463Z",
   "news": [
+    {
+      "id": "auto-5e5f89e70a51",
+      "title": "Apple Retail Staff Told to Warn Against iPhone Duo Walk-In Purchases",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-17",
+      "time": "21:30",
+      "publishedAt": "2026-10-17T21:30:45.000Z",
+      "url": "https://www.macrumors.com/2026/10/17/staff-warn-against-iphone-duo-walk-ins/",
+      "image": "https://images.macrumors.com/article-new/2026/09/iphone-duo-standby.jpg",
+      "summary": "Some Apple retail employees have been told to warn customers against visiting to purchase an iPhone Duo without a pre-order on Friday, October 23. Apple Store employees told MacRu…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9ce0c060629a",
+      "title": "Liquid cooling finally made a Qi2 power bank worth it for my Pixel 11 Pro",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-17",
+      "time": "19:00",
+      "publishedAt": "2026-10-17T19:00:13.000Z",
+      "url": "https://www.androidpolice.com/ugreeen-magflow-pro-liquid-cooling-pixel-11/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/10/hand-holding-a-ugreen-magflow-pro-liquid-cooled-power-bank.png",
+      "summary": "Wireless charging phones are getting better with each year",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-58f927055ed2",
       "title": "Hands-on: UGREEN’s new 25W MagSafe battery for iPhone features liquid cooling",
@@ -362,26 +402,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-87edb73d037b",
-      "title": "竹本青：曝iPhone 18 Pro Max再次刷新记录：单周激活近90万台",
-      "source": "竹本青",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-17",
-      "time": "05:32",
-      "publishedAt": "2026-10-17T05:32:50.000Z",
-      "url": "https://www.coolapk.com/feed/74418139",
-      "image": "http://image.coolapk.com/feed/2026/1017/13/4248714_8ae0b040_5314_423_433@2160x1192.jpg",
-      "summary": "【曝iPhone 18 Pro Max再次刷新记录：单周激活近90万台】 10月17日，博主数码闲聊站分享，iPhone 18 Pro Max激活量再次刷新记录——2026年第41周（10月5日-11日）单周单品近90万台。 此外，目前iPhone 18 Pro系列累计销量也已经超过400万台。 ———————————————— 本月9日，该博主曾爆料，国…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-7754a1cff636",
       "title": "Galaxy S27 Ultra tipped to have slimmer bezel while camera bump increases a bit",
       "source": "Gizmochina",
@@ -582,28 +602,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-4b841c8ebb82",
-      "title": "#酷安夜话# 今早用我哥手机发现他性倾向[流泪]要怎么跟他聊，需不需要跟父母说[流泪]",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-17",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74366808",
-      "image": "",
-      "summary": "#酷安夜话# 今早用我哥手机发现他性倾向[流泪]要怎么跟他聊，需不需要跟父母说[流泪]",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-3d067e04b743",
-      "title": "iPhone Duo 入选 2026《时代周刊》年度最佳发明",
+      "id": "newsnow-1a2b3aa67e16",
+      "title": "曝iPhone 18 Pro Max再次刷新记录：单周激活近90万台",
       "source": "酷安热榜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -612,9 +612,9 @@ window.phoneRadarAuto = {
       "date": "2026-10-17",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74400785",
+      "url": "https://www.coolapk.com/feed/74418139",
       "image": "",
-      "summary": "iPhone Duo 入选 2026《时代周刊》年度最佳发明",
+      "summary": "曝iPhone 18 Pro Max再次刷新记录：单周激活近90万台",
       "tags": [
         "iPhone",
         "爆料",
@@ -622,7 +622,27 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-dff2183d40b8",
+      "id": "newsnow-9a4ee69a4fe2",
+      "title": "想换个中小屏机子，现在的机子实在是太贵了[受虐滑稽]看了一加15t，小米17，荣耀Magic9，OPPOfindx10",
+      "source": "酷安热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-17",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74414042",
+      "image": "",
+      "summary": "想换个中小屏机子，现在的机子实在是太贵了[受虐滑稽]看了一加15t，小米17，荣耀Magic9，OPPOfindx10",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-96d624f82a42",
       "title": "iPhoneDuo溢价暴跌原因",
       "source": "微博热搜",
       "brand": "iPhone",
@@ -632,7 +652,7 @@ window.phoneRadarAuto = {
       "date": "2026-10-17",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhoneDuo%E6%BA%A2%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=22&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23iPhoneDuo%E6%BA%A2%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=26&Refer=top",
       "image": "",
       "summary": "iPhoneDuo溢价暴跌原因",
       "tags": [
@@ -662,26 +682,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-b58d1537b96c",
-      "title": "有人一口气买3部iPhone Duo准备卖掉",
-      "source": "今日头条热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-17",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7697509549280103946/",
-      "image": "",
-      "summary": "有人一口气买3部iPhone Duo准备卖掉",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-84b914938cbc",
       "title": "陈奕迅将开26场演唱会：禁止带手机",
       "source": "百度热搜",
@@ -697,6 +697,26 @@ window.phoneRadarAuto = {
       "summary": "陈奕迅将开26场演唱会：禁止带手机",
       "tags": [
         "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-290fb8c3f395",
+      "title": "抢折叠iPhone信用卡被盗用",
+      "source": "百度热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-17",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E6%8A%A2%E6%8A%98%E5%8F%A0iPhone%E4%BF%A1%E7%94%A8%E5%8D%A1%E8%A2%AB%E7%9B%97%E7%94%A8",
+      "image": "",
+      "summary": "抢折叠iPhone信用卡被盗用",
+      "tags": [
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -1237,46 +1257,6 @@ window.phoneRadarAuto = {
       "summary": "TIME magazine recently published its list of best inventions for 2026. Every year, the publication selects and recognizes a collection of groundbreaking inventions that, according…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-efe0b63d9ce2",
-      "title": "iPhone 18 Pro vs. iPhone Duo Buyer's Guide: Which Should You Choose?",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-16",
-      "time": "09:48",
-      "publishedAt": "2026-10-16T09:48:00.000Z",
-      "url": "https://www.macrumors.com/guide/iphone-18-pro-vs-iphone-duo/",
-      "image": "",
-      "summary": "Apple's new iPhone lineup presents an unusual choice: Pay more for a folding display, or spend less on a phone with more advanced cameras and fewer hardware compromises. Subscribe…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9798fc22e7de",
-      "title": "Apple Store Down Ahead of iPhone Duo Pre-Orders",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-16",
-      "time": "09:30",
-      "publishedAt": "2026-10-16T09:30:57.000Z",
-      "url": "https://www.macrumors.com/2026/10/16/apple-store-down-ahead-of-iphone-duo-pre-orders/",
-      "image": "https://images.macrumors.com/article-new/2026/10/iphone-duo-pre-orders-store-down.jpg",
-      "summary": "Apple's online store is down ahead of iPhone Duo pre-orders, which begin at 5:00 a.m. Pacific Time on Friday, October 16. \"We love that early energy,\" reads the Apple Store 's mes…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
