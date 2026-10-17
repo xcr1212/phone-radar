@@ -1,20 +1,160 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-17T06:56:04.894Z",
+  "updatedAt": "2026-10-17T12:10:15.026Z",
   "news": [
     {
-      "id": "auto-3f9a64011199",
-      "title": "华为星芒子品牌手机规划曝光：主攻线上相对有性价比，规划新机中含主动散热版本",
+      "id": "auto-bff276902b11",
+      "title": "Xiaomi rolls out October 2026 security update to over a dozen devices",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-17",
+      "time": "12:02",
+      "publishedAt": "2026-10-17T12:02:25.000Z",
+      "url": "https://www.gizmochina.com/2026/10/17/xiaomi-rolls-out-october-2026-security-update-to-15-devices/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Xiaomi-17-series-phone-300x169.png?x96852",
+      "summary": "Xiaomi has begun rolling out the October 2026 security patch to 15 devices. The list includes flagships as well as mid-range phones from Xiaomi and its sub-brands Redmi and POCO.…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-58c4a925f685",
+      "title": "一加 Ace 7 系列手机外观首曝，搭载主动散热风扇",
       "source": "IT之家",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-17",
+      "time": "11:48",
+      "publishedAt": "2026-10-17T11:48:10.000Z",
+      "url": "https://www.ithome.com/1/014/386.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/b72b9f4d-cd75-46da-a297-83b0bb251443.jpg",
+      "summary": "IT之家 10 月 17 日消息，一加 Ace 7 系列手机已在电商平台开启预约，预计有一加 Ace 7 与一加 Ace 7 Pro 两款新机。今日，社交平台上首次曝光了该机的外观设计。 从图上可以看到，新机采用矩形相机模组设计， 模组内嵌入了主动散热风扇 ，机身背面有渐变色效果，同时印有一加品牌 logo 以及 ACE 系列标识。 据博主 @数码闲聊站…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-07896a11a5e4",
+      "title": "OnePlus Ace 7 Pro first look leaks with a two-tone design",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-17",
+      "time": "11:28",
+      "publishedAt": "2026-10-17T11:28:10.000Z",
+      "url": "https://www.gizmochina.com/2026/10/17/oneplus-ace-7-pro-first-look/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/oneplus-ace-7-pro-first-look-300x265.png?x96852",
+      "summary": "We now have our first look at OnePlus‘ next performance phones, a few days before they launch in China later this month. A leaked image doing the rounds on Weibo shows what is mos…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-38fd6618bb4e",
+      "title": "竹本青：【李杰：一加 16 会听取大家意见，持续优化使用体验】 10月17日，一加高管李杰就一加 16 上市近一周的用户反…",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-17",
+      "time": "11:21",
+      "publishedAt": "2026-10-17T11:21:14.000Z",
+      "url": "https://www.coolapk.com/feed/74425232",
+      "image": "http://image.coolapk.com/feed/2026/1017/19/4248714_816fbcc3_6073_5231_212@1271x1231.jpg",
+      "summary": "【李杰：一加 16 会听取大家意见，持续优化使用体验】 10月17日，一加高管李杰就一加 16 上市近一周的用户反馈作出回应。他表示，产品认可度超出预期，同时团队已收到问题反馈，后续将持续优化使用体验。 #今日热点# #一加16# #ColorOS17#",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-d3bc5910feab",
+      "title": "Samsung’s 2027 foldables tipped to include six models, including Galaxy Z Slide and Z Fold 9 Pro",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-17",
+      "time": "11:19",
+      "publishedAt": "2026-10-17T11:19:48.000Z",
+      "url": "https://www.gizmochina.com/2026/10/17/samsungs-2027-foldables-tipped-to-include-six-models-including-galaxy-z-slide-and-z-fold-9-pro/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Screenshot-2026-05-22-040113-1024x576-1-300x169.png?x96852",
+      "summary": "Samsung might be planning its most aggressive foldable year yet in 2027. According to tipster TheGalox, the company could launch as many as six Galaxy Z devices next year, more th…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-99e17c321123",
+      "title": "REDMI Book 16 2027 Geekbench listing hints at a more efficient chipset",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-17",
+      "time": "10:18",
+      "publishedAt": "2026-10-17T10:18:09.000Z",
+      "url": "https://www.gizmochina.com/2026/10/17/redmi-book-16-2027-geekbench-listing-hints-at-a-more-efficient-chipset/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/877-300x169.png?x96852",
+      "summary": "Early signs of the next REDMI Book 16 2027 model have started showing up in public testing databases, which is usually the first solid clue that hardware is being validated. Geekb…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-010229a75260",
+      "title": "竹本青：【曝小米18 Fold 首销四周销量破10.4万台】 截至W40（9.28-10.4）—— 约10.47万台 截至…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-17",
+      "time": "10:06",
+      "publishedAt": "2026-10-17T10:06:58.000Z",
+      "url": "https://www.coolapk.com/feed/74423749",
+      "image": "http://image.coolapk.com/feed/2026/1017/18/4248714_6e44222d_1618_1067_302@890x409.jpg",
+      "summary": "【曝小米18 Fold 首销四周销量破10.4万台】 截至W40（9.28-10.4）—— 约10.47万台 截至W39（9.21-9.27）—— 约9.83万台 截至W38（9.14-9.20）—— 约8.86万台 截至W37（9.7-9.13）—— 约3.97万台 #今日热点# #小米18Fold# #HyperOS4#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-43c4019119fb",
+      "title": "Huawei Mate 90 Pro Max vs Xiaomi 18 Pro Max: Which Flagship Is Worth Buying?",
+      "source": "Gizmochina",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-10-17",
-      "time": "06:51",
-      "publishedAt": "2026-10-17T06:51:39.000Z",
-      "url": "https://www.ithome.com/1/014/299.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/d26d5849-8000-4456-a089-2073345a4dc6.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 17 日消息，数码博主“数码闲聊站”今日发文透露，华为旗下“星芒”手机目前定位是主攻线上渠道，相对有性价比。 据称，“星芒”系列目前已规划多款手机新品，其中一款将搭载主动散热风扇，甚至还有“整活儿”机型。 “星芒”这一名称并非首次出现在公众视野。IT之家查询公开商标信息获悉，华为技术有限公司早在 2023 年 2 月便申请注册了“华为星…",
+      "time": "10:02",
+      "publishedAt": "2026-10-17T10:02:58.000Z",
+      "url": "https://www.gizmochina.com/2026/10/17/huawei-mate-90-pro-max-vs-xiaomi-18-pro-max/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/image-42-300x198.png?x96852",
+      "summary": "Huawei Mate 90 Pro Max and Xiaomi 18 Pro Max target buyers seeking premium displays, powerful cameras, and flagship performance, but they take different approaches. Huawei focuses…",
       "tags": [
         "Huawei",
         "爆料",
@@ -22,23 +162,83 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-284dabcae54d",
-      "title": "摩托罗拉 Moto G47 Power 手机曝光：6790mAh 额定电池，33W 充电",
+      "id": "auto-a879af323885",
+      "title": "荣耀 WIN2 全系维信诺 2K+185Hz 大直屏，标准版 / Pro 版配置曝光",
       "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-10-17",
-      "time": "06:49",
-      "publishedAt": "2026-10-17T06:49:27.000Z",
-      "url": "https://www.ithome.com/1/014/298.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/012ce346-db08-409e-b02f-77166842cf0a.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 17 日消息，科技媒体 xpertpick 昨日（10 月 16 日）发布博文，通过挖掘欧盟 EPREL 能效注册数据库，发现摩托罗拉 Moto G47 Power 手机踪迹， 型号为 XT2625-15。 定位方面，作为摩托罗拉“Power”系列机型，G47 Power 的核心卖点就是续航。认证信息显示，该机将搭载额定容量 6790m…",
+      "time": "09:44",
+      "publishedAt": "2026-10-17T09:44:41.000Z",
+      "url": "https://www.ithome.com/1/014/349.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/4607e683-9237-4a82-99cc-ebe12e75a68d.png",
+      "summary": "IT之家 10 月 17 日消息，据博主 @数码闲聊站 今日爆料，荣耀 WIN2 全系维信诺 2K+185Hz 大直屏，他还曝光了标准版 / Pro 版配置。 标准版：第五代骁龙 8 至尊版处理器 + 单风扇 +12070mAh 电池 +90W 有线充； Pro 版：第六代骁龙 8 超级至尊版处理器 + 双风扇 +10100mAh 电池 +100W 有线充…",
       "tags": [
-        "行业",
+        "HONOR",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6000c17b3d73",
+      "title": "Qualcomm denies Snapdragon 8 Elite Extreme Gen 6 overheating allegations on Galaxy S27 Ultra, but there’s a catch",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-17",
+      "time": "09:18",
+      "publishedAt": "2026-10-17T09:18:56.000Z",
+      "url": "https://www.gizmochina.com/2026/10/17/qualcomm-denies-snapdragon-8-elite-extreme-gen-6-overheating-allegations-on-galaxy-s27-ultra/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Qualcomm-Snapdragon-8-Elite-Extreme-Gen-6-300x200.png?x96852",
+      "summary": "This week, a report emerged from South Korean media, citing industry sources, that said the Snapdragon 8 Elite Extreme Gen 6 caused overheating issues on the Galaxy S27 Ultra duri…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f5b8fd65f700",
+      "title": "Vivo X Fold6 vs Xiaomi 18 Fold: Which Foldable Flagship Is Better?",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-17",
+      "time": "09:12",
+      "publishedAt": "2026-10-17T09:12:22.000Z",
+      "url": "https://www.gizmochina.com/2026/10/17/vivo-x-fold6-vs-xiaomi-18-fold/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/image-40-300x267.png?x96852",
+      "summary": "Vivo X Fold6 and Xiaomi 18 Fold approach the premium foldable market differently, combining flagship performance, versatile cameras, and large inner displays. Vivo focuses on Zeis…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-ca437d8767db",
+      "title": "竹本青：【华为畅享100系列 门店哑机曝光：标准版水滴屏、Pro Max 麒麟8系芯+8800mAh电池】 10月17日，…",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-17",
+      "time": "07:29",
+      "publishedAt": "2026-10-17T07:29:55.000Z",
+      "url": "https://www.coolapk.com/feed/74420494",
+      "image": "http://image.coolapk.com/feed/2026/1017/15/4248714_8d570a3f_2193_6315_158@1438x2123.jpg",
+      "summary": "【华为畅享100系列 门店哑机曝光：标准版水滴屏、Pro Max 麒麟8系芯+8800mAh电池】 10月17日，博主“看山叔”曝光华为畅享100系列两款门店陈列哑机，机身参数贴纸披露了部分配置信息： ● 畅享100标准版：水滴屏 搭载麒麟芯片，流沙光刻工艺的超耐摔玄甲机身，内置6100mAh电池，支持Wi-Fi 7； ● 畅享100 Pro Max：中置…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
       ]
     },
     {
@@ -83,7 +283,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "auto-7754a1cff636",
-      "title": "Galaxy S27 Ultra dimensions tipped: bezel shrinks to 1.28mm, camera bump hits 4.69mm",
+      "title": "Galaxy S27 Ultra tipped to have slimmer bezel while camera bump increases a bit",
       "source": "Gizmochina",
       "brand": "Samsung",
       "model": "Samsung 相关机型",
@@ -97,26 +297,6 @@ window.phoneRadarAuto = {
       "summary": "Early design details for Samsung’s next Ultra flagship are starting to firm up. Trusted leaker Ice Universe has shared some precise measurements of the Galaxy S27 Ultra. The upcom…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-7fdb72e1192e",
-      "title": "消息称苹果 iPhone 18 Pro Max 手机刷新记录：W41 单周单品国内激活近 90 万台",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-17",
-      "time": "05:25",
-      "publishedAt": "2026-10-17T05:25:14.000Z",
-      "url": "https://www.ithome.com/1/014/272.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/8694dd08-35f1-4cc1-9588-373057d63746.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 17 日消息，博主 @数码闲聊站 今日透露，iPhone 18 Pro Max 又刷新记录了，W41（IT之家注：此处指 2026 年的第 41 个自然周，即 10 月 5 日至 10 月 11 日） 单周单品激活近 90 万 （此处及下文预计指国内激活量 / 销量）。 此外，iPhone 18 Pro 系列双杯累计销量 目前已经超 4…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -139,46 +319,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-bb8368adee43",
-      "title": "努比亚 V90 Pro 手机渲染图曝光：1.08 亿像素主摄、存储翻倍至 512GB",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-17",
-      "time": "04:59",
-      "publishedAt": "2026-10-17T04:59:20.000Z",
-      "url": "https://www.ithome.com/1/014/268.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/18356e50-736a-48eb-bf81-dd7ff1e34f14.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 17 日消息，消息源 @_evanblass_ 于 10 月 15 日在 X 平台发布推文，分享了一组渲染图， 展示了努比亚（nubia）V90 Pro 手机，外观方面延续 V80 Pro 设计，并带来更大存储、湿手触控等升级。 屏幕方面，努比亚 V90 Pro 预计采用 6.75 英寸挖孔屏，屏幕峰值亮度可达 1,000 尼特，并支持…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d4b115ee308b",
-      "title": "古尔曼称苹果首款折叠 iPhone Duo 需求“空前”，首销线下恐难直接买下",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-17",
-      "time": "02:38",
-      "publishedAt": "2026-10-17T02:38:06.000Z",
-      "url": "https://www.ithome.com/1/014/247.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/8bdd5978-4e41-4b10-8017-8b47072f25a5.png",
-      "summary": "IT之家 10 月 17 日消息，彭博社记者马克 · 古尔曼（Mark Gurman）今天（10 月 17 日）在 X 平台连续发文称，苹果明显是在供应量尚未充足的情况下“过早”推出首款折叠屏手机 iPhone Duo，目的可能是抢先将其推向市场。 古尔曼特别指出在苹果的官方声明中，重点强调“线上”渠道将继续接受订单，却未明确说明实体店的现货供应，推测 i…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -322,26 +462,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-6658a8b29dc5",
-      "title": "给用了十几年 iphone 的 媳妇买了 #小米18Fold# ，开启了天天被骂的生活：",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-17",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74397221",
-      "image": "",
-      "summary": "给用了十几年 iphone 的 媳妇买了 #小米18Fold# ，开启了天天被骂的生活：",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-4b841c8ebb82",
       "title": "#酷安夜话# 今早用我哥手机发现他性倾向[流泪]要怎么跟他聊，需不需要跟父母说[流泪]",
       "source": "酷安热榜",
@@ -382,7 +502,27 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-eb1da921b89e",
+      "id": "newsnow-5b75e7c95dc1",
+      "title": "客服回应大量iPhone漂浮海面",
+      "source": "微博热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-10-17",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E5%A4%A7%E9%87%8FiPhone%E6%BC%82%E6%B5%AE%E6%B5%B7%E9%9D%A2%23&t=31&band_rank=23&Refer=top",
+      "image": "",
+      "summary": "客服回应大量iPhone漂浮海面",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-c1c1d62ebe7b",
       "title": "iPhoneDuo溢价从5.8万暴跌至7000",
       "source": "微博热搜",
       "brand": "iPhone",
@@ -392,7 +532,7 @@ window.phoneRadarAuto = {
       "date": "2026-10-17",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhoneDuo%E6%BA%A2%E4%BB%B7%E4%BB%8E5.8%E4%B8%87%E6%9A%B4%E8%B7%8C%E8%87%B37000%23&t=31&band_rank=21&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23iPhoneDuo%E6%BA%A2%E4%BB%B7%E4%BB%8E5.8%E4%B8%87%E6%9A%B4%E8%B7%8C%E8%87%B37000%23&t=31&band_rank=25&Refer=top",
       "image": "",
       "summary": "iPhoneDuo溢价从5.8万暴跌至7000",
       "tags": [
@@ -402,8 +542,48 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-88673d54bf7c",
-      "title": "iPhone Duo卖爆背后的真相",
+      "id": "newsnow-52404c4dba77",
+      "title": "货轮起火沉没渔民现场打捞全新iPhone",
+      "source": "微博热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-10-17",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%B4%A7%E8%BD%AE%E8%B5%B7%E7%81%AB%E6%B2%89%E6%B2%A1%E6%B8%94%E6%B0%91%E7%8E%B0%E5%9C%BA%E6%89%93%E6%8D%9E%E5%85%A8%E6%96%B0iPhone%23&t=31&band_rank=30&Refer=top",
+      "image": "",
+      "summary": "货轮起火沉没渔民现场打捞全新iPhone",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-9aee4ea5ade3",
+      "title": "iPhone的1000天",
+      "source": "B站热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-17",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://search.bilibili.com/all?keyword=iPhone%E7%9A%841000%E5%A4%A9",
+      "image": "",
+      "summary": "iPhone的1000天",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-b6830dc6242d",
+      "title": "货轮沉没大量iPhone漂浮海面",
       "source": "今日头条热榜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -412,9 +592,9 @@ window.phoneRadarAuto = {
       "date": "2026-10-17",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7697485192776125995/",
+      "url": "https://www.toutiao.com/trending/7696868053660729363/",
       "image": "",
-      "summary": "iPhone Duo卖爆背后的真相",
+      "summary": "货轮沉没大量iPhone漂浮海面",
       "tags": [
         "iPhone",
         "爆料",
@@ -435,46 +615,6 @@ window.phoneRadarAuto = {
       "url": "https://www.toutiao.com/trending/7697509549280103946/",
       "image": "",
       "summary": "有人一口气买3部iPhone Duo准备卖掉",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-a940ba088f1d",
-      "title": "库克：苹果折叠屏完全在中国制造",
-      "source": "今日头条热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-17",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7696951079494304266/",
-      "image": "",
-      "summary": "库克：苹果折叠屏完全在中国制造",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-6f50da6d1347",
-      "title": "谁抢到了iPhone Duo",
-      "source": "抖音热点",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-10-17",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.douyin.com/hot/2699139",
-      "image": "",
-      "summary": "谁抢到了iPhone Duo",
       "tags": [
         "iPhone",
         "爆料",
@@ -819,26 +959,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-4d783301f918",
-      "title": "竹本青：维信诺认领：荣耀WIN 2系列全系首发搭载2K 185Hz电竞屏",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-16",
-      "time": "13:43",
-      "publishedAt": "2026-10-16T13:43:09.000Z",
-      "url": "https://www.coolapk.com/feed/74406013",
-      "image": "http://image.coolapk.com/feed/2026/1016/21/4248714_dbfbd06a_8188_2861_528@1072x1916.jpg",
-      "summary": "【维信诺认领：荣耀WIN 2系列 全系首发搭载2K 185Hz电竞屏】 10月16日晚间，维信诺官宣为荣耀WIN 2系列全系屏幕唯一战略合作伙伴，双方联合定制全球首款2K 185Hz电竞护眼屏 今天早些时候，荣耀中国区电商部部长怒评自家宣发团队，称去年竞品大肆宣传165Hz屏幕时，荣耀185Hz屏幕保持低调；今年竞品跟进至185Hz并作为核心卖点，而荣耀W…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
