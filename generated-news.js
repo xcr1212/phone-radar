@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-17T12:10:15.026Z",
+  "updatedAt": "2026-10-17T15:32:51.872Z",
   "news": [
+    {
+      "id": "auto-1fc0605620f3",
+      "title": "My Galaxy S22+ was stolen; Samsung Find couldn't help me find it",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-17",
+      "time": "14:30",
+      "publishedAt": "2026-10-17T14:30:13.000Z",
+      "url": "https://www.androidpolice.com/stolen-galaxy-s22-plus-samsung-find/",
+      "image": "",
+      "summary": "Samsung Find can pin an online phone to around a street, but chasing a thief is another story",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-90d98331e01f",
+      "title": "PSA: Apple’s official silicone iPhone Duo case will require adhesive to stick",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-17",
+      "time": "13:45",
+      "publishedAt": "2026-10-17T13:45:00.000Z",
+      "url": "https://9to5mac.com/2026/10/17/iphone-duo-silicone-case-adhesive-psa/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-event-26-14.15.09.jpg?quality=82&strip=all&w=1600",
+      "summary": "iPhone Duo is just about a week away from launching, and now that preorders have opened, Apple’s official iPhone Duo accessories have started to hit stores for early purchases. Af…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c1470c704efe",
+      "title": "Global / Indian OnePlus 16 variant under testing with three model numbers",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-17",
+      "time": "12:25",
+      "publishedAt": "2026-10-17T12:25:23.000Z",
+      "url": "https://www.gizmochina.com/2026/10/17/oneplus-16-global-india-variant-testing/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/4320-1800-300x169.jpg?x96852",
+      "summary": "OnePlus launched the OnePlus 16 in China earlier this week, and it looks like a gem of a phone with an 185 Hz OLED display, the Snapdragon 8 Elite Extreme Gen 6 chip, a 9,000mAh b…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-bff276902b11",
       "title": "Xiaomi rolls out October 2026 security update to over a dozen devices",
@@ -502,8 +562,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-5b75e7c95dc1",
-      "title": "客服回应大量iPhone漂浮海面",
+      "id": "newsnow-517109db88d2",
+      "title": "iPhoneDuo溢价暴跌原因",
       "source": "微博热搜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -512,9 +572,9 @@ window.phoneRadarAuto = {
       "date": "2026-10-17",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E5%A4%A7%E9%87%8FiPhone%E6%BC%82%E6%B5%AE%E6%B5%B7%E9%9D%A2%23&t=31&band_rank=23&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23iPhoneDuo%E6%BA%A2%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=9&Refer=top",
       "image": "",
-      "summary": "客服回应大量iPhone漂浮海面",
+      "summary": "iPhoneDuo溢价暴跌原因",
       "tags": [
         "iPhone",
         "爆料",
@@ -522,61 +582,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-c1c1d62ebe7b",
-      "title": "iPhoneDuo溢价从5.8万暴跌至7000",
+      "id": "newsnow-8f98e6dbab6c",
+      "title": "荣耀Magic9记录张韶涵的绝美造型",
       "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
       "type": "爆料",
       "trust": "待验证",
       "date": "2026-10-17",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhoneDuo%E6%BA%A2%E4%BB%B7%E4%BB%8E5.8%E4%B8%87%E6%9A%B4%E8%B7%8C%E8%87%B37000%23&t=31&band_rank=25&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%8D%A3%E8%80%80Magic9%E8%AE%B0%E5%BD%95%E5%BC%A0%E9%9F%B6%E6%B6%B5%E7%9A%84%E7%BB%9D%E7%BE%8E%E9%80%A0%E5%9E%8B%23&t=31&band_rank=26&Refer=top",
       "image": "",
-      "summary": "iPhoneDuo溢价从5.8万暴跌至7000",
+      "summary": "荣耀Magic9记录张韶涵的绝美造型",
       "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-52404c4dba77",
-      "title": "货轮起火沉没渔民现场打捞全新iPhone",
-      "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-10-17",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%B4%A7%E8%BD%AE%E8%B5%B7%E7%81%AB%E6%B2%89%E6%B2%A1%E6%B8%94%E6%B0%91%E7%8E%B0%E5%9C%BA%E6%89%93%E6%8D%9E%E5%85%A8%E6%96%B0iPhone%23&t=31&band_rank=30&Refer=top",
-      "image": "",
-      "summary": "货轮起火沉没渔民现场打捞全新iPhone",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-9aee4ea5ade3",
-      "title": "iPhone的1000天",
-      "source": "B站热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-17",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://search.bilibili.com/all?keyword=iPhone%E7%9A%841000%E5%A4%A9",
-      "image": "",
-      "summary": "iPhone的1000天",
-      "tags": [
-        "iPhone",
+        "HONOR",
         "爆料",
         "NewsNow"
       ]
@@ -602,9 +622,9 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-b58d1537b96c",
-      "title": "有人一口气买3部iPhone Duo准备卖掉",
-      "source": "今日头条热榜",
+      "id": "newsnow-2333a583a7ae",
+      "title": "iPhone Duo溢价从5.8万跌至7000",
+      "source": "百度热搜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
       "type": "爆料",
@@ -612,11 +632,31 @@ window.phoneRadarAuto = {
       "date": "2026-10-17",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7697509549280103946/",
+      "url": "https://www.baidu.com/s?wd=iPhone+Duo%E6%BA%A2%E4%BB%B7%E4%BB%8E5.8%E4%B8%87%E8%B7%8C%E8%87%B37000",
       "image": "",
-      "summary": "有人一口气买3部iPhone Duo准备卖掉",
+      "summary": "iPhone Duo溢价从5.8万跌至7000",
       "tags": [
         "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-84b914938cbc",
+      "title": "陈奕迅将开26场演唱会：禁止带手机",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-17",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E9%99%88%E5%A5%95%E8%BF%85%E5%B0%86%E5%BC%8026%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A%EF%BC%9A%E7%A6%81%E6%AD%A2%E5%B8%A6%E6%89%8B%E6%9C%BA",
+      "image": "",
+      "summary": "陈奕迅将开26场演唱会：禁止带手机",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -717,26 +757,6 @@ window.phoneRadarAuto = {
       "summary": "Apple's iPhone Duo Case uses adhesive to attach to the device, according to people who have picked one up . The case comes in two pieces and uses adhesive strips along the inside…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-74b07d473621",
-      "title": "My Pixel 10 Pro's battery life reached a new level after turning off Smooth Display",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-16",
-      "time": "19:00",
-      "publishedAt": "2026-10-16T19:00:13.000Z",
-      "url": "https://www.androidpolice.com/pixel-10-pros-battery-life-reached-new-level-after-turning-off-smooth-display/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/04/img_9655.jpg",
-      "summary": "Smooth Display sounded great at first, but the battery drainage wasn't worth it",
-      "tags": [
-        "Pixel",
         "爆料",
         "自动抓取"
       ]
