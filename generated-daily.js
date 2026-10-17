@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-10-16T21:06:29.786Z",
-  "issueDate": "2026-10-16",
-  "issue": "VOL.261016",
+  "updatedAt": "2026-10-17T00:27:52.852Z",
+  "issueDate": "2026-10-17",
+  "issue": "VOL.261017",
   "title": "手机情报日报",
-  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 12,
-    "iphone": 6,
+    "total": 14,
+    "iphone": 9,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -17,6 +17,52 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-120bc2cfaa6f",
+          "title": "IDC 等机构谈苹果首款折叠 iPhone Duo：首发难抢，今年出货预估 600~700 万台",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-17",
+          "time": "00:18",
+          "publishedAt": "2026-10-17T00:18:29.000Z",
+          "url": "https://www.ithome.com/1/014/203.htm",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "IT之家 10 月 17 日消息，CNBC 今天（10 月 17 日）发布博文，采访了 Counterpoint Research、IDC、TechInsights 以及摩根大通等机构分析师，围绕着苹果公司首款折叠屏手机 iPhone Duo，探讨预测该机未来销量趋势。 Counterpoint 研究总监 Tarun Pathak 预测 iPhone Du…",
+          "detail": "IT之家 10 月 17 日消息，CNBC 今天（10 月 17 日）发布博文，采访了 Counterpoint Research、IDC、TechInsights 以及摩根大通等机构分析师，围绕着苹果公司首款折叠屏手机 iPhone Duo，探讨预测该机未来销量趋势。 Counterpoint 研究总监 Tarun Pathak 预测 iPhone Du…",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-a6a6d2f7fb7b",
+          "title": "交货期排到明年，苹果称 iPhone Duo 市场需求异常旺盛",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-16",
+          "time": "23:17",
+          "publishedAt": "2026-10-16T23:17:14.000Z",
+          "url": "https://www.ithome.com/1/014/196.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/456f5596-a70b-4519-b89a-79d3020656d2.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 10 月 17 日消息，北京时间今天（17 日）凌晨，据英国《金融时报》报道，苹果表示，旗下首款折叠屏手机 iPhone Duo 的市场 需求异常旺盛 。开售仅数小时，苹果官网年内可交付的货源便被抢购一空，交货期延至明年。 目前，苹果官网仍接受 iPhone Duo 订单。报道提到，在系列问世近 20 年后，iPhone 仍是苹果最畅销的产品，贡…",
+          "detail": "IT之家 10 月 17 日消息，北京时间今天（17 日）凌晨，据英国《金融时报》报道，苹果表示，旗下首款折叠屏手机 iPhone Duo 的市场 需求异常旺盛 。开售仅数小时，苹果官网年内可交付的货源便被抢购一空，交货期延至明年。 目前，苹果官网仍接受 iPhone Duo 订单。报道提到，在系列问世近 20 年后，iPhone 仍是苹果最畅销的产品，贡…",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "weibo-98dc431e443c",
           "title": "数码闲聊站：iPhone Duo 谁抢到了？！[怒]",
@@ -65,6 +111,29 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "newsnow-b5a3556275b9",
+          "title": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
+          "originalTitle": "",
+          "source": "少数派热榜",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-10-17",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/114972",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
+          "detail": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-1a20338530b2",
           "title": "iPhone 系统功能 / AI 体验相关消息",
           "originalTitle": "",
@@ -88,23 +157,23 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-f9aa390d6590",
-          "title": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
+          "id": "auto-f17add2506d5",
+          "title": "存储器、E-Glass 双面夹击成本，传三星 MX 2027 年智能手机业务计划悬而未决",
           "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
+          "source": "IT之家",
+          "brand": "Samsung",
+          "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-10-16",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/114972",
-          "image": "",
+          "time": "23:59",
+          "publishedAt": "2026-10-16T23:59:54.000Z",
+          "url": "https://www.ithome.com/1/014/210.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/0d338800-b252-4a5d-bf35-c9c066c4e4c8.jpg?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
-          "detail": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
+          "takeaway": "IT之家 10 月 17 日消息，韩媒 ZDNET Korea 当地时间本月 15 日报道称，三星电子 MX 业务不仅 下调了 2026Q4 的智能手机 MX 产量预测 ，还 未能按惯例及时发布 2027 年智能手机业务计划 ，导致上游供应商也面临不确定性。 三星 MX 之所以尚未发布明年计划，是因为其 成本结构由于存储器、E-Glass 价格的上涨持续恶…",
+          "detail": "IT之家 10 月 17 日消息，韩媒 ZDNET Korea 当地时间本月 15 日报道称，三星电子 MX 业务不仅 下调了 2026Q4 的智能手机 MX 产量预测 ，还 未能按惯例及时发布 2027 年智能手机业务计划 ，导致上游供应商也面临不确定性。 三星 MX 之所以尚未发布明年计划，是因为其 成本结构由于存储器、E-Glass 价格的上涨持续恶…",
           "keyPoints": [
-            "屏幕形态"
+            "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -133,79 +202,6 @@ window.phoneRadarDaily = {
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-10b9e73d6e1f",
-          "title": "数码闲聊站：独家信息：加加月底的性能新机，全系标配200Mp大底主摄，Pro还有一颗50M…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-10-16",
-          "time": "01:51",
-          "publishedAt": "2026-10-16T01:51:00.000Z",
-          "url": "https://weibo.com/6048569942/RmTWBbZ88",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "独家信息，加加月底的性能新机，全系标配200Mp大底主摄，Pro还有一颗50Mp 3.5X潜望长焦，有OPPO影像旗舰同款算法，属于接下来这批性能机里影像配置最强的，没有对手[NO]",
-          "detail": "独家信息，加加月底的性能新机，全系标配200Mp大底主摄，Pro还有一颗50Mp 3.5X潜望长焦，有OPPO影像旗舰同款算法，属于接下来这批性能机里影像配置最强的，没有对手[NO]",
-          "keyPoints": [
-            "影像硬件",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-b1ee0ef849c4",
-          "title": "数码闲聊站：摸了下渠道数据，华为阔直板出货量已超71W，实销均价在7000左右，其中约30…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-10-16",
-          "time": "01:00",
-          "publishedAt": "2026-10-16T01:00:41.000Z",
-          "url": "https://weibo.com/6048569942/RmTCaBxoj",
-          "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ii3zpcfimej319f0uf4gw.jpg",
-          "verdict": "先看",
-          "takeaway": "摸了下渠道数据，华为阔直板出货量已超71W，实销均价在7000左右，其中约30％用户来自苹果用户。鉴定为今年势头最猛的国产旗舰[哆啦A梦害怕] 另外华为大阔折和小阔折出货量已超315W，华为阔家族太猛了。 二编：刚刚研究了一下换机数据，转化的苹果用户中，iPhone Pro Max高端用户居多。看来都在响应余总号召，阔直板也确实用着用着就变成主力机了，看i…",
-          "detail": "摸了下渠道数据，华为阔直板出货量已超71W，实销均价在7000左右，其中约30％用户来自苹果用户。鉴定为今年势头最猛的国产旗舰[哆啦A梦害怕] 另外华为大阔折和小阔折出货量已超315W，华为阔家族太猛了。 二编：刚刚研究了一下换机数据，转化的苹果用户中，iPhone Pro Max高端用户居多。看来都在响应余总号召，阔直板也确实用着用着就变成主力机了，看i…",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-473b2c9fcb0e",
-          "title": "竹本青：【一加 Ace7系列 外观曝光：左上矩阵Deco，内置散热风扇】 日前，一加 Ace7系列 手机开启超前预约。新机…",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-10-16",
-          "time": "20:10",
-          "publishedAt": "2026-10-16T20:10:16.000Z",
-          "url": "https://www.coolapk.com/feed/74411269",
-          "image": "http://image.coolapk.com/feed/2026/1017/04/4248714_2b4d5046_2936_4934_703@1272x1810.jpg",
-          "verdict": "先看",
-          "takeaway": "【一加 Ace7系列 外观曝光：左上矩阵Deco，内置散热风扇】 日前，一加 Ace7系列 手机开启超前预约。新机外观同步曝光，采用左上角矩阵Deco，内置主动散热风扇，首发双路出风架构。 据此前博主爆料，Ace7系列将搭载骁龙8E5V/8E5处理器；全系标配185Hz高刷屏、200MP HP5主摄，Pro版新增50MP 3.5X潜望长焦，OPPO影像旗舰…",
-          "detail": "【一加 Ace7系列 外观曝光：左上矩阵Deco，内置散热风扇】 日前，一加 Ace7系列 手机开启超前预约。新机外观同步曝光，采用左上角矩阵Deco，内置主动散热风扇，首发双路出风架构。 据此前博主爆料，Ace7系列将搭载骁龙8E5V/8E5处理器；全系标配185Hz高刷屏、200MP HP5主摄，Pro版新增50MP 3.5X潜望长焦，OPPO影像旗舰…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "影像硬件",
-            "芯片 / 性能",
-            "爆料来源"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -214,6 +210,29 @@ window.phoneRadarDaily = {
       "title": "iPhone 重点",
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
+        {
+          "id": "auto-890dd2d40dd0",
+          "title": "蒲得宇预估 2026 全球手机出货量降 14.2%，苹果成唯一增长的主要手机厂商",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-16",
+          "time": "23:44",
+          "publishedAt": "2026-10-16T23:44:12.000Z",
+          "url": "https://www.ithome.com/1/014/204.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/37635964-b9f7-435e-a849-5ef1a8128022.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 10 月 17 日消息，在本周发布的投资简报中，广发证券分析师蒲得宇（Jeff Pu）和 Henry Huang 预测， 苹果将是 2026 年唯一一家出货量实现增长的主要智能手机制造商（增长 4%）。 在两位分析师联合发布的投资简报中， 预测 2026 年全球智能手机出货量约 10.8 亿部，同比下降约为 14.2%。 而苹果却有望成为唯一实现…",
+          "detail": "IT之家 10 月 17 日消息，在本周发布的投资简报中，广发证券分析师蒲得宇（Jeff Pu）和 Henry Huang 预测， 苹果将是 2026 年唯一一家出货量实现增长的主要智能手机制造商（增长 4%）。 在两位分析师联合发布的投资简报中， 预测 2026 年全球智能手机出货量约 10.8 亿部，同比下降约为 14.2%。 而苹果却有望成为唯一实现…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
         {
           "id": "auto-3b78709353f3",
           "title": "中国联通回馈 2009 年首批 iPhone 用户，开放 iPhone Duo 最高优先级购机资格",
@@ -238,14 +257,14 @@ window.phoneRadarDaily = {
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         },
         {
-          "id": "newsnow-712853305cbf",
+          "id": "newsnow-3d067e04b743",
           "title": "iPhone Duo 入选 2026《时代周刊》年度最佳发明",
           "originalTitle": "",
           "source": "酷安热榜",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "高关注爆料源",
-          "date": "2026-10-16",
+          "date": "2026-10-17",
           "time": "",
           "publishedAt": "",
           "url": "https://www.coolapk.com/feed/74400785",
@@ -291,14 +310,14 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-cd858d32ac73",
+          "id": "newsnow-4b841c8ebb82",
           "title": "#酷安夜话# 今早用我哥手机发现他性倾向[流泪]要怎么跟他聊，需不需要跟父母说[流泪]",
           "originalTitle": "",
           "source": "酷安热榜",
           "brand": "行业",
           "type": "爆料",
           "trust": "高关注爆料源",
-          "date": "2026-10-16",
+          "date": "2026-10-17",
           "time": "",
           "publishedAt": "",
           "url": "https://www.coolapk.com/feed/74366808",
@@ -306,6 +325,29 @@ window.phoneRadarDaily = {
           "verdict": "扫一眼",
           "takeaway": "#酷安夜话# 今早用我哥手机发现他性倾向[流泪]要怎么跟他聊，需不需要跟父母说[流泪]",
           "detail": "#酷安夜话# 今早用我哥手机发现他性倾向[流泪]要怎么跟他聊，需不需要跟父母说[流泪]",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-e1f2d5175a1e",
+          "title": "REDMI K100 亮相：后置双摄/横贯矩阵",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-10-17",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/74393639",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "REDMI K100 亮相：后置双摄/横贯矩阵",
+          "detail": "REDMI K100 亮相：后置双摄/横贯矩阵",
           "keyPoints": [
             "爆料"
           ],
