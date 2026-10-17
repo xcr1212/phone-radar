@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-17T15:32:51.872Z",
+  "updatedAt": "2026-10-17T18:29:45.835Z",
   "news": [
+    {
+      "id": "auto-58f927055ed2",
+      "title": "Hands-on: UGREEN’s new 25W MagSafe battery for iPhone features liquid cooling",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-17",
+      "time": "17:52",
+      "publishedAt": "2026-10-17T17:52:00.000Z",
+      "url": "https://9to5mac.com/2026/10/17/ugreen-25w-magsafe-liquid-cooling-battery-bank/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/DSC03213.jpg?quality=82&strip=all&w=1600",
+      "summary": "Last month, UGREEN introduced a new Qi2.2 25W 10000mAh MagSafe battery bank for iPhone. There have been plenty of these, but this one has an interesting new twist: liquid cooling.…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5144229ec80f",
+      "title": "EE announces iPhone Handoff pricing details for UK customers",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-17",
+      "time": "15:54",
+      "publishedAt": "2026-10-17T15:54:02.000Z",
+      "url": "https://9to5mac.com/2026/10/17/iphone-handoff-pricing-details-ee-uk/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-burgundy-rc.jpg?quality=82&strip=all&w=1600",
+      "summary": "As part of its iPhone Duo preorder announcement, UK carrier EE has announced pricing details for iPhone Handoff – making it the first carrier in the UK to do so. Here are the deta…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-1fc0605620f3",
       "title": "My Galaxy S22+ was stolen; Samsung Find couldn't help me find it",
@@ -442,6 +482,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-2d6fa1ea2be5",
+      "title": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-10-17",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/115426",
+      "image": "",
+      "summary": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-f6fba44bf177",
       "title": "vivo X500 Pro Max 影像漫谈：当视频创作像拍照一样轻巧",
       "source": "少数派热榜",
@@ -562,7 +622,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-517109db88d2",
+      "id": "newsnow-dff2183d40b8",
       "title": "iPhoneDuo溢价暴跌原因",
       "source": "微博热搜",
       "brand": "iPhone",
@@ -572,31 +632,11 @@ window.phoneRadarAuto = {
       "date": "2026-10-17",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhoneDuo%E6%BA%A2%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=9&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23iPhoneDuo%E6%BA%A2%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=22&Refer=top",
       "image": "",
       "summary": "iPhoneDuo溢价暴跌原因",
       "tags": [
         "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-8f98e6dbab6c",
-      "title": "荣耀Magic9记录张韶涵的绝美造型",
-      "source": "微博热搜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-10-17",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%8D%A3%E8%80%80Magic9%E8%AE%B0%E5%BD%95%E5%BC%A0%E9%9F%B6%E6%B6%B5%E7%9A%84%E7%BB%9D%E7%BE%8E%E9%80%A0%E5%9E%8B%23&t=31&band_rank=26&Refer=top",
-      "image": "",
-      "summary": "荣耀Magic9记录张韶涵的绝美造型",
-      "tags": [
-        "HONOR",
         "爆料",
         "NewsNow"
       ]
@@ -622,9 +662,9 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-2333a583a7ae",
-      "title": "iPhone Duo溢价从5.8万跌至7000",
-      "source": "百度热搜",
+      "id": "newsnow-b58d1537b96c",
+      "title": "有人一口气买3部iPhone Duo准备卖掉",
+      "source": "今日头条热榜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
       "type": "爆料",
@@ -632,9 +672,9 @@ window.phoneRadarAuto = {
       "date": "2026-10-17",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=iPhone+Duo%E6%BA%A2%E4%BB%B7%E4%BB%8E5.8%E4%B8%87%E8%B7%8C%E8%87%B37000",
+      "url": "https://www.toutiao.com/trending/7697509549280103946/",
       "image": "",
-      "summary": "iPhone Duo溢价从5.8万跌至7000",
+      "summary": "有人一口气买3部iPhone Duo准备卖掉",
       "tags": [
         "iPhone",
         "爆料",
@@ -659,26 +699,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-596dd45e1e86",
-      "title": "All the news about the iPhone Duo",
-      "source": "The Verge",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-16",
-      "time": "23:36",
-      "publishedAt": "2026-10-16T23:36:26.000Z",
-      "url": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0017.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "Apple has finally announced its long-rumored foldable: the iPhone Duo. The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a “nano‑texture” finish on the inne…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
       ]
     },
     {

@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-10-17T15:32:51.872Z",
+  "updatedAt": "2026-10-17T18:29:45.835Z",
   "issueDate": "2026-10-17",
   "issue": "VOL.261017",
   "title": "手机情报日报",
-  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 12,
-    "iphone": 7,
+    "total": 11,
+    "iphone": 9,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -136,6 +136,29 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "newsnow-2d6fa1ea2be5",
+          "title": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
+          "originalTitle": "",
+          "source": "少数派热榜",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-10-17",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/115426",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
+          "detail": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "newsnow-b5a3556275b9",
           "title": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
           "originalTitle": "",
@@ -180,32 +203,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-a879af323885",
-          "title": "荣耀 WIN2 全系维信诺 2K+185Hz 大直屏，标准版 / Pro 版配置曝光",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-17",
-          "time": "09:44",
-          "publishedAt": "2026-10-17T09:44:41.000Z",
-          "url": "https://www.ithome.com/1/014/349.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/4607e683-9237-4a82-99cc-ebe12e75a68d.png",
-          "verdict": "先看",
-          "takeaway": "IT之家 10 月 17 日消息，据博主 @数码闲聊站 今日爆料，荣耀 WIN2 全系维信诺 2K+185Hz 大直屏，他还曝光了标准版 / Pro 版配置。 标准版：第五代骁龙 8 至尊版处理器 + 单风扇 +12070mAh 电池 +90W 有线充； Pro 版：第六代骁龙 8 超级至尊版处理器 + 双风扇 +10100mAh 电池 +100W 有线充…",
-          "detail": "IT之家 10 月 17 日消息，据博主 @数码闲聊站 今日爆料，荣耀 WIN2 全系维信诺 2K+185Hz 大直屏，他还曝光了标准版 / Pro 版配置。 标准版：第五代骁龙 8 至尊版处理器 + 单风扇 +12070mAh 电池 +90W 有线充； Pro 版：第六代骁龙 8 超级至尊版处理器 + 双风扇 +10100mAh 电池 +100W 有线充…",
-          "keyPoints": [
-            "屏幕形态",
-            "电池 / 充电",
-            "芯片 / 性能",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -236,36 +233,29 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "launch",
-      "title": "新机与官方发布",
-      "hint": "能直接更新到参数库。",
-      "items": [
+        },
         {
-          "id": "coolapk-user-38fd6618bb4e",
-          "title": "竹本青：【李杰：一加 16 会听取大家意见，持续优化使用体验】 10月17日，一加高管李杰就一加 16 上市近一周的用户反…",
+          "id": "auto-58f927055ed2",
+          "title": "iPhone 电池 / 充电相关消息",
           "originalTitle": "",
-          "source": "竹本青",
-          "brand": "OPPO",
+          "source": "9to5Mac",
+          "brand": "iPhone",
           "type": "爆料",
-          "trust": "高可信爆料",
+          "trust": "媒体汇总",
           "date": "2026-10-17",
-          "time": "11:21",
-          "publishedAt": "2026-10-17T11:21:14.000Z",
-          "url": "https://www.coolapk.com/feed/74425232",
-          "image": "http://image.coolapk.com/feed/2026/1017/19/4248714_816fbcc3_6073_5231_212@1271x1231.jpg",
+          "time": "17:52",
+          "publishedAt": "2026-10-17T17:52:00.000Z",
+          "url": "https://9to5mac.com/2026/10/17/ugreen-25w-magsafe-liquid-cooling-battery-bank/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/DSC03213.jpg?quality=82&strip=all&w=1600",
           "verdict": "扫一眼",
-          "takeaway": "【李杰：一加 16 会听取大家意见，持续优化使用体验】 10月17日，一加高管李杰就一加 16 上市近一周的用户反馈作出回应。他表示，产品认可度超出预期，同时团队已收到问题反馈，后续将持续优化使用体验。 #今日热点# #一加16# #ColorOS17#",
-          "detail": "【李杰：一加 16 会听取大家意见，持续优化使用体验】 10月17日，一加高管李杰就一加 16 上市近一周的用户反馈作出回应。他表示，产品认可度超出预期，同时团队已收到问题反馈，后续将持续优化使用体验。 #今日热点# #一加16# #ColorOS17#",
+          "takeaway": "iPhone 电池 / 充电相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 电池 / 充电相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "外观 / 配色 / 尺寸"
+            "电池 / 充电"
           ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     },
@@ -294,29 +284,6 @@ window.phoneRadarDaily = {
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "coolapk-user-010229a75260",
-          "title": "竹本青：【曝小米18 Fold 首销四周销量破10.4万台】 截至W40（9.28-10.4）—— 约10.47万台 截至…",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-10-17",
-          "time": "10:06",
-          "publishedAt": "2026-10-17T10:06:58.000Z",
-          "url": "https://www.coolapk.com/feed/74423749",
-          "image": "http://image.coolapk.com/feed/2026/1017/18/4248714_6e44222d_1618_1067_302@890x409.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【曝小米18 Fold 首销四周销量破10.4万台】 截至W40（9.28-10.4）—— 约10.47万台 截至W39（9.21-9.27）—— 约9.83万台 截至W38（9.14-9.20）—— 约8.86万台 截至W37（9.7-9.13）—— 约3.97万台 #今日热点# #小米18Fold# #HyperOS4#",
-          "detail": "【曝小米18 Fold 首销四周销量破10.4万台】 截至W40（9.28-10.4）—— 约10.47万台 截至W39（9.21-9.27）—— 约9.83万台 截至W38（9.14-9.20）—— 约8.86万台 截至W37（9.7-9.13）—— 约3.97万台 #今日热点# #小米18Fold# #HyperOS4#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
