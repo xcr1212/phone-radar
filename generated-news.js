@@ -1,20 +1,120 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-17T00:27:52.852Z",
+  "updatedAt": "2026-10-17T06:56:04.894Z",
   "news": [
     {
-      "id": "auto-120bc2cfaa6f",
-      "title": "IDC 等机构谈苹果首款折叠 iPhone Duo：首发难抢，今年出货预估 600~700 万台",
+      "id": "auto-3f9a64011199",
+      "title": "华为星芒子品牌手机规划曝光：主攻线上相对有性价比，规划新机中含主动散热版本",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-17",
+      "time": "06:51",
+      "publishedAt": "2026-10-17T06:51:39.000Z",
+      "url": "https://www.ithome.com/1/014/299.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/d26d5849-8000-4456-a089-2073345a4dc6.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 17 日消息，数码博主“数码闲聊站”今日发文透露，华为旗下“星芒”手机目前定位是主攻线上渠道，相对有性价比。 据称，“星芒”系列目前已规划多款手机新品，其中一款将搭载主动散热风扇，甚至还有“整活儿”机型。 “星芒”这一名称并非首次出现在公众视野。IT之家查询公开商标信息获悉，华为技术有限公司早在 2023 年 2 月便申请注册了“华为星…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-284dabcae54d",
+      "title": "摩托罗拉 Moto G47 Power 手机曝光：6790mAh 额定电池，33W 充电",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-17",
+      "time": "06:49",
+      "publishedAt": "2026-10-17T06:49:27.000Z",
+      "url": "https://www.ithome.com/1/014/298.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/012ce346-db08-409e-b02f-77166842cf0a.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 17 日消息，科技媒体 xpertpick 昨日（10 月 16 日）发布博文，通过挖掘欧盟 EPREL 能效注册数据库，发现摩托罗拉 Moto G47 Power 手机踪迹， 型号为 XT2625-15。 定位方面，作为摩托罗拉“Power”系列机型，G47 Power 的核心卖点就是续航。认证信息显示，该机将搭载额定容量 6790m…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-38ada12970ed",
+      "title": "竹本青：帖子不见了，属于是获认证了，，等过几天预热大师 他自己发完再发",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-17",
+      "time": "06:09",
+      "publishedAt": "2026-10-17T06:09:17.000Z",
+      "url": "https://www.coolapk.com/feed/74418864",
+      "image": "",
+      "summary": "帖子不见了，属于是获认证了，，等过几天预热大师 他自己发完再发",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-87edb73d037b",
+      "title": "竹本青：曝iPhone 18 Pro Max再次刷新记录：单周激活近90万台",
+      "source": "竹本青",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-17",
+      "time": "05:32",
+      "publishedAt": "2026-10-17T05:32:50.000Z",
+      "url": "https://www.coolapk.com/feed/74418139",
+      "image": "http://image.coolapk.com/feed/2026/1017/13/4248714_8ae0b040_5314_423_433@2160x1192.jpg",
+      "summary": "【曝iPhone 18 Pro Max再次刷新记录：单周激活近90万台】 10月17日，博主数码闲聊站分享，iPhone 18 Pro Max激活量再次刷新记录——2026年第41周（10月5日-11日）单周单品近90万台。 此外，目前iPhone 18 Pro系列累计销量也已经超过400万台。 ———————————————— 本月9日，该博主曾爆料，国…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-7754a1cff636",
+      "title": "Galaxy S27 Ultra dimensions tipped: bezel shrinks to 1.28mm, camera bump hits 4.69mm",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-17",
+      "time": "05:30",
+      "publishedAt": "2026-10-17T05:30:59.000Z",
+      "url": "https://www.gizmochina.com/2026/10/17/galaxy-s27-ultra-dimensions-tipped-bezel-shrinks-to-1-28mm-camera-bump-hits-4-69mm/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Erste-Samsung-Galaxy-S27-Ultra-Cases-zeigen-mehr-vom-neuen-Kamera-Design-q82-w2560-h-1-1-300x169.jpg?x96852",
+      "summary": "Early design details for Samsung’s next Ultra flagship are starting to firm up. Trusted leaker Ice Universe has shared some precise measurements of the Galaxy S27 Ultra. The upcom…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7fdb72e1192e",
+      "title": "消息称苹果 iPhone 18 Pro Max 手机刷新记录：W41 单周单品国内激活近 90 万台",
       "source": "IT之家",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-10-17",
-      "time": "00:18",
-      "publishedAt": "2026-10-17T00:18:29.000Z",
-      "url": "https://www.ithome.com/1/014/203.htm",
-      "image": "",
-      "summary": "IT之家 10 月 17 日消息，CNBC 今天（10 月 17 日）发布博文，采访了 Counterpoint Research、IDC、TechInsights 以及摩根大通等机构分析师，围绕着苹果公司首款折叠屏手机 iPhone Duo，探讨预测该机未来销量趋势。 Counterpoint 研究总监 Tarun Pathak 预测 iPhone Du…",
+      "time": "05:25",
+      "publishedAt": "2026-10-17T05:25:14.000Z",
+      "url": "https://www.ithome.com/1/014/272.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/8694dd08-35f1-4cc1-9588-373057d63746.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 17 日消息，博主 @数码闲聊站 今日透露，iPhone 18 Pro Max 又刷新记录了，W41（IT之家注：此处指 2026 年的第 41 个自然周，即 10 月 5 日至 10 月 11 日） 单周单品激活近 90 万 （此处及下文预计指国内激活量 / 销量）。 此外，iPhone 18 Pro 系列双杯累计销量 目前已经超 4…",
       "tags": [
         "iPhone",
         "爆料",
@@ -22,23 +122,83 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-43b4b2cfe9d3",
-      "title": "高通 CMO 莫珂东：骁龙 8 Elite Gen 6 不存在系统性散热问题",
+      "id": "weibo-1b06052d4902",
+      "title": "数码闲聊站：iPhone 18 Pro Max又刷新记录了，W41单周单品激活近90W………",
+      "source": "数码闲聊站",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-17",
+      "time": "05:06",
+      "publishedAt": "2026-10-17T05:06:00.000Z",
+      "url": "https://weibo.com/6048569942/Rn4Efg0RX",
+      "image": "",
+      "summary": "iPhone 18 Pro Max又刷新记录了，W41单周单品激活近90W……目前双杯累计销量400W+",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-bb8368adee43",
+      "title": "努比亚 V90 Pro 手机渲染图曝光：1.08 亿像素主摄、存储翻倍至 512GB",
       "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-10-17",
-      "time": "00:07",
-      "publishedAt": "2026-10-17T00:07:18.000Z",
-      "url": "https://www.ithome.com/1/014/211.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/09397217-3044-4297-9bf9-e854b7759ec9.jpg",
-      "summary": "IT之家 10 月 17 日消息，韩媒首尔经济日报昨日报道称，三星在为 Galaxy S27 Ultra 手机做最终性能验证时， 发现高通第六代骁龙 8 超级至尊版芯片在高负载运行时温度反复超过阈值 ，导致出现降频。 高通公司首席营销官莫珂东（Don McGuire）随后在 X 平台表示，（该消息） 完全不准确 （100% NOT accurate）。 莫…",
+      "time": "04:59",
+      "publishedAt": "2026-10-17T04:59:20.000Z",
+      "url": "https://www.ithome.com/1/014/268.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/18356e50-736a-48eb-bf81-dd7ff1e34f14.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 17 日消息，消息源 @_evanblass_ 于 10 月 15 日在 X 平台发布推文，分享了一组渲染图， 展示了努比亚（nubia）V90 Pro 手机，外观方面延续 V80 Pro 设计，并带来更大存储、湿手触控等升级。 屏幕方面，努比亚 V90 Pro 预计采用 6.75 英寸挖孔屏，屏幕峰值亮度可达 1,000 尼特，并支持…",
       "tags": [
-        "Samsung",
+        "行业",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d4b115ee308b",
+      "title": "古尔曼称苹果首款折叠 iPhone Duo 需求“空前”，首销线下恐难直接买下",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-17",
+      "time": "02:38",
+      "publishedAt": "2026-10-17T02:38:06.000Z",
+      "url": "https://www.ithome.com/1/014/247.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/8bdd5978-4e41-4b10-8017-8b47072f25a5.png",
+      "summary": "IT之家 10 月 17 日消息，彭博社记者马克 · 古尔曼（Mark Gurman）今天（10 月 17 日）在 X 平台连续发文称，苹果明显是在供应量尚未充足的情况下“过早”推出首款折叠屏手机 iPhone Duo，目的可能是抢先将其推向市场。 古尔曼特别指出在苹果的官方声明中，重点强调“线上”渠道将继续接受订单，却未明确说明实体店的现货供应，推测 i…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-5d0aeb421ae4",
+      "title": "数码闲聊站：关于星芒手机，目前渠道信息是主攻线上，定位相对有性价比，目前已经规划了好几款新…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-17",
+      "time": "01:22",
+      "publishedAt": "2026-10-17T01:22:50.000Z",
+      "url": "https://weibo.com/6048569942/Rn3bF4mbO",
+      "image": "",
+      "summary": "关于星芒手机，目前渠道信息是主攻线上，定位相对有性价比，目前已经规划了好几款新机，其中一个有主动散热风扇，还有整活儿的",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
       ]
     },
     {
@@ -162,21 +322,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-3d067e04b743",
-      "title": "iPhone Duo 入选 2026《时代周刊》年度最佳发明",
+      "id": "newsnow-6658a8b29dc5",
+      "title": "给用了十几年 iphone 的 媳妇买了 #小米18Fold# ，开启了天天被骂的生活：",
       "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-17",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74400785",
+      "url": "https://www.coolapk.com/feed/74397221",
       "image": "",
-      "summary": "iPhone Duo 入选 2026《时代周刊》年度最佳发明",
+      "summary": "给用了十几年 iphone 的 媳妇买了 #小米18Fold# ，开启了天天被骂的生活：",
       "tags": [
-        "iPhone",
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
@@ -202,28 +362,28 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-e1f2d5175a1e",
-      "title": "REDMI K100 亮相：后置双摄/横贯矩阵",
+      "id": "newsnow-3d067e04b743",
+      "title": "iPhone Duo 入选 2026《时代周刊》年度最佳发明",
       "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-17",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74393639",
+      "url": "https://www.coolapk.com/feed/74400785",
       "image": "",
-      "summary": "REDMI K100 亮相：后置双摄/横贯矩阵",
+      "summary": "iPhone Duo 入选 2026《时代周刊》年度最佳发明",
       "tags": [
-        "Xiaomi",
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-8b1212f302d2",
-      "title": "iPhoneDuo首批黑色溢价16000元",
+      "id": "newsnow-eb1da921b89e",
+      "title": "iPhoneDuo溢价从5.8万暴跌至7000",
       "source": "微博热搜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -232,9 +392,9 @@ window.phoneRadarAuto = {
       "date": "2026-10-17",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhoneDuo%E9%A6%96%E6%89%B9%E9%BB%91%E8%89%B2%E6%BA%A2%E4%BB%B716000%E5%85%83%23&t=31&band_rank=22&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23iPhoneDuo%E6%BA%A2%E4%BB%B7%E4%BB%8E5.8%E4%B8%87%E6%9A%B4%E8%B7%8C%E8%87%B37000%23&t=31&band_rank=21&Refer=top",
       "image": "",
-      "summary": "iPhoneDuo首批黑色溢价16000元",
+      "summary": "iPhoneDuo溢价从5.8万暴跌至7000",
       "tags": [
         "iPhone",
         "爆料",
@@ -242,89 +402,9 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-211218f60772",
-      "title": "女子在自己手机上登录前男友账号以「1314」等金额转走近二十万，法院判决全部返还，如何从法律角度解读？",
-      "source": "知乎热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "市场报告",
-      "trust": "媒体汇总",
-      "date": "2026-10-17",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2094468678930674171",
-      "image": "",
-      "summary": "女子在自己手机上登录前男友账号以「1314」等金额转走近二十万，法院判决全部返还，如何从法律角度解读？",
-      "tags": [
-        "行业",
-        "市场报告",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-45c9f01256b3",
-      "title": "iPhone Duo选购指南",
-      "source": "B站热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-17",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://search.bilibili.com/all?keyword=iPhone%20Duo%E9%80%89%E8%B4%AD%E6%8C%87%E5%8D%97",
-      "image": "",
-      "summary": "iPhone Duo选购指南",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-4e5ae748b9e8",
-      "title": "多个手机品牌集体宣布降价",
+      "id": "newsnow-88673d54bf7c",
+      "title": "iPhone Duo卖爆背后的真相",
       "source": "今日头条热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-17",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7697064393934848019/",
-      "image": "",
-      "summary": "多个手机品牌集体宣布降价",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-188a763679c4",
-      "title": "手机内存越卖越小",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-17",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E5%86%85%E5%AD%98%E8%B6%8A%E5%8D%96%E8%B6%8A%E5%B0%8F",
-      "image": "",
-      "summary": "手机内存越卖越小",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-50b85b586a85",
-      "title": "iPhone Duo首批现货最高涨7143元",
-      "source": "百度热搜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
       "type": "爆料",
@@ -332,9 +412,49 @@ window.phoneRadarAuto = {
       "date": "2026-10-17",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=iPhone+Duo%E9%A6%96%E6%89%B9%E7%8E%B0%E8%B4%A7%E6%9C%80%E9%AB%98%E6%B6%A87143%E5%85%83",
+      "url": "https://www.toutiao.com/trending/7697485192776125995/",
       "image": "",
-      "summary": "iPhone Duo首批现货最高涨7143元",
+      "summary": "iPhone Duo卖爆背后的真相",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-b58d1537b96c",
+      "title": "有人一口气买3部iPhone Duo准备卖掉",
+      "source": "今日头条热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-17",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7697509549280103946/",
+      "image": "",
+      "summary": "有人一口气买3部iPhone Duo准备卖掉",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-a940ba088f1d",
+      "title": "库克：苹果折叠屏完全在中国制造",
+      "source": "今日头条热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-17",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7696951079494304266/",
+      "image": "",
+      "summary": "库克：苹果折叠屏完全在中国制造",
       "tags": [
         "iPhone",
         "爆料",
@@ -362,46 +482,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-f17add2506d5",
-      "title": "存储器、E-Glass 双面夹击成本，传三星 MX 2027 年智能手机业务计划悬而未决",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-16",
-      "time": "23:59",
-      "publishedAt": "2026-10-16T23:59:54.000Z",
-      "url": "https://www.ithome.com/1/014/210.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/0d338800-b252-4a5d-bf35-c9c066c4e4c8.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 17 日消息，韩媒 ZDNET Korea 当地时间本月 15 日报道称，三星电子 MX 业务不仅 下调了 2026Q4 的智能手机 MX 产量预测 ，还 未能按惯例及时发布 2027 年智能手机业务计划 ，导致上游供应商也面临不确定性。 三星 MX 之所以尚未发布明年计划，是因为其 成本结构由于存储器、E-Glass 价格的上涨持续恶…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-890dd2d40dd0",
-      "title": "蒲得宇预估 2026 全球手机出货量降 14.2%，苹果成唯一增长的主要手机厂商",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-16",
-      "time": "23:44",
-      "publishedAt": "2026-10-16T23:44:12.000Z",
-      "url": "https://www.ithome.com/1/014/204.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/37635964-b9f7-435e-a849-5ef1a8128022.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 17 日消息，在本周发布的投资简报中，广发证券分析师蒲得宇（Jeff Pu）和 Henry Huang 预测， 苹果将是 2026 年唯一一家出货量实现增长的主要智能手机制造商（增长 4%）。 在两位分析师联合发布的投资简报中， 预测 2026 年全球智能手机出货量约 10.8 亿部，同比下降约为 14.2%。 而苹果却有望成为唯一实现…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-596dd45e1e86",
       "title": "All the news about the iPhone Duo",
       "source": "The Verge",
@@ -415,26 +495,6 @@ window.phoneRadarAuto = {
       "url": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0017.jpg?quality=90&strip=all&crop=0,0,100,100",
       "summary": "Apple has finally announced its long-rumored foldable: the iPhone Duo. The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a “nano‑texture” finish on the inne…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a6a6d2f7fb7b",
-      "title": "交货期排到明年，苹果称 iPhone Duo 市场需求异常旺盛",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-16",
-      "time": "23:17",
-      "publishedAt": "2026-10-16T23:17:14.000Z",
-      "url": "https://www.ithome.com/1/014/196.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/456f5596-a70b-4519-b89a-79d3020656d2.jpg",
-      "summary": "IT之家 10 月 17 日消息，北京时间今天（17 日）凌晨，据英国《金融时报》报道，苹果表示，旗下首款折叠屏手机 iPhone Duo 的市场 需求异常旺盛 。开售仅数小时，苹果官网年内可交付的货源便被抢购一空，交货期延至明年。 目前，苹果官网仍接受 iPhone Duo 订单。报道提到，在系列问世近 20 年后，iPhone 仍是苹果最畅销的产品，贡…",
       "tags": [
         "iPhone",
         "爆料",
@@ -479,26 +539,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-473b2c9fcb0e",
-      "title": "竹本青：【一加 Ace7系列 外观曝光：左上矩阵Deco，内置散热风扇】 日前，一加 Ace7系列 手机开启超前预约。新机…",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-16",
-      "time": "20:10",
-      "publishedAt": "2026-10-16T20:10:16.000Z",
-      "url": "https://www.coolapk.com/feed/74411269",
-      "image": "http://image.coolapk.com/feed/2026/1017/04/4248714_2b4d5046_2936_4934_703@1272x1810.jpg",
-      "summary": "【一加 Ace7系列 外观曝光：左上矩阵Deco，内置散热风扇】 日前，一加 Ace7系列 手机开启超前预约。新机外观同步曝光，采用左上角矩阵Deco，内置主动散热风扇，首发双路出风架构。 据此前博主爆料，Ace7系列将搭载骁龙8E5V/8E5处理器；全系标配185Hz高刷屏、200MP HP5主摄，Pro版新增50MP 3.5X潜望长焦，OPPO影像旗舰…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -783,7 +823,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-4d783301f918",
-      "title": "竹本青：【维信诺认领：荣耀WIN 2系列 全系首发搭载2K 185Hz电竞屏】 10月16日晚间，维信诺官宣为荣耀WIN…",
+      "title": "竹本青：维信诺认领：荣耀WIN 2系列全系首发搭载2K 185Hz电竞屏",
       "source": "竹本青",
       "brand": "HONOR",
       "model": "HONOR 相关机型",
@@ -982,46 +1022,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-3b78709353f3",
-      "title": "中国联通回馈 2009 年首批 iPhone 用户，开放 iPhone Duo 最高优先级购机资格",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-16",
-      "time": "12:00",
-      "publishedAt": "2026-10-16T12:00:10.000Z",
-      "url": "https://www.ithome.com/1/014/146.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/7eedaf9a-b202-4f14-8d9e-a1ddeecf8be5.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 16 日消息，中国联通今日宣布，面向 2009 年通过联通渠道购得正版 iPhone 的老用户，开放 iPhone Duo 最高优先级购机资格。 相关用户可通过联通官网（IT之家附地址： https://go.10010.com:32001/apple-booking/ ）核验身份，结果显示为“尊享挚友”后，可前往就近的联通苹果授权门店…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-7d2ae07b70fb",
-      "title": "竹本青：【阶跃STEPX Neo「先行版」手机首批售罄】 10月16日，阶跃终端公告，目前STEPX Neo「先行版」首批…",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-16",
-      "time": "11:33",
-      "publishedAt": "2026-10-16T11:33:26.000Z",
-      "url": "https://www.coolapk.com/feed/74402691",
-      "image": "http://image.coolapk.com/feed/2026/1016/19/4248714_1bf17f08_0403_3789_50@1080x1440.jpg",
-      "summary": "【阶跃STEPX Neo「先行版」手机首批售罄】 10月16日，阶跃终端公告，目前STEPX Neo「先行版」首批现货已全部售罄，下一批将于10月18日10:13再次开售。 该机于10月13日发布，16GB+256GB售价3999元。核心搭载骁龙8 Gen5处理器，配备1.5K 120Hz 主屏与MiniLED点阵背屏，内置6260mAh电池。购机可享1年…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-0c817bf94040",
       "title": "OnePlus Ace 7, Ace 7 Pro reservations open ahead of launch",
       "source": "Gizmochina",
@@ -1079,46 +1079,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-a0c5b664bb6e",
-      "title": "竹本青：上周国内手机市场份额曝光：苹果连续四周榜首",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-16",
-      "time": "10:59",
-      "publishedAt": "2026-10-16T10:59:14.000Z",
-      "url": "https://www.coolapk.com/feed/74401959",
-      "image": "http://image.coolapk.com/feed/2026/1016/19/4248714_17aa6589_9333_2843_173@1271x858.jpg",
-      "summary": "【上周（W41）国内手机市场份额曝光：苹果连续四周榜首，本周占比33.7%】 ● 2026 W41：大盘下跌约20%+ 1.苹果 —— 33.7% 2.华为 —— 19.6% 3.荣耀 —— 11.9% 4.OPPO —— 10.7%（含一加 1.7%，realme 0.3%） 5.vivo —— 10.6%（含iQOO 2.4%） 6.小米 —— 10.…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-3c2a4ada2462",
-      "title": "竹本青：华为Pura X Max 最新销量曝光：截至10月4日破百万台",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-16",
-      "time": "10:47",
-      "publishedAt": "2026-10-16T10:47:03.000Z",
-      "url": "https://www.coolapk.com/feed/74401711",
-      "image": "http://image.coolapk.com/feed/2026/1016/18/4248714_b675764f_7622_5009_646@1270x462.jpg",
-      "summary": "【华为Pura X Max 最新销量曝光：截至10月4日破百万台】 Pura X Max ● 截至2026 W40 —— 约52.9万 截至2026 W39 —— 约50.11万 截至2026 W38 —— 约46.81万 截至2026 W37 —— 约43.9万 Pura X Max 典藏版 ● 截至2026 W40 —— 约49.31万 截至2026…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -1362,6 +1322,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "coolapk-user-eeeee663a07e",
+      "title": "JSCHEN小小狐：REDMI K100 亮相：后置双摄/横贯矩阵",
+      "source": "JSCHEN小小狐",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-16",
+      "time": "04:11",
+      "publishedAt": "2026-10-16T04:11:11.000Z",
+      "url": "https://www.coolapk.com/feed/74393639",
+      "image": "http://image.coolapk.com/feed/2026/1016/12/4702274_b082d60d_3869_7384_820@1440x2426.jpg",
+      "summary": "『REDMI K100 外观亮相：后置双摄/横贯矩阵』 ◇ 后置双摄：横贯矩阵 Deco 设计 ◇ 绿色机身：金属中框 + 玻纤后盖 ◇ “全面继承 Pro 系列的全能定义” ◇ “电池容量达到 K 系列的新高度” REDMI K100 曝光信息： · 骁龙 8 Elite 移动平台 + 独显芯 · LPDDR5X 内存 + UFS 4.1 闪存 · 1.…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
       "id": "auto-f34a9c8d4c2f",
       "title": "Redmi Clip Neo, the brand’s first clip-on earphone, launches this month",
       "source": "Gizmochina",
@@ -1399,46 +1379,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "weibo-10b9e73d6e1f",
-      "title": "数码闲聊站：独家信息：加加月底的性能新机，全系标配200Mp大底主摄，Pro还有一颗50M…",
-      "source": "数码闲聊站",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-16",
-      "time": "01:51",
-      "publishedAt": "2026-10-16T01:51:00.000Z",
-      "url": "https://weibo.com/6048569942/RmTWBbZ88",
-      "image": "",
-      "summary": "独家信息，加加月底的性能新机，全系标配200Mp大底主摄，Pro还有一颗50Mp 3.5X潜望长焦，有OPPO影像旗舰同款算法，属于接下来这批性能机里影像配置最强的，没有对手[NO]",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "weibo-b1ee0ef849c4",
-      "title": "数码闲聊站：摸了下渠道数据，华为阔直板出货量已超71W，实销均价在7000左右，其中约30…",
-      "source": "数码闲聊站",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-16",
-      "time": "01:00",
-      "publishedAt": "2026-10-16T01:00:41.000Z",
-      "url": "https://weibo.com/6048569942/RmTCaBxoj",
-      "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1ii3zpcfimej319f0uf4gw.jpg",
-      "summary": "摸了下渠道数据，华为阔直板出货量已超71W，实销均价在7000左右，其中约30％用户来自苹果用户。鉴定为今年势头最猛的国产旗舰[哆啦A梦害怕] 另外华为大阔折和小阔折出货量已超315W，华为阔家族太猛了。 二编：刚刚研究了一下换机数据，转化的苹果用户中，iPhone Pro Max高端用户居多。看来都在响应余总号召，阔直板也确实用着用着就变成主力机了，看i…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "微博"
       ]
     }
   ]
