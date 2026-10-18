@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-10-18T15:50:55.538Z",
+  "updatedAt": "2026-10-18T18:37:37.147Z",
   "issueDate": "2026-10-18",
   "issue": "VOL.261018",
   "title": "手机情报日报",
-  "intro": "今日筛出 17 条重点，其中 8 条是重点爆料，包含 12 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 11 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 17,
-    "iphone": 12,
+    "total": 16,
+    "iphone": 11,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -276,29 +276,6 @@ window.phoneRadarDaily = {
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "目前更像背景信息，对买手机影响不大。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-609812962786",
-          "title": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-10-18",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/115308",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验",
-          "detail": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]

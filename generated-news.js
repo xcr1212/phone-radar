@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-18T15:50:55.538Z",
+  "updatedAt": "2026-10-18T18:37:37.147Z",
   "news": [
+    {
+      "id": "auto-d1219c811bce",
+      "title": "Samsung may swap Snapdragon for Exynos in Galaxy S27 Ultra over rumored overheating issues",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-18",
+      "time": "16:15",
+      "publishedAt": "2026-10-18T16:15:38.000Z",
+      "url": "https://www.androidpolice.com/s27-ultra-exynos-snapdragon-overheating/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/09/galaxy-s27-ultra-background.png",
+      "summary": "Samsung may ditch Snapdragon for Exynos",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-e4df8fa20f76",
       "title": "Vivo S70 tipped to launch in November with an attachable telephoto extender",
@@ -482,8 +502,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-b86d544f1aa6",
-      "title": "iPhone Duo回收报价每小时都变",
+      "id": "newsnow-bbff91701d27",
+      "title": "苹果客服回应货轮沉没iPhone漂浮海面",
       "source": "百度热搜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -492,9 +512,9 @@ window.phoneRadarAuto = {
       "date": "2026-10-18",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=iPhone+Duo%E5%9B%9E%E6%94%B6%E6%8A%A5%E4%BB%B7%E6%AF%8F%E5%B0%8F%E6%97%B6%E9%83%BD%E5%8F%98",
+      "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E8%B4%A7%E8%BD%AE%E6%B2%89%E6%B2%A1iPhone%E6%BC%82%E6%B5%AE%E6%B5%B7%E9%9D%A2",
       "image": "",
-      "summary": "iPhone Duo回收报价每小时都变",
+      "summary": "苹果客服回应货轮沉没iPhone漂浮海面",
       "tags": [
         "iPhone",
         "爆料",
