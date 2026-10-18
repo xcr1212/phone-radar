@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-10-18T18:37:37.147Z",
+  "updatedAt": "2026-10-18T22:25:19.035Z",
   "issueDate": "2026-10-18",
   "issue": "VOL.261018",
   "title": "手机情报日报",
-  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 11 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 15 条重点，其中 8 条是重点爆料，包含 10 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 16,
-    "iphone": 11,
+    "total": 15,
+    "iphone": 10,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -233,8 +233,8 @@ window.phoneRadarDaily = {
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         },
         {
-          "id": "newsnow-8ca8c26357b7",
-          "title": "曝iPhone 18 Pro Max再次刷新记录：单周激活近90万台",
+          "id": "newsnow-06e325cc9b99",
+          "title": "有没有老哥能帮我看看这个iphone15pro max啊[喝酒][喝酒]我爸没问过我找熟人买的，价格看了一下酷安确实算挺美丽的，但是我怕有诈啊，我看灵动岛的iphone好多fog屏？？我已经好久没关注手机了我的12mini已经焊死了，有没有老哥帮我看看我这个，求求了求求了我真怕我爸上当 #iPhone15ProMax# #iPhone16ProMax# #iPhone17ProMax#",
           "originalTitle": "",
           "source": "酷安热榜",
           "brand": "iPhone",
@@ -243,40 +243,17 @@ window.phoneRadarDaily = {
           "date": "2026-10-18",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/74418139",
+          "url": "https://www.coolapk.com/feed/74411298",
           "image": "",
           "verdict": "先看",
-          "takeaway": "曝iPhone 18 Pro Max再次刷新记录：单周激活近90万台",
-          "detail": "曝iPhone 18 Pro Max再次刷新记录：单周激活近90万台",
+          "takeaway": "有没有老哥能帮我看看这个iphone15pro max啊[喝酒][喝酒]我爸没问过我找熟人买的，价格看了一下酷安确实算挺美丽的，但是我怕有诈啊，我看灵动岛的iphone好多fog屏？？我已经好久没关注手机了我的12mini已经焊死了，有没有老哥帮我看看我这个，求求了求求了我真怕我爸上当 #iPhone15ProMax# #iPhone16ProMax# #…",
+          "detail": "有没有老哥能帮我看看这个iphone15pro max啊[喝酒][喝酒]我爸没问过我找熟人买的，价格看了一下酷安确实算挺美丽的，但是我怕有诈啊，我看灵动岛的iphone好多fog屏？？我已经好久没关注手机了我的12mini已经焊死了，有没有老哥帮我看看我这个，求求了求求了我真怕我爸上当 #iPhone15ProMax# #iPhone16ProMax# #…",
           "keyPoints": [
-            "爆料"
+            "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-479285cf3b06",
-          "title": "一艘货轮在霍尔木兹海峡触雷沉没，大量全新 iPhone 漂浮在海面，为何货轮会误入危险航道？损失有多大？",
-          "originalTitle": "",
-          "source": "知乎热榜",
-          "brand": "iPhone",
-          "type": "市场报告",
-          "trust": "媒体汇总",
-          "date": "2026-10-18",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.zhihu.com/question/2093801400232834872",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "一艘货轮在霍尔木兹海峡触雷沉没，大量全新 iPhone 漂浮在海面，为何货轮会误入危险航道？损失有多大？",
-          "detail": "一艘货轮在霍尔木兹海峡触雷沉没，大量全新 iPhone 漂浮在海面，为何货轮会误入危险航道？损失有多大？",
-          "keyPoints": [
-            "市场报告"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "目前更像背景信息，对买手机影响不大。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+          "impact": "影响购买预算，值得先看。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     },
@@ -286,27 +263,27 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "newsnow-9099bb454b12",
-          "title": "这个价格怎么样，看了一下测评，都说不如k90proMax，又有点后悔#数码日常# #RedmiK90ProMax#",
+          "id": "newsnow-7bc1ffde86fe",
+          "title": "我又来了，我还是要说全世界手机厂商我只认可苹果的销售策略，我不是捧苹果，只是认可它的销售策略，iPhone Duo很火爆全世界都知道，但是对于正常想自己用手机的人只需要在官网原价下单，然后付款，然后等待即可，苹果大概率会提前或者按时把新手机送到你的手上，不管是11月，12月还是1月，我不需要每天盯着几点几分要去抢购等来无穷无尽的排队，当然，每个人交了钱都希望最快用到新手机，那就早点交钱，而不是像某些品牌手机想交钱都没机会交，什么时候某些手机厂商发新品爆款的时候敢用苹果的销售方式，我才承认你真的是高端。想骂我的先看看我的机型哈#华为MateXT2非凡大师# #华为Mate90ProMax#",
           "originalTitle": "",
           "source": "酷安热榜",
-          "brand": "Xiaomi",
+          "brand": "Huawei",
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-10-18",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/74417387",
+          "url": "https://www.coolapk.com/feed/74440289",
           "image": "",
           "verdict": "先看",
-          "takeaway": "这个价格怎么样，看了一下测评，都说不如k90proMax，又有点后悔#数码日常# #RedmiK90ProMax#",
-          "detail": "这个价格怎么样，看了一下测评，都说不如k90proMax，又有点后悔#数码日常# #RedmiK90ProMax#",
+          "takeaway": "我又来了，我还是要说全世界手机厂商我只认可苹果的销售策略，我不是捧苹果，只是认可它的销售策略，iPhone Duo很火爆全世界都知道，但是对于正常想自己用手机的人只需要在官网原价下单，然后付款，然后等待即可，苹果大概率会提前或者按时把新手机送到你的手上，不管是11月，12月还是1月，我不需要每天盯着几点几分要去抢购等来无穷无尽的排队，当然，每个人交了钱都希…",
+          "detail": "我又来了，我还是要说全世界手机厂商我只认可苹果的销售策略，我不是捧苹果，只是认可它的销售策略，iPhone Duo很火爆全世界都知道，但是对于正常想自己用手机的人只需要在官网原价下单，然后付款，然后等待即可，苹果大概率会提前或者按时把新手机送到你的手上，不管是11月，12月还是1月，我不需要每天盯着几点几分要去抢购等来无穷无尽的排队，当然，每个人交了钱都希…",
           "keyPoints": [
-            "成本 / 价格"
+            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
           "id": "newsnow-fbdd786f4d79",
@@ -332,21 +309,44 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-7bc1ffde86fe",
-          "title": "我又来了，我还是要说全世界手机厂商我只认可苹果的销售策略，我不是捧苹果，只是认可它的销售策略，iPhone Duo很火爆全世界都知道，但是对于正常想自己用手机的人只需要在官网原价下单，然后付款，然后等待即可，苹果大概率会提前或者按时把新手机送到你的手上，不管是11月，12月还是1月，我不需要每天盯着几点几分要去抢购等来无穷无尽的排队，当然，每个人交了钱都希望最快用到新手机，那就早点交钱，而不是像某些品牌手机想交钱都没机会交，什么时候某些手机厂商发新品爆款的时候敢用苹果的销售方式，我才承认你真的是高端。想骂我的先看看我的机型哈#华为MateXT2非凡大师# #华为Mate90ProMax#",
+          "id": "newsnow-9099bb454b12",
+          "title": "这个价格怎么样，看了一下测评，都说不如k90proMax，又有点后悔#数码日常# #RedmiK90ProMax#",
           "originalTitle": "",
           "source": "酷安热榜",
-          "brand": "Huawei",
+          "brand": "Xiaomi",
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-10-18",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/74440289",
+          "url": "https://www.coolapk.com/feed/74417387",
           "image": "",
           "verdict": "先看",
-          "takeaway": "我又来了，我还是要说全世界手机厂商我只认可苹果的销售策略，我不是捧苹果，只是认可它的销售策略，iPhone Duo很火爆全世界都知道，但是对于正常想自己用手机的人只需要在官网原价下单，然后付款，然后等待即可，苹果大概率会提前或者按时把新手机送到你的手上，不管是11月，12月还是1月，我不需要每天盯着几点几分要去抢购等来无穷无尽的排队，当然，每个人交了钱都希…",
-          "detail": "我又来了，我还是要说全世界手机厂商我只认可苹果的销售策略，我不是捧苹果，只是认可它的销售策略，iPhone Duo很火爆全世界都知道，但是对于正常想自己用手机的人只需要在官网原价下单，然后付款，然后等待即可，苹果大概率会提前或者按时把新手机送到你的手上，不管是11月，12月还是1月，我不需要每天盯着几点几分要去抢购等来无穷无尽的排队，当然，每个人交了钱都希…",
+          "takeaway": "这个价格怎么样，看了一下测评，都说不如k90proMax，又有点后悔#数码日常# #RedmiK90ProMax#",
+          "detail": "这个价格怎么样，看了一下测评，都说不如k90proMax，又有点后悔#数码日常# #RedmiK90ProMax#",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响购买预算，值得先看。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
+          "id": "newsnow-5d747ce5de60",
+          "title": "老铁们，前天咸鱼被骗了，买到了，解锁机，可以恢复出厂设置，开启不了查找手机，昨天已经报叔叔了，打算自己用了，这种手机可以正常使用吗？有什么弊端吗？麻烦告诉下",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-10-18",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/74437329",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "老铁们，前天咸鱼被骗了，买到了，解锁机，可以恢复出厂设置，开启不了查找手机，昨天已经报叔叔了，打算自己用了，这种手机可以正常使用吗？有什么弊端吗？麻烦告诉下",
+          "detail": "老铁们，前天咸鱼被骗了，买到了，解锁机，可以恢复出厂设置，开启不了查找手机，昨天已经报叔叔了，打算自己用了，这种手机可以正常使用吗？有什么弊端吗？麻烦告诉下",
           "keyPoints": [
             "爆料"
           ],
@@ -355,48 +355,25 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "coolapk-user-5ad34ef3c9bd",
-          "title": "JSCHEN小小狐：错怪 oddo 了😭 白色 X10 Pro Max 才是对的呀",
+          "id": "newsnow-95de3b21be4c",
+          "title": "三台手机，简单对比",
           "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "OPPO",
+          "source": "酷安热榜",
+          "brand": "行业",
           "type": "爆料",
-          "trust": "高可信爆料",
+          "trust": "高关注爆料源",
           "date": "2026-10-18",
-          "time": "10:59",
-          "publishedAt": "2026-10-18T10:59:56.000Z",
-          "url": "https://www.coolapk.com/feed/74447337",
-          "image": "http://image.coolapk.com/feed/2026/1018/18/4702274_0dbde48d_1193_8438_681-uhdr@2366x3505.jpg",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/74434670",
+          "image": "",
           "verdict": "扫一眼",
-          "takeaway": "错怪 oddo 了😭 白色 X10 Pro Max 才是对的呀",
-          "detail": "错怪 oddo 了😭 白色 X10 Pro Max 才是对的呀",
+          "takeaway": "三台手机，简单对比",
+          "detail": "三台手机，简单对比",
           "keyPoints": [
             "爆料"
           ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "coolapk-user-2a5133874933",
-          "title": "竹本青：有没有不像的风险？[t耐克嘴] #鸿蒙7#",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-10-18",
-          "time": "02:28",
-          "publishedAt": "2026-10-18T02:28:56.000Z",
-          "url": "https://www.coolapk.com/feed/74436898",
-          "image": "http://image.coolapk.com/feed/2026/1018/10/4248714_b30d5f44_0535_2009_375@4072x2036.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "有没有不像的风险？[t耐克嘴] #鸿蒙7#",
-          "detail": "有没有不像的风险？[t耐克嘴] #鸿蒙7#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
