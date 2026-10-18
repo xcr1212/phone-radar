@@ -1,6 +1,146 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-18T11:02:12.591Z",
+  "updatedAt": "2026-10-18T15:50:55.538Z",
   "news": [
+    {
+      "id": "auto-e4df8fa20f76",
+      "title": "Vivo S70 tipped to launch in November with an attachable telephoto extender",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-18",
+      "time": "15:41",
+      "publishedAt": "2026-10-18T15:41:36.000Z",
+      "url": "https://www.gizmochina.com/2026/10/18/vivo-s70-launch-timeline-periscope-teleconverter/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/Vivo-S60-Vitality-Edition-Early-Summer-Green-1024x1024-1-300x300.jpg?x96852",
+      "summary": "Vivo usually launches two generations of S-series phones in China each year. In May, the brand unveiled the Vivo S60 series, and it appears that the S70 lineup may not be far away…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-178c8fc44aab",
+      "title": "This could be first look at iQOO Neo 12’s rear design",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-18",
+      "time": "15:28",
+      "publishedAt": "2026-10-18T15:28:59.000Z",
+      "url": "https://www.gizmochina.com/2026/10/18/iqoo-neo-12-live-image-rear-design-leak/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/iQOO-Neo-12-live-shot-300x214.jpg?x96852",
+      "summary": "The iQOO Neo 12 is set to launch in China this month, and the company has already revealed its main specifications and front design. However, iQOO has not yet shared the launch da…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6069be3453bd",
+      "title": "Apple Reveals iPhone Duo's Battery Capacity",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-18",
+      "time": "15:07",
+      "publishedAt": "2026-10-18T15:07:06.000Z",
+      "url": "https://www.macrumors.com/2026/10/18/iphone-duo-battery-capacity/",
+      "image": "https://images.macrumors.com/article-new/2026/09/iphone-duo-closed-1.jpg",
+      "summary": "Apple on Friday published an EU energy label for the iPhone Duo that reveals the device has a total battery capacity of 4,883 mAh. The document appears to confirm a previous leak…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d7d8021a1f7a",
+      "title": "古尔曼：苹果明知 iPhone Duo 折叠屏手机供应不足，却坚持周五启动预售",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-18",
+      "time": "15:01",
+      "publishedAt": "2026-10-18T15:01:01.000Z",
+      "url": "https://www.ithome.com/1/014/613.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/6e6e6ee0-fae8-402f-ade7-449da939632f.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 18 日消息，彭博社记者马克 · 古尔曼在最新一期《Power On》通讯中透露，苹果明知 iPhone Duo 折叠屏手机面临严重的供应短缺， 却仍然决定本周五开启预购 ，而不是等到备货更加充足时再启动预购。 古尔曼表示： 我就直说了： 苹果这次犯了一个重大错误 。他们明明知道供应严重受限，却坚持按计划推出 iPhone Duo。比起…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fc8ad96470fd",
+      "title": "Mark Gurman: Apple Made 'Major Mistake' With iPhone Duo Pre-Orders",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-18",
+      "time": "14:33",
+      "publishedAt": "2026-10-18T14:33:47.000Z",
+      "url": "https://www.macrumors.com/2026/10/18/gurman-says-iphone-duo-preorders-major-mistake/",
+      "image": "https://images.macrumors.com/article-new/2026/10/iphone-duo-feature.jpg",
+      "summary": "Despite knowing that the iPhone Duo would face \"severe supply constraints\" due to manufacturing challenges, Apple chose to begin iPhone Duo pre-orders on Friday instead of waiting…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9e88feb397cc",
+      "title": "安全公司趋势科技：警惕山寨苹果 iPhone Duo 预购网站，暗藏黑客钓鱼攻击风险",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-18",
+      "time": "14:05",
+      "publishedAt": "2026-10-18T14:05:49.000Z",
+      "url": "https://www.ithome.com/1/014/599.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/6b0627b6-d0a6-4ca9-8afd-294c886232be.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 18 日消息，安全公司趋势科技发文，透露随着苹果 iPhone Duo 预购火热，目前市面上出现多个山寨苹果网站，这些网站打着所谓“限量抢先购”话术吸引消费者点击，以此进行钓鱼攻击。 IT之家参考通报获悉，相应网站会先识别访客使用的系统版本，如果发现用户设备系统存在已知安全漏洞，就可能进一步利用漏洞发动攻击。这意味着即使用户只是点击进入…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f4d09206f7cf",
+      "title": "荣耀 WIN2 系列部分规格参数曝光，至高搭载第六代骁龙 8 超级至尊版处理器",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-18",
+      "time": "13:08",
+      "publishedAt": "2026-10-18T13:08:43.000Z",
+      "url": "https://www.ithome.com/1/014/592.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/153d9505-fd7f-4399-b0a4-126c160b9d60.png",
+      "summary": "IT之家 10 月 18 日消息，博主 @体验more 今日曝光荣耀 WIN2 系列新机部分规格参数，包含荣耀 WIN2、荣耀 WIN RT2、荣耀 WIN Turbo2 三款机型。 IT之家整理曝光参数如下： 荣耀 WIN2 第六代骁龙 8 超级至尊版，LPDDR5X Ultra+UFS4.1； 6.89 英寸 2K 185Hz LTPS OLED 直屏…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "coolapk-user-5ad34ef3c9bd",
       "title": "JSCHEN小小狐：错怪 oddo 了😭 白色 X10 Pro Max 才是对的呀",
@@ -77,46 +217,6 @@ window.phoneRadarAuto = {
       "summary": "IT之家 10 月 18 日消息，据东方财经报道，在微博 V 影响力大会科技论坛上，王自如就“再给一次机会，是否还会和罗永浩吵架”作出回应。他表示：“我下次可能就是十字路口了吧，借微博喊话，不吵了和解了。如果你想吵架成为大 V 的话，输赢并不重要，比如我是吧。” 2014 年 8 月，王自如与罗永浩的一场直播交锋轰动互联网，核心围绕锤子手机 T1 的评测争…",
       "tags": [
         "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-39a38e8d6a87",
-      "title": "荣耀 WIN 2 系列手机防水性能公布，内置双风扇支持 IPX8+IPX9 级防水",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-18",
-      "time": "06:31",
-      "publishedAt": "2026-10-18T06:31:11.000Z",
-      "url": "https://www.ithome.com/1/014/495.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/b9dc7f3a-8afe-481c-b8af-d76d87085975.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 18 日消息，荣耀官方今日正持续预热 WIN 2 系列手机，刚刚又介绍了新机的防水性能：荣耀 WIN 2 系列 支持整机 IP68+IP69+IP69K 级防尘防水 ， 内置双风扇支持 IPX8+IPX9 级防水 。 据介绍，荣耀 WIN 2 系列将搭载双子星涡轮散热风扇，将成为行业首款搭载双风扇散热架构的手机。不过爆料显示， 荣耀 W…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-314c1e6cb9c6",
-      "title": "iQOO Neo12 官宣“周一见”，新机拥有与中国美术学院联手打造的全新配色",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-18",
-      "time": "06:26",
-      "publishedAt": "2026-10-18T06:26:10.000Z",
-      "url": "https://www.ithome.com/1/014/493.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/2c8002bb-deb9-4161-a63f-3c83fff070ee.png",
-      "summary": "IT之家 10 月 18 日消息，维沃移动通信有限公司 iQOO Neo 产品经理罗佳慧发文，谈及了这次 iQOO Neo12 的外观设计。她透露， 新机拥有一款与中国美术学院联手共同打造全新配色 。 作为中国高等艺术教育的奠基者，中国美术学院被誉为“中国现代艺术教育的摇篮”，在艺术与设计领域拥有深厚实力。 时至今日，中国美院兼顾艺术底蕴与创新表达，持续推…",
-      "tags": [
-        "vivo",
         "爆料",
         "自动抓取"
       ]
@@ -322,6 +422,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-7bc1ffde86fe",
+      "title": "我又来了，我还是要说全世界手机厂商我只认可苹果的销售策略，我不是捧苹果，只是认可它的销售策略，iPhone Duo很火爆全世界都知道，但是对于正常想自己用手机的人只需要在官网原价下单，然后付款，然后等待即可，苹果大概率会提前或者按时把新手机送到你的手上，不管是11月，12月还是1月，我不需要每天盯着几点几分要去抢购等来无穷无尽的排队，当然，每个人交了钱都希望最快用到新手机，那就早点交钱，而不是像某些品牌手机想交钱都没机会交，什么时候某些手机厂商发新品爆款的时候敢用苹果的销售方式，我才承认你真的是高端。想骂我的先看看我的机型哈#华为MateXT2非凡大师# #华为Mate90ProMax#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-18",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74440289",
+      "image": "",
+      "summary": "我又来了，我还是要说全世界手机厂商我只认可苹果的销售策略，我不是捧苹果，只是认可它的销售策略，iPhone Duo很火爆全世界都知道，但是对于正常想自己用手机的人只需要在官网原价下单，然后付款，然后等待即可，苹果大概率会提前或者按时把新手机送到你的手上，不管是11月，12月还是1月，我不需要每天盯着几点几分要去抢购等来无穷无尽的排队，当然，每个人交了钱都希…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-8ca8c26357b7",
       "title": "曝iPhone 18 Pro Max再次刷新记录：单周激活近90万台",
       "source": "酷安热榜",
@@ -342,62 +462,42 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-311baca61cf1",
-      "title": "想换个中小屏机子，现在的机子实在是太贵了[受虐滑稽]看了一加15t，小米17，荣耀Magic9，OPPOfindx10",
-      "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74414042",
-      "image": "",
-      "summary": "想换个中小屏机子，现在的机子实在是太贵了[受虐滑稽]看了一加15t，小米17，荣耀Magic9，OPPOfindx10",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-c252547aa6af",
-      "title": "抢到iPhoneDuo加价6千卖只谈到3千",
-      "source": "微博热搜",
+      "id": "newsnow-479285cf3b06",
+      "title": "一艘货轮在霍尔木兹海峡触雷沉没，大量全新 iPhone 漂浮在海面，为何货轮会误入危险航道？损失有多大？",
+      "source": "知乎热榜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-10-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%8A%A2%E5%88%B0iPhoneDuo%E5%8A%A0%E4%BB%B76%E5%8D%83%E5%8D%96%E5%8F%AA%E8%B0%88%E5%88%B03%E5%8D%83%23&t=31&band_rank=14&Refer=top",
-      "image": "",
-      "summary": "抢到iPhoneDuo加价6千卖只谈到3千",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-d0bde1cf0b64",
-      "title": "孩子总是玩手机，怎么才能引导孩子少看电子产品？",
-      "source": "知乎热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
       "type": "市场报告",
       "trust": "媒体汇总",
       "date": "2026-10-18",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2091609048428949547",
+      "url": "https://www.zhihu.com/question/2093801400232834872",
       "image": "",
-      "summary": "孩子总是玩手机，怎么才能引导孩子少看电子产品？",
+      "summary": "一艘货轮在霍尔木兹海峡触雷沉没，大量全新 iPhone 漂浮在海面，为何货轮会误入危险航道？损失有多大？",
       "tags": [
-        "行业",
+        "iPhone",
         "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-b86d544f1aa6",
+      "title": "iPhone Duo回收报价每小时都变",
+      "source": "百度热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-18",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=iPhone+Duo%E5%9B%9E%E6%94%B6%E6%8A%A5%E4%BB%B7%E6%AF%8F%E5%B0%8F%E6%97%B6%E9%83%BD%E5%8F%98",
+      "image": "",
+      "summary": "iPhone Duo回收报价每小时都变",
+      "tags": [
+        "iPhone",
+        "爆料",
         "NewsNow"
       ]
     },
@@ -437,26 +537,6 @@ window.phoneRadarAuto = {
       "summary": "Some Apple retail employees have been told to warn customers against visiting to purchase an iPhone Duo without a pre-order on Friday, October 23. Apple Store employees told MacRu…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9ce0c060629a",
-      "title": "Liquid cooling finally made a Qi2 power bank worth it for my Pixel 11 Pro",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-17",
-      "time": "19:00",
-      "publishedAt": "2026-10-17T19:00:13.000Z",
-      "url": "https://www.androidpolice.com/ugreeen-magflow-pro-liquid-cooling-pixel-11/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/10/hand-holding-a-ugreen-magflow-pro-liquid-cooled-power-bank.png",
-      "summary": "Wireless charging phones are getting better with each year",
-      "tags": [
-        "Pixel",
         "爆料",
         "自动抓取"
       ]
@@ -639,26 +719,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-010229a75260",
-      "title": "竹本青：曝小米18 Fold 首销四周销量破10.4万台",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-17",
-      "time": "10:06",
-      "publishedAt": "2026-10-17T10:06:58.000Z",
-      "url": "https://www.coolapk.com/feed/74423749",
-      "image": "http://image.coolapk.com/feed/2026/1017/18/4248714_6e44222d_1618_1067_302@890x409.jpg",
-      "summary": "【曝小米18 Fold 首销四周销量破10.4万台】 截至W40（9.28-10.4）—— 约10.47万台 截至W39（9.21-9.27）—— 约9.83万台 截至W38（9.14-9.20）—— 约8.86万台 截至W37（9.7-9.13）—— 约3.97万台 #今日热点# #小米18Fold# #HyperOS4#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
       ]
     },
     {

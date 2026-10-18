@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-10-18T11:02:12.591Z",
+  "updatedAt": "2026-10-18T15:50:55.538Z",
   "issueDate": "2026-10-18",
   "issue": "VOL.261018",
   "title": "手机情报日报",
-  "intro": "今日筛出 19 条重点，其中 8 条是重点爆料，包含 11 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 17 条重点，其中 8 条是重点爆料，包含 12 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 19,
-    "iphone": 11,
+    "total": 17,
+    "iphone": 12,
     "leaks": 8,
-    "official": 1,
+    "official": 0,
     "specs": 0
   },
   "sections": [
@@ -17,6 +17,29 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-d7d8021a1f7a",
+          "title": "古尔曼：苹果明知 iPhone Duo 折叠屏手机供应不足，却坚持周五启动预售",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-18",
+          "time": "15:01",
+          "publishedAt": "2026-10-18T15:01:01.000Z",
+          "url": "https://www.ithome.com/1/014/613.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/6e6e6ee0-fae8-402f-ade7-449da939632f.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 10 月 18 日消息，彭博社记者马克 · 古尔曼在最新一期《Power On》通讯中透露，苹果明知 iPhone Duo 折叠屏手机面临严重的供应短缺， 却仍然决定本周五开启预购 ，而不是等到备货更加充足时再启动预购。 古尔曼表示： 我就直说了： 苹果这次犯了一个重大错误 。他们明明知道供应严重受限，却坚持按计划推出 iPhone Duo。比起…",
+          "detail": "IT之家 10 月 18 日消息，彭博社记者马克 · 古尔曼在最新一期《Power On》通讯中透露，苹果明知 iPhone Duo 折叠屏手机面临严重的供应短缺， 却仍然决定本周五开启预购 ，而不是等到备货更加充足时再启动预购。 古尔曼表示： 我就直说了： 苹果这次犯了一个重大错误 。他们明明知道供应严重受限，却坚持按计划推出 iPhone Duo。比起…",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "weibo-1b06052d4902",
           "title": "数码闲聊站：iPhone 18 Pro Max又刷新记录了，W41单周单品激活近90W………",
@@ -41,25 +64,49 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-314c1e6cb9c6",
-          "title": "iQOO Neo12 官宣“周一见”，新机拥有与中国美术学院联手打造的全新配色",
+          "id": "auto-6069be3453bd",
+          "title": "iPhone 电池 / 充电相关消息",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "vivo",
+          "source": "MacRumors",
+          "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-10-18",
-          "time": "06:26",
-          "publishedAt": "2026-10-18T06:26:10.000Z",
-          "url": "https://www.ithome.com/1/014/493.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/2c8002bb-deb9-4161-a63f-3c83fff070ee.png",
+          "time": "15:07",
+          "publishedAt": "2026-10-18T15:07:06.000Z",
+          "url": "https://www.macrumors.com/2026/10/18/iphone-duo-battery-capacity/",
+          "image": "https://images.macrumors.com/article-new/2026/09/iphone-duo-closed-1.jpg",
           "verdict": "先看",
-          "takeaway": "IT之家 10 月 18 日消息，维沃移动通信有限公司 iQOO Neo 产品经理罗佳慧发文，谈及了这次 iQOO Neo12 的外观设计。她透露， 新机拥有一款与中国美术学院联手共同打造全新配色 。 作为中国高等艺术教育的奠基者，中国美术学院被誉为“中国现代艺术教育的摇篮”，在艺术与设计领域拥有深厚实力。 时至今日，中国美院兼顾艺术底蕴与创新表达，持续推…",
-          "detail": "IT之家 10 月 18 日消息，维沃移动通信有限公司 iQOO Neo 产品经理罗佳慧发文，谈及了这次 iQOO Neo12 的外观设计。她透露， 新机拥有一款与中国美术学院联手共同打造全新配色 。 作为中国高等艺术教育的奠基者，中国美术学院被誉为“中国现代艺术教育的摇篮”，在艺术与设计领域拥有深厚实力。 时至今日，中国美院兼顾艺术底蕴与创新表达，持续推…",
+          "takeaway": "iPhone 电池 / 充电相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 电池 / 充电相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "外观 / 配色 / 尺寸"
+            "电池 / 充电",
+            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-fc8ad96470fd",
+          "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-18",
+          "time": "14:33",
+          "publishedAt": "2026-10-18T14:33:47.000Z",
+          "url": "https://www.macrumors.com/2026/10/18/gurman-says-iphone-duo-preorders-major-mistake/",
+          "image": "https://images.macrumors.com/article-new/2026/10/iphone-duo-feature.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -154,52 +201,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-27b9ab200486",
-          "title": "何刚重阳节分享华为手机实用功能：拦截诈骗电话、远程协助长辈",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-18",
-          "time": "08:25",
-          "publishedAt": "2026-10-18T08:25:22.000Z",
-          "url": "https://www.ithome.com/1/014/528.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/f2548450-005c-472e-ab14-ea10608b0739.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 10 月 18 日消息，今天是重阳节，华为终端 BG CEO 何刚发文分享华为手机使用功能， 含一键调大显示、拦截骚扰诈骗电话、快速修图等等 。 关怀模式： 星盾防诈： 亲密圈： 小艺修图： 客服小艺： IT之家注意到，鸿蒙 HarmonyOS 7 拥有新升级的亲密圈，支持共享屏幕远程协助。即使人不在身边，也能协助长辈简单快速解决问题。",
-          "detail": "IT之家 10 月 18 日消息，今天是重阳节，华为终端 BG CEO 何刚发文分享华为手机使用功能， 含一键调大显示、拦截骚扰诈骗电话、快速修图等等 。 关怀模式： 星盾防诈： 亲密圈： 小艺修图： 客服小艺： IT之家注意到，鸿蒙 HarmonyOS 7 拥有新升级的亲密圈，支持共享屏幕远程协助。即使人不在身边，也能协助长辈简单快速解决问题。",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-39a38e8d6a87",
-          "title": "荣耀 WIN 2 系列手机防水性能公布，内置双风扇支持 IPX8+IPX9 级防水",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-18",
-          "time": "06:31",
-          "publishedAt": "2026-10-18T06:31:11.000Z",
-          "url": "https://www.ithome.com/1/014/495.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/b9dc7f3a-8afe-481c-b8af-d76d87085975.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 10 月 18 日消息，荣耀官方今日正持续预热 WIN 2 系列手机，刚刚又介绍了新机的防水性能：荣耀 WIN 2 系列 支持整机 IP68+IP69+IP69K 级防尘防水 ， 内置双风扇支持 IPX8+IPX9 级防水 。 据介绍，荣耀 WIN 2 系列将搭载双子星涡轮散热风扇，将成为行业首款搭载双风扇散热架构的手机。不过爆料显示， 荣耀 W…",
-          "detail": "IT之家 10 月 18 日消息，荣耀官方今日正持续预热 WIN 2 系列手机，刚刚又介绍了新机的防水性能：荣耀 WIN 2 系列 支持整机 IP68+IP69+IP69K 级防尘防水 ， 内置双风扇支持 IPX8+IPX9 级防水 。 据介绍，荣耀 WIN 2 系列将搭载双子星涡轮散热风扇，将成为行业首款搭载双风扇散热架构的手机。不过爆料显示， 荣耀 W…",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -209,27 +210,27 @@ window.phoneRadarDaily = {
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
         {
-          "id": "auto-f88c473bc838",
-          "title": "iPhone 相关消息",
+          "id": "auto-9e88feb397cc",
+          "title": "安全公司趋势科技：警惕山寨苹果 iPhone Duo 预购网站，暗藏黑客钓鱼攻击风险",
           "originalTitle": "",
-          "source": "Apple Newsroom",
+          "source": "IT之家",
           "brand": "iPhone",
-          "type": "官方",
-          "trust": "官方确认",
+          "type": "爆料",
+          "trust": "媒体汇总",
           "date": "2026-10-18",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.apple.com/newsroom/2026/09/celebrating-what-holds-us-on-iphone-18-pro/",
-          "image": "",
+          "time": "14:05",
+          "publishedAt": "2026-10-18T14:05:49.000Z",
+          "url": "https://www.ithome.com/1/014/599.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/6b0627b6-d0a6-4ca9-8afd-294c886232be.png?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "takeaway": "IT之家 10 月 18 日消息，安全公司趋势科技发文，透露随着苹果 iPhone Duo 预购火热，目前市面上出现多个山寨苹果网站，这些网站打着所谓“限量抢先购”话术吸引消费者点击，以此进行钓鱼攻击。 IT之家参考通报获悉，相应网站会先识别访客使用的系统版本，如果发现用户设备系统存在已知安全漏洞，就可能进一步利用漏洞发动攻击。这意味着即使用户只是点击进入…",
+          "detail": "IT之家 10 月 18 日消息，安全公司趋势科技发文，透露随着苹果 iPhone Duo 预购火热，目前市面上出现多个山寨苹果网站，这些网站打着所谓“限量抢先购”话术吸引消费者点击，以此进行钓鱼攻击。 IT之家参考通报获悉，相应网站会先识别访客使用的系统版本，如果发现用户设备系统存在已知安全漏洞，就可能进一步利用漏洞发动攻击。这意味着即使用户只是点击进入…",
           "keyPoints": [
-            "影像硬件"
+            "爆料"
           ],
-          "confidence": "官方内容，可直接作为已确认信息记录。",
-          "impact": "影响拍照体验，买旗舰机时值得关注。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         },
         {
           "id": "newsnow-8ca8c26357b7",
@@ -255,6 +256,29 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
+          "id": "newsnow-479285cf3b06",
+          "title": "一艘货轮在霍尔木兹海峡触雷沉没，大量全新 iPhone 漂浮在海面，为何货轮会误入危险航道？损失有多大？",
+          "originalTitle": "",
+          "source": "知乎热榜",
+          "brand": "iPhone",
+          "type": "市场报告",
+          "trust": "媒体汇总",
+          "date": "2026-10-18",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.zhihu.com/question/2093801400232834872",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "一艘货轮在霍尔木兹海峡触雷沉没，大量全新 iPhone 漂浮在海面，为何货轮会误入危险航道？损失有多大？",
+          "detail": "一艘货轮在霍尔木兹海峡触雷沉没，大量全新 iPhone 漂浮在海面，为何货轮会误入危险航道？损失有多大？",
+          "keyPoints": [
+            "市场报告"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "目前更像背景信息，对买手机影响不大。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "newsnow-609812962786",
           "title": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验",
           "originalTitle": "",
@@ -276,75 +300,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-61c578de4ba9",
-          "title": "iPhone Duo：苹果，终究还是对强迫症下手了",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-10-18",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/115282",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "iPhone Duo：苹果，终究还是对强迫症下手了",
-          "detail": "iPhone Duo：苹果，终究还是对强迫症下手了",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-c252547aa6af",
-          "title": "抢到iPhoneDuo加价6千卖只谈到3千",
-          "originalTitle": "",
-          "source": "微博热搜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "待验证",
-          "date": "2026-10-18",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%8A%A2%E5%88%B0iPhoneDuo%E5%8A%A0%E4%BB%B76%E5%8D%83%E5%8D%96%E5%8F%AA%E8%B0%88%E5%88%B03%E5%8D%83%23&t=31&band_rank=14&Refer=top",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "抢到iPhoneDuo加价6千卖只谈到3千",
-          "detail": "抢到iPhoneDuo加价6千卖只谈到3千",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-58f927055ed2",
-          "title": "iPhone 电池 / 充电相关消息",
-          "originalTitle": "",
-          "source": "9to5Mac",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-17",
-          "time": "17:52",
-          "publishedAt": "2026-10-17T17:52:00.000Z",
-          "url": "https://9to5mac.com/2026/10/17/ugreen-25w-magsafe-liquid-cooling-battery-bank/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/DSC03213.jpg?quality=82&strip=all&w=1600",
-          "verdict": "扫一眼",
-          "takeaway": "iPhone 电池 / 充电相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 电池 / 充电相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "电池 / 充电"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     },
@@ -400,21 +355,21 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-311baca61cf1",
-          "title": "想换个中小屏机子，现在的机子实在是太贵了[受虐滑稽]看了一加15t，小米17，荣耀Magic9，OPPOfindx10",
+          "id": "newsnow-7bc1ffde86fe",
+          "title": "我又来了，我还是要说全世界手机厂商我只认可苹果的销售策略，我不是捧苹果，只是认可它的销售策略，iPhone Duo很火爆全世界都知道，但是对于正常想自己用手机的人只需要在官网原价下单，然后付款，然后等待即可，苹果大概率会提前或者按时把新手机送到你的手上，不管是11月，12月还是1月，我不需要每天盯着几点几分要去抢购等来无穷无尽的排队，当然，每个人交了钱都希望最快用到新手机，那就早点交钱，而不是像某些品牌手机想交钱都没机会交，什么时候某些手机厂商发新品爆款的时候敢用苹果的销售方式，我才承认你真的是高端。想骂我的先看看我的机型哈#华为MateXT2非凡大师# #华为Mate90ProMax#",
           "originalTitle": "",
           "source": "酷安热榜",
-          "brand": "HONOR",
+          "brand": "Huawei",
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-10-18",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/74414042",
+          "url": "https://www.coolapk.com/feed/74440289",
           "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "想换个中小屏机子，现在的机子实在是太贵了[受虐滑稽]看了一加15t，小米17，荣耀Magic9，OPPOfindx10",
-          "detail": "想换个中小屏机子，现在的机子实在是太贵了[受虐滑稽]看了一加15t，小米17，荣耀Magic9，OPPOfindx10",
+          "verdict": "先看",
+          "takeaway": "我又来了，我还是要说全世界手机厂商我只认可苹果的销售策略，我不是捧苹果，只是认可它的销售策略，iPhone Duo很火爆全世界都知道，但是对于正常想自己用手机的人只需要在官网原价下单，然后付款，然后等待即可，苹果大概率会提前或者按时把新手机送到你的手上，不管是11月，12月还是1月，我不需要每天盯着几点几分要去抢购等来无穷无尽的排队，当然，每个人交了钱都希…",
+          "detail": "我又来了，我还是要说全世界手机厂商我只认可苹果的销售策略，我不是捧苹果，只是认可它的销售策略，iPhone Duo很火爆全世界都知道，但是对于正常想自己用手机的人只需要在官网原价下单，然后付款，然后等待即可，苹果大概率会提前或者按时把新手机送到你的手上，不管是11月，12月还是1月，我不需要每天盯着几点几分要去抢购等来无穷无尽的排队，当然，每个人交了钱都希…",
           "keyPoints": [
             "爆料"
           ],
