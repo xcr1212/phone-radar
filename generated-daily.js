@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-10-18T00:04:59.256Z",
+  "updatedAt": "2026-10-18T04:30:55.969Z",
   "issueDate": "2026-10-18",
   "issue": "VOL.261018",
   "title": "手机情报日报",
-  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 11 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 19 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 16,
-    "iphone": 11,
+    "total": 19,
+    "iphone": 6,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -17,6 +17,29 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-2f832ee2440d",
+          "title": "消息称苹果要求零售店员工劝退无预约顾客：iPhone Duo 首发日基本不卖现货",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-18",
+          "time": "00:25",
+          "publishedAt": "2026-10-18T00:25:46.000Z",
+          "url": "https://www.ithome.com/1/014/437.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/4dc15af1-0ad2-4603-8184-a3dff2b7d249.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 10 月 18 日消息，据 MacRumors 报道，苹果部分直营店员工接到通知：需提醒顾客 10 月 23 日周五发售当天，若无预约，不要专程到店购买 iPhone Duo。 员工透露，公司明确告知：首发当日门店基本不会留给无预约顾客现货；工作人员需要主动劝阻没有预订单的到店客人，提醒他们此行大概率会空手而归。 苹果线上商城提示顾客，可以在 1…",
+          "detail": "IT之家 10 月 18 日消息，据 MacRumors 报道，苹果部分直营店员工接到通知：需提醒顾客 10 月 23 日周五发售当天，若无预约，不要专程到店购买 iPhone Duo。 员工透露，公司明确告知：首发当日门店基本不会留给无预约顾客现货；工作人员需要主动劝阻没有预订单的到店客人，提醒他们此行大概率会空手而归。 苹果线上商城提示顾客，可以在 1…",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "weibo-1b06052d4902",
           "title": "数码闲聊站：iPhone 18 Pro Max又刷新记录了，W41单周单品激活近90W………",
@@ -37,77 +60,6 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-58c4a925f685",
-          "title": "一加 Ace 7 系列手机外观首曝，搭载主动散热风扇",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-17",
-          "time": "11:48",
-          "publishedAt": "2026-10-17T11:48:10.000Z",
-          "url": "https://www.ithome.com/1/014/386.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/b72b9f4d-cd75-46da-a297-83b0bb251443.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 10 月 17 日消息，一加 Ace 7 系列手机已在电商平台开启预约，预计有一加 Ace 7 与一加 Ace 7 Pro 两款新机。今日，社交平台上首次曝光了该机的外观设计。 从图上可以看到，新机采用矩形相机模组设计， 模组内嵌入了主动散热风扇 ，机身背面有渐变色效果，同时印有一加品牌 logo 以及 ACE 系列标识。 据博主 @数码闲聊站…",
-          "detail": "IT之家 10 月 17 日消息，一加 Ace 7 系列手机已在电商平台开启预约，预计有一加 Ace 7 与一加 Ace 7 Pro 两款新机。今日，社交平台上首次曝光了该机的外观设计。 从图上可以看到，新机采用矩形相机模组设计， 模组内嵌入了主动散热风扇 ，机身背面有渐变色效果，同时印有一加品牌 logo 以及 ACE 系列标识。 据博主 @数码闲聊站…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "影像硬件",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-b4950377eb51",
-          "title": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-10-18",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/115426",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
-          "detail": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-48edc05c29d6",
-          "title": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-10-18",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/114972",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
-          "detail": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -158,6 +110,77 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-7e923a21ec2c",
+          "title": "DOOGEE Note60 W 系列手机亮相：6.38 英寸 90Hz 阔面屏设计，撞脸华为 Pura X View",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-18",
+          "time": "02:34",
+          "publishedAt": "2026-10-18T02:34:47.000Z",
+          "url": "https://www.ithome.com/1/014/464.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/1c9840e4-357d-4a91-88c9-a1c5fd1a2329.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 10 月 18 日消息，据 DOOGEE 公众号最新消息，其全新阔面屏手机 Note60 W 于第 140 届广交会正式首发。 ▲ DOOGEE Note60 W 据介绍，DOOGEE Note60 W 系列手机 采用 6.38 英寸 90Hz 阔面屏设计 ，打破传统屏幕比例；机身厚度约 8.4mm，内置 6500mAh 大容量电池； 同时预装最…",
+          "detail": "IT之家 10 月 18 日消息，据 DOOGEE 公众号最新消息，其全新阔面屏手机 Note60 W 于第 140 届广交会正式首发。 ▲ DOOGEE Note60 W 据介绍，DOOGEE Note60 W 系列手机 采用 6.38 英寸 90Hz 阔面屏设计 ，打破传统屏幕比例；机身厚度约 8.4mm，内置 6500mAh 大容量电池； 同时预装最…",
+          "keyPoints": [
+            "屏幕形态",
+            "电池 / 充电"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-b3d3ff5300d8",
+          "title": "iQOO Neo12 手机官宣搭载旗舰 16 机型同款超感触控芯片，支持至高 5000Hz 瞬时触控采样率",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-18",
+          "time": "02:24",
+          "publishedAt": "2026-10-18T02:24:08.000Z",
+          "url": "https://www.ithome.com/1/014/461.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/8d660d06-c0a1-4a69-97cd-f7debd08234c.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1",
+          "verdict": "先看",
+          "takeaway": "IT之家 10 月 18 日消息，在 10 月 14 日的维信诺 × iQOO × 清华大学屏幕技术沟通会上，iQOO 产品副总裁罗峰现场宣布，iQOO Neo12“十月底见”（PPT 显示十月见）。 维沃移动通信有限公司 iQOO Neo 产品经理罗佳慧发文介绍称，iQOO Neo12 将搭载 2K 185Hz 超冠屏、自研电竞芯片 Q3， 行业首发 2…",
+          "detail": "IT之家 10 月 18 日消息，在 10 月 14 日的维信诺 × iQOO × 清华大学屏幕技术沟通会上，iQOO 产品副总裁罗峰现场宣布，iQOO Neo12“十月底见”（PPT 显示十月见）。 维沃移动通信有限公司 iQOO Neo 产品经理罗佳慧发文介绍称，iQOO Neo12 将搭载 2K 185Hz 超冠屏、自研电竞芯片 Q3， 行业首发 2…",
+          "keyPoints": [
+            "屏幕形态",
+            "芯片 / 性能"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-440ccbe08bd1",
+          "title": "华为 nova 12 / 13 系列手机推 HarmonyOS 7 花粉 Beta 尝鲜升级，新增远程分享、直连供电等功能",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-18",
+          "time": "01:41",
+          "publishedAt": "2026-10-18T01:41:46.000Z",
+          "url": "https://www.ithome.com/1/014/453.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/efc539e7-205a-4813-8fb4-ec62140148f4.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 10 月 18 日消息，华为官网在 10 月 16 日更新了鸿蒙 7 系统最新适配清单，华为 nova 12 系列、nova 13 系列手机开启了 HarmonyOS 7 花粉 Beta 尝鲜升级。 IT之家注意到，华为官方宣布，华为 nova 12 系列、nova 13 系列手机已开启 HarmonyOS 7 花粉 Beta 尝鲜版本的升级推送…",
+          "detail": "IT之家 10 月 18 日消息，华为官网在 10 月 16 日更新了鸿蒙 7 系统最新适配清单，华为 nova 12 系列、nova 13 系列手机开启了 HarmonyOS 7 花粉 Beta 尝鲜升级。 IT之家注意到，华为官方宣布，华为 nova 12 系列、nova 13 系列手机已开启 HarmonyOS 7 花粉 Beta 尝鲜版本的升级推送…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-5e7ad4ce4b11",
           "title": "曝华为 Pura X Max 阔折叠手机销量已破百万台，标准版成功“赶超”典藏版",
           "originalTitle": "",
@@ -175,29 +198,6 @@ window.phoneRadarDaily = {
           "detail": "IT之家 10 月 18 日消息，长期关注国内手机市场份额的博主 @RD观测 分享了华为折叠屏手机的销量情况：截至 2026 W40（IT之家注：9 月 28 日-10 月 4 日），华为 Pura X Max 约 52.9 万台、Pura X Max 典藏版约 49.31 万台。 从数据来看， 华为 Pura X Max 系列横向阔折叠手机的总销量已突破…",
           "keyPoints": [
             "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-ffffc847b57d",
-          "title": "曝小米 18 Fold 中折叠手机销量突破十万台：首搭玄戒 O3、后置徕卡三摄，10999 元起",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-17",
-          "time": "23:20",
-          "publishedAt": "2026-10-17T23:20:56.000Z",
-          "url": "https://www.ithome.com/1/014/417.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/6399dcd0-91b2-4882-b55b-d2447245bca6.png?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 10 月 18 日消息，据长期关注国内手机市场份额的数码博主 @RD观测 爆料，截至 2026 年第 40 周（9 月 28 日-10 月 4 日）， 小米 18 Fold 中折叠手机的销量约 10.47 万台 。 IT之家注意到，在 9 月 23 日的小米秋季新品发布会上，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰宣布， 小米…",
-          "detail": "IT之家 10 月 18 日消息，据长期关注国内手机市场份额的数码博主 @RD观测 爆料，截至 2026 年第 40 周（9 月 28 日-10 月 4 日）， 小米 18 Fold 中折叠手机的销量约 10.47 万台 。 IT之家注意到，在 9 月 23 日的小米秋季新品发布会上，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰宣布， 小米…",
-          "keyPoints": [
-            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -234,119 +234,27 @@ window.phoneRadarDaily = {
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         },
         {
-          "id": "newsnow-8ca8c26357b7",
-          "title": "曝iPhone 18 Pro Max再次刷新记录：单周激活近90万台",
+          "id": "auto-58f927055ed2",
+          "title": "iPhone 电池 / 充电相关消息",
           "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-10-18",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/74418139",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "曝iPhone 18 Pro Max再次刷新记录：单周激活近90万台",
-          "detail": "曝iPhone 18 Pro Max再次刷新记录：单周激活近90万台",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-308341c0e603",
-          "title": "WPS Office 宣布已适配 iPhone Duo",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-10-18",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/74414578",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "WPS Office 宣布已适配 iPhone Duo",
-          "detail": "WPS Office 宣布已适配 iPhone Duo",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-609812962786",
-          "title": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-10-18",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/115308",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验",
-          "detail": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-61c578de4ba9",
-          "title": "iPhone Duo：苹果，终究还是对强迫症下手了",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-10-18",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/115282",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "iPhone Duo：苹果，终究还是对强迫症下手了",
-          "detail": "iPhone Duo：苹果，终究还是对强迫症下手了",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-bdf6146cda97",
-          "title": "货轮沉没大量iPhone漂浮海面",
-          "originalTitle": "",
-          "source": "今日头条热榜",
+          "source": "9to5Mac",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-10-18",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.toutiao.com/trending/7696868053660729363/",
-          "image": "",
+          "date": "2026-10-17",
+          "time": "17:52",
+          "publishedAt": "2026-10-17T17:52:00.000Z",
+          "url": "https://9to5mac.com/2026/10/17/ugreen-25w-magsafe-liquid-cooling-battery-bank/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/DSC03213.jpg?quality=82&strip=all&w=1600",
           "verdict": "扫一眼",
-          "takeaway": "货轮沉没大量iPhone漂浮海面",
-          "detail": "货轮沉没大量iPhone漂浮海面",
+          "takeaway": "iPhone 电池 / 充电相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 电池 / 充电相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "爆料"
+            "电池 / 充电"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     },
@@ -377,6 +285,53 @@ window.phoneRadarDaily = {
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-c1470c704efe",
+          "title": "OPPO 相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-17",
+          "time": "12:25",
+          "publishedAt": "2026-10-17T12:25:23.000Z",
+          "url": "https://www.gizmochina.com/2026/10/17/oneplus-16-global-india-variant-testing/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/4320-1800-300x169.jpg?x96852",
+          "verdict": "可略过",
+          "takeaway": "OPPO 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "OPPO 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "屏幕形态",
+            "芯片 / 性能"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响性能和寿命判断，适合放进参数库。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
+          "id": "auto-d3bc5910feab",
+          "title": "Samsung 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-17",
+          "time": "11:19",
+          "publishedAt": "2026-10-17T11:19:48.000Z",
+          "url": "https://www.gizmochina.com/2026/10/17/samsungs-2027-foldables-tipped-to-include-six-models-including-galaxy-z-slide-and-z-fold-9-pro/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Screenshot-2026-05-22-040113-1024x576-1-300x169.png?x96852",
+          "verdict": "可略过",
+          "takeaway": "Samsung 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -386,26 +341,142 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "newsnow-311baca61cf1",
-          "title": "想换个中小屏机子，现在的机子实在是太贵了[受虐滑稽]看了一加15t，小米17，荣耀Magic9，OPPOfindx10",
+          "id": "coolapk-user-2a5133874933",
+          "title": "竹本青：有没有不像的风险？[t耐克嘴] #鸿蒙7#",
           "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "HONOR",
+          "source": "竹本青",
+          "brand": "Huawei",
           "type": "爆料",
-          "trust": "高关注爆料源",
+          "trust": "高可信爆料",
           "date": "2026-10-18",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/74414042",
-          "image": "",
+          "time": "02:28",
+          "publishedAt": "2026-10-18T02:28:56.000Z",
+          "url": "https://www.coolapk.com/feed/74436898",
+          "image": "http://image.coolapk.com/feed/2026/1018/10/4248714_b30d5f44_0535_2009_375@4072x2036.jpg",
           "verdict": "扫一眼",
-          "takeaway": "想换个中小屏机子，现在的机子实在是太贵了[受虐滑稽]看了一加15t，小米17，荣耀Magic9，OPPOfindx10",
-          "detail": "想换个中小屏机子，现在的机子实在是太贵了[受虐滑稽]看了一加15t，小米17，荣耀Magic9，OPPOfindx10",
+          "takeaway": "有没有不像的风险？[t耐克嘴] #鸿蒙7#",
+          "detail": "有没有不像的风险？[t耐克嘴] #鸿蒙7#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "coolapk-user-010229a75260",
+          "title": "竹本青：【曝小米18 Fold 首销四周销量破10.4万台】 截至W40（9.28-10.4）—— 约10.47万台 截至…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-10-17",
+          "time": "10:06",
+          "publishedAt": "2026-10-17T10:06:58.000Z",
+          "url": "https://www.coolapk.com/feed/74423749",
+          "image": "http://image.coolapk.com/feed/2026/1017/18/4248714_6e44222d_1618_1067_302@890x409.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "【曝小米18 Fold 首销四周销量破10.4万台】 截至W40（9.28-10.4）—— 约10.47万台 截至W39（9.21-9.27）—— 约9.83万台 截至W38（9.14-9.20）—— 约8.86万台 截至W37（9.7-9.13）—— 约3.97万台 #今日热点# #小米18Fold# #HyperOS4#",
+          "detail": "【曝小米18 Fold 首销四周销量破10.4万台】 截至W40（9.28-10.4）—— 约10.47万台 截至W39（9.21-9.27）—— 约9.83万台 截至W38（9.14-9.20）—— 约8.86万台 截至W37（9.7-9.13）—— 约3.97万台 #今日热点# #小米18Fold# #HyperOS4#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-9ce0c060629a",
+          "title": "Pixel 11 Pro 电池 / 充电相关消息",
+          "originalTitle": "",
+          "source": "Android Police",
+          "brand": "Pixel",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-17",
+          "time": "19:00",
+          "publishedAt": "2026-10-17T19:00:13.000Z",
+          "url": "https://www.androidpolice.com/ugreeen-magflow-pro-liquid-cooling-pixel-11/",
+          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/10/hand-holding-a-ugreen-magflow-pro-liquid-cooled-power-bank.png",
+          "verdict": "可略过",
+          "takeaway": "Pixel 11 Pro 电池 / 充电相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Pixel 11 Pro 电池 / 充电相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "电池 / 充电"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-1fc0605620f3",
+          "title": "Samsung 相关消息",
+          "originalTitle": "",
+          "source": "Android Police",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-17",
+          "time": "14:30",
+          "publishedAt": "2026-10-17T14:30:13.000Z",
+          "url": "https://www.androidpolice.com/stolen-galaxy-s22-plus-samsung-find/",
+          "image": "",
+          "verdict": "可略过",
+          "takeaway": "Samsung 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Samsung 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-43c4019119fb",
+          "title": "Huawei Mate 90 Pro Max 对比 Xiaomi 18 Pro Max：差异整理",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-17",
+          "time": "10:02",
+          "publishedAt": "2026-10-17T10:02:58.000Z",
+          "url": "https://www.gizmochina.com/2026/10/17/huawei-mate-90-pro-max-vs-xiaomi-18-pro-max/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/image-42-300x198.png?x96852",
+          "verdict": "可略过",
+          "takeaway": "Huawei Mate 90 Pro Max 对比 Xiaomi 18 Pro Max：重点看定位、配置差异和价格差，判断是否值得等更高端型号。",
+          "detail": "Huawei Mate 90 Pro Max 对比 Xiaomi 18 Pro Max 的差异整理。重点看两款机型的定位、影像规格、屏幕尺寸、价格区间和发布时间是否拉开差距。",
+          "keyPoints": [
+            "影像硬件",
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响拍照体验，买旗舰机时值得关注。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
+          "id": "auto-6000c17b3d73",
+          "title": "Galaxy S27 Ultra 芯片 / 性能相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-17",
+          "time": "09:18",
+          "publishedAt": "2026-10-17T09:18:56.000Z",
+          "url": "https://www.gizmochina.com/2026/10/17/qualcomm-denies-snapdragon-8-elite-extreme-gen-6-overheating-allegations-on-galaxy-s27-ultra/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Qualcomm-Snapdragon-8-Elite-Extreme-Gen-6-300x200.png?x96852",
+          "verdict": "可略过",
+          "takeaway": "Galaxy S27 Ultra 芯片 / 性能相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Galaxy S27 Ultra 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "芯片 / 性能"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响性能和寿命判断，适合放进参数库。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]

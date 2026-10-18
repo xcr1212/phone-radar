@@ -1,6 +1,106 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-18T00:04:59.256Z",
+  "updatedAt": "2026-10-18T04:30:55.969Z",
   "news": [
+    {
+      "id": "auto-7e923a21ec2c",
+      "title": "DOOGEE Note60 W 系列手机亮相：6.38 英寸 90Hz 阔面屏设计，撞脸华为 Pura X View",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-18",
+      "time": "02:34",
+      "publishedAt": "2026-10-18T02:34:47.000Z",
+      "url": "https://www.ithome.com/1/014/464.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/1c9840e4-357d-4a91-88c9-a1c5fd1a2329.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 18 日消息，据 DOOGEE 公众号最新消息，其全新阔面屏手机 Note60 W 于第 140 届广交会正式首发。 ▲ DOOGEE Note60 W 据介绍，DOOGEE Note60 W 系列手机 采用 6.38 英寸 90Hz 阔面屏设计 ，打破传统屏幕比例；机身厚度约 8.4mm，内置 6500mAh 大容量电池； 同时预装最…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-2a5133874933",
+      "title": "竹本青：有没有不像的风险？[t耐克嘴] #鸿蒙7#",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-18",
+      "time": "02:28",
+      "publishedAt": "2026-10-18T02:28:56.000Z",
+      "url": "https://www.coolapk.com/feed/74436898",
+      "image": "http://image.coolapk.com/feed/2026/1018/10/4248714_b30d5f44_0535_2009_375@4072x2036.jpg",
+      "summary": "有没有不像的风险？[t耐克嘴] #鸿蒙7#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-b3d3ff5300d8",
+      "title": "iQOO Neo12 手机官宣搭载旗舰 16 机型同款超感触控芯片，支持至高 5000Hz 瞬时触控采样率",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-18",
+      "time": "02:24",
+      "publishedAt": "2026-10-18T02:24:08.000Z",
+      "url": "https://www.ithome.com/1/014/461.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/8d660d06-c0a1-4a69-97cd-f7debd08234c.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1",
+      "summary": "IT之家 10 月 18 日消息，在 10 月 14 日的维信诺 × iQOO × 清华大学屏幕技术沟通会上，iQOO 产品副总裁罗峰现场宣布，iQOO Neo12“十月底见”（PPT 显示十月见）。 维沃移动通信有限公司 iQOO Neo 产品经理罗佳慧发文介绍称，iQOO Neo12 将搭载 2K 185Hz 超冠屏、自研电竞芯片 Q3， 行业首发 2…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-440ccbe08bd1",
+      "title": "华为 nova 12 / 13 系列手机推 HarmonyOS 7 花粉 Beta 尝鲜升级，新增远程分享、直连供电等功能",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-18",
+      "time": "01:41",
+      "publishedAt": "2026-10-18T01:41:46.000Z",
+      "url": "https://www.ithome.com/1/014/453.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/efc539e7-205a-4813-8fb4-ec62140148f4.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 18 日消息，华为官网在 10 月 16 日更新了鸿蒙 7 系统最新适配清单，华为 nova 12 系列、nova 13 系列手机开启了 HarmonyOS 7 花粉 Beta 尝鲜升级。 IT之家注意到，华为官方宣布，华为 nova 12 系列、nova 13 系列手机已开启 HarmonyOS 7 花粉 Beta 尝鲜版本的升级推送…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2f832ee2440d",
+      "title": "消息称苹果要求零售店员工劝退无预约顾客：iPhone Duo 首发日基本不卖现货",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-18",
+      "time": "00:25",
+      "publishedAt": "2026-10-18T00:25:46.000Z",
+      "url": "https://www.ithome.com/1/014/437.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/4dc15af1-0ad2-4603-8184-a3dff2b7d249.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 18 日消息，据 MacRumors 报道，苹果部分直营店员工接到通知：需提醒顾客 10 月 23 日周五发售当天，若无预约，不要专程到店购买 iPhone Duo。 员工透露，公司明确告知：首发当日门店基本不会留给无预约顾客现货；工作人员需要主动劝阻没有预订单的到店客人，提醒他们此行大概率会空手而归。 苹果线上商城提示顾客，可以在 1…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-f88c473bc838",
       "title": "Celebrating “What Holds Us” on iPhone 18 Pro",
@@ -19,226 +119,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "官方",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "newsnow-b4950377eb51",
-      "title": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-10-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/115426",
-      "image": "",
-      "summary": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-b6dde21f8e12",
-      "title": "vivo X500 Pro Max 影像漫谈：当视频创作像拍照一样轻巧",
-      "source": "少数派热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-10-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/115456",
-      "image": "",
-      "summary": "vivo X500 Pro Max 影像漫谈：当视频创作像拍照一样轻巧",
-      "tags": [
-        "vivo",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-609812962786",
-      "title": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-10-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/115308",
-      "image": "",
-      "summary": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-61c578de4ba9",
-      "title": "iPhone Duo：苹果，终究还是对强迫症下手了",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-10-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/115282",
-      "image": "",
-      "summary": "iPhone Duo：苹果，终究还是对强迫症下手了",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-48edc05c29d6",
-      "title": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-10-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/114972",
-      "image": "",
-      "summary": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-8ca8c26357b7",
-      "title": "曝iPhone 18 Pro Max再次刷新记录：单周激活近90万台",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74418139",
-      "image": "",
-      "summary": "曝iPhone 18 Pro Max再次刷新记录：单周激活近90万台",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-311baca61cf1",
-      "title": "想换个中小屏机子，现在的机子实在是太贵了[受虐滑稽]看了一加15t，小米17，荣耀Magic9，OPPOfindx10",
-      "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74414042",
-      "image": "",
-      "summary": "想换个中小屏机子，现在的机子实在是太贵了[受虐滑稽]看了一加15t，小米17，荣耀Magic9，OPPOfindx10",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-308341c0e603",
-      "title": "WPS Office 宣布已适配 iPhone Duo",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74414578",
-      "image": "",
-      "summary": "WPS Office 宣布已适配 iPhone Duo",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-bdf6146cda97",
-      "title": "货轮沉没大量iPhone漂浮海面",
-      "source": "今日头条热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7696868053660729363/",
-      "image": "",
-      "summary": "货轮沉没大量iPhone漂浮海面",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-3a51d5bea6a8",
-      "title": "陈奕迅将开26场演唱会：禁止带手机",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E9%99%88%E5%A5%95%E8%BF%85%E5%B0%86%E5%BC%8026%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A%EF%BC%9A%E7%A6%81%E6%AD%A2%E5%B8%A6%E6%89%8B%E6%9C%BA",
-      "image": "",
-      "summary": "陈奕迅将开26场演唱会：禁止带手机",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-7b25a741c125",
-      "title": "手机尾号8899999拍出28万元",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E5%B0%BE%E5%8F%B78899999%E6%8B%8D%E5%87%BA28%E4%B8%87%E5%85%83",
-      "image": "",
-      "summary": "手机尾号8899999拍出28万元",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
       ]
     },
     {
@@ -462,26 +342,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-58c4a925f685",
-      "title": "一加 Ace 7 系列手机外观首曝，搭载主动散热风扇",
-      "source": "IT之家",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-17",
-      "time": "11:48",
-      "publishedAt": "2026-10-17T11:48:10.000Z",
-      "url": "https://www.ithome.com/1/014/386.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/b72b9f4d-cd75-46da-a297-83b0bb251443.jpg",
-      "summary": "IT之家 10 月 17 日消息，一加 Ace 7 系列手机已在电商平台开启预约，预计有一加 Ace 7 与一加 Ace 7 Pro 两款新机。今日，社交平台上首次曝光了该机的外观设计。 从图上可以看到，新机采用矩形相机模组设计， 模组内嵌入了主动散热风扇 ，机身背面有渐变色效果，同时印有一加品牌 logo 以及 ACE 系列标识。 据博主 @数码闲聊站…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-07896a11a5e4",
       "title": "OnePlus Ace 7 Pro first look leaks with a two-tone design",
       "source": "Gizmochina",
@@ -602,26 +462,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-a879af323885",
-      "title": "荣耀 WIN2 全系维信诺 2K+185Hz 大直屏，标准版 / Pro 版配置曝光",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-17",
-      "time": "09:44",
-      "publishedAt": "2026-10-17T09:44:41.000Z",
-      "url": "https://www.ithome.com/1/014/349.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/4607e683-9237-4a82-99cc-ebe12e75a68d.png",
-      "summary": "IT之家 10 月 17 日消息，据博主 @数码闲聊站 今日爆料，荣耀 WIN2 全系维信诺 2K+185Hz 大直屏，他还曝光了标准版 / Pro 版配置。 标准版：第五代骁龙 8 至尊版处理器 + 单风扇 +12070mAh 电池 +90W 有线充； Pro 版：第六代骁龙 8 超级至尊版处理器 + 双风扇 +10100mAh 电池 +100W 有线充…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-6000c17b3d73",
       "title": "Qualcomm denies Snapdragon 8 Elite Extreme Gen 6 overheating allegations on Galaxy S27 Ultra, but there’s a catch",
       "source": "Gizmochina",
@@ -677,26 +517,6 @@ window.phoneRadarAuto = {
       "summary": "【华为畅享100系列 门店哑机曝光：标准版水滴屏、Pro Max 麒麟8系芯+8800mAh电池】 10月17日，博主“看山叔”曝光华为畅享100系列两款门店陈列哑机，机身参数贴纸披露了部分配置信息： ● 畅享100标准版：水滴屏 搭载麒麟芯片，流沙光刻工艺的超耐摔玄甲机身，内置6100mAh电池，支持Wi-Fi 7； ● 畅享100 Pro Max：中置…",
       "tags": [
         "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-38ada12970ed",
-      "title": "竹本青：帖子不见了，属于是获认证了，，等过几天预热大师 他自己发完再发",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-17",
-      "time": "06:09",
-      "publishedAt": "2026-10-17T06:09:17.000Z",
-      "url": "https://www.coolapk.com/feed/74418864",
-      "image": "",
-      "summary": "帖子不见了，属于是获认证了，，等过几天预热大师 他自己发完再发",
-      "tags": [
-        "OPPO",
         "爆料",
         "酷安博主"
       ]
