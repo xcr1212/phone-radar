@@ -1,6 +1,326 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-19T13:11:44.482Z",
+  "updatedAt": "2026-10-19T19:54:51.741Z",
   "news": [
+    {
+      "id": "auto-50a51420531a",
+      "title": "Apple Starts Moving Up iPhone Duo Delivery Dates",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-19",
+      "time": "19:31",
+      "publishedAt": "2026-10-19T19:31:47.000Z",
+      "url": "https://www.macrumors.com/2026/10/19/apple-starts-moving-up-iphone-duo-delivery-dates/",
+      "image": "https://images.macrumors.com/article-new/2026/10/Apple-iPhone-Duo-Early-Feature-Rejected.jpg",
+      "summary": "Apple has started bumping up estimated delivery dates for some customers who pre-ordered the iPhone Duo in countries such as the U.S. and Japan. In the U.S., for example, well-kno…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-09accb69703a",
+      "title": "Samsung could crush Apple with the Galaxy Z Fold 8 and Fold 9",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-19",
+      "time": "19:00",
+      "publishedAt": "2026-10-19T19:00:00.000Z",
+      "url": "https://www.sammobile.com/opinion/samsung-could-crush-apple-with-galaxy-z-fold-8-fold-9/",
+      "image": "",
+      "summary": "Quick question for Galaxy Z Fold 8 users who pre-ordered the phone in July: How would you feel if your Fold 8 still hadn't shipped and you had to wait until November to use it for…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-817a0e83a2c5",
+      "title": "MagSafe Monday: Upgrading to the iPhone Duo? This MagSafe battery was built specifically for it",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-19",
+      "time": "18:53",
+      "publishedAt": "2026-10-19T18:53:00.000Z",
+      "url": "https://9to5mac.com/2026/10/19/solidsafe-duo/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iPhone-Duo-Battery-2.jpg?quality=82&strip=all&w=1600",
+      "summary": "With the iPhone Duo bringing an entirely different shape to the iPhone lineup, you’ll need accessories built for it as well. BMX built the SolidSafe Duo specifically around the iP…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f88255959921",
+      "title": "Samsung could double the phones in the Galaxy Z series: 'Galaxy Z Slide' rumored",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-10-19",
+      "time": "18:32",
+      "publishedAt": "2026-10-19T18:32:26.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-could-double-the-phones-in-the-galaxy-z-series-galaxy-z-slide-rumored",
+      "image": "https://cdn.mos.cms.futurecdn.net/bcuhhSbxchYP9jHLCaJkLc-1920-80.jpg",
+      "summary": "Samsung's Galaxy Z foldable lineup could involve six phones in 2027, and one could \"Slide.\"",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9634e9b2bab2",
+      "title": "I’ve struggled to use Samsung displays for years, but the Galaxy S27 may finally fix that; here’s why",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-19",
+      "time": "18:30",
+      "publishedAt": "2026-10-19T18:30:00.000Z",
+      "url": "https://9to5google.com/2026/10/19/galaxy-s27-display-dc-dimmed-rumor/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/04/Vivo-X300-Ultra-and-Galaxy-S26-Ultra-displays-2.jpg?quality=82&strip=all&w=1600",
+      "summary": "The Samsung Galaxy S27 display may be getting a DC-dimming upgrade, and that will be a huge boon for people sensitive to PWM dimming. more…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a259095e5948",
+      "title": "Apple Says iPhone Duo Not Available on Walk-In Basis in Two Countries",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-19",
+      "time": "18:00",
+      "publishedAt": "2026-10-19T18:00:41.000Z",
+      "url": "https://www.macrumors.com/2026/10/19/apple-says-no-iphone-duo-walk-ins-japan-korea/",
+      "image": "https://images.macrumors.com/article-new/2026/10/iphone-duo-feature.jpg",
+      "summary": "For a limited time, the iPhone Duo and the iPhone 18 Pro Max will be limited to customers with a pickup reservation at Apple Stores in Japan and South Korea , according to notices…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-91cf2d798d72",
+      "title": "Early Galaxy S27 launch? Maybe, but Samsung has a few issues to work out",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-10-19",
+      "time": "17:57",
+      "publishedAt": "2026-10-19T17:57:01.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/early-galaxy-s27-launch-maybe-but-samsung-has-a-few-issues-to-work-out",
+      "image": "https://cdn.mos.cms.futurecdn.net/7MkXgTMHDpN3fkLRciMFVY-1920-80.jpg",
+      "summary": "Galaxy Unpacked headed back to January? There's a chance, per these rumors, but Samsung still has its work cut out for it with uncertain Galaxy S27 Ultra upgrades.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-077498b7555a",
+      "title": "You should pick up this $850 Pixel 10 Pro XL over its $1,300 sequel",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-19",
+      "time": "17:35",
+      "publishedAt": "2026-10-19T17:35:00.000Z",
+      "url": "https://9to5google.com/2026/10/19/you-should-pick-up-this-850-pixel-10-pro-xl-over-its-1300-sequel/",
+      "image": "",
+      "summary": "Whether you’re in need of a new phone or you’re trying to get some early Christmas shopping out of the way, Amazon has a killer deal on a Pixel 10 Pro XL that might make you forge…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0c7a7478906e",
+      "title": "Redmi reveals K100 screen specs, including 165Hz refresh rate and 3,500 nits brightness",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-19",
+      "time": "15:38",
+      "publishedAt": "2026-10-19T15:38:46.000Z",
+      "url": "https://www.gizmochina.com/2026/10/19/redmi-reveals-k100-screen-specs-including-165hz-refresh-rate-and-3500-nits-brightness/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Redmi-K100-display-225x300.jpg?x96852",
+      "summary": "Redmi announced October 27 as the launch date for the Redmi K100 this morning, confirming the Snapdragon 8 Elite chipset and a dedicated D2 display chip. The company has now revea…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6d15ce65807a",
+      "title": "Dizzying lineup of Galaxy Z Fold 9 devices leaks, including the Galaxy Z ‘Slide’",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-19",
+      "time": "15:32",
+      "publishedAt": "2026-10-19T15:32:34.000Z",
+      "url": "https://9to5google.com/2026/10/19/galaxy-z-fold-9-slide-and-trifold-2-leaks/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-review-44.jpg?quality=82&strip=all&w=1600",
+      "summary": "The Galaxy Z Fold 9 lineup looks complicated. Not only does Samsung reportedly plan to add another Fold model, but a slideable phone called the “Galaxy Z Slide.” more…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-89bf2a2546ad",
+      "title": "Samsung reportedly hasn’t finalized Galaxy S27 details, considers February launch",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-19",
+      "time": "15:00",
+      "publishedAt": "2026-10-19T15:00:24.000Z",
+      "url": "https://9to5google.com/2026/10/19/galaxy-s27-pro-ultra-launch-timing/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/galaxy-s27-pro-leak-onl-2.webp?w=1600",
+      "summary": "It would be “February at the latest,” but Samsung has yet to set a launch date under pressure to finalize component details for the Galaxy S27 Pro and Ultra. more…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8133813bd2b2",
+      "title": "2026 年三季度印度智能手机市场遇冷，iPhone 销量下滑 20%",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-19",
+      "time": "14:30",
+      "publishedAt": "2026-10-19T14:30:53.000Z",
+      "url": "https://www.ithome.com/1/015/042.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/7b6b7b68-dd66-48d8-b7d4-32ec0a0a7f3a.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 19 日消息，市场调研机构 Omdia 数据显示，2026 年第三季度，印度全国智能手机出货量同比下降 26%，创下过去 10 年同期最低水平。尽管苹果 iPhone 在印度的销量同比下滑 20%，但与竞争对手相比，其表现仍相对稳健。 据悉，印度消费者的消费支出趋于保守，与新机涨价叠加在一起，该国智能手机总出货量降至 3580 万部。零…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-56155c2e50e0",
+      "title": "Xiaomi 18 Pro vs Vivo X500 Pro: Which Phone Should You Buy in 2026?",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-19",
+      "time": "14:13",
+      "publishedAt": "2026-10-19T14:13:48.000Z",
+      "url": "https://www.gizmochina.com/2026/10/19/xiaomi-18-pro-vs-vivo-x500-pro/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/image-47-300x172.png?x96852",
+      "summary": "Xiaomi 18 Pro and Vivo X500 Pro take different approaches to flagship performance, photography, and everyday usability. Xiaomi focuses on a high-resolution camera system, a second…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0e6c453d515b",
+      "title": "Apple made a ‘major mistake’ mismanaging the iPhone Duo launch",
+      "source": "SamMobile",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-19",
+      "time": "14:10",
+      "publishedAt": "2026-10-19T14:10:31.000Z",
+      "url": "https://www.sammobile.com/news/apple-made-a-major-mistake-mismanaging-the-iphone-duo-launch/",
+      "image": "",
+      "summary": "Apple fans are beginning to learn the hard way that making foldable phones isn't easy. Unfortunately for them, Apple doesn't seem fully ready for the foldable market either. The c…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-86b18d0d86de",
+      "title": "iPhone Duo has a bigger battery than Galaxy Z Fold 8 and Pixel 11 Pro Fold",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-19",
+      "time": "13:20",
+      "publishedAt": "2026-10-19T13:20:00.000Z",
+      "url": "https://9to5google.com/2026/10/19/iphone-duo-battery-comparison/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/iphone-duo-galaxy-z-fold-8-1.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple’s iPhone Duo may be thicker and heavier than most Android foldables, but it makes use of that space with a bigger battery compared to its main competitors, with a bigger bat…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c18fe98c5797",
+      "title": "Some iPhone Duo orders getting moved up to earlier dates",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-19",
+      "time": "13:19",
+      "publishedAt": "2026-10-19T13:19:10.000Z",
+      "url": "https://9to5mac.com/2026/10/19/some-iphone-duo-orders-getting-moved-up-to-earlier-dates/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/The-iPhone-Duo-is-Apple-at-its-absolute-best.jpg?quality=82&strip=all&w=1600",
+      "summary": "iPhone Duo became available for pre-order last Friday, then quickly became backordered into late January 2027. However, a number of users have started reporting that their orders…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "coolapk-user-987976250d40",
       "title": "竹本青：【荣耀X80 Pro Max 全系涨价500元，现售2499元起】 8GB+128GB —— 1999元 → 24…",
@@ -182,26 +502,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-0e630f4196cd",
-      "title": "消息称某厂正在做 2K+240Hz 显示屏，预计 2027 年能上机",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-19",
-      "time": "09:36",
-      "publishedAt": "2026-10-19T09:36:41.000Z",
-      "url": "https://www.ithome.com/1/014/957.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/f1173387-9ddb-4907-9283-5bafc9438ec5.png",
-      "summary": "IT之家 10 月 19 日消息，据博主 @数码闲聊站 今日发布“超超超前瞻”，某屏厂正在做 2K+240Hz 显示屏，预计 2027 年能上机， 目前不暗指任何新机 。 IT之家注意到，目前市面上的新机多采用 1.5K+ 高刷方案，兼顾流畅性与功耗，部分旗舰机型将屏幕分辨率提升至 2K 规格。如果爆料属实，2K+240Hz 方案在提升清晰度与流畅性的同时…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "weibo-4d3b05c82eee",
       "title": "数码闲聊站：一个超超超前瞻，屏厂正在做2K+240Hz *预计27年能上机，目前不暗指任何…",
       "source": "数码闲聊站",
@@ -259,66 +559,6 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-0289705c2770",
-      "title": "HMD Vibe 2 Max 手机规格曝光：6.78 英寸 FHD+ LCD 面板、展锐 T9100 处理器",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-19",
-      "time": "08:21",
-      "publishedAt": "2026-10-19T08:21:06.000Z",
-      "url": "https://www.ithome.com/1/014/872.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/4bd59bdd-c48f-4f53-af16-9ec050dc0147.jpg",
-      "summary": "IT之家 10 月 19 日消息，消息源 smashx_60 现已曝光了 HMD Vibe 2 Max 手机规格信息，该机定位中端市场，将于近期在海外上市。 该机可选黑 / 红 / 绿三种配色，提供 IP64 认证，正面配备一块 6.78 英寸 FHD+ 120Hz IPS LCD 面板（峰值亮度 1500 尼特），匹配 50Mp 自拍摄像头；手机背面配备…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-849d67f01e02",
-      "title": "三星推出 Galaxy F70 5G 手机：Exynos 1330 处理器，6.7 英寸 90Hz AMOLED 屏幕",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-19",
-      "time": "08:02",
-      "publishedAt": "2026-10-19T08:02:57.000Z",
-      "url": "https://www.ithome.com/1/014/866.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/2e29c25b-5f00-47e9-9a32-242cfa2353d3.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 19 日消息，三星现已在印度市场推出 Galaxy F70 5G 手机。新品采用 Exynos 1330 处理器和 5000 万像素摄像头， 起售价为 19,999 卢比 （IT之家注：现汇率约合 1,408 元人民币） 。 据介绍，这款手机的尺寸为 164.4*77.9*7.5 mm，重量 192g。正面配备一块 6.7 英寸 Sup…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-217f3ce3d9f4",
-      "title": "曝华为畅享 100 Pro Max 手机将搭载麒麟 8020 处理器，支持北斗卫星消息",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-19",
-      "time": "07:59",
-      "publishedAt": "2026-10-19T07:59:24.000Z",
-      "url": "https://www.ithome.com/1/014/863.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/cbf36cd7-00d5-4dd1-a042-8fbe5a287043.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 19 日消息，博主 @数码闲聊站 今日发文，爆料了即将发布的华为畅享 100 系列手机核心配置信息。 华为畅享 100 Pro Max —— 6.84 英寸 1.5K+LTPS 直屏 + 麒麟 8020 + 8800mAh (额定 8560mAh)，北斗卫星消息，曜金黑 / 雪域白 / 流沙金 / 蔚蓝海 畅享 100 Pro 和畅享…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -422,63 +662,23 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-256d96f6cd68",
-      "title": "竹本青：一加 16 首销期情况曝光：销量约为上代的125%",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-19",
-      "time": "06:56",
-      "publishedAt": "2026-10-19T06:56:48.000Z",
-      "url": "https://www.coolapk.com/feed/74463795",
-      "image": "http://image.coolapk.com/feed/2026/1019/14/4248714_7f714bec_3008_0559_88@1440x607.jpg",
-      "summary": "【一加 16 首销期情况曝光：销量约为上代的125%】 10月19日，博主「RD观测」分享第三方统计的一加 16 首销情况：以首销当天（10:00开售）+后三天为标准，同期累计销量约为上代一加 15 的125%。 此前13日，一加中国区总裁李杰宣布，截至当日上午11时，一加 16 首销销量突破7万台，拿下今年安卓旗舰首销同期销量Top1，实现了行业罕见的大…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-47528d608bf3",
-      "title": "Apple discusses Samsung’s role in iPhone Duo’s foldable display",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
+      "id": "auto-9e8b1a644aac",
+      "title": "This MagSafe battery pack is designed perfectly for iPhone Duo",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-10-19",
-      "time": "06:42",
-      "publishedAt": "2026-10-19T06:42:26.000Z",
-      "url": "https://www.sammobile.com/news/samsung-role-apple-iphone-duo-foldable-display/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/01/Samsung-Display-Crease-Less-Foldable-OLED-Panel-Comparison-CES-2026-1920x1080.jpg",
-      "summary": "It has long been rumored that Apple's first foldable iPhone uses an OLED panel from Samsung Display. Now, for the first time, Apple has officially discussed the South Korean firm'…",
+      "time": "07:00",
+      "publishedAt": "2026-10-19T07:00:00.000Z",
+      "url": "https://9to5mac.com/2026/10/19/this-magsafe-battery-pack-is-designed-perfectly-for-iphone-duo/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iPhone-Duo-MagSafe-Power-Bank.webp?w=1500",
+      "summary": "Ahead of iPhone Duo’s launch on Friday, accessory maker BMX is releasing what appears to be one of the first MagSafe batteries designed specifically for Apple’s foldable. The BMX…",
       "tags": [
-        "Samsung",
+        "iPhone",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-75120b9a05fb",
-      "title": "竹本青：米家热敷坐姿垫开启预约：三挡热敷+四位一体，众筹价179元",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-19",
-      "time": "06:17",
-      "publishedAt": "2026-10-19T06:17:11.000Z",
-      "url": "https://www.coolapk.com/feed/74463070",
-      "image": "http://image.coolapk.com/feed/2026/1019/14/4248714_2e67af16_0628_9215_135@1080x1188.jpg",
-      "summary": "【小米米家热敷坐姿垫 开启预约：三挡热敷+四位一体，众筹价179元】 ▫️423*387*340mm／人体工学设计 ▫️背腰臀腿四位一体，适配腰背曲线 ▫️三挡温感热敷，单次时长15分钟 ▫️红外感应组件，智能久坐提醒 ▫️1900mAh电池，无线/有线自由使用 ▫️尼龙+记忆棉｜底座两处透气孔 #今日热点# #数码日常# #米家什么值得买#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -702,67 +902,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-bd9131cfd3bd",
-      "title": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-10-19",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/114972",
-      "image": "",
-      "summary": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-01b448dd3f5b",
-      "title": "我又来了，我还是要说全世界手机厂商我只认可苹果的销售策略，我不是捧苹果，只是认可它的销售策略，iPhone Duo很火爆全世界都知道，但是对于正常想自己用手机的人只需要在官网原价下单，然后付款，然后等待即可，苹果大概率会提前或者按时把新手机送到你的手上，不管是11月，12月还是1月，我不需要每天盯着几点几分要去抢购等来无穷无尽的排队，当然，每个人交了钱都希望最快用到新手机，那就早点交钱，而不是像某些品牌手机想交钱都没机会交，什么时候某些手机厂商发新品爆款的时候敢用苹果的销售方式，我才承认你真的是高端。想骂我的先看看我的机型哈#华为MateXT2非凡大师# #华为Mate90ProMax#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-19",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74440289",
-      "image": "",
-      "summary": "我又来了，我还是要说全世界手机厂商我只认可苹果的销售策略，我不是捧苹果，只是认可它的销售策略，iPhone Duo很火爆全世界都知道，但是对于正常想自己用手机的人只需要在官网原价下单，然后付款，然后等待即可，苹果大概率会提前或者按时把新手机送到你的手上，不管是11月，12月还是1月，我不需要每天盯着几点几分要去抢购等来无穷无尽的排队，当然，每个人交了钱都希…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-34c85fc90332",
-      "title": "最近这一两天，我对酷安这个软件的摄影专区、手机拍照专区以及影像这一块特别关注。看了一两天大家拍的照片，首先有一个观点：无论是用什么相机、什么手机，哪怕是很古老的相机和手机，我觉得也有大佬可以拍出好看的照片。",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-19",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74457614",
-      "image": "",
-      "summary": "最近这一两天，我对酷安这个软件的摄影专区、手机拍照专区以及影像这一块特别关注。看了一两天大家拍的照片，首先有一个观点：无论是用什么相机、什么手机，哪怕是很古老的相机和手机，我觉得也有大佬可以拍出好看的照片。",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-fbbb68b66504",
+      "id": "newsnow-204f365d6ed8",
       "title": "#徕卡一瞬##谷歌相机##手机摄影#",
       "source": "酷安热榜",
       "brand": "行业",
@@ -772,7 +912,7 @@ window.phoneRadarAuto = {
       "date": "2026-10-19",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74448601",
+      "url": "https://www.coolapk.com/feed/74471440",
       "image": "",
       "summary": "#徕卡一瞬##谷歌相机##手机摄影#",
       "tags": [
@@ -782,8 +922,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-16556d4dfe85",
-      "title": "REDMI K100标准版将于 10月27日发布",
+      "id": "newsnow-086ae3875c6d",
+      "title": "REDMI K100 预热：骁龙 8 至尊版 + 独显芯片 D2",
       "source": "酷安热榜",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
@@ -792,9 +932,9 @@ window.phoneRadarAuto = {
       "date": "2026-10-19",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74457091",
+      "url": "https://www.coolapk.com/feed/74458092",
       "image": "",
-      "summary": "REDMI K100标准版将于 10月27日发布",
+      "summary": "REDMI K100 预热：骁龙 8 至尊版 + 独显芯片 D2",
       "tags": [
         "Xiaomi",
         "爆料",
@@ -802,142 +942,22 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-139ef14ccc0c",
-      "title": "是买全新的 #REDMIK100ProMax# 呢，还是买二手k90Promax啊，好纠结，差价也就四五百，怎么选，感觉k90的拍照更好，k100的续航也很香[捂脸]",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-19",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74455203",
-      "image": "",
-      "summary": "是买全新的 #REDMIK100ProMax# 呢，还是买二手k90Promax啊，好纠结，差价也就四五百，怎么选，感觉k90的拍照更好，k100的续航也很香[捂脸]",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-21ab0c934a74",
-      "title": "我宣布，澎湃4自带的超级小爱2.0的专家模式是我用过最强的手机端智能助手，为什么这样说，我让它操作B站完成答题，咔咔一顿选给我把硬核大会员考过了，当年要是有这个我升lv1考试也不用搜个半天#HyperOS4# #超级小爱# #REDMIK100ProMax#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-19",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74424664",
-      "image": "",
-      "summary": "我宣布，澎湃4自带的超级小爱2.0的专家模式是我用过最强的手机端智能助手，为什么这样说，我让它操作B站完成答题，咔咔一顿选给我把硬核大会员考过了，当年要是有这个我升lv1考试也不用搜个半天#HyperOS4# #超级小爱# #REDMIK100ProMax#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-0efb7144c9c6",
-      "title": "荣耀手机真的太好用了，以前用的都是苹果小米华为，原来荣耀这么好用。也是一家努力的公司呀，希望越来越好#数码日常#",
-      "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-19",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74430116",
-      "image": "",
-      "summary": "荣耀手机真的太好用了，以前用的都是苹果小米华为，原来荣耀这么好用。也是一家努力的公司呀，希望越来越好#数码日常#",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-c67562e086f8",
-      "title": "DOOGEE Note60 W 阔面屏手机亮相，撞脸华为Pura X View",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-19",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74436403",
-      "image": "",
-      "summary": "DOOGEE Note60 W 阔面屏手机亮相，撞脸华为Pura X View",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-adc721de28cb",
-      "title": "女子晒 iPhone 18Pro 订单泄露物流单号，骗子找 5 人接力跑腿冒领，快递、跑腿平台该承担多少责任？",
-      "source": "知乎热榜",
+      "id": "newsnow-ad7d9a53f7ab",
+      "title": "iPhone Duo溢价5天暴跌5000元",
+      "source": "百度热搜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
-      "type": "市场报告",
+      "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-10-19",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2093988287304284100",
+      "url": "https://www.baidu.com/s?wd=iPhone+Duo%E6%BA%A2%E4%BB%B75%E5%A4%A9%E6%9A%B4%E8%B7%8C5000%E5%85%83",
       "image": "",
-      "summary": "女子晒 iPhone 18Pro 订单泄露物流单号，骗子找 5 人接力跑腿冒领，快递、跑腿平台该承担多少责任？",
+      "summary": "iPhone Duo溢价5天暴跌5000元",
       "tags": [
         "iPhone",
-        "市场报告",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-2c36a3c2a753",
-      "title": "iPhone Duo 溢价从超 5 万元跌至 3000 元，首销价格为什么会快速回落？",
-      "source": "知乎热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "市场报告",
-      "trust": "媒体汇总",
-      "date": "2026-10-19",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2095513862397337640",
-      "image": "",
-      "summary": "iPhone Duo 溢价从超 5 万元跌至 3000 元，首销价格为什么会快速回落？",
-      "tags": [
-        "iPhone",
-        "市场报告",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-ac84f732f92e",
-      "title": "陈奕迅开启重录旧唱片「现场录音式演唱会」，要求封存手机且禁止跟唱鼓掌，如何看待这一观演规定？",
-      "source": "知乎热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "市场报告",
-      "trust": "媒体汇总",
-      "date": "2026-10-19",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2094884581296162749",
-      "image": "",
-      "summary": "陈奕迅开启重录旧唱片「现场录音式演唱会」，要求封存手机且禁止跟唱鼓掌，如何看待这一观演规定？",
-      "tags": [
-        "行业",
-        "市场报告",
+        "爆料",
         "NewsNow"
       ]
     },
