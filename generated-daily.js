@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-10-19T19:54:51.741Z",
+  "updatedAt": "2026-10-19T23:39:38.271Z",
   "issueDate": "2026-10-19",
   "issue": "VOL.261019",
   "title": "手机情报日报",
-  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 11,
-    "iphone": 6,
+    "total": 9,
+    "iphone": 5,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -183,27 +183,26 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "coolapk-user-6e1c0498c53c",
-          "title": "竹本青：曝华为畅享100 Pro Max将涨价：麒麟8020+8800mAh",
+          "id": "newsnow-a7b121c896d8",
+          "title": "今年换了有6部手机，最终止步于17max，可以大胆的说17max是用过小米手机里面最舒服，最均衡的手机，信号，续航，外观，用机感受，拍照都满足日常。我想和大家一样能订个2年。",
           "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Huawei",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
           "type": "爆料",
-          "trust": "高可信爆料",
+          "trust": "高关注爆料源",
           "date": "2026-10-19",
-          "time": "08:42",
-          "publishedAt": "2026-10-19T08:42:24.000Z",
-          "url": "https://www.coolapk.com/feed/74465962",
-          "image": "http://image.coolapk.com/feed/2026/1019/16/4248714_2155bab5_9759_795_984@1439x1594.jpg",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/74439668",
+          "image": "",
           "verdict": "先看",
-          "takeaway": "【曝华为畅享100 Pro Max将涨价：麒麟8020处理器+8800mAh电池】 ● 畅享100 Pro Max 6.84英寸1.5K LTPS直屏，峰值8000nits 麒麟8020处理器+鸿蒙7 双五星超耐摔玄甲机身 8800mAh大电池 支持北斗、星闪2.0、Wi-Fi 7 曜金黑/雪域白/流沙金/蔚蓝海 ● 畅享100 标准版／Pro版： 麒麟8…",
-          "detail": "【曝华为畅享100 Pro Max将涨价：麒麟8020处理器+8800mAh电池】 ● 畅享100 Pro Max 6.84英寸1.5K LTPS直屏，峰值8000nits 麒麟8020处理器+鸿蒙7 双五星超耐摔玄甲机身 8800mAh大电池 支持北斗、星闪2.0、Wi-Fi 7 曜金黑/雪域白/流沙金/蔚蓝海 ● 畅享100 标准版／Pro版： 麒麟8…",
+          "takeaway": "今年换了有6部手机，最终止步于17max，可以大胆的说17max是用过小米手机里面最舒服，最均衡的手机，信号，续航，外观，用机感受，拍照都满足日常。我想和大家一样能订个2年。",
+          "detail": "今年换了有6部手机，最终止步于17max，可以大胆的说17max是用过小米手机里面最舒服，最均衡的手机，信号，续航，外观，用机感受，拍照都满足日常。我想和大家一样能订个2年。",
           "keyPoints": [
-            "屏幕形态",
-            "电池 / 充电",
-            "芯片 / 性能"
+            "外观 / 配色 / 尺寸",
+            "电池 / 充电"
           ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -235,59 +234,6 @@ window.phoneRadarDaily = {
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响购买预算，值得先看。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
-        {
-          "id": "auto-0e6c453d515b",
-          "title": "iPhone 发布 / 上市相关消息",
-          "originalTitle": "",
-          "source": "SamMobile",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-19",
-          "time": "14:10",
-          "publishedAt": "2026-10-19T14:10:31.000Z",
-          "url": "https://www.sammobile.com/news/apple-made-a-major-mistake-mismanaging-the-iphone-duo-launch/",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "iPhone 有发布或新功能消息，适合确认是否和新机有关。",
-          "detail": "iPhone 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "launch",
-      "title": "新机与官方发布",
-      "hint": "能直接更新到参数库。",
-      "items": [
-        {
-          "id": "auto-6d8ef7dcdd2e",
-          "title": "派早报：三季度全球手机出货量继续两位数下降",
-          "originalTitle": "",
-          "source": "少数派",
-          "brand": "行业",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-10-18",
-          "time": "23:13",
-          "publishedAt": "2026-10-18T23:13:24.000Z",
-          "url": "https://sspai.com/post/116641",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "三季度全球手机出货量继续两位数下降 Roadster 发布会留下诸多疑问 闰时将取代闰秒 微软声称 Windows 11 响应提速 20%，为 8GB 优化 E Ink 发布 Kaleido 4 全国铁路列车车次编排更新 看看就行的简讯 少数派的近期动态 你可能错过的好文章",
-          "detail": "三季度全球手机出货量继续两位数下降 Roadster 发布会留下诸多疑问 闰时将取代闰秒 微软声称 Windows 11 响应提速 20%，为 8GB 优化 E Ink 发布 Kaleido 4 全国铁路列车车次编排更新 看看就行的简讯 少数派的近期动态 你可能错过的好文章",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         }
       ]

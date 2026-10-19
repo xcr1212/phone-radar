@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-19T19:54:51.741Z",
+  "updatedAt": "2026-10-19T23:39:38.271Z",
   "news": [
     {
       "id": "auto-50a51420531a",
@@ -437,46 +437,6 @@ window.phoneRadarAuto = {
       "summary": "Samsung usually announces its Galaxy S series flagship phones in mid-January or February and releases them in February or March. However, the company could take a page from its Ga…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-09f365fc16c8",
-      "title": "Foldables remain a tough sell, but this iPhone Duo alternative gets our readers’ vote",
-      "source": "Android Authority",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-19",
-      "time": "10:42",
-      "publishedAt": "2026-10-19T10:42:51.000Z",
-      "url": "https://www.androidauthority.com/iphone-duo-alternative-z-fold-8-poll-results-3724925/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Apple-iPhone-Duo-Hands-On-Facetime-on-inner-display-in-flex-mode.jpg",
-      "summary": "With $2,000 in their pocket, there's one foldable that the majority of voters would rather buy — and it's not Apple's.",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-3887e5957659",
-      "title": "技术人员拆解任天堂 Switch 2 可换电池版：仍使用群创光电面板、内存供应商有所变化",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-19",
-      "time": "10:09",
-      "publishedAt": "2026-10-19T10:09:33.000Z",
-      "url": "https://www.ithome.com/1/014/975.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/202b7493-636e-4538-af72-d1c059740fb5.png",
-      "summary": "IT之家 10 月 19 日消息，任天堂近期在欧洲推出了支持便捷更换电池的新版 Switch 2，技术人员 modyfikatorcasper 在对相应型号进行拆解后发现，该机并未换用传闻中的夏普 LCD 面板，仍使用群创光电（Innolux）面板。 除主板和电池仓设计外，新版 Switch 2 的变化较为有限。新机更换了风扇，可能对散热表现产生一定影响，…",
-      "tags": [
-        "行业",
         "爆料",
         "自动抓取"
       ]
@@ -942,22 +902,122 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-ad7d9a53f7ab",
-      "title": "iPhone Duo溢价5天暴跌5000元",
-      "source": "百度热搜",
+      "id": "newsnow-26f898a69355",
+      "title": "2026.10.18 广州·嘻米鹿·派庄园异次元展 #酷安夜话# #手机摄影# #人像摄影#",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-19",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74449936",
+      "image": "",
+      "summary": "2026.10.18 广州·嘻米鹿·派庄园异次元展 #酷安夜话# #手机摄影# #人像摄影#",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-a7b121c896d8",
+      "title": "今年换了有6部手机，最终止步于17max，可以大胆的说17max是用过小米手机里面最舒服，最均衡的手机，信号，续航，外观，用机感受，拍照都满足日常。我想和大家一样能订个2年。",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-19",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74439668",
+      "image": "",
+      "summary": "今年换了有6部手机，最终止步于17max，可以大胆的说17max是用过小米手机里面最舒服，最均衡的手机，信号，续航，外观，用机感受，拍照都满足日常。我想和大家一样能订个2年。",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-139ef14ccc0c",
+      "title": "是买全新的 #REDMIK100ProMax# 呢，还是买二手k90Promax啊，好纠结，差价也就四五百，怎么选，感觉k90的拍照更好，k100的续航也很香[捂脸]",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-19",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74455203",
+      "image": "",
+      "summary": "是买全新的 #REDMIK100ProMax# 呢，还是买二手k90Promax啊，好纠结，差价也就四五百，怎么选，感觉k90的拍照更好，k100的续航也很香[捂脸]",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-4342a6effe92",
+      "title": "数码店老板吐槽iPhone18Pro卖不动",
+      "source": "微博热搜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
       "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-10-19",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%95%B0%E7%A0%81%E5%BA%97%E8%80%81%E6%9D%BF%E5%90%90%E6%A7%BDiPhone18Pro%E5%8D%96%E4%B8%8D%E5%8A%A8%23&t=31&band_rank=20&Refer=top",
+      "image": "",
+      "summary": "数码店老板吐槽iPhone18Pro卖不动",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-c2e74ddd40a5",
+      "title": "苹果手机很多人不知道的操作",
+      "source": "微博热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-10-19",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E5%BE%88%E5%A4%9A%E4%BA%BA%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E6%93%8D%E4%BD%9C&t=31&band_rank=25&Refer=top",
+      "image": "",
+      "summary": "苹果手机很多人不知道的操作",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-adc721de28cb",
+      "title": "女子晒 iPhone 18Pro 订单泄露物流单号，骗子找 5 人接力跑腿冒领，快递、跑腿平台该承担多少责任？",
+      "source": "知乎热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "市场报告",
       "trust": "媒体汇总",
       "date": "2026-10-19",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=iPhone+Duo%E6%BA%A2%E4%BB%B75%E5%A4%A9%E6%9A%B4%E8%B7%8C5000%E5%85%83",
+      "url": "https://www.zhihu.com/question/2093988287304284100",
       "image": "",
-      "summary": "iPhone Duo溢价5天暴跌5000元",
+      "summary": "女子晒 iPhone 18Pro 订单泄露物流单号，骗子找 5 人接力跑腿冒领，快递、跑腿平台该承担多少责任？",
       "tags": [
         "iPhone",
-        "爆料",
+        "市场报告",
         "NewsNow"
       ]
     },
