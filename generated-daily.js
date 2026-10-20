@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-10-20T17:01:25.420Z",
+  "updatedAt": "2026-10-20T21:35:53.176Z",
   "issueDate": "2026-10-20",
   "issue": "VOL.261020",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 3 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 8,
-    "iphone": 3,
+    "total": 9,
+    "iphone": 5,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -60,6 +60,29 @@ window.phoneRadarDaily = {
           "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-b2853b6fe105",
+          "title": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
+          "originalTitle": "",
+          "source": "少数派热榜",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-10-20",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/115426",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
+          "detail": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
+          "keyPoints": [
+            "影像硬件"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -158,56 +181,59 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "weibo-bbbadab0e862",
-          "title": "数码闲聊站：OPPO Reno17 Pro，6.32英寸1.5K+120Hz小直屏，天玑8…",
+          "id": "coolapk-user-367c0bfda8b5",
+          "title": "JSCHEN小小狐：华为畅享 100 系列海报曝光：至高麒麟 8020",
           "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "OPPO",
+          "source": "JSCHEN小小狐",
+          "brand": "Huawei",
           "type": "爆料",
-          "trust": "高关注爆料源",
+          "trust": "高可信爆料",
           "date": "2026-10-20",
-          "time": "07:16",
-          "publishedAt": "2026-10-20T07:16:11.000Z",
-          "url": "https://weibo.com/6048569942/RnxMzxSFw",
-          "image": "",
+          "time": "08:44",
+          "publishedAt": "2026-10-20T08:44:37.000Z",
+          "url": "https://www.coolapk.com/feed/74487150",
+          "image": "http://image.coolapk.com/feed/2026/1020/16/4702274_8b3faebd_5875_9596_748@2305x3598.jpg",
           "verdict": "先看",
-          "takeaway": "OPPO Reno17 Pro，6.32英寸1.5K+120Hz小直屏，天玑8550 SUPER处理器，前置50Mp，后置200Mp大底云台主摄+50Mp超广角+50Mp潜望长焦，电池预计7K上下，轻薄拍照小屏机[偷乐]",
-          "detail": "OPPO Reno17 Pro，6.32英寸1.5K+120Hz小直屏，天玑8550 SUPER处理器，前置50Mp，后置200Mp大底云台主摄+50Mp超广角+50Mp潜望长焦，电池预计7K上下，轻薄拍照小屏机[偷乐]",
+          "takeaway": "『华为畅享 100 系列海报曝光：至高麒麟 8020』 华为畅享 100 Pro Max： ◇ 麒麟 8020 芯片（512GB） ◇ 麒麟 8020A 芯片（256/128GB） ◇ 6.84\" 1.5K 8000nits LTPS OLED ◇ 50MP 1/1.56\" RYYB + 8MP 前摄 ◇ 8800mAh 电池 + 40W 有线充电 ◇ 曜…",
+          "detail": "『华为畅享 100 系列海报曝光：至高麒麟 8020』 华为畅享 100 Pro Max： ◇ 麒麟 8020 芯片（512GB） ◇ 麒麟 8020A 芯片（256/128GB） ◇ 6.84\" 1.5K 8000nits LTPS OLED ◇ 50MP 1/1.56\" RYYB + 8MP 前摄 ◇ 8800mAh 电池 + 40W 有线充电 ◇ 曜…",
           "keyPoints": [
-            "影像硬件",
             "屏幕形态",
             "电池 / 充电",
             "芯片 / 性能"
           ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
+        }
+      ]
+    },
+    {
+      "id": "iphone",
+      "title": "iPhone 重点",
+      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
+      "items": [
         {
-          "id": "weibo-3b4536061a99",
-          "title": "数码闲聊站：华为畅享100 Pro Max——6.84英寸1.5K+LTPS直屏+麒麟80…",
+          "id": "auto-5466e73ee2f6",
+          "title": "第三方开发者发布英伟达显卡免刷写 VBIOS 工具：RTX 30/40/50 系显卡无需刷写固件即可修改参数，重装驱动即可还原",
           "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "Huawei",
+          "source": "IT之家",
+          "brand": "iPhone",
           "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-10-19",
-          "time": "07:38",
-          "publishedAt": "2026-10-19T07:38:00.000Z",
-          "url": "https://weibo.com/6048569942/RnouW7Osz",
-          "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1ii7o53zieuj30zc1mmqm5.jpg",
+          "trust": "媒体汇总",
+          "date": "2026-10-20",
+          "time": "13:38",
+          "publishedAt": "2026-10-20T13:38:22.000Z",
+          "url": "https://www.ithome.com/1/015/577.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/dc1d27b2-2f4e-4340-af27-1835c97207e9.png",
           "verdict": "先看",
-          "takeaway": "华为畅享100 Pro Max——6.84英寸1.5K+LTPS直屏+麒麟8020+8800mAh(额定8560mAh)，北斗卫星消息，曜金黑/雪域白/流沙金/蔚蓝海 畅享100 Pro和畅享100主打K8000系芯片+鸿蒙7，电池6100mAh，一个幻夜黑/羽砂白/雀翎蓝/羽砂紫，一个幻夜黑/冰川白/云水蓝/丹霞橙[污]",
-          "detail": "华为畅享100 Pro Max——6.84英寸1.5K+LTPS直屏+麒麟8020+8800mAh(额定8560mAh)，北斗卫星消息，曜金黑/雪域白/流沙金/蔚蓝海 畅享100 Pro和畅享100主打K8000系芯片+鸿蒙7，电池6100mAh，一个幻夜黑/羽砂白/雀翎蓝/羽砂紫，一个幻夜黑/冰川白/云水蓝/丹霞橙[污]",
+          "takeaway": "IT之家 10 月 20 日消息，独立开发者 Panchovix 在 GitHub 上发布了一款适用于英伟达 GeForce RTX 30 至 RTX 50 系列显卡的 VBIOS 配置工具。 该工具主要是通过英伟达显卡驱动的注册表覆盖机制应用配置，让用户无需刷写显卡固件也能加载自定义配置，大大降低了显卡变砖的风险。 IT之家注：VBIOS 是显卡上的视频…",
+          "detail": "IT之家 10 月 20 日消息，独立开发者 Panchovix 在 GitHub 上发布了一款适用于英伟达 GeForce RTX 30 至 RTX 50 系列显卡的 VBIOS 配置工具。 该工具主要是通过英伟达显卡驱动的注册表覆盖机制应用配置，让用户无需刷写显卡固件也能加载自定义配置，大大降低了显卡变砖的风险。 IT之家注：VBIOS 是显卡上的视频…",
           "keyPoints": [
-            "屏幕形态",
-            "电池 / 充电",
-            "芯片 / 性能",
-            "爆料来源"
+            "爆料"
           ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         }
       ]
     }

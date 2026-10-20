@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-20T17:01:25.420Z",
+  "updatedAt": "2026-10-20T21:35:53.176Z",
   "news": [
+    {
+      "id": "auto-4abd7e6a4693",
+      "title": "You can cut your cell phone bill to $10/month or get a Pixel 11 for $400 right now – here’s how",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-20",
+      "time": "17:15",
+      "publishedAt": "2026-10-20T17:15:00.000Z",
+      "url": "https://9to5google.com/2026/10/20/mint-mobile-10-month-deal-pixel-11-deals/",
+      "image": "",
+      "summary": "Mint Mobile has two killer offers going for cell service and/or a Google Pixel 11, both of which can save you hundreds compared to the alternatives. more…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-d066ebd4486c",
       "title": "Magnetic power bank for iPhone Duo goes on sale early, measures just 7.9mm",
@@ -602,26 +622,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "weibo-bbbadab0e862",
-      "title": "数码闲聊站：OPPO Reno17 Pro，6.32英寸1.5K+120Hz小直屏，天玑8…",
-      "source": "数码闲聊站",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-20",
-      "time": "07:16",
-      "publishedAt": "2026-10-20T07:16:11.000Z",
-      "url": "https://weibo.com/6048569942/RnxMzxSFw",
-      "image": "",
-      "summary": "OPPO Reno17 Pro，6.32英寸1.5K+120Hz小直屏，天玑8550 SUPER处理器，前置50Mp，后置200Mp大底云台主摄+50Mp超广角+50Mp潜望长焦，电池预计7K上下，轻薄拍照小屏机[偷乐]",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
       "id": "auto-e835c01cea3b",
       "title": "Samsung may change Galaxy S27 memory options as chip prices soar",
       "source": "SamMobile",
@@ -742,46 +742,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "weibo-63647c0d534e",
-      "title": "数码闲聊站：独家，阔直板手机目前工程机芯片D9600M，双2亿HPE+HP5，电池最高测8…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-20",
-      "time": "02:31",
-      "publishedAt": "2026-10-20T02:31:00.000Z",
-      "url": "https://weibo.com/6048569942/RnvUP2ICV",
-      "image": "",
-      "summary": "独家，阔直板手机目前工程机芯片D9600M，双2亿HPE+HP5，电池最高测8000mAh±[偷乐]",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "weibo-fec1bb065fc3",
-      "title": "数码闲聊站：独家信息：骁龙8EE6超大杯，最新一版工程机长焦测试200Mp 1/1.12英…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-20",
-      "time": "01:04",
-      "publishedAt": "2026-10-20T01:04:52.000Z",
-      "url": "https://weibo.com/6048569942/RnvlRjVnT",
-      "image": "",
-      "summary": "独家信息，骁龙8EE6超大杯，最新一版工程机长焦测试200Mp 1/1.12英寸超级大底[笑哈哈]",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
       "id": "auto-a89f115eb254",
       "title": "Apple announces American Manufacturing Program partners for latest iPhone lineup",
       "source": "Apple Newsroom",
@@ -819,6 +779,126 @@ window.phoneRadarAuto = {
         "iPhone",
         "官方",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "newsnow-b2853b6fe105",
+      "title": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-10-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/115426",
+      "image": "",
+      "summary": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-686b87988ca1",
+      "title": "vivo X500 Pro Max 影像漫谈：当视频创作像拍照一样轻巧",
+      "source": "少数派热榜",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-10-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/115456",
+      "image": "",
+      "summary": "vivo X500 Pro Max 影像漫谈：当视频创作像拍照一样轻巧",
+      "tags": [
+        "vivo",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-0f13825d8948",
+      "title": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-10-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/115308",
+      "image": "",
+      "summary": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-51a635511f37",
+      "title": "iPhone Duo：苹果，终究还是对强迫症下手了",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-10-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/115282",
+      "image": "",
+      "summary": "iPhone Duo：苹果，终究还是对强迫症下手了",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-d984ab58e255",
+      "title": "#徕卡一瞬##谷歌相机##手机摄影#",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74471440",
+      "image": "",
+      "summary": "#徕卡一瞬##谷歌相机##手机摄影#",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-cb0592cd1b20",
+      "title": "pdd才是真神这个v3券一出来直接爆杀所有平台，pdd随便买买了价格低还不烧心用，pdd就是因为它不耍猴[受虐滑稽]耍猴的平台和牌子早点倒闭好吧[惊讶]，这个v3券基本上啥手机都能用吧我看1加16也行，pdd牛逼#小米17ProMax# #REDMIK100ProMax# #数码日常#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74490410",
+      "image": "",
+      "summary": "pdd才是真神这个v3券一出来直接爆杀所有平台，pdd随便买买了价格低还不烧心用，pdd就是因为它不耍猴[受虐滑稽]耍猴的平台和牌子早点倒闭好吧[惊讶]，这个v3券基本上啥手机都能用吧我看1加16也行，pdd牛逼#小米17ProMax# #REDMIK100ProMax# #数码日常#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
       ]
     },
     {
@@ -1122,26 +1202,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "weibo-4d3b05c82eee",
-      "title": "数码闲聊站：一个超超超前瞻，屏厂正在做2K+240Hz *预计27年能上机，目前不暗指任何…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-19",
-      "time": "09:07",
-      "publishedAt": "2026-10-19T09:07:00.000Z",
-      "url": "https://weibo.com/6048569942/Rnp53FPzT",
-      "image": "",
-      "summary": "一个超超超前瞻，屏厂正在做2K+240Hz *预计27年能上机，目前不暗指任何新机[流鼻血]",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
       "id": "auto-afc4f16afeef",
       "title": "I thought the Pixel 11’s Magic Capture would be perfect for concerts. I was wrong",
       "source": "Android Authority",
@@ -1202,46 +1262,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "weibo-3b4536061a99",
-      "title": "数码闲聊站：华为畅享100 Pro Max——6.84英寸1.5K+LTPS直屏+麒麟80…",
-      "source": "数码闲聊站",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-19",
-      "time": "07:38",
-      "publishedAt": "2026-10-19T07:38:00.000Z",
-      "url": "https://weibo.com/6048569942/RnouW7Osz",
-      "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1ii7o53zieuj30zc1mmqm5.jpg",
-      "summary": "华为畅享100 Pro Max——6.84英寸1.5K+LTPS直屏+麒麟8020+8800mAh(额定8560mAh)，北斗卫星消息，曜金黑/雪域白/流沙金/蔚蓝海 畅享100 Pro和畅享100主打K8000系芯片+鸿蒙7，电池6100mAh，一个幻夜黑/羽砂白/雀翎蓝/羽砂紫，一个幻夜黑/冰川白/云水蓝/丹霞橙[污]",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "auto-1774680e1f0c",
-      "title": "iPhone Duo battery specs revealed: Good news for Galaxy Z Fold 8 and other Android rivals",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-19",
-      "time": "07:06",
-      "publishedAt": "2026-10-19T07:06:45.000Z",
-      "url": "https://www.androidauthority.com/iphone-duo-battery-specs-charging-cycles-3724810/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Apple-iPhone-Duo-Hands-On-Netflix-on-inner-display.jpg",
-      "summary": "iPhone batteries are yet to break the \"1,000 charging cycles\" barrier.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-9e8b1a644aac",
       "title": "This MagSafe battery pack is designed perfectly for iPhone Duo",
       "source": "9to5Mac",
@@ -1259,26 +1279,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-ca8805c6ee05",
-      "title": "数码闲聊站：独家信息：超大杯基本确定SM8975/骁龙8EE6，6.85英寸2K+144H…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-19",
-      "time": "06:08",
-      "publishedAt": "2026-10-19T06:08:00.000Z",
-      "url": "https://weibo.com/6048569942/RnnUp9TzJ",
-      "image": "",
-      "summary": "独家信息，超大杯基本确定SM8975/骁龙8EE6，6.85英寸2K+144Hz LTPO BOE，LIPO四等边大R角直屏，3D超声波指纹，暂定排期27年3-4月[笑哈哈]",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
       ]
     },
     {
