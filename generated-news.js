@@ -1,6 +1,406 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-20T04:48:37.206Z",
+  "updatedAt": "2026-10-20T11:33:53.525Z",
   "news": [
+    {
+      "id": "auto-836b2a300aaa",
+      "title": "微软探索 Edge 无感更新机制，未来浏览器更新有望无需重启",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-20",
+      "time": "11:26",
+      "publishedAt": "2026-10-20T11:26:06.000Z",
+      "url": "https://www.ithome.com/1/015/520.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/8c6498fb-3a41-4bd3-ad71-63aad0596b73.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 20 日消息，据科技媒体 Windows Central 今天报道，微软正探索一种无需重启 Edge 浏览器即可完成更新的方案，在不打断用户工作的同时，将浏览器更新至安全版本。 IT之家从原报道获悉，现阶段绝大多数浏览器都需要重启以应用更新，因此不少用户选择推迟更新。但这样一来，重要的安全修复将无法即时生效。 微软的新方案则是让浏览器在…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3c82d79cb4c8",
+      "title": "消息称苹果 iPhone Duo 折痕区域较软，手指滑动会有“形变”",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-20",
+      "time": "11:09",
+      "publishedAt": "2026-10-20T11:09:33.000Z",
+      "url": "https://www.ithome.com/1/015/515.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/769a545e-6b45-4c81-97ec-71e4c6825e79.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 20 日消息，据博主 @豆子发了芽 今日分享，苹果 iPhone Duo 折痕区域较软， 手指滑动都会有“形变” 。 该博主还补充了相关测试视频。从画面可以看到，当手指触摸 iPhone Duo 的折痕区域时，可以看到明显的凹痕。 另一位博主 @Kang 今日也谈及了该话题，并分享了专业人士的看法，称其在结构上还挺好： 第一是增加缓冲…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d919796ba593",
+      "title": "iPhone Duo orders limited to two per customer as Apple tackles scalping",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-20",
+      "time": "11:05",
+      "publishedAt": "2026-10-20T11:05:13.000Z",
+      "url": "https://9to5mac.com/2026/10/20/iphone-duo-orders-limited-to-two-per-customer-as-apple-tackles-scalping/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iPhone-Duo-orders-limited-to-two-per-customer-as-Apple-tackles-scalping.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple is limiting iPhone Duo orders to a maximum of two per customer in the US, UK, and elsewhere after shipping dates slipped into January of next year within minutes of pre-orde…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8d749ecd9747",
+      "title": "I’ve used the Pixel 11 Pro XL and iPhone 18 Pro Max, and Apple’s ecosystem isn’t enough anymore",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-20",
+      "time": "10:30",
+      "publishedAt": "2026-10-20T10:30:31.000Z",
+      "url": "https://www.androidauthority.com/ive-used-the-pixel-11-pro-xl-and-iphone-18-pro-max-3720239/",
+      "image": "",
+      "summary": "Pixels have closed the gap.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2b55f4e5464c",
+      "title": "Galaxy S27 phones with Exynos modems said to be more power efficient",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-20",
+      "time": "10:08",
+      "publishedAt": "2026-10-20T10:08:19.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s27-plus-exynos-m2700-modem-more-power-efficient/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2025/12/Samsung-Exynos-5400-5G-Modem.jpg",
+      "summary": "While Samsung's Exynos chips have become a lot faster and more power-efficient over the years, they still haven't matched their MediaTek and Snapdragon counterparts in cellular mo…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-25b0f5b0ef4b",
+      "title": "曝华为畅享 100 Pro Max 手机 512GB 版本独享麒麟 8020 处理器，标准版选用麒麟 8000S 芯片",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-20",
+      "time": "09:22",
+      "publishedAt": "2026-10-20T09:22:43.000Z",
+      "url": "https://www.ithome.com/1/015/442.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/a2b8629c-42b5-4001-a320-87d41ca09c90.jpg",
+      "summary": "IT之家 10 月 20 日消息， 华为畅享 100 系列手机宣传海报已在线下露出 ，目前在多个平台曝光。画面显示，新机延续家族化设计，预装鸿蒙 HarmonyOS 系统，主打“麒麟芯、防诈强、信号好、续航长”等特性卖点。 博主 @数码闲聊站 刚刚发文，进一步透露了系列新机的配置信息，IT之家整理如下： 华为畅享 100 Pro Max 512GB 版本独…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8ed3bc07491e",
+      "title": "华为畅享 100 系列手机海报线下露出：家族化外观设计，主打麒麟芯、续航长等特性",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-20",
+      "time": "09:06",
+      "publishedAt": "2026-10-20T09:06:23.000Z",
+      "url": "https://www.ithome.com/1/015/431.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/a2b8629c-42b5-4001-a320-87d41ca09c90.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 20 日消息，华为畅享 100 系列手机宣传海报已在线下露出，目前在多个平台曝光。画面显示，新机延续家族化设计，预装鸿蒙 HarmonyOS 系统， 主打“麒麟芯、防诈强、信号好、续航长”等特性卖点 。 据IT之家昨日报道， 博主 @数码闲聊站 爆料了即将发布的华为畅享 100 系列手机核心配置信息 。 华为畅享 100 Pro Max…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3d0e07694d72",
+      "title": "Oppo Reno 17 Pro’s detailed specifications leak ahead of launch",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-20",
+      "time": "09:06",
+      "publishedAt": "2026-10-20T09:06:19.000Z",
+      "url": "https://www.gizmochina.com/2026/10/20/oppo-reno-17-pro-specifications-leaked/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/Oppo-Reno-16-Pro-300x208.png?x96852",
+      "summary": "Now that the Oppo Find X10 series has launched in China, the brand could gradually shift its focus towards the Reno 17 lineup. The Reno 17 series is reportedly around a month away…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-367c0bfda8b5",
+      "title": "JSCHEN小小狐：华为畅享 100 系列海报曝光：至高麒麟 8020",
+      "source": "JSCHEN小小狐",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-20",
+      "time": "08:44",
+      "publishedAt": "2026-10-20T08:44:37.000Z",
+      "url": "https://www.coolapk.com/feed/74487150",
+      "image": "http://image.coolapk.com/feed/2026/1020/16/4702274_8b3faebd_5875_9596_748@2305x3598.jpg",
+      "summary": "『华为畅享 100 系列海报曝光：至高麒麟 8020』 华为畅享 100 Pro Max： ◇ 麒麟 8020 芯片（512GB） ◇ 麒麟 8020A 芯片（256/128GB） ◇ 6.84\" 1.5K 8000nits LTPS OLED ◇ 50MP 1/1.56\" RYYB + 8MP 前摄 ◇ 8800mAh 电池 + 40W 有线充电 ◇ 曜…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-c94165e3d5f4",
+      "title": "竹本青：【OPPO Reno17 Pro曝光：联发科天玑8550 SUPER芯片，定位轻薄拍照小屏机】 ● 6.32\"1.…",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-20",
+      "time": "08:40",
+      "publishedAt": "2026-10-20T08:40:03.000Z",
+      "url": "https://www.coolapk.com/feed/74487044",
+      "image": "http://image.coolapk.com/feed/2026/1020/16/4248714_f4c27051_5602_2616_982@3023x2743.jpg",
+      "summary": "【OPPO Reno17 Pro曝光：联发科天玑8550 SUPER芯片，定位轻薄拍照小屏机】 ● 6.32\"1.5K 120Hz直屏 ● 天玑8550 SUPER处理器 ● 7000mAh级电池 ● 影像： 前置｜50Mp 主摄｜200Mp 大底云台 超广｜50Mp 潜望｜50Mp 此外，针对网友“这是绿厂小屏机绝唱”的提问，该博主回应称，Reno系列小…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-29fd4154e8a7",
+      "title": "Is Samsung building the Galaxy S27 Pro with everyone else’s features?",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-20",
+      "time": "08:29",
+      "publishedAt": "2026-10-20T08:29:49.000Z",
+      "url": "https://www.sammobile.com/opinion/samsung-galaxy-s27-pro-causing-family-drama/",
+      "image": "",
+      "summary": "Samsung looks ready to add a Galaxy S27 Pro to its flagship lineup next year. A Pro model was also rumored for the Galaxy S26 series and never arrived, but this time, the leaks ma…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ac3614b6aaa7",
+      "title": "iQOO Neo 12 teaser details cooling system: cooling fan with 3-level smart speed control, 8.2K VC",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-20",
+      "time": "08:17",
+      "publishedAt": "2026-10-20T08:17:44.000Z",
+      "url": "https://www.gizmochina.com/2026/10/20/iqoo-neo-12-teaser-details-cooling-system-cooling-fan-with-3-level-smart-speed-control-8-2k-vc/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/007B27Qzgy1ii8mjka5irj32bc334hdv-300x169.jpg?x96852",
+      "summary": "iQOO is pushing its Neo series a lot closer to proper flagship territory. The company just officially teased the Neo12, and the big talking point is how hard it’s going after heat…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5076ac9968fb",
+      "title": "iPhone 18 images reveal a redesigned camera module ahead of rumored 2027 launch",
+      "source": "Gizmochina",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-20",
+      "time": "07:52",
+      "publishedAt": "2026-10-20T07:52:50.000Z",
+      "url": "https://www.gizmochina.com/2026/10/20/iphone-18-redesigned-camera-module/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/IPhone-18-live-shots-300x236.jpg?x96852",
+      "summary": "Apple could be preparing a noticeable design change for its next standard iPhone. Newly surfaced images offer a glimpse of the upcoming smartphone’s possible appearance, although…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-90d4b71c809d",
+      "title": "JSCHEN小小狐：OPPO Reno17 Pro 曝光：6.32\" / 天玑 8550",
+      "source": "JSCHEN小小狐",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-20",
+      "time": "07:47",
+      "publishedAt": "2026-10-20T07:47:38.000Z",
+      "url": "https://www.coolapk.com/feed/74485898",
+      "image": "http://image.coolapk.com/feed/2026/1020/15/4702274_5a341909_2457_7561_405@1440x596.jpg",
+      "summary": "『OPPO Reno17 Pro 曝光：6.32\" / 天玑 8550』 ◇ 6.32 英寸 1.5K 120Hz OLED 小直屏 ◇ 天玑 8550 SUPER 移动平台 ◇ 约 7000mAh 电池容量 主摄｜200MP 1/1.56\" HP5 云台级防抖 长焦｜50MP 1/2.75\" JN5 3.5X 潜望式 超广｜50MP 前摄｜50MP #今…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-a7a423032229",
+      "title": "竹本青：麦当劳重塑好物「薯」标套装，10月22日上线",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-20",
+      "time": "07:41",
+      "publishedAt": "2026-10-20T07:41:04.000Z",
+      "url": "https://www.coolapk.com/feed/74485794",
+      "image": "http://image.coolapk.com/feed/2026/1020/15/4248714_909c890a_2111_0935_944@1242x1660.jpg",
+      "summary": "【真的能用：麦当劳重塑好物「薯」标套装，10月22日上线】 10月20日，麦当劳正式公布重塑好物「薯」标套装。产品外壳由开心乐园餐旧玩具再生制成，主体为充电式蓝牙鼠标，并配备多功能收纳包（可展开成鼠标垫）。 该套装将于10月22日、23日10:45起在麦麦商城开售，每日限量2000套。 #今日热点# #麦当劳# #鼠标#",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-3ad149edfa39",
+      "title": "More Exynos, less Snapdragon? Samsung’s plan for the Galaxy S27",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-20",
+      "time": "07:32",
+      "publishedAt": "2026-10-20T07:32:10.000Z",
+      "url": "https://www.sammobile.com/news/samsung-make-10-percent-more-exynos-chips-galaxy-s27/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/09/Samsung-Exynos-2700-Processor-Chip-Die-Shot.jpg",
+      "summary": "Samsung is planning to equip more Galaxy S27 series phones with in-house Exynos chips compared to the Galaxy S26 series. The company is reportedly aiming for 10% higher output tha…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-bbbadab0e862",
+      "title": "数码闲聊站：OPPO Reno17 Pro，6.32英寸1.5K+120Hz小直屏，天玑8…",
+      "source": "数码闲聊站",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-20",
+      "time": "07:16",
+      "publishedAt": "2026-10-20T07:16:11.000Z",
+      "url": "https://weibo.com/6048569942/RnxMzxSFw",
+      "image": "",
+      "summary": "OPPO Reno17 Pro，6.32英寸1.5K+120Hz小直屏，天玑8550 SUPER处理器，前置50Mp，后置200Mp大底云台主摄+50Mp超广角+50Mp潜望长焦，电池预计7K上下，轻薄拍照小屏机[偷乐]",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-e835c01cea3b",
+      "title": "Samsung may change Galaxy S27 memory options as chip prices soar",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-20",
+      "time": "07:10",
+      "publishedAt": "2026-10-20T07:10:03.000Z",
+      "url": "https://www.sammobile.com/news/samsung-may-change-galaxy-s27-memory-options-as-chip-prices-soar/",
+      "image": "",
+      "summary": "Last month, a leak about Samsung’s next flagship non-foldable smartphone lineup, the Galaxy S27 series, revealed its memory and storage configurations. It claimed that the upcomin…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-424ae458d7e7",
+      "title": "Xiaomi 18 Pro series leak reveals painful global price",
+      "source": "Android Authority",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-20",
+      "time": "07:00",
+      "publishedAt": "2026-10-20T07:00:45.000Z",
+      "url": "https://www.androidauthority.com/xiaomi-18-pro-series-global-pricing-3725353/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xiaomi-18-Pro-Max-White-1-of-4.jpg",
+      "summary": "Xiaomi's global pricing might make last year's Ultra look like pocket change.",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2ed6348eebd2",
+      "title": "Redmi K100 officially confirmed to pack a 10,000mAh unit, largest ever on a Xiaomi phone",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-20",
+      "time": "06:00",
+      "publishedAt": "2026-10-20T06:00:06.000Z",
+      "url": "https://www.gizmochina.com/2026/10/20/redmi-k100-10000mah-battery-confirmed/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/redmi-k100-featured-300x169.jpg?x96852",
+      "summary": "The Redmi K100 is gearing up to make a strong impression in the performance smartphone segment. Xiaomi has started revealing key details ahead of the phone’s official unveiling. T…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-04b1e4e7b5fc",
       "title": "OnePlus Ace 7’s a dual-outlet cooling system officially revealed ahead of launch",
@@ -23,7 +423,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-76c98ff57c04",
-      "title": "JSCHEN小小狐：『OPPO 阔直板曝光：天玑 9600M / 8K± 电池』 ◇ 3nm 天玑 9600M 移动平台 ◇ 最高测试…",
+      "title": "JSCHEN小小狐：OPPO 阔直板曝光：天玑 9600M / 8K± 电池",
       "source": "JSCHEN小小狐",
       "brand": "OPPO",
       "model": "OPPO 相关机型",
@@ -37,46 +437,6 @@ window.phoneRadarAuto = {
       "summary": "『OPPO 阔直板曝光：天玑 9600M / 8K± 电池』 ◇ 3nm 天玑 9600M 移动平台 ◇ 最高测试 8000mAh± 电池 ◇ 双 2 亿影像：1/1.4\" HPE + 1/1.56\" HP5 已知参数： · 6.35 英寸 16:9 1440P LTPO OLED 直屏 · LIPO 封装｜1mm± 四等边｜81mm 屏宽 · 3D 超声…",
       "tags": [
         "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-763566e59c26",
-      "title": "竹本青：iPhone 18标准版外观曝光：双摄，横向大矩阵Deco",
-      "source": "竹本青",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-20",
-      "time": "04:09",
-      "publishedAt": "2026-10-20T04:09:07.000Z",
-      "url": "https://www.coolapk.com/feed/74481924",
-      "image": "http://image.coolapk.com/feed/2026/1020/12/4248714_77789026_9344_7259_82@1320x1039.jpg",
-      "summary": "【iPhone18 标准版 外观曝光：双摄无长焦，横向大矩阵Deco】 日前，网传iPhone 18标准版谍照流出，新机舍弃竖排布局，改用与Pro系列类似的横向大矩阵Deco相机模组，同时将至少提供白、粉、深蓝三款配色。 硬件爆料显示，该机搭载2nm A20芯片，内存升级至9GB，起步存储256GB；影像采用4800万主广双摄方案，内置自研C2基带芯片。…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-8eb196e6888c",
-      "title": "竹本青：荣耀WIN2系列5920Hz PWM调光覆盖多档刷新率",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-20",
-      "time": "03:39",
-      "publishedAt": "2026-10-20T03:39:49.000Z",
-      "url": "https://www.coolapk.com/feed/74481311",
-      "image": "http://image.coolapk.com/feed/2026/1020/11/4248714_8d87a242_7588_4912_967@1080x6327.jpg",
-      "summary": "【维信诺：荣耀WIN2系列 5920Hz PWM调光覆盖144/165/185Hz档位】 10月20日，维信诺发文介绍，荣耀WIN2系列搭载的2K 185Hz护眼电竞屏，支持5920Hz高频PWM调光，并覆盖144/165/185Hz全高刷档位，实现了超高刷与护眼的兼得。 #今日热点# #荣耀WIN2# #MagicOS11#",
-      "tags": [
-        "HONOR",
         "爆料",
         "酷安博主"
       ]
@@ -102,86 +462,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-3498867b2a95",
-      "title": "竹本青：ISHO 指模套装上架：19.9元，购买ISHO Ring可全额抵扣",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-20",
-      "time": "03:26",
-      "publishedAt": "2026-10-20T03:26:13.000Z",
-      "url": "https://www.coolapk.com/feed/74481064",
-      "image": "http://image.coolapk.com/feed/2026/1020/11/4248714_e3bd269b_6770_8116_958@1370x2048.jpg",
-      "summary": "【ISHO 指模套装 现已上架：售价19.9元，购买ISHO Ring可全额抵扣】 10月20日，今日宜休创始人王腾官宣品牌首款智能戒指ISHO Ring，产品定位高端旗舰。 工艺方面，ISHO Ring内外圈均采用同色钛合金，无断缝一体化设计，正面镶嵌一颗蓝宝石玻璃，兼具监测功能与珠宝质感，提供金、黑、银三款配色。 目前，各大电商已上架ISHO指模套装，…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-eba3ae1ef666",
-      "title": "2028 款 iPhone 有望首发：消息称苹果重金锁定台积电 1.4 纳米首批产能",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-20",
-      "time": "02:53",
-      "publishedAt": "2026-10-20T02:53:32.000Z",
-      "url": "https://www.ithome.com/1/015/201.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/097e16bf-39c9-4678-b9d3-6e634a1442d7.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 20 日消息，根据摩根大通最新研究报告，苹果公司计划重金提前锁定台积电 1.4 纳米产能， 2028 年款 iPhone 有望成为首批搭载该工艺 A 系列芯片机型。 苹果上月发布基于 2 纳米工艺的 A20 Pro 芯片，用于新款 iPhone 18 Pro、iPhone 18 Pro Max 及折叠屏机型 iPhone Duo。研报称…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a2305553f5a5",
-      "title": "10 年来最低：Omdia 称 2026Q3 印度手机出货量暴跌 26%，三星超 vivo 重夺销冠头衔",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-20",
-      "time": "02:43",
-      "publishedAt": "2026-10-20T02:43:01.000Z",
-      "url": "https://www.ithome.com/1/015/194.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/9d11f5c0-c56f-4a77-b01d-ddd9b7e4969e.png",
-      "summary": "IT之家 10 月 20 日消息，市场调查机构 Omdia 昨日（10 月 19 日）发布博文，报告称 2026 年第 3 季度印度智能手机出货量约为 3,580 万部，同比下降 26%， 是自 2016 年以来最疲弱的第三季度表现。 原因方面，该机构认为尽管传统节日季已经启动，但更高的手机价格、消费者换机意愿谨慎，以及线上渠道动能减弱，令厂商和渠道商普遍…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-a823c218430d",
-      "title": "竹本青：REDMI K100 续航组合公布：10000mAh+100W有线",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-20",
-      "time": "02:31",
-      "publishedAt": "2026-10-20T02:31:33.000Z",
-      "url": "https://www.coolapk.com/feed/74479901",
-      "image": "http://image.coolapk.com/feed/2026/1020/10/4248714_72d6acbe_3652_2395_143@2000x2667.jpg",
-      "summary": "【REDMI K100 续航组合公布：10000mAh+100W有线+27W反充】 ● 10000mAh 电池，最强小米金沙江 ● 100W 有线快充，27W 有线反充 ● 旁路充电技术｜1600次长寿电池 #今日热点# #REDMIK100ProMax# #HyperOS4#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "weibo-63647c0d534e",
       "title": "数码闲聊站：独家，阔直板手机目前工程机芯片D9600M，双2亿HPE+HP5，电池最高测8…",
       "source": "数码闲聊站",
@@ -199,166 +479,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-c264b7d0409b",
-      "title": "小米 REDMI 手环 4 发售：续航最长 21 天，售价 169 元",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-20",
-      "time": "02:14",
-      "publishedAt": "2026-10-20T02:14:11.000Z",
-      "url": "https://www.ithome.com/1/015/151.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/431eafd3-c5ae-438f-a136-0eb26ea52d5c.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 20 日消息，小米 REDMI 手环 4 今日正式发售，定价 169 元。 REDMI 手环 4 可选黑、银两款配色，配备一体化金属质感中框、 1.47 英寸 2.5D 60Hz 屏 ，续航最长 21 天、常规监测 8 天。 REDMI 手环 4 还配备全天候压力监测，多维健康指标管理，以及 50 项运动模式精准跟测，支持 5ATM 级…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-12369af05f22",
-      "title": "竹本青：iQOO Neo12 将搭载主动散热风扇+8.2K VC",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-20",
-      "time": "02:09",
-      "publishedAt": "2026-10-20T02:09:45.000Z",
-      "url": "https://www.coolapk.com/feed/74479469",
-      "image": "http://image.coolapk.com/feed/2026/1020/10/4248714_f5408dd6_2184_8659_529@1664x4982.jpg",
-      "summary": "【iQOO Neo12 新一代冰穹风冷散热系统亮相：主动风扇+8.2K VC】 ● 冰穹主动散热风扇 59片大尺寸扇叶 全新冰穹风道、正面风口设计 风扇转速三档智能调节 电路板双层防水设计 ● 8.2K 3D冰穹VC被动散热 Neo史上最大面积 创新3D 结构设计 相比Neo11 均热性能提升15% 多处低温感专项设计 #今日热点# #iQOONeo12#…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-2b9acba4cdab",
-      "title": "竹本青：REDMI 手环4发布：金属中框+2.5D 60Hz屏，169元",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-20",
-      "time": "02:06",
-      "publishedAt": "2026-10-20T02:06:14.000Z",
-      "url": "https://www.coolapk.com/feed/74479390",
-      "image": "http://image.coolapk.com/feed/2026/1020/10/4248714_4b91b5fe_1973_0447_857@2000x3016.jpg",
-      "summary": "【REDMI 手环4 正式发布：金属中框+2.5D 60Hz屏，售价169元】 ● 金属中框｜2.5D玻璃盖板 ● 1.47\" 60Hz TFT方屏 ● 续航21天至长／8天常规 ● 全天候心率、血氧、睡眠监测 ● 5ATM防水｜100+表盘 #今日热点# #HyperOS4# #数码日常#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-ac5f626453b3",
-      "title": "酷派首款阔直板手机 Cool X Wide 开启预约：6.38 英寸 16:10 屏幕、联发科 Helio G99 芯片",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-20",
-      "time": "02:04",
-      "publishedAt": "2026-10-20T02:04:24.000Z",
-      "url": "https://www.ithome.com/1/015/128.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/50d784bd-d6a8-4d75-822f-58a5ddb2e136.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 20 日消息，酷派官方今日宣布，酷派首款阔直板手机 Cool X Wide 今日 10:00 起开启预约，具体价格暂未公布。 这款新机搭载 6.38 英寸 16:10 屏幕 ，刷新率 90Hz；有鎏白、岩黑、嫣红三种配色可选，机身尺寸为 150.3×94.5×8.95mm，后置 5000 万像素摄像头。 这款手机采用联发科 Helio…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a0078ee86a92",
-      "title": "A critical piece is missing from Samsung’s smart home ecosystem",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-20",
-      "time": "02:00",
-      "publishedAt": "2026-10-20T02:00:00.000Z",
-      "url": "https://www.sammobile.com/opinion/critical-piece-missing-samsung-smartthings-ecosystem/",
-      "image": "",
-      "summary": "The world's four biggest smart home platforms are Amazon Alexa, Apple Home, Google Home, and Samsung SmartThings. Samsung has one of the broadest portfolios of first-party smart h…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-cf430fa3fbd5",
-      "title": "摩托罗拉首款宽屏折叠手机 Razr Flex 跑分曝光：高通第五代骁龙 8 芯片、12GB 内存",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-20",
-      "time": "01:51",
-      "publishedAt": "2026-10-20T01:51:38.000Z",
-      "url": "https://www.ithome.com/1/015/125.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/71820056-fc80-44b1-845d-23c177f650b5.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 20 日消息，科技媒体 GSMArena 昨日（10 月 19 日）发布博文，报道称 摩托罗拉首款宽屏折叠手机 Razr Flex 现身 GeekBench 跑分库 ，6.7.1 版本单核成绩为 2,669 分，多核成绩为 8,837 分。 跑分方面，由于该成绩来自工程样机，且 Geekbench 6 与 Geekbench 7 的分数…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-e43aecc36f7b",
-      "title": "竹本青：酷派Cool X Wide 阔直板手机开启预约：联发科G99，720P LCD高刷屏",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-20",
-      "time": "01:43",
-      "publishedAt": "2026-10-20T01:43:56.000Z",
-      "url": "https://www.coolapk.com/feed/74478952",
-      "image": "http://image.coolapk.com/feed/2026/1020/10/4248714_9544a52d_4627_7237_102@1272x1696.jpg",
-      "summary": "【酷派Cool X Wide 阔直板手机开启预约：联发科G99，720P LCD高刷屏】 ▫️联发科G99处理器 ▫️6.38\" 720P 90Hz LCD屏｜比例16:10 ▫️LPDDR4X+UFS 2.2 ▫️4600mAh电池+18W充电 ▫️DroiClaw 诸葛3 安卓16系统 ▫️后置主摄50MP+前置8MP ▫️侧边指纹｜双卡双待｜红外遥控…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-e5d96435546c",
-      "title": "最强小米金沙江电池：REDMI K100 手机搭载 10000mAh 电池，-20°C 下可提供稳定高性能体验",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-20",
-      "time": "01:21",
-      "publishedAt": "2026-10-20T01:21:07.000Z",
-      "url": "https://www.ithome.com/1/015/102.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/ae8c8e49-17e7-4ece-aa90-0ca482627e63.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 20 日消息，小米 REDMI K100 手机已定档 10 月 27 日晚 7 点，官方今日对新品进行预热，官宣 REDMI K100 手机搭载 10000mAh 小米金沙江电池 。 该电池达 28% 硅碳含量、957Wh/L 能量密度；在-20°C 低温下仍可提供稳定高性能体验，官方称之为“ 最强小米金沙江电池 ”。 IT之家整理小米…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -502,6 +622,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-bd969ecb76fc",
+      "title": "iPhone 18标准版外观曝光：双摄，横向大矩阵Deco",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74481924",
+      "image": "",
+      "summary": "iPhone 18标准版外观曝光：双摄，横向大矩阵Deco",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-283b1c5a42c4",
       "title": "REDMI K100 预热：骁龙 8 至尊版 + 独显芯片 D2",
       "source": "酷安热榜",
@@ -542,8 +682,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-bc6c6f897e17",
-      "title": "iPhone18外观曝光",
+      "id": "newsnow-760365b5feba",
+      "title": "曝iPhoneDuo折痕区来回滑动有波纹",
       "source": "微博热搜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -552,9 +692,9 @@ window.phoneRadarAuto = {
       "date": "2026-10-20",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhone18%E5%A4%96%E8%A7%82%E6%9B%9D%E5%85%89%23&t=31&band_rank=21&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DiPhoneDuo%E6%8A%98%E7%97%95%E5%8C%BA%E6%9D%A5%E5%9B%9E%E6%BB%91%E5%8A%A8%E6%9C%89%E6%B3%A2%E7%BA%B9%23&t=31&band_rank=27&Refer=top",
       "image": "",
-      "summary": "iPhone18外观曝光",
+      "summary": "曝iPhoneDuo折痕区来回滑动有波纹",
       "tags": [
         "iPhone",
         "爆料",
@@ -562,42 +702,22 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-2cf73bce1756",
-      "title": "早买iPhone18Pro的人开始烧心了",
-      "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
+      "id": "newsnow-9de58ac67838",
+      "title": "水杯闹钟等被改成学生的「藏手机神器」热销，这种产品为什么有市场？背后反映出哪些问题？",
+      "source": "知乎热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "市场报告",
+      "trust": "媒体汇总",
       "date": "2026-10-20",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%97%A9%E4%B9%B0iPhone18Pro%E7%9A%84%E4%BA%BA%E5%BC%80%E5%A7%8B%E7%83%A7%E5%BF%83%E4%BA%86%23&t=31&band_rank=25&Refer=top",
+      "url": "https://www.zhihu.com/question/2092936972809589335",
       "image": "",
-      "summary": "早买iPhone18Pro的人开始烧心了",
+      "summary": "水杯闹钟等被改成学生的「藏手机神器」热销，这种产品为什么有市场？背后反映出哪些问题？",
       "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-0e3d6692039a",
-      "title": "iPhone Duo成电子茅台",
-      "source": "抖音热点",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-10-20",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.douyin.com/hot/2702817",
-      "image": "",
-      "summary": "iPhone Duo成电子茅台",
-      "tags": [
-        "iPhone",
-        "爆料",
+        "行业",
+        "市场报告",
         "NewsNow"
       ]
     },
@@ -617,26 +737,6 @@ window.phoneRadarAuto = {
       "summary": "Apple has started bumping up estimated delivery dates for some customers who pre-ordered the iPhone Duo in countries such as the U.S. and Japan. In the U.S., for example, well-kno…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-09accb69703a",
-      "title": "Samsung could crush Apple with the Galaxy Z Fold 8 and Fold 9",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-19",
-      "time": "19:00",
-      "publishedAt": "2026-10-19T19:00:00.000Z",
-      "url": "https://www.sammobile.com/opinion/samsung-could-crush-apple-with-galaxy-z-fold-8-fold-9/",
-      "image": "",
-      "summary": "Quick question for Galaxy Z Fold 8 users who pre-ordered the phone in July: How would you feel if your Fold 8 still hadn't shipped and you had to wait until November to use it for…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -842,26 +942,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-0e6c453d515b",
-      "title": "Apple made a ‘major mistake’ mismanaging the iPhone Duo launch",
-      "source": "SamMobile",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-19",
-      "time": "14:10",
-      "publishedAt": "2026-10-19T14:10:31.000Z",
-      "url": "https://www.sammobile.com/news/apple-made-a-major-mistake-mismanaging-the-iphone-duo-launch/",
-      "image": "",
-      "summary": "Apple fans are beginning to learn the hard way that making foldable phones isn't easy. Unfortunately for them, Apple doesn't seem fully ready for the foldable market either. The c…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-86b18d0d86de",
       "title": "iPhone Duo has a bigger battery than Galaxy Z Fold 8 and Pixel 11 Pro Fold",
       "source": "9to5Google",
@@ -917,46 +997,6 @@ window.phoneRadarAuto = {
       "summary": "Estimated iPhone Duo delivery dates started slipping dramatically, literally within a minute of pre-orders opening on Friday. Even some of those who got in within the first few mi…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-7d7e56cb1142",
-      "title": "Galaxy S27 series could launch earlier than expected",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-19",
-      "time": "11:00",
-      "publishedAt": "2026-10-19T11:00:01.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s27-series-launch-earlier/",
-      "image": "",
-      "summary": "Samsung usually announces its Galaxy S series flagship phones in mid-January or February and releases them in February or March. However, the company could take a page from its Ga…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-057c66d8334c",
-      "title": "iPhone Duo confirmed to have a bigger battery than the Galaxy Z Fold 8",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-19",
-      "time": "09:39",
-      "publishedAt": "2026-10-19T09:39:59.000Z",
-      "url": "https://www.sammobile.com/news/iphone-duo-confirmed-to-have-a-bigger-battery-than-the-galaxy-z-fold-8/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/10/Apple-iPhone-Duo-EPREL-Rating-Battery-Capacity-Charging-Durability.jpg",
-      "summary": "Samsung's foldable phones are facing their biggest challenge ever in the form of the iPhone Duo. While Apple's first foldable phone does a few things better than the Galaxy Z Fold…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
