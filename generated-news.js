@@ -1,6 +1,506 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-21T13:46:46.281Z",
+  "updatedAt": "2026-10-21T18:37:36.073Z",
   "news": [
+    {
+      "id": "auto-00948ce0d1dc",
+      "title": "iPhone Duo Tips Over on MagSafe Stands When Unfolded",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-21",
+      "time": "17:24",
+      "publishedAt": "2026-10-21T17:24:45.000Z",
+      "url": "https://www.macrumors.com/2026/10/21/iphone-duo-magsafe-charging/",
+      "image": "https://images.macrumors.com/article-new/2026/10/iphone-duo-feature.jpg",
+      "summary": "Some upright MagSafe charger designs won't work well with the iPhone Duo when it's unfolded. As demonstrated by Mrwhosetheboss, the uneven weight of the &zwnj;iPhone Duo&zwnj; can…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-af476f285ad7",
+      "title": "Did your phone just get a Google Play system update from the future? You’re not alone",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-21",
+      "time": "17:16",
+      "publishedAt": "2026-10-21T17:16:45.000Z",
+      "url": "https://www.androidauthority.com/samsung-oneplus-motorola-january-2027-play-system-update-3726153/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/01/Samsung-Google-Play-system-update.jpg",
+      "summary": "The issue appears to impacting Samsung phones, with OnePlus and Motorola phones potentially impacted, too.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-587bb1844686",
+      "title": "Still trying to get an iPhone Duo? This might be your best chance",
+      "source": "Android Authority",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-21",
+      "time": "16:46",
+      "publishedAt": "2026-10-21T16:46:05.000Z",
+      "url": "https://www.androidauthority.com/iphone-duo-walk-in-sales-3726227/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Apple-iPhone-Duo-Hands-On-Outer-Display-Cover-Display-in-hand.jpg",
+      "summary": "Apple teases in-store iPhone Duo sales this Friday — better line up now.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2a085edf63a6",
+      "title": "Magic Capture is the best feature in the Google Pixel 11 series -- and one of the best camera features in a decade",
+      "source": "Android Central",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-10-21",
+      "time": "16:26",
+      "publishedAt": "2026-10-21T16:26:17.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/magic-capture-is-the-best-feature-in-the-google-pixel-11-series-and-one-of-the-best-camera-features-in-a-decade",
+      "image": "https://cdn.mos.cms.futurecdn.net/Y2azfdzkzD7XaYJDgxK4RW-1920-80.jpg",
+      "summary": "Magic Capture is the best feature of the Google Pixel 11 Series phones, and you'll probably use it more often than you think.",
+      "tags": [
+        "HONOR",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7b5a89799adb",
+      "title": "Oppo launches Find X10 and Find X10 Pro Max globally, but with smaller batteries",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-21",
+      "time": "16:23",
+      "publishedAt": "2026-10-21T16:23:08.000Z",
+      "url": "https://www.gizmochina.com/2026/10/21/oppo-launches-find-x10-and-find-x10-pro-max-globally-but-with-smaller-batteries/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/OPPO-Find-X10-Pro-Max-Review-1.mp4_20261009_103626.030-300x150.jpg?x24124",
+      "summary": "Oppo has launched the Find X10 and Find X10 Pro Max in global markets, but buyers in Europe will get smaller batteries than customers in China. Both phones come with a 7,150mAh ba…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7307c217e121",
+      "title": "iPhone Duo review roundup: The same problems Android foldables face, but with Apple’s polish",
+      "source": "9to5Google",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-21",
+      "time": "16:15",
+      "publishedAt": "2026-10-21T16:15:00.000Z",
+      "url": "https://9to5google.com/2026/10/21/iphone-duo-review-roundup/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/iphone-duo-9to5mac-review.webp?w=1600",
+      "summary": "Apple’s first foldable has arrived, the better part of a decade after Android laid the groundwork for the form factor. iPhone Duo reviews are here and, while it sounds like a lot…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8bc49e52c346",
+      "title": "Here’s where Apple says iPhone Duo will (and won’t) be available for walk-ins",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-21",
+      "time": "15:58",
+      "publishedAt": "2026-10-21T15:58:59.000Z",
+      "url": "https://9to5mac.com/2026/10/21/heres-where-apple-says-iphone-duo-will-and-wont-be-available-for-walk-ins/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-star-white-front-back.jpg?quality=82&strip=all&w=1600",
+      "summary": "Are you planning to line up at the Apple Store for a walk-in iPhone Duo purchase? Here’s what Apple says about availability to expect for the new model. more…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-34e4470d89cc",
+      "title": "Deals: Galaxy Z Fold 8 up to $580 off, S26 Ultra $420 off, new Amazon Fire TV Stick 4K 50% off, more",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-21",
+      "time": "15:38",
+      "publishedAt": "2026-10-21T15:38:14.000Z",
+      "url": "https://9to5google.com/2026/10/21/deals-galaxy-z-fold-8-amazon-fire-tv-stick-lg-c6/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/9to5Google-Oct-21.webp?w=1600",
+      "summary": "We now have a solid $420 price drop on Samsung Galaxy S26 Ultra, but today’s 9to5Toys Lunch Break is headlined by the most affordable $30 all-time low (50% off), a relatively rare…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-717aa1172e12",
+      "title": "OPPO 推出 Find X10 全球版手机：电池相比国行版缩减 850mAh，缺少 16GB+1TB 版本",
+      "source": "IT之家",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-21",
+      "time": "15:24",
+      "publishedAt": "2026-10-21T15:24:03.000Z",
+      "url": "https://www.ithome.com/1/016/147.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/13bc957f-709a-4251-a64a-8e52168d6dd0.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 21 日消息，OPPO 今日在海外市场推出 Find X10 全球版手机。新机采用 6.59 英寸 AMOLED 屏幕、双 2 亿影像和天玑 9600M 芯片。 12GB+256GB 版本售价为 1,099 英镑 （IT之家注：现汇率约合 9,819 元人民币） /1,299 欧元 （现汇率约合 9,752 元人民币） 。 据介绍， O…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d83b043fd04e",
+      "title": "苹果 iPhone Duo 将于今年晚些时候支持“便捷访问”单手模式",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-21",
+      "time": "15:14",
+      "publishedAt": "2026-10-21T15:14:23.000Z",
+      "url": "https://www.ithome.com/1/016/146.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/5fc2a19d-aa23-439f-afc7-480cb5c19ea5.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 21 日消息，苹果首款折叠屏手机 iPhone Duo 将在 10 月 23 日发售。《连线》杂志今日报道称，苹果计划于今年晚些时候，为这款手机推出“便捷访问”单手模式。 据报道，苹果计划为 iPhone Duo 加入新版“便捷访问”功能， 让手比较小的用户只需要轻点屏幕 ， 就能更轻松地触及屏幕左侧 / 右侧边缘 。 IT之家了解到，…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4c94fb1d74a1",
+      "title": "Redmi K100 to ship with HyperOS 4, 50MP flagship camera, and gaming-focused features",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-21",
+      "time": "15:00",
+      "publishedAt": "2026-10-21T15:00:58.000Z",
+      "url": "https://www.gizmochina.com/2026/10/21/redmi-k100-hyperos-4-camera-gaming/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Redmi-K100-HyperOS-4-1-225x300.jpg?x24124",
+      "summary": "Redmi is revealing more details about the Redmi K100 ahead of its official launch in China. The upcoming smartphone is expected to deliver improvements across software, photograph…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-bf98ab1cd1b1",
+      "title": "The OPPO Find X10 Pro Max is the ultimate Android flagship, at a price",
+      "source": "Android Authority",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-21",
+      "time": "15:00",
+      "publishedAt": "2026-10-21T15:00:33.000Z",
+      "url": "https://www.androidauthority.com/oppo-find-x10-pro-max-review-3722712/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/OPPO-Find-X10-Pro-Max-Camera-and-Accessories.jpg",
+      "summary": "Look past the triple 200MP camera headline, the Find X10 Pro Max might be the best handset ever made.",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-baeb03abada3",
+      "title": "Oppo's Find X10 Pro Max goes all out with three 200MP cameras and a massive battery",
+      "source": "Android Central",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-10-21",
+      "time": "15:00",
+      "publishedAt": "2026-10-21T15:00:05.000Z",
+      "url": "https://www.androidcentral.com/phones/oppo-phones/embargo-oppo-launches-find-x10-and-find-x10-pro-max",
+      "image": "https://cdn.mos.cms.futurecdn.net/N94zJRp9SKLTZXnTBAXdT5-1920-80.jpg",
+      "summary": "Oppo just launched a camera monster with three 200MP sensors and an 8,000mAh battery.",
+      "tags": [
+        "OPPO",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d4f3a5889ace",
+      "title": "Review: The Oppo Find X10 Pro Max is a gut punch in a post-OnePlus world",
+      "source": "9to5Google",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-21",
+      "time": "15:00",
+      "publishedAt": "2026-10-21T15:00:00.000Z",
+      "url": "https://9to5google.com/2026/10/21/oppo-find-x10-pro-max-review/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/oppo-find-x10-pro-max-6.jpg?quality=82&strip=all&w=1600",
+      "summary": "OnePlus is dead. The enthusiast-focused brand turned Oppo for the rest of the world was shuttered, ironically only for the rest of the world, earlier this year and its memory loom…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-21e26b1cd067",
+      "title": "Samsung Galaxy Z Fold 7 hits all-time low price with $655 off",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-21",
+      "time": "14:42",
+      "publishedAt": "2026-10-21T14:42:34.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-7-discount-3726172/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/Galaxy-Z-Fold-7-folded-laying-down-on-table-close-hero-image-scaled.jpg",
+      "summary": "The Samsung Galaxy Z Fold 7 just dropped 33% off RRP, bringing this premium foldable to its lowest Amazon price ever.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-77af4978c9c9",
+      "title": "Xiaomi 18 Pro vs Galaxy S26: The Flagship Battle Samsung May Not Win",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-21",
+      "time": "14:27",
+      "publishedAt": "2026-10-21T14:27:54.000Z",
+      "url": "https://www.gizmochina.com/2026/10/21/xiaomi-18-pro-vs-galaxy-s26/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/image-59-300x158.png?x24124",
+      "summary": "Xiaomi 18 Pro and Samsung Galaxy S26 target buyers who want flagship performance without moving to larger phones. However, they approach the premium experience differently. Xiaomi…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-25f4c866dfe5",
+      "title": "iPhone Duo Accessories Roundup: Cases and Screen Protectors From OtterBox, ZAGG, and More",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-21",
+      "time": "14:25",
+      "publishedAt": "2026-10-21T14:25:48.000Z",
+      "url": "https://www.macrumors.com/2026/10/21/iphone-duo-accessories-roundup/",
+      "image": "https://images.macrumors.com/article-new/2026/09/iphone-18-duo-cases-new-blue.jpeg",
+      "summary": "iPhone Duo will start arriving to pre-order customers this Friday, and in anticipation of the launch we've gathered all of the best cases and screen protectors you can get for you…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-820a99aa820f",
+      "title": "iQOO 16R inches towards launch, bags another important certification",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-21",
+      "time": "14:25",
+      "publishedAt": "2026-10-21T14:25:21.000Z",
+      "url": "https://www.gizmochina.com/2026/10/21/iqoo-16r-tkdn-certified/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/01/iQOO-Z11-Turbo-4-300x169.jpg?x24124",
+      "summary": "iQOO has started teasing the iQOO 16 in India, and the phone is likely to launch in November. While the device has not yet received India’s BIS certification, it was recently appr…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-12e1b593b509",
+      "title": "iPhone Duo will add Reachability feature ‘later this year’",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-21",
+      "time": "14:10",
+      "publishedAt": "2026-10-21T14:10:20.000Z",
+      "url": "https://9to5mac.com/2026/10/21/iphone-duo-will-add-reachability-feature-later-this-year/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-front-display-hand.jpg?quality=82&strip=all&w=1600",
+      "summary": "iPhone Duo launches this Friday ( read our full review here ), but there’s one software feature Apple says won’t be ready until later this year: Reachability. more…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-21c226e6d270",
+      "title": "Apple Stores Will Have 'Limited' Availability of iPhone Duo for Walk-In Customers",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-21",
+      "time": "14:10",
+      "publishedAt": "2026-10-21T14:10:12.000Z",
+      "url": "https://www.macrumors.com/2026/10/21/apple-stores-limited-iphone-duo-for-walk-in/",
+      "image": "https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Hinge-Feature-4.jpg",
+      "summary": "In a statement shared with MacRumors today, an Apple spokesperson said there will be \"limited\" availability of the iPhone Duo for walk-in customers at Apple Stores in select count…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-be2822c2b389",
+      "title": "Recreating the lost studios of women sculptors with Prune Nourry",
+      "source": "Google Blog",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-10-21",
+      "time": "14:00",
+      "publishedAt": "2026-10-21T14:00:00.000Z",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/visionaries-petit-palais-art-basel-paris-prune-nourry/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Prune_Nourry_Hero.max-600x600.format-webp.webp",
+      "summary": "Google partnered with experts to recreate the workspaces of 19th-century sculptors, bringing their legacies back into focus.",
+      "tags": [
+        "iPhone",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-390d1869df88",
+      "title": "Google gives Pixel 9 another year of free Satellite SOS connectivity",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-21",
+      "time": "13:55",
+      "publishedAt": "2026-10-21T13:55:00.000Z",
+      "url": "https://9to5google.com/2026/10/21/google-gives-pixel-9-another-year-of-free-satellite-sos-connectivity/",
+      "image": "",
+      "summary": "Google won’t start charging for the Satellite SOS feature on its Pixel 9 series phones just yet, despite the timer having run out. more…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-83d7af905842",
+      "title": "Google extends free Pixel 9 Satellite SOS for one more year",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-10-21",
+      "time": "13:51",
+      "publishedAt": "2026-10-21T13:51:37.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/google-extends-free-pixel-9-satellite-sos-for-one-more-year",
+      "image": "https://cdn.mos.cms.futurecdn.net/VgH4GNj4umFySGJmenb9LP-1920-80.jpg",
+      "summary": "Your Pixel 9 can still call for help from the middle of nowhere, free until 2027.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-937f79485ca1",
+      "title": "维信诺官宣 iQOO Neo12 手机超冠屏行业唯一搭载「天空之镜」发光材料",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-21",
+      "time": "13:50",
+      "publishedAt": "2026-10-21T13:50:58.000Z",
+      "url": "https://www.ithome.com/1/016/130.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/65a5df5e-fe98-461a-b672-9bc241982560.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 21 日消息，维信诺今日宣布， iQOO Neo12 手机的超冠屏行业唯一搭载维信诺「天空之镜」发光材料 、行业唯一搭载维信诺 pTSF 技术的 2K 185Hz 屏。 据IT之家此前报道，在 10 月 14 日的维信诺 × iQOO × 清华大学屏幕技术沟通会上，iQOO 宣布，iQOO Neo12 新机拥有三大首发技术 + 七大争锋…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3cb0186ca8e8",
+      "title": "英伟达联合思灵推出人形机器人参考平台 Agile ONE SN，计划 2027 年初上市",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-21",
+      "time": "13:49",
+      "publishedAt": "2026-10-21T13:49:39.000Z",
+      "url": "https://www.ithome.com/1/016/128.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/a576edce-9cb0-4a1a-9c40-4534820c500a.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 21 日消息，英伟达当地时间 10 月 21 日在 GTC 柏林大会上宣布扩展 Isaac 开放机器人开发平台，新增人形机器人参考平台、运行框架、仿真资产和数据集，并更新机器人学习工具，覆盖从训练数据生成、仿真训练到实体机器人部署的开发流程。 硬件方面，英伟达联合思灵机器人（Agile Robots）发布了人形机器人参考平台 Agile…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-f8a108f89ce1",
       "title": "iPhone Duo Reviews Explain Why Device is Both 'Fun' and 'Frustrating'",
@@ -82,46 +582,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-807ca8a71eff",
-      "title": "The iPhone Duo is a messy, expensive, good time",
-      "source": "The Verge",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-21",
-      "time": "12:32",
-      "publishedAt": "2026-10-21T12:32:13.000Z",
-      "url": "https://www.theverge.com/tech/1015028/iphone-duo-review",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1378.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "The iPhone Duo is the riskiest Apple product in years. It's a huge rethink of what an iPhone is and could be, and it contains the seeds of many fascinating ideas that might be gre…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-6af4ed1b2898",
-      "title": "I reviewed the iPhone Duo, ask me anything",
-      "source": "The Verge",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-21",
-      "time": "12:22",
-      "publishedAt": "2026-10-21T12:22:44.000Z",
-      "url": "https://www.theverge.com/tech/1014316/iphone-duo-review-ama",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_0082.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "I'm The Verge's senior smartphone reviewer and I've been using the iPhone Duo for the past week. I've unfolded it, flipped it, and folded it more times than I could count as I've…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-f2e9c2b362a5",
       "title": "【视频】iPhone Duo 上的软件长啥样？看完只能说生态号召力还得是苹果",
       "source": "IT之家",
@@ -142,26 +602,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-c7eaf84bec37",
-      "title": "Pixel 9 owners get another free year of the life-saving feature, Satellite SOS",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-21",
-      "time": "11:38",
-      "publishedAt": "2026-10-21T11:38:14.000Z",
-      "url": "https://www.androidpolice.com/pixel-9-owners-just-got-more-free-access-to-a-life-saving-feature/",
-      "image": "",
-      "summary": "No need to pay for something you never use",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-8f9cff011065",
       "title": "Vivo X500 Pro vs Samsung Galaxy S26+: Which Flagship Is Worth Your Money?",
       "source": "Gizmochina",
@@ -177,46 +617,6 @@ window.phoneRadarAuto = {
       "summary": "Vivo X500 Pro and Samsung Galaxy S26+ take different approaches to the premium smartphone experience. Vivo focuses on advanced photography, faster charging, and a compact flagship…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-58db9392863f",
-      "title": "环路资本将苹果评级下调为“持有”，同步下调 iPhone 营收预期",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-21",
-      "time": "09:36",
-      "publishedAt": "2026-10-21T09:36:45.000Z",
-      "url": "https://www.ithome.com/1/016/024.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/ca13817c-1cf6-4cfe-8495-36902f8c9816.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 21 日消息，据科技媒体 macrumors 今天报道，环路资本（Loop Capital）已将苹果股票评级从“买入”下调为“持有”。该机构认为， 苹果不太可能弥补原定 2026 年下半年出货 、 但后来又从计划中削减的约 1,300 万台 iPhone 。 据报道，环路资本将苹果目标股价从 370 美元 （IT之家注：现汇率约合 2,…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-bece960ddfb7",
-      "title": "上海国际航空枢纽战略规划发布：江苏南通新机场计划明年开工、2035 年建成",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-21",
-      "time": "09:31",
-      "publishedAt": "2026-10-21T09:31:14.000Z",
-      "url": "https://www.ithome.com/1/016/022.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/75acc75b-d13f-46d1-8f82-cdf56f774ae6.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 21 日消息，据央视新闻今日报道，中国民航局在最新发布的《新时代新征程上海国际航空枢纽战略规划》中提出，上海正持续推进全方位门户复合型国际航空枢纽建设，计划明年开工建设江苏南通新机场， 到 2035 年，将力争进入世界一流航空枢纽前列 。 《规划》中提出， 江苏南通新机场计划明年开工 ，建成后将成为上海国际航空枢纽重要组成部分。浦东、虹…",
-      "tags": [
-        "行业",
         "爆料",
         "自动抓取"
       ]
@@ -382,26 +782,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "weibo-56854936e8e6",
-      "title": "数码闲聊站：独家，子系Turbo Pro也是年底前后上，6.78英寸1.5K+185Hz直…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-21",
-      "time": "06:01",
-      "publishedAt": "2026-10-21T06:01:20.000Z",
-      "url": "https://weibo.com/6048569942/RnGIH4RlG",
-      "image": "",
-      "summary": "独家，子系Turbo Pro也是年底前后上，6.78英寸1.5K+185Hz直屏，3nm SM8845 Pro处理器，200Mp大底影像，有外接散热风扇配件，疑似PIN外壳方案，电池保底9K，系列工程机最高10K[NO]",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
       "id": "auto-b5785471e957",
       "title": "Huawei Mate 90 Pro Max vs Vivo X500 Pro Max: The $400 Difference Explained",
       "source": "Gizmochina",
@@ -479,26 +859,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-cc2a5991b179",
-      "title": "I can’t get enough of the iPhone Duo’s matte inner display",
-      "source": "The Verge",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-21",
-      "time": "02:44",
-      "publishedAt": "2026-10-21T02:44:15.000Z",
-      "url": "https://www.theverge.com/tech/1014709/iphone-duo-inner-screen-nano-texture-matte",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_0055.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "The iPhone Duo has all the messiness of a first-gen product. And while I'm not sure I love all of the decisions Apple made around its design, it got one thing right: the matte fin…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -682,66 +1042,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-f845ca30e2f1",
-      "title": "iPhone Duo首发评测",
-      "source": "B站热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-21",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://search.bilibili.com/all?keyword=iPhone%20Duo%E9%A6%96%E5%8F%91%E8%AF%84%E6%B5%8B",
-      "image": "",
-      "summary": "iPhone Duo首发评测",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-8c289728657b",
-      "title": "1小时讲清苹果首款折叠屏",
-      "source": "B站热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-21",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://search.bilibili.com/all?keyword=1%E5%B0%8F%E6%97%B6%E8%AE%B2%E6%B8%85%E8%8B%B9%E6%9E%9C%E9%A6%96%E6%AC%BE%E6%8A%98%E5%8F%A0%E5%B1%8F",
-      "image": "",
-      "summary": "1小时讲清苹果首款折叠屏",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-cdfae80a6d26",
-      "title": "何同学iPhone Duo首发体验",
-      "source": "B站热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-21",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://search.bilibili.com/all?keyword=%E4%BD%95%E5%90%8C%E5%AD%A6iPhone%20Duo%E9%A6%96%E5%8F%91%E4%BD%93%E9%AA%8C",
-      "image": "",
-      "summary": "何同学iPhone Duo首发体验",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-40e57c16d33c",
       "title": "苹果官网iPhone Duo每人限购2台",
       "source": "今日头条热榜",
@@ -755,46 +1055,6 @@ window.phoneRadarAuto = {
       "url": "https://www.toutiao.com/trending/7699011224041688630/",
       "image": "",
       "summary": "苹果官网iPhone Duo每人限购2台",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-1251f7562dd9",
-      "title": "为何手机卖不动了",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-21",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BD%95%E6%89%8B%E6%9C%BA%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86",
-      "image": "",
-      "summary": "为何手机卖不动了",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-35eecd3c2cea",
-      "title": "iPhone Duo应用适配被吐槽",
-      "source": "百度热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-21",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=iPhone+Duo%E5%BA%94%E7%94%A8%E9%80%82%E9%85%8D%E8%A2%AB%E5%90%90%E6%A7%BD",
-      "image": "",
-      "summary": "iPhone Duo应用适配被吐槽",
       "tags": [
         "iPhone",
         "爆料",
@@ -819,46 +1079,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-56da37312cf0",
-      "title": "Apple Seeks 6G Modem Engineers as It Plans for Post-5G iPhones",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-20",
-      "time": "23:46",
-      "publishedAt": "2026-10-20T23:46:21.000Z",
-      "url": "https://www.macrumors.com/2026/10/20/apple-6g-research-continues/",
-      "image": "",
-      "summary": "Apple is continuing to work on 6G, the successor to 5G that's on track to be ready sometime around 2030. Apple has been preparing for the eventual launch of the 6G standard since…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d410f2755595",
-      "title": "First iPhone Duo Unboxing Video Appears Ahead of Friday Launch",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-20",
-      "time": "23:31",
-      "publishedAt": "2026-10-20T23:31:23.000Z",
-      "url": "https://www.macrumors.com/2026/10/20/iphone-duo-unboxing-video/",
-      "image": "",
-      "summary": "With just a couple of days to go until the iPhone Duo launches, the first unboxing video has surfaced online from someone who managed to get a device early. The &zwnj;iPhone Duo&z…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -1222,26 +1442,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-424ae458d7e7",
-      "title": "Xiaomi 18 Pro series leak reveals painful global price",
-      "source": "Android Authority",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-20",
-      "time": "07:00",
-      "publishedAt": "2026-10-20T07:00:45.000Z",
-      "url": "https://www.androidauthority.com/xiaomi-18-pro-series-global-pricing-3725353/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xiaomi-18-Pro-Max-White-1-of-4.jpg",
-      "summary": "Xiaomi's global pricing might make last year's Ultra look like pocket change.",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-2ed6348eebd2",
       "title": "Redmi K100 officially confirmed to pack a 10,000mAh unit, largest ever on a Xiaomi phone",
       "source": "Gizmochina",
@@ -1257,26 +1457,6 @@ window.phoneRadarAuto = {
       "summary": "The Redmi K100 is gearing up to make a strong impression in the performance smartphone segment. Xiaomi has started revealing key details ahead of the phone’s official unveiling. T…",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-04b1e4e7b5fc",
-      "title": "OnePlus Ace 7’s a dual-outlet cooling system officially revealed ahead of launch",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-20",
-      "time": "04:20",
-      "publishedAt": "2026-10-20T04:20:51.000Z",
-      "url": "https://www.gizmochina.com/2026/10/20/oneplus-ace-7-dual-airflow-cooling-official-confirmation/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/OnePlus-Ace-7-series-schematic-300x167.jpg?x24124",
-      "summary": "The OnePlus Ace 7 series is getting a major cooling upgrade ahead of its expected launch in China later this month. The series, which is expected to include the Ace 7 and Ace 7 Pr…",
-      "tags": [
-        "OPPO",
         "爆料",
         "自动抓取"
       ]
@@ -1299,26 +1479,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-1b2c508dbe49",
-      "title": "Redmi Band 4 launches with a 21-day battery and 60Hz screen",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-20",
-      "time": "03:30",
-      "publishedAt": "2026-10-20T03:30:19.000Z",
-      "url": "https://www.gizmochina.com/2026/10/20/redmi-band-4-launches-with-a-21-day-battery-and-60hz-screen/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Redmi-Band-4-Launch-Specs-Price-300x200.jpg?x24124",
-      "summary": "Redmi has quietly launched the Redmi Band 4 in China, with sales starting today. The new fitness tracker succeeds the Redmi Band 3 from 2024 and brings changes to its frame, cover…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
