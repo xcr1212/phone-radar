@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-10-21T00:36:37.536Z",
+  "updatedAt": "2026-10-21T07:37:47.312Z",
   "issueDate": "2026-10-21",
   "issue": "VOL.261021",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
     "total": 8,
-    "iphone": 7,
+    "iphone": 5,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -17,52 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-c175c398675d",
-          "title": "10 月 23 日发售，苹果 iPhone Duo 首个开箱视频流出",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-21",
-          "time": "00:30",
-          "publishedAt": "2026-10-21T00:30:28.000Z",
-          "url": "https://www.ithome.com/1/015/646.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/5915b7eb-ca18-457a-8d1c-3243ae26c4e1.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 10 月 21 日消息，距离 iPhone Duo 正式开售只剩短短几天，有博主提前拿到了真机，网上已经流出该机的首个开箱视频。 iPhone Duo 出厂为平整展开状态，而非折叠收纳；外包装和普通 iPhone 保持一致，没有特殊设计。 iPhone Duo 真机评测稿件将于明日正式解禁上线；机型正式发售日期为 10 月 23 日。苹果官网线上…",
-          "detail": "IT之家 10 月 21 日消息，距离 iPhone Duo 正式开售只剩短短几天，有博主提前拿到了真机，网上已经流出该机的首个开箱视频。 iPhone Duo 出厂为平整展开状态，而非折叠收纳；外包装和普通 iPhone 保持一致，没有特殊设计。 iPhone Duo 真机评测稿件将于明日正式解禁上线；机型正式发售日期为 10 月 23 日。苹果官网线上…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-6ec05e0a228e",
-          "title": "iPhone 18标准版外观曝光：双摄，横向大矩阵Deco",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-10-21",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/74481924",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone 18标准版外观曝光：双摄，横向大矩阵Deco",
-          "detail": "iPhone 18标准版外观曝光：双摄，横向大矩阵Deco",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "auto-5076ac9968fb",
           "title": "iPhone 18 外观设计线索曝光",
@@ -181,25 +135,73 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-3f33bee2fce0",
-          "title": "三星马来西亚总裁乐见苹果 iPhone Duo 等对手入局折叠屏赛道，称竞争让行业继续突破",
+          "id": "coolapk-user-6a65ee9afdce",
+          "title": "竹本青：【荣耀Win 2系列 正式发布：全系2K 185Hz维信诺直屏，售价4199元起】 ● WIN2： 12GB+25…",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
+          "source": "竹本青",
+          "brand": "HONOR",
           "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-20",
-          "time": "15:21",
-          "publishedAt": "2026-10-20T15:21:44.000Z",
-          "url": "https://www.ithome.com/1/015/607.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/a78c7e83-048d-4a94-9030-4585db579062.png?x-bce-process=image/format,f_auto",
+          "trust": "高可信爆料",
+          "date": "2026-10-21",
+          "time": "07:34",
+          "publishedAt": "2026-10-21T07:34:02.000Z",
+          "url": "https://www.coolapk.com/feed/74511821",
+          "image": "http://image.coolapk.com/feed/2026/1021/15/4248714_a4e914b5_8039_6066_9@2736x3030.jpg",
           "verdict": "先看",
-          "takeaway": "IT之家 10 月 20 日消息，据科技媒体 Sammobile 今天报道，三星马来西亚总裁 Charles Kim 接受采访时表示，他乐于看见苹果 iPhone Duo 等竞争对手入局折叠屏手机市场。 Charles Kim 表示：“三星已经在 2019 年推出首款折叠屏手机 Galaxy Fold。如今其他品牌纷纷进入这一赛道，恰恰说明我们早年的理念，…",
-          "detail": "IT之家 10 月 20 日消息，据科技媒体 Sammobile 今天报道，三星马来西亚总裁 Charles Kim 接受采访时表示，他乐于看见苹果 iPhone Duo 等竞争对手入局折叠屏手机市场。 Charles Kim 表示：“三星已经在 2019 年推出首款折叠屏手机 Galaxy Fold。如今其他品牌纷纷进入这一赛道，恰恰说明我们早年的理念，…",
+          "takeaway": "【荣耀Win 2系列 正式发布：全系2K 185Hz维信诺直屏，售价4199元起】 ● WIN2： 12GB+256GB —— 5499元 16GB+256GB —— 5799元 12GB+512GB —— 5999元 16GB+512GB —— 6699元 16GB+1TB —— 7999元 ▫️6.89\" 2K 185Hz LTPS维信诺直屏 ▫️骁龙…",
+          "detail": "【荣耀Win 2系列 正式发布：全系2K 185Hz维信诺直屏，售价4199元起】 ● WIN2： 12GB+256GB —— 5499元 16GB+256GB —— 5799元 12GB+512GB —— 5999元 16GB+512GB —— 6699元 16GB+1TB —— 7999元 ▫️6.89\" 2K 185Hz LTPS维信诺直屏 ▫️骁龙…",
           "keyPoints": [
-            "屏幕形态"
+            "屏幕形态",
+            "成本 / 价格"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-c165620a926b",
+          "title": "竹本青：对比小米随手吸尘器，这个新品是150000转/分钟，随手吸是88000转/分钟，吸力提升了7000pa。重量更轻，…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-10-21",
+          "time": "02:45",
+          "publishedAt": "2026-10-21T02:45:48.000Z",
+          "url": "https://www.coolapk.com/feed/74505671",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "对比小米随手吸尘器，这个新品是150000转/分钟，随手吸是88000转/分钟，吸力提升了7000pa。重量更轻，续航更久，而且还是机身可折叠设计，也有快充。结果价格还差不多，只能说我买早了…… #米家随手吸尘器# #米家什么值得买# #最近买过#",
+          "detail": "对比小米随手吸尘器，这个新品是150000转/分钟，随手吸是88000转/分钟，吸力提升了7000pa。重量更轻，续航更久，而且还是机身可折叠设计，也有快充。结果价格还差不多，只能说我买早了…… #米家随手吸尘器# #米家什么值得买# #最近买过#",
+          "keyPoints": [
+            "电池 / 充电",
+            "成本 / 价格"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-bd2c4a14993e",
+          "title": "竹本青：小米米家车载吸尘器「便携版」众筹上线：20000Pa吸力，机身可折叠，189元",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-10-21",
+          "time": "02:29",
+          "publishedAt": "2026-10-21T02:29:48.000Z",
+          "url": "https://www.coolapk.com/feed/74505303",
+          "image": "http://image.coolapk.com/feed/2026/1021/10/4248714_59e556a1_9785_4461_481@1080x1188.jpg",
+          "verdict": "先看",
+          "takeaway": "【小米米家车载吸尘器「便携版」众筹上线：20000Pa吸力，机身可折叠，189元】 ○ 无刷电机，20000Pa吸力 ○ 旋风组件可一体抽出水洗 ○ 机身折叠设计 ○ 尘气分离系统 ○ 毛刷、宽吸头、吹吸嘴等配件 ○ 366*55.5*46mm／重约446g ● 续航： 7500mAh锂电池+22.5W快充 节能挡40分钟／强力挡16分钟 #今日热点# #…",
+          "detail": "【小米米家车载吸尘器「便携版」众筹上线：20000Pa吸力，机身可折叠，189元】 ○ 无刷电机，20000Pa吸力 ○ 旋风组件可一体抽出水洗 ○ 机身折叠设计 ○ 尘气分离系统 ○ 毛刷、宽吸头、吹吸嘴等配件 ○ 366*55.5*46mm／重约446g ● 续航： 7500mAh锂电池+22.5W快充 节能挡40分钟／强力挡16分钟 #今日热点# #…",
+          "keyPoints": [
+            "电池 / 充电"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
