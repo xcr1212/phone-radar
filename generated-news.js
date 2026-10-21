@@ -1,6 +1,146 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-21T18:37:36.073Z",
+  "updatedAt": "2026-10-21T23:17:51.294Z",
   "news": [
+    {
+      "id": "auto-c1831a16b177",
+      "title": "Giant iPhone Duo installations spotted at Apple Fifth Avenue ahead of Friday launch",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-21",
+      "time": "23:16",
+      "publishedAt": "2026-10-21T23:16:18.000Z",
+      "url": "https://9to5mac.com/2026/10/21/giant-iphone-duo-installations-spotted-at-apple-fifth-avenue-ahead-of-friday-launch/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/apple-fifth-avenue-iphone-launch-day.jpg?quality=82&strip=all&w=1600",
+      "summary": "While the iPhone Duo doesn’t launch until Friday, preparations are already underway at Apple’s flagship Fifth Avenue store in New York for the big day. Here are the details. more…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f2c265b8682c",
+      "title": "Omdia 称宽屏折叠手机成新风口，2026 预计占总折叠面板出货的 44%",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-21",
+      "time": "22:56",
+      "publishedAt": "2026-10-21T22:56:19.000Z",
+      "url": "https://www.ithome.com/1/016/170.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/51a1eb9a-ab71-4b29-a248-3de0af52006e.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 22 日消息，市场调查机构 Omdia 昨日（10 月 21 日）发布研究报告，称随着三星、苹果相继推出采用更宽屏幕比例的“书本型”折叠屏手机， 2026 年全球可折叠智能手机 AMOLED 显示屏出货量有望达到 2900 万片，同比增长 44%。 ▲ 形态方面，该机构指出，新一代折叠屏手机正在摆脱传统“10:9 内屏 +21:9 外屏…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-523bccf636b7",
+      "title": "Does the iPhone Duo Run Hot? Here's What Reviews Found",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-21",
+      "time": "22:05",
+      "publishedAt": "2026-10-21T22:05:15.000Z",
+      "url": "https://www.macrumors.com/2026/10/21/iphone-duo-heat-reviews/",
+      "image": "https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Hinge-Feature-3.jpg",
+      "summary": "Multiple iPhone Duo reviews covered the device's thermal properties, and reviewer opinions varied. Some found that it was just warm, while others thought it was running too hot at…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-692f2f23c251",
+      "title": "Samsung built the foldable market Apple is now claiming to revolutionize",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-21",
+      "time": "21:51",
+      "publishedAt": "2026-10-21T21:51:42.000Z",
+      "url": "https://www.sammobile.com/opinion/samsung-built-foldable-market-apple-claiming-to-revolutionize/",
+      "image": "",
+      "summary": "Apple recently unveiled its first foldable iPhone, but Samsung has been making foldable phones since 2019. With the iPhone Duo, Apple has brought some new thoughts and technologie…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b450d9d8b6fa",
+      "title": "Samsung Galaxy S25 FE wins our reader poll for best Samsung Galaxy A16 alternative",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-21",
+      "time": "20:33",
+      "publishedAt": "2026-10-21T20:33:18.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-a16-alternatives-poll-results-3726314/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/09/Samsung-Galaxy-S25-FE-in-Navy-standing-in-front-of-plant.jpg",
+      "summary": "Over 1,000 readers weigh in on the best affordable alternatives to the Samsung Galaxy A16.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-834a88b41558",
+      "title": "What 32,000 Folds Did to the iPhone Duo's Hinge",
+      "source": "MacRumors",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-21",
+      "time": "20:05",
+      "publishedAt": "2026-10-21T20:05:27.000Z",
+      "url": "https://www.macrumors.com/2026/10/21/iphone-duo-fold-test-hinge/",
+      "image": "https://images.macrumors.com/article-new/2026/10/joanna-stern-fold-test.jpg",
+      "summary": "Apple hasn't shared iPhone Duo hinge tests or given a lifetime fold number like Samsung, but Joanna Stern used a custom device to subject her review unit to more than 32,000 folds…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f260a09f994d",
+      "title": "Samsung Good Lock’s Quick Share alternative is failing to share files with iPhones",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-21",
+      "time": "18:56",
+      "publishedAt": "2026-10-21T18:56:43.000Z",
+      "url": "https://www.androidauthority.com/samsung-good-lock-dropship-bug-3726284/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2024/07/Samsung-Galaxy-Z-Flip-6-Good-Lock-interface.jpg",
+      "summary": "Samsung’s Good Lock file transfer tool hit a wall, but a fix is on the way.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-00948ce0d1dc",
       "title": "iPhone Duo Tips Over on MagSafe Stands When Unfolded",
@@ -722,26 +862,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-2b59679ccd97",
-      "title": "Better pay for AppleCare Plus: The iPhone Duo has a concerningly soft crease",
-      "source": "Android Authority",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-21",
-      "time": "07:03",
-      "publishedAt": "2026-10-21T07:03:34.000Z",
-      "url": "https://www.androidauthority.com/iphone-duo-soft-crease-screen-3725872/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/iPhone-Duo-Weibo-user-Kang.jpg",
-      "summary": "Is this a defect or a feature? All I can say is that the Z Fold 8's crease feels just as robust as the rest of the display.",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-d2e0ea203a9e",
       "title": "JSCHEN小小狐：好热闹啊[墨镜滑稽]各位可以猜猜价格 #荣耀WINRT2# #荣耀WINTurbo2#",
       "source": "JSCHEN小小狐",
@@ -1002,6 +1122,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-d514969989c8",
+      "title": "好香， #REDMIK100ProMax# 在派送了，要不要退了换荣耀，没用过荣耀手机，不知道怎么样[受虐滑稽]",
+      "source": "酷安热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74512141",
+      "image": "",
+      "summary": "好香， #REDMIK100ProMax# 在派送了，要不要退了换荣耀，没用过荣耀手机，不知道怎么样[受虐滑稽]",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-448c97f08476",
       "title": "#徕卡一瞬##谷歌相机##手机摄影#",
       "source": "酷安热榜",
@@ -1042,9 +1182,9 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-40e57c16d33c",
-      "title": "苹果官网iPhone Duo每人限购2台",
-      "source": "今日头条热榜",
+      "id": "newsnow-8ff64c886a4c",
+      "title": "如何评价iPhone Duo软件适配",
+      "source": "B站热搜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
       "type": "爆料",
@@ -1052,9 +1192,9 @@ window.phoneRadarAuto = {
       "date": "2026-10-21",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7699011224041688630/",
+      "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7iPhone%20Duo%E8%BD%AF%E4%BB%B6%E9%80%82%E9%85%8D",
       "image": "",
-      "summary": "苹果官网iPhone Duo每人限购2台",
+      "summary": "如何评价iPhone Duo软件适配",
       "tags": [
         "iPhone",
         "爆料",
@@ -1262,26 +1402,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-ca37bbde4999",
-      "title": "Snapdragon or Exynos? New upgrade for Exynos Galaxy S27 could make this a tough choice",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-20",
-      "time": "11:45",
-      "publishedAt": "2026-10-20T11:45:29.000Z",
-      "url": "https://www.androidauthority.com/samsung-galaxy-s27-cellular-upgrade-modem-3725448/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/samsung-galaxy-s26-base-and-s26-plus-review-3-scaled.jpg",
-      "summary": "The Exynos Galaxy S27 might not lag behind the Snapdragon variant when it comes to cellular performance and efficiency.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-6ab29f13a808",
       "title": "Apple still makes it too hard for Apple Pay competitors to emerge, says UK",
       "source": "9to5Mac",
@@ -1317,26 +1437,6 @@ window.phoneRadarAuto = {
       "summary": "Apple is limiting iPhone Duo orders to a maximum of two per customer in the US, UK, and elsewhere after shipping dates slipped into January of next year within minutes of pre-orde…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-8d749ecd9747",
-      "title": "I’ve used the Pixel 11 Pro XL and iPhone 18 Pro Max, and Apple’s ecosystem isn’t enough anymore",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-20",
-      "time": "10:30",
-      "publishedAt": "2026-10-20T10:30:31.000Z",
-      "url": "https://www.androidauthority.com/ive-used-the-pixel-11-pro-xl-and-iphone-18-pro-max-3720239/",
-      "image": "",
-      "summary": "Pixels have closed the gap.",
-      "tags": [
-        "Pixel",
         "爆料",
         "自动抓取"
       ]
@@ -1439,26 +1539,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-2ed6348eebd2",
-      "title": "Redmi K100 officially confirmed to pack a 10,000mAh unit, largest ever on a Xiaomi phone",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-20",
-      "time": "06:00",
-      "publishedAt": "2026-10-20T06:00:06.000Z",
-      "url": "https://www.gizmochina.com/2026/10/20/redmi-k100-10000mah-battery-confirmed/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/redmi-k100-featured-300x169.jpg?x24124",
-      "summary": "The Redmi K100 is gearing up to make a strong impression in the performance smartphone segment. Xiaomi has started revealing key details ahead of the phone’s official unveiling. T…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
