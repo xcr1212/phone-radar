@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-10-22T11:49:51.831Z",
+  "updatedAt": "2026-10-22T17:09:01.692Z",
   "issueDate": "2026-10-22",
   "issue": "VOL.261022",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 8,
+    "total": 10,
     "iphone": 8,
     "leaks": 8,
     "official": 0,
@@ -17,53 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-f19d26dd2117",
-          "title": "古尔曼：苹果正测试第二代 iPhone Duo 原型机，配备面容 ID",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-22",
-          "time": "11:00",
-          "publishedAt": "2026-10-22T11:00:27.000Z",
-          "url": "https://www.ithome.com/1/016/650.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/37aacc27-c3ce-430b-8f77-495103bd03f0.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 10 月 22 日消息，彭博社记者马克 · 古尔曼最近透露，苹果内部正在测试的第二代 iPhone Duo 原型机已配备面容 ID，其面部识别传感器集成在外屏下方。 iPhone Duo 没有使用面容 ID，是许多首批上手者最诟病的地方之一。对苹果来说， 如何将完整面容 ID 组件塞入折叠屏手机薄薄的机身 ， 绝对是重大课题 。并且这家公司一直在…",
-          "detail": "IT之家 10 月 22 日消息，彭博社记者马克 · 古尔曼最近透露，苹果内部正在测试的第二代 iPhone Duo 原型机已配备面容 ID，其面部识别传感器集成在外屏下方。 iPhone Duo 没有使用面容 ID，是许多首批上手者最诟病的地方之一。对苹果来说， 如何将完整面容 ID 组件塞入折叠屏手机薄薄的机身 ， 绝对是重大课题 。并且这家公司一直在…",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-5acd345137e1",
-          "title": "腾讯客服称微信目前已适配 iPhone Duo，后续还会推出相关更新并持续提升使用体验",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-22",
-          "time": "08:50",
-          "publishedAt": "2026-10-22T08:50:41.000Z",
-          "url": "https://www.ithome.com/1/016/512.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/b0f0483e-a860-4fd0-98fd-6b673a826fab.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 10 月 22 日消息，苹果首款折叠屏手机 iPhone Duo 已于 10 月 16 日晚 8 点开启预购，搭载 A20 Pro 处理器， 国行定价 15,999 元起 。 关于微信的适配情况一直是大家重点关心的问题，IT之家就此询问了腾讯客服，对方表示： 微信目前已经适配苹果折叠屏手机 ，您可以正常下载使用微信。 同时微信团队正在积极推进对苹…",
-          "detail": "IT之家 10 月 22 日消息，苹果首款折叠屏手机 iPhone Duo 已于 10 月 16 日晚 8 点开启预购，搭载 A20 Pro 处理器， 国行定价 15,999 元起 。 关于微信的适配情况一直是大家重点关心的问题，IT之家就此询问了腾讯客服，对方表示： 微信目前已经适配苹果折叠屏手机 ，您可以正常下载使用微信。 同时微信团队正在积极推进对苹…",
-          "keyPoints": [
-            "屏幕形态",
-            "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "newsnow-7528c3b53bcf",
           "title": "iPhone Duo 测评出炉，折叠 3000 次后，折痕明显加深，高负载下发热明显，还有哪些问题值得关注？",
@@ -88,24 +41,48 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-77c81951853a",
-          "title": "iPhone 相关消息",
+          "id": "auto-cc444eed18e7",
+          "title": "iPhone 影像能力相关消息",
           "originalTitle": "",
-          "source": "MacRumors",
+          "source": "9to5Mac",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-10-22",
-          "time": "11:02",
-          "publishedAt": "2026-10-22T11:02:36.000Z",
-          "url": "https://www.macrumors.com/2026/10/22/giant-iphone-duo-apple-fifth-avenue/",
-          "image": "https://images.macrumors.com/article-new/2025/03/Apple-Fifth-Avenue-Hero.jpeg",
+          "time": "14:20",
+          "publishedAt": "2026-10-22T14:20:22.000Z",
+          "url": "https://9to5mac.com/2026/10/22/leaker-reveals-larger-iphone-duo-details-possible-telephoto-camera/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-23.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "iPhone 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
+          "keyPoints": [
+            "影像硬件",
+            "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-9988f983f907",
+          "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-22",
+          "time": "13:29",
+          "publishedAt": "2026-10-22T13:29:29.000Z",
+          "url": "https://9to5mac.com/2026/10/22/apple-reportedly-boosts-iphone-duo-orders-by-more-than-40-given-strong-demand/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2027/10/iphone-duo-round-2-03.jpg?quality=82&strip=all&w=1600",
           "verdict": "先看",
           "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
           "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "影像硬件",
-            "屏幕形态"
+            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -121,9 +98,9 @@ window.phoneRadarDaily = {
           "trust": "媒体汇总",
           "date": "2026-10-22",
           "time": "10:46",
-          "publishedAt": "2026-10-22T10:46:15.000Z",
+          "publishedAt": "2026-10-22T10:46:07.000Z",
           "url": "https://www.macrumors.com/2026/10/22/iphone-duo-2-prototypes-under-display-face-id/",
-          "image": "https://images.macrumors.com/article-new/2026/09/iPhone-Duo-Open-large-scaled.png",
+          "image": "https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Open-large-scaled-feature.jpg",
           "verdict": "先看",
           "takeaway": "iPhone 屏幕规格相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
           "detail": "iPhone 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
@@ -182,28 +159,105 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-00948ce0d1dc",
-          "title": "iPhone 折叠屏相关消息",
+          "id": "auto-7d1462cf793e",
+          "title": "OPPO Find X10 系列手机正式登陆全球超过 60 个国家和地区",
           "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
+          "source": "IT之家",
+          "brand": "OPPO",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-10-21",
-          "time": "17:24",
-          "publishedAt": "2026-10-21T17:24:45.000Z",
-          "url": "https://www.macrumors.com/2026/10/21/iphone-duo-magsafe-charging/",
-          "image": "https://images.macrumors.com/article-new/2026/10/iphone-duo-feature.jpg",
+          "date": "2026-10-22",
+          "time": "12:53",
+          "publishedAt": "2026-10-22T12:53:13.000Z",
+          "url": "https://www.ithome.com/1/016/682.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/6fff3bd3-4420-4c51-91bb-b9fbfbdcade5.png?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "iPhone 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "takeaway": "IT之家 10 月 22 日消息，OPPO Find 系列产品负责人卓世杰宣布：今天起， OPPO Find X10 系列正式登陆全球超过 60 个国家和地区 。 据IT之家昨日报道，OPPO 在海外市场推出 Find X10 全球版机型，12GB+256GB 版本售价为 1,099 英镑 （IT之家注：现汇率约合 9,834 元人民币） / 1,299…",
+          "detail": "IT之家 10 月 22 日消息，OPPO Find 系列产品负责人卓世杰宣布：今天起， OPPO Find X10 系列正式登陆全球超过 60 个国家和地区 。 据IT之家昨日报道，OPPO 在海外市场推出 Find X10 全球版机型，12GB+256GB 版本售价为 1,099 英镑 （IT之家注：现汇率约合 9,834 元人民币） / 1,299…",
           "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "电池 / 充电"
+            "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-7d0971690623",
+          "title": "数码闲聊站：华为Pura90 Plus也快上了，内部代号Lucia，6.8英寸1.5K大屏…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-10-22",
+          "time": "02:33",
+          "publishedAt": "2026-10-22T02:33:04.000Z",
+          "url": "https://weibo.com/6048569942/RnOMEmLup",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "华为Pura90 Plus也快上了，内部代号Lucia，6.8英寸1.5K大屏，左上角三角形三摄镜组，配色曜石黑/雪域白/晨曦金/霞光紫，核心出装——今年唯一50Mp 1英寸RYYB可变光圈主摄[污]",
+          "detail": "华为Pura90 Plus也快上了，内部代号Lucia，6.8英寸1.5K大屏，左上角三角形三摄镜组，配色曜石黑/雪域白/晨曦金/霞光紫，核心出装——今年唯一50Mp 1英寸RYYB可变光圈主摄[污]",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "影像硬件",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        }
+      ]
+    },
+    {
+      "id": "iphone",
+      "title": "iPhone 重点",
+      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
+      "items": [
+        {
+          "id": "auto-d98871c926f1",
+          "title": "首发｜我们用了一周的 iPhone Duo，这里有你关心的一切",
+          "originalTitle": "",
+          "source": "爱范儿",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-10-22",
+          "time": "00:45",
+          "publishedAt": "2026-10-22T00:45:50.000Z",
+          "url": "https://www.ifanr.com/1685251?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "image": "https://s3.ifanr.com/wp-content/uploads/2026/10/banner-colored-n.jpg",
+          "verdict": "先看",
+          "takeaway": "在魔术与魔法的夹缝里，我们看到了一种天马行空，但又脚踏实地的产品哲学。",
+          "detail": "在魔术与魔法的夹缝里，我们看到了一种天马行空，但又脚踏实地的产品哲学。",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
+          "id": "newsnow-a1fd52d27602",
+          "title": "钟文泽说iPhoneDuo观感比电纸书强？何意味？电纸书可是墨水屏啊[t耐克嘴][受虐滑稽][受虐滑稽][受虐滑稽]",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-10-22",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/74519108",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "钟文泽说iPhoneDuo观感比电纸书强？何意味？电纸书可是墨水屏啊[t耐克嘴][受虐滑稽][受虐滑稽][受虐滑稽]",
+          "detail": "钟文泽说iPhoneDuo观感比电纸书强？何意味？电纸书可是墨水屏啊[t耐克嘴][受虐滑稽][受虐滑稽][受虐滑稽]",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }
