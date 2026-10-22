@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-10-22T17:09:01.692Z",
+  "updatedAt": "2026-10-22T21:34:09.405Z",
   "issueDate": "2026-10-22",
   "issue": "VOL.261022",
   "title": "手机情报日报",
-  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 10,
-    "iphone": 8,
+    "total": 11,
+    "iphone": 9,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -41,6 +41,53 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-a5782ac5ee2b",
+          "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-22",
+          "time": "19:57",
+          "publishedAt": "2026-10-22T19:57:58.000Z",
+          "url": "https://www.macrumors.com/2026/10/22/slightly-larger-iphone-duo-rumor/",
+          "image": "https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Open-large-scaled-feature.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-7fced3540d3c",
+          "title": "iPhone 屏幕规格相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-22",
+          "time": "18:50",
+          "publishedAt": "2026-10-22T18:50:41.000Z",
+          "url": "https://www.macrumors.com/2026/10/22/giant-iphone-duos-at-four-apple-stores/",
+          "image": "https://images.macrumors.com/article-new/2026/10/Apple-Jing-an-iPhone-Duo-Displays.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 屏幕规格相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-cc444eed18e7",
           "title": "iPhone 影像能力相关消息",
           "originalTitle": "",
@@ -58,53 +105,6 @@ window.phoneRadarDaily = {
           "detail": "iPhone 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
           "keyPoints": [
             "影像硬件",
-            "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-9988f983f907",
-          "title": "iPhone 相关消息",
-          "originalTitle": "",
-          "source": "9to5Mac",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-22",
-          "time": "13:29",
-          "publishedAt": "2026-10-22T13:29:29.000Z",
-          "url": "https://9to5mac.com/2026/10/22/apple-reportedly-boosts-iphone-duo-orders-by-more-than-40-given-strong-demand/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2027/10/iphone-duo-round-2-03.jpg?quality=82&strip=all&w=1600",
-          "verdict": "先看",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-6ab568188c11",
-          "title": "iPhone 屏幕规格相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-22",
-          "time": "10:46",
-          "publishedAt": "2026-10-22T10:46:07.000Z",
-          "url": "https://www.macrumors.com/2026/10/22/iphone-duo-2-prototypes-under-display-face-id/",
-          "image": "https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Open-large-scaled-feature.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 屏幕规格相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
             "屏幕形态",
             "爆料来源"
           ],
@@ -252,6 +252,29 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "钟文泽说iPhoneDuo观感比电纸书强？何意味？电纸书可是墨水屏啊[t耐克嘴][受虐滑稽][受虐滑稽][受虐滑稽]",
           "detail": "钟文泽说iPhoneDuo观感比电纸书强？何意味？电纸书可是墨水屏啊[t耐克嘴][受虐滑稽][受虐滑稽][受虐滑稽]",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-b72326a0aa1b",
+          "title": "iPhone 系统功能 / AI 体验相关消息",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-10-22",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/74546601",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone 系统功能 / AI 体验相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料"
           ],
