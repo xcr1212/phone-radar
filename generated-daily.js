@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-10-23T13:24:51.273Z",
+  "updatedAt": "2026-10-23T18:19:55.256Z",
   "issueDate": "2026-10-23",
   "issue": "VOL.261023",
   "title": "手机情报日报",
@@ -17,6 +17,30 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-9601f624c45c",
+          "title": "消息称苹果在全国 Apple Store 安排移动 / 联通 / 电信工作人员坐镇，现场为 iPhone Duo 取货顾客办理 eSIM",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-23",
+          "time": "15:05",
+          "publishedAt": "2026-10-23T15:05:42.000Z",
+          "url": "https://www.ithome.com/1/017/276.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/ca515523-5adf-42f4-96e9-80cf421a01d4.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 10 月 23 日消息，据新浪科技报道，随着苹果首款折叠屏手机 iPhone Duo 发售，目前苹果在全国所有 Apple Store 零售店均安排了中国移动、中国联通和中国电信的工作人员，为顾客现场办理 eSIM 激活业务。 据报道， 只要顾客是在苹果 Apple Store 门店现场取货，就可以在店内由运营商工作人员协助办理相关业务 ，免去以…",
+          "detail": "IT之家 10 月 23 日消息，据新浪科技报道，随着苹果首款折叠屏手机 iPhone Duo 发售，目前苹果在全国所有 Apple Store 零售店均安排了中国移动、中国联通和中国电信的工作人员，为顾客现场办理 eSIM 激活业务。 据报道， 只要顾客是在苹果 Apple Store 门店现场取货，就可以在店内由运营商工作人员协助办理相关业务 ，免去以…",
+          "keyPoints": [
+            "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-ba5c3e05b828",
           "title": "中国联通开放 iPhone Duo 现货预约购买，无需验证“尊享挚友”2009 年老用户身份",
@@ -65,55 +89,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-2e6cf4e0f698",
-          "title": "苹果 iPhone Duo 海南免税价公布：15839~26239 元，比官网便宜 160~260 元",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-23",
-          "time": "09:07",
-          "publishedAt": "2026-10-23T09:07:54.000Z",
-          "url": "https://www.ithome.com/1/017/110.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/9ef96dba-3a92-431d-8564-4e4103091cba.png",
-          "verdict": "先看",
-          "takeaway": "IT之家 10 月 23 日消息，苹果首款折叠屏手机 iPhone Duo 今日正式开售，国行起售价 15999 元，2TB 版本 26499 元，成为苹果迄今定价最高的 iPhone，苹果官网每位顾客限购 2 部。 与官网同步公布的还有海南免税渠道的价格，IT之家汇总如下： 256GB 版 15839 元：官网价 15999 元，便宜 160 元 512…",
-          "detail": "IT之家 10 月 23 日消息，苹果首款折叠屏手机 iPhone Duo 今日正式开售，国行起售价 15999 元，2TB 版本 26499 元，成为苹果迄今定价最高的 iPhone，苹果官网每位顾客限购 2 部。 与官网同步公布的还有海南免税渠道的价格，IT之家汇总如下： 256GB 版 15839 元：官网价 15999 元，便宜 160 元 512…",
-          "keyPoints": [
-            "屏幕形态",
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-59f9bf448ae1",
-          "title": "竹本青：王腾回应 iFlow温控系统定价对标iPhone Duo：成本确实贵，请大家多理解",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-10-23",
-          "time": "06:16",
-          "publishedAt": "2026-10-23T06:16:36.000Z",
-          "url": "https://www.coolapk.com/feed/74557123",
-          "image": "http://image.coolapk.com/feed/2026/1023/14/4248714_80a208a9_6194_4979_278@1271x1353.jpg",
-          "verdict": "先看",
-          "takeaway": "【王腾回应 iFlow温控系统 定价对标iPhone Duo：成本确实贵，请大家多理解】 10月23日，今日宜休创始人王腾确认，ISHO iFlow智能温控系统，定价将对标超1.5万元的iPhone Duo折叠屏手机。 他表示，公司会努力提升产品性价比，但温控系统属于全新品类，目前供应链非常不成熟。“初始成本确实比较贵，也请大家多理解。” #今日热点# #…",
-          "detail": "【王腾回应 iFlow温控系统 定价对标iPhone Duo：成本确实贵，请大家多理解】 10月23日，今日宜休创始人王腾确认，ISHO iFlow智能温控系统，定价将对标超1.5万元的iPhone Duo折叠屏手机。 他表示，公司会努力提升产品性价比，但温控系统属于全新品类，目前供应链非常不成熟。“初始成本确实比较贵，也请大家多理解。” #今日热点# #…",
-          "keyPoints": [
-            "屏幕形态",
-            "成本 / 价格",
-            "爆料来源"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "auto-8d133f42a1de",
           "title": "一加 Ace 7/Pro 手机三款配色公布，10 月 29 日发布",
           "originalTitle": "",
@@ -137,22 +112,24 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-8783d22b7f2c",
-          "title": "iPhone 相关消息",
+          "id": "auto-18538164a4aa",
+          "title": "iPhone 屏幕规格相关消息",
           "originalTitle": "",
           "source": "MacRumors",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-10-23",
-          "time": "13:15",
-          "publishedAt": "2026-10-23T13:15:15.000Z",
-          "url": "https://www.macrumors.com/2026/10/23/iphone-duo-says-hello-to-you-personally/",
-          "image": "https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Hello-Aaron.jpg",
+          "time": "18:05",
+          "publishedAt": "2026-10-23T18:05:41.000Z",
+          "url": "https://www.macrumors.com/2026/10/23/iphone-duo-screen-cracks/",
+          "image": "https://images.macrumors.com/article-new/2026/10/iphone-duo-screen-crack.jpg",
           "verdict": "先看",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "takeaway": "iPhone 屏幕规格相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
+            "影像硬件",
+            "屏幕形态",
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
@@ -160,7 +137,30 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-45a06d0819fa",
+          "id": "auto-98e85f809855",
+          "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-23",
+          "time": "17:55",
+          "publishedAt": "2026-10-23T17:55:55.000Z",
+          "url": "https://www.macrumors.com/2026/10/23/iphone-duo-long-lines-at-apple-stores/",
+          "image": "https://images.macrumors.com/article-new/2026/10/Apple-Store-Austin-Texas-iPhone-Duo-Launch-Day.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-d3b31f22e2f9",
           "title": "iPhone 系统功能 / AI 体验相关消息",
           "originalTitle": "",
           "source": "MacRumors",
@@ -168,15 +168,15 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-10-23",
-          "time": "11:10",
-          "publishedAt": "2026-10-23T11:10:06.000Z",
-          "url": "https://www.macrumors.com/2026/10/23/iphone-duo-apple-store-pickup-available-today/",
-          "image": "https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Open-large-scaled-feature.jpg",
+          "time": "14:43",
+          "publishedAt": "2026-10-23T14:43:32.000Z",
+          "url": "https://www.macrumors.com/2026/10/23/best-apple-deals-of-the-week-10-23-26/",
+          "image": "https://images.macrumors.com/article-new/2026/10/new-best-apple-deals-dark-mode.jpeg",
           "verdict": "先看",
           "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
           "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "爆料"
+            "屏幕形态"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
