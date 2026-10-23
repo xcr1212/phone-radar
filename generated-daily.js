@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-10-23T18:19:55.256Z",
+  "updatedAt": "2026-10-23T23:07:43.960Z",
   "issueDate": "2026-10-23",
   "issue": "VOL.261023",
   "title": "手机情报日报",
@@ -112,6 +112,53 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-3b9c35da720a",
+          "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-23",
+          "time": "20:49",
+          "publishedAt": "2026-10-23T20:49:57.000Z",
+          "url": "https://www.macrumors.com/2026/10/23/iphone-duo-apple-pencil/",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "影像硬件",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-ee1eb609ee79",
+          "title": "iPhone 外观设计线索曝光",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-23",
+          "time": "19:10",
+          "publishedAt": "2026-10-23T19:10:52.000Z",
+          "url": "https://www.macrumors.com/2026/10/23/apple-southgate-reopens/",
+          "image": "https://images.macrumors.com/article-new/2025/07/Apple-Store-Wallpaper-Basic-Apple-Guy.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 外观设计线索曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
+          "detail": "iPhone 外观设计线索曝光。这类内容主要看外观设计、按键布局、相机模组和尺寸变化，后续最好等更多渲染图或保护壳线索互相验证。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-18538164a4aa",
           "title": "iPhone 屏幕规格相关消息",
           "originalTitle": "",
@@ -137,29 +184,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-98e85f809855",
-          "title": "iPhone 相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-23",
-          "time": "17:55",
-          "publishedAt": "2026-10-23T17:55:55.000Z",
-          "url": "https://www.macrumors.com/2026/10/23/iphone-duo-long-lines-at-apple-stores/",
-          "image": "https://images.macrumors.com/article-new/2026/10/Apple-Store-Austin-Texas-iPhone-Duo-Launch-Day.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "auto-d3b31f22e2f9",
           "title": "iPhone 系统功能 / AI 体验相关消息",
           "originalTitle": "",
@@ -177,29 +201,6 @@ window.phoneRadarDaily = {
           "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-07252b87926c",
-          "title": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-10-23",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/115426",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
-          "detail": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
-          "keyPoints": [
-            "影像硬件"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
