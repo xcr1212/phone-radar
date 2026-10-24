@@ -1,6 +1,106 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-24T15:56:02.837Z",
+  "updatedAt": "2026-10-24T18:46:47.477Z",
   "news": [
+    {
+      "id": "auto-c343b15d1fff",
+      "title": "Verizon Apologizes for iPhone Duo Pre-Order Delays, Giving Customers $100 Gift Card",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-24",
+      "time": "18:29",
+      "publishedAt": "2026-10-24T18:29:16.000Z",
+      "url": "https://www.macrumors.com/2026/10/24/verizon-apologizes-for-iphone-duo-preorder-delays/",
+      "image": "https://images.macrumors.com/article-new/2026/10/Verizon-iPhone-Duo.jpg",
+      "summary": "Verizon has apologized to customers who pre-ordered the iPhone Duo through the carrier but have since been informed that their delivery is delayed. In an email sent to affected cu…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e80326e57f1d",
+      "title": "iPhone Duo Fails JerryRigEverything's Dusty Durability Test",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-24",
+      "time": "18:27",
+      "publishedAt": "2026-10-24T18:27:42.000Z",
+      "url": "https://www.macrumors.com/2026/10/24/iphone-duo-fails-jerryrigeverything-test/",
+      "image": "https://images.macrumors.com/article-new/2026/10/jerryrigeverything-iphone-duo-dust.jpg",
+      "summary": "Apple's iPhone Duo has failed JerryRigEverything's latest durability test . Despite its IP68 dust-resistance rating, dust entered the hinge through several ingress points, overwhe…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1ba380694cb2",
+      "title": "iPhone Duo one day later: Here’s why its quirks don’t make it any less incredible",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-24",
+      "time": "17:47",
+      "publishedAt": "2026-10-24T17:47:49.000Z",
+      "url": "https://9to5mac.com/2026/10/24/thoughts-on-iphone-duo-24-hours-later/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/DSC04170.jpg?quality=82&strip=all&w=1600",
+      "summary": "Yesterday, I picked up my iPhone Duo at Apple Fifth Avenue , and it’s been a wonder to use. Of course, the phone isn’t perfect, but after my first day of usage, I’m looking forwar…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f1cebf1e1446",
+      "title": "Make iPhone Duo Volume Buttons Follow Screen Rotation",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-24",
+      "time": "16:07",
+      "publishedAt": "2026-10-24T16:07:36.000Z",
+      "url": "https://www.macrumors.com/how-to/iphone-duo-volume-buttons-rotate-screen/",
+      "image": "https://images.macrumors.com/article-new/2026/10/hero_medium_2x-feature2.jpg",
+      "summary": "Because of the iPhone Duo's foldable design, you tend to switch the orientation of the device more often than you would a regular iPhone. This makes the volume buttons shift posit…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7de7db3b5a20",
+      "title": "iQOO Neo 12 Roundup: Everything you need to know before launch",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-24",
+      "time": "16:04",
+      "publishedAt": "2026-10-24T16:04:56.000Z",
+      "url": "https://www.gizmochina.com/2026/10/24/iqoo-neo-12-roundup-everything-you-need-to-know-before-launch/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/iQOO-Neo-12-live-shot-300x214.jpg?x62950",
+      "summary": "iQOO confirmed the launch date for the iQOO Neo 12 last week, as we reported at the time. The phone will launch in China on October 28 at 7 PM local time, with sales starting the…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-1c5d99c05999",
       "title": "Grab the Pixel 11 with a year of unlimited service for just $579",
@@ -522,26 +622,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-6b1b3ead03ad",
-      "title": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-10-24",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/115308",
-      "image": "",
-      "summary": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-10ea2b0bb018",
       "title": "尊敬的酷安iPhone Duo机主，谁装了我们最新iOS TF版的，能不能截图让我看看初步适配了iPhone Duo的酷安是啥样的，很好奇。",
       "source": "酷安热榜",
@@ -702,6 +782,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-9efd556e2a9d",
+      "title": "iPhoneDuo破发",
+      "source": "微博热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-10-24",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23iPhoneDuo%E7%A0%B4%E5%8F%91%23&t=31&band_rank=21&Refer=top",
+      "image": "",
+      "summary": "iPhoneDuo破发",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-6022bbc5da50",
       "title": "第一批拿到iPhone Duo的人心态有点崩",
       "source": "今日头条热榜",
@@ -715,6 +815,26 @@ window.phoneRadarAuto = {
       "url": "https://www.toutiao.com/trending/7700143053515787812/",
       "image": "",
       "summary": "第一批拿到iPhone Duo的人心态有点崩",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-e19c137c7948",
+      "title": "上海静安寺对面现iPhone Duo雕塑",
+      "source": "今日头条热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-24",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7699431761780359222/",
+      "image": "",
+      "summary": "上海静安寺对面现iPhone Duo雕塑",
       "tags": [
         "iPhone",
         "爆料",
@@ -1042,26 +1162,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-d3b31f22e2f9",
-      "title": "iPhone Duo Launches With Carrier and Accessory Discounts Available",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-23",
-      "time": "14:43",
-      "publishedAt": "2026-10-23T14:43:32.000Z",
-      "url": "https://www.macrumors.com/2026/10/23/best-apple-deals-of-the-week-10-23-26/",
-      "image": "https://images.macrumors.com/article-new/2026/10/new-best-apple-deals-dark-mode.jpeg",
-      "summary": "Apple's new iPhone Duo is now available to purchase , and deals on cases, screen protectors, and the Duo itself are in abundance this week. Below, we're also tracking big discount…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-a602c64c4b09",
       "title": "Honor Magic 9 series beats every other new Android flagship in sales so far",
       "source": "Gizmochina",
@@ -1117,26 +1217,6 @@ window.phoneRadarAuto = {
       "summary": "Gaming phones are no longer just about raw performance. Battery endurance, display responsiveness, cooling efficiency, and camera quality increasingly determine which device makes…",
       "tags": [
         "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-8783d22b7f2c",
-      "title": "iPhone Duo Says 'Hello' to You Personally",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-23",
-      "time": "13:15",
-      "publishedAt": "2026-10-23T13:15:06.000Z",
-      "url": "https://www.macrumors.com/2026/10/23/iphone-duo-says-hello-to-you-personally/",
-      "image": "https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Hello-Aaron.jpg",
-      "summary": "As expected , the iPhone Duo greets you personally if you purchase it from an Apple Store in the United States. MacRumors contributor Aaron Perris had an in-store pickup reservati…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -1419,26 +1499,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-4ce0c63aaf50",
-      "title": "Huawei announces Pura 90 Plus with curved frames and triangular camera module",
-      "source": "Gizmochina",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-23",
-      "time": "03:49",
-      "publishedAt": "2026-10-23T03:49:51.000Z",
-      "url": "https://www.gizmochina.com/2026/10/23/huawei-announces-pura-90-plus-with-curved-frames-and-triangular-camera-module/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Huawei-Pura-90-Plus-300x200.jpg?x62950",
-      "summary": "Huawei opened pre-orders for the Huawei Pura 90 Plus in China today and released the phone’s first official teaser. It joins the family that Huawei launched in April with the Pura…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
