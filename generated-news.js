@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-24T18:46:47.477Z",
+  "updatedAt": "2026-10-24T22:27:47.383Z",
   "news": [
+    {
+      "id": "auto-bcbdc29ab676",
+      "title": "Galaxy S27 Pro/Ultra TUV certifications reveal exact battery capacity",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-24",
+      "time": "21:53",
+      "publishedAt": "2026-10-24T21:53:03.000Z",
+      "url": "https://www.gizmochina.com/2026/10/24/galaxy-s27-pro-ultra-tuv-certifications-reveal-exact-battery-capacity/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Erste-Samsung-Galaxy-S27-Ultra-Cases-zeigen-mehr-vom-neuen-Kamera-Design-q82-w2560-h-1-1-300x169.webp?x62950",
+      "summary": "Samsung’s next flagship phones look set for a solid battery bump. Regulatory documents have now spelled out the exact capacities for the Galaxy S27 Pro and S27 Ultra, which are ex…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9821b70d10de",
+      "title": "Hands-on: Belkin’s new semi solid state batteries make for a much lighter carry",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-24",
+      "time": "21:46",
+      "publishedAt": "2026-10-24T21:46:33.000Z",
+      "url": "https://9to5mac.com/2026/10/24/belkin-new-semi-solid-state-battery-options-for-iphone/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/DSC03234.jpg?quality=82&strip=all&w=1600",
+      "summary": "Belkin is now offering two new semi solid state batteries for your iPhone. There’s one 10,000mAh offering with a USB-C port for charging. The second is a 5,000mAh MagSafe offering…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-62767e743a38",
+      "title": "iPhone Duo fails durability test as just another first generation foldable",
+      "source": "Gizmochina",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-24",
+      "time": "21:18",
+      "publishedAt": "2026-10-24T21:18:26.000Z",
+      "url": "https://www.gizmochina.com/2026/10/24/iphone-duo-fails-durability-test-as-just-another-first-generation-foldable/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Screenshot_20261025_021520-300x169.jpg?x62950",
+      "summary": "Zack Nelson from JerryRigEverything has given Apple’s first foldable the usual rough treatment, and the results highlight a couple of weak spots that go beyond just forcing the ph…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-c343b15d1fff",
       "title": "Verizon Apologizes for iPhone Duo Pre-Order Delays, Giving Customers $100 Gift Card",
@@ -442,26 +502,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-62c5613f7a85",
-      "title": "竹本青：消息称“OV耀华”四家中端机11月起发布",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-24",
-      "time": "03:17",
-      "publishedAt": "2026-10-24T03:17:02.000Z",
-      "url": "https://www.coolapk.com/feed/74576971",
-      "image": "http://image.coolapk.com/feed/2026/1024/11/4248714_e83a91d9_1822_0165_356@1271x466.jpg",
-      "summary": "【消息称“OV耀华”四家中端机11月起发布】 10月24日，博主数码闲聊站爆料，多厂商新机将于11月起陆续发布，包含OPPO Reno17系列、vivo S70系列、荣耀700系列以及华为Nova17系列。 将覆盖小屏、中屏、大屏三种尺寸，配置有望搭载原生背屏、2亿云台影像、旗舰级潜望长焦、外挂增距镜等配置。 #今日热点# #鸿蒙7# #MagicOS11#",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "weibo-e846fd9ceb9f",
       "title": "数码闲聊站：OPPO Reno17系列、vivo S70系列、荣耀700系列、华为Nova…",
       "source": "数码闲聊站",
@@ -622,21 +662,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-10ea2b0bb018",
-      "title": "尊敬的酷安iPhone Duo机主，谁装了我们最新iOS TF版的，能不能截图让我看看初步适配了iPhone Duo的酷安是啥样的，很好奇。",
+      "id": "newsnow-80bf76f06b06",
+      "title": "真不知道这世道怎么了 用个安卓手机也可以被嘲讽#酷安夜话#",
       "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-24",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74574455",
+      "url": "https://www.coolapk.com/feed/74589105",
       "image": "",
-      "summary": "尊敬的酷安iPhone Duo机主，谁装了我们最新iOS TF版的，能不能截图让我看看初步适配了iPhone Duo的酷安是啥样的，很好奇。",
+      "summary": "真不知道这世道怎么了 用个安卓手机也可以被嘲讽#酷安夜话#",
       "tags": [
-        "iPhone",
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -662,21 +702,41 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-0964e380bf36",
-      "title": "大家买手机还是在官方店买吧，给大家看看教训，机御旗舰店！！！避雷吧，大家可以看看。给大家讲一下，我以37xx的价格在前几天拍了winrt2，结果商品到了以后，快递员激活不了，然后就是因为数字有缺失无法激活，于是，商家跟我说要我退货退款，重新拍，于是，我跟商家协商，能不能按照原有的价格重新买，我就换个货就行了，结果商家不同意，非要以现在所拍下的价格来确定。就是意思是商家自己的问题，导致多出来的价格需要消费者自己去承担，大家自己再看看。希望不要出现这种问题，烧心得很。 #荣耀WIN2# #荣耀# #红米k100#",
+      "id": "newsnow-10ea2b0bb018",
+      "title": "尊敬的酷安iPhone Duo机主，谁装了我们最新iOS TF版的，能不能截图让我看看初步适配了iPhone Duo的酷安是啥样的，很好奇。",
       "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-24",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74566316",
+      "url": "https://www.coolapk.com/feed/74574455",
       "image": "",
-      "summary": "大家买手机还是在官方店买吧，给大家看看教训，机御旗舰店！！！避雷吧，大家可以看看。给大家讲一下，我以37xx的价格在前几天拍了winrt2，结果商品到了以后，快递员激活不了，然后就是因为数字有缺失无法激活，于是，商家跟我说要我退货退款，重新拍，于是，我跟商家协商，能不能按照原有的价格重新买，我就换个货就行了，结果商家不同意，非要以现在所拍下的价格来确定。就…",
+      "summary": "尊敬的酷安iPhone Duo机主，谁装了我们最新iOS TF版的，能不能截图让我看看初步适配了iPhone Duo的酷安是啥样的，很好奇。",
       "tags": [
-        "HONOR",
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-7a2aed07ed8c",
+      "title": "美版当wifi机太香了，手上小米18Promax开热点网络信号很好，热点机也不发烫。苹果真的WiFi下续航无敌现在已经把18Pro当主力机用了。#小米18# #iPhone18ProMax# #iPhone18Pro#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-24",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74581337",
+      "image": "",
+      "summary": "美版当wifi机太香了，手上小米18Promax开热点网络信号很好，热点机也不发烫。苹果真的WiFi下续航无敌现在已经把18Pro当主力机用了。#小米18# #iPhone18ProMax# #iPhone18Pro#",
+      "tags": [
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
@@ -702,68 +762,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-50b42df97887",
-      "title": "苹果折叠屏开售、荣耀WIN2系列登场、英伟达60系显卡被曝延期、高通陷入裁员与散热争议、一加Ace 7系列定档……本周科技圈，产品迭代的脚步很快，热点话题的更迭似乎更快。",
-      "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-24",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74562749",
-      "image": "",
-      "summary": "苹果折叠屏开售、荣耀WIN2系列登场、英伟达60系显卡被曝延期、高通陷入裁员与散热争议、一加Ace 7系列定档……本周科技圈，产品迭代的脚步很快，热点话题的更迭似乎更快。",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-8d13ddf06a13",
-      "title": "【点评】用了七八年折叠 这世界上没有我没买过的折叠屏 体验duo一天后给出我的最高分",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-24",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74574526",
-      "image": "",
-      "summary": "【点评】用了七八年折叠 这世界上没有我没买过的折叠屏 体验duo一天后给出我的最高分",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-8f9397f43b72",
-      "title": "目前有点纠结这仨手机，有没有老哥给拿拿主意的[喝酒] #荣耀WINRT2#",
-      "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-24",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74551327",
-      "image": "",
-      "summary": "目前有点纠结这仨手机，有没有老哥给拿拿主意的[喝酒] #荣耀WINRT2#",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-16a152c4c9e5",
-      "title": "#Hackios# #ProjectTreble#",
+      "id": "newsnow-8c933aaf1e47",
+      "title": "关于iPhone duo镀膜，其实，我一开始是不相信傻子共振的，现在…",
       "source": "酷安热榜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -772,9 +772,9 @@ window.phoneRadarAuto = {
       "date": "2026-10-24",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74581371",
+      "url": "https://www.coolapk.com/feed/74592653",
       "image": "",
-      "summary": "#Hackios# #ProjectTreble#",
+      "summary": "关于iPhone duo镀膜，其实，我一开始是不相信傻子共振的，现在…",
       "tags": [
         "iPhone",
         "爆料",
@@ -782,7 +782,27 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-9efd556e2a9d",
+      "id": "newsnow-5dcc6ee79449",
+      "title": "在这里为全体X100系列，iqoo12机主发声！",
+      "source": "酷安热榜",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-24",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74592744",
+      "image": "",
+      "summary": "在这里为全体X100系列，iqoo12机主发声！",
+      "tags": [
+        "vivo",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-d49784dca42d",
       "title": "iPhoneDuo破发",
       "source": "微博热搜",
       "brand": "iPhone",
@@ -792,7 +812,7 @@ window.phoneRadarAuto = {
       "date": "2026-10-24",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhoneDuo%E7%A0%B4%E5%8F%91%23&t=31&band_rank=21&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23iPhoneDuo%E7%A0%B4%E5%8F%91%23&t=31&band_rank=23&Refer=top",
       "image": "",
       "summary": "iPhoneDuo破发",
       "tags": [
@@ -817,46 +837,6 @@ window.phoneRadarAuto = {
       "summary": "第一批拿到iPhone Duo的人心态有点崩",
       "tags": [
         "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-e19c137c7948",
-      "title": "上海静安寺对面现iPhone Duo雕塑",
-      "source": "今日头条热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-24",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7699431761780359222/",
-      "image": "",
-      "summary": "上海静安寺对面现iPhone Duo雕塑",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-66ca0fbc1855",
-      "title": "英语阅读题中果园老板手机号是真的",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-24",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E8%AF%AD%E9%98%85%E8%AF%BB%E9%A2%98%E4%B8%AD%E6%9E%9C%E5%9B%AD%E8%80%81%E6%9D%BF%E6%89%8B%E6%9C%BA%E5%8F%B7%E6%98%AF%E7%9C%9F%E7%9A%84",
-      "image": "",
-      "summary": "英语阅读题中果园老板手机号是真的",
-      "tags": [
-        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -963,7 +943,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "auto-03527bb9b16d",
-      "title": "Galaxy S26 Plus gets a $200 surprise discount",
+      "title": "Galaxy S26 Plus gets a surprise discount",
       "source": "Gizmochina",
       "brand": "Samsung",
       "model": "Samsung 相关机型",
@@ -1459,26 +1439,6 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-40a0f8d66ccf",
-      "title": "iQOO Neo 12 camera samples released, battery and charging speed confirmed",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-23",
-      "time": "05:12",
-      "publishedAt": "2026-10-23T05:12:07.000Z",
-      "url": "https://www.gizmochina.com/2026/10/23/iqoo-neo-12-camera-samples-battery-charging-confirmed/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/iqoo-neo-12-camera-sample-featured-300x169.jpg?x62950",
-      "summary": "iQOO has shared official Neo 12 camera samples from its 50-megapixel Sony IMX921 main camera and confirmed a 9,000mAh battery with 100W wired charging ahead of the October 28 laun…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
