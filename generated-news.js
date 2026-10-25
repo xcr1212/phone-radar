@@ -1,6 +1,106 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-25T19:05:10.944Z",
+  "updatedAt": "2026-10-25T22:32:20.320Z",
   "news": [
+    {
+      "id": "auto-30c4f8071ac7",
+      "title": "iPhone Duo Can Run Automations When You Open or Close It",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-25",
+      "time": "22:26",
+      "publishedAt": "2026-10-25T22:26:58.000Z",
+      "url": "https://www.macrumors.com/2026/10/25/iphone-duo-automation-opened-or-closed/",
+      "image": "https://images.macrumors.com/article-new/2026/10/duo-opened-closed-automation.jpeg",
+      "summary": "The iPhone Duo includes a new Shortcuts automation trigger that runs actions when the device is opened or closed. YouTuber Stephen Robles highlighted the trigger, which is called…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-320a66b4a1c9",
+      "title": "Adjust iPhone Duo's Outer Display to Accommodate Your Case",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-25",
+      "time": "22:00",
+      "publishedAt": "2026-10-25T22:00:02.000Z",
+      "url": "https://www.macrumors.com/how-to/iphone-duo-setting-makes-room-for-case/",
+      "image": "https://images.macrumors.com/article-new/2026/09/shift-left-edge-iphone-duo@2x-scaled.jpg",
+      "summary": "On iPhone Duo, Apple includes a display setting for cases or frames that partially cover the left edge of the outer display. It's called Shift Left Edge, and it insets the display…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-da114e8ce7c5",
+      "title": "iFixit’s look inside the iPhone Duo may explain those broken screens and hinges",
+      "source": "The Verge",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-25",
+      "time": "21:40",
+      "publishedAt": "2026-10-25T21:40:27.000Z",
+      "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iPhone-Duo-layout01.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b77e72f00b20",
+      "title": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate",
+      "source": "The Verge",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-25",
+      "time": "20:16",
+      "publishedAt": "2026-10-25T20:16:19.000Z",
+      "url": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/20ruxzn728xh1.jpeg?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "Social media and the iPhone Duo subreddit are filled with reports of Apple's foldable failing quickly and in spectacular fashion. Some users report having the phone for only a few…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fda5baaeb391",
+      "title": "iPhone Duo is already discounted in parts of China amid software and display issues",
+      "source": "Gizmochina",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-25",
+      "time": "19:14",
+      "publishedAt": "2026-10-25T19:14:41.000Z",
+      "url": "https://www.gizmochina.com/2026/10/25/iphone-duo-is-already-discounted-in-parts-of-china-amid-software-and-display-issues/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/iphone-duo-finish-select-202609-starwhite_AV4_GEO_IN-1-300x169.webp?x62950",
+      "summary": "Apple’s first foldable, the iPhone Duo, went from launch-day hype and markups to actual discounts surprisingly fast in some Chinese channels. User reports and platform listings sh…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-34675f3c2597",
       "title": "iPhone Duo “Reachability” feature for left-hand use tipped in new leak",
@@ -111,7 +211,7 @@ window.phoneRadarAuto = {
       "trust": "媒体汇总",
       "date": "2026-10-25",
       "time": "15:18",
-      "publishedAt": "2026-10-25T15:18:08.000Z",
+      "publishedAt": "2026-10-25T15:18:04.000Z",
       "url": "https://www.macrumors.com/2026/10/25/apple-stores-anti-theft-iphone-box-checker/",
       "image": "https://images.macrumors.com/article-new/2025/01/2024-iPhone-Boxes-Feature.jpg",
       "summary": "Bloomberg 's Mark Gurman today reported that Apple is facing a growing problem where some people will buy iPhones or other products and either remove accessories from the box, ope…",
@@ -642,6 +742,46 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-76e7c10e7ced",
+      "title": "手机全面涨价以后，销量更加向头部两家靠拢，安卓阵营的寒冬要来了。",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-25",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74606452",
+      "image": "",
+      "summary": "手机全面涨价以后，销量更加向头部两家靠拢，安卓阵营的寒冬要来了。",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-ed470c53d16f",
+      "title": "那些整天嚷嚷着iPhone duo撕掉内屏膜的人，建议看一下专业人士科普的视频[受虐滑稽][受虐滑稽][受虐滑稽]",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-25",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74608673",
+      "image": "",
+      "summary": "那些整天嚷嚷着iPhone duo撕掉内屏膜的人，建议看一下专业人士科普的视频[受虐滑稽][受虐滑稽][受虐滑稽]",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-5edca8b69396",
       "title": "不知道从什么时候开始，我对新 iPhone 已经没有以前那么大的期待了",
       "source": "酷安热榜",
@@ -662,28 +802,28 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-69d5fc65c8cf",
-      "title": "美版当wifi机太香了，手上小米18Promax开热点网络信号很好，热点机也不发烫。苹果真的WiFi下续航无敌现在已经把18Pro当主力机用了。#小米18# #iPhone18ProMax# #iPhone18Pro#",
+      "id": "newsnow-a7956471e274",
+      "title": "vivo X100系列，这次相机更新，全系被蓝厂放弃🙃",
       "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-25",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74581337",
+      "url": "https://www.coolapk.com/feed/74595790",
       "image": "",
-      "summary": "美版当wifi机太香了，手上小米18Promax开热点网络信号很好，热点机也不发烫。苹果真的WiFi下续航无敌现在已经把18Pro当主力机用了。#小米18# #iPhone18ProMax# #iPhone18Pro#",
+      "summary": "vivo X100系列，这次相机更新，全系被蓝厂放弃🙃",
       "tags": [
-        "Xiaomi",
+        "vivo",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-daa99a6dd7aa",
-      "title": "尊敬的酷安iPhone Duo机主，谁装了我们最新iOS TF版的，能不能截图让我看看初步适配了iPhone Duo的酷安是啥样的，很好奇。",
+      "id": "newsnow-4172d8830434",
+      "title": "因为被裁员，今天不用上班，想到iPhone duo今天可以去店里体验了，便驱我的九号电动车，披着崭新的挡风被去往西单Apple体验一波。",
       "source": "酷安热榜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -692,9 +832,9 @@ window.phoneRadarAuto = {
       "date": "2026-10-25",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74574455",
+      "url": "https://www.coolapk.com/feed/74554749",
       "image": "",
-      "summary": "尊敬的酷安iPhone Duo机主，谁装了我们最新iOS TF版的，能不能截图让我看看初步适配了iPhone Duo的酷安是啥样的，很好奇。",
+      "summary": "因为被裁员，今天不用上班，想到iPhone duo今天可以去店里体验了，便驱我的九号电动车，披着崭新的挡风被去往西单Apple体验一波。",
       "tags": [
         "iPhone",
         "爆料",
@@ -702,21 +842,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-7069b7d9c5dc",
-      "title": "中国联通安排驻店员协助 iPhone Duo 用户开通eSIM",
+      "id": "newsnow-4dc961e00d5f",
+      "title": "iQOO11 16+512于10月17号晚上暴毙",
       "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-25",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74583888",
+      "url": "https://www.coolapk.com/feed/74587020",
       "image": "",
-      "summary": "中国联通安排驻店员协助 iPhone Duo 用户开通eSIM",
+      "summary": "iQOO11 16+512于10月17号晚上暴毙",
       "tags": [
-        "iPhone",
+        "vivo",
         "爆料",
         "NewsNow"
       ]
@@ -737,6 +877,26 @@ window.phoneRadarAuto = {
       "summary": "iPhone Duo开售2天就跌破官方首发价",
       "tags": [
         "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-824c5de649eb",
+      "title": "巴西总统卢拉为何开始使用智能手机",
+      "source": "今日头条热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-25",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7700437060892495401/",
+      "image": "",
+      "summary": "巴西总统卢拉为何开始使用智能手机",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -975,26 +1135,6 @@ window.phoneRadarAuto = {
       "url": "https://www.gizmochina.com/2026/10/24/iphone-18-pro-vs-iphone-16-pro/",
       "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/image-73-300x160.png?x62950",
       "summary": "iPhone 18 Pro and iPhone 16 Pro represent two generations of Apple’s premium smartphone lineup, but the newer model brings more than a routine processor upgrade. Improvements to c…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-75a4fa274339",
-      "title": "What to expect from Apple’s ‘Pro and tell’ event",
-      "source": "The Verge",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-24",
-      "time": "14:13",
-      "publishedAt": "2026-10-24T14:13:02.000Z",
-      "url": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/pro-and-tell.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "It feels like Apple's Welcome Home event just happened. And the iPhone Duo announcement isn't all that far in our rearview mirror, either. Yet, the company is back with another la…",
       "tags": [
         "iPhone",
         "爆料",

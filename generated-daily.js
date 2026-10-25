@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-10-25T19:05:10.944Z",
+  "updatedAt": "2026-10-25T22:32:20.320Z",
   "issueDate": "2026-10-25",
   "issue": "VOL.261025",
   "title": "手机情报日报",
@@ -64,25 +64,46 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-34675f3c2597",
+          "id": "auto-30c4f8071ac7",
           "title": "iPhone 相关消息",
           "originalTitle": "",
-          "source": "Gizmochina",
+          "source": "MacRumors",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-10-25",
-          "time": "18:40",
-          "publishedAt": "2026-10-25T18:40:07.000Z",
-          "url": "https://www.gizmochina.com/2026/10/25/iphone-duo-reachability-feature-for-left-hand-use-tipped-in-new-leak/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/videoframe_0-1-300x169.png?x62950",
+          "time": "22:26",
+          "publishedAt": "2026-10-25T22:26:58.000Z",
+          "url": "https://www.macrumors.com/2026/10/25/iphone-duo-automation-opened-or-closed/",
+          "image": "https://images.macrumors.com/article-new/2026/10/duo-opened-closed-automation.jpeg",
           "verdict": "先看",
           "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
           "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "屏幕形态",
-            "爆料来源"
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-320a66b4a1c9",
+          "title": "iPhone 屏幕规格相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-25",
+          "time": "22:00",
+          "publishedAt": "2026-10-25T22:00:02.000Z",
+          "url": "https://www.macrumors.com/how-to/iphone-duo-setting-makes-room-for-case/",
+          "image": "https://images.macrumors.com/article-new/2026/09/shift-left-edge-iphone-duo@2x-scaled.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 屏幕规格相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "屏幕形态"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -98,7 +119,7 @@ window.phoneRadarDaily = {
           "trust": "媒体汇总",
           "date": "2026-10-25",
           "time": "15:18",
-          "publishedAt": "2026-10-25T15:18:08.000Z",
+          "publishedAt": "2026-10-25T15:18:04.000Z",
           "url": "https://www.macrumors.com/2026/10/25/apple-stores-anti-theft-iphone-box-checker/",
           "image": "https://images.macrumors.com/article-new/2025/01/2024-iPhone-Boxes-Feature.jpg",
           "verdict": "先看",
@@ -175,29 +196,6 @@ window.phoneRadarDaily = {
           "detail": "郑州小哥因为网卡抢到两台苹果折叠屏",
           "keyPoints": [
             "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-e80326e57f1d",
-          "title": "iPhone 系统功能 / AI 体验相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-24",
-          "time": "18:27",
-          "publishedAt": "2026-10-24T18:27:42.000Z",
-          "url": "https://www.macrumors.com/2026/10/24/iphone-duo-fails-jerryrigeverything-test/",
-          "image": "https://images.macrumors.com/article-new/2026/10/jerryrigeverything-iphone-duo-dust.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
-          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
