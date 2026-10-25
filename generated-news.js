@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-25T16:16:15.854Z",
+  "updatedAt": "2026-10-25T19:05:10.944Z",
   "news": [
+    {
+      "id": "auto-34675f3c2597",
+      "title": "iPhone Duo “Reachability” feature for left-hand use tipped in new leak",
+      "source": "Gizmochina",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-25",
+      "time": "18:40",
+      "publishedAt": "2026-10-25T18:40:07.000Z",
+      "url": "https://www.gizmochina.com/2026/10/25/iphone-duo-reachability-feature-for-left-hand-use-tipped-in-new-leak/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/videoframe_0-1-300x169.png?x62950",
+      "summary": "Apple’s first foldable, the iPhone Duo, has people talking about more than just the dual-screen design. How you actually hold and use the thing day to day matters a lot, and Bloom…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7384b40dd1b3",
+      "title": "Exynos 2700 scores 15-20% higher than Snapdragon 8EE Gen 6 inside a Xiaomi 18 Pro Max in Geekbench tests",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-25",
+      "time": "17:20",
+      "publishedAt": "2026-10-25T17:20:43.000Z",
+      "url": "https://www.gizmochina.com/2026/10/25/exynos-2700-scores-15-20-higher-than-snapdragon-8ee-gen-6-inside-a-xiaomi-18-pro-max-in-geekbench-tests/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Exynos-2700-300x169.png?x62950",
+      "summary": "Samsung is getting the Galaxy S27 series ready for an early 2027 launch, and the early numbers on its in-house Exynos 2700 are looking pretty interesting. According to a report fr…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-089c314b2c63",
+      "title": "Exynos 2700 has smoked the Snapdragon 8 Elite Extreme Gen 6 in tests, report says",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-25",
+      "time": "16:29",
+      "publishedAt": "2026-10-25T16:29:33.000Z",
+      "url": "https://www.sammobile.com/news/exynos-2700-has-smoked-the-snapdragon-8-elite-extreme-gen-6-in-tests-report-says/",
+      "image": "",
+      "summary": "Samsung will reportedly use the Exynos 2700 in all models of the Galaxy S27 series except the Galaxy S27 Utra, which is expected to use the latest Snapdragon chip exclusively. A n…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-170b443ef732",
       "title": "BenQ PV3250U launches in India as a 4K reference monitor for colorists",
@@ -682,8 +742,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-d5a7b3170aba",
-      "title": "iPhone Duo 2 提前曝光",
+      "id": "newsnow-85d1eed26626",
+      "title": "郑州小哥因为网卡抢到两台苹果折叠屏",
       "source": "百度热搜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -692,9 +752,9 @@ window.phoneRadarAuto = {
       "date": "2026-10-25",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=iPhone+Duo+2+%E6%8F%90%E5%89%8D%E6%9B%9D%E5%85%89",
+      "url": "https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E5%B0%8F%E5%93%A5%E5%9B%A0%E4%B8%BA%E7%BD%91%E5%8D%A1%E6%8A%A2%E5%88%B0%E4%B8%A4%E5%8F%B0%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8F",
       "image": "",
-      "summary": "iPhone Duo 2 提前曝光",
+      "summary": "郑州小哥因为网卡抢到两台苹果折叠屏",
       "tags": [
         "iPhone",
         "爆料",
@@ -877,26 +937,6 @@ window.phoneRadarAuto = {
       "summary": "iQOO confirmed the launch date for the iQOO Neo 12 last week, as we reported at the time. The phone will launch in China on October 28 at 7 PM local time, with sales starting the…",
       "tags": [
         "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1c5d99c05999",
-      "title": "Grab the Pixel 11 with a year of unlimited service for just $579",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-24",
-      "time": "15:28",
-      "publishedAt": "2026-10-24T15:28:02.000Z",
-      "url": "https://www.androidpolice.com/pixel-11-for-579-you-cant-beat/",
-      "image": "",
-      "summary": "Mint Mobile makes it cheaper",
-      "tags": [
-        "Pixel",
         "爆料",
         "自动抓取"
       ]
