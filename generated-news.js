@@ -1,6 +1,266 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-25T11:25:37.094Z",
+  "updatedAt": "2026-10-25T16:16:15.854Z",
   "news": [
+    {
+      "id": "auto-170b443ef732",
+      "title": "BenQ PV3250U launches in India as a 4K reference monitor for colorists",
+      "source": "Gizmochina",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-25",
+      "time": "15:55",
+      "publishedAt": "2026-10-25T15:55:13.000Z",
+      "url": "https://www.gizmochina.com/2026/10/25/benq-pv3250u-launch-india-price/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/image-74-300x183.png?x62950",
+      "summary": "BenQ has launched its new Creative Pro PV3250U monitor in India, unveiling it at Broadcast India 2026. The display targets colorists, video editors, and post-production studios th…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f49fbd99adeb",
+      "title": "Bought a Samsung foldable? Make sure double tap to wake is on",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-25",
+      "time": "15:22",
+      "publishedAt": "2026-10-25T15:22:38.000Z",
+      "url": "https://www.sammobile.com/news/bought-a-samsung-foldable-make-sure-double-tap-to-wake-is-on/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/10/Screenshot_20261025_170910_Settings.jpg",
+      "summary": "One thing you'll have to get used to after you switch to a Samsung Galaxy Z foldable phone is the fingerprint scanner's location. Unlike most other Galaxy phones, which have in-di…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2de4ab6c09a7",
+      "title": "Apple Stores Reportedly Rolling Out New Anti-Theft System for iPhones",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-25",
+      "time": "15:18",
+      "publishedAt": "2026-10-25T15:18:08.000Z",
+      "url": "https://www.macrumors.com/2026/10/25/apple-stores-anti-theft-iphone-box-checker/",
+      "image": "https://images.macrumors.com/article-new/2025/01/2024-iPhone-Boxes-Feature.jpg",
+      "summary": "Bloomberg 's Mark Gurman today reported that Apple is facing a growing problem where some people will buy iPhones or other products and either remove accessories from the box, ope…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-96513ecbc596",
+      "title": "古尔曼：苹果正为 iPhone Duo 开发全新“便捷访问”模式，方便左撇子用户根据持机习惯调整界面",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-25",
+      "time": "14:46",
+      "publishedAt": "2026-10-25T14:46:51.000Z",
+      "url": "https://www.ithome.com/1/017/713.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/4e816fbd-4698-4ce1-8672-acc10acd2cb1.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 25 日消息，彭博社记者马克・古尔曼发文，透露苹果正在为 iPhone Duo 开发新的“便捷访问”（Reachability）模式，可以将外屏“主要内容”移动至左侧或右侧，方便用户根据自己的持机习惯调整界面。 IT之家获悉，此前有不少用户吐槽左撇子用户难以操作 iPhone Duo，不过古尔曼指出，相关担忧可能被夸大。一些左撇子用户表…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-29603fa3b15b",
+      "title": "遏制退货欺诈：苹果开发新型检测设备，可帮助 Apple Store 员工扫描密封包装盒内 iPhone 完整性",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-25",
+      "time": "14:43",
+      "publishedAt": "2026-10-25T14:43:06.000Z",
+      "url": "https://www.ithome.com/1/017/712.htm",
+      "image": "",
+      "summary": "IT之家 10 月 25 日消息，彭博社记者马克・古尔曼发文，透露苹果 Apple Store 零售门店近年来面临一种棘手问题：部分顾客购买 iPhone 或其他产品后，会将包装盒里的设备拿走，再利用配重块调整包装重量，之后将其后封伪装成“未开封”产品进行退款。 为了应对这一问题，苹果曾要求零售店员工仔细检查退货商品，即使包装看起来没有被动过的痕迹，也需要…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-56aa6e57a836",
+      "title": "华为鸿蒙 HarmonyOS 7.0.0.111 版本更多“隐藏”新特性盘点，深色模式随日出日落切换等功能下放",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-25",
+      "time": "14:23",
+      "publishedAt": "2026-10-25T14:23:17.000Z",
+      "url": "https://www.ithome.com/1/017/707.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2024/4/78a28ec9-2c30-494f-a686-53ac51854d85.jpg?x-bce-process=image/resize,w_1920,h_1281/format,f_auto",
+      "summary": "IT之家 10 月 25 日消息，华为近两日面向 Mate 80 / 70 / 60、Pura 80 / 70 等系列机型推送了最新的鸿蒙 HarmonyOS 7.0.0.111 版本升级，带来了与 iPhone 双机互联，实况窗分享等功能。 ▲ IT之家开箱：华为 Pura 70 Pro+「光织银」图赏 更新日志并未公开全部升级亮点，IT之家盘点上述机型…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1a563a8153e4",
+      "title": "iPhone Duo Nano Texture is getting roasted and Samsung brought the matches",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-25",
+      "time": "14:11",
+      "publishedAt": "2026-10-25T14:11:08.000Z",
+      "url": "https://www.sammobile.com/news/iphone-duo-nano-texture-getting-roasted-samsung-brought-the-matches/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f60e.png",
+      "summary": "It wasn't easy for Apple to enter the foldable market eight years late and prove it had good reasons to avoid it all this time. Apple went above and beyond to make the iPhone Duo…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0dfa9b231439",
+      "title": "苹果发布 iPhone Duo 支持文档，帮助用户排查铰链和屏幕问题",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-25",
+      "time": "13:56",
+      "publishedAt": "2026-10-25T13:56:51.000Z",
+      "url": "https://www.ithome.com/1/017/701.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/2e1789b0-cb89-4249-bfe0-6d75e151fe00.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 25 日消息，苹果现已为 iPhone Duo 折叠屏手机发布一批支持文档，其中最值得关注的是排除铰链故障指南。如果您手上的 iPhone Duo 开合时发出异常声响，或是无法正常合上，不妨参考这份指南。 苹果这份指南中列明，用户需留意 iPhone Duo 无法完全打开或关闭、折叠时发出异常声音，以及铰链松动等情况。苹果建议用户先取下…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e78f7a01a4df",
+      "title": "Vivo X500 Ultra’s global launch confirmed as model numbers emerge",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-25",
+      "time": "13:37",
+      "publishedAt": "2026-10-25T13:37:06.000Z",
+      "url": "https://www.gizmochina.com/2026/10/25/vivo-x500-ultras-global-launch-confirmed-as-model-numbers-emerge/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/03/Vivo-X300-Utlra-featured-300x190.png?x62950",
+      "summary": "Vivo‘s rumored imaging flagship is no longer looking like a China-only plan. Fresh IMEI database listings point to a global Vivo X500 Ultra variant, alongside a Brazil-bound Jovi…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-d9482e12947d",
+      "title": "竹本青：【小米第一代员工住宅「光谷梦享家」今日开盘：四栋297套，三种户型】 10月25日，小米第一代员工住宅项目「光谷梦…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-25",
+      "time": "12:55",
+      "publishedAt": "2026-10-25T12:55:35.000Z",
+      "url": "https://www.coolapk.com/feed/74612717",
+      "image": "http://image.coolapk.com/feed/2026/1025/20/4248714_9b99cf9c_2931_3356_455@2260x1272.jpg",
+      "summary": "【小米第一代员工住宅「光谷梦享家」今日开盘：四栋297套，三种户型】 10月25日，小米第一代员工住宅项目「光谷梦享家」正式开盘。 据小米高管陈波介绍，「光谷梦享家」位于武汉光谷，距小米武汉科技园约700米，是武汉首个面向小米员工打造的定制化住宅，销售对象限定为小米集团正式员工。 项目总建筑面积约5.7万平方米，共建4栋住宅楼（3栋18层、1栋33层），共…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-73f75c5fdf41",
+      "title": "vivo X500 Ultra 国际版现身数据库，预计明年 3-4 月国内发布",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-25",
+      "time": "12:43",
+      "publishedAt": "2026-10-25T12:43:53.000Z",
+      "url": "https://www.ithome.com/1/017/687.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/4ea0475c-807f-46a0-ae57-e8c9c5e1033c.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 25 日消息，vivo X500 Ultra 国际版于 10 月 23 日现身 GSMA IMEI 数据库，型号 V2660，这款影像超大杯新品预计将在全球市场上市。 IT之家注意到， vivo X500 系列手机已于 9 月 21 日正式发布，首发带来标准版、Pro 版、Pro Max 版，全球首发天玑 9600 Pro /天玑 96…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-854e81d29684",
+      "title": "华为 Mate60 等机型迎来鸿蒙 HarmonyOS 7.0.0.111 SP10 版本更新，通信共享升级为多人互助通信共享",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-25",
+      "time": "11:56",
+      "publishedAt": "2026-10-25T11:56:29.000Z",
+      "url": "https://www.ithome.com/1/017/679.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2023/9/59adb3cf-3469-4872-aa01-7fa2fd262cf9.jpg",
+      "summary": "IT之家 10 月 25 日消息，今日，华为 Mate60 等机型迎来鸿蒙 HarmonyOS 7.0.0.111 SP10 版本更新，安装包体积为 3.03GB。本次更新通信共享升级为多人互助通信共享，同时支持通过 iPhone 的“鸿蒙星河互联”应用与 iPhone 互联。 ▲ IT之家开箱：华为 Mate60 Pro+「宣白」图赏 IT之家整理主要内…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-5445ada07548",
+      "title": "竹本青：🍬老板给了个制糖小电拼Mirror Pro，我是第1次用，感觉这产品确实和常规大厂做的有很大区别 软件控制的东西…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-25",
+      "time": "11:52",
+      "publishedAt": "2026-10-25T11:52:07.000Z",
+      "url": "https://www.coolapk.com/feed/74611373",
+      "image": "http://image.coolapk.com/feed/2026/1025/19/4248714_d46d477e_9120_1226_230-livepic@3840x2160.jpg",
+      "summary": "🍬老板给了个制糖小电拼Mirror Pro，我是第1次用，感觉这产品确实和常规大厂做的有很大区别 软件控制的东西非常非常的精细化，包括但不限于：自定义协议（包含小米MIPPS、AVS）， 输出模式（可自定义），充电图谱／电量图谱，实时开关每个接口，预计充满时长，线损补偿，OLED屏幕方向／亮度，端口倒计时／定时，接口识别型号（苹果设备，包括最新的Duo）…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "auto-a192304ea471",
       "title": "Some iPhone Duo displays are cracking, seemingly all in the same way",
@@ -42,86 +302,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-156d5f20e29d",
-      "title": "HMD 新款欧洲版 Fusion 手机规格曝光：升级骁龙 7s Gen 2 芯片、120Hz 刷新率",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-25",
-      "time": "07:56",
-      "publishedAt": "2026-10-25T07:56:40.000Z",
-      "url": "https://www.ithome.com/1/017/621.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/af215003-4fdb-4165-94a7-2bf6488ce525.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 25 日消息，消息源 smashx_60 现已曝光了 HMD 新款欧版 Fusion 手机，该机相对于现款 Fusion 机型主要换用了骁龙 7s Gen 2 芯片，以增强性能。 具体来看，该机将搭载一块 6.56 英寸 FHD+ 120Hz IPS LCD 面板，匹配 50Mp 自拍摄像头；手机背面搭载 108Mp 主摄及 2 Mp…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c4bb5c833c09",
-      "title": "华为 HarmonyOS 7.0.0.111 版本暗藏新特性：“智慧场景服务”上线，集成鸿蒙座舱车辆自动化能力",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-25",
-      "time": "07:40",
-      "publishedAt": "2026-10-25T07:40:53.000Z",
-      "url": "https://www.ithome.com/1/017/617.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/3/0226f36a-4825-4419-a039-2fa19352cea5.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 25 日消息，华为昨日面向 Mate X7、Mate80、Mate70、Pura80 等系列机型 推送了最新的鸿蒙 HarmonyOS 7.0.0.111 SP12 版本升级 ，带来了与 iPhone 双机互联，实况窗分享等功能。 ▲ IT之家开箱：华为 Mate 80 Pro Max 风驰版图赏 IT之家实测发现，新版本还“暗藏”新特…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0fe3fa9a8e0a",
-      "title": "Lava 推出 Aura Curve 手机：曲面屏 + 背部副屏，天玑 7100 芯片",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-25",
-      "time": "07:38",
-      "publishedAt": "2026-10-25T07:38:39.000Z",
-      "url": "https://www.ithome.com/1/017/616.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/d60f522f-1211-414e-b452-5fcad2c8a51f.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 25 日消息，Lava 现已在印度市场推出 Aura Curve 手机。新品采用曲面屏 + 背部副屏的组合配置， 售价 23,999 卢比 （IT之家注：现汇率约合 1,690 元人民币） 。 据介绍，这款手机搭载联发科天玑 7100 处理器，安兔兔跑分超 80 万分，拥有 6GB 内存和 128GB 存储空间。正面配备一块 6.67…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-4d6ce3560a38",
-      "title": "苹果 iPhone Duo 部分区域破发，王腾称相比小米、华为阔折叠手机没有特别领先的地方",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-25",
-      "time": "06:21",
-      "publishedAt": "2026-10-25T06:21:02.000Z",
-      "url": "https://www.ithome.com/1/017/594.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/b4c19bcf-f7b1-4218-83c5-f94a60213da8.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 25 日消息，今日宜休科技公司创始人王腾今日发文，谈及了 iPhone Duo 破发这一话题。他表示： 上手体验了下 iPhone Duo ，整体还是挺精致的， 但相比小米、华为的阔折叠并没有什么特别领先的地方 。 今天依托优秀的工程师团队和强大的产业链资源， 中国的科技团队，在大多数领域都能做出不逊于海外友商，甚至是更好的产品 ，手机…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-8b67ecb75b41",
       "title": "REDMI Book 16 2027 teaser confirms 16-inch numeric keypad",
       "source": "Gizmochina",
@@ -137,46 +317,6 @@ window.phoneRadarAuto = {
       "summary": "Xiaomi is getting ready to refresh its affordable laptop lineup. The REDMI Book 2027 series is set to launch on October 27, and from what we’ve seen so far, it looks like Xiaomi i…",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-21da674c27fe",
-      "title": "苹果 iPhone Duo 在部分区域破发：已加入电商平台“百亿补贴”，相对上市价便宜约 200-300 元",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-25",
-      "time": "06:17",
-      "publishedAt": "2026-10-25T06:17:36.000Z",
-      "url": "https://www.ithome.com/1/017/593.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/7cb106ce-0b1c-495e-abfc-5c3d2e44462d.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 25 日消息，综合各大平台网友反馈，苹果 iPhone Duo 在 国内部分区域 出现“破发”情况，同时当下拼多多已将该机上架百亿补贴频道（ 注：仅部分地区能看到 ），相对于上市价格便宜约 200-300 元。 虽然苹果 iPhone Duo 首发日被加价到 1500-2000 元，然而该机在发售 2 天后的当下就迎来了“破发”局面。尽…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1f8ff76c9c95",
-      "title": "一加 Ace 7 系列设计细节公布：星际光效呼吸灯、隐藏式进风口等，新机 10 月 29 日发布",
-      "source": "IT之家",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-25",
-      "time": "05:56",
-      "publishedAt": "2026-10-25T05:56:21.000Z",
-      "url": "https://www.ithome.com/1/017/589.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/a766885c-420c-4255-989b-e67589a9951c.jpg",
-      "summary": "IT之家 10 月 25 日消息，一加中国区总裁李杰今日发布视频，展示了一加 Ace 7 系列手机全新配色 ——「破风」和「淬火」的外观。 视频画面显示，一加 Ace 7 系列手机的这两款配色采用特殊纹理设计。「破风」为一加 Ace 7 Pro 的配色，整体呈冰蓝色，背部印有冲击感较强的“Ace”图标。根据官方介绍，该机采用质感金属中框 + 旗舰大 R 角…",
-      "tags": [
-        "OPPO",
         "爆料",
         "自动抓取"
       ]
@@ -422,26 +562,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-5edca8b69396",
-      "title": "不知道从什么时候开始，我对新 iPhone 已经没有以前那么大的期待了",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-25",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74573212",
-      "image": "",
-      "summary": "不知道从什么时候开始，我对新 iPhone 已经没有以前那么大的期待了",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-51fca855d7c4",
       "title": "以前只喜欢小屏手机，大家可以看我历史机型都是小屏机，后来发现工作生活当中需要大屏幕的时候太多了，就换了6.9的17max，才发现6.9的权威，8000电池的震撼，原谅我没用过续航这么好的手机 #HyperOS3# #小米15# #HyperOS4#",
       "source": "酷安热榜",
@@ -457,6 +577,26 @@ window.phoneRadarAuto = {
       "summary": "以前只喜欢小屏手机，大家可以看我历史机型都是小屏机，后来发现工作生活当中需要大屏幕的时候太多了，就换了6.9的17max，才发现6.9的权威，8000电池的震撼，原谅我没用过续航这么好的手机 #HyperOS3# #小米15# #HyperOS4#",
       "tags": [
         "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-5edca8b69396",
+      "title": "不知道从什么时候开始，我对新 iPhone 已经没有以前那么大的期待了",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-25",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74573212",
+      "image": "",
+      "summary": "不知道从什么时候开始，我对新 iPhone 已经没有以前那么大的期待了",
+      "tags": [
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -515,6 +655,66 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/74583888",
       "image": "",
       "summary": "中国联通安排驻店员协助 iPhone Duo 用户开通eSIM",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-40a086e0336d",
+      "title": "iPhone Duo开售2天就跌破官方首发价",
+      "source": "今日头条热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-25",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7700592660213403187/",
+      "image": "",
+      "summary": "iPhone Duo开售2天就跌破官方首发价",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-d5a7b3170aba",
+      "title": "iPhone Duo 2 提前曝光",
+      "source": "百度热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-25",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=iPhone+Duo+2+%E6%8F%90%E5%89%8D%E6%9B%9D%E5%85%89",
+      "image": "",
+      "summary": "iPhone Duo 2 提前曝光",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-a1c42cf36d2b",
+      "title": "iPhone Duo防尘测试翻车",
+      "source": "抖音热点",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-10-25",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.douyin.com/hot/2712819",
+      "image": "",
+      "summary": "iPhone Duo防尘测试翻车",
       "tags": [
         "iPhone",
         "爆料",
