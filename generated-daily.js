@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-10-25T04:38:57.838Z",
+  "updatedAt": "2026-10-25T11:25:37.094Z",
   "issueDate": "2026-10-25",
   "issue": "VOL.261025",
   "title": "手机情报日报",
-  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 11 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 10 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
     "total": 11,
-    "iphone": 11,
+    "iphone": 10,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -41,23 +41,46 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-03612d435909",
-          "title": "苹果 iPhone Duo 耐用性测试：反向弯折内屏开裂",
+          "id": "auto-1f8ff76c9c95",
+          "title": "一加 Ace 7 系列设计细节公布：星际光效呼吸灯、隐藏式进风口等，新机 10 月 29 日发布",
           "originalTitle": "",
           "source": "IT之家",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-25",
+          "time": "05:56",
+          "publishedAt": "2026-10-25T05:56:21.000Z",
+          "url": "https://www.ithome.com/1/017/589.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/a766885c-420c-4255-989b-e67589a9951c.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 10 月 25 日消息，一加中国区总裁李杰今日发布视频，展示了一加 Ace 7 系列手机全新配色 ——「破风」和「淬火」的外观。 视频画面显示，一加 Ace 7 系列手机的这两款配色采用特殊纹理设计。「破风」为一加 Ace 7 Pro 的配色，整体呈冰蓝色，背部印有冲击感较强的“Ace”图标。根据官方介绍，该机采用质感金属中框 + 旗舰大 R 角…",
+          "detail": "IT之家 10 月 25 日消息，一加中国区总裁李杰今日发布视频，展示了一加 Ace 7 系列手机全新配色 ——「破风」和「淬火」的外观。 视频画面显示，一加 Ace 7 系列手机的这两款配色采用特殊纹理设计。「破风」为一加 Ace 7 Pro 的配色，整体呈冰蓝色，背部印有冲击感较强的“Ace”图标。根据官方介绍，该机采用质感金属中框 + 旗舰大 R 角…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-cc5fb15ee09e",
+          "title": "iPhone 芯片 / 性能相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-10-25",
-          "time": "01:05",
-          "publishedAt": "2026-10-25T01:05:42.000Z",
-          "url": "https://www.ithome.com/1/017/545.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/721138e6-478c-41f0-b17e-734a20ed3bd3.jpg?x-bce-process=image/format,f_auto",
+          "time": "04:58",
+          "publishedAt": "2026-10-25T04:58:09.000Z",
+          "url": "https://www.macrumors.com/2026/10/25/apple-wants-to-fix-safari-on-iphone-duo/",
+          "image": "https://images.macrumors.com/article-new/2026/10/safari-iphone-duo-webkit.jpg",
           "verdict": "先看",
-          "takeaway": "IT之家 10 月 25 日消息，千万别坐到展开状态下的 iPhone Duo 上，这条忠告来自这款苹果折叠新机开售第二天的实测。科技测评博主扎克 · 尼尔森在 YouTube 频道 JerryRigEverything 放出了该机的整机耐用性测试视频，测试了这款手机的抗刮性能与抗弯折能力。 IT之家注意到，博主全程语气平稳克制，但看着他一步步把这台新机折…",
-          "detail": "IT之家 10 月 25 日消息，千万别坐到展开状态下的 iPhone Duo 上，这条忠告来自这款苹果折叠新机开售第二天的实测。科技测评博主扎克 · 尼尔森在 YouTube 频道 JerryRigEverything 放出了该机的整机耐用性测试视频，测试了这款手机的抗刮性能与抗弯折能力。 IT之家注意到，博主全程语气平稳克制，但看着他一步步把这台新机折…",
+          "takeaway": "iPhone 芯片 / 性能相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "爆料"
+            "屏幕形态"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -81,29 +104,6 @@ window.phoneRadarDaily = {
           "detail": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
           "keyPoints": [
             "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-8f4b3b59abf7",
-          "title": "苹果首款折叠屏手机口碑为何翻车",
-          "originalTitle": "",
-          "source": "今日头条热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-25",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.toutiao.com/trending/7700444360927612459/",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "苹果首款折叠屏手机口碑为何翻车",
-          "detail": "苹果首款折叠屏手机口碑为何翻车",
-          "keyPoints": [
-            "屏幕形态"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -210,6 +210,29 @@ window.phoneRadarDaily = {
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
         {
+          "id": "auto-21da674c27fe",
+          "title": "苹果 iPhone Duo 在部分区域破发：已加入电商平台“百亿补贴”，相对上市价便宜约 200-300 元",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-25",
+          "time": "06:17",
+          "publishedAt": "2026-10-25T06:17:36.000Z",
+          "url": "https://www.ithome.com/1/017/593.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/7cb106ce-0b1c-495e-abfc-5c3d2e44462d.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 10 月 25 日消息，综合各大平台网友反馈，苹果 iPhone Duo 在 国内部分区域 出现“破发”情况，同时当下拼多多已将该机上架百亿补贴频道（ 注：仅部分地区能看到 ），相对于上市价格便宜约 200-300 元。 虽然苹果 iPhone Duo 首发日被加价到 1500-2000 元，然而该机在发售 2 天后的当下就迎来了“破发”局面。尽…",
+          "detail": "IT之家 10 月 25 日消息，综合各大平台网友反馈，苹果 iPhone Duo 在 国内部分区域 出现“破发”情况，同时当下拼多多已将该机上架百亿补贴频道（ 注：仅部分地区能看到 ），相对于上市价格便宜约 200-300 元。 虽然苹果 iPhone Duo 首发日被加价到 1500-2000 元，然而该机在发售 2 天后的当下就迎来了“破发”局面。尽…",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响购买预算，值得先看。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
           "id": "newsnow-5edca8b69396",
           "title": "不知道从什么时候开始，我对新 iPhone 已经没有以前那么大的期待了",
           "originalTitle": "",
@@ -248,29 +271,6 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "尊敬的酷安iPhone Duo机主，谁装了我们最新iOS TF版的，能不能截图让我看看初步适配了iPhone Duo的酷安是啥样的，很好奇。",
           "detail": "尊敬的酷安iPhone Duo机主，谁装了我们最新iOS TF版的，能不能截图让我看看初步适配了iPhone Duo的酷安是啥样的，很好奇。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-4172d8830434",
-          "title": "因为被裁员，今天不用上班，想到iPhone duo今天可以去店里体验了，便驱我的九号电动车，披着崭新的挡风被去往西单Apple体验一波。",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-10-25",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/74554749",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "因为被裁员，今天不用上班，想到iPhone duo今天可以去店里体验了，便驱我的九号电动车，披着崭新的挡风被去往西单Apple体验一波。",
-          "detail": "因为被裁员，今天不用上班，想到iPhone duo今天可以去店里体验了，便驱我的九号电动车，披着崭新的挡风被去往西单Apple体验一波。",
           "keyPoints": [
             "爆料"
           ],

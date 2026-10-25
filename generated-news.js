@@ -1,20 +1,140 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-25T04:38:57.838Z",
+  "updatedAt": "2026-10-25T11:25:37.094Z",
   "news": [
     {
-      "id": "auto-03c3446dfd99",
-      "title": "卢伟冰再谈小米 18 Fold 手机折痕：采用新一代折叠架构，平均深度 ≤30μm",
+      "id": "auto-a192304ea471",
+      "title": "Some iPhone Duo displays are cracking, seemingly all in the same way",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-25",
+      "time": "10:45",
+      "publishedAt": "2026-10-25T10:45:33.000Z",
+      "url": "https://9to5mac.com/2026/10/25/iphone-duo-displays-cracking/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-display-crack-issue.jpg?quality=82&strip=all&w=1500",
+      "summary": "Following the iPhone Duo launch on Friday, a number of owners are reporting that their inner screens have cracked and broken on their own (top image via scary_duck23 on Reddit ).…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4728e48caa1c",
+      "title": "Which phone has the best portrait camera mode? I tested the big three to find out",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-25",
+      "time": "10:30",
+      "publishedAt": "2026-10-25T10:30:56.000Z",
+      "url": "https://www.androidauthority.com/best-portrait-camera-mode-3726046/",
+      "image": "",
+      "summary": "Let's find out whether Galaxy, iPhone, or Pixel has the best portrait quality and features.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-156d5f20e29d",
+      "title": "HMD 新款欧洲版 Fusion 手机规格曝光：升级骁龙 7s Gen 2 芯片、120Hz 刷新率",
       "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-25",
+      "time": "07:56",
+      "publishedAt": "2026-10-25T07:56:40.000Z",
+      "url": "https://www.ithome.com/1/017/621.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/af215003-4fdb-4165-94a7-2bf6488ce525.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 25 日消息，消息源 smashx_60 现已曝光了 HMD 新款欧版 Fusion 手机，该机相对于现款 Fusion 机型主要换用了骁龙 7s Gen 2 芯片，以增强性能。 具体来看，该机将搭载一块 6.56 英寸 FHD+ 120Hz IPS LCD 面板，匹配 50Mp 自拍摄像头；手机背面搭载 108Mp 主摄及 2 Mp…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c4bb5c833c09",
+      "title": "华为 HarmonyOS 7.0.0.111 版本暗藏新特性：“智慧场景服务”上线，集成鸿蒙座舱车辆自动化能力",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-25",
+      "time": "07:40",
+      "publishedAt": "2026-10-25T07:40:53.000Z",
+      "url": "https://www.ithome.com/1/017/617.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/3/0226f36a-4825-4419-a039-2fa19352cea5.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 25 日消息，华为昨日面向 Mate X7、Mate80、Mate70、Pura80 等系列机型 推送了最新的鸿蒙 HarmonyOS 7.0.0.111 SP12 版本升级 ，带来了与 iPhone 双机互联，实况窗分享等功能。 ▲ IT之家开箱：华为 Mate 80 Pro Max 风驰版图赏 IT之家实测发现，新版本还“暗藏”新特…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0fe3fa9a8e0a",
+      "title": "Lava 推出 Aura Curve 手机：曲面屏 + 背部副屏，天玑 7100 芯片",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-25",
+      "time": "07:38",
+      "publishedAt": "2026-10-25T07:38:39.000Z",
+      "url": "https://www.ithome.com/1/017/616.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/d60f522f-1211-414e-b452-5fcad2c8a51f.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 25 日消息，Lava 现已在印度市场推出 Aura Curve 手机。新品采用曲面屏 + 背部副屏的组合配置， 售价 23,999 卢比 （IT之家注：现汇率约合 1,690 元人民币） 。 据介绍，这款手机搭载联发科天玑 7100 处理器，安兔兔跑分超 80 万分，拥有 6GB 内存和 128GB 存储空间。正面配备一块 6.67…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4d6ce3560a38",
+      "title": "苹果 iPhone Duo 部分区域破发，王腾称相比小米、华为阔折叠手机没有特别领先的地方",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-25",
+      "time": "06:21",
+      "publishedAt": "2026-10-25T06:21:02.000Z",
+      "url": "https://www.ithome.com/1/017/594.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/b4c19bcf-f7b1-4218-83c5-f94a60213da8.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 25 日消息，今日宜休科技公司创始人王腾今日发文，谈及了 iPhone Duo 破发这一话题。他表示： 上手体验了下 iPhone Duo ，整体还是挺精致的， 但相比小米、华为的阔折叠并没有什么特别领先的地方 。 今天依托优秀的工程师团队和强大的产业链资源， 中国的科技团队，在大多数领域都能做出不逊于海外友商，甚至是更好的产品 ，手机…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8b67ecb75b41",
+      "title": "REDMI Book 16 2027 teaser confirms 16-inch numeric keypad",
+      "source": "Gizmochina",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-10-25",
-      "time": "04:31",
-      "publishedAt": "2026-10-25T04:31:26.000Z",
-      "url": "https://www.ithome.com/1/017/579.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/21486d7f-dcdd-4c0d-9720-840226da4228.png",
-      "summary": "IT之家 10 月 25 日消息，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰今日发文，再度谈及了小米 18 Fold 中折叠手机的折痕情况： 采用新一代折叠架构 ，强度更高，更抗冲击 同时带来超强折痕控制， 平均折痕深度 ≤30μm 据IT之家此前报道， 小米 18 Fold 中折叠手机发布于 9 月 7 日 ，首发玄戒 O3 芯片，配备…",
+      "time": "06:20",
+      "publishedAt": "2026-10-25T06:20:04.000Z",
+      "url": "https://www.gizmochina.com/2026/10/25/redmi-book-16-2027-teaser-confirms-16-inch-numeric-keypad/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/6291098dly1iidb299s0yj20w30mpn41-300x212.jpg?x62950",
+      "summary": "Xiaomi is getting ready to refresh its affordable laptop lineup. The REDMI Book 2027 series is set to launch on October 27, and from what we’ve seen so far, it looks like Xiaomi i…",
       "tags": [
         "Xiaomi",
         "爆料",
@@ -22,8 +142,68 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "auto-21da674c27fe",
+      "title": "苹果 iPhone Duo 在部分区域破发：已加入电商平台“百亿补贴”，相对上市价便宜约 200-300 元",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-25",
+      "time": "06:17",
+      "publishedAt": "2026-10-25T06:17:36.000Z",
+      "url": "https://www.ithome.com/1/017/593.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/7cb106ce-0b1c-495e-abfc-5c3d2e44462d.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 25 日消息，综合各大平台网友反馈，苹果 iPhone Duo 在 国内部分区域 出现“破发”情况，同时当下拼多多已将该机上架百亿补贴频道（ 注：仅部分地区能看到 ），相对于上市价格便宜约 200-300 元。 虽然苹果 iPhone Duo 首发日被加价到 1500-2000 元，然而该机在发售 2 天后的当下就迎来了“破发”局面。尽…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1f8ff76c9c95",
+      "title": "一加 Ace 7 系列设计细节公布：星际光效呼吸灯、隐藏式进风口等，新机 10 月 29 日发布",
+      "source": "IT之家",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-25",
+      "time": "05:56",
+      "publishedAt": "2026-10-25T05:56:21.000Z",
+      "url": "https://www.ithome.com/1/017/589.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/a766885c-420c-4255-989b-e67589a9951c.jpg",
+      "summary": "IT之家 10 月 25 日消息，一加中国区总裁李杰今日发布视频，展示了一加 Ace 7 系列手机全新配色 ——「破风」和「淬火」的外观。 视频画面显示，一加 Ace 7 系列手机的这两款配色采用特殊纹理设计。「破风」为一加 Ace 7 Pro 的配色，整体呈冰蓝色，背部印有冲击感较强的“Ace”图标。根据官方介绍，该机采用质感金属中框 + 旗舰大 R 角…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-cc5fb15ee09e",
+      "title": "Apple Wants to Fix Safari's Cramped Layout on iPhone Duo",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-25",
+      "time": "04:58",
+      "publishedAt": "2026-10-25T04:58:09.000Z",
+      "url": "https://www.macrumors.com/2026/10/25/apple-wants-to-fix-safari-on-iphone-duo/",
+      "image": "https://images.macrumors.com/article-new/2026/10/safari-iphone-duo-webkit.jpg",
+      "summary": "Apple is considering changes to Safari on the iPhone Duo that would give websites access to more of the outer display, although the company has yet to settle on an approach. The c…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "coolapk-user-f033632aa2f5",
-      "title": "竹本青：【华为李小龙：Pura X View支持Wi‑Fi双频并发，Wi‑Fi 6时代就支持该特性】 10月24日，博主“…",
+      "title": "竹本青：【华为李小龙：Pura X View支持Wi‑Fi双频并发，Wi‑Fi 6时代就支持该特性】 日前，博主“不是郑小…",
       "source": "竹本青",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
@@ -34,7 +214,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-10-25T04:27:42.000Z",
       "url": "https://www.coolapk.com/feed/74602244",
       "image": "http://image.coolapk.com/feed/2026/1025/12/4248714_7f86fabc_2459_3221_193@1272x2318.jpg",
-      "summary": "【华为李小龙：Pura X View支持Wi‑Fi双频并发，Wi‑Fi 6时代就支持该特性】 10月24日，博主“不是郑小康”分享华为Pura X View使用体验时提出疑问，质疑鸿蒙系统无法实现2.4G与5G Wi‑Fi同时加速上网。 10月25日，华为高管李小龙回应，称Pura X View支持2.4G和5G Wi‑Fi同时工作，该特性是Wi‑Fi7标…",
+      "summary": "【华为李小龙：Pura X View支持Wi‑Fi双频并发，Wi‑Fi 6时代就支持该特性】 日前，博主“不是郑小康”分享华为Pura X View使用体验时提出疑问，质疑鸿蒙系统无法实现2.4G与5G Wi‑Fi同时加速上网。 华为高管李小龙对此回应，称Pura X View支持2.4G和5G Wi‑Fi同时工作，该特性是Wi‑Fi7标准能力；在Wi-F…",
       "tags": [
         "Huawei",
         "爆料",
@@ -102,46 +282,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-0dab67877830",
-      "title": "华为 Mate 90 RS / Pro Max 典藏版推 HarmonyOS 7.0.0.111SP13 升级，优化与睿影 Z10 模块相机连接",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-25",
-      "time": "02:23",
-      "publishedAt": "2026-10-25T02:23:04.000Z",
-      "url": "https://www.ithome.com/1/017/555.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/1925db72-ebd2-4473-a0c4-c525b369e902.jpg",
-      "summary": "IT之家 10 月 25 日消息，华为 Mate 90 RS 非凡大师和 Mate 90 Pro Max 典藏版推送了鸿蒙 HarmonyOS 7.0.0.111SP13 版本升级。系统包大小约 722.38MB，智慧修图人像大片推荐能力升级，支持修图后二次调节精修效果，同时畅连支持当面快速建群。 ▲ IT之家实拍：华为 Mate 90 Pro Max 典…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-71f77d0b1574",
-      "title": "小米 18 Fold 中折叠手机官宣适配娱乐工作各类应用，网友热评“终于迎来最佳宣发期”",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-25",
-      "time": "01:33",
-      "publishedAt": "2026-10-25T01:33:30.000Z",
-      "url": "https://www.ithome.com/1/017/548.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/7be1077e-c981-42c3-a5ae-17e5096b48ef.jpg",
-      "summary": "IT之家 10 月 25 日消息，小米手机官方昨日发文，介绍 18 Fold 中折叠手机的应用适配情况： 适配爱奇艺、网易云音乐、高德、WPS 等各类应用 从休闲娱乐到日常工作，全面覆盖 有网友评论称：“ 终于迎来了最佳宣发期。 ” IT之家注意到，小米手机官方昨日还介绍了小米 18 Fold 的分屏功能， 称日常应用也支持该模式 ： 可以一屏同时安排行程…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-dfc2cbdedf1a",
       "title": "竹本青：【OriginOS 7 近期升级计划公布：悬浮控件、影像功能 本月起分批推送】 vivo服务昨晚发文，公布Orig…",
       "source": "竹本青",
@@ -159,26 +299,6 @@ window.phoneRadarAuto = {
         "vivo",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-03612d435909",
-      "title": "苹果 iPhone Duo 耐用性测试：反向弯折内屏开裂",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-25",
-      "time": "01:05",
-      "publishedAt": "2026-10-25T01:05:42.000Z",
-      "url": "https://www.ithome.com/1/017/545.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/721138e6-478c-41f0-b17e-734a20ed3bd3.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 25 日消息，千万别坐到展开状态下的 iPhone Duo 上，这条忠告来自这款苹果折叠新机开售第二天的实测。科技测评博主扎克 · 尼尔森在 YouTube 频道 JerryRigEverything 放出了该机的整机耐用性测试视频，测试了这款手机的抗刮性能与抗弯折能力。 IT之家注意到，博主全程语气平稳克制，但看着他一步步把这台新机折…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -322,6 +442,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-51fca855d7c4",
+      "title": "以前只喜欢小屏手机，大家可以看我历史机型都是小屏机，后来发现工作生活当中需要大屏幕的时候太多了，就换了6.9的17max，才发现6.9的权威，8000电池的震撼，原谅我没用过续航这么好的手机 #HyperOS3# #小米15# #HyperOS4#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-25",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74601476",
+      "image": "",
+      "summary": "以前只喜欢小屏手机，大家可以看我历史机型都是小屏机，后来发现工作生活当中需要大屏幕的时候太多了，就换了6.9的17max，才发现6.9的权威，8000电池的震撼，原谅我没用过续航这么好的手机 #HyperOS3# #小米15# #HyperOS4#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-69d5fc65c8cf",
       "title": "美版当wifi机太香了，手上小米18Promax开热点网络信号很好，热点机也不发烫。苹果真的WiFi下续航无敌现在已经把18Pro当主力机用了。#小米18# #iPhone18ProMax# #iPhone18Pro#",
       "source": "酷安热榜",
@@ -362,8 +502,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-4172d8830434",
-      "title": "因为被裁员，今天不用上班，想到iPhone duo今天可以去店里体验了，便驱我的九号电动车，披着崭新的挡风被去往西单Apple体验一波。",
+      "id": "newsnow-7069b7d9c5dc",
+      "title": "中国联通安排驻店员协助 iPhone Duo 用户开通eSIM",
       "source": "酷安热榜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -372,93 +512,13 @@ window.phoneRadarAuto = {
       "date": "2026-10-25",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74554749",
+      "url": "https://www.coolapk.com/feed/74583888",
       "image": "",
-      "summary": "因为被裁员，今天不用上班，想到iPhone duo今天可以去店里体验了，便驱我的九号电动车，披着崭新的挡风被去往西单Apple体验一波。",
+      "summary": "中国联通安排驻店员协助 iPhone Duo 用户开通eSIM",
       "tags": [
         "iPhone",
         "爆料",
         "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-711422437836",
-      "title": "华为换苹果卡在办手机卡",
-      "source": "微博热搜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-10-25",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E6%8D%A2%E8%8B%B9%E6%9E%9C%E5%8D%A1%E5%9C%A8%E5%8A%9E%E6%89%8B%E6%9C%BA%E5%8D%A1&t=31&band_rank=20&Refer=top",
-      "image": "",
-      "summary": "华为换苹果卡在办手机卡",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-3d4983a60cef",
-      "title": "iPhone Duo能否撕掉磨砂膜",
-      "source": "B站热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-25",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://search.bilibili.com/all?keyword=iPhone%20Duo%E8%83%BD%E5%90%A6%E6%92%95%E6%8E%89%E7%A3%A8%E7%A0%82%E8%86%9C",
-      "image": "",
-      "summary": "iPhone Duo能否撕掉磨砂膜",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-8f4b3b59abf7",
-      "title": "苹果首款折叠屏手机口碑为何翻车",
-      "source": "今日头条热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-25",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7700444360927612459/",
-      "image": "",
-      "summary": "苹果首款折叠屏手机口碑为何翻车",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-7753f368d30f",
-      "title": "李小龙：2.4G / 5G 频段同时工作是 Wi-Fi 7 特性，华为在 Wi-Fi 6 时代通过私有协议提前支持",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-24",
-      "time": "23:34",
-      "publishedAt": "2026-10-24T23:34:50.000Z",
-      "url": "https://www.ithome.com/1/017/530.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/c8433f97-17d6-47b5-b7db-472a28501047.png",
-      "summary": "IT之家 10 月 25 日消息，博主 @不是郑小康 昨晚发文，谈及了华为鸿蒙 HarmonyOS 7 系统的使用感受。他称在华为 Pura X View 的鸿蒙 7 系统中，“貌似”不能 2.4G 和 5G Wi-Fi 一起连加速上网。 随后，华为终端 BG CTO 李小龙发文解答了上述问题： Pura X View 可以的， Wi-Fi 2.4G 和…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -637,26 +697,6 @@ window.phoneRadarAuto = {
       "summary": "Mint Mobile makes it cheaper",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-05767b537fe0",
-      "title": "iQOO Neo12 新机配置曝光：6.83 英寸 2K+185Hz 直屏，第五代骁龙 8 至尊版芯片",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-24",
-      "time": "15:26",
-      "publishedAt": "2026-10-24T15:26:44.000Z",
-      "url": "https://www.ithome.com/1/017/523.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/4eb574f0-4460-429f-b5d1-7bbb84c30d8d.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 24 日消息，博主 @数码闲聊站 今日曝光 iQOO Neo12 新机配置，该机将于本月发布并上市。 据介绍，该机搭载 6.83 英寸 2K+185Hz LTPS 直屏 ，采用维信诺 pTSF 发光材料，搭载骁龙 8E5 处理器（第五代骁龙 8 至尊版），配备 Q3 电竞芯片 + 主动散热风扇。 此外，该机还搭载 9000mAh 电池，…",
-      "tags": [
-        "vivo",
         "爆料",
         "自动抓取"
       ]
