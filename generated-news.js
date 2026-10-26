@@ -1,22 +1,322 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-26T12:59:56.154Z",
+  "updatedAt": "2026-10-26T19:56:06.070Z",
   "news": [
     {
-      "id": "auto-40bc1a05ae4a",
-      "title": "iPhone Duo: Give Your Camera Subject a Picture Preview",
+      "id": "auto-60301dca9964",
+      "title": "Apple finally breaks its silence on iPhone Duo’s cracked screens",
+      "source": "Android Authority",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-26",
+      "time": "18:45",
+      "publishedAt": "2026-10-26T18:45:51.000Z",
+      "url": "https://www.androidauthority.com/apple-iphone-duo-cracked-screen-statement-3728177/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/iPhone-Duo-unfolded-display-on-homescreen.jpg",
+      "summary": "Apple's first foldable is getting a crash course in first-generation problems.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7adce899d2ab",
+      "title": "Apple acknowledges iPhone Duo display ‘issue’ after reports of cracked screens",
+      "source": "The Verge",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-26",
+      "time": "18:34",
+      "publishedAt": "2026-10-26T18:34:29.000Z",
+      "url": "https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1230.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "Following reports of iPhone Duos with cracked and broken inside screens, often showing a bright line running from the center to the right side, Apple says in a statement to Bloomb…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-30c3d7413dc7",
+      "title": "Survey shows most readers stand by Android, but a good number are iOS-curious",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-26",
+      "time": "18:18",
+      "publishedAt": "2026-10-26T18:18:42.000Z",
+      "url": "https://www.androidauthority.com/switch-android-to-ios-poll-results-3728191/",
+      "image": "",
+      "summary": "Pixel disappointments play a part for those considering switching.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3ec3043418a3",
+      "title": "MagSafe Monday: TESSAN’s 6-in-1 charging station replaces every charger on your desk",
+      "source": "9to5Mac",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-26",
+      "time": "18:12",
+      "publishedAt": "2026-10-26T18:12:00.000Z",
+      "url": "https://9to5mac.com/2026/10/26/tessans-6-in-1-charging-station-replaces-every-charger-on-your-desk/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/TESSAN-2.jpg?quality=82&strip=all&w=1600",
+      "summary": "One hub/cord to rule them all is a goal most people have for their desk. The TESSAN Magic 65W Charging Station is built to collapse your pile of cords into a single compact hub, a…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1193c37fe5d8",
+      "title": "Apple Responds to iPhone Duo Display Cracking Reports",
       "source": "MacRumors",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-10-26",
-      "time": "11:31",
-      "publishedAt": "2026-10-26T11:31:21.000Z",
-      "url": "https://www.macrumors.com/how-to/iphone-duo-give-camera-subject-picture-preview/",
-      "image": "https://images.macrumors.com/article-new/2026/09/iphone-duo-preview-camera-app.jpg",
-      "summary": "Getting someone to relax in front of a camera is a lot easier when they can see how they look. Apple acknowledges this on its new foldable iPhone Duo with a feature called Duo Pre…",
+      "time": "17:20",
+      "publishedAt": "2026-10-26T17:20:37.000Z",
+      "url": "https://www.macrumors.com/2026/10/26/iphone-duo-crack-apple-response/",
+      "image": "https://images.macrumors.com/article-new/2026/10/iphone-duo-screen-crack.jpg",
+      "summary": "Shortly after the iPhone Duo launched, a few users reported hinge issues that were causing cracks in the inner display . Apple has now responded to the reports in a statement to M…",
       "tags": [
         "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a7073fa9fce9",
+      "title": "Samsung is doing too little with the golden opportunity the iPhone Duo handed it",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-26",
+      "time": "17:00",
+      "publishedAt": "2026-10-26T17:00:00.000Z",
+      "url": "https://www.sammobile.com/opinion/samsung-doing-little-with-golden-opportunity-iphone-duo-handed-it/",
+      "image": "",
+      "summary": "If you've been following social media over the past weekend, you've probably seen the reports about the iPhone Duo's alleged manufacturing defects and fragile foldable display. Ap…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d20d78625334",
+      "title": "Galaxy Z Fold 8 is now a Consumer Reports Recommended device in the US",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-26",
+      "time": "16:44",
+      "publishedAt": "2026-10-26T16:44:59.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-is-now-a-consumer-reports-recommended-device-in-the-us/",
+      "image": "",
+      "summary": "Samsung's Galaxy Z Fold 8 has been picking up accolades left, right, and center since it was launched a few months ago. It has now picked up another notable designation. The Galax…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-bfaeecfab5b2",
+      "title": "Oppo Find X10 Ultra is in the works, and I can’t wait to try its upgraded cameras",
+      "source": "9to5Google",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-26",
+      "time": "16:30",
+      "publishedAt": "2026-10-26T16:30:00.000Z",
+      "url": "https://9to5google.com/2026/10/26/oppo-find-x10-ultra-camera-rumors/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/oppo-find-x10-pro-max-9.jpg?quality=82&strip=all&w=1600",
+      "summary": "Not long after the Oppo Find X10 series launched globally, we’re already hearing details about the company’s Ultra model which is set to pack more impressive cameras – and that’s…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f63ef44ccddf",
+      "title": "iPhone 18 Pro vs. Galaxy S26 Plus: Which one to choose?",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-26",
+      "time": "16:01",
+      "publishedAt": "2026-10-26T16:01:47.000Z",
+      "url": "https://www.gizmochina.com/2026/10/26/iphone-18-pro-vs-galaxy-s26-plus/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Apple-iPhone-18-Pro-vs-Samsung-Galaxy-S26-Plus-300x169.png?x62950",
+      "summary": "Apple’s iPhone 18 Pro and Samsung’s Galaxy S26+ offer two different approaches to the premium smartphone experience. Apple’s flagship focuses on its A20 Pro chip, an upgraded came…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8555853c75d1",
+      "title": "Galaxy S26 Ultra 512GB deal cuts $400 off Samsung’s flagship",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-26",
+      "time": "15:44",
+      "publishedAt": "2026-10-26T15:44:19.000Z",
+      "url": "https://www.androidauthority.com/galaxy-s26-ultra-512gb-deal-3728088/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/Samsung-Galaxy-S26-Ultras-design-and-camera-module.jpg",
+      "summary": "The Galaxy S26 Ultra 512GB is now 25% off RRP on Amazon, cutting the price of Samsung’s top-spec handset by a big margin.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9f375905084c",
+      "title": "浙江 ETC 服务上新，“手机 +”无卡通行 10 月 29 日上线",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-26",
+      "time": "15:01",
+      "publishedAt": "2026-10-26T15:01:17.000Z",
+      "url": "https://www.ithome.com/1/018/176.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/aa50d4ff-e57f-4c32-89b1-bcc328fba206.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 26 日消息，据浙江高速公路智能收费运营服务有限公司，为贯彻落实交通运输部关于高速公路“手机 +”无卡便捷通行的工作部署，深化技术创新与服务升级，更好地服务人民群众便捷美好出行，浙江省“手机 +”无卡通行业务将于 2026 年 10 月 29 日上午 9 时正式上线。 车主可通过“浙江 ETC 手机 +”微信小程序快速完成车辆认证注册，…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c72247105164",
+      "title": "iPhone Duo screens are breaking, but is it a Galaxy Fold moment?",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-26",
+      "time": "14:45",
+      "publishedAt": "2026-10-26T14:45:00.000Z",
+      "url": "https://9to5google.com/2026/10/26/iphone-duo-broken-screens-galaxy-fold/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/iphone-duo-broken-displays.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple’s first foldable is running into a problem. iPhone Duo screens are breaking, but is this a case of a flawed design like Samsung’s original Galaxy Fold, user error, or a bit…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-204aefbb2595",
+      "title": "Quickly Silence iPhone Duo Without a Ring/Mute Switch",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-26",
+      "time": "14:36",
+      "publishedAt": "2026-10-26T14:36:49.000Z",
+      "url": "https://www.macrumors.com/how-to/quickly-silence-iphone-duo-without-mute-switch/",
+      "image": "https://images.macrumors.com/article-new/2026/10/iphone-duo-silent-mode.jpeg",
+      "summary": "The new iPhone Duo drops both the classic Ring/Silent switch as well as the newer Action button, so there is no physical mute control on the device, and no way to assign the Silen…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-117d66c9edad",
+      "title": "受内存涨价影响，曝三星计划减产 20% Galaxy A 系中低端手机",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-26",
+      "time": "13:38",
+      "publishedAt": "2026-10-26T13:38:28.000Z",
+      "url": "https://www.ithome.com/1/018/165.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/9c4061fa-272d-4508-aad0-f82137f19a3b.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 26 日消息，韩媒 Etnews 近日报道称，因内存和存储芯片价格飙升、利润空间受到挤压， 三星计划在今年第四季度将 Galaxy A 系列中低端手机减产最多 20% ，并将更多内存供应转向利润更高的 Galaxy S 和 Galaxy Z 旗舰机型。 过去一年内，内存、存储芯片的价格已经大幅上涨，导致所有智能手机厂商面临着制造成本增加…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7ae994a86a7c",
+      "title": "铰链制造商 Fine M-Tec：客户近期部分产品质量问题非本企业零部件质量导致",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-26",
+      "time": "13:21",
+      "publishedAt": "2026-10-26T13:21:09.000Z",
+      "url": "https://www.ithome.com/1/018/160.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/cc603ac6-7fab-45ac-ac6a-4bf505d88783.jpg",
+      "summary": "IT之家 10 月 26 日消息，折叠屏智能手机铰链制造商 Fine M-Tec 韩国当地时间今日发布声明：客户近期部分产品出现质量问题 并非由该企业提供的零部件的质量缺陷导致 。 Fine M-Tec 在产品开发到量产的全流程中始终执行系统化的验证流程，并基于严格的质量管理体系 确保产品的稳定性和可靠性 ，满足客户对技术规格和质量标准的要求。 ▲ Fin…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-66cfe4053acd",
+      "title": "Don’t buy the Pro just yet: This smaller, metal flagship could be worth the wait",
+      "source": "Android Authority",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-26",
+      "time": "12:58",
+      "publishedAt": "2026-10-26T12:58:05.000Z",
+      "url": "https://www.androidauthority.com/xiaomi-18-specs-leak-3727957/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/Xiaomi-17-in-hand-showing-back.jpg",
+      "summary": "New leaks suggest the Xiaomi 18 could come with top-tier silicon, a huge battery, and impressive camera specs.",
+      "tags": [
+        "Xiaomi",
         "爆料",
         "自动抓取"
       ]
@@ -262,46 +562,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-770a9575e804",
-      "title": "蓝思科技回应苹果 iPhone Duo 加单 30% 传闻：不评价具体比例，产线正加班赶工",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-26",
-      "time": "08:48",
-      "publishedAt": "2026-10-26T08:48:59.000Z",
-      "url": "https://www.ithome.com/1/017/981.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/05a690f3-028c-4edf-96b0-e570848087c6.jpg?x-bce-process=image/auto-orient,o_1",
-      "summary": "IT之家 10 月 26 日消息，据财闻今日报道，近日，苹果（ AAPL.US ）首款折叠屏手机 iPhone Duo 开售之后，出现供不应求的情况。有市场消息称，旺盛的市场需求倒逼苹果要求上游供应商加速赶工，甚至向供应链提出订单规模上调 30%。 蓝思科技作为苹果折叠屏手机 UTG（超薄柔性玻璃）核心供应商，其相关动态备受关注。10 月 26 日，财闻以…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-bcc2d9d7e738",
-      "title": "HMD 新款欧版 Pulse Pro 手机曝光，升级联发科 G99 处理器",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-26",
-      "time": "08:47",
-      "publishedAt": "2026-10-26T08:47:03.000Z",
-      "url": "https://www.ithome.com/1/017/976.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/cd45ebef-791a-4c60-b7ec-0036e7f5b851.png",
-      "summary": "IT之家 10 月 26 日消息，消息源 smashx_60 现已曝光了新款欧版 HMD Pulse Pro 手机规格信息，该机主要将紫光展锐 T606 处理器升级为联发科 G99 以提升性能，其他规格不变。 具体来看，该机正面配备一块 6.56 英寸 HD+ 120Hz IPS LCD 面板，匹配 50Mp 自拍摄像头；手机背面搭载 50Mp 主摄和 2…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-ac852e9d141c",
       "title": "The sequel to one of 2026’s best camera phones could put S27 Ultra, Pixel 12 Pro to shame",
       "source": "Android Authority",
@@ -317,26 +577,6 @@ window.phoneRadarAuto = {
       "summary": "Expect a larger 10x camera, a square selfie camera, and a main camera with expanded dynamic range.",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-855ac41a6073",
-      "title": "Samsung releases second Galaxy S26 update in October",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-26",
-      "time": "07:54",
-      "publishedAt": "2026-10-26T07:54:06.000Z",
-      "url": "https://www.sammobile.com/news/samsung-releases-second-galaxy-s26-update-october/",
-      "image": "",
-      "summary": "Samsung has released a new software update for the Galaxy S26, Galaxy S26+, and Galaxy S26 Ultra. The company hasn’t revealed the exact changes brings, and it appears to retain th…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -399,46 +639,6 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-8d0645dfd888",
-      "title": "竹本青：小米 18 标准版外观再曝光：左上镀黑方块Deco",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-26",
-      "time": "06:59",
-      "publishedAt": "2026-10-26T06:59:43.000Z",
-      "url": "https://www.coolapk.com/feed/74627622",
-      "image": "http://image.coolapk.com/feed/2026/1026/15/4248714_029d6590_8203_3736_679@2160x3679.jpg",
-      "summary": "【小米 18 标准版外观再曝光：左上镀黑方块Deco，新增紫色、红色】 10月26日，博主数码闲聊站披露小米 18 标准版最新外观信息。 该机Deco采用左上角镀黑小方块，对比上代，主摄与长焦位置保持不变，超广角设计有所调整；配色除经典黑、白外，工程机另有紫色、红色。产品发布排期不变。 结合此前博主爆料，该机预计今年12月发布，搭载骁龙8E6处理器，M11…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-fa764e6bd47c",
-      "title": "竹本青：【一加Ace 7系列 影像预热：全系2亿主摄，Pro额外搭载3.5倍潜望】 10月26日，一加 Ace7系列 影像…",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-26",
-      "time": "06:07",
-      "publishedAt": "2026-10-26T06:07:23.000Z",
-      "url": "https://www.coolapk.com/feed/74626590",
-      "image": "http://image.coolapk.com/feed/2026/1026/14/4248714_5b37454b_4842_4034_531@1080x1440.jpg",
-      "summary": "【一加Ace 7系列 影像预热：全系2亿主摄，Pro额外搭载3.5倍潜望】 10月26日，一加 Ace7系列 影像配置公布：全系搭载2亿像素主摄，Pro版额外配备3.5倍潜望长焦； 高管李杰介绍，Ace7 Pro是同档位产品中，唯一同时拥有2亿主摄与潜望长焦的机型，并在Ace7全系下放旗舰算法。 #今日热点# #一加Ace7Pro# #ColorOS17#",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -602,26 +802,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-f88c473bc838",
-      "title": "Celebrating “What Holds Us” on iPhone 18 Pro",
-      "source": "Apple Newsroom",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "官方",
-      "trust": "官方确认",
-      "date": "2026-10-26",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.apple.com/newsroom/2026/09/celebrating-what-holds-us-on-iphone-18-pro/",
-      "image": "",
-      "summary": "A new photography exhibition, curated by Kathy Ryan, celebrates the evolving language of visual storytelling and showcases the advanced pro camera system on iPhone 18 Pro.",
-      "tags": [
-        "iPhone",
-        "官方",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "newsnow-231561c30354",
       "title": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
       "source": "少数派热榜",
@@ -642,61 +822,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-ce9f62a36bae",
-      "title": "vivo X500 Pro Max 影像漫谈：当视频创作像拍照一样轻巧",
-      "source": "少数派热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-10-26",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/115456",
-      "image": "",
-      "summary": "vivo X500 Pro Max 影像漫谈：当视频创作像拍照一样轻巧",
-      "tags": [
-        "vivo",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-1869b4241e5f",
-      "title": "贴膜是真的累[受虐滑稽]，第一张贴歪了，第二张进了一大堆灰尘，买的膜全贴坏了[流汗滑稽][流汗滑稽]#REDMIK100ProMax# #REDMIK90至尊版# #小米17Max#",
+      "id": "newsnow-19f3179f7ab4",
+      "title": "gpu驱动成功，但还有渲染bug#红米Note12Turbo# #Hackios#",
       "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-26",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74604106",
+      "url": "https://www.coolapk.com/feed/74593954",
       "image": "",
-      "summary": "贴膜是真的累[受虐滑稽]，第一张贴歪了，第二张进了一大堆灰尘，买的膜全贴坏了[流汗滑稽][流汗滑稽]#REDMIK100ProMax# #REDMIK90至尊版# #小米17Max#",
+      "summary": "gpu驱动成功，但还有渲染bug#红米Note12Turbo# #Hackios#",
       "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-6b2b6e33b14d",
-      "title": "以前只喜欢小屏手机，大家可以看我历史机型都是小屏机，后来发现工作生活当中需要大屏幕的时候太多了，就换了6.9的17max，才发现6.9的权威，8000电池的震撼，原谅我没用过续航这么好的手机 #HyperOS3# #小米15# #HyperOS4#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-26",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74601476",
-      "image": "",
-      "summary": "以前只喜欢小屏手机，大家可以看我历史机型都是小屏机，后来发现工作生活当中需要大屏幕的时候太多了，就换了6.9的17max，才发现6.9的权威，8000电池的震撼，原谅我没用过续航这么好的手机 #HyperOS3# #小米15# #HyperOS4#",
-      "tags": [
-        "Xiaomi",
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -722,19 +862,19 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-68f1b29487e0",
-      "title": "不知道从什么时候开始，我对新 iPhone 已经没有以前那么大的期待了",
-      "source": "酷安热榜",
+      "id": "newsnow-4bda9e7dd161",
+      "title": "iPhoneDuo折叠挑战后摔坏",
+      "source": "微博热搜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
       "type": "爆料",
-      "trust": "高关注爆料源",
+      "trust": "待验证",
       "date": "2026-10-26",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74573212",
+      "url": "https://s.weibo.com/weibo?q=iPhoneDuo%E6%8A%98%E5%8F%A0%E6%8C%91%E6%88%98%E5%90%8E%E6%91%94%E5%9D%8F&t=31&band_rank=16&Refer=top",
       "image": "",
-      "summary": "不知道从什么时候开始，我对新 iPhone 已经没有以前那么大的期待了",
+      "summary": "iPhoneDuo折叠挑战后摔坏",
       "tags": [
         "iPhone",
         "爆料",
@@ -742,41 +882,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-359ae086b7ce",
-      "title": "vivo X100系列，这次相机更新，全系被蓝厂放弃🙃",
-      "source": "酷安热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
+      "id": "newsnow-3bcc21dad345",
+      "title": "建议女生慎买iPhoneDuo",
+      "source": "微博热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
-      "trust": "高关注爆料源",
+      "trust": "待验证",
       "date": "2026-10-26",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74595790",
+      "url": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A5%B3%E7%94%9F%E6%85%8E%E4%B9%B0iPhoneDuo&t=31&band_rank=25&Refer=top",
       "image": "",
-      "summary": "vivo X100系列，这次相机更新，全系被蓝厂放弃🙃",
+      "summary": "建议女生慎买iPhoneDuo",
       "tags": [
-        "vivo",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-9ed9ba00a2d7",
-      "title": "卢伟冰：REDMI K100 又是一款同档无敌的产品",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-26",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74621315",
-      "image": "",
-      "summary": "卢伟冰：REDMI K100 又是一款同档无敌的产品",
-      "tags": [
-        "Xiaomi",
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -802,8 +922,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-ba4fe9d57ffa",
-      "title": "民警将手机拔卡断网保住市民存款",
+      "id": "newsnow-6c7d6696214b",
+      "title": "女子求职遇视频面试要求格式化手机",
       "source": "今日头条热榜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -812,9 +932,9 @@ window.phoneRadarAuto = {
       "date": "2026-10-26",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7700894784210092068/",
+      "url": "https://www.toutiao.com/trending/7700357026878144538/",
       "image": "",
-      "summary": "民警将手机拔卡断网保住市民存款",
+      "summary": "女子求职遇视频面试要求格式化手机",
       "tags": [
         "行业",
         "爆料",
@@ -822,9 +942,49 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-5816644cbb4a",
-      "title": "业内：iPhone Duo给特努斯上眼药",
+      "id": "newsnow-2f4a03ee97d3",
+      "title": "华为阔直板Pura X View销量破60万台",
       "source": "今日头条热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-26",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7700483978452647986/",
+      "image": "",
+      "summary": "华为阔直板Pura X View销量破60万台",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-0ce36ece7287",
+      "title": "为什么手机越卖越少越卖越贵",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-26",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%89%8B%E6%9C%BA%E8%B6%8A%E5%8D%96%E8%B6%8A%E5%B0%91%E8%B6%8A%E5%8D%96%E8%B6%8A%E8%B4%B5",
+      "image": "",
+      "summary": "为什么手机越卖越少越卖越贵",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-4664d2626eae",
+      "title": "富士康员工称iPhone Duo已换物料",
+      "source": "百度热搜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
       "type": "爆料",
@@ -832,93 +992,13 @@ window.phoneRadarAuto = {
       "date": "2026-10-26",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7700894506912058918/",
+      "url": "https://www.baidu.com/s?wd=%E5%AF%8C%E5%A3%AB%E5%BA%B7%E5%91%98%E5%B7%A5%E7%A7%B0iPhone+Duo%E5%B7%B2%E6%8D%A2%E7%89%A9%E6%96%99",
       "image": "",
-      "summary": "业内：iPhone Duo给特努斯上眼药",
+      "summary": "富士康员工称iPhone Duo已换物料",
       "tags": [
         "iPhone",
         "爆料",
         "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-30c4f8071ac7",
-      "title": "iPhone Duo Can Run Automations When You Open or Close It",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-25",
-      "time": "22:26",
-      "publishedAt": "2026-10-25T22:26:58.000Z",
-      "url": "https://www.macrumors.com/2026/10/25/iphone-duo-automation-opened-or-closed/",
-      "image": "https://images.macrumors.com/article-new/2026/10/duo-opened-closed-automation.jpeg",
-      "summary": "The iPhone Duo includes a new Shortcuts automation trigger that runs actions when the device is opened or closed. YouTuber Stephen Robles highlighted the trigger, which is called…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-320a66b4a1c9",
-      "title": "Adjust iPhone Duo's Outer Display to Accommodate Your Case",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-25",
-      "time": "22:00",
-      "publishedAt": "2026-10-25T22:00:02.000Z",
-      "url": "https://www.macrumors.com/how-to/iphone-duo-setting-makes-room-for-case/",
-      "image": "https://images.macrumors.com/article-new/2026/09/shift-left-edge-iphone-duo@2x-scaled.jpg",
-      "summary": "On iPhone Duo, Apple includes a display setting for cases or frames that partially cover the left edge of the outer display. It's called Shift Left Edge, and it insets the display…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-da114e8ce7c5",
-      "title": "iFixit’s look inside the iPhone Duo may explain those broken screens and hinges",
-      "source": "The Verge",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-25",
-      "time": "21:40",
-      "publishedAt": "2026-10-25T21:40:27.000Z",
-      "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iPhone-Duo-layout01.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b77e72f00b20",
-      "title": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate",
-      "source": "The Verge",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-25",
-      "time": "20:16",
-      "publishedAt": "2026-10-25T20:16:19.000Z",
-      "url": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/20ruxzn728xh1.jpeg?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "Social media and the iPhone Duo subreddit are filled with reports of Apple's foldable failing quickly and in spectacular fashion. Some users report having the phone for only a few…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -982,26 +1062,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-089c314b2c63",
-      "title": "Exynos 2700 has smoked the Snapdragon 8 Elite Extreme Gen 6 in tests, report says",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-25",
-      "time": "16:29",
-      "publishedAt": "2026-10-25T16:29:33.000Z",
-      "url": "https://www.sammobile.com/news/exynos-2700-has-smoked-the-snapdragon-8-elite-extreme-gen-6-in-tests-report-says/",
-      "image": "",
-      "summary": "Samsung will reportedly use the Exynos 2700 in all models of the Galaxy S27 series except the Galaxy S27 Utra, which is expected to use the latest Snapdragon chip exclusively. A n…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-170b443ef732",
       "title": "BenQ PV3250U launches in India as a 4K reference monitor for colorists",
       "source": "Gizmochina",
@@ -1015,46 +1075,6 @@ window.phoneRadarAuto = {
       "url": "https://www.gizmochina.com/2026/10/25/benq-pv3250u-launch-india-price/",
       "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/image-74-300x183.png?x62950",
       "summary": "BenQ has launched its new Creative Pro PV3250U monitor in India, unveiling it at Broadcast India 2026. The display targets colorists, video editors, and post-production studios th…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f49fbd99adeb",
-      "title": "Bought a Samsung foldable? Make sure double tap to wake is on",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-25",
-      "time": "15:22",
-      "publishedAt": "2026-10-25T15:22:38.000Z",
-      "url": "https://www.sammobile.com/news/bought-a-samsung-foldable-make-sure-double-tap-to-wake-is-on/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/10/Screenshot_20261025_170910_Settings.jpg",
-      "summary": "One thing you'll have to get used to after you switch to a Samsung Galaxy Z foldable phone is the fingerprint scanner's location. Unlike most other Galaxy phones, which have in-di…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2de4ab6c09a7",
-      "title": "Apple Stores Reportedly Rolling Out New Anti-Theft System for iPhones",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-25",
-      "time": "15:18",
-      "publishedAt": "2026-10-25T15:18:04.000Z",
-      "url": "https://www.macrumors.com/2026/10/25/apple-stores-anti-theft-iphone-box-checker/",
-      "image": "https://images.macrumors.com/article-new/2025/01/2024-iPhone-Boxes-Feature.jpg",
-      "summary": "Bloomberg 's Mark Gurman today reported that Apple is facing a growing problem where some people will buy iPhones or other products and either remove accessories from the box, ope…",
       "tags": [
         "iPhone",
         "爆料",
@@ -1142,26 +1162,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-cc5fb15ee09e",
-      "title": "Apple Wants to Fix Safari's Cramped Layout on iPhone Duo",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-25",
-      "time": "04:58",
-      "publishedAt": "2026-10-25T04:58:09.000Z",
-      "url": "https://www.macrumors.com/2026/10/25/apple-wants-to-fix-safari-on-iphone-duo/",
-      "image": "https://images.macrumors.com/article-new/2026/10/safari-iphone-duo-webkit.jpg",
-      "summary": "Apple is considering changes to Safari on the iPhone Duo that would give websites access to more of the outer display, although the company has yet to settle on an approach. The c…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-256710bc5281",
       "title": "iPhone Duo 2 提前曝光：FaceID、操作按钮和长焦都要回来了？",
       "source": "爱范儿",
@@ -1178,26 +1178,6 @@ window.phoneRadarAuto = {
       "tags": [
         "iPhone",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e274f811245b",
-      "title": "OnePlus Ace 7, Ace 7 Pro battery size, charging speed, memory variants, and color options revealed",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-25",
-      "time": "03:31",
-      "publishedAt": "2026-10-25T03:31:15.000Z",
-      "url": "https://www.gizmochina.com/2026/10/25/oneplus-ace-7-series-battery-configurations-colours/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/oneplus-ace-7-battery-300x190.jpg?x62950",
-      "summary": "The OnePlus Ace 7 series will make its debut in China later this week, bringing two new smartphones aimed at performance-focused users. Ahead of the launch, the company has reveal…",
-      "tags": [
-        "OPPO",
-        "爆料",
         "自动抓取"
       ]
     }
