@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-10-26T04:44:38.574Z",
+  "updatedAt": "2026-10-26T12:59:56.154Z",
   "issueDate": "2026-10-26",
   "issue": "VOL.261026",
   "title": "手机情报日报",
-  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 10,
-    "iphone": 7,
+    "total": 9,
+    "iphone": 9,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -17,6 +17,53 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-1ca2fab8e5c0",
+          "title": "消息称明年国产 TOP5 厂商都会上阔直板新机，目前全部立项完成",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-26",
+          "time": "10:13",
+          "publishedAt": "2026-10-26T10:13:22.000Z",
+          "url": "https://www.ithome.com/1/018/093.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/e30053e0-47be-4e5a-a081-976aa3c41cff.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 10 月 26 日消息，微博博主 @数码闲聊站 今日爆料称， 2027 年国产 TOP5 厂商都会上阔直板新机 ， 目前全都立项完成并加速测试中 ，各种定义都有。 后续有用户在评论区表示：“果子的阔直板大概率舍不得堆料”，博主回复称：“ 苹果目前没有嗷 ，国产 TOP5 都做了。” 据IT之家此前援引博主消息 ，安卓阵营的阔直板手机，O（预计指…",
+          "detail": "IT之家 10 月 26 日消息，微博博主 @数码闲聊站 今日爆料称， 2027 年国产 TOP5 厂商都会上阔直板新机 ， 目前全都立项完成并加速测试中 ，各种定义都有。 后续有用户在评论区表示：“果子的阔直板大概率舍不得堆料”，博主回复称：“ 苹果目前没有嗷 ，国产 TOP5 都做了。” 据IT之家此前援引博主消息 ，安卓阵营的阔直板手机，O（预计指…",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-770a9575e804",
+          "title": "蓝思科技回应苹果 iPhone Duo 加单 30% 传闻：不评价具体比例，产线正加班赶工",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-26",
+          "time": "08:48",
+          "publishedAt": "2026-10-26T08:48:59.000Z",
+          "url": "https://www.ithome.com/1/017/981.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/05a690f3-028c-4edf-96b0-e570848087c6.jpg?x-bce-process=image/auto-orient,o_1",
+          "verdict": "先看",
+          "takeaway": "IT之家 10 月 26 日消息，据财闻今日报道，近日，苹果（ AAPL.US ）首款折叠屏手机 iPhone Duo 开售之后，出现供不应求的情况。有市场消息称，旺盛的市场需求倒逼苹果要求上游供应商加速赶工，甚至向供应链提出订单规模上调 30%。 蓝思科技作为苹果折叠屏手机 UTG（超薄柔性玻璃）核心供应商，其相关动态备受关注。10 月 26 日，财闻以…",
+          "detail": "IT之家 10 月 26 日消息，据财闻今日报道，近日，苹果（ AAPL.US ）首款折叠屏手机 iPhone Duo 开售之后，出现供不应求的情况。有市场消息称，旺盛的市场需求倒逼苹果要求上游供应商加速赶工，甚至向供应链提出订单规模上调 30%。 蓝思科技作为苹果折叠屏手机 UTG（超薄柔性玻璃）核心供应商，其相关动态备受关注。10 月 26 日，财闻以…",
+          "keyPoints": [
+            "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-256710bc5281",
           "title": "iPhone Duo 2 提前曝光：FaceID、操作按钮和长焦都要回来了？",
@@ -41,46 +88,23 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-7cbe8b10bbcc",
-          "title": "OPPO Find X10 手机全新配色“森绿”公布：10 月 30 日开售，5499 元起",
+          "id": "auto-40bc1a05ae4a",
+          "title": "iPhone 影像能力相关消息",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "OPPO",
+          "source": "MacRumors",
+          "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-10-26",
-          "time": "02:00",
-          "publishedAt": "2026-10-26T02:00:14.000Z",
-          "url": "https://www.ithome.com/1/017/770.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/529ba9e6-7154-41bd-bbe2-3ad102254587.jpg?x-bce-process=image/format,f_auto",
+          "time": "11:31",
+          "publishedAt": "2026-10-26T11:31:21.000Z",
+          "url": "https://www.macrumors.com/how-to/iphone-duo-give-camera-subject-picture-preview/",
+          "image": "https://images.macrumors.com/article-new/2026/09/iphone-duo-preview-camera-app.jpg",
           "verdict": "先看",
-          "takeaway": "IT之家 10 月 26 日消息，OPPO 今日宣布， OPPO Find X10 全新「森绿」登场，联名艺术家 Karlotta Freier， 将于 10 月 30 日正式开售 ，暂未提供 16GB+1TB 版本，定价 5499 元起： 12GB+256GB：5499 元 12GB+512GB：5999 元 16GB+512GB：6499 元 据IT之…",
-          "detail": "IT之家 10 月 26 日消息，OPPO 今日宣布， OPPO Find X10 全新「森绿」登场，联名艺术家 Karlotta Freier， 将于 10 月 30 日正式开售 ，暂未提供 16GB+1TB 版本，定价 5499 元起： 12GB+256GB：5499 元 12GB+512GB：5999 元 16GB+512GB：6499 元 据IT之…",
+          "takeaway": "iPhone 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
+          "detail": "iPhone 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
           "keyPoints": [
-            "外观 / 配色 / 尺寸"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-ab41880995e9",
-          "title": "小米卢伟冰称“又是一款同档无敌的产品”：REDMI K100 手机全新配色“雪岩白”公布",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-26",
-          "time": "01:20",
-          "publishedAt": "2026-10-26T01:20:41.000Z",
-          "url": "https://www.ithome.com/1/017/754.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/fdaf8bc8-216d-44bc-b9ae-bdc8c8f2b6fc.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 10 月 26 日消息，REDMI 红米手机官方今日公布了 REDMI K100 手机全新配色“雪岩白”。 背部融入宣纸般的细腻纹理 干净纯粹，简约百搭之外，更具东方韵味 这款新机将于明天晚上 7 点发布，小米集团合伙人、总裁，手机部总裁，小米品牌总经理卢伟冰今早表示，“ 又是一款同档无敌的产品 。” IT之家整理小米 REDMI K100 标准…",
-          "detail": "IT之家 10 月 26 日消息，REDMI 红米手机官方今日公布了 REDMI K100 手机全新配色“雪岩白”。 背部融入宣纸般的细腻纹理 干净纯粹，简约百搭之外，更具东方韵味 这款新机将于明天晚上 7 点发布，小米集团合伙人、总裁，手机部总裁，小米品牌总经理卢伟冰今早表示，“ 又是一款同档无敌的产品 。” IT之家整理小米 REDMI K100 标准…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸"
+            "影像硬件"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -104,29 +128,6 @@ window.phoneRadarDaily = {
           "detail": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
           "keyPoints": [
             "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-5b3c5c8b369a",
-          "title": "小哥因为网卡抢到两台苹果折叠屏",
-          "originalTitle": "",
-          "source": "今日头条热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-26",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.toutiao.com/trending/7700799832725700634/",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "小哥因为网卡抢到两台苹果折叠屏",
-          "detail": "小哥因为网卡抢到两台苹果折叠屏",
-          "keyPoints": [
-            "屏幕形态"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -230,36 +231,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "launch",
-      "title": "新机与官方发布",
-      "hint": "能直接更新到参数库。",
-      "items": [
-        {
-          "id": "auto-7f2bd160abf0",
-          "title": "网友成功将一加 Ace 5 刷入真 · 纯血鸿蒙 6 系统：机型显示华为 Mate 80 Pro，实现 GPU 完美修复",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-26",
-          "time": "01:18",
-          "publishedAt": "2026-10-26T01:18:51.000Z",
-          "url": "https://www.ithome.com/1/017/753.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/075396d9-5cac-4773-9591-eacf694eff86.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 10 月 26 日消息，B站网友 @RryanLyu 昨晚发布视频，分享了自己的最新刷机成果 —— 为一台一加 Ace 5 手机成功刷入了鸿蒙 HarmonyOS 6 系统， 并实现了 GPU 完美修复 。 视频画面显示，这台一加 Ace 5 手机在刷入 HarmonyOS 6 系统后， 机型显示为华为 Mate 80 Pro ，壁纸、系统动效、…",
-          "detail": "IT之家 10 月 26 日消息，B站网友 @RryanLyu 昨晚发布视频，分享了自己的最新刷机成果 —— 为一台一加 Ace 5 手机成功刷入了鸿蒙 HarmonyOS 6 系统， 并实现了 GPU 完美修复 。 视频画面显示，这台一加 Ace 5 手机在刷入 HarmonyOS 6 系统后， 机型显示为华为 Mate 80 Pro ，壁纸、系统动效、…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         }
       ]
     }
