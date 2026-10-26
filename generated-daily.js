@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-10-26T19:56:06.070Z",
+  "updatedAt": "2026-10-26T23:51:49.644Z",
   "issueDate": "2026-10-26",
   "issue": "VOL.261026",
   "title": "手机情报日报",
-  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 11 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 15 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 16,
-    "iphone": 11,
+    "total": 15,
+    "iphone": 7,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -18,25 +18,25 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "auto-1ca2fab8e5c0",
-          "title": "消息称明年国产 TOP5 厂商都会上阔直板新机，目前全部立项完成",
+          "id": "auto-2ae65c09708b",
+          "title": "苹果回应 iPhone Duo 内屏开裂问题：仅少量设备受影响，可申请换机",
           "originalTitle": "",
           "source": "IT之家",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-10-26",
-          "time": "10:13",
-          "publishedAt": "2026-10-26T10:13:22.000Z",
-          "url": "https://www.ithome.com/1/018/093.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/e30053e0-47be-4e5a-a081-976aa3c41cff.png?x-bce-process=image/format,f_auto",
+          "time": "22:48",
+          "publishedAt": "2026-10-26T22:48:11.000Z",
+          "url": "https://www.ithome.com/1/018/196.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/567cd52a-734a-4fde-adde-4d6f700391e3.jpg?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 10 月 26 日消息，微博博主 @数码闲聊站 今日爆料称， 2027 年国产 TOP5 厂商都会上阔直板新机 ， 目前全都立项完成并加速测试中 ，各种定义都有。 后续有用户在评论区表示：“果子的阔直板大概率舍不得堆料”，博主回复称：“ 苹果目前没有嗷 ，国产 TOP5 都做了。” 据IT之家此前援引博主消息 ，安卓阵营的阔直板手机，O（预计指…",
-          "detail": "IT之家 10 月 26 日消息，微博博主 @数码闲聊站 今日爆料称， 2027 年国产 TOP5 厂商都会上阔直板新机 ， 目前全都立项完成并加速测试中 ，各种定义都有。 后续有用户在评论区表示：“果子的阔直板大概率舍不得堆料”，博主回复称：“ 苹果目前没有嗷 ，国产 TOP5 都做了。” 据IT之家此前援引博主消息 ，安卓阵营的阔直板手机，O（预计指…",
+          "takeaway": "IT之家 10 月 27 日消息，iPhone Duo 上市不久，就有部分用户反馈铰链故障，导致内屏出现裂纹。苹果现已在给 MacRumors 的一份声明中回应了相关消息，称受影响的设备数量很少。 苹果回应如下： 首批用户对 iPhone Duo 的反馈整体非常好，开发者也在快速更新应用，适配这款产品独特的形态，带来了不少亮眼的成果。我们留意到有少量 iP…",
+          "detail": "IT之家 10 月 27 日消息，iPhone Duo 上市不久，就有部分用户反馈铰链故障，导致内屏出现裂纹。苹果现已在给 MacRumors 的一份声明中回应了相关消息，称受影响的设备数量很少。 苹果回应如下： 首批用户对 iPhone Duo 的反馈整体非常好，开发者也在快速更新应用，适配这款产品独特的形态，带来了不少亮眼的成果。我们留意到有少量 iP…",
           "keyPoints": [
             "爆料来源"
           ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -110,29 +110,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-204aefbb2595",
-          "title": "iPhone 相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-26",
-          "time": "14:36",
-          "publishedAt": "2026-10-26T14:36:49.000Z",
-          "url": "https://www.macrumors.com/how-to/quickly-silence-iphone-duo-without-mute-switch/",
-          "image": "https://images.macrumors.com/article-new/2026/10/iphone-duo-silent-mode.jpeg",
-          "verdict": "先看",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "newsnow-231561c30354",
           "title": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
           "originalTitle": "",
@@ -156,23 +133,25 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-4bda9e7dd161",
-          "title": "iPhoneDuo折叠挑战后摔坏",
+          "id": "auto-34675f3c2597",
+          "title": "iPhone 相关消息",
           "originalTitle": "",
-          "source": "微博热搜",
+          "source": "Gizmochina",
           "brand": "iPhone",
           "type": "爆料",
-          "trust": "待验证",
-          "date": "2026-10-26",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://s.weibo.com/weibo?q=iPhoneDuo%E6%8A%98%E5%8F%A0%E6%8C%91%E6%88%98%E5%90%8E%E6%91%94%E5%9D%8F&t=31&band_rank=16&Refer=top",
-          "image": "",
+          "trust": "媒体汇总",
+          "date": "2026-10-25",
+          "time": "18:40",
+          "publishedAt": "2026-10-25T18:40:07.000Z",
+          "url": "https://www.gizmochina.com/2026/10/25/iphone-duo-reachability-feature-for-left-hand-use-tipped-in-new-leak/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/videoframe_0-1-300x169.png?x62950",
           "verdict": "先看",
-          "takeaway": "iPhoneDuo折叠挑战后摔坏",
-          "detail": "iPhoneDuo折叠挑战后摔坏",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "爆料"
+            "外观 / 配色 / 尺寸",
+            "屏幕形态",
+            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -197,6 +176,29 @@ window.phoneRadarDaily = {
           "keyPoints": [
             "芯片 / 性能",
             "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-c056b1746b60",
+          "title": "折叠屏切“苹果”：三星投放 Galaxy Z Fold8 整活广告",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-26",
+          "time": "11:22",
+          "publishedAt": "2026-10-26T11:22:17.000Z",
+          "url": "https://www.ithome.com/1/018/130.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/5d581ef0-1fc9-432b-b0b1-21306110b76f.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 10 月 26 日消息，三星现已在 Instagram 投放一则新广告，宣传自家 Galaxy Z Fold8 折叠屏手机。不过广告中着重展示的对象，是诱惑夏娃、毒倒白雪公主、砸醒牛顿、称霸手机的水果界“老大哥”—— 苹果。 广告开场时，一台 Galaxy Z Fold8 展开内屏， 一颗标着“新款”的青苹果跑到屏幕中间 。随着手机被迅速折起，…",
+          "detail": "IT之家 10 月 26 日消息，三星现已在 Instagram 投放一则新广告，宣传自家 Galaxy Z Fold8 折叠屏手机。不过广告中着重展示的对象，是诱惑夏娃、毒倒白雪公主、砸醒牛顿、称霸手机的水果界“老大哥”—— 苹果。 广告开场时，一台 Galaxy Z Fold8 展开内屏， 一颗标着“新款”的青苹果跑到屏幕中间 。随着手机被迅速折起，…",
+          "keyPoints": [
+            "屏幕形态"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -230,75 +232,6 @@ window.phoneRadarDaily = {
           ],
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-219b81ed2403",
-          "title": "如何看待 iPhone Duo 才开卖一天，网上就很多内屏损坏的案例，而且在同一个位置？",
-          "originalTitle": "",
-          "source": "知乎热榜",
-          "brand": "iPhone",
-          "type": "市场报告",
-          "trust": "媒体汇总",
-          "date": "2026-10-26",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.zhihu.com/question/2097264250158949631",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "如何看待 iPhone Duo 才开卖一天，网上就很多内屏损坏的案例，而且在同一个位置？",
-          "detail": "如何看待 iPhone Duo 才开卖一天，网上就很多内屏损坏的案例，而且在同一个位置？",
-          "keyPoints": [
-            "市场报告"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "目前更像背景信息，对买手机影响不大。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-3bcc21dad345",
-          "title": "建议女生慎买iPhoneDuo",
-          "originalTitle": "",
-          "source": "微博热搜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "待验证",
-          "date": "2026-10-26",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A5%B3%E7%94%9F%E6%85%8E%E4%B9%B0iPhoneDuo&t=31&band_rank=25&Refer=top",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "建议女生慎买iPhoneDuo",
-          "detail": "建议女生慎买iPhoneDuo",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-4664d2626eae",
-          "title": "富士康员工称iPhone Duo已换物料",
-          "originalTitle": "",
-          "source": "百度热搜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-26",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.baidu.com/s?wd=%E5%AF%8C%E5%A3%AB%E5%BA%B7%E5%91%98%E5%B7%A5%E7%A7%B0iPhone+Duo%E5%B7%B2%E6%8D%A2%E7%89%A9%E6%96%99",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "富士康员工称iPhone Duo已换物料",
-          "detail": "富士康员工称iPhone Duo已换物料",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
@@ -362,6 +295,29 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
+          "id": "auto-8b59d2f385b7",
+          "title": "Pixel 相关消息",
+          "originalTitle": "",
+          "source": "Android Police",
+          "brand": "Pixel",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-26",
+          "time": "20:35",
+          "publishedAt": "2026-10-26T20:35:45.000Z",
+          "url": "https://www.androidpolice.com/pixel-11-pro-you-can-get-it-here-for-774/",
+          "image": "",
+          "verdict": "可略过",
+          "takeaway": "Pixel 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Pixel 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响购买预算，值得先看。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
           "id": "auto-30c3d7413dc7",
           "title": "Pixel 系统功能 / AI 体验相关消息",
           "originalTitle": "",
@@ -405,6 +361,29 @@ window.phoneRadarDaily = {
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响手感和显示体验，适合和其他机型对比。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
+          "id": "auto-f63ef44ccddf",
+          "title": "iPhone 18 Pro 对比 Galaxy S26 Plus：差异整理",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-26",
+          "time": "16:01",
+          "publishedAt": "2026-10-26T16:01:47.000Z",
+          "url": "https://www.gizmochina.com/2026/10/26/iphone-18-pro-vs-galaxy-s26-plus/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Apple-iPhone-18-Pro-vs-Samsung-Galaxy-S26-Plus-300x169.png?x62950",
+          "verdict": "可略过",
+          "takeaway": "iPhone 18 Pro 对比 Galaxy S26 Plus：重点看定位、配置差异和价格差，判断是否值得等更高端型号。",
+          "detail": "iPhone 18 Pro 对比 Galaxy S26 Plus 的差异整理。重点看两款机型的定位、影像规格、屏幕尺寸、价格区间和发布时间是否拉开差距。",
+          "keyPoints": [
+            "芯片 / 性能"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]

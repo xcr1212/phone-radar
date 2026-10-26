@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-26T19:56:06.070Z",
+  "updatedAt": "2026-10-26T23:51:49.644Z",
   "news": [
+    {
+      "id": "auto-2ae65c09708b",
+      "title": "苹果回应 iPhone Duo 内屏开裂问题：仅少量设备受影响，可申请换机",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-26",
+      "time": "22:48",
+      "publishedAt": "2026-10-26T22:48:11.000Z",
+      "url": "https://www.ithome.com/1/018/196.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/567cd52a-734a-4fde-adde-4d6f700391e3.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 27 日消息，iPhone Duo 上市不久，就有部分用户反馈铰链故障，导致内屏出现裂纹。苹果现已在给 MacRumors 的一份声明中回应了相关消息，称受影响的设备数量很少。 苹果回应如下： 首批用户对 iPhone Duo 的反馈整体非常好，开发者也在快速更新应用，适配这款产品独特的形态，带来了不少亮眼的成果。我们留意到有少量 iP…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8b59d2f385b7",
+      "title": "Don't bother with other Pixel 11 Pro deals, when you can get it here for $774",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-26",
+      "time": "20:35",
+      "publishedAt": "2026-10-26T20:35:45.000Z",
+      "url": "https://www.androidpolice.com/pixel-11-pro-you-can-get-it-here-for-774/",
+      "image": "",
+      "summary": "You won't find a better price",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-60301dca9964",
       "title": "Apple finally breaks its silence on iPhone Duo’s cracked screens",
@@ -242,26 +282,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-204aefbb2595",
-      "title": "Quickly Silence iPhone Duo Without a Ring/Mute Switch",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-26",
-      "time": "14:36",
-      "publishedAt": "2026-10-26T14:36:49.000Z",
-      "url": "https://www.macrumors.com/how-to/quickly-silence-iphone-duo-without-mute-switch/",
-      "image": "https://images.macrumors.com/article-new/2026/10/iphone-duo-silent-mode.jpeg",
-      "summary": "The new iPhone Duo drops both the classic Ring/Silent switch as well as the newer Action button, so there is no physical mute control on the device, and no way to assign the Silen…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-117d66c9edad",
       "title": "受内存涨价影响，曝三星计划减产 20% Galaxy A 系中低端手机",
       "source": "IT之家",
@@ -457,26 +477,6 @@ window.phoneRadarAuto = {
       "summary": "OnePlus 16 is coming to India soon. Explore the expected launch date, India pricing, Snapdragon 8 Elite Extreme chip, and key specs upgrades. The post OnePlus 16 India launch: Exp…",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1ca2fab8e5c0",
-      "title": "消息称明年国产 TOP5 厂商都会上阔直板新机，目前全部立项完成",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-26",
-      "time": "10:13",
-      "publishedAt": "2026-10-26T10:13:22.000Z",
-      "url": "https://www.ithome.com/1/018/093.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/e30053e0-47be-4e5a-a081-976aa3c41cff.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 26 日消息，微博博主 @数码闲聊站 今日爆料称， 2027 年国产 TOP5 厂商都会上阔直板新机 ， 目前全都立项完成并加速测试中 ，各种定义都有。 后续有用户在评论区表示：“果子的阔直板大概率舍不得堆料”，博主回复称：“ 苹果目前没有嗷 ，国产 TOP5 都做了。” 据IT之家此前援引博主消息 ，安卓阵营的阔直板手机，O（预计指…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -762,6 +762,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "coolapk-user-c500d0922c33",
+      "title": "JSCHEN小小狐：REDMI K100 外观预热：新配色「雪岩白」",
+      "source": "JSCHEN小小狐",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-26",
+      "time": "01:02",
+      "publishedAt": "2026-10-26T01:02:26.000Z",
+      "url": "https://www.coolapk.com/feed/74620536",
+      "image": "http://image.coolapk.com/feed/2026/1026/09/4702274_a5be21b0_6544_7187_712@1124x1124.jpg",
+      "summary": "『REDMI K100 外观预热：新配色「雪岩白」』 K100 全新配色「雪岩白」 - 背部融入宣纸般的细腻纹理 - 干净纯粹，简约百搭之外，更具东方韵味 REDMI K100 雪岩白，10 月 27 日晚 7 点直播见 #今日热点# #RedmiK90# #REDMIK90至尊版#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
       "id": "auto-bfd196d7caed",
       "title": "iPhone Duo arrives at Apple Store locations worldwide",
       "source": "Apple Newsroom",
@@ -842,82 +862,22 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-53f962144421",
-      "title": "REDMI K100 外观预热：新配色「雪岩白」",
+      "id": "newsnow-30bab37a7702",
+      "title": "消息称国产top5厂商将在2027 年上市阔直版新机",
       "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-26",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74620536",
+      "url": "https://www.coolapk.com/feed/74633769",
       "image": "",
-      "summary": "REDMI K100 外观预热：新配色「雪岩白」",
+      "summary": "消息称国产top5厂商将在2027 年上市阔直版新机",
       "tags": [
-        "Xiaomi",
+        "行业",
         "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-4bda9e7dd161",
-      "title": "iPhoneDuo折叠挑战后摔坏",
-      "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-10-26",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=iPhoneDuo%E6%8A%98%E5%8F%A0%E6%8C%91%E6%88%98%E5%90%8E%E6%91%94%E5%9D%8F&t=31&band_rank=16&Refer=top",
-      "image": "",
-      "summary": "iPhoneDuo折叠挑战后摔坏",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-3bcc21dad345",
-      "title": "建议女生慎买iPhoneDuo",
-      "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-10-26",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A5%B3%E7%94%9F%E6%85%8E%E4%B9%B0iPhoneDuo&t=31&band_rank=25&Refer=top",
-      "image": "",
-      "summary": "建议女生慎买iPhoneDuo",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-219b81ed2403",
-      "title": "如何看待 iPhone Duo 才开卖一天，网上就很多内屏损坏的案例，而且在同一个位置？",
-      "source": "知乎热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "市场报告",
-      "trust": "媒体汇总",
-      "date": "2026-10-26",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2097264250158949631",
-      "image": "",
-      "summary": "如何看待 iPhone Duo 才开卖一天，网上就很多内屏损坏的案例，而且在同一个位置？",
-      "tags": [
-        "iPhone",
-        "市场报告",
         "NewsNow"
       ]
     },
@@ -982,21 +942,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-4664d2626eae",
-      "title": "富士康员工称iPhone Duo已换物料",
-      "source": "百度热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "id": "newsnow-33dffa7747e2",
+      "title": "苹果华为小米折叠屏适配对比",
+      "source": "抖音热点",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
-      "trust": "媒体汇总",
+      "trust": "待验证",
       "date": "2026-10-26",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E5%AF%8C%E5%A3%AB%E5%BA%B7%E5%91%98%E5%B7%A5%E7%A7%B0iPhone+Duo%E5%B7%B2%E6%8D%A2%E7%89%A9%E6%96%99",
+      "url": "https://www.douyin.com/hot/2714294",
       "image": "",
-      "summary": "富士康员工称iPhone Duo已换物料",
+      "summary": "苹果华为小米折叠屏适配对比",
       "tags": [
-        "iPhone",
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
