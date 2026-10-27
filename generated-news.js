@@ -1,6 +1,486 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-27T05:02:05.506Z",
+  "updatedAt": "2026-10-27T12:09:21.428Z",
   "news": [
+    {
+      "id": "coolapk-user-107ed35873a1",
+      "title": "竹本青：【荣耀向天马追加 Magic9标准版 屏幕订单】 10月27日，据蓝鲸科技获悉，荣耀近期向天马追加了两批Magic…",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-27",
+      "time": "11:44",
+      "publishedAt": "2026-10-27T11:44:58.000Z",
+      "url": "https://www.coolapk.com/feed/74656965",
+      "image": "http://image.coolapk.com/feed/2026/1027/19/4248714_f4c33337_1497_785_535@1024x1536.jpg",
+      "summary": "【荣耀向天马追加 Magic9标准版 屏幕订单】 10月27日，据蓝鲸科技获悉，荣耀近期向天马追加了两批Magic9标准版屏幕订单，而天马为该版本屏幕的独家供应商。 与此同时，荣耀也在为成本控制做不断尝试。据了解，上一代WIN（WIN1）采用深天马供应的6.83英寸1.5K 185Hz屏；到WIN2系列，荣耀全系转向维信诺的2K 185Hz大直屏。 某国产…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-2f7b6085b83a",
+      "title": "JSCHEN小小狐：REDMI Book 2027系列发布：6799元起售",
+      "source": "JSCHEN小小狐",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-27",
+      "time": "11:33",
+      "publishedAt": "2026-10-27T11:33:39.000Z",
+      "url": "https://www.coolapk.com/feed/74656711",
+      "image": "http://image.coolapk.com/feed/2026/1027/19/4702274_a6ba733c_0817_4876_125@1440x3377.jpg",
+      "summary": "『REDMI Book 2027 系列发布：6799 元起售』 REDMI Book 14 2027 C5-320 / 16GB / 512GB：6799 元 C7-350 / 16GB / 1TB：7999 元 REDMI Book 16 2027 C5-320 / 16GB / 512GB：6999 元 C7-350 / 16GB / 1TB：8199…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-bb8a1de861a6",
+      "title": "JSCHEN小小狐：『REDMI K100 正式发布：首销价 2999 元起』 12GB + 256GB —— 2999 元（原价 3…",
+      "source": "JSCHEN小小狐",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-27",
+      "time": "11:31",
+      "publishedAt": "2026-10-27T11:31:48.000Z",
+      "url": "https://www.coolapk.com/feed/74656682",
+      "image": "http://image.coolapk.com/feed/2026/1027/19/4702274_7d40e8a1_0704_3058_395@1723x4809.jpg",
+      "summary": "『REDMI K100 正式发布：首销价 2999 元起』 12GB + 256GB —— 2999 元（原价 3499） 12GB + 512GB —— 3499 元（原价 4099） 16GB + 512GB —— 3899 元（原价 4499） ◇ 外观 流萤绿、雪岩白、黑色 铝合金中框 + 复合玻纤背板 162.91 × 77.93 × 8.65m…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-509e801b2ec9",
+      "title": "I tested the Galaxy S26 Ultra and OPPO Find X10 Pro Max cameras — it’s no contest",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-27",
+      "time": "11:30",
+      "publishedAt": "2026-10-27T11:30:05.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s26-ultra-oppo-find-x10-pro-max-camera-comparison-3727207/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/galaxy-s26-ultra-and-find-x10-pro-max-hand-scaled-e1792761558663.jpg",
+      "summary": "Are three 200MP cameras better than one? OPPO wants you to think so, so we found out.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-41572ea494f0",
+      "title": "Galaxy Z Fold 8 is still $200 off as iPhone Duo displays crack",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-27",
+      "time": "11:30",
+      "publishedAt": "2026-10-27T11:30:00.000Z",
+      "url": "https://9to5google.com/2026/10/27/galaxy-z-fold-8-discount-iphone-duo-displays/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-review-40.jpg?quality=82&strip=all&w=1600",
+      "summary": "Samsung’s Galaxy Z Fold 8 has the same form factor as Apple’s new iPhone Duo, but it’s in stock, discounted, and doesn’t have any cracking display issue at the moment. more…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-dfea013a324c",
+      "title": "数码闲聊站：REDMI K100，这价格感觉怎么样？ 12GB+256GB——3499元/…",
+      "source": "数码闲聊站",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-27",
+      "time": "11:22",
+      "publishedAt": "2026-10-27T11:22:22.000Z",
+      "url": "https://weibo.com/6048569942/RoDnYANMt",
+      "image": "",
+      "summary": "REDMI K100，这价格感觉怎么样？ 12GB+256GB——3499元/限时价2999元 12GB+512GB——4099元/限时价3499元 16GB+512GB——4499元/限时价3899元",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "coolapk-user-a6277aeb0441",
+      "title": "竹本青：REDMI K100正式发布：首发2999元起",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-27",
+      "time": "11:18",
+      "publishedAt": "2026-10-27T11:18:44.000Z",
+      "url": "https://www.coolapk.com/feed/74656318",
+      "image": "http://image.coolapk.com/feed/2026/1027/19/4248714_82bb25e7_0363_527_919@1723x4809.jpg",
+      "summary": "【REDMI K100 正式发布：骁龙8E处理器+10000mAh电池，首发2999元起】 12GB+256GB —— 2999元 12GB+512GB —— 3499元 16GB+512GB —— 3899元 核心： ● 6.83″1.5K 165Hz M10直屏 ● 骁龙8 Elite+D2独显芯片 ● LPDDR5X Ultra+UFS4.1 ● 1…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-a3f04f67f2a6",
+      "title": "This T-Mobile deal could get you a Samsung Galaxy S26 Ultra for the price of a monthly cup of coffee",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-27",
+      "time": "11:15",
+      "publishedAt": "2026-10-27T11:15:11.000Z",
+      "url": "https://www.androidpolice.com/t-mobile-samsung-galaxy-s26-ultra-deal-1200-off/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/02/samsung-galaxy-s26-ultra-4.jpg",
+      "summary": "Simply add a line with an eligible data plan and score $1,200 off the phone.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-3bd04962d837",
+      "title": "竹本青：极客湾解读骁龙8EE6手机黑屏问题：纯粹电压没给够",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-27",
+      "time": "11:14",
+      "publishedAt": "2026-10-27T11:14:16.000Z",
+      "url": "https://www.coolapk.com/feed/74656226",
+      "image": "http://image.coolapk.com/feed/2026/1027/19/4248714_3e548587_9655_9702_677@2216x3739.jpg",
+      "summary": "【极客湾解读 骁龙8EE6 手机黑屏问题：纯粹是电压没给够】 近期，搭载高通骁龙8 Elite Extreme Gen6（以下简称8EE6）的多款旗舰上市后，陆续有多位机主反馈，在高负载下偶发出现黑屏、死机与自动重启问题，相关讨论持续发酵。 10月27日，极客湾在最新横评视频中对黑屏原因作出解读：其自购的一台骁龙8EE6机型也曾出现黑屏，该问题与芯片设计缺…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-7a5fc0f4efe1",
+      "title": "小米 18 Pro 系列全球版机型定价曝光：1549 欧元起",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-27",
+      "time": "11:08",
+      "publishedAt": "2026-10-27T11:08:03.000Z",
+      "url": "https://www.ithome.com/1/018/610.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/dce279bc-a196-4846-a2ae-23737b04e868.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 27 日消息，据科技媒体 Notebookcheck 今天报道，意大利零售商 Epto 最近提前公开了小米 18 Pro 系列手机全球版定价，起售价为 1,549 欧元 （IT之家注：现汇率约合 11,574 元人民币） 。 据介绍，小米 18 Pro 和 18 Pro Max 在全球市场将提供黑色、白色和酒红色，其中酒红色是全球版独有…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6bce2702c9f3",
+      "title": "iPhone 18 Pro series sales rise 3.1% globally as China leads growth and US declines",
+      "source": "Gizmochina",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-27",
+      "time": "11:02",
+      "publishedAt": "2026-10-27T11:02:34.000Z",
+      "url": "https://www.gizmochina.com/2026/10/27/iphone-18-pro-sales-growth/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/iPHone-18-Pro-series-featured-300x214.png?x62950",
+      "summary": "Apple’s latest iPhone 18 Pro series has recorded a mixed start across major markets, according to new sales data. The premium lineup is performing better globally than its predece…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-275727595e90",
+      "title": "iPhone 18e Could Get Two Key Upgrades While Keeping 60Hz Display",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-27",
+      "time": "10:41",
+      "publishedAt": "2026-10-27T10:41:44.000Z",
+      "url": "https://www.macrumors.com/2026/10/27/iphone-18e-could-get-two-key-upgrades/",
+      "image": "https://images.macrumors.com/article-new/2026/03/iphone-17e-notch.jpg",
+      "summary": "Apple's upcoming iPhone 18e model will retain a 60Hz display but could gain an upgraded front-facing camera, according to the leaker known as \"Digital Chat Station.\" In a new post…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-879665fd4780",
+      "title": "The iOS-ification of Android is ruining my favorite phones",
+      "source": "Android Authority",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-27",
+      "time": "10:30",
+      "publishedAt": "2026-10-27T10:30:35.000Z",
+      "url": "https://www.androidauthority.com/ios-ification-of-android-3721391/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/OPPO-Find-X10-Pro-Max-Liquid-Glass.jpg",
+      "summary": "I love Android, but its obsession with copying Liquid Glass is starting to get on my nerves.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0f15e87034e1",
+      "title": "I didn't think I cared about UWB until the Galaxy S27+ leak showed me what I might lose",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-27",
+      "time": "10:00",
+      "publishedAt": "2026-10-27T10:00:11.000Z",
+      "url": "https://www.androidpolice.com/galaxy-s27-plus-losing-uwb/",
+      "image": "",
+      "summary": "The features you'd miss could be bigger than you think, depending on how you use your phone",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4423a069771a",
+      "title": "Samsung takes a jab at iPhone Duo, says Galaxy Z Fold 8 is “years ahead”",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-27",
+      "time": "09:48",
+      "publishedAt": "2026-10-27T09:48:14.000Z",
+      "url": "https://www.gizmochina.com/2026/10/27/samsung-takes-a-jab-at-iphone-duo-says-galaxy-z-fold-8-is-years-ahead/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/samsung-mocks-apple-for-iphone-duo-in-new-ad-300x169.jpg?x62950",
+      "summary": "Samsung responded with a pointed Instagram ad that leans right into the drama. The sponsored video references the hinge vulnerability from testing and directly compares the physic…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8f0de6440c4f",
+      "title": "消息称某厂新机影像实验室出现双潜望长焦方案，预计华为旗下",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-27",
+      "time": "09:14",
+      "publishedAt": "2026-10-27T09:14:58.000Z",
+      "url": "https://www.ithome.com/1/018/530.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/1491e9c5-0a70-481e-abe4-87f805f5039d.png",
+      "summary": "IT之家 10 月 27 日消息，据博主 @数码闲聊站 今日爆料，某厂新机影像实验室出现了双潜望长焦方案，一颗 50Mp RYYB 小底，一颗 200Mp 1/1.3″ RYYB 超大底，焦段配置上新。结合该博主此前的爆料习惯，预计该机为华为旗下。 IT之家注意到，该博主此前爆料某厂 2027H1 影像旗舰在评估阔屏 ，据工程机信息，标准版继续用 6.6…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5426ee2bcc47",
+      "title": "Vivo X500 Pro Max, X500 Pro, X500 to launch in India by November end",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-27",
+      "time": "08:44",
+      "publishedAt": "2026-10-27T08:44:13.000Z",
+      "url": "https://www.gizmochina.com/2026/10/27/vivo-x500-pro-max-x500-pro-x500-india-launch-november-end/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Vivo-X500-Pro-Max-featured-300x166.jpg?x62950",
+      "summary": "According to a report, Vivo is preparing to bring its X500 series to India, and the timeline is now clearer. The lineup is expected to arrive in the country by the end of November…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-114e305106a4",
+      "title": "iPhone 18e specs leak, and Android phones still have the upper hand with this key feature",
+      "source": "Android Authority",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-27",
+      "time": "08:41",
+      "publishedAt": "2026-10-27T08:41:36.000Z",
+      "url": "https://www.androidauthority.com/apple-iphone-18e-leaked-specs-3728368/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/Apple-iPhone-17e-showing-hello-startupscreen-on-display-during-boot-with-MacBook-Neo-in-the-background.jpg",
+      "summary": "Apple is apparently withholding a high-refresh-rate screen yet again.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6d58914fd967",
+      "title": "iPhone 18e specs leak, retains 60Hz display and a single rear camera",
+      "source": "Gizmochina",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-27",
+      "time": "07:48",
+      "publishedAt": "2026-10-27T07:48:10.000Z",
+      "url": "https://www.gizmochina.com/2026/10/27/iphone-18e-specs-leak-retains-60hz-display-and-a-single-rear-camera/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/03/iPhone-17e-1-300x240.jpg?x62950",
+      "summary": "The iPhone 18e has been tipped to keep a 60Hz display since June, when a 2027 iPhone lineup leak listed it at 6.12 inches with an LTPS panel, while the iPhone 18 and iPhone Air 2…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a1de70286b0f",
+      "title": "Possible Vivo X500s surfaces in first leak with 2K 144Hz display",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-27",
+      "time": "07:19",
+      "publishedAt": "2026-10-27T07:19:45.000Z",
+      "url": "https://www.gizmochina.com/2026/10/27/possible-vivo-x500s-surfaces-in-first-leak-with-2k-144hz-display/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/03/Vivo-X300s-telephoto-extender-193x300.jpg?x62950",
+      "summary": "Prolific insider Digital Chat Station (DCS) has shared details of a Vivo phone that they claim belongs to the next “S” model. The tipster does not name the phone, but going by the…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-433fd0801c45",
+      "title": "Samsung fined $15 million for Galaxy S21 and Galaxy S22’s poor gaming performance",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-27",
+      "time": "07:17",
+      "publishedAt": "2026-10-27T07:17:51.000Z",
+      "url": "https://www.sammobile.com/news/samsung-fined-usd-15-million-galaxy-s21-s22-tab-s8-poor-gaming-performance/",
+      "image": "",
+      "summary": "Samsung has been fined KRW 20 billion (around $15.1 million) for misleading customers regarding the gaming performance of the Galaxy S21 series, Galaxy S22 series, and Galaxy Tab…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-c3b476e3e796",
+      "title": "竹本青：一加Ace 7系列将搭载自研「电竞三芯」",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-27",
+      "time": "06:32",
+      "publishedAt": "2026-10-27T06:32:49.000Z",
+      "url": "https://www.coolapk.com/feed/74650229",
+      "image": "http://image.coolapk.com/feed/2026/1027/14/4248714_51d2cefc_2768_1083_217@1080x1920.jpg",
+      "summary": "【一加Ace 7系列 宣布搭载自研「电竞三芯」：优化触控、网络、显示】 ○ 灵犀触控芯 T3，响应更快，连续不中断 ○ 电竞网络芯 G3，优化网络链路，降低时延 ○ 超级显示芯 P4，动态画面优化，更清晰 #今日热点# #一加Ace7Pro# #一加Ace7#",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-698ef8e826de",
+      "title": "竹本青：小米再介绍 18 Fold 折叠架构：新一代龙骨转轴，机身强度大幅跃升",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-27",
+      "time": "06:12",
+      "publishedAt": "2026-10-27T06:12:09.000Z",
+      "url": "https://www.coolapk.com/feed/74649843",
+      "image": "http://image.coolapk.com/feed/2026/1027/14/4248714_9fe1eda5_1525_6606_894@1439x1122.jpg",
+      "summary": "【小米再介绍 18 Fold 折叠架构：新一代龙骨转轴，机身强度大幅跃升】 10月27日，小米官方社媒再度发布 18 Fold 折叠屏海报，重点介绍机身强度表现。 海报显示，该机采用先进折叠架构，机身强度大幅跃升：新一代龙骨转轴；全贴合保护7系铝合金中框；双层UTG玻璃盖板更抗冲击；具备1.2米抗跌落能力，平均折痕深度≤30μm。 值得注意的是，这是继9月…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "weibo-35f6ee2a63bc",
+      "title": "数码闲聊站：iPhone 18e也是60Hz屏幕嗷，6.12英寸60Hz LTPS OLE…",
+      "source": "数码闲聊站",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-27",
+      "time": "05:52",
+      "publishedAt": "2026-10-27T05:52:00.000Z",
+      "url": "https://weibo.com/6048569942/RoBdSAIEh",
+      "image": "",
+      "summary": "iPhone 18e也是60Hz屏幕嗷，6.12英寸60Hz LTPS OLED，2nm A20芯片，48Mp单摄，前摄可能会升级24Mp，2027年继续流逝赫紫[爱慕]",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "微博"
+      ]
+    },
     {
       "id": "auto-b1107569e788",
       "title": "Global Xiaomi 18 Pro and 18 Pro Max hit European retailer early with prices, Velvet Red color",
@@ -39,46 +519,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "coolapk-user-50f9908a800f",
-      "title": "竹本青：一加 Ace 7系列风冷系统：国标3倍防尘，首销赠5年保障",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-27",
-      "time": "03:06",
-      "publishedAt": "2026-10-27T03:06:10.000Z",
-      "url": "https://www.coolapk.com/feed/74646126",
-      "image": "http://image.coolapk.com/feed/2026/1027/11/4248714_fc46ec05_0370_0425_210@1080x1440.jpg",
-      "summary": "【一加 Ace 7系列 风冷系统预热：国标3倍防尘，首销赠5年保障】 ● 经过24小时灰尘实验仍然正常运行，达到国标8小时的3倍； ● 首销周购机用户可享5年风扇保，质量问题免费维修； ● 终身风扇免费清洁保养，不限次数。 #今日热点# #一加Ace7Pro# #一加Ace7#",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-323282d31625",
-      "title": "20 分钟压力测试：苹果 iPhone Duo 驾驭散热能力比三星 Galaxy Z Fold8 手机更强",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-27",
-      "time": "02:57",
-      "publishedAt": "2026-10-27T02:57:38.000Z",
-      "url": "https://www.ithome.com/1/018/267.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/64b1b66b-9c1a-4675-89be-b7a6f9c1647a.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 27 日消息，科技媒体 Tom's Guide 于 10 月 25 日发布实验室测试博文，对比了苹果 iPhone Duo 和三星 Galaxy Z Fold8 两款折叠手机的散热表现。 本次测试使用 3DMark Wild Life Extreme 压力测试，持续约 20 分钟。测试结果来看，iPhone Duo 虽然机身表面温度更高…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -182,6 +622,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "auto-2791b43b41f4",
+      "title": "iPhone Duo Features Independent Rotation Lock Controls",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-27",
+      "time": "00:00",
+      "publishedAt": "2026-10-27T00:00:00.000Z",
+      "url": "https://www.macrumors.com/2026/10/26/iphone-duo-independent-rotation-lock-controls/",
+      "image": "https://images.macrumors.com/article-new/2026/10/iphone-duo-unfolded-lock-screen.jpg",
+      "summary": "The iPhone Duo can lock the screen orientation of its two displays independently. Enabling Orientation Lock from Control Center applies only to the display you're using at the tim…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "newsnow-4cec05107cb8",
       "title": "破与立：设计视角下的 iPhone Duo",
       "source": "少数派热榜",
@@ -242,8 +702,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-62888dc86dcc",
-      "title": "gpu驱动成功，但还有渲染bug#红米Note12Turbo# #Hackios#",
+      "id": "newsnow-be10468d1d94",
+      "title": "极客湾「旗舰手机芯片能效」横评出炉：苹果仍领先，玄戒/天玑稳提升，高通开倒车",
       "source": "酷安热榜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -252,9 +712,9 @@ window.phoneRadarAuto = {
       "date": "2026-10-27",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74593954",
+      "url": "https://www.coolapk.com/feed/74653110",
       "image": "",
-      "summary": "gpu驱动成功，但还有渲染bug#红米Note12Turbo# #Hackios#",
+      "summary": "极客湾「旗舰手机芯片能效」横评出炉：苹果仍领先，玄戒/天玑稳提升，高通开倒车",
       "tags": [
         "iPhone",
         "爆料",
@@ -262,8 +722,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-73b5d144e566",
-      "title": "消息称国产top5厂商将在2027 年上市阔直版新机",
+      "id": "newsnow-caa18f68d607",
+      "title": "今晚重测两台8EE6手机，事先叠甲：芯片确实能效不佳，手机厂家非主要责任，而且完全完全不至于到火龙888的地步。",
       "source": "酷安热榜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -272,9 +732,9 @@ window.phoneRadarAuto = {
       "date": "2026-10-27",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74633769",
+      "url": "https://www.coolapk.com/feed/74641562",
       "image": "",
-      "summary": "消息称国产top5厂商将在2027 年上市阔直版新机",
+      "summary": "今晚重测两台8EE6手机，事先叠甲：芯片确实能效不佳，手机厂家非主要责任，而且完全完全不至于到火龙888的地步。",
       "tags": [
         "行业",
         "爆料",
@@ -282,19 +742,19 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-57825c57a8f2",
-      "title": "富士康员工曝iPhoneDuo碎屏原因",
-      "source": "微博热搜",
+      "id": "newsnow-68833cda0c31",
+      "title": "大胆猜测：iPhone Duo推出得太仓促。",
+      "source": "酷安热榜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
       "type": "爆料",
-      "trust": "待验证",
+      "trust": "高关注爆料源",
       "date": "2026-10-27",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%AF%8C%E5%A3%AB%E5%BA%B7%E5%91%98%E5%B7%A5%E6%9B%9DiPhoneDuo%E7%A2%8E%E5%B1%8F%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=19&Refer=top",
+      "url": "https://www.coolapk.com/feed/74643113",
       "image": "",
-      "summary": "富士康员工曝iPhoneDuo碎屏原因",
+      "summary": "大胆猜测：iPhone Duo推出得太仓促。",
       "tags": [
         "iPhone",
         "爆料",
@@ -302,8 +762,28 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-4852cfda9c0f",
-      "title": "苹果回应iPhone Duo内屏开裂",
+      "id": "newsnow-df283f584b6c",
+      "title": "苹果称很多客户取消 iPhone Duo 订单，具体是什么原因？其他购买渠道靠谱吗？",
+      "source": "知乎热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-10-27",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2098051987572879804",
+      "image": "",
+      "summary": "苹果称很多客户取消 iPhone Duo 订单，具体是什么原因？其他购买渠道靠谱吗？",
+      "tags": [
+        "iPhone",
+        "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-5c9822cbe2e2",
+      "title": "iPhone Duo真实使用感受",
       "source": "B站热搜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -312,9 +792,9 @@ window.phoneRadarAuto = {
       "date": "2026-10-27",
       "time": "",
       "publishedAt": "",
-      "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94iPhone%20Duo%E5%86%85%E5%B1%8F%E5%BC%80%E8%A3%82",
+      "url": "https://search.bilibili.com/all?keyword=iPhone%20Duo%E7%9C%9F%E5%AE%9E%E4%BD%BF%E7%94%A8%E6%84%9F%E5%8F%97",
       "image": "",
-      "summary": "苹果回应iPhone Duo内屏开裂",
+      "summary": "iPhone Duo真实使用感受",
       "tags": [
         "iPhone",
         "爆料",
@@ -322,8 +802,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-ef7a01566d9f",
-      "title": "苹果回应iPhone Duo折叠屏开裂",
+      "id": "newsnow-bdb1abd8a3d8",
+      "title": "苹果承认少量iPhone Duo内屏异常",
       "source": "今日头条热榜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -332,9 +812,49 @@ window.phoneRadarAuto = {
       "date": "2026-10-27",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7701119534823951898/",
+      "url": "https://www.toutiao.com/trending/7701307912471186970/",
       "image": "",
-      "summary": "苹果回应iPhone Duo折叠屏开裂",
+      "summary": "苹果承认少量iPhone Duo内屏异常",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-03010822a629",
+      "title": "iPhone Duo裂屏考验苹果新CEO",
+      "source": "今日头条热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-27",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7701277703856459315/",
+      "image": "",
+      "summary": "iPhone Duo裂屏考验苹果新CEO",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-78ce39e62bf5",
+      "title": "前苹果工程师谈折叠屏内屏开裂疑因",
+      "source": "今日头条热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-27",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7701279058968972854/",
+      "image": "",
+      "summary": "前苹果工程师谈折叠屏内屏开裂疑因",
       "tags": [
         "iPhone",
         "爆料",
@@ -437,26 +957,6 @@ window.phoneRadarAuto = {
       "summary": "One hub/cord to rule them all is a goal most people have for their desk. The TESSAN Magic 65W Charging Station is built to collapse your pile of cords into a single compact hub, a…",
       "tags": [
         "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1193c37fe5d8",
-      "title": "Apple Responds to iPhone Duo Display Cracking Reports",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-26",
-      "time": "17:20",
-      "publishedAt": "2026-10-26T17:20:37.000Z",
-      "url": "https://www.macrumors.com/2026/10/26/iphone-duo-crack-apple-response/",
-      "image": "https://images.macrumors.com/article-new/2026/10/iphone-duo-screen-crack.jpg",
-      "summary": "Shortly after the iPhone Duo launched, a few users reported hinge issues that were causing cracks in the inner display . Apple has now responded to the reports in a statement to M…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -602,26 +1102,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-77a4603d44bf",
-      "title": "Was Samsung right? The iPhone Duo’s hidden camera gives off 2016 vibes",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-26",
-      "time": "11:15",
-      "publishedAt": "2026-10-26T11:15:35.000Z",
-      "url": "https://www.sammobile.com/news/was-samsung-right-iphone-duo-hidden-camera-gives-2016-vibes/",
-      "image": "",
-      "summary": "The iPhone Duo has brought under-display cameras back into the spotlight. Hiding the camera beneath the folding screen gives Apple’s foldable a cleaner look, but its picture quali…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-b9b49549cdda",
       "title": "iPhone Duo tested to destruction, including removing nanotexture layer",
       "source": "9to5Mac",
@@ -737,26 +1217,6 @@ window.phoneRadarAuto = {
       "summary": "This year’s Xiaomi 18 Pro Max is both completely expected and completely unexpected. It looks so similar to the 17 Pro Max, yet it is also different in so many ways. There are upg…",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ee28e1b5e049",
-      "title": "Samsung releases second October update for Galaxy Z Fold 8 series, Flip 8",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-26",
-      "time": "09:11",
-      "publishedAt": "2026-10-26T09:11:31.000Z",
-      "url": "https://www.sammobile.com/news/samsung-releases-second-october-update-galaxy-z-fold-8-series-flip-8/",
-      "image": "",
-      "summary": "Earlier today, Samsung released the second update of the month for the Galaxy S26 series, which seems to offer under-the-hood changes. Now, the brand is doing the same for the Gal…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
