@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-10-27T17:59:07.747Z",
+  "updatedAt": "2026-10-27T22:12:07.445Z",
   "issueDate": "2026-10-27",
   "issue": "VOL.261027",
   "title": "手机情报日报",
@@ -89,6 +89,30 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "newsnow-0f42a9ed2ead",
+          "title": "iPhone 18e 60Hz屏幕，6.12英寸60HZ LTPSOLED,2nm A20芯片，48Mp单摄，前摄可能会升级24Mp。",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-10-27",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/74649904",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone 18e 60Hz屏幕，6.12英寸60HZ LTPSOLED,2nm A20芯片，48Mp单摄，前摄可能会升级24Mp。",
+          "detail": "iPhone 18e 60Hz屏幕，6.12英寸60HZ LTPSOLED,2nm A20芯片，48Mp单摄，前摄可能会升级24Mp。",
+          "keyPoints": [
+            "屏幕形态",
+            "芯片 / 性能"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-275727595e90",
           "title": "iPhone 18e 屏幕规格相关消息",
           "originalTitle": "",
@@ -139,6 +163,30 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-9ef24c570efd",
+          "title": "iPhone 18 系统功能 / AI 体验相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-27",
+          "time": "19:28",
+          "publishedAt": "2026-10-27T19:28:53.000Z",
+          "url": "https://9to5mac.com/2026/10/27/apples-low-cost-iphone-18-details-revealed-by-leaker/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/iphone-18-mockup-red.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "iPhone 18 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "成本 / 价格",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-114e305106a4",
           "title": "iPhone 18e 系统功能 / AI 体验相关消息",
           "originalTitle": "",
@@ -161,52 +209,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-78b20cc440f7",
-          "title": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-10-27",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/115426",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
-          "detail": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-67dc2c18e7de",
-          "title": "苹果折叠屏“出师不利”",
-          "originalTitle": "",
-          "source": "今日头条热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-27",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.toutiao.com/trending/7701324668954742299/",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "苹果折叠屏“出师不利”",
-          "detail": "苹果折叠屏“出师不利”",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -216,8 +218,8 @@ window.phoneRadarDaily = {
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
         {
-          "id": "newsnow-4ab7a1c32f02",
-          "title": "苹果首次承认少量iPhone Duo内屏问题，可免费换机",
+          "id": "newsnow-99c269098002",
+          "title": "看完视频，在今年大涨价的背景下，无脑买苹果，安卓旗舰新机一台都不要买，喜欢安卓请买上一代",
           "originalTitle": "",
           "source": "酷安热榜",
           "brand": "iPhone",
@@ -226,16 +228,16 @@ window.phoneRadarDaily = {
           "date": "2026-10-27",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/74642607",
+          "url": "https://www.coolapk.com/feed/74656284",
           "image": "",
           "verdict": "先看",
-          "takeaway": "苹果首次承认少量iPhone Duo内屏问题，可免费换机",
-          "detail": "苹果首次承认少量iPhone Duo内屏问题，可免费换机",
+          "takeaway": "看完视频，在今年大涨价的背景下，无脑买苹果，安卓旗舰新机一台都不要买，喜欢安卓请买上一代",
+          "detail": "看完视频，在今年大涨价的背景下，无脑买苹果，安卓旗舰新机一台都不要买，喜欢安卓请买上一代",
           "keyPoints": [
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "impact": "影响购买预算，值得先看。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
