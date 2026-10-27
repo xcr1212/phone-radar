@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-10-27T12:09:21.428Z",
+  "updatedAt": "2026-10-27T17:59:07.747Z",
   "issueDate": "2026-10-27",
   "issue": "VOL.261027",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 8,
-    "iphone": 8,
+    "total": 9,
+    "iphone": 9,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -163,29 +163,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-2791b43b41f4",
-          "title": "iPhone 相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-27",
-          "time": "00:00",
-          "publishedAt": "2026-10-27T00:00:00.000Z",
-          "url": "https://www.macrumors.com/2026/10/26/iphone-duo-independent-rotation-lock-controls/",
-          "image": "https://images.macrumors.com/article-new/2026/10/iphone-duo-unfolded-lock-screen.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "newsnow-78b20cc440f7",
           "title": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
           "originalTitle": "",
@@ -207,6 +184,59 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-67dc2c18e7de",
+          "title": "苹果折叠屏“出师不利”",
+          "originalTitle": "",
+          "source": "今日头条热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-27",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.toutiao.com/trending/7701324668954742299/",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "苹果折叠屏“出师不利”",
+          "detail": "苹果折叠屏“出师不利”",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        }
+      ]
+    },
+    {
+      "id": "iphone",
+      "title": "iPhone 重点",
+      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
+      "items": [
+        {
+          "id": "newsnow-4ab7a1c32f02",
+          "title": "苹果首次承认少量iPhone Duo内屏问题，可免费换机",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-10-27",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/74642607",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "苹果首次承认少量iPhone Duo内屏问题，可免费换机",
+          "detail": "苹果首次承认少量iPhone Duo内屏问题，可免费换机",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }
