@@ -1,6 +1,406 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-27T22:12:07.445Z",
+  "updatedAt": "2026-10-28T01:19:50.489Z",
   "news": [
+    {
+      "id": "auto-1adad32d727d",
+      "title": "另类鼠标“Super Mouse”问世：正面装有触屏，还能打字、设置快捷操作",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-28",
+      "time": "00:30",
+      "publishedAt": "2026-10-28T00:30:04.000Z",
+      "url": "https://www.ithome.com/1/018/729.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/7effc185-0bc7-45f8-8380-e7842a7601cf.png",
+      "summary": "IT之家 10 月 28 日消息，据外媒 The Verge 今天（28 日）报道，Arctic Fox 推出了一款名为 Super Mouse 的多功能鼠标，其独特之处是 在手掌下方加入了一块小型触控屏 。 其造型方正，虽未必符合人体工学，却可以兼作触控板、宏键盘和直播控制器。如果用户习惯在手机上快速打字，甚至可以 通过鼠标上的触控屏代替全尺寸键盘 ，使…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-bfd196d7caed",
+      "title": "iPhone Duo arrives at Apple Store locations worldwide",
+      "source": "Apple Newsroom",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-10-28",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.apple.com/newsroom/2026/10/iphone-duo-arrives-at-apple-store-locations-worldwide/",
+      "image": "",
+      "summary": "On Friday, October 23, the highly anticipated iPhone Duo made its debut at Apple Store locations worldwide.",
+      "tags": [
+        "iPhone",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a89f115eb254",
+      "title": "Apple announces American Manufacturing Program partners for latest iPhone lineup",
+      "source": "Apple Newsroom",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-10-28",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-announces-american-manufacturing-program-partners-for-latest-iphone-lineup/",
+      "image": "",
+      "summary": "Apple announced new and expanded partnerships with American companies that are supplying critical materials and components for iPhone Duo and iPhone 18 Pro.",
+      "tags": [
+        "iPhone",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "newsnow-0180955d16fb",
+      "title": "破与立：设计视角下的 iPhone Duo",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-10-28",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/116979",
+      "image": "",
+      "summary": "破与立：设计视角下的 iPhone Duo",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-a9d1aea86369",
+      "title": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-10-28",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/115426",
+      "image": "",
+      "summary": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-5f4d7f7092ec",
+      "title": "REDMI K100正式发布：首发2999元起",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-28",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74656318",
+      "image": "",
+      "summary": "REDMI K100正式发布：首发2999元起",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-059e5f1ee9dd",
+      "title": "兄弟们，我给相亲女朋友分24期买的手机，手机给女朋友后，现在不理我了，我应该怎么办了[流泪][流泪][流泪][流泪]#我在酷安晒女友# #酷安夜话# # #相亲#",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-28",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74659812",
+      "image": "",
+      "summary": "兄弟们，我给相亲女朋友分24期买的手机，手机给女朋友后，现在不理我了，我应该怎么办了[流泪][流泪][流泪][流泪]#我在酷安晒女友# #酷安夜话# # #相亲#",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-f32c70000be6",
+      "title": "看完视频，在今年大涨价的背景下，无脑买苹果，安卓旗舰新机一台都不要买，喜欢安卓请买上一代",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-28",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74656284",
+      "image": "",
+      "summary": "看完视频，在今年大涨价的背景下，无脑买苹果，安卓旗舰新机一台都不要买，喜欢安卓请买上一代",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-18d276bd4512",
+      "title": "【小米高管回应REDMI K100定价：再过两个月看，你会觉得特别便宜】",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-28",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74662651",
+      "image": "",
+      "summary": "【小米高管回应REDMI K100定价：再过两个月看，你会觉得特别便宜】",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-25809da9f606",
+      "title": "极客湾「旗舰手机芯片能效」横评出炉：苹果仍领先，玄戒/天玑稳提升，高通开倒车",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-28",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74653110",
+      "image": "",
+      "summary": "极客湾「旗舰手机芯片能效」横评出炉：苹果仍领先，玄戒/天玑稳提升，高通开倒车",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-7b621d3e66d1",
+      "title": "iPhone 18e 60Hz屏幕，6.12英寸60HZ LTPSOLED,2nm A20芯片，48Mp单摄，前摄可能会升级24Mp。",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-28",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74649904",
+      "image": "",
+      "summary": "iPhone 18e 60Hz屏幕，6.12英寸60HZ LTPSOLED,2nm A20芯片，48Mp单摄，前摄可能会升级24Mp。",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-ddbb152ffe53",
+      "title": "极客湾解读骁龙8EE6手机黑屏问题：纯粹电压没给够",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-28",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74656226",
+      "image": "",
+      "summary": "极客湾解读骁龙8EE6手机黑屏问题：纯粹电压没给够",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-4d5824704553",
+      "title": "看来买手机真的先看看导航配置了，每次步行导航位置都会偏移，都是靠自己摸索找位置，不敢说别家的好坏，但是k90promax这个一言难尽#RedmiK90ProMax# #HyperOS4# #HyperOS3#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-28",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74630717",
+      "image": "",
+      "summary": "看来买手机真的先看看导航配置了，每次步行导航位置都会偏移，都是靠自己摸索找位置，不敢说别家的好坏，但是k90promax这个一言难尽#RedmiK90ProMax# #HyperOS4# #HyperOS3#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-56ccceb00157",
+      "title": "富士康员工回应 iPhoneDuo 裂屏，称产能吃紧苹果曾降低良率质检标准，是真的吗？消费者能要求赔偿吗？",
+      "source": "知乎热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-10-28",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2098450605354087492",
+      "image": "",
+      "summary": "富士康员工回应 iPhoneDuo 裂屏，称产能吃紧苹果曾降低良率质检标准，是真的吗？消费者能要求赔偿吗？",
+      "tags": [
+        "iPhone",
+        "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-a758b7e8207e",
+      "title": "如何看待极客湾最新视频《旗舰手机芯片大横评》？",
+      "source": "知乎热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-10-28",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2098461659014681187",
+      "image": "",
+      "summary": "如何看待极客湾最新视频《旗舰手机芯片大横评》？",
+      "tags": [
+        "行业",
+        "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-1d4eb0eda89d",
+      "title": "极客湾旗舰手机芯片大横评",
+      "source": "B站热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-28",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://search.bilibili.com/all?keyword=%E6%9E%81%E5%AE%A2%E6%B9%BE%E6%97%97%E8%88%B0%E6%89%8B%E6%9C%BA%E8%8A%AF%E7%89%87%E5%A4%A7%E6%A8%AA%E8%AF%84",
+      "image": "",
+      "summary": "极客湾旗舰手机芯片大横评",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-55aa96bd226c",
+      "title": "德总统在安徽开电车体验手机停车",
+      "source": "今日头条热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-28",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7701482001202925106/",
+      "image": "",
+      "summary": "德总统在安徽开电车体验手机停车",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "auto-ad227594f9a6",
+      "title": "This $500 discount on the Galaxy S26 Ultra is the only deal that matters right now",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-27",
+      "time": "23:01",
+      "publishedAt": "2026-10-27T23:01:12.000Z",
+      "url": "https://www.androidpolice.com/score-500-off-the-galaxy-s26-ultra-with-mint-mobile/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/09/galaxy-s26-ultra-table.JPG",
+      "summary": "You don't know what you're missing",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-aadf502f0576",
+      "title": "Here’s why the iPhone Duo’s hinge could be cracking the screen",
+      "source": "The Verge",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-27",
+      "time": "22:55",
+      "publishedAt": "2026-10-27T22:55:05.000Z",
+      "url": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iPhone-Duo_208.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "Within hours of the iPhone Duo launch last Friday, people reported that the inner screen on some brand new foldable phones was already broken. The issue was similar across many ph…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2a09b3545d3d",
+      "title": "iPhone Duo hinge supplier rejects blame for display failures",
+      "source": "Gizmochina",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-27",
+      "time": "22:33",
+      "publishedAt": "2026-10-27T22:33:05.000Z",
+      "url": "https://www.gizmochina.com/2026/10/27/iphone-duo-hinge-supplier-rejects-blame-for-display-failures/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/iphone-duo-hinge-supplier-denies-fault-300x169.png?x62950",
+      "summary": "South Korean component maker FineMTEC (also called Fine M-Tec) put out an official statement titled “Official Position Regarding Customer’s New Product Quality Issue.” The post iP…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-0c84df318fc5",
       "title": "Galaxy S27’s biggest threat is a cheaper iPhone crashing its party",
@@ -502,26 +902,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-7a5fc0f4efe1",
-      "title": "小米 18 Pro 系列全球版机型定价曝光：1549 欧元起",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-27",
-      "time": "11:08",
-      "publishedAt": "2026-10-27T11:08:03.000Z",
-      "url": "https://www.ithome.com/1/018/610.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/dce279bc-a196-4846-a2ae-23737b04e868.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 27 日消息，据科技媒体 Notebookcheck 今天报道，意大利零售商 Epto 最近提前公开了小米 18 Pro 系列手机全球版定价，起售价为 1,549 欧元 （IT之家注：现汇率约合 11,574 元人民币） 。 据介绍，小米 18 Pro 和 18 Pro Max 在全球市场将提供黑色、白色和酒红色，其中酒红色是全球版独有…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-6bce2702c9f3",
       "title": "iPhone 18 Pro series sales rise 3.1% globally as China leads growth and US declines",
       "source": "Gizmochina",
@@ -535,26 +915,6 @@ window.phoneRadarAuto = {
       "url": "https://www.gizmochina.com/2026/10/27/iphone-18-pro-sales-growth/",
       "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/iPHone-18-Pro-series-featured-300x214.png?x62950",
       "summary": "Apple’s latest iPhone 18 Pro series has recorded a mixed start across major markets, according to new sales data. The premium lineup is performing better globally than its predece…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-275727595e90",
-      "title": "iPhone 18e Could Get Two Key Upgrades While Keeping 60Hz Display",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-27",
-      "time": "10:41",
-      "publishedAt": "2026-10-27T10:41:44.000Z",
-      "url": "https://www.macrumors.com/2026/10/27/iphone-18e-could-get-two-key-upgrades/",
-      "image": "https://images.macrumors.com/article-new/2026/03/iphone-17e-notch.jpg",
-      "summary": "Apple's upcoming iPhone 18e model will retain a 60Hz display but could gain an upgraded front-facing camera, according to the leaker known as \"Digital Chat Station.\" In a new post…",
       "tags": [
         "iPhone",
         "爆料",
@@ -799,586 +1159,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-bfd196d7caed",
-      "title": "iPhone Duo arrives at Apple Store locations worldwide",
-      "source": "Apple Newsroom",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "官方",
-      "trust": "官方确认",
-      "date": "2026-10-27",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.apple.com/newsroom/2026/10/iphone-duo-arrives-at-apple-store-locations-worldwide/",
-      "image": "",
-      "summary": "On Friday, October 23, the highly anticipated iPhone Duo made its debut at Apple Store locations worldwide.",
-      "tags": [
-        "iPhone",
-        "官方",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a89f115eb254",
-      "title": "Apple announces American Manufacturing Program partners for latest iPhone lineup",
-      "source": "Apple Newsroom",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "官方",
-      "trust": "官方确认",
-      "date": "2026-10-27",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-announces-american-manufacturing-program-partners-for-latest-iphone-lineup/",
-      "image": "",
-      "summary": "Apple announced new and expanded partnerships with American companies that are supplying critical materials and components for iPhone Duo and iPhone 18 Pro.",
-      "tags": [
-        "iPhone",
-        "官方",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "newsnow-4cec05107cb8",
-      "title": "破与立：设计视角下的 iPhone Duo",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-10-27",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/116979",
-      "image": "",
-      "summary": "破与立：设计视角下的 iPhone Duo",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-78b20cc440f7",
-      "title": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-10-27",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/115426",
-      "image": "",
-      "summary": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-9e17052219e1",
-      "title": "REDMI K100正式发布：首发2999元起",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-27",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74656318",
-      "image": "",
-      "summary": "REDMI K100正式发布：首发2999元起",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-be10468d1d94",
-      "title": "极客湾「旗舰手机芯片能效」横评出炉：苹果仍领先，玄戒/天玑稳提升，高通开倒车",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-27",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74653110",
-      "image": "",
-      "summary": "极客湾「旗舰手机芯片能效」横评出炉：苹果仍领先，玄戒/天玑稳提升，高通开倒车",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-e74053ba5f3d",
-      "title": "【小米高管回应REDMI K100定价：再过两个月看，你会觉得特别便宜】",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-27",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74662651",
-      "image": "",
-      "summary": "【小米高管回应REDMI K100定价：再过两个月看，你会觉得特别便宜】",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-99c269098002",
-      "title": "看完视频，在今年大涨价的背景下，无脑买苹果，安卓旗舰新机一台都不要买，喜欢安卓请买上一代",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-27",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74656284",
-      "image": "",
-      "summary": "看完视频，在今年大涨价的背景下，无脑买苹果，安卓旗舰新机一台都不要买，喜欢安卓请买上一代",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-0f42a9ed2ead",
-      "title": "iPhone 18e 60Hz屏幕，6.12英寸60HZ LTPSOLED,2nm A20芯片，48Mp单摄，前摄可能会升级24Mp。",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-27",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74649904",
-      "image": "",
-      "summary": "iPhone 18e 60Hz屏幕，6.12英寸60HZ LTPSOLED,2nm A20芯片，48Mp单摄，前摄可能会升级24Mp。",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-5c1a9ba6ad14",
-      "title": "极客湾解读骁龙8EE6手机黑屏问题：纯粹电压没给够",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-27",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74656226",
-      "image": "",
-      "summary": "极客湾解读骁龙8EE6手机黑屏问题：纯粹电压没给够",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-db971f446cc0",
-      "title": "兄弟们，我给相亲女朋友分24期买的手机，手机给女朋友后，现在不理我了，我应该怎么办了[流泪][流泪][流泪][流泪]#我在酷安晒女友# #酷安夜话# # #相亲#",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-27",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74659812",
-      "image": "",
-      "summary": "兄弟们，我给相亲女朋友分24期买的手机，手机给女朋友后，现在不理我了，我应该怎么办了[流泪][流泪][流泪][流泪]#我在酷安晒女友# #酷安夜话# # #相亲#",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-4b4b9c6489e7",
-      "title": "小米的设计师真是个人才，居然把k90至尊风扇去掉，然后直接用塑料去填充。我还以为是把风扇地方去掉，加了电池，结果玩这种操作真厉害呀，塑料导热吗？有没有好好做手机[笑哭]，做手机跟玩一样，还发文三千价位无敌了，赶紧删微博吧#小米18Pro# #REDMIK100ProMax# #小米18ProMax#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-27",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74662587",
-      "image": "",
-      "summary": "小米的设计师真是个人才，居然把k90至尊风扇去掉，然后直接用塑料去填充。我还以为是把风扇地方去掉，加了电池，结果玩这种操作真厉害呀，塑料导热吗？有没有好好做手机[笑哭]，做手机跟玩一样，还发文三千价位无敌了，赶紧删微博吧#小米18Pro# #REDMIK100ProMax# #小米18ProMax#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-5737731d512f",
-      "title": "富士康员工回应 iPhoneDuo 裂屏，称产能吃紧苹果曾降低良率质检标准，是真的吗？消费者能要求赔偿吗？",
-      "source": "知乎热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "市场报告",
-      "trust": "媒体汇总",
-      "date": "2026-10-27",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2098450605354087492",
-      "image": "",
-      "summary": "富士康员工回应 iPhoneDuo 裂屏，称产能吃紧苹果曾降低良率质检标准，是真的吗？消费者能要求赔偿吗？",
-      "tags": [
-        "iPhone",
-        "市场报告",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-0d8e092590f6",
-      "title": "极客湾旗舰手机芯片大横评",
-      "source": "B站热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-27",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://search.bilibili.com/all?keyword=%E6%9E%81%E5%AE%A2%E6%B9%BE%E6%97%97%E8%88%B0%E6%89%8B%E6%9C%BA%E8%8A%AF%E7%89%87%E5%A4%A7%E6%A8%AA%E8%AF%84",
-      "image": "",
-      "summary": "极客湾旗舰手机芯片大横评",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-60301dca9964",
-      "title": "Apple finally breaks its silence on iPhone Duo’s cracked screens",
-      "source": "Android Authority",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-26",
-      "time": "18:45",
-      "publishedAt": "2026-10-26T18:45:51.000Z",
-      "url": "https://www.androidauthority.com/apple-iphone-duo-cracked-screen-statement-3728177/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/iPhone-Duo-unfolded-display-on-homescreen.jpg",
-      "summary": "Apple's first foldable is getting a crash course in first-generation problems.",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-30c3d7413dc7",
-      "title": "Survey shows most readers stand by Android, but a good number are iOS-curious",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-26",
-      "time": "18:18",
-      "publishedAt": "2026-10-26T18:18:42.000Z",
-      "url": "https://www.androidauthority.com/switch-android-to-ios-poll-results-3728191/",
-      "image": "",
-      "summary": "Pixel disappointments play a part for those considering switching.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-3ec3043418a3",
-      "title": "MagSafe Monday: TESSAN’s 6-in-1 charging station replaces every charger on your desk",
-      "source": "9to5Mac",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-26",
-      "time": "18:12",
-      "publishedAt": "2026-10-26T18:12:00.000Z",
-      "url": "https://9to5mac.com/2026/10/26/tessans-6-in-1-charging-station-replaces-every-charger-on-your-desk/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/TESSAN-2.jpg?quality=82&strip=all&w=1600",
-      "summary": "One hub/cord to rule them all is a goal most people have for their desk. The TESSAN Magic 65W Charging Station is built to collapse your pile of cords into a single compact hub, a…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-bfaeecfab5b2",
-      "title": "Oppo Find X10 Ultra is in the works, and I can’t wait to try its upgraded cameras",
-      "source": "9to5Google",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-26",
-      "time": "16:30",
-      "publishedAt": "2026-10-26T16:30:00.000Z",
-      "url": "https://9to5google.com/2026/10/26/oppo-find-x10-ultra-camera-rumors/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/oppo-find-x10-pro-max-9.jpg?quality=82&strip=all&w=1600",
-      "summary": "Not long after the Oppo Find X10 series launched globally, we’re already hearing details about the company’s Ultra model which is set to pack more impressive cameras – and that’s…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f63ef44ccddf",
-      "title": "iPhone 18 Pro vs. Galaxy S26 Plus: Which one to choose?",
-      "source": "Gizmochina",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-26",
-      "time": "16:01",
-      "publishedAt": "2026-10-26T16:01:47.000Z",
-      "url": "https://www.gizmochina.com/2026/10/26/iphone-18-pro-vs-galaxy-s26-plus/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Apple-iPhone-18-Pro-vs-Samsung-Galaxy-S26-Plus-300x169.png?x62950",
-      "summary": "Apple’s iPhone 18 Pro and Samsung’s Galaxy S26+ offer two different approaches to the premium smartphone experience. Apple’s flagship focuses on its A20 Pro chip, an upgraded came…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-8555853c75d1",
-      "title": "Galaxy S26 Ultra 512GB deal cuts $400 off Samsung’s flagship",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-26",
-      "time": "15:44",
-      "publishedAt": "2026-10-26T15:44:19.000Z",
-      "url": "https://www.androidauthority.com/galaxy-s26-ultra-512gb-deal-3728088/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/Samsung-Galaxy-S26-Ultras-design-and-camera-module.jpg",
-      "summary": "The Galaxy S26 Ultra 512GB is now 25% off RRP on Amazon, cutting the price of Samsung’s top-spec handset by a big margin.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c72247105164",
-      "title": "iPhone Duo screens are breaking, but is it a Galaxy Fold moment?",
-      "source": "9to5Google",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-26",
-      "time": "14:45",
-      "publishedAt": "2026-10-26T14:45:00.000Z",
-      "url": "https://9to5google.com/2026/10/26/iphone-duo-broken-screens-galaxy-fold/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/iphone-duo-broken-displays.jpg?quality=82&strip=all&w=1600",
-      "summary": "Apple’s first foldable is running into a problem. iPhone Duo screens are breaking, but is this a case of a flawed design like Samsung’s original Galaxy Fold, user error, or a bit…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-66cfe4053acd",
-      "title": "Don’t buy the Pro just yet: This smaller, metal flagship could be worth the wait",
-      "source": "Android Authority",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-26",
-      "time": "12:58",
-      "publishedAt": "2026-10-26T12:58:05.000Z",
-      "url": "https://www.androidauthority.com/xiaomi-18-specs-leak-3727957/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/Xiaomi-17-in-hand-showing-back.jpg",
-      "summary": "New leaks suggest the Xiaomi 18 could come with top-tier silicon, a huge battery, and impressive camera specs.",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b9b49549cdda",
-      "title": "iPhone Duo tested to destruction, including removing nanotexture layer",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-26",
-      "time": "11:12",
-      "publishedAt": "2026-10-26T11:12:44.000Z",
-      "url": "https://9to5mac.com/2026/10/26/iphone-duo-tested-to-destruction-including-removing-nanotexture-layer/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iPhone-Duo-tested-to-destruction-including-removing-nanotexture-layer.jpg?quality=82&strip=all&w=1600",
-      "summary": "It’s kind of wild that there’s an entire YouTube niche in which people buy the latest expensive gadgets and then find creative ways to destroy them. JerryRigEverything is one of t…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-459d4fcf408a",
-      "title": "OPPO Find X10 Pro Max Review: Pro Max? Ultra Lite!",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-26",
-      "time": "11:00",
-      "publishedAt": "2026-10-26T11:00:25.000Z",
-      "url": "https://www.gizmochina.com/2026/10/26/oppo-find-x10-pro-max-review-pro-max-ultra-lite/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/OPPO-Find-X10-Pro-Max-Review-1.mp4_20261009_103626.030-300x150.jpg?x62950",
-      "summary": "A lot of new smartphones have been released recently, and they basically represent the highest level of Chinese smartphones in 2026. Among all these Pro Max phones, there is one t…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-4d5c24ef6dde",
-      "title": "OPPO Find 10 Pro Max review: the best Android phone ever made",
-      "source": "Android Central",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-10-26",
-      "time": "11:00",
-      "publishedAt": "2026-10-26T11:00:00.000Z",
-      "url": "https://www.androidcentral.com/phones/oppo-phones/oppo-find-x10-pro-max-review-mic-drop",
-      "image": "https://cdn.mos.cms.futurecdn.net/pMjBEW75Czn3ZsKwn7XszG-1920-80.jpg",
-      "summary": "I used the Find X10 Pro Max as my daily driver for just under two weeks, and I'm convinced that this is the best smartphone ever made.",
-      "tags": [
-        "OPPO",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-974be0c3b6c3",
-      "title": "OnePlus 16 India launch: Expected price, release date, and upgrades",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-26",
-      "time": "10:41",
-      "publishedAt": "2026-10-26T10:41:46.000Z",
-      "url": "https://www.gizmochina.com/2026/10/26/oneplus-16-india-launch-expected-price-release-date-and-upgrades/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/OnePlus-16-300x200.png?x62950",
-      "summary": "OnePlus 16 is coming to India soon. Explore the expected launch date, India pricing, Snapdragon 8 Elite Extreme chip, and key specs upgrades. The post OnePlus 16 India launch: Exp…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9ee5148ee547",
-      "title": "Xiaomi 18 Pro Max Review: Great Phone, but at what cost?",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-26",
-      "time": "09:17",
-      "publishedAt": "2026-10-26T09:17:58.000Z",
-      "url": "https://www.gizmochina.com/2026/10/26/xiaomi-18-pro-max-review-great-phone-but-at-what-cost/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Xiaomi-18-Pro-Max-Review.mp4_20261009_101922.646-300x150.jpg?x62950",
-      "summary": "This year’s Xiaomi 18 Pro Max is both completely expected and completely unexpected. It looks so similar to the 17 Pro Max, yet it is also different in so many ways. There are upg…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-e5a014b5a4ba",
-      "title": "数码闲聊站：2027年国产TOP5都会上阔直板新机，目前全都立项完成并加速测试中，各种定义…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-26",
-      "time": "09:10",
-      "publishedAt": "2026-10-26T09:10:00.000Z",
-      "url": "https://weibo.com/6048569942/Rot5KCFT3",
-      "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1iifrdy1gf6j30zb1aagro.jpg",
-      "summary": "2027年国产TOP5都会上阔直板新机，目前全都立项完成并加速测试中，各种定义都有。 谁懂本站25年底就在吹阔直板的含金量[doge][doge][doge]",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "coolapk-user-c500d0922c33",
-      "title": "JSCHEN小小狐：REDMI K100 外观预热：新配色「雪岩白」",
-      "source": "JSCHEN小小狐",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-26",
-      "time": "01:02",
-      "publishedAt": "2026-10-26T01:02:26.000Z",
-      "url": "https://www.coolapk.com/feed/74620536",
-      "image": "http://image.coolapk.com/feed/2026/1026/09/4702274_a5be21b0_6544_7187_712@1124x1124.jpg",
-      "summary": "『REDMI K100 外观预热：新配色「雪岩白」』 K100 全新配色「雪岩白」 - 背部融入宣纸般的细腻纹理 - 干净纯粹，简约百搭之外，更具东方韵味 REDMI K100 雪岩白，10 月 27 日晚 7 点直播见 #今日热点# #RedmiK90# #REDMIK90至尊版#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
       ]
     }
   ]

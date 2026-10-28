@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-10-27T22:12:07.445Z",
-  "issueDate": "2026-10-27",
-  "issue": "VOL.261027",
+  "updatedAt": "2026-10-28T01:19:50.489Z",
+  "issueDate": "2026-10-28",
+  "issue": "VOL.261028",
   "title": "手机情报日报",
-  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 11 条 iPhone 相关、2 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 9,
-    "iphone": 9,
+    "total": 11,
+    "iphone": 11,
     "leaks": 8,
-    "official": 0,
+    "official": 2,
     "specs": 0
   },
   "sections": [
@@ -41,6 +41,53 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "newsnow-25809da9f606",
+          "title": "极客湾「旗舰手机芯片能效」横评出炉：苹果仍领先，玄戒/天玑稳提升，高通开倒车",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-10-28",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/74653110",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "极客湾「旗舰手机芯片能效」横评出炉：苹果仍领先，玄戒/天玑稳提升，高通开倒车",
+          "detail": "极客湾「旗舰手机芯片能效」横评出炉：苹果仍领先，玄戒/天玑稳提升，高通开倒车",
+          "keyPoints": [
+            "芯片 / 性能"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-7b621d3e66d1",
+          "title": "iPhone 18e 60Hz屏幕，6.12英寸60HZ LTPSOLED,2nm A20芯片，48Mp单摄，前摄可能会升级24Mp。",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-10-28",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/74649904",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone 18e 60Hz屏幕，6.12英寸60HZ LTPSOLED,2nm A20芯片，48Mp单摄，前摄可能会升级24Mp。",
+          "detail": "iPhone 18e 60Hz屏幕，6.12英寸60HZ LTPSOLED,2nm A20芯片，48Mp单摄，前摄可能会升级24Mp。",
+          "keyPoints": [
+            "屏幕形态",
+            "芯片 / 性能"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "weibo-35f6ee2a63bc",
           "title": "数码闲聊站：iPhone 18e也是60Hz屏幕嗷，6.12英寸60Hz LTPS OLE…",
           "originalTitle": "",
@@ -59,78 +106,6 @@ window.phoneRadarDaily = {
           "keyPoints": [
             "屏幕形态",
             "芯片 / 性能",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-be10468d1d94",
-          "title": "极客湾「旗舰手机芯片能效」横评出炉：苹果仍领先，玄戒/天玑稳提升，高通开倒车",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-10-27",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/74653110",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "极客湾「旗舰手机芯片能效」横评出炉：苹果仍领先，玄戒/天玑稳提升，高通开倒车",
-          "detail": "极客湾「旗舰手机芯片能效」横评出炉：苹果仍领先，玄戒/天玑稳提升，高通开倒车",
-          "keyPoints": [
-            "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-0f42a9ed2ead",
-          "title": "iPhone 18e 60Hz屏幕，6.12英寸60HZ LTPSOLED,2nm A20芯片，48Mp单摄，前摄可能会升级24Mp。",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-10-27",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/74649904",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone 18e 60Hz屏幕，6.12英寸60HZ LTPSOLED,2nm A20芯片，48Mp单摄，前摄可能会升级24Mp。",
-          "detail": "iPhone 18e 60Hz屏幕，6.12英寸60HZ LTPSOLED,2nm A20芯片，48Mp单摄，前摄可能会升级24Mp。",
-          "keyPoints": [
-            "屏幕形态",
-            "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-275727595e90",
-          "title": "iPhone 18e 屏幕规格相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-27",
-          "time": "10:41",
-          "publishedAt": "2026-10-27T10:41:44.000Z",
-          "url": "https://www.macrumors.com/2026/10/27/iphone-18e-could-get-two-key-upgrades/",
-          "image": "https://images.macrumors.com/article-new/2026/03/iphone-17e-notch.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 18e 屏幕规格相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 18e 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "影像硬件",
-            "屏幕形态",
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
@@ -163,6 +138,52 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "newsnow-a9d1aea86369",
+          "title": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
+          "originalTitle": "",
+          "source": "少数派热榜",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-10-28",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/115426",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
+          "detail": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-aadf502f0576",
+          "title": "iPhone 屏幕规格相关消息",
+          "originalTitle": "",
+          "source": "The Verge",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-27",
+          "time": "22:55",
+          "publishedAt": "2026-10-27T22:55:05.000Z",
+          "url": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iPhone-Duo_208.jpg?quality=90&strip=all&crop=0,0,100,100",
+          "verdict": "先看",
+          "takeaway": "iPhone 屏幕规格相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-9ef24c570efd",
           "title": "iPhone 18 系统功能 / AI 体验相关消息",
           "originalTitle": "",
@@ -185,30 +206,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-114e305106a4",
-          "title": "iPhone 18e 系统功能 / AI 体验相关消息",
-          "originalTitle": "",
-          "source": "Android Authority",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-27",
-          "time": "08:41",
-          "publishedAt": "2026-10-27T08:41:36.000Z",
-          "url": "https://www.androidauthority.com/apple-iphone-18e-leaked-specs-3728368/",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/Apple-iPhone-17e-showing-hello-startupscreen-on-display-during-boot-with-MacBook-Neo-in-the-background.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 18e 系统功能 / AI 体验相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 18e 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -218,14 +215,14 @@ window.phoneRadarDaily = {
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
         {
-          "id": "newsnow-99c269098002",
+          "id": "newsnow-f32c70000be6",
           "title": "看完视频，在今年大涨价的背景下，无脑买苹果，安卓旗舰新机一台都不要买，喜欢安卓请买上一代",
           "originalTitle": "",
           "source": "酷安热榜",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "高关注爆料源",
-          "date": "2026-10-27",
+          "date": "2026-10-28",
           "time": "",
           "publishedAt": "",
           "url": "https://www.coolapk.com/feed/74656284",
@@ -238,6 +235,52 @@ window.phoneRadarDaily = {
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响购买预算，值得先看。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-bfd196d7caed",
+          "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "Apple Newsroom",
+          "brand": "iPhone",
+          "type": "官方",
+          "trust": "官方确认",
+          "date": "2026-10-28",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.apple.com/newsroom/2026/10/iphone-duo-arrives-at-apple-store-locations-worldwide/",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "官方"
+          ],
+          "confidence": "官方内容，可直接作为已确认信息记录。",
+          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-a89f115eb254",
+          "title": "iPhone 芯片 / 性能相关消息",
+          "originalTitle": "",
+          "source": "Apple Newsroom",
+          "brand": "iPhone",
+          "type": "官方",
+          "trust": "官方确认",
+          "date": "2026-10-28",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.apple.com/newsroom/2026/10/apple-announces-american-manufacturing-program-partners-for-latest-iphone-lineup/",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone 芯片 / 性能相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "官方"
+          ],
+          "confidence": "官方内容，可直接作为已确认信息记录。",
+          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
