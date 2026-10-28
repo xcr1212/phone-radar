@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-28T16:36:48.166Z",
+  "updatedAt": "2026-10-28T22:33:21.554Z",
   "news": [
+    {
+      "id": "auto-9ae62dff0491",
+      "title": "iQOO launches new gaming controller with Hall effect joysticks, modular grips & 15W charging",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-28",
+      "time": "22:27",
+      "publishedAt": "2026-10-28T22:27:23.000Z",
+      "url": "https://www.gizmochina.com/2026/10/28/iqoo-g1-telescopic-gaming-controller-launched-specs-price/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/iQOO-G1-telescopic-gaming-controller-300x192.png?x80236",
+      "summary": "iQOO is releasing a new mobile gaming controller on November 4th. It’s called the G1, it costs 499 yuan (about $75), and it focuses heavily on physical customization and durable c…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c466e37b82fe",
+      "title": "iQOO launches 20,000mAh power banks with 33W and 66W fast charging, built-in cables & color displays",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-28",
+      "time": "20:59",
+      "publishedAt": "2026-10-28T20:59:48.000Z",
+      "url": "https://www.gizmochina.com/2026/10/28/iqoo-20000mah-33w-and-66w-power-banks-launched-specs-price/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/iQOO-20000mAh-Power-Bank-300x169.png?x80236",
+      "summary": "iQOO has released a new 20,000mAh power bank, offering it in two different charging configurations: a 33W model and a 66W model. The devices are currently available in China, with…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-c611d3e018d3",
+      "title": "竹本青：【苹果推出全球旅行转换套件：交流电源接口2，售价299元】 内含5种可互换的交流电源插头： A型插头：北美、日本…",
+      "source": "竹本青",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-28",
+      "time": "19:51",
+      "publishedAt": "2026-10-28T19:51:53.000Z",
+      "url": "https://www.coolapk.com/feed/74688567",
+      "image": "http://image.coolapk.com/feed/2026/1029/03/4248714_31cbb784_7112_1576_817@3200x1800.jpg",
+      "summary": "【苹果推出全球旅行转换套件：交流电源接口2，售价299元】 内含5种可互换的交流电源插头： A型插头：北美、日本 C型插头：欧洲大陆、巴西 D型插头：印度 G型插头：英国、阿联酋、沙特阿拉伯、新加坡 I型插头：澳大利亚、新西兰 采用交流电源接口2，在出国旅行时，可以轻松更换兼容的Apple电源适配器的交流电源插头，以适配当地的电源插座。 目前两款适配器兼容…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-ccf86cd59a25",
+      "title": "T-Mobile really wants to give you $1,000 off the Google Pixel 11 Pro XL with new deal - here’s how it works",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-28",
+      "time": "17:01",
+      "publishedAt": "2026-10-28T17:01:42.000Z",
+      "url": "https://www.androidpolice.com/t-mobile-google-pixel-11-pro-xl-deal-1000-off/",
+      "image": "",
+      "summary": "The carrier will also give you $900 off with 'most plans', so you can take your pick.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-4e4354591559",
       "title": "Samsung may offer you two wide Galaxy Z Fold 9 variants to choose from",
@@ -97,26 +177,6 @@ window.phoneRadarAuto = {
       "summary": "IT之家 10 月 28 日消息，据央视财经今日报道，深圳华强北二手手机市场均价 4000 元以上产品的占比已超过 68%。 一位业内人士对央视记者表示，热销机型一年内降价 20% 本是常态，但受内存涨价影响，今年二手手机价格普遍坚挺，部分热门机型甚至出现加价。他以 iPhone 15 Pro Max 举例：这款机型去年在二手市场的价格一度跌至 3000…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e71dbd05d499",
-      "title": "8BitDo’s new Xbox Elite-style controller sets a high bar for customization",
-      "source": "The Verge",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-28",
-      "time": "15:35",
-      "publishedAt": "2026-10-28T15:35:37.000Z",
-      "url": "https://www.theverge.com/gadgets/1017815/8bitdo-ultimate-3e-xbox-pc-controller-hands-on",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/8BitDo-Ultimate3E-review-7.png?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "It's hard to make an Xbox controller that stands out these days, especially one that's expensive, due to a wealth of great semi-affordable options. Still, 8BitDo's $150 Ultimate 3…",
-      "tags": [
-        "行业",
         "爆料",
         "自动抓取"
       ]
@@ -262,46 +322,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-7a33d0ef9985",
-      "title": "竹本青：【REDMI产品经理：内存一年涨了5.5倍】 10月28日，REDMI 产品经理胡馨心透露，过去12个月，内存成本…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-28",
-      "time": "13:52",
-      "publishedAt": "2026-10-28T13:52:55.000Z",
-      "url": "https://www.coolapk.com/feed/74683416",
-      "image": "http://image.coolapk.com/feed/2026/1028/21/4248714_56021e12_5574_4381_792@1272x394.jpg",
-      "summary": "【REDMI产品经理：内存一年涨了5.5倍】 10月28日，REDMI 产品经理胡馨心透露，过去12个月，内存成本持续走高，涨价约5.5倍。目前，仅12+256GB内存组合就逼近2000元（第三方机构公开数据），这使得手机产品做对取舍的要求更高、难度更大。 #如何看待手机市场全面涨价# #今日热点# #数码日常#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-67d60d865c3f",
-      "title": "竹本青：省流：要涨价，还不少 #一加Ace7Pro# #数码日常#",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-28",
-      "time": "13:43",
-      "publishedAt": "2026-10-28T13:43:05.000Z",
-      "url": "https://www.coolapk.com/feed/74683154",
-      "image": "",
-      "summary": "省流：要涨价，还不少 #一加Ace7Pro# #数码日常#",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-30ff69c7b79c",
       "title": "The Samsung Galaxy S25 Ultra is at its lowest price for a while",
       "source": "9to5Google",
@@ -362,26 +382,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-cc44e97289d6",
-      "title": "竹本青：【iQOO Neo12 正式发布：2K 185Hz维信诺屏，骁龙8E5+主动风冷，首销4199元起】 12GB+2…",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-28",
-      "time": "12:06",
-      "publishedAt": "2026-10-28T12:06:55.000Z",
-      "url": "https://www.coolapk.com/feed/74680701",
-      "image": "http://image.coolapk.com/feed/2026/1028/21/4248714_beb05af0_2895_7829_669@1913x4331.jpg",
-      "summary": "【iQOO Neo12 正式发布：2K 185Hz维信诺屏，骁龙8E5+主动风冷，首销4199元起】 12GB+256GB —— 4199元 16GB+256GB —— 4599元 12GB+512GB —— 4899元 16GB+512GB —— 5299元 16GB+1TB —— 6299元 核心： ● 6.83\"2K 185Hz LTPS 维信诺直屏…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "coolapk-user-589ae88869c6",
       "title": "JSCHEN小小狐：『iQOO Neo12 正式发布：首销价 3649 元起』 12GB + 256GB —— 3649 元（原价 4…",
       "source": "JSCHEN小小狐",
@@ -417,66 +417,6 @@ window.phoneRadarAuto = {
       "summary": "He nicknamed it the “Pixel Pincher 9000” and suggested that it could be pressing against the display from behind. The post Teardown offers a closeup of what’s breaking iPhone Duo’…",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-bffc39d348a8",
-      "title": "竹本青：华为Mate 90全系将在年底支持四卡三待",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-28",
-      "time": "11:51",
-      "publishedAt": "2026-10-28T11:51:04.000Z",
-      "url": "https://www.coolapk.com/feed/74680363",
-      "image": "http://image.coolapk.com/feed/2026/1028/19/4248714_9e6847ee_8260_0099_670-livepic@1920x1080.jpg",
-      "summary": "【华为Mate 90全系 将在年底支持四卡三待】 10月28日，华为终端BG CEO何刚官宣，Mate 90系列年底将OTA升级支持四卡三待，成为业界首款支持四卡三待的手机系列。 此前10月1日，华为余承东宣布Mate 90 Pro Max 行业首发四卡三待，可同时插入两张实体SIM卡+两张eSIM，并支持三路同时待机。 #今日热点# #鸿蒙7# #华为M…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-f32597210605",
-      "title": "第七届华为睿影 XMAGE 金鸡手机电影计划入围名单揭晓：投稿作品达 6728 部，63 部成功突围",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-28",
-      "time": "11:48",
-      "publishedAt": "2026-10-28T11:48:50.000Z",
-      "url": "https://www.ithome.com/1/019/158.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/b474827e-9a51-4ca0-8557-8935b8ab09fa.jpg",
-      "summary": "IT之家 10 月 28 日消息，华为终端官方今日宣布，第七届华为睿影 XMAGE 金鸡手机电影计划入围名单正式揭晓。据介绍， 本届投稿作品达 6728 部，63 部作品成功突围 。 IT之家从华为官方了解到， 13 部荣誉作品将在 11 月 9 日揭幕 。 作为参考，去年 11 月，华为终端官方微博分享了第 38 届中国金鸡百花电影节宣传片暨开幕短片 —…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-dbd0559b7eff",
-      "title": "腾讯视频 2027 大剧片单公布：《三体：黑暗森林》《超新星纪元》《流浪地球短篇集》等在列",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-28",
-      "time": "10:20",
-      "publishedAt": "2026-10-28T10:20:15.000Z",
-      "url": "https://www.ithome.com/1/019/134.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/83f7c780-8528-43f5-877d-7c04640dce41.jpg",
-      "summary": "IT之家 10 月 28 日消息，腾讯视频今日发布了 2027 大剧片单，刘慈欣科幻小说改编的《 三体：黑暗森林 》《 超新星纪元 》出现在片单中，还有《 流浪地球短篇集 》《 三体：大史 》。 根据介绍，《超新星纪元》由 沈严导演 （《我的前半生》《手机》《天盛长歌》）、 聂成帅编剧 （《天才基本法》）。当末世考验悄然降临，人类将面对严峻挑战，「成长」便…",
-      "tags": [
-        "行业",
         "爆料",
         "自动抓取"
       ]
@@ -822,8 +762,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-059e5f1ee9dd",
-      "title": "兄弟们，我给相亲女朋友分24期买的手机，手机给女朋友后，现在不理我了，我应该怎么办了[流泪][流泪][流泪][流泪]#我在酷安晒女友# #酷安夜话# # #相亲#",
+      "id": "newsnow-fcc98893dd23",
+      "title": "线下看了红米K100，外观上就是普普通通的手机，背面是典型的玻纤后盖，采用横向纯平镜头模组，但把红米K90至尊版的风口换成了BOSE的logo，当然和红米K100 Pro 一样只起到装饰作用",
       "source": "酷安热榜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -832,31 +772,11 @@ window.phoneRadarAuto = {
       "date": "2026-10-28",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74659812",
+      "url": "https://www.coolapk.com/feed/74661846",
       "image": "",
-      "summary": "兄弟们，我给相亲女朋友分24期买的手机，手机给女朋友后，现在不理我了，我应该怎么办了[流泪][流泪][流泪][流泪]#我在酷安晒女友# #酷安夜话# # #相亲#",
+      "summary": "线下看了红米K100，外观上就是普普通通的手机，背面是典型的玻纤后盖，采用横向纯平镜头模组，但把红米K90至尊版的风口换成了BOSE的logo，当然和红米K100 Pro 一样只起到装饰作用",
       "tags": [
         "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-5f4d7f7092ec",
-      "title": "REDMI K100正式发布：首发2999元起",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-28",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74656318",
-      "image": "",
-      "summary": "REDMI K100正式发布：首发2999元起",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
@@ -882,61 +802,81 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-f32c70000be6",
-      "title": "看完视频，在今年大涨价的背景下，无脑买苹果，安卓旗舰新机一台都不要买，喜欢安卓请买上一代",
+      "id": "newsnow-89f8fd25b96a",
+      "title": "『REDMI K100 正式发布：首销价 2999 元起』",
       "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-28",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74656284",
+      "url": "https://www.coolapk.com/feed/74656682",
       "image": "",
-      "summary": "看完视频，在今年大涨价的背景下，无脑买苹果，安卓旗舰新机一台都不要买，喜欢安卓请买上一代",
+      "summary": "『REDMI K100 正式发布：首销价 2999 元起』",
       "tags": [
-        "iPhone",
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-25809da9f606",
-      "title": "极客湾「旗舰手机芯片能效」横评出炉：苹果仍领先，玄戒/天玑稳提升，高通开倒车",
+      "id": "newsnow-059e5f1ee9dd",
+      "title": "兄弟们，我给相亲女朋友分24期买的手机，手机给女朋友后，现在不理我了，我应该怎么办了[流泪][流泪][流泪][流泪]#我在酷安晒女友# #酷安夜话# # #相亲#",
       "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-28",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74653110",
+      "url": "https://www.coolapk.com/feed/74659812",
       "image": "",
-      "summary": "极客湾「旗舰手机芯片能效」横评出炉：苹果仍领先，玄戒/天玑稳提升，高通开倒车",
+      "summary": "兄弟们，我给相亲女朋友分24期买的手机，手机给女朋友后，现在不理我了，我应该怎么办了[流泪][流泪][流泪][流泪]#我在酷安晒女友# #酷安夜话# # #相亲#",
       "tags": [
-        "iPhone",
+        "行业",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-7b621d3e66d1",
-      "title": "iPhone 18e 60Hz屏幕，6.12英寸60HZ LTPSOLED,2nm A20芯片，48Mp单摄，前摄可能会升级24Mp。",
+      "id": "newsnow-9f46f3410dc2",
+      "title": "兄弟们别互相贬低了 手机都挺好的 实在不会选的听我一句劝 多年玩机的顶级寄术[受虐滑稽]",
       "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-28",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74649904",
+      "url": "https://www.coolapk.com/feed/74685831",
       "image": "",
-      "summary": "iPhone 18e 60Hz屏幕，6.12英寸60HZ LTPSOLED,2nm A20芯片，48Mp单摄，前摄可能会升级24Mp。",
+      "summary": "兄弟们别互相贬低了 手机都挺好的 实在不会选的听我一句劝 多年玩机的顶级寄术[受虐滑稽]",
       "tags": [
-        "iPhone",
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-9e830a76e617",
+      "title": "看看对比图，大家会怎么选呢？[牛啤][牛啤][牛啤]#REDMIK100ProMax# #荣耀WINRT2#",
+      "source": "酷安热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-28",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74685943",
+      "image": "",
+      "summary": "看看对比图，大家会怎么选呢？[牛啤][牛啤][牛啤]#REDMIK100ProMax# #荣耀WINRT2#",
+      "tags": [
+        "HONOR",
         "爆料",
         "NewsNow"
       ]
@@ -958,6 +898,26 @@ window.phoneRadarAuto = {
       "tags": [
         "Huawei",
         "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-1d4eb0eda89d",
+      "title": "极客湾旗舰手机芯片大横评",
+      "source": "B站热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-28",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://search.bilibili.com/all?keyword=%E6%9E%81%E5%AE%A2%E6%B9%BE%E6%97%97%E8%88%B0%E6%89%8B%E6%9C%BA%E8%8A%AF%E7%89%87%E5%A4%A7%E6%A8%AA%E8%AF%84",
+      "image": "",
+      "summary": "极客湾旗舰手机芯片大横评",
+      "tags": [
+        "行业",
+        "爆料",
         "NewsNow"
       ]
     },
@@ -1082,26 +1042,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-1e618d985a6d",
-      "title": "Even the Pixel 11 series may not be immune to Google’s missed calls bug",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-27",
-      "time": "16:24",
-      "publishedAt": "2026-10-27T16:24:03.000Z",
-      "url": "https://www.androidauthority.com/google-pixel-11-pro-xl-incoming-calls-bug-3728550/",
-      "image": "",
-      "summary": "This incoming call bug has previously affected other Pixel smartphones, including the Pixel 10 series.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-0601ba016917",
       "title": "Google Photos rolls out customizable redesign of your ‘Collections’ tab",
       "source": "9to5Mac",
@@ -1117,26 +1057,6 @@ window.phoneRadarAuto = {
       "summary": "Following the floating navigation bar in July, Google Photos is rolling out a big redesign that lets you customize the Collections tab on Android and iOS. more…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d21574d9a529",
-      "title": "Case makers are already selling Galaxy S27 Pro and Ultra covers",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-27",
-      "time": "16:08",
-      "publishedAt": "2026-10-27T16:08:13.000Z",
-      "url": "https://www.androidauthority.com/samsung-galaxy-s27-pro-ultra-cases-3728539/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Samsung-Galaxy-S26-Ultra-home-screen-black-cat-scaled.jpg",
-      "summary": "Galaxy S27 Pro and Ultra cases are starting to pop up.",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -1182,46 +1102,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-2d206c1d5e7b",
-      "title": "iPhone Duo sold out? 4 Foldables you can buy right now",
-      "source": "Gizmochina",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-27",
-      "time": "13:59",
-      "publishedAt": "2026-10-27T13:59:30.000Z",
-      "url": "https://www.gizmochina.com/2026/10/27/iphone-duo-sold-out-4-foldables-you-can-buy-right-now/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/iphone-duo-finish-select-202609-starwhite_AV4_GEO_IN-1-300x169.webp?x80236",
-      "summary": "The iPhone Duo is witnessing overwhelming demand all over the world despite a premium $1999 starting price. The first batch sold out within minutes, and the shipments for the seco…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f39953e1331a",
-      "title": "iPhone 18 Pro vs iPhone 15 Pro: Is It Finally Time to Upgrade?",
-      "source": "Gizmochina",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-27",
-      "time": "12:23",
-      "publishedAt": "2026-10-27T12:23:43.000Z",
-      "url": "https://www.gizmochina.com/2026/10/27/iphone-18-pro-vs-iphone-15-pro/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/image-91-300x171.png?x80236",
-      "summary": "iPhone 15 Pro still feels like a flagship, but the iPhone 18 Pro raises an important question: how much has Apple really improved in three generations? With a more advanced camera…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "weibo-ba9ecd8e5895",
       "title": "数码闲聊站：REDMI K100： 红米国内首个万级大电池，10000mAh单电芯支持2.…",
       "source": "数码闲聊站",
@@ -1239,46 +1119,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "coolapk-user-bb8a1de861a6",
-      "title": "JSCHEN小小狐：『REDMI K100 正式发布：首销价 2999 元起』 12GB + 256GB —— 2999 元（原价 3…",
-      "source": "JSCHEN小小狐",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-27",
-      "time": "11:31",
-      "publishedAt": "2026-10-27T11:31:48.000Z",
-      "url": "https://www.coolapk.com/feed/74656682",
-      "image": "http://image.coolapk.com/feed/2026/1027/19/4702274_7d40e8a1_0704_3058_395@1723x4809.jpg",
-      "summary": "『REDMI K100 正式发布：首销价 2999 元起』 12GB + 256GB —— 2999 元（原价 3499） 12GB + 512GB —— 3499 元（原价 4099） 16GB + 512GB —— 3899 元（原价 4499） ◇ 外观 流萤绿、雪岩白、黑色 铝合金中框 + 复合玻纤背板 162.91 × 77.93 × 8.65m…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-509e801b2ec9",
-      "title": "I tested the Galaxy S26 Ultra and OPPO Find X10 Pro Max cameras — it’s no contest",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-27",
-      "time": "11:30",
-      "publishedAt": "2026-10-27T11:30:05.000Z",
-      "url": "https://www.androidauthority.com/samsung-galaxy-s26-ultra-oppo-find-x10-pro-max-camera-comparison-3727207/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/galaxy-s26-ultra-and-find-x10-pro-max-hand-scaled-e1792761558663.jpg",
-      "summary": "Are three 200MP cameras better than one? OPPO wants you to think so, so we found out.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -1319,46 +1159,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-879665fd4780",
-      "title": "The iOS-ification of Android is ruining my favorite phones",
-      "source": "Android Authority",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-27",
-      "time": "10:30",
-      "publishedAt": "2026-10-27T10:30:35.000Z",
-      "url": "https://www.androidauthority.com/ios-ification-of-android-3721391/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/OPPO-Find-X10-Pro-Max-Liquid-Glass.jpg",
-      "summary": "I love Android, but its obsession with copying Liquid Glass is starting to get on my nerves.",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-114e305106a4",
-      "title": "iPhone 18e specs leak, and Android phones still have the upper hand with this key feature",
-      "source": "Android Authority",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-27",
-      "time": "08:41",
-      "publishedAt": "2026-10-27T08:41:36.000Z",
-      "url": "https://www.androidauthority.com/apple-iphone-18e-leaked-specs-3728368/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/Apple-iPhone-17e-showing-hello-startupscreen-on-display-during-boot-with-MacBook-Neo-in-the-background.jpg",
-      "summary": "Apple is apparently withholding a high-refresh-rate screen yet again.",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
