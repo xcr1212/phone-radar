@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-29T19:37:05.772Z",
+  "updatedAt": "2026-10-29T23:56:07.937Z",
   "news": [
+    {
+      "id": "auto-a6792379f7f3",
+      "title": "Three reasons I’d pick the Galaxy Z Fold 8 Ultra over the Fold 8",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-29",
+      "time": "23:29",
+      "publishedAt": "2026-10-29T23:29:18.000Z",
+      "url": "https://www.sammobile.com/opinion/three-reasons-pick-galaxy-z-fold-8-ultra-over-fold-8/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Galaxy-Z-Fold-8-Ultra-review-13-1920x1079.jpg",
+      "summary": "The Galaxy Z Fold 8 has been stealing the limelight since Samsung announced its 2026 foldable lineup, mostly thanks to its new form factor. Sales of both Fold 8 models have gone u…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ffdabae0c81c",
+      "title": "IQOO’s new mid-range phone puts last year’s flagships to shame",
+      "source": "9to5Google",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-29",
+      "time": "21:17",
+      "publishedAt": "2026-10-29T21:17:35.000Z",
+      "url": "https://9to5google.com/2026/10/29/iqoos-new-mid-range-phone-puts-last-years-flagships-to-shame/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/iqoo-neo-12-official-render-02.jpg?quality=82&strip=all&w=1600",
+      "summary": "The IQOO Neo 12 is outfitted with so many premium-level specs that you’d never know this was targeted toward an upper mid-range budget. more…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-691a66d38688",
       "title": "Is now the time to buy a OnePlus 15? [Video]",
@@ -102,26 +142,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-e675bb67d18b",
-      "title": "I scored 50% off both the Samsung Galaxy S26 AND a year of unlimited with this Mint Mobile deal - here’s how",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-29",
-      "time": "16:01",
-      "publishedAt": "2026-10-29T16:01:21.000Z",
-      "url": "https://www.androidpolice.com/mint-mobile-deal-50percent-off-galaxy-s26-discount/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/04/img_3419.jpg",
-      "summary": "Stock is running low, so act fast.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-2768208e1b76",
       "title": "Pixel 10 Pro XL owners can grab Google’s PixelSnap case for 58% off",
       "source": "Android Authority",
@@ -202,6 +222,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "coolapk-user-602337c4da79",
+      "title": "JSCHEN小小狐：尼康发布尼克尔 Z 120‑300mm f/2.8 TC VR S 市场参考价格：RMB 99,999 元 开始销…",
+      "source": "JSCHEN小小狐",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-29",
+      "time": "13:40",
+      "publishedAt": "2026-10-29T13:40:06.000Z",
+      "url": "https://www.coolapk.com/feed/74709032",
+      "image": "http://image.coolapk.com/feed/2026/1029/21/4702274_bcc03444_1201_4009_183@2160x2880.jpg",
+      "summary": "尼康发布尼克尔 Z 120‑300mm f/2.8 TC VR S 市场参考价格：RMB 99,999 元 开始销售日期：2026 年 11 月 12 日 ◇ 尼康 S-型（S-Line）系列长焦变焦镜头 ◇ 在 120-300mm 内保持恒定 f/2.8 光圈 ◇ 首款内置 1.4X 增距镜恒定 f/2.8 变焦镜头 ◇ 一键扩展最大焦距 300mm 至…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
       "id": "auto-9dea0771850a",
       "title": "OnePlus 16 vs Google Pixel 11: Which $900 Flagship Is Worth Buying?",
       "source": "Gizmochina",
@@ -275,26 +315,6 @@ window.phoneRadarAuto = {
       "url": "https://www.gizmochina.com/2026/10/29/iphone-air-2-revealed-to-have-bigger-battery-dual-rear-camera/",
       "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Einfach-nur-Apple-iPhone-Leaker-deutet-auf-spannende-iPhone-Air-2-Zukunft-300x169.jpg?x80236",
       "summary": "When Apple launched the iPhone Air in September 2025, it became the thinnest iPhone the company had made. It also drew two complaints almost right away: the battery didn’t last as…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-63ddd7b094ad",
-      "title": "苹果承认少量 iPhone Duo 存在内屏问题，故障原因及受影响设备数量暂未公布",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-29",
-      "time": "11:29",
-      "publishedAt": "2026-10-29T11:29:14.000Z",
-      "url": "https://www.ithome.com/1/019/730.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/64a470b3-6adb-4c07-be55-007244cfb92e.jpg",
-      "summary": "IT之家 10 月 29 日消息，苹果首款折叠屏手机 iPhone Duo 本月 23 日正式上市后， 有消费者反映手机内屏存在沿折叠区域开裂、出现亮线等问题 。 据新华社今日报道， 苹果公司在向新华社记者提供的声明中承认少量设备存在内屏问题 ，但未公布故障原因及受影响设备数量。 彭博社及多家科技媒体报道提到，一些消费者在展开手机时感到铰链阻力异常或听到碎…",
       "tags": [
         "iPhone",
         "爆料",
@@ -419,6 +439,46 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-1951311a8eeb",
+      "title": "JSCHEN小小狐：疑似小米 18 手机壳曝光：左上角方形 Deco",
+      "source": "JSCHEN小小狐",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-29",
+      "time": "05:39",
+      "publishedAt": "2026-10-29T05:39:59.000Z",
+      "url": "https://www.coolapk.com/feed/74698066",
+      "image": "http://image.coolapk.com/feed/2026/1029/13/4702274_3ed109a0_2398_1124_682@800x800.jpg",
+      "summary": "『疑似小米 18 手机壳曝光：左上角方形 Deco』 ◇ 左上角方形相机 Deco + 整体镀黑 ◇ 主摄、长焦纵向排布：圆形外观 ◇ 超广角位于模组右上：横条外观 小米 18 已知曝光信息： ◇ 工程机含黑色、白色、紫色、红色 ◇ M11 超级像素四等边小屏（无防窥） ◇ 2nm 骁龙 8 Elite Gen6 移动平台 ◇ 7200mAh± 电池 +…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-fee5675c2d6c",
+      "title": "JSCHEN小小狐：华为「星芒」首款阔直板曝光：型号 O1 Pro",
+      "source": "JSCHEN小小狐",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-29",
+      "time": "04:50",
+      "publishedAt": "2026-10-29T04:50:58.000Z",
+      "url": "https://www.coolapk.com/feed/74697010",
+      "image": "http://image.coolapk.com/feed/2026/1029/12/4702274_3cfdd879_9456_4376_576@1440x507.jpg",
+      "summary": "『华为「星芒」首款阔直板曝光：型号 O1 Pro』 ◇ 6.39 英寸 LTPS OLED 阔比例直屏 ◇ 麒麟 9 系处理器｜系统含特色调整 ◇ 后置镜头采用横向跑道 Deco 设计 配色： 星空黑、星云白、星芒紫 版本： 12GB+256GB / 12GB+512GB 16GB+512GB / 16GB+1TB #今日热点# #华为PuraXView#…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
       ]
     },
     {
@@ -642,6 +702,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-0879e98b22d5",
+      "title": "iPhone Duo用磨砂膜隐藏折痕引争议",
+      "source": "今日头条热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-29",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7702105993106165291/",
+      "image": "",
+      "summary": "iPhone Duo用磨砂膜隐藏折痕引争议",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "auto-5f0537317ac3",
       "title": "iPhone Duo could capture nearly 30% of foldable market in 2027, per report",
       "source": "9to5Mac",
@@ -842,6 +922,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "coolapk-user-589ae88869c6",
+      "title": "JSCHEN小小狐：『iQOO Neo12 正式发布：首销价 3649 元起』 12GB + 256GB —— 3649 元（原价 4…",
+      "source": "JSCHEN小小狐",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-28",
+      "time": "12:04",
+      "publishedAt": "2026-10-28T12:04:11.000Z",
+      "url": "https://www.coolapk.com/feed/74680628",
+      "image": "http://image.coolapk.com/feed/2026/1028/20/4702274_3c2f753e_9482_9797_527@2160x3648.jpg",
+      "summary": "『iQOO Neo12 正式发布：首销价 3649 元起』 12GB + 256GB —— 3649 元（原价 4399） 16GB + 256GB —— 4049 元（原价 4799） 12GB + 512GB —— 4349 元（原价 5099） 16GB + 512GB —— 4749 元（原价 5499） 16GB + 1TB —— 5649 元（…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
       "id": "auto-b7c3e0ae7223",
       "title": "Teardown offers a closeup of what’s breaking iPhone Duo’s inner display",
       "source": "Gizmochina",
@@ -875,26 +975,6 @@ window.phoneRadarAuto = {
       "url": "https://www.gizmochina.com/2026/10/28/oneplus-16-vs-samsung-galaxy-s26/",
       "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/image-94-300x164.png?x80236",
       "summary": "OnePlus 16 and Samsung Galaxy S26 appeal to different kinds of flagship buyers. OnePlus focuses on high-end hardware, gaming, battery endurance and charging speed, while Samsung p…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1345247b6eab",
-      "title": "Samsung may add a second wide foldable alongside the Galaxy Z Fold 9",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-28",
-      "time": "09:13",
-      "publishedAt": "2026-10-28T09:13:29.000Z",
-      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-9-plus-fe-leak-3728941/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/samsung-z-fold-8-vs-ultra-main.jpg",
-      "summary": "Leak suggests consumers might be able to choose from the Fold 9 and either a Fold 9 Plus or a Fold 9 FE.",
       "tags": [
         "Samsung",
         "爆料",
@@ -942,6 +1022,46 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "coolapk-user-650afdcae5fa",
+      "title": "JSCHEN小小狐：华为畅享100系列正式发布：售价1399元起",
+      "source": "JSCHEN小小狐",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-28",
+      "time": "07:03",
+      "publishedAt": "2026-10-28T07:03:07.000Z",
+      "url": "https://www.coolapk.com/feed/74674338",
+      "image": "http://image.coolapk.com/feed/2026/1028/15/4702274_f371baaf_2095_0465_857@2160x3600.jpg",
+      "summary": "『华为畅享 100 系列正式发布：售价 1399 元起』 畅享 100（麒麟 8000S） 6GB + 128GB —— 1399 元 6GB + 256GB —— 1699 元 畅享 100 Pro（麒麟 8020A） 6GB + 128GB —— 1799 元 6GB + 256GB —— 2199 元 6GB + 512GB 昆仑版 —— 2699…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-d0a24e011dc9",
+      "title": "JSCHEN小小狐：华为 Pura90 Plus 正式发布：首销 5199 元起",
+      "source": "JSCHEN小小狐",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-28",
+      "time": "06:52",
+      "publishedAt": "2026-10-28T06:52:13.000Z",
+      "url": "https://www.coolapk.com/feed/74674116",
+      "image": "http://image.coolapk.com/feed/2026/1028/14/4702274_2c6a0e88_0510_4147_0@1080x5643.jpg",
+      "summary": "『华为 Pura90 Plus 正式发布：首销 5199 元起』 12GB + 256GB —— 5199 元（原价 5499） 12GB + 512GB —— 5699 元（原价 5999） 12GB + 1TB —— 6699 元（原价 6999） ◇ 外观 曜石黑、雪域白、晨曦金、霞光紫 铝合金弧形边框 + 铝硅玻璃后盖 163 × 76.1 × 8…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
       "id": "auto-914260f1d872",
       "title": "怀旧手记｜坚果 Pro2 与 R1：当「理想」和「现实」碰撞会发生什么？",
       "source": "少数派",
@@ -959,6 +1079,26 @@ window.phoneRadarAuto = {
         "行业",
         "评测",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-14d2ddf9584e",
+      "title": "JSCHEN小小狐：曝华为测试双潜望新方案：200MP + 50MP",
+      "source": "JSCHEN小小狐",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-28",
+      "time": "02:11",
+      "publishedAt": "2026-10-28T02:11:35.000Z",
+      "url": "https://www.coolapk.com/feed/74667904",
+      "image": "http://image.coolapk.com/feed/2026/1028/10/4702274_90ea68c1_3494_5915_83@1440x512.jpg",
+      "summary": "『曝华为测试双潜望新方案：200MP + 50MP』 ◇ 200MP 1/1.3 英寸 RYYB 超大底长焦 ◇ 50MP 1/2.5± 英寸 RYYB 潜望超长焦 ◇ 均采用思特威传感器 / 焦段配置上新 #今日热点# #华为Pura90ProMax# #华为Mate80ProMax#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
       ]
     }
   ]

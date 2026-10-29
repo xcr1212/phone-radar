@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-10-29T19:37:05.772Z",
+  "updatedAt": "2026-10-29T23:56:07.937Z",
   "issueDate": "2026-10-29",
   "issue": "VOL.261029",
   "title": "手机情报日报",
-  "intro": "今日筛出 20 条重点，其中 8 条是重点爆料，包含 10 条 iPhone 相关、2 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、2 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 20,
-    "iphone": 10,
+    "total": 16,
+    "iphone": 9,
     "leaks": 8,
     "official": 2,
     "specs": 0
@@ -17,29 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-63ddd7b094ad",
-          "title": "苹果承认少量 iPhone Duo 存在内屏问题，故障原因及受影响设备数量暂未公布",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-29",
-          "time": "11:29",
-          "publishedAt": "2026-10-29T11:29:14.000Z",
-          "url": "https://www.ithome.com/1/019/730.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/64a470b3-6adb-4c07-be55-007244cfb92e.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 10 月 29 日消息，苹果首款折叠屏手机 iPhone Duo 本月 23 日正式上市后， 有消费者反映手机内屏存在沿折叠区域开裂、出现亮线等问题 。 据新华社今日报道， 苹果公司在向新华社记者提供的声明中承认少量设备存在内屏问题 ，但未公布故障原因及受影响设备数量。 彭博社及多家科技媒体报道提到，一些消费者在展开手机时感到铰链阻力异常或听到碎…",
-          "detail": "IT之家 10 月 29 日消息，苹果首款折叠屏手机 iPhone Duo 本月 23 日正式上市后， 有消费者反映手机内屏存在沿折叠区域开裂、出现亮线等问题 。 据新华社今日报道， 苹果公司在向新华社记者提供的声明中承认少量设备存在内屏问题 ，但未公布故障原因及受影响设备数量。 彭博社及多家科技媒体报道提到，一些消费者在展开手机时感到铰链阻力异常或听到碎…",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "weibo-cd4ed2afde27",
           "title": "数码闲聊站：iPhone Air2早就开屏了，常规比例的中尺寸直屏，6.55\"1.5K+1…",
@@ -113,6 +90,54 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "newsnow-0879e98b22d5",
+          "title": "iPhone Duo用磨砂膜隐藏折痕引争议",
+          "originalTitle": "",
+          "source": "今日头条热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-29",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.toutiao.com/trending/7702105993106165291/",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone Duo用磨砂膜隐藏折痕引争议",
+          "detail": "iPhone Duo用磨砂膜隐藏折痕引争议",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-fee5675c2d6c",
+          "title": "JSCHEN小小狐：华为「星芒」首款阔直板曝光：型号 O1 Pro",
+          "originalTitle": "",
+          "source": "JSCHEN小小狐",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-10-29",
+          "time": "04:50",
+          "publishedAt": "2026-10-29T04:50:58.000Z",
+          "url": "https://www.coolapk.com/feed/74697010",
+          "image": "http://image.coolapk.com/feed/2026/1029/12/4702274_3cfdd879_9456_4376_576@1440x507.jpg",
+          "verdict": "先看",
+          "takeaway": "『华为「星芒」首款阔直板曝光：型号 O1 Pro』 ◇ 6.39 英寸 LTPS OLED 阔比例直屏 ◇ 麒麟 9 系处理器｜系统含特色调整 ◇ 后置镜头采用横向跑道 Deco 设计 配色： 星空黑、星云白、星芒紫 版本： 12GB+256GB / 12GB+512GB 16GB+512GB / 16GB+1TB #今日热点# #华为PuraXView#…",
+          "detail": "『华为「星芒」首款阔直板曝光：型号 O1 Pro』 ◇ 6.39 英寸 LTPS OLED 阔比例直屏 ◇ 麒麟 9 系处理器｜系统含特色调整 ◇ 后置镜头采用横向跑道 Deco 设计 配色： 星空黑、星云白、星芒紫 版本： 12GB+256GB / 12GB+512GB 16GB+512GB / 16GB+1TB #今日热点# #华为PuraXView#…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "屏幕形态",
+            "芯片 / 性能"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "coolapk-user-b1ed1481d97f",
           "title": "竹本青：【今日宜休王腾：iFlow温控系统散热能力，是REDMI K100 Pro Max的289倍】 10月29日，今日…",
           "originalTitle": "",
@@ -178,30 +203,6 @@ window.phoneRadarDaily = {
           "detail": "【博主称苹果暂无“阔直板”规划，iPhone Air2采用常规比例直屏】 10月29日，数码闲聊站再爆料iPhone Air2配置：屏幕早已开案，6.55英寸1.5K 120Hz LTPO OLED直屏，采用常规比例，并非阔屏。 针对网友询问的“阔直板”手机，该博主回应，苹果至少到2027年都没有阔屏开案。 #今日热点# #华为PuraXView# #iP…",
           "keyPoints": [
             "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-1d68254b7579",
-          "title": "数码闲聊站：独家信息：子品牌首款新机疑似「阔直板手机」，6.39英寸，9系芯片，工程机顶配…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-10-29",
-          "time": "00:49",
-          "publishedAt": "2026-10-29T00:49:31.000Z",
-          "url": "https://weibo.com/6048569942/RoS66aQuX",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "独家信息，子品牌首款新机疑似「阔直板手机」，6.39英寸，9系芯片，工程机顶配有16GB+1TB[污]",
-          "detail": "独家信息，子品牌首款新机疑似「阔直板手机」，6.39英寸，9系芯片，工程机顶配有16GB+1TB[污]",
-          "keyPoints": [
-            "芯片 / 性能",
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
@@ -330,29 +331,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-b200bbbe2817",
-          "title": "iPhone Duo为何刚用就炸屏",
-          "originalTitle": "",
-          "source": "B站热搜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-29",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://search.bilibili.com/all?keyword=iPhone%20Duo%E4%B8%BA%E4%BD%95%E5%88%9A%E7%94%A8%E5%B0%B1%E7%82%B8%E5%B1%8F",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "iPhone Duo为何刚用就炸屏",
-          "detail": "iPhone Duo为何刚用就炸屏",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -362,57 +340,50 @@ window.phoneRadarDaily = {
       "hint": "能直接更新到参数库。",
       "items": [
         {
-          "id": "auto-2768208e1b76",
-          "title": "Pixel 相关消息",
+          "id": "coolapk-user-589ae88869c6",
+          "title": "JSCHEN小小狐：『iQOO Neo12 正式发布：首销价 3649 元起』 12GB + 256GB —— 3649 元（原价 4…",
           "originalTitle": "",
-          "source": "Android Authority",
-          "brand": "Pixel",
+          "source": "JSCHEN小小狐",
+          "brand": "vivo",
           "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-29",
-          "time": "15:27",
-          "publishedAt": "2026-10-29T15:27:29.000Z",
-          "url": "https://www.androidauthority.com/google-pixelsnap-phone-case-pixel-10-pro-xl-deal-3729653/",
-          "image": "",
-          "verdict": "可略过",
-          "takeaway": "Pixel 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Pixel 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "trust": "高可信爆料",
+          "date": "2026-10-28",
+          "time": "12:04",
+          "publishedAt": "2026-10-28T12:04:11.000Z",
+          "url": "https://www.coolapk.com/feed/74680628",
+          "image": "http://image.coolapk.com/feed/2026/1028/20/4702274_3c2f753e_9482_9797_527@2160x3648.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "『iQOO Neo12 正式发布：首销价 3649 元起』 12GB + 256GB —— 3649 元（原价 4399） 16GB + 256GB —— 4049 元（原价 4799） 12GB + 512GB —— 4349 元（原价 5099） 16GB + 512GB —— 4749 元（原价 5499） 16GB + 1TB —— 5649 元（…",
+          "detail": "『iQOO Neo12 正式发布：首销价 3649 元起』 12GB + 256GB —— 3649 元（原价 4399） 16GB + 256GB —— 4049 元（原价 4799） 12GB + 512GB —— 4349 元（原价 5099） 16GB + 512GB —— 4749 元（原价 5499） 16GB + 1TB —— 5649 元（…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "coolapk-user-650afdcae5fa",
+          "title": "JSCHEN小小狐：华为畅享100系列正式发布：售价1399元起",
+          "originalTitle": "",
+          "source": "JSCHEN小小狐",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-10-28",
+          "time": "07:03",
+          "publishedAt": "2026-10-28T07:03:07.000Z",
+          "url": "https://www.coolapk.com/feed/74674338",
+          "image": "http://image.coolapk.com/feed/2026/1028/15/4702274_f371baaf_2095_0465_857@2160x3600.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "『华为畅享 100 系列正式发布：售价 1399 元起』 畅享 100（麒麟 8000S） 6GB + 128GB —— 1399 元 6GB + 256GB —— 1699 元 畅享 100 Pro（麒麟 8020A） 6GB + 128GB —— 1799 元 6GB + 256GB —— 2199 元 6GB + 512GB 昆仑版 —— 2699…",
+          "detail": "『华为畅享 100 系列正式发布：售价 1399 元起』 畅享 100（麒麟 8000S） 6GB + 128GB —— 1399 元 6GB + 256GB —— 1699 元 畅享 100 Pro（麒麟 8020A） 6GB + 128GB —— 1799 元 6GB + 256GB —— 2199 元 6GB + 512GB 昆仑版 —— 2699…",
           "keyPoints": [
             "成本 / 价格"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        }
-      ]
-    },
-    {
-      "id": "review",
-      "title": "评测与体验",
-      "hint": "买前再细看，平时扫一眼即可。",
-      "items": [
-        {
-          "id": "auto-0371064122cf",
-          "title": "OPPO 发布 / 上市相关消息",
-          "originalTitle": "",
-          "source": "Android Authority",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-29",
-          "time": "16:33",
-          "publishedAt": "2026-10-29T16:33:50.000Z",
-          "url": "https://www.androidauthority.com/oneplus-ace-7-pro-launch-16r-preview-3729618/",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/OnePlus-Ace-7-aka-OnePlus-15R.jpg",
-          "verdict": "可略过",
-          "takeaway": "OPPO 有发布或新功能消息，适合确认是否和新机有关。",
-          "detail": "OPPO 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "电池 / 充电"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -443,76 +414,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-b7b86c3360fe",
-          "title": "HONOR 相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-29",
-          "time": "16:41",
-          "publishedAt": "2026-10-29T16:41:06.000Z",
-          "url": "https://www.gizmochina.com/2026/10/29/redmagic-12-pro-plus-vs-iphone-18-pro-max/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/image-98-300x167.png?x80236",
-          "verdict": "可略过",
-          "takeaway": "HONOR 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "HONOR 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "电池 / 充电"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-e675bb67d18b",
-          "title": "Samsung 相关消息",
-          "originalTitle": "",
-          "source": "Android Police",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-29",
-          "time": "16:01",
-          "publishedAt": "2026-10-29T16:01:21.000Z",
-          "url": "https://www.androidpolice.com/mint-mobile-deal-50percent-off-galaxy-s26-discount/",
-          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/04/img_3419.jpg",
-          "verdict": "可略过",
-          "takeaway": "Samsung 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Samsung 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-9dea0771850a",
-          "title": "OPPO 相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-29",
-          "time": "13:06",
-          "publishedAt": "2026-10-29T13:06:36.000Z",
-          "url": "https://www.gizmochina.com/2026/10/29/oneplus-16-vs-google-pixel-11/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/image-97-300x151.png?x80236",
-          "verdict": "可略过",
-          "takeaway": "OPPO 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "OPPO 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "屏幕形态",
-            "电池 / 充电"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     }
