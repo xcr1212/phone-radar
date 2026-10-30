@@ -1,6 +1,406 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-30T05:45:55.045Z",
+  "updatedAt": "2026-10-30T12:53:05.349Z",
   "news": [
+    {
+      "id": "auto-5e49d167192b",
+      "title": "Google is testing an iOS-style Family hub on the Pixel",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-30",
+      "time": "12:44",
+      "publishedAt": "2026-10-30T12:44:20.000Z",
+      "url": "https://www.androidauthority.com/google-is-testing-an-ios-style-family-hub-on-the-pixel-3729970/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/04/Expressive_Settings_homepage_in_Android_16_Beta_4-scaled.jpg",
+      "summary": "Android family sharing is still a hassle, but Pixel phones may finally change that.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7ba68a3165b8",
+      "title": "OnePlus 16 vs OPPO Find X10: Snapdragon Power or 200MP Camera?",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-30",
+      "time": "12:34",
+      "publishedAt": "2026-10-30T12:34:26.000Z",
+      "url": "https://www.gizmochina.com/2026/10/30/oneplus-16-vs-oppo-find-x10/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/image-101-300x176.png?x54692",
+      "summary": "OnePlus 16 and OPPO Find X10 take different approaches to flagship smartphone design. While OnePlus focuses on extreme performance, a high-refresh-rate display, and an exceptional…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4f94c29bab63",
+      "title": "畅享系列首款：华为畅享 100 Pro Max 手机确认支持 NearLink E2.0 星闪音频功能",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-30",
+      "time": "12:10",
+      "publishedAt": "2026-10-30T12:10:59.000Z",
+      "url": "https://www.ithome.com/1/020/326.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/84ee4bbf-fcb2-46a4-bcb6-bc60e8eabb4b.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 30 日消息，在 10 月 28 日的华为双十一焕新季 · 全场景新品发布会上，华为董事、终端 BG CEO 何刚正式发布了畅享 100 Pro Max 手机，至高搭载麒麟 8020 处理器、内置 8800mAh 巨鲸大电池，定价 1999 元起。 该机核心亮点包括 8800mAh 华为手机史上最大容量电池、5000 万像素 RYYB…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d45291296faa",
+      "title": "Huawei’s next-foldable could feature 50MP RYYB telephoto and Kirin 9050 Pro",
+      "source": "Gizmochina",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-30",
+      "time": "12:09",
+      "publishedAt": "2026-10-30T12:09:49.000Z",
+      "url": "https://www.gizmochina.com/2026/10/30/huawei-mate-x8-kirin-9050-pro-camera-matepad-mini-2nd-gen-leak/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2025/11/Huawei-MAte-X7-Design-2-300x200.jpg?x54692",
+      "summary": "Huawei could launch several new product in November, even though the company just recently announced the Enjoy 100 series and Pura 90 Plus. According to tipster Smart Pikachu, the…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7683194c9a9d",
+      "title": "Google’s Pixel 11 drops to $699 on Amazon US, and the rest of the lineup is on sale too",
+      "source": "Gizmochina",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-30",
+      "time": "11:11",
+      "publishedAt": "2026-10-30T11:11:59.000Z",
+      "url": "https://www.gizmochina.com/2026/10/30/googles-pixel-11-drops-to-699-on-amazon-us-and-the-rest-of-the-lineup-is-on-sale-too/",
+      "image": "",
+      "summary": "Google’s Pixel 11 is down to just $699 on Amazon US right now. That’s $200 off the $899 it launched at in August, and it’s the lowest price the phone has hit so far. This isn’t a…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-76c8a801df74",
+      "title": "竹本青：金标联盟发布「一镜到底/无缝动画」，荣耀、OPPO、vivo、小米联合推动落地",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-30",
+      "time": "11:10",
+      "publishedAt": "2026-10-30T11:10:19.000Z",
+      "url": "https://www.coolapk.com/feed/74729958",
+      "image": "http://image.coolapk.com/feed/2026/1030/19/4248714_5532ae35_8607_1727_426@1080x1595.jpg",
+      "summary": "【金标联盟发布「一镜到底/无缝动画」，荣耀、OPPO、vivo、小米联合推动落地】 今年10月，金标联盟发布SharedView Kit「一镜到底/无缝动画」，荣耀、OPPO、vivo、小米四家头部手机厂商联合推动落地，为用户带来「点击即展开、返回不跳帧」的交互感受。 ● 对用户而言： 整体体验更跟手、更丝滑。页面从点击处自然展开，返回时又精准地收回原位，…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-004b8d79b86c",
+      "title": "JSCHEN小小狐：博主汇总四大「性能旗舰」系列累计激活量",
+      "source": "JSCHEN小小狐",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-30",
+      "time": "10:14",
+      "publishedAt": "2026-10-30T10:14:51.000Z",
+      "url": "https://www.coolapk.com/feed/74728803",
+      "image": "http://image.coolapk.com/feed/2026/1030/18/4702274_59a1f5de_5290_3799_509@1440x842.jpg",
+      "summary": "『博主汇总四大「性能旗舰」系列累计激活量』 荣耀 WIN2 系列（2 款机型） 开售 5 天 —— 激活量约 6.8± 万台 iQOO 16（1 款机型） 开售 27 天 —— 激活量约 13.0± 万台 一加 16（1 款机型） 开售 13 天 —— 激活量约 11.2± 万台 REDMI K100 Pro 系列（2 款机型） 开售 76 天 —— 激活…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-5ad515008f9d",
+      "title": "Where Did All the iPhone Duos Go? Mostly to Apple's Stores",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-30",
+      "time": "10:10",
+      "publishedAt": "2026-10-30T10:10:09.000Z",
+      "url": "https://www.macrumors.com/2026/10/30/apple-stores-as-few-as-50-iphone-duo-units/",
+      "image": "https://images.macrumors.com/article-new/2026/09/iphone-duo-colors.jpg",
+      "summary": "Apple allocated roughly 80% of its initial iPhone Duo inventory to its retail stores, with locations holding as few as 50 units each, according to Bloomberg 's Mark Gurman. Speaki…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7db52b3374c7",
+      "title": "iPhone Duo’s cracking screens are already scaring off would-be buyers, survey finds",
+      "source": "Android Authority",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-30",
+      "time": "09:57",
+      "publishedAt": "2026-10-30T09:57:40.000Z",
+      "url": "https://www.androidauthority.com/iphone-duo-screen-crack-breaking-3729921/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/iPhone-Duo-Star-White-box.jpg",
+      "summary": "Apple’s foldable has a new crease to deal with, and it’s in buyer confidence",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-02b21e69deeb",
+      "title": "竹本青：奔福BPad X7 阔手机预售：紫光展锐T615、720P高刷屏，首销749元",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-30",
+      "time": "09:57",
+      "publishedAt": "2026-10-30T09:57:27.000Z",
+      "url": "https://www.coolapk.com/feed/74728447",
+      "image": "http://image.coolapk.com/feed/2026/1030/17/4248714_b8a05854_4246_4416_24@1280x2560.jpg",
+      "summary": "【奔福BPad X7 阔手机预售：紫光展锐T615、720P高刷屏，首销749元】 4GB+128GB —— 749元 ● 7英寸 90Hz 720P LCD屏 ● 紫光展锐T615处理器 ● 4G SIM双卡双待 ● 4000mAh电池+10W充电 ○ 前置5MP+后置13MP ○ 带听筒｜蓝牙5.0｜TF卡拓展 ○ GPS定位｜安卓16系统 ○ 174…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-b8cad3ccf7eb",
+      "title": "OPPO 高管新分工：李炳忠统管海外市场，尹文广统管手机产品",
+      "source": "IT之家",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-30",
+      "time": "09:34",
+      "publishedAt": "2026-10-30T09:34:39.000Z",
+      "url": "https://www.ithome.com/1/020/239.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/f2470108-15e6-4a03-9685-b52b5e9005cd.png",
+      "summary": "IT之家 10 月 30 日消息，据界面新闻报道，OPPO 发布高管任命与分工调整通知 —— 高级副总裁李炳忠全面负责海外业务 ，对 OPPO 和子系列在海外市场的经营结果负责； 副总裁尹文广将负责所有手机产品系列 ，向首席产品官刘作虎汇报。 IT之家注：李炳忠毕业于南京航空航天大学，是真我 realme 创始人，前 OPPO 副总裁、OPPO 海外事业部…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2c381b4eb5a5",
+      "title": "The true cost of folding: What a Galaxy Z Fold 8 or iPhone Duo costs to own for a year",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-30",
+      "time": "09:30",
+      "publishedAt": "2026-10-30T09:30:46.000Z",
+      "url": "https://www.androidauthority.com/galaxy-z-fold-8-vs-iphone-duo-cost-of-ownership-3726590/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/Z-Fold-8-vs-iPhone-Duo-hero-2.jpg",
+      "summary": "Owning Samsung's or Apple's foldable phone can be way more expensive than the price tag will tell you.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-74a7f575f864",
+      "title": "竹本青：曝苹果包揽W43单周销量TOP5",
+      "source": "竹本青",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-30",
+      "time": "09:18",
+      "publishedAt": "2026-10-30T09:18:24.000Z",
+      "url": "https://www.coolapk.com/feed/74727634",
+      "image": "http://image.coolapk.com/feed/2026/1030/17/4248714_d2804988_1902_7827_451@1272x749.jpg",
+      "summary": "【曝苹果包揽W43单周销量TOP5，iPhone Duo 3天激活销量约12.5万台】 10月30日，数码闲聊站爆料W43周（10.19‑10.25）的苹果手机数据。iPhone Duo开售仅3天，激活销量约12.5万台；该周期内，苹果还包揽了单周销量榜TOP5： ① 18 Pro Max单周72.4W（累计397W±） ② 18 Pro单周33.5W（累…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-23a84ae18262",
+      "title": "竹本青：上周国内手机市场份额曝光：苹果连续六周榜首",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-30",
+      "time": "09:14",
+      "publishedAt": "2026-10-30T09:14:12.000Z",
+      "url": "https://www.coolapk.com/feed/74727540",
+      "image": "http://image.coolapk.com/feed/2026/1030/17/4248714_c63a5252_1650_6678_332@1271x942.jpg",
+      "summary": "【上周（W43）国内手机市场份额曝光：苹果连续六周榜首，本周占比33.2%】 ● 2026 W43：大盘上升约15% 1.苹果 —— 33.2% 2.华为 —— 17.7% 3.小米 —— 13.1% 4.荣耀 —— 11.6% 5.OPPO —— 11.2%（含一加 2.4%，realme 0.2%） 6.vivo —— 10.4%（含iQOO 2.7%…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "weibo-223904d6708b",
+      "title": "数码闲聊站：iPhone Duo首周激活销量——12.5W± 统计周期为W43(10.19…",
+      "source": "数码闲聊站",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-30",
+      "time": "08:42",
+      "publishedAt": "2026-10-30T08:42:31.000Z",
+      "url": "https://weibo.com/6048569942/Rp4CAmlaF",
+      "image": "",
+      "summary": "iPhone Duo首周激活销量——12.5W± 统计周期为W43(10.19-10.25)，Duo开售3天 与此同时，苹果包揽W43单周销量榜TOP5： ①iPhone 18 Pro Max——72.4W (累计397W±) ②iPhone 18 Pro——33.5W (累计206W±) ③iPhone 17——17.8W (累计1328W±) ④iPh…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-9ee1ab825119",
+      "title": "Samsung may use this chip for Galaxy S27 Ultra in Europe",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-30",
+      "time": "08:18",
+      "publishedAt": "2026-10-30T08:18:13.000Z",
+      "url": "https://www.sammobile.com/news/samsung-may-use-this-chip-galaxy-s27-ultra-europe/",
+      "image": "",
+      "summary": "Ahead of every new Galaxy S series launch, rumors and reports often emerge about whether Samsung will use its in-house Exynos chipsets or Qualcomm’s Snapdragon processors. The upc…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-243161c68fb9",
+      "title": "Oppo Find X10 Ultra Dimensity 9600 Pro Edition could be in the works",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-30",
+      "time": "07:44",
+      "publishedAt": "2026-10-30T07:44:36.000Z",
+      "url": "https://www.gizmochina.com/2026/10/30/oppo-find-x10-ultra-dimensity-9600-pro-edition-leak/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Oppo-Find-X9-Ultra-300x200.png?x54692",
+      "summary": "Oppo introduced the Ultra variant in its Find X series with the Find X7 Ultra back in 2024. While the non-Pro X-series flagships come equipped with Dimensity chipsets, Oppo’s Ultr…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e3cbe97efc03",
+      "title": "Samsung’s next foldable is here, and it’s even more expensive than the iPhone Duo",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-30",
+      "time": "07:22",
+      "publishedAt": "2026-10-30T07:22:38.000Z",
+      "url": "https://www.androidauthority.com/samsung-w27-3729821/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/Samsung-W27-official-image-showing-hinge-and-frame.jpg",
+      "summary": "A China-only Galaxy Z Fold 8 Ultra in swanky clothing.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-6cbea3fb5ced",
+      "title": "数码闲聊站：独家，6.35英寸阔直板，明年首款新机属于高端旗舰线，后续考虑下放轻薄拍照机，…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-30",
+      "time": "07:13",
+      "publishedAt": "2026-10-30T07:13:00.000Z",
+      "url": "https://weibo.com/6048569942/Rp42fuaFu",
+      "image": "",
+      "summary": "独家，6.35英寸阔直板，明年首款新机属于高端旗舰线，后续考虑下放轻薄拍照机，多产品线开阔[偷乐]",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-d6a2810f4584",
+      "title": "Galaxy S27 charging speed may disappoint you",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-30",
+      "time": "07:02",
+      "publishedAt": "2026-10-30T07:02:43.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s27-charging-speed-may-disappoint-you/",
+      "image": "",
+      "summary": "After offering 45W charging on its Galaxy S Ultra phones for six generations, Samsung finally upgraded the figure to 60W with the Galaxy S26 Ultra. However, charging speeds on the…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-84819d7c5005",
       "title": "Galaxy Z Fold 9 Ultra: Everything you need to know",
@@ -22,48 +422,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-a83da96a2694",
-      "title": "vivo S70 旗舰版手机参数曝光：骁龙 8s Gen4，支持 200mm 增距镜",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-30",
-      "time": "05:37",
-      "publishedAt": "2026-10-30T05:37:37.000Z",
-      "url": "https://www.ithome.com/1/020/040.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/803ff598-9d12-49ea-ba46-4806a5e416eb.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 30 日消息，博主 @数码闲聊站 今日曝光了 vivo S70 旗舰版手机的主要参数。 IT之家整理如下： 6.59 英寸 1.5K LTPS OLED 中直屏 骁龙 8s Gen4 前置 50Mp 后置 50Mp 大底主摄 + 8Mp 超广角 + 64Mp LYT610 中底潜望长焦，支持 200mm 增距镜 横向大矩阵 Deco 光…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ea3b3873dfac",
-      "title": "摩托罗拉 Signature 27 手机官宣 11 月 5 日发售，是否预装 GrapheneOS 成最大悬念",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-30",
-      "time": "05:29",
-      "publishedAt": "2026-10-30T05:29:53.000Z",
-      "url": "https://www.ithome.com/1/020/038.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/850faa02-4b90-467e-a536-338c0ebf6a8d.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 30 日消息，摩托罗拉今天（10 月 30 日）官宣将于 11 月 5 日发售 Signature 27 手机，将会配备高通第六代骁龙 8 超级至尊版芯片，而该机目前最大的悬念， 就是是否会预装 GrapheneOS 系统。 摩托罗拉 Signature 27 手机最早在今年 9 月的高通骁龙峰会上亮相， 此前其印度官网仅透露“将于 1…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-2b7615fcf0c5",
-      "title": "JSCHEN小小狐：『vivo S70 旗舰版曝光：6.59\" / 骁龙 8s Gen4』 ◇ 6.59 英寸 1.5K 144Hz…",
+      "title": "JSCHEN小小狐：vivo S70旗舰版曝光：6.59\" / 骁龙 8s Gen4",
       "source": "JSCHEN小小狐",
       "brand": "vivo",
       "model": "vivo 相关机型",
@@ -79,26 +439,6 @@ window.phoneRadarAuto = {
         "vivo",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "weibo-a0cdd02fc2e1",
-      "title": "数码闲聊站：vivo S70旗舰版——6.59英寸1.5K LTPS OLED中直屏，骁龙…",
-      "source": "数码闲聊站",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-30",
-      "time": "05:23",
-      "publishedAt": "2026-10-30T05:23:00.000Z",
-      "url": "https://weibo.com/6048569942/Rp3jBhS8f",
-      "image": "",
-      "summary": "vivo S70旗舰版——6.59英寸1.5K LTPS OLED中直屏，骁龙8s Gen4，前置50Mp，后置50Mp大底主摄+8Mp超广角+64Mp LYT610中底潜望长焦，支持200mm增距镜，横向大矩阵Deco，光遇联名[笑哈哈]",
-      "tags": [
-        "vivo",
-        "爆料",
-        "微博"
       ]
     },
     {
@@ -122,26 +462,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-df134eb6998c",
-      "title": "Samsung Galaxy Z Fold 9: Everything you need to know",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-30",
-      "time": "04:36",
-      "publishedAt": "2026-10-30T04:36:15.000Z",
-      "url": "https://www.sammobile.com/news/samsung-galaxy-z-fold-9-everything-to-know/",
-      "image": "",
-      "summary": "Introduction The Galaxy Z Fold 9 will be Samsung's ninth-generation foldable phone, featuring a short and wide form factor. It succeeds the Galaxy Z Fold 8 and could rival the iPh…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-c7871f67a72f",
       "title": "iQOO Neo 12 vs OnePlus Ace 7: Both have cooling fans, but which is better?",
       "source": "Gizmochina",
@@ -153,7 +473,7 @@ window.phoneRadarAuto = {
       "time": "04:26",
       "publishedAt": "2026-10-30T04:26:07.000Z",
       "url": "https://www.gizmochina.com/2026/10/30/iqoo-neo-12-vs-oneplus-ace-7-both-have-cooling-fans-but-which-is-better/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/OnePlus-Ace-7-vs-iQOO-Neo-12--300x150.jpg?x80236",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/OnePlus-Ace-7-vs-iQOO-Neo-12--300x150.jpg?x54692",
       "summary": "The iQOO Neo 12 and OnePlus Ace 7 have a lot in common, perhaps more than you’d expect from two competing gaming phones. Both come with a Snapdragon 8 Elite Gen 5 chip, a built-in…",
       "tags": [
         "OPPO",
@@ -173,7 +493,7 @@ window.phoneRadarAuto = {
       "time": "03:19",
       "publishedAt": "2026-10-30T03:19:59.000Z",
       "url": "https://www.gizmochina.com/2026/10/30/samsung-galaxy-s27-fast-charging-ul-solutions-certification/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/featured-galaxy-s27-300x169.jpg?x80236",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/featured-galaxy-s27-300x169.jpg?x54692",
       "summary": "Samsung’s next vanilla flagship is showing up on more safety paperwork. The Galaxy S27 has now cleared UL Solutions (Demko) in Denmark, and the electrical ratings line up with 25W…",
       "tags": [
         "Samsung",
@@ -193,32 +513,12 @@ window.phoneRadarAuto = {
       "time": "03:07",
       "publishedAt": "2026-10-30T03:07:57.000Z",
       "url": "https://www.gizmochina.com/2026/10/30/oneplus-ace-7-pro-sales-225-percent-of-ace-6/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/oneplus-ace-7-and-ace-7-pro-debuts-with-snapdragon-8-elite-gen-5-series-9000mah-300x200.jpg?x80236",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/oneplus-ace-7-and-ace-7-pro-debuts-with-snapdragon-8-elite-gen-5-series-9000mah-300x200.jpg?x54692",
       "summary": "OnePlus China President Li Jie says the OnePlus Ace 7 series is off to a strong start in China. The phones went on sale right after their launch yesterday, and Li Jie says the ear…",
       "tags": [
         "OPPO",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-33567966ab4c",
-      "title": "竹本青：OPPO Reno17 系列开启预约",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-30",
-      "time": "03:00",
-      "publishedAt": "2026-10-30T03:00:48.000Z",
-      "url": "https://www.coolapk.com/feed/74719214",
-      "image": "http://image.coolapk.com/feed/2026/1030/11/4248714_e8583790_9246_828_707@1440x1920.jpg",
-      "summary": "【OPPO Reno17 系列开启预约，Pro版有望搭载天玑8550 SUPER】 10月30日，OPPO官宣 Reno17系列 开启预约。据数码闲聊站此前爆料，Reno17将全系搭载潜望长焦，配有“四主摄”方案。 Pro版核心配置如下： ● 6.32\" 1.5K 120Hz小直屏 ● 天玑8550 SUPER处理器 ● 7000mAh±电池 ● 影像：…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -233,48 +533,8 @@ window.phoneRadarAuto = {
       "time": "02:34",
       "publishedAt": "2026-10-30T02:34:28.000Z",
       "url": "https://www.gizmochina.com/2026/10/30/oppo-reno-17f-reno-17-multiple-certification-global-launch/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/featured-final-300x169.jpg?x80236",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/featured-final-300x169.jpg?x54692",
       "summary": "Oppo is lining up the global Reno 17 family for markets outside China. The more affordable Oppo Reno 17F 5G is the latest to clear Thailand’s NBTC under model CPH3013, after earli…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-9ab33ef15aff",
-      "title": "竹本青：【李杰：一加Ace7 Pro首销销量达上代225%， 表现势不可挡】 10月30日，一加中国区总裁李杰公布 Ace…",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-30",
-      "time": "02:25",
-      "publishedAt": "2026-10-30T02:25:17.000Z",
-      "url": "https://www.coolapk.com/feed/74718219",
-      "image": "http://image.coolapk.com/feed/2026/1030/10/4248714_2a68da11_7116_5966_608@1272x811.jpg",
-      "summary": "【李杰：一加Ace7 Pro首销销量达上代225%， 表现势不可挡】 10月30日，一加中国区总裁李杰公布 Ace7系列首销数据：Ace7 Pro首销销量为Ace 6的225%；一加16、一加Ace7 Pro分获2026安卓手机首销销量冠、亚军，表现势不可挡。 一加Ace7系列 昨日发布并开售，标准版3799元起，Pro版本4199元起。全系搭载骁龙8E5…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-51c327f570da",
-      "title": "李杰：一加 16 和一加 Ace 7 Pro 包揽 2026 年安卓手机首销销量冠军和亚军",
-      "source": "IT之家",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-30",
-      "time": "01:49",
-      "publishedAt": "2026-10-30T01:49:46.000Z",
-      "url": "https://www.ithome.com/1/019/882.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/93443ec6-af9a-4c15-8ba7-2d80b2bf75cd.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 30 日消息，一加中国区总裁李杰今日表示，一加 Ace 7 系列昨天发布即开售，首销表现可以说是势不可挡。 一加 Ace 7 Pro 首销销量达到上一代 Ace 6 的 225%，实现大幅增长 一加 16 和一加 Ace 7 Pro 包揽了 2026 年安卓手机首销销量冠军和亚军 据IT之家此前报道，一加 16 手机于 10 月 12…",
       "tags": [
         "OPPO",
         "爆料",
@@ -442,26 +702,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-4d0744660b55",
-      "title": "我一个米粉都感觉华子产品带来的压力。雷总不管之后，这个草台班子做出什么产品啊，9月份18系列，10月份就拿出一个魔改的K100，怎么去打华子的畅享，nova，星芒，而且线上一台机机就是定位的阔直板，我的天，小米竟想用一款K100打华子这么多畅销系列。雷总好好回来管管吧，再不回来，小米这个品牌真被那一批草台班子玩死啊[流泪][流泪] #小米18ProMax# #华为Mate90ProMax# #REDMIK100ProMax#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-30",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74704650",
-      "image": "",
-      "summary": "我一个米粉都感觉华子产品带来的压力。雷总不管之后，这个草台班子做出什么产品啊，9月份18系列，10月份就拿出一个魔改的K100，怎么去打华子的畅享，nova，星芒，而且线上一台机机就是定位的阔直板，我的天，小米竟想用一款K100打华子这么多畅销系列。雷总好好回来管管吧，再不回来，小米这个品牌真被那一批草台班子玩死啊[流泪][流泪] #小米18ProMax#…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-6c17e3496085",
       "title": "k100promax产品力说话 销量排行榜最不会骗人 iqooneo win ace都是弟弟#一加Ace7Pro# #荣耀WINRT2# #iQOONeo12#",
       "source": "酷安热榜",
@@ -482,43 +722,23 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-d60addc71683",
-      "title": "女子万元手机火车上充电时被顺走",
-      "source": "今日头条热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "id": "newsnow-bc4e936929d3",
+      "title": "iPhone Duo超越过往折叠屏了吗",
+      "source": "B站热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-10-30",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7702085348448895030/",
+      "url": "https://search.bilibili.com/all?keyword=iPhone%20Duo%E8%B6%85%E8%B6%8A%E8%BF%87%E5%BE%80%E6%8A%98%E5%8F%A0%E5%B1%8F%E4%BA%86%E5%90%97",
       "image": "",
-      "summary": "女子万元手机火车上充电时被顺走",
+      "summary": "iPhone Duo超越过往折叠屏了吗",
       "tags": [
-        "行业",
+        "iPhone",
         "爆料",
         "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-a6792379f7f3",
-      "title": "Three reasons I’d pick the Galaxy Z Fold 8 Ultra over the Fold 8",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-29",
-      "time": "23:29",
-      "publishedAt": "2026-10-29T23:29:18.000Z",
-      "url": "https://www.sammobile.com/opinion/three-reasons-pick-galaxy-z-fold-8-ultra-over-fold-8/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Galaxy-Z-Fold-8-Ultra-review-13-1920x1079.jpg",
-      "summary": "The Galaxy Z Fold 8 has been stealing the limelight since Samsung announced its 2026 foldable lineup, mostly thanks to its new form factor. Sales of both Fold 8 models have gone u…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -542,66 +762,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-691a66d38688",
-      "title": "Is now the time to buy a OnePlus 15? [Video]",
-      "source": "Android Police",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-29",
-      "time": "17:59",
-      "publishedAt": "2026-10-29T17:59:10.000Z",
-      "url": "https://www.androidpolice.com/video/is-now-the-time-to-buy-a-oneplus-15-video/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/10/is-now-the-time-to-buy-a-oneplus-15.jpg",
-      "summary": "The final review.",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-af5847e4a5ce",
-      "title": "After 2 weeks away, I can confirm: the Samsung Galaxy Z Fold 8 Ultra is the ultimate vacation phone",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-29",
-      "time": "17:45",
-      "publishedAt": "2026-10-29T17:45:10.000Z",
-      "url": "https://www.androidpolice.com/samsung-galaxy-z-fold-8-ultra-is-the-ultimate-vacation-phone/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/10/galaxy-z-fold-8-ultra-travel-rear.jpg",
-      "summary": "Foldables aren't as dainty as you'd think",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-6fcf27e5df45",
-      "title": "Galaxy Z Fold 9 wishlist: 3 things I want from Samsung’s next-gen foldable",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-29",
-      "time": "17:00",
-      "publishedAt": "2026-10-29T17:00:00.000Z",
-      "url": "https://www.sammobile.com/opinion/galaxy-z-fold-9-wishlist-3-things-i-want-samsung-next-gen-foldable/",
-      "image": "",
-      "summary": "The Galaxy Z Fold 8 is without a doubt the best and most entertaining phonefold I've ever used. It really won me over, and I'd never go back to a non-foldable phone unless I had n…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-b7b86c3360fe",
       "title": "RedMagic 12 Pro+ vs iPhone 18 Pro Max: Is Apple’s Premium Worth It?",
       "source": "Gizmochina",
@@ -613,7 +773,7 @@ window.phoneRadarAuto = {
       "time": "16:41",
       "publishedAt": "2026-10-29T16:41:06.000Z",
       "url": "https://www.gizmochina.com/2026/10/29/redmagic-12-pro-plus-vs-iphone-18-pro-max/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/image-98-300x167.png?x80236",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/image-98-300x167.png?x54692",
       "summary": "RedMagic 12 Pro+ and iPhone 18 Pro Max target two very different types of premium smartphone buyers. One prioritizes gaming performance, aggressive charging speeds, and uninterrup…",
       "tags": [
         "HONOR",
@@ -713,7 +873,7 @@ window.phoneRadarAuto = {
       "time": "13:06",
       "publishedAt": "2026-10-29T13:06:36.000Z",
       "url": "https://www.gizmochina.com/2026/10/29/oneplus-16-vs-google-pixel-11/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/image-97-300x151.png?x80236",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/image-97-300x151.png?x54692",
       "summary": "OnePlus 16 and Google Pixel 11 appeal to different flagship buyers. One prioritizes high-end performance, an exceptionally fast display, and massive battery capacity, while the ot…",
       "tags": [
         "OPPO",
@@ -733,7 +893,7 @@ window.phoneRadarAuto = {
       "time": "12:56",
       "publishedAt": "2026-10-29T12:56:54.000Z",
       "url": "https://www.gizmochina.com/2026/10/29/oneplus-ace-7-and-ace-7-pro-debuts-with-snapdragon-8-elite-gen-5-series-9000mah-battery/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/oneplus-ace-7-and-ace-7-pro-debuts-with-snapdragon-8-elite-gen-5-series-9000mah-300x200.jpg?x80236",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/oneplus-ace-7-and-ace-7-pro-debuts-with-snapdragon-8-elite-gen-5-series-9000mah-300x200.jpg?x54692",
       "summary": "Today, the OnePlus Ace 7 and Ace 7 Pro launched in China, just under three weeks after the OnePlus 16 and on the date it confirmed earlier. Both phones are on sale now. The Ace 7…",
       "tags": [
         "OPPO",
@@ -753,7 +913,7 @@ window.phoneRadarAuto = {
       "time": "11:46",
       "publishedAt": "2026-10-29T11:46:37.000Z",
       "url": "https://www.gizmochina.com/2026/10/29/iphone-air-2-revealed-to-have-bigger-battery-dual-rear-camera/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Einfach-nur-Apple-iPhone-Leaker-deutet-auf-spannende-iPhone-Air-2-Zukunft-300x169.jpg?x80236",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Einfach-nur-Apple-iPhone-Leaker-deutet-auf-spannende-iPhone-Air-2-Zukunft-300x169.jpg?x54692",
       "summary": "When Apple launched the iPhone Air in September 2025, it became the thinnest iPhone the company had made. It also drew two complaints almost right away: the battery didn’t last as…",
       "tags": [
         "iPhone",
@@ -813,32 +973,12 @@ window.phoneRadarAuto = {
       "time": "09:55",
       "publishedAt": "2026-10-29T09:55:51.000Z",
       "url": "https://www.gizmochina.com/2026/10/29/redmi-k100-vs-iqoo-neo-12-comparison/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Redmi-K100-vs-iQOO-Neo-12--300x150.jpg?x80236",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Redmi-K100-vs-iQOO-Neo-12--300x150.jpg?x54692",
       "summary": "Redmi launched the Redmi K100 in China on October 26, and iQOO followed a day later with the iQOO Neo 12. Both phones have 6.83-inch displays, 3nm processors, dedicated gaming chi…",
       "tags": [
         "Xiaomi",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-cd4ed2afde27",
-      "title": "数码闲聊站：iPhone Air2早就开屏了，常规比例的中尺寸直屏，6.55\"1.5K+1…",
-      "source": "数码闲聊站",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-29",
-      "time": "07:45",
-      "publishedAt": "2026-10-29T07:45:00.000Z",
-      "url": "https://weibo.com/6048569942/RoUOK7OSY",
-      "image": "",
-      "summary": "iPhone Air2早就开屏了，常规比例的中尺寸直屏，6.55\"1.5K+120Hz LTPO OLED，非阔屏。核心升级是2nm A20系芯片，48Mp双摄影像，加了一颗超广角，加大电池，感兴趣吗[吃瓜]",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "微博"
       ]
     },
     {
@@ -853,7 +993,7 @@ window.phoneRadarAuto = {
       "time": "05:53",
       "publishedAt": "2026-10-29T05:53:38.000Z",
       "url": "https://www.gizmochina.com/2026/10/29/oneplus-16-vs-vivo-x500-pro/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/image-96-300x164.png?x80236",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/image-96-300x164.png?x54692",
       "summary": "OnePlus 16 and Vivo X500 Pro target different kinds of flagship buyers. One prioritizes raw performance, gaming, and exceptional battery endurance, while the other focuses on prem…",
       "tags": [
         "OPPO",
@@ -913,7 +1053,7 @@ window.phoneRadarAuto = {
       "time": "04:06",
       "publishedAt": "2026-10-29T04:06:53.000Z",
       "url": "https://www.gizmochina.com/2026/10/29/oppo-find-x10-series-goes-on-sale-in-india-starting-rs-1-39/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/OPPO-Find-X10-Pro-Max-Review-1.mp4_20261009_103626.030-300x150.jpg?x80236",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/OPPO-Find-X10-Pro-Max-Review-1.mp4_20261009_103626.030-300x150.jpg?x54692",
       "summary": "Oppo has started open sale in India for the Find X10 series, a week after launch and pre-orders. The India lineup is only the Find X10 and the Find X10 Pro Max — no Pro, Ultra, or…",
       "tags": [
         "OPPO",
