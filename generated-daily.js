@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-10-30T12:53:05.349Z",
+  "updatedAt": "2026-10-30T19:20:22.283Z",
   "issueDate": "2026-10-30",
   "issue": "VOL.261030",
   "title": "手机情报日报",
-  "intro": "今日筛出 15 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 15,
-    "iphone": 7,
+    "total": 14,
+    "iphone": 6,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -41,30 +41,7 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "coolapk-user-74a7f575f864",
-          "title": "竹本青：曝苹果包揽W43单周销量TOP5",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-10-30",
-          "time": "09:18",
-          "publishedAt": "2026-10-30T09:18:24.000Z",
-          "url": "https://www.coolapk.com/feed/74727634",
-          "image": "http://image.coolapk.com/feed/2026/1030/17/4248714_d2804988_1902_7827_451@1272x749.jpg",
-          "verdict": "先看",
-          "takeaway": "【曝苹果包揽W43单周销量TOP5，iPhone Duo 3天激活销量约12.5万台】 10月30日，数码闲聊站爆料W43周（10.19‑10.25）的苹果手机数据。iPhone Duo开售仅3天，激活销量约12.5万台；该周期内，苹果还包揽了单周销量榜TOP5： ① 18 Pro Max单周72.4W（累计397W±） ② 18 Pro单周33.5W（累…",
-          "detail": "【曝苹果包揽W43单周销量TOP5，iPhone Duo 3天激活销量约12.5万台】 10月30日，数码闲聊站爆料W43周（10.19‑10.25）的苹果手机数据。iPhone Duo开售仅3天，激活销量约12.5万台；该周期内，苹果还包揽了单周销量榜TOP5： ① 18 Pro Max单周72.4W（累计397W±） ② 18 Pro单周33.5W（累…",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-5ad515008f9d",
+          "id": "auto-c29ec71a2a58",
           "title": "iPhone 相关消息",
           "originalTitle": "",
           "source": "MacRumors",
@@ -72,17 +49,18 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-10-30",
-          "time": "10:10",
-          "publishedAt": "2026-10-30T10:10:09.000Z",
-          "url": "https://www.macrumors.com/2026/10/30/apple-stores-as-few-as-50-iphone-duo-units/",
-          "image": "https://images.macrumors.com/article-new/2026/09/iphone-duo-colors.jpg",
+          "time": "18:46",
+          "publishedAt": "2026-10-30T18:46:06.000Z",
+          "url": "https://www.macrumors.com/2026/10/30/iphone-duo-one-week-later/",
+          "image": "",
           "verdict": "先看",
           "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
           "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
+            "影像硬件",
             "爆料来源"
           ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -182,25 +160,49 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-b8cad3ccf7eb",
-          "title": "OPPO 高管新分工：李炳忠统管海外市场，尹文广统管手机产品",
+          "id": "auto-ccdfd89015c6",
+          "title": "华为鸿蒙 HarmonyOS 7 系统最新适配进度公开：Mate 80 全网推送、nova 13 等开启花粉 Beta 招募",
           "originalTitle": "",
           "source": "IT之家",
-          "brand": "OPPO",
+          "brand": "Huawei",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-10-30",
-          "time": "09:34",
-          "publishedAt": "2026-10-30T09:34:39.000Z",
-          "url": "https://www.ithome.com/1/020/239.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/f2470108-15e6-4a03-9685-b52b5e9005cd.png",
+          "time": "13:55",
+          "publishedAt": "2026-10-30T13:55:10.000Z",
+          "url": "https://www.ithome.com/1/020/363.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/19b1107b-1ed6-4c48-a54f-8bd497f7f5b7.jpg",
           "verdict": "先看",
-          "takeaway": "IT之家 10 月 30 日消息，据界面新闻报道，OPPO 发布高管任命与分工调整通知 —— 高级副总裁李炳忠全面负责海外业务 ，对 OPPO 和子系列在海外市场的经营结果负责； 副总裁尹文广将负责所有手机产品系列 ，向首席产品官刘作虎汇报。 IT之家注：李炳忠毕业于南京航空航天大学，是真我 realme 创始人，前 OPPO 副总裁、OPPO 海外事业部…",
-          "detail": "IT之家 10 月 30 日消息，据界面新闻报道，OPPO 发布高管任命与分工调整通知 —— 高级副总裁李炳忠全面负责海外业务 ，对 OPPO 和子系列在海外市场的经营结果负责； 副总裁尹文广将负责所有手机产品系列 ，向首席产品官刘作虎汇报。 IT之家注：李炳忠毕业于南京航空航天大学，是真我 realme 创始人，前 OPPO 副总裁、OPPO 海外事业部…",
+          "takeaway": "IT之家 10 月 30 日消息，华为官方今日公开了鸿蒙 HarmonyOS 7 系统最新适配进度。 目前，Mate 80、Pura 90、nova 16、MatePad Pro Max 等系列产品开启了 全网推送升级 ，nova 12、nova 13、MatePad Pro 13.2 英寸 2023 等系列开启 花粉 Beta 招募 。 IT之家附更多机…",
+          "detail": "IT之家 10 月 30 日消息，华为官方今日公开了鸿蒙 HarmonyOS 7 系统最新适配进度。 目前，Mate 80、Pura 90、nova 16、MatePad Pro Max 等系列产品开启了 全网推送升级 ，nova 12、nova 13、MatePad Pro 13.2 英寸 2023 等系列开启 花粉 Beta 招募 。 IT之家附更多机…",
           "keyPoints": [
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-2b7615fcf0c5",
+          "title": "JSCHEN小小狐：vivo S70旗舰版曝光：6.59\" / 骁龙 8s Gen4",
+          "originalTitle": "",
+          "source": "JSCHEN小小狐",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-10-30",
+          "time": "05:27",
+          "publishedAt": "2026-10-30T05:27:06.000Z",
+          "url": "https://www.coolapk.com/feed/74722716",
+          "image": "http://image.coolapk.com/feed/2026/1030/13/4702274_1a4eb6bf_8025_3996_974@1440x599.jpg",
+          "verdict": "先看",
+          "takeaway": "『vivo S70 旗舰版曝光：6.59\" / 骁龙 8s Gen4』 ◇ 6.59 英寸 1.5K 144Hz LTPS OLED 直屏 ◇ 骁龙 8s Gen4 移动平台｜光遇联名版 ◇ 200mm 增距镜｜横向大矩阵 Deco 主摄｜50MP 1/1.56\" 长焦｜64MP 1/2\" LYTIA 610 潜望 超广｜8MP 1/4\" 前摄｜50MP…",
+          "detail": "『vivo S70 旗舰版曝光：6.59\" / 骁龙 8s Gen4』 ◇ 6.59 英寸 1.5K 144Hz LTPS OLED 直屏 ◇ 骁龙 8s Gen4 移动平台｜光遇联名版 ◇ 200mm 增距镜｜横向大矩阵 Deco 主摄｜50MP 1/1.56\" 长焦｜64MP 1/2\" LYTIA 610 潜望 超广｜8MP 1/4\" 前摄｜50MP…",
+          "keyPoints": [
+            "影像硬件",
+            "屏幕形态"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -265,6 +267,29 @@ window.phoneRadarDaily = {
       "hint": "能直接更新到参数库。",
       "items": [
         {
+          "id": "coolapk-user-7d8cc7143de9",
+          "title": "竹本青：【OPPO高管调整分工：李炳忠统管海外市场，尹文广统管手机产品】 10月30日，据界面新闻，OPPO发布高管任命与…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-10-30",
+          "time": "16:53",
+          "publishedAt": "2026-10-30T16:53:35.000Z",
+          "url": "https://www.coolapk.com/feed/74737997",
+          "image": "http://image.coolapk.com/feed/2026/1031/00/4248714_94729207_9198_0359_217@1920x1316.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "【OPPO高管调整分工：李炳忠统管海外市场，尹文广统管手机产品】 10月30日，据界面新闻，OPPO发布高管任命与分工调整通知——高级副总裁李炳忠全面负责海外业务，对OPPO和子系列在海外市场的经营结果负责；副总裁尹文广将负责所有手机产品系列，向首席产品官刘作虎汇报。 据悉，李炳忠是OPPO最早的出海开拓者之一，具有丰富的一线实战、本土化运营及全球化品牌操…",
+          "detail": "【OPPO高管调整分工：李炳忠统管海外市场，尹文广统管手机产品】 10月30日，据界面新闻，OPPO发布高管任命与分工调整通知——高级副总裁李炳忠全面负责海外业务，对OPPO和子系列在海外市场的经营结果负责；副总裁尹文广将负责所有手机产品系列，向首席产品官刘作虎汇报。 据悉，李炳忠是OPPO最早的出海开拓者之一，具有丰富的一线实战、本土化运营及全球化品牌操…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "coolapk-user-76c8a801df74",
           "title": "竹本青：金标联盟发布「一镜到底/无缝动画」，荣耀、OPPO、vivo、小米联合推动落地",
           "originalTitle": "",
@@ -280,29 +305,6 @@ window.phoneRadarDaily = {
           "verdict": "扫一眼",
           "takeaway": "【金标联盟发布「一镜到底/无缝动画」，荣耀、OPPO、vivo、小米联合推动落地】 今年10月，金标联盟发布SharedView Kit「一镜到底/无缝动画」，荣耀、OPPO、vivo、小米四家头部手机厂商联合推动落地，为用户带来「点击即展开、返回不跳帧」的交互感受。 ● 对用户而言： 整体体验更跟手、更丝滑。页面从点击处自然展开，返回时又精准地收回原位，…",
           "detail": "【金标联盟发布「一镜到底/无缝动画」，荣耀、OPPO、vivo、小米联合推动落地】 今年10月，金标联盟发布SharedView Kit「一镜到底/无缝动画」，荣耀、OPPO、vivo、小米四家头部手机厂商联合推动落地，为用户带来「点击即展开、返回不跳帧」的交互感受。 ● 对用户而言： 整体体验更跟手、更丝滑。页面从点击处自然展开，返回时又精准地收回原位，…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "coolapk-user-41718dfcf916",
-          "title": "JSCHEN小小狐：李杰宣布一加Ace 7 Pro首销达上一代225%",
-          "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-10-30",
-          "time": "01:41",
-          "publishedAt": "2026-10-30T01:41:58.000Z",
-          "url": "https://www.coolapk.com/feed/74717177",
-          "image": "http://image.coolapk.com/feed/2026/1030/09/4702274_25289dc1_4516_2074_445@1440x1689.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "『李杰宣布一加 Ace 7 Pro 首销达上一代 225%』 10 月 30 日，一加中国区总裁 李杰 发博宣布，一加 Ace 7 系列昨日发布即开售后，Ace 7 Pro 首销销量达上一代 Ace 6 的 225%，“实现大幅增长”。同时他表示，一加 16 和 Ace 7 Pro 两机型分别包揽了 2026 年安卓手机首销销量冠军和亚军。 据悉，一加 A…",
-          "detail": "『李杰宣布一加 Ace 7 Pro 首销达上一代 225%』 10 月 30 日，一加中国区总裁 李杰 发博宣布，一加 Ace 7 系列昨日发布即开售后，Ace 7 Pro 首销销量达上一代 Ace 6 的 225%，“实现大幅增长”。同时他表示，一加 16 和 Ace 7 Pro 两机型分别包揽了 2026 年安卓手机首销销量冠军和亚军。 据悉，一加 A…",
           "keyPoints": [
             "爆料"
           ],
@@ -361,29 +363,6 @@ window.phoneRadarDaily = {
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "影响性能和寿命判断，适合放进参数库。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "coolapk-user-23a84ae18262",
-          "title": "竹本青：上周国内手机市场份额曝光：苹果连续六周榜首",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-10-30",
-          "time": "09:14",
-          "publishedAt": "2026-10-30T09:14:12.000Z",
-          "url": "https://www.coolapk.com/feed/74727540",
-          "image": "http://image.coolapk.com/feed/2026/1030/17/4248714_c63a5252_1650_6678_332@1271x942.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【上周（W43）国内手机市场份额曝光：苹果连续六周榜首，本周占比33.2%】 ● 2026 W43：大盘上升约15% 1.苹果 —— 33.2% 2.华为 —— 17.7% 3.小米 —— 13.1% 4.荣耀 —— 11.6% 5.OPPO —— 11.2%（含一加 2.4%，realme 0.2%） 6.vivo —— 10.4%（含iQOO 2.7%…",
-          "detail": "【上周（W43）国内手机市场份额曝光：苹果连续六周榜首，本周占比33.2%】 ● 2026 W43：大盘上升约15% 1.苹果 —— 33.2% 2.华为 —— 17.7% 3.小米 —— 13.1% 4.荣耀 —— 11.6% 5.OPPO —— 11.2%（含一加 2.4%，realme 0.2%） 6.vivo —— 10.4%（含iQOO 2.7%…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]

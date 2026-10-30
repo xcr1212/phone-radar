@@ -1,8 +1,328 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-30T12:53:05.349Z",
+  "updatedAt": "2026-10-30T19:20:22.283Z",
   "news": [
     {
-      "id": "auto-5e49d167192b",
+      "id": "auto-c29ec71a2a58",
+      "title": "iPhone Duo Review: One Week Later",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-30",
+      "time": "18:46",
+      "publishedAt": "2026-10-30T18:46:06.000Z",
+      "url": "https://www.macrumors.com/2026/10/30/iphone-duo-one-week-later/",
+      "image": "",
+      "summary": "It's been a week since the iPhone Duo was released, and MacRumors videographer Dan Barbera wanted to revisit his review since he's been able to use the Duo for a longer stretch of…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d0ca89805cea",
+      "title": "Pixel 11 hits record-low price with $200 discount",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-30",
+      "time": "17:53",
+      "publishedAt": "2026-10-30T17:53:58.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-deal-3730263/",
+      "image": "",
+      "summary": "Google Pixel 11 drops to $699 on Amazon, its lowest price this year, with strong cameras and a 6.3-inch 120Hz display.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0bafdd2f6b3e",
+      "title": "Samsung Mocks iPhone Duo Display Cracks in New Ad Campaign",
+      "source": "MacRumors",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-30",
+      "time": "17:20",
+      "publishedAt": "2026-10-30T17:20:31.000Z",
+      "url": "https://www.macrumors.com/2026/10/30/samsung-iphone-duo-display-campaign/",
+      "image": "https://images.macrumors.com/article-new/2026/10/samsung-canada-iphone-duo-ad.jpg",
+      "summary": "Samsung this week launched an advertising campaign mocking the display issues some people have had with the iPhone Duo . In an Instagram post on its Canadian account, Samsung shar…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7025bcaea719",
+      "title": "Samsung Galaxy S27 is reportedly sticking with 25W charging speed yet again",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-30",
+      "time": "17:07",
+      "publishedAt": "2026-10-30T17:07:18.000Z",
+      "url": "https://www.androidpolice.com/samsung-galaxy-s27-reportedly-sticking-with-25w-charging-speed-again/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/08/galaxy-s26-fe-blueberry-back.JPG",
+      "summary": "Is 25W still fast in 2027?",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-7d8cc7143de9",
+      "title": "竹本青：【OPPO高管调整分工：李炳忠统管海外市场，尹文广统管手机产品】 10月30日，据界面新闻，OPPO发布高管任命与…",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-30",
+      "time": "16:53",
+      "publishedAt": "2026-10-30T16:53:35.000Z",
+      "url": "https://www.coolapk.com/feed/74737997",
+      "image": "http://image.coolapk.com/feed/2026/1031/00/4248714_94729207_9198_0359_217@1920x1316.jpg",
+      "summary": "【OPPO高管调整分工：李炳忠统管海外市场，尹文广统管手机产品】 10月30日，据界面新闻，OPPO发布高管任命与分工调整通知——高级副总裁李炳忠全面负责海外业务，对OPPO和子系列在海外市场的经营结果负责；副总裁尹文广将负责所有手机产品系列，向首席产品官刘作虎汇报。 据悉，李炳忠是OPPO最早的出海开拓者之一，具有丰富的一线实战、本土化运营及全球化品牌操…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-a37bd06dc773",
+      "title": "Will Galaxy S27 Ultra and Pixel 12 mark the end of the flagship era of smartphones?",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-30",
+      "time": "16:30",
+      "publishedAt": "2026-10-30T16:30:00.000Z",
+      "url": "https://9to5google.com/2026/10/30/galaxy-s27-ultra-pixel-12-end-flagship-era/",
+      "image": "",
+      "summary": "Like most Android fans, you probably enjoy having the latest and greatest smartphone buried in your pocket. The best camera, the best display, the fastest processor, and of course…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-938cda0c00b5",
+      "title": "Google Pixel 11 Pro Fold gets a $250 Amazon price drop",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-30",
+      "time": "16:24",
+      "publishedAt": "2026-10-30T16:24:12.000Z",
+      "url": "https://www.androidauthority.com/google-pixel-11-pro-fold-deal-3730223/",
+      "image": "",
+      "summary": "Google’s Pixel 11 Pro Fold drops to $1,649 on Amazon, its lowest price this year, with $250 off the $1,899 RRP.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-34a2d0c68eb4",
+      "title": "Pixel 6 postmortem: How Google’s flawed reboot defined future hardware [Video]",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-30",
+      "time": "16:05",
+      "publishedAt": "2026-10-30T16:05:00.000Z",
+      "url": "https://9to5google.com/2026/10/30/pixel-6-postmortem/",
+      "image": "",
+      "summary": "I think there are few smartphones in the past decade that have arrived carrying the sheer weight of expectation that greeted the Pixel 6 and Pixel 6 Pro in late 2021. Now on life…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f41696f82aaf",
+      "title": "Save $350 on the Pixel 11 Pro XL gets in record-low deal",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-30",
+      "time": "16:00",
+      "publishedAt": "2026-10-30T16:00:12.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-pro-xl-record-low-deal-3730216/",
+      "image": "",
+      "summary": "Google’s new Pixel 11 Pro XL hits a record-low $949 on Amazon, with a 6.8-inch OLED display, Tensor G6, and big battery.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-754c7d7587ce",
+      "title": "Hands-on time with the iPhone Duo still leaves me wowed",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-30",
+      "time": "16:00",
+      "publishedAt": "2026-10-30T16:00:00.000Z",
+      "url": "https://9to5mac.com/2026/10/30/hands-on-time-with-the-iphone-duo-still-leaves-me-wowed/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo.jpg?quality=82&strip=all&w=1600",
+      "summary": "There are devices you need in your life, others for which you can put together a convincing justification – and then there are gadgets you quite simply want . I said last month th…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d8cc9264494f",
+      "title": "The Google Pixel 11 Pro is now cheaper than it’s ever been at Amazon",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-30",
+      "time": "15:32",
+      "publishedAt": "2026-10-30T15:32:46.000Z",
+      "url": "https://www.androidpolice.com/google-pixel-11-pro-deal-lowest-price-amazon-early-black-friday/",
+      "image": "",
+      "summary": "Who needs Black Friday when the deals are this good?",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4da097aac6a8",
+      "title": "iPhone Duo: Here are two tips for improving Safari web browsing",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-30",
+      "time": "14:56",
+      "publishedAt": "2026-10-30T14:56:04.000Z",
+      "url": "https://9to5mac.com/2026/10/30/iphone-duo-here-are-two-tips-for-improving-safari-web-browsing/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-front-home-screen-chm.jpg?quality=82&strip=all&w=1600",
+      "summary": "iPhone Duo has a lot of software features that are widely praised, but one area commonly seen as an issue is Safari web browsing. Here are two tips for improving the Safari experi…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4dcb02c70012",
+      "title": "OnePlus Ace 7 vs Ace 7 Pro: Should You Spend More for the Pro?",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-30",
+      "time": "14:29",
+      "publishedAt": "2026-10-30T14:29:14.000Z",
+      "url": "https://www.gizmochina.com/2026/10/30/oneplus-ace-7-vs-ace-7-pro/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/image-102-300x161.png?x54692",
+      "summary": "OnePlus Ace 7 and Ace 7 Pro share much of their hardware, including the display, battery capacity and primary camera. However, the Pro model introduces two important upgrades: a m…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-1be95c5fb6ec",
+      "title": "竹本青：【地平线CEO直指智驾算力虚标乱象：业界突破宇宙尺度，吹到6-7倍】 10月30日，地平线创始人兼CEO余凯发文回…",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-30",
+      "time": "14:11",
+      "publishedAt": "2026-10-30T14:11:17.000Z",
+      "url": "https://www.coolapk.com/feed/74734435",
+      "image": "http://image.coolapk.com/feed/2026/1030/22/4248714_d41738c3_9476_8761_930@1440x1020.jpg",
+      "summary": "【地平线CEO直指智驾算力虚标乱象：业界突破宇宙尺度，吹到6-7倍】 10月30日，地平线创始人兼CEO余凯发文回应智驾芯片算力争议，批评当前行业存在“PPT算力狂飙”的乱象。 余凯表示，智驾芯片行业通用对标规则沿用英伟达的计算方式，即标称算力等于稠密物理算力的2倍。目前部分厂商以“等效算力”为概念，将标称算力放大至稠密算力的6-7倍，参数虚标问题突出。…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-ccdfd89015c6",
+      "title": "华为鸿蒙 HarmonyOS 7 系统最新适配进度公开：Mate 80 全网推送、nova 13 等开启花粉 Beta 招募",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-30",
+      "time": "13:55",
+      "publishedAt": "2026-10-30T13:55:10.000Z",
+      "url": "https://www.ithome.com/1/020/363.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/19b1107b-1ed6-4c48-a54f-8bd497f7f5b7.jpg",
+      "summary": "IT之家 10 月 30 日消息，华为官方今日公开了鸿蒙 HarmonyOS 7 系统最新适配进度。 目前，Mate 80、Pura 90、nova 16、MatePad Pro Max 等系列产品开启了 全网推送升级 ，nova 12、nova 13、MatePad Pro 13.2 英寸 2023 等系列开启 花粉 Beta 招募 。 IT之家附更多机…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e0c6b5890af4",
+      "title": "The Pixel 11, 11 Pro, and Fold just hit an all-time low price weeks ahead of Black Friday",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-30",
+      "time": "13:20",
+      "publishedAt": "2026-10-30T13:20:00.000Z",
+      "url": "https://9to5google.com/2026/10/30/the-pixel-11-11-pro-and-fold-just-hit-an-all-time-low-price-weeks-ahead-of-black-friday/",
+      "image": "",
+      "summary": "Google is running a huge Pixel 11 sale across a number of retailers, including the Google Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL, and Pixel 11 Pro Fold. more…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ee26133bcd7c",
       "title": "Google is testing an iOS-style Family hub on the Pixel",
       "source": "Android Authority",
       "brand": "Pixel",
@@ -12,7 +332,7 @@ window.phoneRadarAuto = {
       "date": "2026-10-30",
       "time": "12:44",
       "publishedAt": "2026-10-30T12:44:20.000Z",
-      "url": "https://www.androidauthority.com/google-is-testing-an-ios-style-family-hub-on-the-pixel-3729970/",
+      "url": "https://www.androidauthority.com/google-pixel-family-hub-test-ios-style-3729970/",
       "image": "https://www.androidauthority.com/wp-content/uploads/2025/04/Expressive_Settings_homepage_in_Android_16_Beta_4-scaled.jpg",
       "summary": "Android family sharing is still a hassle, but Pixel phones may finally change that.",
       "tags": [
@@ -182,46 +502,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-02b21e69deeb",
-      "title": "竹本青：奔福BPad X7 阔手机预售：紫光展锐T615、720P高刷屏，首销749元",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-30",
-      "time": "09:57",
-      "publishedAt": "2026-10-30T09:57:27.000Z",
-      "url": "https://www.coolapk.com/feed/74728447",
-      "image": "http://image.coolapk.com/feed/2026/1030/17/4248714_b8a05854_4246_4416_24@1280x2560.jpg",
-      "summary": "【奔福BPad X7 阔手机预售：紫光展锐T615、720P高刷屏，首销749元】 4GB+128GB —— 749元 ● 7英寸 90Hz 720P LCD屏 ● 紫光展锐T615处理器 ● 4G SIM双卡双待 ● 4000mAh电池+10W充电 ○ 前置5MP+后置13MP ○ 带听筒｜蓝牙5.0｜TF卡拓展 ○ GPS定位｜安卓16系统 ○ 174…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-b8cad3ccf7eb",
-      "title": "OPPO 高管新分工：李炳忠统管海外市场，尹文广统管手机产品",
-      "source": "IT之家",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-30",
-      "time": "09:34",
-      "publishedAt": "2026-10-30T09:34:39.000Z",
-      "url": "https://www.ithome.com/1/020/239.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/f2470108-15e6-4a03-9685-b52b5e9005cd.png",
-      "summary": "IT之家 10 月 30 日消息，据界面新闻报道，OPPO 发布高管任命与分工调整通知 —— 高级副总裁李炳忠全面负责海外业务 ，对 OPPO 和子系列在海外市场的经营结果负责； 副总裁尹文广将负责所有手机产品系列 ，向首席产品官刘作虎汇报。 IT之家注：李炳忠毕业于南京航空航天大学，是真我 realme 创始人，前 OPPO 副总裁、OPPO 海外事业部…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-2c381b4eb5a5",
       "title": "The true cost of folding: What a Galaxy Z Fold 8 or iPhone Duo costs to own for a year",
       "source": "Android Authority",
@@ -239,46 +519,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-74a7f575f864",
-      "title": "竹本青：曝苹果包揽W43单周销量TOP5",
-      "source": "竹本青",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-30",
-      "time": "09:18",
-      "publishedAt": "2026-10-30T09:18:24.000Z",
-      "url": "https://www.coolapk.com/feed/74727634",
-      "image": "http://image.coolapk.com/feed/2026/1030/17/4248714_d2804988_1902_7827_451@1272x749.jpg",
-      "summary": "【曝苹果包揽W43单周销量TOP5，iPhone Duo 3天激活销量约12.5万台】 10月30日，数码闲聊站爆料W43周（10.19‑10.25）的苹果手机数据。iPhone Duo开售仅3天，激活销量约12.5万台；该周期内，苹果还包揽了单周销量榜TOP5： ① 18 Pro Max单周72.4W（累计397W±） ② 18 Pro单周33.5W（累…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-23a84ae18262",
-      "title": "竹本青：上周国内手机市场份额曝光：苹果连续六周榜首",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-30",
-      "time": "09:14",
-      "publishedAt": "2026-10-30T09:14:12.000Z",
-      "url": "https://www.coolapk.com/feed/74727540",
-      "image": "http://image.coolapk.com/feed/2026/1030/17/4248714_c63a5252_1650_6678_332@1271x942.jpg",
-      "summary": "【上周（W43）国内手机市场份额曝光：苹果连续六周榜首，本周占比33.2%】 ● 2026 W43：大盘上升约15% 1.苹果 —— 33.2% 2.华为 —— 17.7% 3.小米 —— 13.1% 4.荣耀 —— 11.6% 5.OPPO —— 11.2%（含一加 2.4%，realme 0.2%） 6.vivo —— 10.4%（含iQOO 2.7%…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -402,26 +642,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-84819d7c5005",
-      "title": "Galaxy Z Fold 9 Ultra: Everything you need to know",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-30",
-      "time": "05:39",
-      "publishedAt": "2026-10-30T05:39:31.000Z",
-      "url": "https://www.sammobile.com/news/samsung-galaxy-z-fold-9-ultra-everything-to-know/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Galaxy-Z-Fold-8-Ultra-review-27-1920x1079.jpg",
-      "summary": "Introduction The Galaxy Z Fold 9 Ultra will be Samsung's flagship foldable phone in 2027. It will succeed the Galaxy Z Fold 8 Ultra and go head-to-head with Apple's rumored second…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-2b7615fcf0c5",
       "title": "JSCHEN小小狐：vivo S70旗舰版曝光：6.59\" / 骁龙 8s Gen4",
       "source": "JSCHEN小小狐",
@@ -439,26 +659,6 @@ window.phoneRadarAuto = {
         "vivo",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-b42d1454fdbe",
-      "title": "The iPhone Duo suffers because Apple mistook blind arrogance for fierce leadership",
-      "source": "SamMobile",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-30",
-      "time": "05:00",
-      "publishedAt": "2026-10-30T05:00:00.000Z",
-      "url": "https://www.sammobile.com/opinion/iphone-duo-suffers-apple-mistook-blind-arrogance-fierce-leadership/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/10/Galaxy-Fold-hinge-dust-stoppers.png",
-      "summary": "We all know that Apple has always had a whiff of superiority about it. You could say it was well-earned in some cases. But the level of arrogance Apple has shown recently may be u…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -702,21 +902,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-6c17e3496085",
-      "title": "k100promax产品力说话 销量排行榜最不会骗人 iqooneo win ace都是弟弟#一加Ace7Pro# #荣耀WINRT2# #iQOONeo12#",
+      "id": "newsnow-5ffd602b08fc",
+      "title": "好久没来酷安发帖了，实在对不住一直关注我的各位酷友。最近对手机市场提不起兴趣，慢慢淡出手机圈；反倒泡在车圈，认识不少车友，踩过不少实打实的坑，攒了一堆实战经验，整理出来一份二手电车选购+整备攻略，给打算入手二手车、二手电车的朋友做个参考。",
       "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-30",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74701176",
+      "url": "https://www.coolapk.com/feed/74683270",
       "image": "",
-      "summary": "k100promax产品力说话 销量排行榜最不会骗人 iqooneo win ace都是弟弟#一加Ace7Pro# #荣耀WINRT2# #iQOONeo12#",
+      "summary": "好久没来酷安发帖了，实在对不住一直关注我的各位酷友。最近对手机市场提不起兴趣，慢慢淡出手机圈；反倒泡在车圈，认识不少车友，踩过不少实打实的坑，攒了一堆实战经验，整理出来一份二手电车选购+整备攻略，给打算入手二手车、二手电车的朋友做个参考。",
       "tags": [
-        "HONOR",
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -737,6 +937,26 @@ window.phoneRadarAuto = {
       "summary": "iPhone Duo超越过往折叠屏了吗",
       "tags": [
         "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-d60addc71683",
+      "title": "女子万元手机火车上充电时被顺走",
+      "source": "今日头条热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-30",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7702085348448895030/",
+      "image": "",
+      "summary": "女子万元手机火车上充电时被顺走",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -915,46 +1135,6 @@ window.phoneRadarAuto = {
       "url": "https://www.gizmochina.com/2026/10/29/iphone-air-2-revealed-to-have-bigger-battery-dual-rear-camera/",
       "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Einfach-nur-Apple-iPhone-Leaker-deutet-auf-spannende-iPhone-Air-2-Zukunft-300x169.jpg?x54692",
       "summary": "When Apple launched the iPhone Air in September 2025, it became the thinnest iPhone the company had made. It also drew two complaints almost right away: the battery didn’t last as…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ed870c92bbcd",
-      "title": "Just Got an iPhone Duo? Try These Features First",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-29",
-      "time": "10:53",
-      "publishedAt": "2026-10-29T10:53:27.000Z",
-      "url": "https://www.macrumors.com/guide/iphone-duo-new-features-to-try-first/",
-      "image": "https://images.macrumors.com/article-new/2026/10/iPhone-Duo-New-Features-Feature.jpg",
-      "summary": "Apple's iPhone Duo launched on Friday, October 23 in markets around the world. Keep reading if you're the lucky owner of Apple's first foldable iPhone. Whether you're upgrading fr…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1a82962c626f",
-      "title": "Apple Announced Scott Forstall's Departure 14 Years Ago Today",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-29",
-      "time": "10:23",
-      "publishedAt": "2026-10-29T10:23:39.000Z",
-      "url": "https://www.macrumors.com/2026/10/29/apple-scott-forstalls-departure-14-years-ago-today/",
-      "image": "https://images.macrumors.com/article-new/2017/06/scott-forstall-original-iphone.jpg",
-      "summary": "Fourteen years ago today, Apple announced that iOS chief Scott Forstall would leave the company the following year, serving as an advisor to Tim Cook in the interim. Reports at th…",
       "tags": [
         "iPhone",
         "爆料",
