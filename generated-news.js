@@ -1,6 +1,106 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-30T19:20:22.283Z",
+  "updatedAt": "2026-10-30T23:45:03.871Z",
   "news": [
+    {
+      "id": "auto-6f0e55bec55a",
+      "title": "消息称苹果下发指引，要求门店按标准流程维修 / 更换 iPhone Duo 内屏开裂",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-30",
+      "time": "23:22",
+      "publishedAt": "2026-10-30T23:22:13.000Z",
+      "url": "https://www.ithome.com/1/020/397.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/8bd9ddf6-9b19-4e92-9e34-5dd041ae591e.png",
+      "summary": "IT之家 10 月 31 日消息，科技媒体 MacRumors 今天（10 月 31 日）发布博文，报道称苹果公司本周已向 Apple Store 零售店及授权服务提供商下发指引， 在收到用户报告的 iPhone Duo 内屏开裂后，要求技术人员规范检查，并按标准流程维修或更换设备。 在这份指引中，苹果公司再次强调此前声明内容，指出只有少量 iPhone…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8697c12c2ec7",
+      "title": "How much Ultra DNA will the rumored Samsung Galaxy S27 Pro have?",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-30",
+      "time": "23:00",
+      "publishedAt": "2026-10-30T23:00:00.000Z",
+      "url": "https://www.sammobile.com/news/how-much-ultra-dna-in-rumored-samsung-galaxy-s27-pro/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/09/galaxy-s27-series-leaked-case-renders.jpeg",
+      "summary": "Samsung expanded its Galaxy Z lineup this year, and according to countless leaks and rumors, the company will reuse the strategy for the Galaxy S27 series next year. The 2027 flag…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f550645d8b44",
+      "title": "Apple Alerts Stores to iPhone Duo's Display Cracking Issue",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-30",
+      "time": "22:20",
+      "publishedAt": "2026-10-30T22:20:10.000Z",
+      "url": "https://www.macrumors.com/2026/10/30/apple-alerts-stores-to-iphone-duo-display-cracking/",
+      "image": "https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Display-Cracking.jpg",
+      "summary": "In a memo shared with Apple Stores and Apple Authorized Service Providers this week, and later obtained by MacRumors , Apple provided technicians with guidance on how to diagnose…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ed7f31cca62d",
+      "title": "The Galaxy S27's charging speeds are already looking disappointing",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-10-30",
+      "time": "20:25",
+      "publishedAt": "2026-10-30T20:25:47.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/the-galaxy-s27s-charging-speeds-are-already-looking-disappointing",
+      "image": "https://cdn.mos.cms.futurecdn.net/efNgbY3A6DWZDF4HRbJNJE-1920-80.jpg",
+      "summary": "Seven generations, zero charging upgrades: the Galaxy S27 repeats history.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f7c9e3fddec8",
+      "title": "Amazon slashes $429 off the Samsung Galaxy S26 Plus 512GB",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-30",
+      "time": "20:00",
+      "publishedAt": "2026-10-30T20:00:37.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s26-plus-512gb-deal-3730308/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Samsung-Galaxy-S26-Plus-camera.jpg",
+      "summary": "The Samsung Galaxy S26 Plus 512GB is down 31% off RRP on Amazon, bringing this 2026 flagship under $1,000 in white.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-c29ec71a2a58",
       "title": "iPhone Duo Review: One Week Later",
@@ -202,26 +302,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-d8cc9264494f",
-      "title": "The Google Pixel 11 Pro is now cheaper than it’s ever been at Amazon",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-30",
-      "time": "15:32",
-      "publishedAt": "2026-10-30T15:32:46.000Z",
-      "url": "https://www.androidpolice.com/google-pixel-11-pro-deal-lowest-price-amazon-early-black-friday/",
-      "image": "",
-      "summary": "Who needs Black Friday when the deals are this good?",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-4da097aac6a8",
       "title": "iPhone Duo: Here are two tips for improving Safari web browsing",
       "source": "9to5Mac",
@@ -362,26 +442,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-4f94c29bab63",
-      "title": "畅享系列首款：华为畅享 100 Pro Max 手机确认支持 NearLink E2.0 星闪音频功能",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-30",
-      "time": "12:10",
-      "publishedAt": "2026-10-30T12:10:59.000Z",
-      "url": "https://www.ithome.com/1/020/326.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/84ee4bbf-fcb2-46a4-bcb6-bc60e8eabb4b.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 30 日消息，在 10 月 28 日的华为双十一焕新季 · 全场景新品发布会上，华为董事、终端 BG CEO 何刚正式发布了畅享 100 Pro Max 手机，至高搭载麒麟 8020 处理器、内置 8800mAh 巨鲸大电池，定价 1999 元起。 该机核心亮点包括 8800mAh 华为手机史上最大容量电池、5000 万像素 RYYB…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-d45291296faa",
       "title": "Huawei’s next-foldable could feature 50MP RYYB telephoto and Kirin 9050 Pro",
       "source": "Gizmochina",
@@ -419,26 +479,6 @@ window.phoneRadarAuto = {
         "Pixel",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-76c8a801df74",
-      "title": "竹本青：金标联盟发布「一镜到底/无缝动画」，荣耀、OPPO、vivo、小米联合推动落地",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-30",
-      "time": "11:10",
-      "publishedAt": "2026-10-30T11:10:19.000Z",
-      "url": "https://www.coolapk.com/feed/74729958",
-      "image": "http://image.coolapk.com/feed/2026/1030/19/4248714_5532ae35_8607_1727_426@1080x1595.jpg",
-      "summary": "【金标联盟发布「一镜到底/无缝动画」，荣耀、OPPO、vivo、小米联合推动落地】 今年10月，金标联盟发布SharedView Kit「一镜到底/无缝动画」，荣耀、OPPO、vivo、小米四家头部手机厂商联合推动落地，为用户带来「点击即展开、返回不跳帧」的交互感受。 ● 对用户而言： 整体体验更跟手、更丝滑。页面从点击处自然展开，返回时又精准地收回原位，…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -862,46 +902,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-76e309a98395",
-      "title": "大家有没有仔细观察你周围的人是怎么用折叠屏的，就我的观察，几乎清一色都是用外屏，不管走路，还是在餐馆直接这些能坐下来的地方，我真的从来没见过人在公共场合展开用内屏，貌似就我是个另类，我只要用折叠屏必然展开用内屏，在任何地方都必须大屏，所以大家都是怎么用折叠屏的？",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-30",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74710652",
-      "image": "",
-      "summary": "大家有没有仔细观察你周围的人是怎么用折叠屏的，就我的观察，几乎清一色都是用外屏，不管走路，还是在餐馆直接这些能坐下来的地方，我真的从来没见过人在公共场合展开用内屏，貌似就我是个另类，我只要用折叠屏必然展开用内屏，在任何地方都必须大屏，所以大家都是怎么用折叠屏的？",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-cfb262131d19",
-      "title": "一加Ace7pro，iqoo neo12，荣耀winrt2这三个手机，各自缺点优点举例",
-      "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-10-30",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74712060",
-      "image": "",
-      "summary": "一加Ace7pro，iqoo neo12，荣耀winrt2这三个手机，各自缺点优点举例",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-5ffd602b08fc",
       "title": "好久没来酷安发帖了，实在对不住一直关注我的各位酷友。最近对手机市场提不起兴趣，慢慢淡出手机圈；反倒泡在车圈，认识不少车友，踩过不少实打实的坑，攒了一堆实战经验，整理出来一份二手电车选购+整备攻略，给打算入手二手车、二手电车的朋友做个参考。",
       "source": "酷安热榜",
@@ -915,6 +915,26 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/74683270",
       "image": "",
       "summary": "好久没来酷安发帖了，实在对不住一直关注我的各位酷友。最近对手机市场提不起兴趣，慢慢淡出手机圈；反倒泡在车圈，认识不少车友，踩过不少实打实的坑，攒了一堆实战经验，整理出来一份二手电车选购+整备攻略，给打算入手二手车、二手电车的朋友做个参考。",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-76e309a98395",
+      "title": "大家有没有仔细观察你周围的人是怎么用折叠屏的，就我的观察，几乎清一色都是用外屏，不管走路，还是在餐馆直接这些能坐下来的地方，我真的从来没见过人在公共场合展开用内屏，貌似就我是个另类，我只要用折叠屏必然展开用内屏，在任何地方都必须大屏，所以大家都是怎么用折叠屏的？",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-30",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74710652",
+      "image": "",
+      "summary": "大家有没有仔细观察你周围的人是怎么用折叠屏的，就我的观察，几乎清一色都是用外屏，不管走路，还是在餐馆直接这些能坐下来的地方，我真的从来没见过人在公共场合展开用内屏，貌似就我是个另类，我只要用折叠屏必然展开用内屏，在任何地方都必须大屏，所以大家都是怎么用折叠屏的？",
       "tags": [
         "行业",
         "爆料",
@@ -937,26 +957,6 @@ window.phoneRadarAuto = {
       "summary": "iPhone Duo超越过往折叠屏了吗",
       "tags": [
         "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-d60addc71683",
-      "title": "女子万元手机火车上充电时被顺走",
-      "source": "今日头条热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-30",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7702085348448895030/",
-      "image": "",
-      "summary": "女子万元手机火车上充电时被顺走",
-      "tags": [
-        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -1237,26 +1237,6 @@ window.phoneRadarAuto = {
       "summary": "Oppo has started open sale in India for the Find X10 series, a week after launch and pre-orders. The India lineup is only the Find X10 and the Find X10 Pro Max — no Pro, Ultra, or…",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-eb417eeb50ad",
-      "title": "Samsung teases Galaxy S27 plans as its phone business slips into the red again",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-29",
-      "time": "03:55",
-      "publishedAt": "2026-10-29T03:55:56.000Z",
-      "url": "https://www.androidauthority.com/samsung-galaxy-s27-plans-q3-2026-earnings-call-3729435/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Samsung-Galaxy-S26FE-all-3-colors.jpg",
-      "summary": "Samsung expects to ship fewer phones in 2027, but it has big plans for its next Galaxy S series, foldables, and more.",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]

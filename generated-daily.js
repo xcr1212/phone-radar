@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-10-30T19:20:22.283Z",
+  "updatedAt": "2026-10-30T23:45:03.871Z",
   "issueDate": "2026-10-30",
   "issue": "VOL.261030",
   "title": "手机情报日报",
-  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 13 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 14,
-    "iphone": 6,
+    "total": 13,
+    "iphone": 8,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -17,6 +17,29 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-6f0e55bec55a",
+          "title": "消息称苹果下发指引，要求门店按标准流程维修 / 更换 iPhone Duo 内屏开裂",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-30",
+          "time": "23:22",
+          "publishedAt": "2026-10-30T23:22:13.000Z",
+          "url": "https://www.ithome.com/1/020/397.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/8bd9ddf6-9b19-4e92-9e34-5dd041ae591e.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 10 月 31 日消息，科技媒体 MacRumors 今天（10 月 31 日）发布博文，报道称苹果公司本周已向 Apple Store 零售店及授权服务提供商下发指引， 在收到用户报告的 iPhone Duo 内屏开裂后，要求技术人员规范检查，并按标准流程维修或更换设备。 在这份指引中，苹果公司再次强调此前声明内容，指出只有少量 iPhone…",
+          "detail": "IT之家 10 月 31 日消息，科技媒体 MacRumors 今天（10 月 31 日）发布博文，报道称苹果公司本周已向 Apple Store 零售店及授权服务提供商下发指引， 在收到用户报告的 iPhone Duo 内屏开裂后，要求技术人员规范检查，并按标准流程维修或更换设备。 在这份指引中，苹果公司再次强调此前声明内容，指出只有少量 iPhone…",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "weibo-223904d6708b",
           "title": "数码闲聊站：iPhone Duo首周激活销量——12.5W± 统计周期为W43(10.19…",
@@ -37,6 +60,30 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-f550645d8b44",
+          "title": "iPhone 屏幕规格相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-30",
+          "time": "22:20",
+          "publishedAt": "2026-10-30T22:20:10.000Z",
+          "url": "https://www.macrumors.com/2026/10/30/apple-alerts-stores-to-iphone-duo-display-cracking/",
+          "image": "https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Display-Cracking.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 屏幕规格相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -136,30 +183,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-4f94c29bab63",
-          "title": "畅享系列首款：华为畅享 100 Pro Max 手机确认支持 NearLink E2.0 星闪音频功能",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-30",
-          "time": "12:10",
-          "publishedAt": "2026-10-30T12:10:59.000Z",
-          "url": "https://www.ithome.com/1/020/326.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/84ee4bbf-fcb2-46a4-bcb6-bc60e8eabb4b.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 10 月 30 日消息，在 10 月 28 日的华为双十一焕新季 · 全场景新品发布会上，华为董事、终端 BG CEO 何刚正式发布了畅享 100 Pro Max 手机，至高搭载麒麟 8020 处理器、内置 8800mAh 巨鲸大电池，定价 1999 元起。 该机核心亮点包括 8800mAh 华为手机史上最大容量电池、5000 万像素 RYYB…",
-          "detail": "IT之家 10 月 30 日消息，在 10 月 28 日的华为双十一焕新季 · 全场景新品发布会上，华为董事、终端 BG CEO 何刚正式发布了畅享 100 Pro Max 手机，至高搭载麒麟 8020 处理器、内置 8800mAh 巨鲸大电池，定价 1999 元起。 该机核心亮点包括 8800mAh 华为手机史上最大容量电池、5000 万像素 RYYB…",
-          "keyPoints": [
-            "电池 / 充电",
-            "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "auto-ccdfd89015c6",
           "title": "华为鸿蒙 HarmonyOS 7 系统最新适配进度公开：Mate 80 全网推送、nova 13 等开启花粉 Beta 招募",
           "originalTitle": "",
@@ -179,30 +202,6 @@ window.phoneRadarDaily = {
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-2b7615fcf0c5",
-          "title": "JSCHEN小小狐：vivo S70旗舰版曝光：6.59\" / 骁龙 8s Gen4",
-          "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-10-30",
-          "time": "05:27",
-          "publishedAt": "2026-10-30T05:27:06.000Z",
-          "url": "https://www.coolapk.com/feed/74722716",
-          "image": "http://image.coolapk.com/feed/2026/1030/13/4702274_1a4eb6bf_8025_3996_974@1440x599.jpg",
-          "verdict": "先看",
-          "takeaway": "『vivo S70 旗舰版曝光：6.59\" / 骁龙 8s Gen4』 ◇ 6.59 英寸 1.5K 144Hz LTPS OLED 直屏 ◇ 骁龙 8s Gen4 移动平台｜光遇联名版 ◇ 200mm 增距镜｜横向大矩阵 Deco 主摄｜50MP 1/1.56\" 长焦｜64MP 1/2\" LYTIA 610 潜望 超广｜8MP 1/4\" 前摄｜50MP…",
-          "detail": "『vivo S70 旗舰版曝光：6.59\" / 骁龙 8s Gen4』 ◇ 6.59 英寸 1.5K 144Hz LTPS OLED 直屏 ◇ 骁龙 8s Gen4 移动平台｜光遇联名版 ◇ 200mm 增距镜｜横向大矩阵 Deco 主摄｜50MP 1/1.56\" 长焦｜64MP 1/2\" LYTIA 610 潜望 超广｜8MP 1/4\" 前摄｜50MP…",
-          "keyPoints": [
-            "影像硬件",
-            "屏幕形态"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -290,21 +289,21 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "coolapk-user-76c8a801df74",
-          "title": "竹本青：金标联盟发布「一镜到底/无缝动画」，荣耀、OPPO、vivo、小米联合推动落地",
+          "id": "coolapk-user-41718dfcf916",
+          "title": "JSCHEN小小狐：李杰宣布一加Ace 7 Pro首销达上一代225%",
           "originalTitle": "",
-          "source": "竹本青",
-          "brand": "HONOR",
+          "source": "JSCHEN小小狐",
+          "brand": "OPPO",
           "type": "爆料",
           "trust": "高可信爆料",
           "date": "2026-10-30",
-          "time": "11:10",
-          "publishedAt": "2026-10-30T11:10:19.000Z",
-          "url": "https://www.coolapk.com/feed/74729958",
-          "image": "http://image.coolapk.com/feed/2026/1030/19/4248714_5532ae35_8607_1727_426@1080x1595.jpg",
+          "time": "01:41",
+          "publishedAt": "2026-10-30T01:41:58.000Z",
+          "url": "https://www.coolapk.com/feed/74717177",
+          "image": "http://image.coolapk.com/feed/2026/1030/09/4702274_25289dc1_4516_2074_445@1440x1689.jpg",
           "verdict": "扫一眼",
-          "takeaway": "【金标联盟发布「一镜到底/无缝动画」，荣耀、OPPO、vivo、小米联合推动落地】 今年10月，金标联盟发布SharedView Kit「一镜到底/无缝动画」，荣耀、OPPO、vivo、小米四家头部手机厂商联合推动落地，为用户带来「点击即展开、返回不跳帧」的交互感受。 ● 对用户而言： 整体体验更跟手、更丝滑。页面从点击处自然展开，返回时又精准地收回原位，…",
-          "detail": "【金标联盟发布「一镜到底/无缝动画」，荣耀、OPPO、vivo、小米联合推动落地】 今年10月，金标联盟发布SharedView Kit「一镜到底/无缝动画」，荣耀、OPPO、vivo、小米四家头部手机厂商联合推动落地，为用户带来「点击即展开、返回不跳帧」的交互感受。 ● 对用户而言： 整体体验更跟手、更丝滑。页面从点击处自然展开，返回时又精准地收回原位，…",
+          "takeaway": "『李杰宣布一加 Ace 7 Pro 首销达上一代 225%』 10 月 30 日，一加中国区总裁 李杰 发博宣布，一加 Ace 7 系列昨日发布即开售后，Ace 7 Pro 首销销量达上一代 Ace 6 的 225%，“实现大幅增长”。同时他表示，一加 16 和 Ace 7 Pro 两机型分别包揽了 2026 年安卓手机首销销量冠军和亚军。 据悉，一加 A…",
+          "detail": "『李杰宣布一加 Ace 7 Pro 首销达上一代 225%』 10 月 30 日，一加中国区总裁 李杰 发博宣布，一加 Ace 7 系列昨日发布即开售后，Ace 7 Pro 首销销量达上一代 Ace 6 的 225%，“实现大幅增长”。同时他表示，一加 16 和 Ace 7 Pro 两机型分别包揽了 2026 年安卓手机首销销量冠军和亚军。 据悉，一加 A…",
           "keyPoints": [
             "爆料"
           ],
@@ -319,29 +318,6 @@ window.phoneRadarDaily = {
       "title": "行业趋势",
       "hint": "看方向，不急着当购买依据。",
       "items": [
-        {
-          "id": "newsnow-cfb262131d19",
-          "title": "一加Ace7pro，iqoo neo12，荣耀winrt2这三个手机，各自缺点优点举例",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-10-30",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/74712060",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "一加Ace7pro，iqoo neo12，荣耀winrt2这三个手机，各自缺点优点举例",
-          "detail": "一加Ace7pro，iqoo neo12，荣耀winrt2这三个手机，各自缺点优点举例",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
         {
           "id": "coolapk-user-004b8d79b86c",
           "title": "JSCHEN小小狐：博主汇总四大「性能旗舰」系列累计激活量",
