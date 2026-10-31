@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-10-30T23:45:03.871Z",
-  "issueDate": "2026-10-30",
-  "issue": "VOL.261030",
+  "updatedAt": "2026-10-31T05:38:21.747Z",
+  "issueDate": "2026-10-31",
+  "issue": "VOL.261031",
   "title": "手机情报日报",
-  "intro": "今日筛出 13 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 13,
-    "iphone": 8,
+    "total": 12,
+    "iphone": 5,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -17,29 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-6f0e55bec55a",
-          "title": "消息称苹果下发指引，要求门店按标准流程维修 / 更换 iPhone Duo 内屏开裂",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-30",
-          "time": "23:22",
-          "publishedAt": "2026-10-30T23:22:13.000Z",
-          "url": "https://www.ithome.com/1/020/397.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/8bd9ddf6-9b19-4e92-9e34-5dd041ae591e.png",
-          "verdict": "先看",
-          "takeaway": "IT之家 10 月 31 日消息，科技媒体 MacRumors 今天（10 月 31 日）发布博文，报道称苹果公司本周已向 Apple Store 零售店及授权服务提供商下发指引， 在收到用户报告的 iPhone Duo 内屏开裂后，要求技术人员规范检查，并按标准流程维修或更换设备。 在这份指引中，苹果公司再次强调此前声明内容，指出只有少量 iPhone…",
-          "detail": "IT之家 10 月 31 日消息，科技媒体 MacRumors 今天（10 月 31 日）发布博文，报道称苹果公司本周已向 Apple Store 零售店及授权服务提供商下发指引， 在收到用户报告的 iPhone Duo 内屏开裂后，要求技术人员规范检查，并按标准流程维修或更换设备。 在这份指引中，苹果公司再次强调此前声明内容，指出只有少量 iPhone…",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "weibo-223904d6708b",
           "title": "数码闲聊站：iPhone Duo首周激活销量——12.5W± 统计周期为W43(10.19…",
@@ -60,6 +37,29 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-3d199b1a8e69",
+          "title": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
+          "originalTitle": "",
+          "source": "少数派热榜",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-10-31",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/115426",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
+          "detail": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -112,44 +112,46 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-a8a82a810ac2",
-          "title": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
+          "id": "auto-704e8b5c73bd",
+          "title": "消息称一加小屏手机暂定不迭代，现款 15T 搭载第五代骁龙 8 至尊版处理器",
           "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
+          "source": "IT之家",
+          "brand": "OPPO",
+          "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-10-30",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/115426",
-          "image": "",
+          "date": "2026-10-31",
+          "time": "02:03",
+          "publishedAt": "2026-10-31T02:03:03.000Z",
+          "url": "https://www.ithome.com/1/020/434.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/ce7d41b8-9150-4e72-925e-f480fe61db9a.jpg?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
-          "detail": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
+          "takeaway": "IT之家 10 月 31 日消息，博主 @数码闲聊站 今日透露，加加（一加）小屏暂定不迭代了。博主称可以许愿后面上阔屏。 IT之家注意到，目前一加在售的最新款小屏手机为一加 15T，该机于 3 月 24 日发布，号称“一部专为小屏党打造的 Dream Phone”。 一加 15T 搭载第五代骁龙 8 至尊版处理器 + 7500mAh 电池，发布时的官方零售…",
+          "detail": "IT之家 10 月 31 日消息，博主 @数码闲聊站 今日透露，加加（一加）小屏暂定不迭代了。博主称可以许愿后面上阔屏。 IT之家注意到，目前一加在售的最新款小屏手机为一加 15T，该机于 3 月 24 日发布，号称“一部专为小屏党打造的 Dream Phone”。 一加 15T 搭载第五代骁龙 8 至尊版处理器 + 7500mAh 电池，发布时的官方零售…",
           "keyPoints": [
-            "影像硬件"
+            "电池 / 充电",
+            "芯片 / 性能",
+            "爆料来源"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-bc4e936929d3",
-          "title": "iPhone Duo超越过往折叠屏了吗",
+          "id": "auto-9a65b1708237",
+          "title": "三星再度调侃苹果首款折叠 iPhone Duo：折叠屏我们有丰富经验",
           "originalTitle": "",
-          "source": "B站热搜",
-          "brand": "iPhone",
+          "source": "IT之家",
+          "brand": "Samsung",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-10-30",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://search.bilibili.com/all?keyword=iPhone%20Duo%E8%B6%85%E8%B6%8A%E8%BF%87%E5%BE%80%E6%8A%98%E5%8F%A0%E5%B1%8F%E4%BA%86%E5%90%97",
-          "image": "",
+          "date": "2026-10-31",
+          "time": "01:06",
+          "publishedAt": "2026-10-31T01:06:50.000Z",
+          "url": "https://www.ithome.com/1/020/417.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/c4d8333f-8418-4108-a95c-c20ea2781071.jpg?x-bce-process=image/rotate,a_90",
           "verdict": "先看",
-          "takeaway": "iPhone Duo超越过往折叠屏了吗",
-          "detail": "iPhone Duo超越过往折叠屏了吗",
+          "takeaway": "IT之家 10 月 31 日消息，三星本周发布密集广告攻势，继续调侃苹果首款折叠 iPhone Duo。 通过切片青苹果来凸显 Galaxy Z Fold8 更轻更薄外 ， 三星今天再次发布图片，调侃 iPhone Duo 的屏幕问题。 IT之家此前报道，在这段宣传视频中，一颗青苹果被切片，其中居中的切片不断向前滚动，展示了从 2019 年初代 Galax…",
+          "detail": "IT之家 10 月 31 日消息，三星本周发布密集广告攻势，继续调侃苹果首款折叠 iPhone Duo。 通过切片青苹果来凸显 Galaxy Z Fold8 更轻更薄外 ， 三星今天再次发布图片，调侃 iPhone Duo 的屏幕问题。 IT之家此前报道，在这段宣传视频中，一颗青苹果被切片，其中居中的切片不断向前滚动，展示了从 2019 年初代 Galax…",
           "keyPoints": [
             "屏幕形态"
           ],
@@ -158,50 +160,49 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "coolapk-user-fee5675c2d6c",
-          "title": "JSCHEN小小狐：华为「星芒」首款阔直板曝光：型号 O1 Pro",
-          "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-10-29",
-          "time": "04:50",
-          "publishedAt": "2026-10-29T04:50:58.000Z",
-          "url": "https://www.coolapk.com/feed/74697010",
-          "image": "http://image.coolapk.com/feed/2026/1029/12/4702274_3cfdd879_9456_4376_576@1440x507.jpg",
-          "verdict": "先看",
-          "takeaway": "『华为「星芒」首款阔直板曝光：型号 O1 Pro』 ◇ 6.39 英寸 LTPS OLED 阔比例直屏 ◇ 麒麟 9 系处理器｜系统含特色调整 ◇ 后置镜头采用横向跑道 Deco 设计 配色： 星空黑、星云白、星芒紫 版本： 12GB+256GB / 12GB+512GB 16GB+512GB / 16GB+1TB #今日热点# #华为PuraXView#…",
-          "detail": "『华为「星芒」首款阔直板曝光：型号 O1 Pro』 ◇ 6.39 英寸 LTPS OLED 阔比例直屏 ◇ 麒麟 9 系处理器｜系统含特色调整 ◇ 后置镜头采用横向跑道 Deco 设计 配色： 星空黑、星云白、星芒紫 版本： 12GB+256GB / 12GB+512GB 16GB+512GB / 16GB+1TB #今日热点# #华为PuraXView#…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "屏幕形态",
-            "芯片 / 性能"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-ccdfd89015c6",
-          "title": "华为鸿蒙 HarmonyOS 7 系统最新适配进度公开：Mate 80 全网推送、nova 13 等开启花粉 Beta 招募",
+          "id": "auto-3a1056c5afd9",
+          "title": "华为畅享 100 系列手机首销：麒麟 8000S / 8020A / 8020 处理器，1399 元起",
           "originalTitle": "",
           "source": "IT之家",
           "brand": "Huawei",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-10-30",
-          "time": "13:55",
-          "publishedAt": "2026-10-30T13:55:10.000Z",
-          "url": "https://www.ithome.com/1/020/363.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/19b1107b-1ed6-4c48-a54f-8bd497f7f5b7.jpg",
+          "date": "2026-10-31",
+          "time": "00:51",
+          "publishedAt": "2026-10-31T00:51:37.000Z",
+          "url": "https://www.ithome.com/1/020/414.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/bfcdadc8-4a34-403b-a1f7-3fdfcf42dac1.jpg?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 10 月 30 日消息，华为官方今日公开了鸿蒙 HarmonyOS 7 系统最新适配进度。 目前，Mate 80、Pura 90、nova 16、MatePad Pro Max 等系列产品开启了 全网推送升级 ，nova 12、nova 13、MatePad Pro 13.2 英寸 2023 等系列开启 花粉 Beta 招募 。 IT之家附更多机…",
-          "detail": "IT之家 10 月 30 日消息，华为官方今日公开了鸿蒙 HarmonyOS 7 系统最新适配进度。 目前，Mate 80、Pura 90、nova 16、MatePad Pro Max 等系列产品开启了 全网推送升级 ，nova 12、nova 13、MatePad Pro 13.2 英寸 2023 等系列开启 花粉 Beta 招募 。 IT之家附更多机…",
+          "takeaway": "IT之家 10 月 31 日消息，华为畅享 100 系列手机将于今日 10:08 首销，售价 1399 元起。 华为畅享 100 128GB 版 1399 元 256GB 版 1699 元 华为畅享 100 Pro 128GB 版 1799 元 256GB 版 2199 元 512GB 版 2699 元 华为畅享 100 Pro Max 128GB 版 1…",
+          "detail": "IT之家 10 月 31 日消息，华为畅享 100 系列手机将于今日 10:08 首销，售价 1399 元起。 华为畅享 100 128GB 版 1399 元 256GB 版 1699 元 华为畅享 100 Pro 128GB 版 1799 元 256GB 版 2199 元 512GB 版 2699 元 华为畅享 100 Pro Max 128GB 版 1…",
           "keyPoints": [
-            "爆料"
+            "芯片 / 性能",
+            "成本 / 价格"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-a089010cbc6f",
+          "title": "竹本青：【博主称 REDMI 阔直板手机评估中，预计明年登场】 10月31日，博主数码闲聊站发文称，小米子系（REDMI）…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-10-31",
+          "time": "04:39",
+          "publishedAt": "2026-10-31T04:39:20.000Z",
+          "url": "https://www.coolapk.com/feed/74746868",
+          "image": "http://image.coolapk.com/feed/2026/1031/12/4248714_96a842ac_1559_8735_97@1439x964.jpg",
+          "verdict": "先看",
+          "takeaway": "【博主称 REDMI 阔直板手机评估中，预计明年登场】 10月31日，博主数码闲聊站发文称，小米子系（REDMI）的阔直板新机已确定进入评估阶段，预计于2027年正式登场。 该博主此前爆料显示，2027年国产TOP5厂商均将推出阔直板新机，目前已全部立项完成并处于加速测试中。 ————————————————— 今年8月，华为推出全球首款阔直板Pura X…",
+          "detail": "【博主称 REDMI 阔直板手机评估中，预计明年登场】 10月31日，博主数码闲聊站发文称，小米子系（REDMI）的阔直板新机已确定进入评估阶段，预计于2027年正式登场。 该博主此前爆料显示，2027年国产TOP5厂商均将推出阔直板新机，目前已全部立项完成并处于加速测试中。 ————————————————— 今年8月，华为推出全球首款阔直板Pura X…",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -213,29 +214,6 @@ window.phoneRadarDaily = {
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
         {
-          "id": "auto-cabf5ce15851",
-          "title": "一日一技｜iPhone 恶意被锁，线上移除流程拆招",
-          "originalTitle": "",
-          "source": "少数派",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-10-29",
-          "time": "03:00",
-          "publishedAt": "2026-10-29T03:00:00.000Z",
-          "url": "https://sspai.com/post/116686",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "如果你从网上购买过 Apple ID，又在自己的设备上登录，那就会存在一种风险：这类共享 ID 的密码掌握在卖家手里，卖家可以随时更改。本文就介绍了移除激活锁的全过程。",
-          "detail": "如果你从网上购买过 Apple ID，又在自己的设备上登录，那就会存在一种风险：这类共享 ID 的密码掌握在卖家手里，卖家可以随时更改。本文就介绍了移除激活锁的全过程。",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
-        {
           "id": "auto-a89f115eb254",
           "title": "iPhone 芯片 / 性能相关消息",
           "originalTitle": "",
@@ -243,7 +221,7 @@ window.phoneRadarDaily = {
           "brand": "iPhone",
           "type": "官方",
           "trust": "官方确认",
-          "date": "2026-10-30",
+          "date": "2026-10-31",
           "time": "",
           "publishedAt": "",
           "url": "https://www.apple.com/newsroom/2026/10/apple-announces-american-manufacturing-program-partners-for-latest-iphone-lineup/",
@@ -265,29 +243,6 @@ window.phoneRadarDaily = {
       "title": "新机与官方发布",
       "hint": "能直接更新到参数库。",
       "items": [
-        {
-          "id": "coolapk-user-7d8cc7143de9",
-          "title": "竹本青：【OPPO高管调整分工：李炳忠统管海外市场，尹文广统管手机产品】 10月30日，据界面新闻，OPPO发布高管任命与…",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-10-30",
-          "time": "16:53",
-          "publishedAt": "2026-10-30T16:53:35.000Z",
-          "url": "https://www.coolapk.com/feed/74737997",
-          "image": "http://image.coolapk.com/feed/2026/1031/00/4248714_94729207_9198_0359_217@1920x1316.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【OPPO高管调整分工：李炳忠统管海外市场，尹文广统管手机产品】 10月30日，据界面新闻，OPPO发布高管任命与分工调整通知——高级副总裁李炳忠全面负责海外业务，对OPPO和子系列在海外市场的经营结果负责；副总裁尹文广将负责所有手机产品系列，向首席产品官刘作虎汇报。 据悉，李炳忠是OPPO最早的出海开拓者之一，具有丰富的一线实战、本土化运营及全球化品牌操…",
-          "detail": "【OPPO高管调整分工：李炳忠统管海外市场，尹文广统管手机产品】 10月30日，据界面新闻，OPPO发布高管任命与分工调整通知——高级副总裁李炳忠全面负责海外业务，对OPPO和子系列在海外市场的经营结果负责；副总裁尹文广将负责所有手机产品系列，向首席产品官刘作虎汇报。 据悉，李炳忠是OPPO最早的出海开拓者之一，具有丰富的一线实战、本土化运营及全球化品牌操…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
         {
           "id": "coolapk-user-41718dfcf916",
           "title": "JSCHEN小小狐：李杰宣布一加Ace 7 Pro首销达上一代225%",
@@ -339,6 +294,29 @@ window.phoneRadarDaily = {
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "影响性能和寿命判断，适合放进参数库。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-5f3534084c09",
+          "title": "好久没来酷安发帖了，实在对不住一直关注我的各位酷友。最近对手机市场提不起兴趣，慢慢淡出手机圈；反倒泡在车圈，认识不少车友，踩过不少实打实的坑，攒了一堆实战经验，整理出来一份二手电车选购+整备攻略，给打算入手二手车、二手电车的朋友做个参考。",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-10-31",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/74683270",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "好久没来酷安发帖了，实在对不住一直关注我的各位酷友。最近对手机市场提不起兴趣，慢慢淡出手机圈；反倒泡在车圈，认识不少车友，踩过不少实打实的坑，攒了一堆实战经验，整理出来一份二手电车选购+整备攻略，给打算入手二手车、二手电车的朋友做个参考。",
+          "detail": "好久没来酷安发帖了，实在对不住一直关注我的各位酷友。最近对手机市场提不起兴趣，慢慢淡出手机圈；反倒泡在车圈，认识不少车友，踩过不少实打实的坑，攒了一堆实战经验，整理出来一份二手电车选购+整备攻略，给打算入手二手车、二手电车的朋友做个参考。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
