@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-10-31T05:38:21.747Z",
+  "updatedAt": "2026-10-31T12:25:36.367Z",
   "issueDate": "2026-10-31",
   "issue": "VOL.261031",
   "title": "手机情报日报",
-  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 12,
-    "iphone": 5,
+    "total": 16,
+    "iphone": 8,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -17,6 +17,29 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-20de25139c1d",
+          "title": "网友分享苹果 iPhone Duo 小技巧：录入食指第二指节指纹，拿起手机即自然解锁",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-31",
+          "time": "09:01",
+          "publishedAt": "2026-10-31T09:01:45.000Z",
+          "url": "https://www.ithome.com/1/020/540.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/2325ed95-fbd8-400c-90da-b1ef071eebfe.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 10 月 31 日消息，只要思想不滑坡，办法总比困难多。由于有人吐槽 Touch ID 不方便，Reddit 网友 @Wrznlmw 上周分享了一个关于苹果 iPhone Duo 的小技巧。 据 MacRumors 报道，在录入指纹时，用户可以将食指靠近第二指节的纹理录入系统，而非默认的指尖或指腹。这样一来，当你拿起手机时，手指关节自然接触侧边电…",
+          "detail": "IT之家 10 月 31 日消息，只要思想不滑坡，办法总比困难多。由于有人吐槽 Touch ID 不方便，Reddit 网友 @Wrznlmw 上周分享了一个关于苹果 iPhone Duo 的小技巧。 据 MacRumors 报道，在录入指纹时，用户可以将食指靠近第二指节的纹理录入系统，而非默认的指尖或指腹。这样一来，当你拿起手机时，手指关节自然接触侧边电…",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "weibo-223904d6708b",
           "title": "数码闲聊站：iPhone Duo首周激活销量——12.5W± 统计周期为W43(10.19…",
@@ -37,6 +60,29 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-7cae7d2abb90",
+          "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-31",
+          "time": "05:55",
+          "publishedAt": "2026-10-31T05:55:35.000Z",
+          "url": "https://www.macrumors.com/2026/10/31/iphone-18-pro-sales-surge-in-china/",
+          "image": "https://images.macrumors.com/article-new/2026/10/iPhone-18-Pro-Pre-Orders-Feature-Sans-Text.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -88,48 +134,23 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-c29ec71a2a58",
-          "title": "iPhone 相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-30",
-          "time": "18:46",
-          "publishedAt": "2026-10-30T18:46:06.000Z",
-          "url": "https://www.macrumors.com/2026/10/30/iphone-duo-one-week-later/",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "影像硬件",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-704e8b5c73bd",
-          "title": "消息称一加小屏手机暂定不迭代，现款 15T 搭载第五代骁龙 8 至尊版处理器",
+          "id": "auto-bf6d6a5a1190",
+          "title": "消息称某厂子系阔直板 2027 见 ，预计为小米 REDMI 旗下",
           "originalTitle": "",
           "source": "IT之家",
-          "brand": "OPPO",
+          "brand": "HONOR",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-10-31",
-          "time": "02:03",
-          "publishedAt": "2026-10-31T02:03:03.000Z",
-          "url": "https://www.ithome.com/1/020/434.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/ce7d41b8-9150-4e72-925e-f480fe61db9a.jpg?x-bce-process=image/format,f_auto",
+          "time": "08:10",
+          "publishedAt": "2026-10-31T08:10:01.000Z",
+          "url": "https://www.ithome.com/1/020/507.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/e50d96f7-6b4b-43f6-8b29-473cb8894846.png",
           "verdict": "先看",
-          "takeaway": "IT之家 10 月 31 日消息，博主 @数码闲聊站 今日透露，加加（一加）小屏暂定不迭代了。博主称可以许愿后面上阔屏。 IT之家注意到，目前一加在售的最新款小屏手机为一加 15T，该机于 3 月 24 日发布，号称“一部专为小屏党打造的 Dream Phone”。 一加 15T 搭载第五代骁龙 8 至尊版处理器 + 7500mAh 电池，发布时的官方零售…",
-          "detail": "IT之家 10 月 31 日消息，博主 @数码闲聊站 今日透露，加加（一加）小屏暂定不迭代了。博主称可以许愿后面上阔屏。 IT之家注意到，目前一加在售的最新款小屏手机为一加 15T，该机于 3 月 24 日发布，号称“一部专为小屏党打造的 Dream Phone”。 一加 15T 搭载第五代骁龙 8 至尊版处理器 + 7500mAh 电池，发布时的官方零售…",
+          "takeaway": "IT之家 10 月 31 日消息，据博主 @数码闲聊站 今日爆料，某厂子系阔直板确定评估中，2027 年见。据评论区网友推测，该机预计为小米 REDMI 旗下。 据IT之家此前援引博主消息 ，安卓阵营的阔直板手机，O（预计指 OPPO）大概率第一个上，h（预计指荣耀）第二个上，剩下几家进度较缓慢。目前立项阶段有影像阔直板手机、中端阔直板手机、性能阔直板手机…",
+          "detail": "IT之家 10 月 31 日消息，据博主 @数码闲聊站 今日爆料，某厂子系阔直板确定评估中，2027 年见。据评论区网友推测，该机预计为小米 REDMI 旗下。 据IT之家此前援引博主消息 ，安卓阵营的阔直板手机，O（预计指 OPPO）大概率第一个上，h（预计指荣耀）第二个上，剩下几家进度较缓慢。目前立项阶段有影像阔直板手机、中端阔直板手机、性能阔直板手机…",
           "keyPoints": [
-            "电池 / 充电",
-            "芯片 / 性能",
+            "影像硬件",
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
@@ -137,55 +158,31 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-9a65b1708237",
-          "title": "三星再度调侃苹果首款折叠 iPhone Duo：折叠屏我们有丰富经验",
+          "id": "coolapk-user-0757314af5d6",
+          "title": "竹本青：曝2027年阔折叠新机扎堆：华为/小米/苹果迭代，OPPO/荣耀上新",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Samsung",
+          "source": "竹本青",
+          "brand": "HONOR",
           "type": "爆料",
-          "trust": "媒体汇总",
+          "trust": "高可信爆料",
           "date": "2026-10-31",
-          "time": "01:06",
-          "publishedAt": "2026-10-31T01:06:50.000Z",
-          "url": "https://www.ithome.com/1/020/417.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/c4d8333f-8418-4108-a95c-c20ea2781071.jpg?x-bce-process=image/rotate,a_90",
+          "time": "06:55",
+          "publishedAt": "2026-10-31T06:55:26.000Z",
+          "url": "https://www.coolapk.com/feed/74749946",
+          "image": "http://image.coolapk.com/feed/2026/1031/14/4248714_748964bb_9723_6608_467@1272x337.jpg",
           "verdict": "先看",
-          "takeaway": "IT之家 10 月 31 日消息，三星本周发布密集广告攻势，继续调侃苹果首款折叠 iPhone Duo。 通过切片青苹果来凸显 Galaxy Z Fold8 更轻更薄外 ， 三星今天再次发布图片，调侃 iPhone Duo 的屏幕问题。 IT之家此前报道，在这段宣传视频中，一颗青苹果被切片，其中居中的切片不断向前滚动，展示了从 2019 年初代 Galax…",
-          "detail": "IT之家 10 月 31 日消息，三星本周发布密集广告攻势，继续调侃苹果首款折叠 iPhone Duo。 通过切片青苹果来凸显 Galaxy Z Fold8 更轻更薄外 ， 三星今天再次发布图片，调侃 iPhone Duo 的屏幕问题。 IT之家此前报道，在这段宣传视频中，一颗青苹果被切片，其中居中的切片不断向前滚动，展示了从 2019 年初代 Galax…",
+          "takeaway": "【曝2027年阔折叠新机扎堆：华为/小米/苹果迭代，OPPO/荣耀上新】 10月31日，博主数码闲聊站发文称，2027年阔折叠新机“含量也很高”：华为、小米、苹果大概率正常迭代，OPPO、荣耀将上新，vivo则处于待定区。 —————————————————— 2026年已有三家完成阔折叠机型发布： 1. 华为Pura X Max，4月20日正式发布，起售…",
+          "detail": "【曝2027年阔折叠新机扎堆：华为/小米/苹果迭代，OPPO/荣耀上新】 10月31日，博主数码闲聊站发文称，2027年阔折叠新机“含量也很高”：华为、小米、苹果大概率正常迭代，OPPO、荣耀将上新，vivo则处于待定区。 —————————————————— 2026年已有三家完成阔折叠机型发布： 1. 华为Pura X Max，4月20日正式发布，起售…",
           "keyPoints": [
-            "屏幕形态"
+            "爆料来源"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-3a1056c5afd9",
-          "title": "华为畅享 100 系列手机首销：麒麟 8000S / 8020A / 8020 处理器，1399 元起",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-31",
-          "time": "00:51",
-          "publishedAt": "2026-10-31T00:51:37.000Z",
-          "url": "https://www.ithome.com/1/020/414.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/bfcdadc8-4a34-403b-a1f7-3fdfcf42dac1.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 10 月 31 日消息，华为畅享 100 系列手机将于今日 10:08 首销，售价 1399 元起。 华为畅享 100 128GB 版 1399 元 256GB 版 1699 元 华为畅享 100 Pro 128GB 版 1799 元 256GB 版 2199 元 512GB 版 2699 元 华为畅享 100 Pro Max 128GB 版 1…",
-          "detail": "IT之家 10 月 31 日消息，华为畅享 100 系列手机将于今日 10:08 首销，售价 1399 元起。 华为畅享 100 128GB 版 1399 元 256GB 版 1699 元 华为畅享 100 Pro 128GB 版 1799 元 256GB 版 2199 元 512GB 版 2699 元 华为畅享 100 Pro Max 128GB 版 1…",
-          "keyPoints": [
-            "芯片 / 性能",
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
           "id": "coolapk-user-a089010cbc6f",
-          "title": "竹本青：【博主称 REDMI 阔直板手机评估中，预计明年登场】 10月31日，博主数码闲聊站发文称，小米子系（REDMI）…",
+          "title": "竹本青：博主称REDMI阔直板手机评估中，预计明年登场",
           "originalTitle": "",
           "source": "竹本青",
           "brand": "Huawei",
@@ -214,6 +211,29 @@ window.phoneRadarDaily = {
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
         {
+          "id": "coolapk-user-ee8bae16837e",
+          "title": "竹本青：苹果 Apple 智能国行兼容设备公布，覆盖iPhone 15 Pro系列及以后机型",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-10-31",
+          "time": "06:04",
+          "publishedAt": "2026-10-31T06:04:44.000Z",
+          "url": "https://www.coolapk.com/feed/74748780",
+          "image": "http://image.coolapk.com/feed/2026/1031/14/4248714_0668ea6b_6682_7327_819@2136x1947.jpg",
+          "verdict": "先看",
+          "takeaway": "【苹果 Apple 智能国行兼容设备公布，覆盖iPhone 15 Pro系列及以后】 iPhone 15 Pro（A17 Pro） iPhone 15 Pro Max（A17 Pro） iPhone 16（A18） iPhone 16 Plus（A18） iPhone 16e（A18） iPhone 16 Pro（A18 Pro） iPhone 16 Pr…",
+          "detail": "【苹果 Apple 智能国行兼容设备公布，覆盖iPhone 15 Pro系列及以后】 iPhone 15 Pro（A17 Pro） iPhone 15 Pro Max（A17 Pro） iPhone 16（A18） iPhone 16 Plus（A18） iPhone 16e（A18） iPhone 16 Pro（A18 Pro） iPhone 16 Pr…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "auto-a89f115eb254",
           "title": "iPhone 芯片 / 性能相关消息",
           "originalTitle": "",
@@ -234,6 +254,29 @@ window.phoneRadarDaily = {
           ],
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-9d09bacb17db",
+          "title": "破与立：设计视角下的 iPhone Duo",
+          "originalTitle": "",
+          "source": "少数派热榜",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-10-31",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/116979",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "破与立：设计视角下的 iPhone Duo",
+          "detail": "破与立：设计视角下的 iPhone Duo",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
@@ -273,6 +316,29 @@ window.phoneRadarDaily = {
       "title": "行业趋势",
       "hint": "看方向，不急着当购买依据。",
       "items": [
+        {
+          "id": "newsnow-013877be3585",
+          "title": "最近天天在酷安研究买手机怎么样才能少花钱，今天突然悟了，我一个月挣这么多钱，每天花这么多时间，就为了少个两三百块，这不是给自己找罪受吗[流泪]去饭馆少搓两顿，不就把钱省回来了吗#一加16# #荣耀Magic9ProMax#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-10-31",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/74727494",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "最近天天在酷安研究买手机怎么样才能少花钱，今天突然悟了，我一个月挣这么多钱，每天花这么多时间，就为了少个两三百块，这不是给自己找罪受吗[流泪]去饭馆少搓两顿，不就把钱省回来了吗#一加16# #荣耀Magic9ProMax#",
+          "detail": "最近天天在酷安研究买手机怎么样才能少花钱，今天突然悟了，我一个月挣这么多钱，每天花这么多时间，就为了少个两三百块，这不是给自己找罪受吗[流泪]去饭馆少搓两顿，不就把钱省回来了吗#一加16# #荣耀Magic9ProMax#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
         {
           "id": "coolapk-user-004b8d79b86c",
           "title": "JSCHEN小小狐：博主汇总四大「性能旗舰」系列累计激活量",
@@ -318,6 +384,30 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-b445c3e55c65",
+          "title": "Xiaomi 电池 / 充电相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-31",
+          "time": "04:18",
+          "publishedAt": "2026-10-31T04:18:39.000Z",
+          "url": "https://www.gizmochina.com/2026/10/31/redmi-k100-on-first-sale-today-with-10000mah-battery/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Redmi-K100-2-300x168.png?x54692",
+          "verdict": "可略过",
+          "takeaway": "Xiaomi 电池 / 充电相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Xiaomi 电池 / 充电相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "电池 / 充电",
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     }

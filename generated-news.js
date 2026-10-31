@@ -1,9 +1,169 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-31T05:38:21.747Z",
+  "updatedAt": "2026-10-31T12:25:36.367Z",
   "news": [
     {
+      "id": "auto-31976f65ebd8",
+      "title": "Both T-Mobile and Verizon want to give you a free Galaxy S26 FE — but which deal is best?",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-31",
+      "time": "11:35",
+      "publishedAt": "2026-10-31T11:35:10.000Z",
+      "url": "https://www.androidpolice.com/samsung-galaxy-s26-fe-deal-verizon-or-t-mobile-which-offer-is-best/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/09/samsung-galaxy-s26-fe-duo.jpg",
+      "summary": "The Big Three carriers battle it out.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-20de25139c1d",
+      "title": "网友分享苹果 iPhone Duo 小技巧：录入食指第二指节指纹，拿起手机即自然解锁",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-31",
+      "time": "09:01",
+      "publishedAt": "2026-10-31T09:01:45.000Z",
+      "url": "https://www.ithome.com/1/020/540.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/2325ed95-fbd8-400c-90da-b1ef071eebfe.jpg",
+      "summary": "IT之家 10 月 31 日消息，只要思想不滑坡，办法总比困难多。由于有人吐槽 Touch ID 不方便，Reddit 网友 @Wrznlmw 上周分享了一个关于苹果 iPhone Duo 的小技巧。 据 MacRumors 报道，在录入指纹时，用户可以将食指靠近第二指节的纹理录入系统，而非默认的指尖或指腹。这样一来，当你拿起手机时，手指关节自然接触侧边电…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-bf6d6a5a1190",
+      "title": "消息称某厂子系阔直板 2027 见 ，预计为小米 REDMI 旗下",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-31",
+      "time": "08:10",
+      "publishedAt": "2026-10-31T08:10:01.000Z",
+      "url": "https://www.ithome.com/1/020/507.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/e50d96f7-6b4b-43f6-8b29-473cb8894846.png",
+      "summary": "IT之家 10 月 31 日消息，据博主 @数码闲聊站 今日爆料，某厂子系阔直板确定评估中，2027 年见。据评论区网友推测，该机预计为小米 REDMI 旗下。 据IT之家此前援引博主消息 ，安卓阵营的阔直板手机，O（预计指 OPPO）大概率第一个上，h（预计指荣耀）第二个上，剩下几家进度较缓慢。目前立项阶段有影像阔直板手机、中端阔直板手机、性能阔直板手机…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e3b3f692cdfc",
+      "title": "消息称 2027 年华为、小米、苹果阔折叠大概率正常迭代，OPPO、荣耀上新",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-31",
+      "time": "07:11",
+      "publishedAt": "2026-10-31T07:11:42.000Z",
+      "url": "https://www.ithome.com/1/020/486.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/f111b0eb-4589-405e-939b-40edf3c523f4.png",
+      "summary": "IT之家 10 月 31 日消息，博主 @数码闲聊站 今日曝光 2027 阔折叠阵容，据称华为、小米、苹果大概率正常迭代，OPPO、荣耀上新，vivo 待定。 IT之家注意到， 行业首款横向阔折叠手机 —— 华为 Pura X Max 今年 4 月 20 日发布，全系搭载麒麟 9030 Pro 旗舰处理器，售价 10999 元起。在今年 9 月 7 日的华…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1fe67ef9dcfd",
+      "title": "OnePlus may not launch new compact phones in the future",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-31",
+      "time": "07:04",
+      "publishedAt": "2026-10-31T07:04:34.000Z",
+      "url": "https://www.gizmochina.com/2026/10/31/oneplus-may-not-launch-new-compact-phones-in-the-future/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/OnePlus-15T-300x200.png?x54692",
+      "summary": "Tipster Digital Chat Station says OnePlus does not plan to update its small-screen phone for now. That means a successor to the OnePlus 15T is not coming soon. The tipster shared…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-0757314af5d6",
+      "title": "竹本青：曝2027年阔折叠新机扎堆：华为/小米/苹果迭代，OPPO/荣耀上新",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-31",
+      "time": "06:55",
+      "publishedAt": "2026-10-31T06:55:26.000Z",
+      "url": "https://www.coolapk.com/feed/74749946",
+      "image": "http://image.coolapk.com/feed/2026/1031/14/4248714_748964bb_9723_6608_467@1272x337.jpg",
+      "summary": "【曝2027年阔折叠新机扎堆：华为/小米/苹果迭代，OPPO/荣耀上新】 10月31日，博主数码闲聊站发文称，2027年阔折叠新机“含量也很高”：华为、小米、苹果大概率正常迭代，OPPO、荣耀将上新，vivo则处于待定区。 —————————————————— 2026年已有三家完成阔折叠机型发布： 1. 华为Pura X Max，4月20日正式发布，起售…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-ee8bae16837e",
+      "title": "竹本青：苹果 Apple 智能国行兼容设备公布，覆盖iPhone 15 Pro系列及以后机型",
+      "source": "竹本青",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-31",
+      "time": "06:04",
+      "publishedAt": "2026-10-31T06:04:44.000Z",
+      "url": "https://www.coolapk.com/feed/74748780",
+      "image": "http://image.coolapk.com/feed/2026/1031/14/4248714_0668ea6b_6682_7327_819@2136x1947.jpg",
+      "summary": "【苹果 Apple 智能国行兼容设备公布，覆盖iPhone 15 Pro系列及以后】 iPhone 15 Pro（A17 Pro） iPhone 15 Pro Max（A17 Pro） iPhone 16（A18） iPhone 16 Plus（A18） iPhone 16e（A18） iPhone 16 Pro（A18 Pro） iPhone 16 Pr…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-7cae7d2abb90",
+      "title": "iPhone 18 Pro Sales Surge in China, Offsetting Decline in U.S. and Japan",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-31",
+      "time": "05:55",
+      "publishedAt": "2026-10-31T05:55:35.000Z",
+      "url": "https://www.macrumors.com/2026/10/31/iphone-18-pro-sales-surge-in-china/",
+      "image": "https://images.macrumors.com/article-new/2026/10/iPhone-18-Pro-Pre-Orders-Feature-Sans-Text.jpg",
+      "summary": "China is doing much of the heavy lifting for Apple's iPhone 18 Pro launch, with a 29% sales increase helping offset declines in the U.S. and Japan, according to Counterpoint Resea…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "coolapk-user-a089010cbc6f",
-      "title": "竹本青：【博主称 REDMI 阔直板手机评估中，预计明年登场】 10月31日，博主数码闲聊站发文称，小米子系（REDMI）…",
+      "title": "竹本青：博主称REDMI阔直板手机评估中，预计明年登场",
       "source": "竹本青",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
@@ -62,28 +222,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-9da3a40e1144",
-      "title": "无需安装：微软 Win11 预览版搜索联动安卓，直接串流操作手机应用",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-31",
-      "time": "02:52",
-      "publishedAt": "2026-10-31T02:52:31.000Z",
-      "url": "https://www.ithome.com/1/020/442.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/ea54e514-987f-4a83-9df3-4a17239562a9.png",
-      "summary": "IT之家 10 月 31 日消息，科技媒体 Windows Latest 今天（10 月 31 日）发布博文，报道称 在 Windows 11 Build 26340.9843 等 Experimental 频道预览版中 ，微软正在测试 Windows Subsystem for Android 轻量替代方案。 IT之家注：Windows Subsyste…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-64490fb18fd6",
-      "title": "JSCHEN小小狐：『曝华为 nova 系列评估双 2 亿：1/1.3\" + 1/1.4\"』 ◇ 主摄｜200MP 1/1.3\" 超大…",
+      "title": "JSCHEN小小狐：曝华为 nova 系列评估双 2 亿：1/1.3\" + 1/1.4\"",
       "source": "JSCHEN小小狐",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
@@ -122,46 +262,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-704e8b5c73bd",
-      "title": "消息称一加小屏手机暂定不迭代，现款 15T 搭载第五代骁龙 8 至尊版处理器",
-      "source": "IT之家",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-31",
-      "time": "02:03",
-      "publishedAt": "2026-10-31T02:03:03.000Z",
-      "url": "https://www.ithome.com/1/020/434.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/ce7d41b8-9150-4e72-925e-f480fe61db9a.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 31 日消息，博主 @数码闲聊站 今日透露，加加（一加）小屏暂定不迭代了。博主称可以许愿后面上阔屏。 IT之家注意到，目前一加在售的最新款小屏手机为一加 15T，该机于 3 月 24 日发布，号称“一部专为小屏党打造的 Dream Phone”。 一加 15T 搭载第五代骁龙 8 至尊版处理器 + 7500mAh 电池，发布时的官方零售…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-425d7355ea7d",
-      "title": "竹本青：【取消数字T系列｜博主称一加小屏机暂定不迭代，后续或转上阔屏】 10月31日，博主数码闲聊站发文称，一加小屏机型暂…",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-31",
-      "time": "01:53",
-      "publishedAt": "2026-10-31T01:53:24.000Z",
-      "url": "https://www.coolapk.com/feed/74742466",
-      "image": "http://image.coolapk.com/feed/2026/1031/10/4248714_0f971ab8_2585_6726_54@3236x2563.jpg",
-      "summary": "【取消数字T系列｜博主称一加小屏机暂定不迭代，后续或转上阔屏】 10月31日，博主数码闲聊站发文称，一加小屏机型暂定不再迭代，并称暗示后续或将以阔直板新机取代小屏产品线。 一加现款小屏旗舰 15T 于今年3月发布，配备6.32英寸1.5K直屏，搭载骁龙8E5处理器与7500mAh电池，首发价4299元。此前有媒体报道称，该机首销表现不及上一代50%。 另据…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-cee71cdf7fb1",
       "title": "Samsung mercilessly mocks iPhone Duo ‘crackgate’ in Galaxy Z Fold 8 ads [Video]",
       "source": "9to5Google",
@@ -177,66 +277,6 @@ window.phoneRadarAuto = {
       "summary": "Samsung isn’t holding back when it comes to the iPhone Duo’s messy start. In new ads, the company mocks iPhone Duo’s “crackgate” with a push for customers to buy the Galaxy Z Fold…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-00dbf78f5186",
-      "title": "JSCHEN小小狐：『消息称一加小屏机暂停迭代 / 或由阔直板取代』 知名数码博主 数码闲聊站 今日爆料称，一加小屏手机产品线将暂停迭…",
-      "source": "JSCHEN小小狐",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-31",
-      "time": "01:18",
-      "publishedAt": "2026-10-31T01:18:42.000Z",
-      "url": "https://www.coolapk.com/feed/74741706",
-      "image": "http://image.coolapk.com/feed/2026/1031/09/4702274_0d02c843_9521_5087_626@1440x350.jpg",
-      "summary": "『消息称一加小屏机暂停迭代 / 或由阔直板取代』 知名数码博主 数码闲聊站 今日爆料称，一加小屏手机产品线将暂停迭代，此前该产品线曾推出一加 13T、15T 两款产品。此外他还表示，一加未来也有概率推出自己的阔直板产品。 据悉，一加 15T 于 2026 年 3 月 24 日发布，搭载第五代骁龙 8 至尊版，LPDDR5X 10667Mbps 内存，6.3…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-9a65b1708237",
-      "title": "三星再度调侃苹果首款折叠 iPhone Duo：折叠屏我们有丰富经验",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-31",
-      "time": "01:06",
-      "publishedAt": "2026-10-31T01:06:50.000Z",
-      "url": "https://www.ithome.com/1/020/417.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/c4d8333f-8418-4108-a95c-c20ea2781071.jpg?x-bce-process=image/rotate,a_90",
-      "summary": "IT之家 10 月 31 日消息，三星本周发布密集广告攻势，继续调侃苹果首款折叠 iPhone Duo。 通过切片青苹果来凸显 Galaxy Z Fold8 更轻更薄外 ， 三星今天再次发布图片，调侃 iPhone Duo 的屏幕问题。 IT之家此前报道，在这段宣传视频中，一颗青苹果被切片，其中居中的切片不断向前滚动，展示了从 2019 年初代 Galax…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-3a1056c5afd9",
-      "title": "华为畅享 100 系列手机首销：麒麟 8000S / 8020A / 8020 处理器，1399 元起",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-31",
-      "time": "00:51",
-      "publishedAt": "2026-10-31T00:51:37.000Z",
-      "url": "https://www.ithome.com/1/020/414.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/bfcdadc8-4a34-403b-a1f7-3fdfcf42dac1.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 10 月 31 日消息，华为畅享 100 系列手机将于今日 10:08 首销，售价 1399 元起。 华为畅享 100 128GB 版 1399 元 256GB 版 1699 元 华为畅享 100 Pro 128GB 版 1799 元 256GB 版 2199 元 512GB 版 2699 元 华为畅享 100 Pro Max 128GB 版 1…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
@@ -342,21 +382,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-7bd2e14af82e",
-      "title": "大家有没有仔细观察你周围的人是怎么用折叠屏的，就我的观察，几乎清一色都是用外屏，不管走路，还是在餐馆直接这些能坐下来的地方，我真的从来没见过人在公共场合展开用内屏，貌似就我是个另类，我只要用折叠屏必然展开用内屏，在任何地方都必须大屏，所以大家都是怎么用折叠屏的？",
+      "id": "newsnow-013877be3585",
+      "title": "最近天天在酷安研究买手机怎么样才能少花钱，今天突然悟了，我一个月挣这么多钱，每天花这么多时间，就为了少个两三百块，这不是给自己找罪受吗[流泪]去饭馆少搓两顿，不就把钱省回来了吗#一加16# #荣耀Magic9ProMax#",
       "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-10-31",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74710652",
+      "url": "https://www.coolapk.com/feed/74727494",
       "image": "",
-      "summary": "大家有没有仔细观察你周围的人是怎么用折叠屏的，就我的观察，几乎清一色都是用外屏，不管走路，还是在餐馆直接这些能坐下来的地方，我真的从来没见过人在公共场合展开用内屏，貌似就我是个另类，我只要用折叠屏必然展开用内屏，在任何地方都必须大屏，所以大家都是怎么用折叠屏的？",
+      "summary": "最近天天在酷安研究买手机怎么样才能少花钱，今天突然悟了，我一个月挣这么多钱，每天花这么多时间，就为了少个两三百块，这不是给自己找罪受吗[流泪]去饭馆少搓两顿，不就把钱省回来了吗#一加16# #荣耀Magic9ProMax#",
       "tags": [
-        "行业",
+        "HONOR",
         "爆料",
         "NewsNow"
       ]
@@ -495,26 +535,6 @@ window.phoneRadarAuto = {
       "url": "https://www.macrumors.com/2026/10/30/samsung-iphone-duo-display-campaign/",
       "image": "https://images.macrumors.com/article-new/2026/10/samsung-canada-iphone-duo-ad.jpg",
       "summary": "Samsung this week launched an advertising campaign mocking the display issues some people have had with the iPhone Duo . In an Instagram post on its Canadian account, Samsung shar…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-7025bcaea719",
-      "title": "Samsung Galaxy S27 is reportedly sticking with 25W charging speed yet again",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-30",
-      "time": "17:07",
-      "publishedAt": "2026-10-30T17:07:18.000Z",
-      "url": "https://www.androidpolice.com/samsung-galaxy-s27-reportedly-sticking-with-25w-charging-speed-again/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/08/galaxy-s26-fe-blueberry-back.JPG",
-      "summary": "Is 25W still fast in 2027?",
       "tags": [
         "Samsung",
         "爆料",
@@ -782,26 +802,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-5ad515008f9d",
-      "title": "Where Did All the iPhone Duos Go? Mostly to Apple's Stores",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-30",
-      "time": "10:10",
-      "publishedAt": "2026-10-30T10:10:09.000Z",
-      "url": "https://www.macrumors.com/2026/10/30/apple-stores-as-few-as-50-iphone-duo-units/",
-      "image": "https://images.macrumors.com/article-new/2026/09/iphone-duo-colors.jpg",
-      "summary": "Apple allocated roughly 80% of its initial iPhone Duo inventory to its retail stores, with locations holding as few as 50 units each, according to Bloomberg 's Mark Gurman. Speaki…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-7db52b3374c7",
       "title": "iPhone Duo’s cracking screens are already scaring off would-be buyers, survey finds",
       "source": "Android Authority",
@@ -939,26 +939,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-d6a2810f4584",
-      "title": "Galaxy S27 charging speed may disappoint you",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-30",
-      "time": "07:02",
-      "publishedAt": "2026-10-30T07:02:43.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s27-charging-speed-may-disappoint-you/",
-      "image": "",
-      "summary": "After offering 45W charging on its Galaxy S Ultra phones for six generations, Samsung finally upgraded the figure to 60W with the Galaxy S26 Ultra. However, charging speeds on the…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
