@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-10-31T18:32:59.178Z",
+  "updatedAt": "2026-10-31T23:22:42.465Z",
   "issueDate": "2026-10-31",
   "issue": "VOL.261031",
   "title": "手机情报日报",
-  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
     "total": 18,
-    "iphone": 7,
+    "iphone": 8,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -279,6 +279,29 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-b9fed2b6caae",
+          "title": "iPhoneDuo 国行版",
+          "originalTitle": "",
+          "source": "微博热搜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "待验证",
+          "date": "2026-10-31",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://s.weibo.com/weibo?q=iPhoneDuo%20%E5%9B%BD%E8%A1%8C%E7%89%88&t=31&band_rank=26&Refer=top",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "iPhoneDuo 国行版",
+          "detail": "iPhoneDuo 国行版",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -387,8 +410,8 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-5f3534084c09",
-          "title": "好久没来酷安发帖了，实在对不住一直关注我的各位酷友。最近对手机市场提不起兴趣，慢慢淡出手机圈；反倒泡在车圈，认识不少车友，踩过不少实打实的坑，攒了一堆实战经验，整理出来一份二手电车选购+整备攻略，给打算入手二手车、二手电车的朋友做个参考。",
+          "id": "newsnow-86e2bc8505d2",
+          "title": "米果手机 17 Ultra 徕卡版 诞生～[受虐滑稽]",
           "originalTitle": "",
           "source": "酷安热榜",
           "brand": "行业",
@@ -397,11 +420,11 @@ window.phoneRadarDaily = {
           "date": "2026-10-31",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/74683270",
+          "url": "https://www.coolapk.com/feed/74759233",
           "image": "",
           "verdict": "扫一眼",
-          "takeaway": "好久没来酷安发帖了，实在对不住一直关注我的各位酷友。最近对手机市场提不起兴趣，慢慢淡出手机圈；反倒泡在车圈，认识不少车友，踩过不少实打实的坑，攒了一堆实战经验，整理出来一份二手电车选购+整备攻略，给打算入手二手车、二手电车的朋友做个参考。",
-          "detail": "好久没来酷安发帖了，实在对不住一直关注我的各位酷友。最近对手机市场提不起兴趣，慢慢淡出手机圈；反倒泡在车圈，认识不少车友，踩过不少实打实的坑，攒了一堆实战经验，整理出来一份二手电车选购+整备攻略，给打算入手二手车、二手电车的朋友做个参考。",
+          "takeaway": "米果手机 17 Ultra 徕卡版 诞生～[受虐滑稽]",
+          "detail": "米果手机 17 Ultra 徕卡版 诞生～[受虐滑稽]",
           "keyPoints": [
             "爆料"
           ],
@@ -432,30 +455,6 @@ window.phoneRadarDaily = {
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响拍照体验，买旗舰机时值得关注。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "auto-b445c3e55c65",
-          "title": "Xiaomi 电池 / 充电相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-31",
-          "time": "04:18",
-          "publishedAt": "2026-10-31T04:18:39.000Z",
-          "url": "https://www.gizmochina.com/2026/10/31/redmi-k100-on-first-sale-today-with-10000mah-battery/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Redmi-K100-2-300x168.png?x54692",
-          "verdict": "可略过",
-          "takeaway": "Xiaomi 电池 / 充电相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Xiaomi 电池 / 充电相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "电池 / 充电",
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]

@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-31T18:32:59.178Z",
+  "updatedAt": "2026-10-31T23:22:42.465Z",
   "news": [
+    {
+      "id": "auto-9b80524ca82f",
+      "title": "金标联盟发布 SharedView Kit 一镜到底 / 无缝动画，荣耀、OPPO、vivo、小米联合推动",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-31",
+      "time": "22:56",
+      "publishedAt": "2026-10-31T22:56:41.000Z",
+      "url": "https://www.ithome.com/1/020/634.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/b83c5424-5aa2-443d-ab0c-c3a934e4c44f.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 11 月 1 日消息，2026 年 10 月，金标联盟（ITGSA）正式发布 SharedView Kit「一镜到底 / 无缝动画」。 荣耀、OPPO、vivo、小米四家头部手机厂商联合推动该 Kit 落地 。 据介绍，所谓「一镜到底 / 无缝动画」，在手机上，它指的是 从列表点开内容、看完再返回的这一段过渡 ：页面从点击处自然展开，返回时又精准…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-01d06ddadcae",
       "title": "Redmi K80 Pro vs OnePlus Ace 7 Pro: Is the Newer Flagship Worth the Extra Money?",
@@ -362,6 +382,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-86e2bc8505d2",
+      "title": "米果手机 17 Ultra 徕卡版 诞生～[受虐滑稽]",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-31",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74759233",
+      "image": "",
+      "summary": "米果手机 17 Ultra 徕卡版 诞生～[受虐滑稽]",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-013877be3585",
       "title": "最近天天在酷安研究买手机怎么样才能少花钱，今天突然悟了，我一个月挣这么多钱，每天花这么多时间，就为了少个两三百块，这不是给自己找罪受吗[流泪]去饭馆少搓两顿，不就把钱省回来了吗#一加16# #荣耀Magic9ProMax#",
       "source": "酷安热榜",
@@ -382,21 +422,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-5f3534084c09",
-      "title": "好久没来酷安发帖了，实在对不住一直关注我的各位酷友。最近对手机市场提不起兴趣，慢慢淡出手机圈；反倒泡在车圈，认识不少车友，踩过不少实打实的坑，攒了一堆实战经验，整理出来一份二手电车选购+整备攻略，给打算入手二手车、二手电车的朋友做个参考。",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "id": "newsnow-b9fed2b6caae",
+      "title": "iPhoneDuo 国行版",
+      "source": "微博热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
-      "trust": "高关注爆料源",
+      "trust": "待验证",
       "date": "2026-10-31",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74683270",
+      "url": "https://s.weibo.com/weibo?q=iPhoneDuo%20%E5%9B%BD%E8%A1%8C%E7%89%88&t=31&band_rank=26&Refer=top",
       "image": "",
-      "summary": "好久没来酷安发帖了，实在对不住一直关注我的各位酷友。最近对手机市场提不起兴趣，慢慢淡出手机圈；反倒泡在车圈，认识不少车友，踩过不少实打实的坑，攒了一堆实战经验，整理出来一份二手电车选购+整备攻略，给打算入手二手车、二手电车的朋友做个参考。",
+      "summary": "iPhoneDuo 国行版",
       "tags": [
-        "行业",
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
