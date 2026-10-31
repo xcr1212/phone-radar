@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-10-31T12:25:36.367Z",
+  "updatedAt": "2026-10-31T18:32:59.178Z",
   "news": [
+    {
+      "id": "auto-01d06ddadcae",
+      "title": "Redmi K80 Pro vs OnePlus Ace 7 Pro: Is the Newer Flagship Worth the Extra Money?",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-31",
+      "time": "17:20",
+      "publishedAt": "2026-10-31T17:20:38.000Z",
+      "url": "https://www.gizmochina.com/2026/10/31/redmi-k80-pro-vs-oneplus-ace-7-pro/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/image-104-300x161.png?x54692",
+      "summary": "Redmi K80 Pro and OnePlus Ace 7 Pro present an interesting comparison between an older flagship and a much newer performance-focused smartphone. Launched in November 2024, the Red…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c022a2b5f9f0",
+      "title": "RedMagic 12 Pro+ vs OnePlus 16: Dedicated Gaming Fan vs 200MP Camera",
+      "source": "Gizmochina",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-31",
+      "time": "14:48",
+      "publishedAt": "2026-10-31T14:48:58.000Z",
+      "url": "https://www.gizmochina.com/2026/10/31/redmagic-12-pro-plus-vs-oneplus-16/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/image-103-300x160.png?x54692",
+      "summary": "RedMagic 12 Pro+ and OnePlus 16 target premium smartphone buyers, but their priorities are noticeably different. Both feature Qualcomm’s latest flagship chipset, high-refresh-rate…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-8e1b3ea9ffed",
+      "title": "竹本青：【OPPO Reno17系列 官方爆料：首发6秒“全焦段 4K超清长实况”】 10月31日，OPPO Reno系列…",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-10-31",
+      "time": "14:29",
+      "publishedAt": "2026-10-31T14:29:42.000Z",
+      "url": "https://www.coolapk.com/feed/74760652",
+      "image": "http://image.coolapk.com/feed/2026/1031/22/4248714_c6328c73_6979_5714_166-livepic@1282x2280.jpg",
+      "summary": "【OPPO Reno17系列 官方爆料：首发6秒“全焦段 4K超清长实况”】 10月31日，OPPO Reno系列产品经理张若星分享Reno17系列全新样张，并宣布新机将搭载“全焦段 4K超清长实况”，实况拍摄时长由原先3秒延长至6秒。 据介绍，6秒时长刚好可以记录一句歌词，能够完整捕捉舞台高光瞬间，也可记录生活场景，并且保证每一帧画面清晰。该功能已由宋雨…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-a2ffba3af650",
+      "title": "曝折叠屏手机明后年分化为大折、阔折两大主流形态，部分厂商双线同步迭代",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-10-31",
+      "time": "12:38",
+      "publishedAt": "2026-10-31T12:38:23.000Z",
+      "url": "https://www.ithome.com/1/020/600.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/746681f3-add6-4ff9-8657-57fa90e5dd7a.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 10 月 31 日消息，长期关注国内手机市场份额的数码博主 @RD观测 今天（31 日）晚间在微博发文判断，2027-2028 年，折叠屏手机会 分化为两大主流形态 ：比例为 1:1 的方正大折叠和 4:3 的阔折叠，而部分厂商会双线同步迭代。 1:1 方正大折叠：内部空间充足，电池、散热、影像等更有机会堆料；办公、 多窗口生产力 有一定优势 4…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-31976f65ebd8",
       "title": "Both T-Mobile and Verizon want to give you a free Galaxy S26 FE — but which deal is best?",
@@ -17,66 +97,6 @@ window.phoneRadarAuto = {
       "summary": "The Big Three carriers battle it out.",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-20de25139c1d",
-      "title": "网友分享苹果 iPhone Duo 小技巧：录入食指第二指节指纹，拿起手机即自然解锁",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-31",
-      "time": "09:01",
-      "publishedAt": "2026-10-31T09:01:45.000Z",
-      "url": "https://www.ithome.com/1/020/540.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/2325ed95-fbd8-400c-90da-b1ef071eebfe.jpg",
-      "summary": "IT之家 10 月 31 日消息，只要思想不滑坡，办法总比困难多。由于有人吐槽 Touch ID 不方便，Reddit 网友 @Wrznlmw 上周分享了一个关于苹果 iPhone Duo 的小技巧。 据 MacRumors 报道，在录入指纹时，用户可以将食指靠近第二指节的纹理录入系统，而非默认的指尖或指腹。这样一来，当你拿起手机时，手指关节自然接触侧边电…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-bf6d6a5a1190",
-      "title": "消息称某厂子系阔直板 2027 见 ，预计为小米 REDMI 旗下",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-31",
-      "time": "08:10",
-      "publishedAt": "2026-10-31T08:10:01.000Z",
-      "url": "https://www.ithome.com/1/020/507.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/e50d96f7-6b4b-43f6-8b29-473cb8894846.png",
-      "summary": "IT之家 10 月 31 日消息，据博主 @数码闲聊站 今日爆料，某厂子系阔直板确定评估中，2027 年见。据评论区网友推测，该机预计为小米 REDMI 旗下。 据IT之家此前援引博主消息 ，安卓阵营的阔直板手机，O（预计指 OPPO）大概率第一个上，h（预计指荣耀）第二个上，剩下几家进度较缓慢。目前立项阶段有影像阔直板手机、中端阔直板手机、性能阔直板手机…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e3b3f692cdfc",
-      "title": "消息称 2027 年华为、小米、苹果阔折叠大概率正常迭代，OPPO、荣耀上新",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-31",
-      "time": "07:11",
-      "publishedAt": "2026-10-31T07:11:42.000Z",
-      "url": "https://www.ithome.com/1/020/486.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/f111b0eb-4589-405e-939b-40edf3c523f4.png",
-      "summary": "IT之家 10 月 31 日消息，博主 @数码闲聊站 今日曝光 2027 阔折叠阵容，据称华为、小米、苹果大概率正常迭代，OPPO、荣耀上新，vivo 待定。 IT之家注意到， 行业首款横向阔折叠手机 —— 华为 Pura X Max 今年 4 月 20 日发布，全系搭载麒麟 9030 Pro 旗舰处理器，售价 10999 元起。在今年 9 月 7 日的华…",
-      "tags": [
-        "HONOR",
         "爆料",
         "自动抓取"
       ]
@@ -159,26 +179,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-a089010cbc6f",
-      "title": "竹本青：博主称REDMI阔直板手机评估中，预计明年登场",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-10-31",
-      "time": "04:39",
-      "publishedAt": "2026-10-31T04:39:20.000Z",
-      "url": "https://www.coolapk.com/feed/74746868",
-      "image": "http://image.coolapk.com/feed/2026/1031/12/4248714_96a842ac_1559_8735_97@1439x964.jpg",
-      "summary": "【博主称 REDMI 阔直板手机评估中，预计明年登场】 10月31日，博主数码闲聊站发文称，小米子系（REDMI）的阔直板新机已确定进入评估阶段，预计于2027年正式登场。 该博主此前爆料显示，2027年国产TOP5厂商均将推出阔直板新机，目前已全部立项完成并处于加速测试中。 ————————————————— 今年8月，华为推出全球首款阔直板Pura X…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -362,6 +362,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-013877be3585",
+      "title": "最近天天在酷安研究买手机怎么样才能少花钱，今天突然悟了，我一个月挣这么多钱，每天花这么多时间，就为了少个两三百块，这不是给自己找罪受吗[流泪]去饭馆少搓两顿，不就把钱省回来了吗#一加16# #荣耀Magic9ProMax#",
+      "source": "酷安热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-10-31",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74727494",
+      "image": "",
+      "summary": "最近天天在酷安研究买手机怎么样才能少花钱，今天突然悟了，我一个月挣这么多钱，每天花这么多时间，就为了少个两三百块，这不是给自己找罪受吗[流泪]去饭馆少搓两顿，不就把钱省回来了吗#一加16# #荣耀Magic9ProMax#",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-5f3534084c09",
       "title": "好久没来酷安发帖了，实在对不住一直关注我的各位酷友。最近对手机市场提不起兴趣，慢慢淡出手机圈；反倒泡在车圈，认识不少车友，踩过不少实打实的坑，攒了一堆实战经验，整理出来一份二手电车选购+整备攻略，给打算入手二手车、二手电车的朋友做个参考。",
       "source": "酷安热榜",
@@ -382,21 +402,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-013877be3585",
-      "title": "最近天天在酷安研究买手机怎么样才能少花钱，今天突然悟了，我一个月挣这么多钱，每天花这么多时间，就为了少个两三百块，这不是给自己找罪受吗[流泪]去饭馆少搓两顿，不就把钱省回来了吗#一加16# #荣耀Magic9ProMax#",
-      "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
+      "id": "newsnow-b3970dda0269",
+      "title": "女子被火车上铺手机砸伤获赔23000元",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
-      "trust": "高关注爆料源",
+      "trust": "媒体汇总",
       "date": "2026-10-31",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74727494",
+      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%81%AB%E8%BD%A6%E4%B8%8A%E9%93%BA%E6%89%8B%E6%9C%BA%E7%A0%B8%E4%BC%A4%E8%8E%B7%E8%B5%9423000%E5%85%83",
       "image": "",
-      "summary": "最近天天在酷安研究买手机怎么样才能少花钱，今天突然悟了，我一个月挣这么多钱，每天花这么多时间，就为了少个两三百块，这不是给自己找罪受吗[流泪]去饭馆少搓两顿，不就把钱省回来了吗#一加16# #荣耀Magic9ProMax#",
+      "summary": "女子被火车上铺手机砸伤获赔23000元",
       "tags": [
-        "HONOR",
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -859,26 +879,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-9ee1ab825119",
-      "title": "Samsung may use this chip for Galaxy S27 Ultra in Europe",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-10-30",
-      "time": "08:18",
-      "publishedAt": "2026-10-30T08:18:13.000Z",
-      "url": "https://www.sammobile.com/news/samsung-may-use-this-chip-galaxy-s27-ultra-europe/",
-      "image": "",
-      "summary": "Ahead of every new Galaxy S series launch, rumors and reports often emerge about whether Samsung will use its in-house Exynos chipsets or Qualcomm’s Snapdragon processors. The upc…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
       ]
     },
     {

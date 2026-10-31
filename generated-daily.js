@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-10-31T12:25:36.367Z",
+  "updatedAt": "2026-10-31T18:32:59.178Z",
   "issueDate": "2026-10-31",
   "issue": "VOL.261031",
   "title": "手机情报日报",
-  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 16,
-    "iphone": 8,
+    "total": 18,
+    "iphone": 7,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -17,29 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-20de25139c1d",
-          "title": "网友分享苹果 iPhone Duo 小技巧：录入食指第二指节指纹，拿起手机即自然解锁",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-31",
-          "time": "09:01",
-          "publishedAt": "2026-10-31T09:01:45.000Z",
-          "url": "https://www.ithome.com/1/020/540.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/2325ed95-fbd8-400c-90da-b1ef071eebfe.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 10 月 31 日消息，只要思想不滑坡，办法总比困难多。由于有人吐槽 Touch ID 不方便，Reddit 网友 @Wrznlmw 上周分享了一个关于苹果 iPhone Duo 的小技巧。 据 MacRumors 报道，在录入指纹时，用户可以将食指靠近第二指节的纹理录入系统，而非默认的指尖或指腹。这样一来，当你拿起手机时，手指关节自然接触侧边电…",
-          "detail": "IT之家 10 月 31 日消息，只要思想不滑坡，办法总比困难多。由于有人吐槽 Touch ID 不方便，Reddit 网友 @Wrznlmw 上周分享了一个关于苹果 iPhone Duo 的小技巧。 据 MacRumors 报道，在录入指纹时，用户可以将食指靠近第二指节的纹理录入系统，而非默认的指尖或指腹。这样一来，当你拿起手机时，手指关节自然接触侧边电…",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "weibo-223904d6708b",
           "title": "数码闲聊站：iPhone Duo首周激活销量——12.5W± 统计周期为W43(10.19…",
@@ -134,26 +111,50 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-bf6d6a5a1190",
-          "title": "消息称某厂子系阔直板 2027 见 ，预计为小米 REDMI 旗下",
+          "id": "coolapk-user-8e1b3ea9ffed",
+          "title": "竹本青：【OPPO Reno17系列 官方爆料：首发6秒“全焦段 4K超清长实况”】 10月31日，OPPO Reno系列…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-10-31",
+          "time": "14:29",
+          "publishedAt": "2026-10-31T14:29:42.000Z",
+          "url": "https://www.coolapk.com/feed/74760652",
+          "image": "http://image.coolapk.com/feed/2026/1031/22/4248714_c6328c73_6979_5714_166-livepic@1282x2280.jpg",
+          "verdict": "先看",
+          "takeaway": "【OPPO Reno17系列 官方爆料：首发6秒“全焦段 4K超清长实况”】 10月31日，OPPO Reno系列产品经理张若星分享Reno17系列全新样张，并宣布新机将搭载“全焦段 4K超清长实况”，实况拍摄时长由原先3秒延长至6秒。 据介绍，6秒时长刚好可以记录一句歌词，能够完整捕捉舞台高光瞬间，也可记录生活场景，并且保证每一帧画面清晰。该功能已由宋雨…",
+          "detail": "【OPPO Reno17系列 官方爆料：首发6秒“全焦段 4K超清长实况”】 10月31日，OPPO Reno系列产品经理张若星分享Reno17系列全新样张，并宣布新机将搭载“全焦段 4K超清长实况”，实况拍摄时长由原先3秒延长至6秒。 据介绍，6秒时长刚好可以记录一句歌词，能够完整捕捉舞台高光瞬间，也可记录生活场景，并且保证每一帧画面清晰。该功能已由宋雨…",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-a2ffba3af650",
+          "title": "曝折叠屏手机明后年分化为大折、阔折两大主流形态，部分厂商双线同步迭代",
           "originalTitle": "",
           "source": "IT之家",
-          "brand": "HONOR",
+          "brand": "行业",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-10-31",
-          "time": "08:10",
-          "publishedAt": "2026-10-31T08:10:01.000Z",
-          "url": "https://www.ithome.com/1/020/507.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/e50d96f7-6b4b-43f6-8b29-473cb8894846.png",
+          "time": "12:38",
+          "publishedAt": "2026-10-31T12:38:23.000Z",
+          "url": "https://www.ithome.com/1/020/600.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/746681f3-add6-4ff9-8657-57fa90e5dd7a.jpg?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 10 月 31 日消息，据博主 @数码闲聊站 今日爆料，某厂子系阔直板确定评估中，2027 年见。据评论区网友推测，该机预计为小米 REDMI 旗下。 据IT之家此前援引博主消息 ，安卓阵营的阔直板手机，O（预计指 OPPO）大概率第一个上，h（预计指荣耀）第二个上，剩下几家进度较缓慢。目前立项阶段有影像阔直板手机、中端阔直板手机、性能阔直板手机…",
-          "detail": "IT之家 10 月 31 日消息，据博主 @数码闲聊站 今日爆料，某厂子系阔直板确定评估中，2027 年见。据评论区网友推测，该机预计为小米 REDMI 旗下。 据IT之家此前援引博主消息 ，安卓阵营的阔直板手机，O（预计指 OPPO）大概率第一个上，h（预计指荣耀）第二个上，剩下几家进度较缓慢。目前立项阶段有影像阔直板手机、中端阔直板手机、性能阔直板手机…",
+          "takeaway": "IT之家 10 月 31 日消息，长期关注国内手机市场份额的数码博主 @RD观测 今天（31 日）晚间在微博发文判断，2027-2028 年，折叠屏手机会 分化为两大主流形态 ：比例为 1:1 的方正大折叠和 4:3 的阔折叠，而部分厂商会双线同步迭代。 1:1 方正大折叠：内部空间充足，电池、散热、影像等更有机会堆料；办公、 多窗口生产力 有一定优势 4…",
+          "detail": "IT之家 10 月 31 日消息，长期关注国内手机市场份额的数码博主 @RD观测 今天（31 日）晚间在微博发文判断，2027-2028 年，折叠屏手机会 分化为两大主流形态 ：比例为 1:1 的方正大折叠和 4:3 的阔折叠，而部分厂商会双线同步迭代。 1:1 方正大折叠：内部空间充足，电池、散热、影像等更有机会堆料；办公、 多窗口生产力 有一定优势 4…",
           "keyPoints": [
             "影像硬件",
-            "爆料来源"
+            "屏幕形态",
+            "电池 / 充电"
           ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -181,25 +182,25 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "coolapk-user-a089010cbc6f",
-          "title": "竹本青：博主称REDMI阔直板手机评估中，预计明年登场",
+          "id": "coolapk-user-64490fb18fd6",
+          "title": "JSCHEN小小狐：曝华为 nova 系列评估双 2 亿：1/1.3\" + 1/1.4\"",
           "originalTitle": "",
-          "source": "竹本青",
+          "source": "JSCHEN小小狐",
           "brand": "Huawei",
           "type": "爆料",
           "trust": "高可信爆料",
           "date": "2026-10-31",
-          "time": "04:39",
-          "publishedAt": "2026-10-31T04:39:20.000Z",
-          "url": "https://www.coolapk.com/feed/74746868",
-          "image": "http://image.coolapk.com/feed/2026/1031/12/4248714_96a842ac_1559_8735_97@1439x964.jpg",
+          "time": "02:37",
+          "publishedAt": "2026-10-31T02:37:05.000Z",
+          "url": "https://www.coolapk.com/feed/74743651",
+          "image": "http://image.coolapk.com/feed/2026/1031/10/4702274_20941445_4224_2201_649@1440x779.jpg",
           "verdict": "先看",
-          "takeaway": "【博主称 REDMI 阔直板手机评估中，预计明年登场】 10月31日，博主数码闲聊站发文称，小米子系（REDMI）的阔直板新机已确定进入评估阶段，预计于2027年正式登场。 该博主此前爆料显示，2027年国产TOP5厂商均将推出阔直板新机，目前已全部立项完成并处于加速测试中。 ————————————————— 今年8月，华为推出全球首款阔直板Pura X…",
-          "detail": "【博主称 REDMI 阔直板手机评估中，预计明年登场】 10月31日，博主数码闲聊站发文称，小米子系（REDMI）的阔直板新机已确定进入评估阶段，预计于2027年正式登场。 该博主此前爆料显示，2027年国产TOP5厂商均将推出阔直板新机，目前已全部立项完成并处于加速测试中。 ————————————————— 今年8月，华为推出全球首款阔直板Pura X…",
+          "takeaway": "『曝华为 nova 系列评估双 2 亿：1/1.3\" + 1/1.4\"』 ◇ 主摄｜200MP 1/1.3\" 超大底 ◇ 长焦｜200MP 1/1.4\" 大底潜望 ◇ 上述方案预计将于 2027 年落地 此外该消息还表示，华为未放弃传统「外挂增距镜」影像方案，甚至对其“有普及计划”。 #今日热点# #华为nova17# #华为Nova16Ultra#",
+          "detail": "『曝华为 nova 系列评估双 2 亿：1/1.3\" + 1/1.4\"』 ◇ 主摄｜200MP 1/1.3\" 超大底 ◇ 长焦｜200MP 1/1.4\" 大底潜望 ◇ 上述方案预计将于 2027 年落地 此外该消息还表示，华为未放弃传统「外挂增距镜」影像方案，甚至对其“有普及计划”。 #今日热点# #华为nova17# #华为Nova16Ultra#",
           "keyPoints": [
-            "爆料来源"
+            "影像硬件"
           ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -308,6 +309,29 @@ window.phoneRadarDaily = {
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-01d06ddadcae",
+          "title": "Redmi K80 Pro 对比 OnePlus Ace 7 Pro：差异整理",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-31",
+          "time": "17:20",
+          "publishedAt": "2026-10-31T17:20:38.000Z",
+          "url": "https://www.gizmochina.com/2026/10/31/redmi-k80-pro-vs-oneplus-ace-7-pro/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/image-104-300x161.png?x54692",
+          "verdict": "可略过",
+          "takeaway": "Redmi K80 Pro 对比 OnePlus Ace 7 Pro：重点看定位、配置差异和价格差，判断是否值得等更高端型号。",
+          "detail": "Redmi K80 Pro 对比 OnePlus Ace 7 Pro 的差异整理。重点看两款机型的定位、影像规格、屏幕尺寸、价格区间和发布时间是否拉开差距。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -384,6 +408,31 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-c022a2b5f9f0",
+          "title": "HONOR 影像能力相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-10-31",
+          "time": "14:48",
+          "publishedAt": "2026-10-31T14:48:58.000Z",
+          "url": "https://www.gizmochina.com/2026/10/31/redmagic-12-pro-plus-vs-oneplus-16/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/image-103-300x160.png?x54692",
+          "verdict": "可略过",
+          "takeaway": "HONOR 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
+          "detail": "HONOR 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
+          "keyPoints": [
+            "影像硬件",
+            "屏幕形态",
+            "芯片 / 性能"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响拍照体验，买旗舰机时值得关注。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         },
         {
           "id": "auto-b445c3e55c65",
