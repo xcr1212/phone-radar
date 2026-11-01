@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-11-01T13:21:16.514Z",
+  "updatedAt": "2026-11-01T18:55:21.348Z",
   "news": [
+    {
+      "id": "auto-6263ccc643da",
+      "title": "OnePlus Turbo 6Vs launches with 144Hz OLED, 9,000mAh battery, Snapdragon 7s Gen 4",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-01",
+      "time": "18:09",
+      "publishedAt": "2026-11-01T18:09:33.000Z",
+      "url": "https://www.gizmochina.com/2026/11/01/oneplus-turbo-6vs-launches-144hz-oled-9000mah/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-1-300x169.jpg?x54692",
+      "summary": "OnePlus has quietly listed a new Turbo mid-ranger in China, the OnePlus Turbo 6Vs. The phone is already up on the brand’s China store with a Snapdragon 7s Gen 4 chipset, a 6.78-in…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-34b5932a8686",
+      "title": "Redmi M100 Pro launches with 1.5K OLED display, Dimensity 7300-Ultra, 50MP triple camera",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-01",
+      "time": "17:50",
+      "publishedAt": "2026-11-01T17:50:55.000Z",
+      "url": "https://www.gizmochina.com/2026/11/01/redmi-m100-pro-launches-dimensity-7300-ultra-1-5k-oled/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-300x169.jpg?x54692",
+      "summary": "A couple of months ago, Redmi unveiled its M-series phone, the Redmi M100, and now it is back with another model called the Redmi M100 Pro. The mid-ranger is already live on Xiaom…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5f049ede9a69",
+      "title": "Here’s how I’m solving the iPhone Duo kickstand problem, without any bulk",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-01",
+      "time": "16:29",
+      "publishedAt": "2026-11-01T16:29:42.000Z",
+      "url": "https://9to5mac.com/2026/11/01/heres-the-best-option-for-an-iphone-duo-kickstand/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/JPEG-image-3.jpeg?quality=82&strip=all&w=1600",
+      "summary": "If you’re like me and bought an iPhone Duo, you’re likely a bit disappointed by the options on the market to prop it up on a table. Apple’s official $129 folio with kickstand is e…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a17fd669e2a1",
+      "title": "Motorola is filling the gap OnePlus left behind, mostly",
+      "source": "9to5Google",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-01",
+      "time": "14:00",
+      "publishedAt": "2026-11-01T14:00:00.000Z",
+      "url": "https://9to5google.com/2026/11/01/motorola-oneplus-gap/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/motorola-signature-27-1_942c71.jpg?quality=82&strip=all&w=1600",
+      "summary": "As we near the launch of Motorola’s return to the flagship space, it’s becoming clear that the company is ready to fill a gap left by the departure of OnePlus, though there’s one…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-6ff20f8c955e",
       "title": "Galaxy S26 Ultra gets a $250 price cut on Amazon",
@@ -242,6 +322,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-6a7bcaa6c51f",
+      "title": "一日一技｜iPhone 恶意被锁，线上移除流程拆招",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-11-01",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/116686",
+      "image": "",
+      "summary": "一日一技｜iPhone 恶意被锁，线上移除流程拆招",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-1e245b5d12a9",
       "title": "破与立：设计视角下的 iPhone Duo",
       "source": "少数派热榜",
@@ -317,26 +417,6 @@ window.phoneRadarAuto = {
       "summary": "最近天天在酷安研究买手机怎么样才能少花钱，今天突然悟了，我一个月挣这么多钱，每天花这么多时间，就为了少个两三百块，这不是给自己找罪受吗[流泪]去饭馆少搓两顿，不就把钱省回来了吗#一加16# #荣耀Magic9ProMax#",
       "tags": [
         "HONOR",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-73571fc1edf6",
-      "title": "供应链视角看苹果折叠屏问题在哪",
-      "source": "B站热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-01",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://search.bilibili.com/all?keyword=%E4%BE%9B%E5%BA%94%E9%93%BE%E8%A7%86%E8%A7%92%E7%9C%8B%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8F%E9%97%AE%E9%A2%98%E5%9C%A8%E5%93%AA",
-      "image": "",
-      "summary": "供应链视角看苹果折叠屏问题在哪",
-      "tags": [
-        "iPhone",
         "爆料",
         "NewsNow"
       ]
