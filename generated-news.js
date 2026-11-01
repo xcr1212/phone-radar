@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-11-01T18:55:21.348Z",
+  "updatedAt": "2026-11-01T23:34:12.708Z",
   "news": [
+    {
+      "id": "auto-31344c5c5750",
+      "title": "Samsung is leaving my Galaxy S22+ behind; I'm taking the hint",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-01",
+      "time": "20:00",
+      "publishedAt": "2026-11-01T20:00:10.000Z",
+      "url": "https://www.androidpolice.com/samsung-leaving-galaxy-s22-behind/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/10/samsung-galaxy-s22-beside-a-security-warning-shield-with-an-exclamation-mark.png",
+      "summary": "Security holes don't care how much I love my phone",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-6263ccc643da",
       "title": "OnePlus Turbo 6Vs launches with 144Hz OLED, 9,000mAh battery, Snapdragon 7s Gen 4",
@@ -13,7 +33,7 @@ window.phoneRadarAuto = {
       "time": "18:09",
       "publishedAt": "2026-11-01T18:09:33.000Z",
       "url": "https://www.gizmochina.com/2026/11/01/oneplus-turbo-6vs-launches-144hz-oled-9000mah/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-1-300x169.jpg?x54692",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/OnePlus-Turbo-6Vs--300x151.png?x54692",
       "summary": "OnePlus has quietly listed a new Turbo mid-ranger in China, the OnePlus Turbo 6Vs. The phone is already up on the brand’s China store with a Snapdragon 7s Gen 4 chipset, a 6.78-in…",
       "tags": [
         "OPPO",
@@ -33,7 +53,7 @@ window.phoneRadarAuto = {
       "time": "17:50",
       "publishedAt": "2026-11-01T17:50:55.000Z",
       "url": "https://www.gizmochina.com/2026/11/01/redmi-m100-pro-launches-dimensity-7300-ultra-1-5k-oled/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-300x169.jpg?x54692",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/Redmi-M100-Pro--300x205.png?x54692",
       "summary": "A couple of months ago, Redmi unveiled its M-series phone, the Redmi M100, and now it is back with another model called the Redmi M100 Pro. The mid-ranger is already live on Xiaom…",
       "tags": [
         "Xiaomi",
@@ -197,26 +217,6 @@ window.phoneRadarAuto = {
       "summary": "IT之家 11 月 1 日消息，一加现已在其商城上架 Turbo 6Vs 手机，该机搭载第四代高通骁龙 7s 处理器，匹配 12GB RAM 和 256GB 存储空间，定价为 3699 元。 该机提供双色可选，整体厚度 8.5mm，正面配备一块 6.78 英寸 2772x1272 分辨率 144Hz AMOLED 面板（峰值亮度 800 尼特，激发亮度 1…",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0b34240a0380",
-      "title": "租的是手机拿到的是现金，央视起底“租机套现”风险",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-01",
-      "time": "08:28",
-      "publishedAt": "2026-11-01T08:28:46.000Z",
-      "url": "https://www.ithome.com/1/020/758.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/d0122bf8-f39b-4b93-94e6-20c300c29557.png?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11/format,f_auto",
-      "summary": "IT之家 11 月 1 日消息，一些看起来普通的电子设备租赁交易，却隐藏着一条变相放贷链条， 以“出租手机”为名，行“高息放贷”之实 ，央视新闻今日起底了“租机套现”隐藏的风险。 报道提到，去年 9 月，山东的张女士因资金周转不便，在网络平台浏览相关信息。一名中介通过私信主动联系到她，在提交芝麻信用分截图和年龄等基本信息后，对方告诉张女士：她的信用额度已被…",
-      "tags": [
-        "行业",
         "爆料",
         "自动抓取"
       ]
@@ -402,21 +402,81 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-944e66e3907b",
-      "title": "最近天天在酷安研究买手机怎么样才能少花钱，今天突然悟了，我一个月挣这么多钱，每天花这么多时间，就为了少个两三百块，这不是给自己找罪受吗[流泪]去饭馆少搓两顿，不就把钱省回来了吗#一加16# #荣耀Magic9ProMax#",
+      "id": "newsnow-43e1454bc924",
+      "title": "手机的流畅度和什么有关，大家一般一个手机用几年啊，五年前的手机，像骁龙8g2还能流畅使用当主力机吗？好像现在性能已经提升了一倍了吧，就是对比骁龙8g2，看看大家现在还在用什么手机，想看看你们手机坚持最久的人说一下如何，双持就算了，估计很难感觉到主力那种感觉#iPhone18ProMax# #REDMIK100ProMax#",
       "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-11-01",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74727494",
+      "url": "https://www.coolapk.com/feed/74749779",
       "image": "",
-      "summary": "最近天天在酷安研究买手机怎么样才能少花钱，今天突然悟了，我一个月挣这么多钱，每天花这么多时间，就为了少个两三百块，这不是给自己找罪受吗[流泪]去饭馆少搓两顿，不就把钱省回来了吗#一加16# #荣耀Magic9ProMax#",
+      "summary": "手机的流畅度和什么有关，大家一般一个手机用几年啊，五年前的手机，像骁龙8g2还能流畅使用当主力机吗？好像现在性能已经提升了一倍了吧，就是对比骁龙8g2，看看大家现在还在用什么手机，想看看你们手机坚持最久的人说一下如何，双持就算了，估计很难感觉到主力那种感觉#iPhone18ProMax# #REDMIK100ProMax#",
       "tags": [
-        "HONOR",
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-23caedaf0cb7",
+      "title": "被人当猴耍了，各位出鸿蒙系统二手机的注意点，别被人耍了[受虐滑稽]#鸿蒙6# #鸿蒙7#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-01",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74785860",
+      "image": "",
+      "summary": "被人当猴耍了，各位出鸿蒙系统二手机的注意点，别被人耍了[受虐滑稽]#鸿蒙6# #鸿蒙7#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-1212d1f6c9c6",
+      "title": "你的手机可能在监听你",
+      "source": "微博热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-11-01",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9A%84%E6%89%8B%E6%9C%BA%E5%8F%AF%E8%83%BD%E5%9C%A8%E7%9B%91%E5%90%AC%E4%BD%A0%23&t=31&band_rank=22&Refer=top",
+      "image": "",
+      "summary": "你的手机可能在监听你",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-73571fc1edf6",
+      "title": "供应链视角看苹果折叠屏问题在哪",
+      "source": "B站热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-01",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://search.bilibili.com/all?keyword=%E4%BE%9B%E5%BA%94%E9%93%BE%E8%A7%86%E8%A7%92%E7%9C%8B%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8F%E9%97%AE%E9%A2%98%E5%9C%A8%E5%93%AA",
+      "image": "",
+      "summary": "供应链视角看苹果折叠屏问题在哪",
+      "tags": [
+        "iPhone",
         "爆料",
         "NewsNow"
       ]

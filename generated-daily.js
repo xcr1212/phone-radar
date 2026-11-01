@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-11-01T18:55:21.348Z",
+  "updatedAt": "2026-11-01T23:34:12.708Z",
   "issueDate": "2026-11-01",
   "issue": "VOL.261101",
   "title": "手机情报日报",
-  "intro": "今日筛出 22 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 21 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 22,
-    "iphone": 6,
+    "total": 21,
+    "iphone": 7,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -35,6 +35,30 @@ window.phoneRadarDaily = {
           "detail": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
           "keyPoints": [
             "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-73571fc1edf6",
+          "title": "供应链视角看苹果折叠屏问题在哪",
+          "originalTitle": "",
+          "source": "B站热搜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-11-01",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BE%9B%E5%BA%94%E9%93%BE%E8%A7%86%E8%A7%92%E7%9C%8B%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8F%E9%97%AE%E9%A2%98%E5%9C%A8%E5%93%AA",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "供应链视角看苹果折叠屏问题在哪",
+          "detail": "供应链视角看苹果折叠屏问题在哪",
+          "keyPoints": [
+            "屏幕形态",
+            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -158,29 +182,6 @@ window.phoneRadarDaily = {
             "电池 / 充电"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-0b34240a0380",
-          "title": "租的是手机拿到的是现金，央视起底“租机套现”风险",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-11-01",
-          "time": "08:28",
-          "publishedAt": "2026-11-01T08:28:46.000Z",
-          "url": "https://www.ithome.com/1/020/758.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/d0122bf8-f39b-4b93-94e6-20c300c29557.png?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 11 月 1 日消息，一些看起来普通的电子设备租赁交易，却隐藏着一条变相放贷链条， 以“出租手机”为名，行“高息放贷”之实 ，央视新闻今日起底了“租机套现”隐藏的风险。 报道提到，去年 9 月，山东的张女士因资金周转不便，在网络平台浏览相关信息。一名中介通过私信主动联系到她，在提交芝麻信用分截图和年龄等基本信息后，对方告诉张女士：她的信用额度已被…",
-          "detail": "IT之家 11 月 1 日消息，一些看起来普通的电子设备租赁交易，却隐藏着一条变相放贷链条， 以“出租手机”为名，行“高息放贷”之实 ，央视新闻今日起底了“租机套现”隐藏的风险。 报道提到，去年 9 月，山东的张女士因资金周转不便，在网络平台浏览相关信息。一名中介通过私信主动联系到她，在提交芝麻信用分截图和年龄等基本信息后，对方告诉张女士：她的信用额度已被…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -325,7 +326,7 @@ window.phoneRadarDaily = {
           "time": "18:09",
           "publishedAt": "2026-11-01T18:09:33.000Z",
           "url": "https://www.gizmochina.com/2026/11/01/oneplus-turbo-6vs-launches-144hz-oled-9000mah/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-1-300x169.jpg?x54692",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/OnePlus-Turbo-6Vs--300x151.png?x54692",
           "verdict": "可略过",
           "takeaway": "OPPO 有发布或新功能消息，适合确认是否和新机有关。",
           "detail": "OPPO 电池 / 充电相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
@@ -350,7 +351,7 @@ window.phoneRadarDaily = {
           "time": "17:50",
           "publishedAt": "2026-11-01T17:50:55.000Z",
           "url": "https://www.gizmochina.com/2026/11/01/redmi-m100-pro-launches-dimensity-7300-ultra-1-5k-oled/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-300x169.jpg?x54692",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/Redmi-M100-Pro--300x205.png?x54692",
           "verdict": "可略过",
           "takeaway": "Xiaomi 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
           "detail": "Xiaomi 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
@@ -384,29 +385,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-01d06ddadcae",
-          "title": "Redmi K80 Pro 对比 OnePlus Ace 7 Pro：差异整理",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-31",
-          "time": "17:20",
-          "publishedAt": "2026-10-31T17:20:38.000Z",
-          "url": "https://www.gizmochina.com/2026/10/31/redmi-k80-pro-vs-oneplus-ace-7-pro/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/image-104-300x161.png?x54692",
-          "verdict": "可略过",
-          "takeaway": "Redmi K80 Pro 对比 OnePlus Ace 7 Pro：重点看定位、配置差异和价格差，判断是否值得等更高端型号。",
-          "detail": "Redmi K80 Pro 对比 OnePlus Ace 7 Pro 的差异整理。重点看两款机型的定位、影像规格、屏幕尺寸、价格区间和发布时间是否拉开差距。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -416,21 +394,44 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "newsnow-944e66e3907b",
-          "title": "最近天天在酷安研究买手机怎么样才能少花钱，今天突然悟了，我一个月挣这么多钱，每天花这么多时间，就为了少个两三百块，这不是给自己找罪受吗[流泪]去饭馆少搓两顿，不就把钱省回来了吗#一加16# #荣耀Magic9ProMax#",
+          "id": "newsnow-43e1454bc924",
+          "title": "手机的流畅度和什么有关，大家一般一个手机用几年啊，五年前的手机，像骁龙8g2还能流畅使用当主力机吗？好像现在性能已经提升了一倍了吧，就是对比骁龙8g2，看看大家现在还在用什么手机，想看看你们手机坚持最久的人说一下如何，双持就算了，估计很难感觉到主力那种感觉#iPhone18ProMax# #REDMIK100ProMax#",
           "originalTitle": "",
           "source": "酷安热榜",
-          "brand": "HONOR",
+          "brand": "Xiaomi",
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-11-01",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/74727494",
+          "url": "https://www.coolapk.com/feed/74749779",
           "image": "",
           "verdict": "先看",
-          "takeaway": "最近天天在酷安研究买手机怎么样才能少花钱，今天突然悟了，我一个月挣这么多钱，每天花这么多时间，就为了少个两三百块，这不是给自己找罪受吗[流泪]去饭馆少搓两顿，不就把钱省回来了吗#一加16# #荣耀Magic9ProMax#",
-          "detail": "最近天天在酷安研究买手机怎么样才能少花钱，今天突然悟了，我一个月挣这么多钱，每天花这么多时间，就为了少个两三百块，这不是给自己找罪受吗[流泪]去饭馆少搓两顿，不就把钱省回来了吗#一加16# #荣耀Magic9ProMax#",
+          "takeaway": "手机的流畅度和什么有关，大家一般一个手机用几年啊，五年前的手机，像骁龙8g2还能流畅使用当主力机吗？好像现在性能已经提升了一倍了吧，就是对比骁龙8g2，看看大家现在还在用什么手机，想看看你们手机坚持最久的人说一下如何，双持就算了，估计很难感觉到主力那种感觉#iPhone18ProMax# #REDMIK100ProMax#",
+          "detail": "手机的流畅度和什么有关，大家一般一个手机用几年啊，五年前的手机，像骁龙8g2还能流畅使用当主力机吗？好像现在性能已经提升了一倍了吧，就是对比骁龙8g2，看看大家现在还在用什么手机，想看看你们手机坚持最久的人说一下如何，双持就算了，估计很难感觉到主力那种感觉#iPhone18ProMax# #REDMIK100ProMax#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响性能和寿命判断，适合放进参数库。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-23caedaf0cb7",
+          "title": "被人当猴耍了，各位出鸿蒙系统二手机的注意点，别被人耍了[受虐滑稽]#鸿蒙6# #鸿蒙7#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-11-01",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/74785860",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "被人当猴耍了，各位出鸿蒙系统二手机的注意点，别被人耍了[受虐滑稽]#鸿蒙6# #鸿蒙7#",
+          "detail": "被人当猴耍了，各位出鸿蒙系统二手机的注意点，别被人耍了[受虐滑稽]#鸿蒙6# #鸿蒙7#",
           "keyPoints": [
             "爆料"
           ],
@@ -454,6 +455,29 @@ window.phoneRadarDaily = {
           "verdict": "扫一眼",
           "takeaway": "米果手机 17 Ultra 徕卡版 诞生～[受虐滑稽]",
           "detail": "米果手机 17 Ultra 徕卡版 诞生～[受虐滑稽]",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-31344c5c5750",
+          "title": "Samsung 相关消息",
+          "originalTitle": "",
+          "source": "Android Police",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-11-01",
+          "time": "20:00",
+          "publishedAt": "2026-11-01T20:00:10.000Z",
+          "url": "https://www.androidpolice.com/samsung-leaving-galaxy-s22-behind/",
+          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/10/samsung-galaxy-s22-beside-a-security-warning-shield-with-an-exclamation-mark.png",
+          "verdict": "可略过",
+          "takeaway": "Samsung 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Samsung 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料"
           ],
@@ -502,54 +526,6 @@ window.phoneRadarDaily = {
           "detail": "Pixel 11 Pro 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响拍照体验，买旗舰机时值得关注。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "auto-281397e4f373",
-          "title": "Samsung 屏幕规格相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-11-01",
-          "time": "04:15",
-          "publishedAt": "2026-11-01T04:15:01.000Z",
-          "url": "https://www.gizmochina.com/2026/11/01/samsung-mocks-iphone-duo-display-defect/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/samsung-mocks-iphone-duo-display-defect-300x169.webp?x54692",
-          "verdict": "可略过",
-          "takeaway": "Samsung 屏幕规格相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Samsung 屏幕规格相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响手感和显示体验，适合和其他机型对比。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "auto-c022a2b5f9f0",
-          "title": "HONOR 影像能力相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-31",
-          "time": "14:48",
-          "publishedAt": "2026-10-31T14:48:58.000Z",
-          "url": "https://www.gizmochina.com/2026/10/31/redmagic-12-pro-plus-vs-oneplus-16/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/image-103-300x160.png?x54692",
-          "verdict": "可略过",
-          "takeaway": "HONOR 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
-          "detail": "HONOR 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
-          "keyPoints": [
-            "影像硬件",
-            "屏幕形态",
-            "芯片 / 性能"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响拍照体验，买旗舰机时值得关注。",
