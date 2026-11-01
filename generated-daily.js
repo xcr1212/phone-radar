@@ -1,13 +1,13 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-11-01T06:00:46.773Z",
+  "updatedAt": "2026-11-01T13:21:16.514Z",
   "issueDate": "2026-11-01",
   "issue": "VOL.261101",
   "title": "手机情报日报",
-  "intro": "今日筛出 17 条重点，其中 6 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 17,
-    "iphone": 4,
-    "leaks": 6,
+    "total": 18,
+    "iphone": 6,
+    "leaks": 8,
     "official": 1,
     "specs": 0
   },
@@ -41,6 +41,30 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "newsnow-73571fc1edf6",
+          "title": "供应链视角看苹果折叠屏问题在哪",
+          "originalTitle": "",
+          "source": "B站热搜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-11-01",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BE%9B%E5%BA%94%E9%93%BE%E8%A7%86%E8%A7%92%E7%9C%8B%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8F%E9%97%AE%E9%A2%98%E5%9C%A8%E5%93%AA",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "供应链视角看苹果折叠屏问题在哪",
+          "detail": "供应链视角看苹果折叠屏问题在哪",
+          "keyPoints": [
+            "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-7cae7d2abb90",
           "title": "iPhone 相关消息",
           "originalTitle": "",
@@ -64,67 +88,21 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-161513d4b2a6",
-          "title": "苹果折叠屏碎屏图片.....被三星放在马路边广告车上了。",
+          "id": "auto-fc273a8c89d4",
+          "title": "华为新机影像超前瞻：200Mp 1/1.3\" 超大底主摄 + 200Mp 1/1.4\" 大底潜望长焦，预计明年落地",
           "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-11-01",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/74750838",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "苹果折叠屏碎屏图片.....被三星放在马路边广告车上了。",
-          "detail": "苹果折叠屏碎屏图片.....被三星放在马路边广告车上了。",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-64490fb18fd6",
-          "title": "JSCHEN小小狐：曝华为 nova 系列评估双 2 亿：1/1.3\" + 1/1.4\"",
-          "originalTitle": "",
-          "source": "JSCHEN小小狐",
+          "source": "IT之家",
           "brand": "Huawei",
           "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-10-31",
-          "time": "02:37",
-          "publishedAt": "2026-10-31T02:37:05.000Z",
-          "url": "https://www.coolapk.com/feed/74743651",
-          "image": "http://image.coolapk.com/feed/2026/1031/10/4702274_20941445_4224_2201_649@1440x779.jpg",
+          "trust": "媒体汇总",
+          "date": "2026-11-01",
+          "time": "08:55",
+          "publishedAt": "2026-11-01T08:55:04.000Z",
+          "url": "https://www.ithome.com/1/020/765.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/2c6f37ba-d031-4cf1-94ee-24abf8fc1157.png?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "『曝华为 nova 系列评估双 2 亿：1/1.3\" + 1/1.4\"』 ◇ 主摄｜200MP 1/1.3\" 超大底 ◇ 长焦｜200MP 1/1.4\" 大底潜望 ◇ 上述方案预计将于 2027 年落地 此外该消息还表示，华为未放弃传统「外挂增距镜」影像方案，甚至对其“有普及计划”。 #今日热点# #华为nova17# #华为Nova16Ultra#",
-          "detail": "『曝华为 nova 系列评估双 2 亿：1/1.3\" + 1/1.4\"』 ◇ 主摄｜200MP 1/1.3\" 超大底 ◇ 长焦｜200MP 1/1.4\" 大底潜望 ◇ 上述方案预计将于 2027 年落地 此外该消息还表示，华为未放弃传统「外挂增距镜」影像方案，甚至对其“有普及计划”。 #今日热点# #华为nova17# #华为Nova16Ultra#",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "weibo-ba29436aeea6",
-          "title": "数码闲聊站：一组影像超前瞻，预计明年落地[污] ①200Mp 1/1.3\"超大底主摄+20…",
-          "originalTitle": "",
-          "source": "数码闲聊站",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-10-31",
-          "time": "02:33",
-          "publishedAt": "2026-10-31T02:33:00.000Z",
-          "url": "https://weibo.com/6048569942/RpbD64eVn",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "一组影像超前瞻，预计明年落地[污] ①200Mp 1/1.3\"超大底主摄+200Mp 1/1.4\"大底潜望长焦，中高端线的双2亿积极评估中 ②外挂增距镜方案没有放弃，甚至有普及计划",
-          "detail": "一组影像超前瞻，预计明年落地[污] ①200Mp 1/1.3\"超大底主摄+200Mp 1/1.4\"大底潜望长焦，中高端线的双2亿积极评估中 ②外挂增距镜方案没有放弃，甚至有普及计划",
+          "takeaway": "IT之家 11 月 1 日消息，博主 @数码闲聊站 昨日发文超前爆料了某厂神秘新机的影像配置， 预计明年落地 。从评论区讨论和博主的暗示符号来看， 预计新机归属华为品牌 ，不过具体型号、系列未公布。 ① 200Mp 1/1.3\" 超大底主摄 +200Mp 1/1.4\" 大底潜望长焦 ，中高端线的双 2 亿积极评估中 ②外挂增距镜方案没有放弃， 甚至有普及计…",
+          "detail": "IT之家 11 月 1 日消息，博主 @数码闲聊站 昨日发文超前爆料了某厂神秘新机的影像配置， 预计明年落地 。从评论区讨论和博主的暗示符号来看， 预计新机归属华为品牌 ，不过具体型号、系列未公布。 ① 200Mp 1/1.3\" 超大底主摄 +200Mp 1/1.4\" 大底潜望长焦 ，中高端线的双 2 亿积极评估中 ②外挂增距镜方案没有放弃， 甚至有普及计…",
           "keyPoints": [
             "影像硬件",
             "爆料来源"
@@ -134,26 +112,99 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-1fe67ef9dcfd",
-          "title": "OPPO 发布 / 上市相关消息",
+          "id": "auto-931af45db188",
+          "title": "一加推出 Turbo 6Vs 手机：第四代高通骁龙 7s 处理器，12G + 256G 售 3699 元",
           "originalTitle": "",
-          "source": "Gizmochina",
+          "source": "IT之家",
           "brand": "OPPO",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-10-31",
-          "time": "07:04",
-          "publishedAt": "2026-10-31T07:04:34.000Z",
-          "url": "https://www.gizmochina.com/2026/10/31/oneplus-may-not-launch-new-compact-phones-in-the-future/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/OnePlus-15T-300x200.png?x54692",
+          "date": "2026-11-01",
+          "time": "08:47",
+          "publishedAt": "2026-11-01T08:47:29.000Z",
+          "url": "https://www.ithome.com/1/020/764.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/2c759ff5-b81e-47af-a8e1-7860f2759847.jpg?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "OPPO 有发布或新功能消息，适合确认是否和新机有关。",
-          "detail": "OPPO 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "takeaway": "IT之家 11 月 1 日消息，一加现已在其商城上架 Turbo 6Vs 手机，该机搭载第四代高通骁龙 7s 处理器，匹配 12GB RAM 和 256GB 存储空间，定价为 3699 元。 该机提供双色可选，整体厚度 8.5mm，正面配备一块 6.78 英寸 2772x1272 分辨率 144Hz AMOLED 面板（峰值亮度 800 尼特，激发亮度 1…",
+          "detail": "IT之家 11 月 1 日消息，一加现已在其商城上架 Turbo 6Vs 手机，该机搭载第四代高通骁龙 7s 处理器，匹配 12GB RAM 和 256GB 存储空间，定价为 3699 元。 该机提供双色可选，整体厚度 8.5mm，正面配备一块 6.78 英寸 2772x1272 分辨率 144Hz AMOLED 面板（峰值亮度 800 尼特，激发亮度 1…",
           "keyPoints": [
             "屏幕形态",
-            "爆料来源"
+            "芯片 / 性能"
           ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-703a48b7a854",
+          "title": "竹本青：【REDMI M100 Pro 上架官网：前后双曲，天玑7300 Ultra处理器，售价2499元】 12GB+2…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-11-01",
+          "time": "10:43",
+          "publishedAt": "2026-11-01T10:43:31.000Z",
+          "url": "https://www.coolapk.com/feed/74780083",
+          "image": "http://image.coolapk.com/feed/2026/1101/18/4248714_7016eab0_9809_5363_568@1264x1684.jpg",
+          "verdict": "先看",
+          "takeaway": "【REDMI M100 Pro 上架官网：前后双曲，天玑7300 Ultra处理器，售价2499元】 12GB+256GB —— 2499元 ● 6.67\"1.5K 120Hz OLED曲面屏 ● 天玑7300 Ultra处理器 ● LPDDR4X+UFS2.2 ● 5500mAh电池+45W快充 ○ 50MP LYT600主摄+8MP超广+2MP微距 ○…",
+          "detail": "【REDMI M100 Pro 上架官网：前后双曲，天玑7300 Ultra处理器，售价2499元】 12GB+256GB —— 2499元 ● 6.67\"1.5K 120Hz OLED曲面屏 ● 天玑7300 Ultra处理器 ● LPDDR4X+UFS2.2 ● 5500mAh电池+45W快充 ○ 50MP LYT600主摄+8MP超广+2MP微距 ○…",
+          "keyPoints": [
+            "屏幕形态",
+            "电池 / 充电",
+            "芯片 / 性能",
+            "成本 / 价格"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-0133cb307249",
+          "title": "竹本青：【一加 Turbo 6Vs 官网上架：骁龙7s Gen4，9000mAh电池，售3699元】 12GB+256GB…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-11-01",
+          "time": "09:06",
+          "publishedAt": "2026-11-01T09:06:00.000Z",
+          "url": "https://www.coolapk.com/feed/74778045",
+          "image": "http://image.coolapk.com/feed/2026/1101/17/4248714_979e5286_3959_0137_748@1272x2104.jpg",
+          "verdict": "先看",
+          "takeaway": "【一加 Turbo 6Vs 官网上架：骁龙7s Gen4，9000mAh电池，售3699元】 12GB+256GB —— 3699元 ● 骁龙7s Gen4平台 ● 6.78\"1.5K 144Hz OLED屏 ● LPDDR4X+UFS 3.1 ● 9000mAh+80W有线+27W反向 ○ 短焦指纹｜红外｜NFC ○ 双频GPS+三频北斗 ○ 灵犀触控芯…",
+          "detail": "【一加 Turbo 6Vs 官网上架：骁龙7s Gen4，9000mAh电池，售3699元】 12GB+256GB —— 3699元 ● 骁龙7s Gen4平台 ● 6.78\"1.5K 144Hz OLED屏 ● LPDDR4X+UFS 3.1 ● 9000mAh+80W有线+27W反向 ○ 短焦指纹｜红外｜NFC ○ 双频GPS+三频北斗 ○ 灵犀触控芯…",
+          "keyPoints": [
+            "屏幕形态",
+            "电池 / 充电"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-0b34240a0380",
+          "title": "租的是手机拿到的是现金，央视起底“租机套现”风险",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-11-01",
+          "time": "08:28",
+          "publishedAt": "2026-11-01T08:28:46.000Z",
+          "url": "https://www.ithome.com/1/020/758.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/d0122bf8-f39b-4b93-94e6-20c300c29557.png?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 11 月 1 日消息，一些看起来普通的电子设备租赁交易，却隐藏着一条变相放贷链条， 以“出租手机”为名，行“高息放贷”之实 ，央视新闻今日起底了“租机套现”隐藏的风险。 报道提到，去年 9 月，山东的张女士因资金周转不便，在网络平台浏览相关信息。一名中介通过私信主动联系到她，在提交芝麻信用分截图和年龄等基本信息后，对方告诉张女士：她的信用额度已被…",
+          "detail": "IT之家 11 月 1 日消息，一些看起来普通的电子设备租赁交易，却隐藏着一条变相放贷链条， 以“出租手机”为名，行“高息放贷”之实 ，央视新闻今日起底了“租机套现”隐藏的风险。 报道提到，去年 9 月，山东的张女士因资金周转不便，在网络平台浏览相关信息。一名中介通过私信主动联系到她，在提交芝麻信用分截图和年龄等基本信息后，对方告诉张女士：她的信用额度已被…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -164,6 +215,29 @@ window.phoneRadarDaily = {
       "title": "iPhone 重点",
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
+        {
+          "id": "auto-cb05af842fe4",
+          "title": "怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」",
+          "originalTitle": "",
+          "source": "少数派",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-11-01",
+          "time": "07:02",
+          "publishedAt": "2026-11-01T07:02:46.000Z",
+          "url": "https://sspai.com/post/116991",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...",
+          "detail": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
         {
           "id": "auto-a89f115eb254",
           "title": "iPhone 芯片 / 性能相关消息",
@@ -218,29 +292,6 @@ window.phoneRadarDaily = {
       "hint": "能直接更新到参数库。",
       "items": [
         {
-          "id": "coolapk-user-3aef595281d7",
-          "title": "竹本青：【荣耀员工确认：Magic9系列 已支持「电话接通振动」功能】 11月1日，荣耀研发工程师曹工发布Magic9系列…",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-11-01",
-          "time": "02:42",
-          "publishedAt": "2026-11-01T02:42:46.000Z",
-          "url": "https://www.coolapk.com/feed/74769057",
-          "image": "http://image.coolapk.com/feed/2026/1101/10/4248714_5b746342_0965_1481_336@1272x1169.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【荣耀员工确认：Magic9系列 已支持「电话接通振动」功能】 11月1日，荣耀研发工程师曹工发布Magic9系列 使用答疑： ● Magic9 Pro Max 搭载全新超大X轴马达，性能相较上代提升30%； ● Magic9系列 新版本115SP8已支持「电话接通振动」功能，可在“通话->设置”开启。 据公开拆机信息显示，荣耀Magic9 Pro Max…",
-          "detail": "【荣耀员工确认：Magic9系列 已支持「电话接通振动」功能】 11月1日，荣耀研发工程师曹工发布Magic9系列 使用答疑： ● Magic9 Pro Max 搭载全新超大X轴马达，性能相较上代提升30%； ● Magic9系列 新版本115SP8已支持「电话接通振动」功能，可在“通话->设置”开启。 据公开拆机信息显示，荣耀Magic9 Pro Max…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "影响性能和寿命判断，适合放进参数库。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
           "id": "auto-01d06ddadcae",
           "title": "Redmi K80 Pro 对比 OnePlus Ace 7 Pro：差异整理",
           "originalTitle": "",
@@ -262,36 +313,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "review",
-      "title": "评测与体验",
-      "hint": "买前再细看，平时扫一眼即可。",
-      "items": [
-        {
-          "id": "auto-40c6a179d2cd",
-          "title": "荣耀 Magic9 系列手机“电话接通 / 挂断振动”功能回归，更新“115SP8”版本可用",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-11-01",
-          "time": "03:48",
-          "publishedAt": "2026-11-01T03:48:59.000Z",
-          "url": "https://www.ithome.com/1/020/694.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/0c8aadfd-239b-4f9b-b4e0-782945b082df.png",
-          "verdict": "先看",
-          "takeaway": "IT之家 11 月 1 日消息，荣耀研发工程师 @荣耀曹工 今日发文解答了 Magic9 系列手机马达的功能特性。据称，Magic9 Pro Max 搭载全新超大 X 轴线性马达， 性能比上代提升 30% ，支持具身触感反馈体验。 另外，“电话接通 / 挂断振动”功能也在 Magic9 系列手机上回归， 更新“115SP8”版本可用 （可以在“通话 → 设…",
-          "detail": "IT之家 11 月 1 日消息，荣耀研发工程师 @荣耀曹工 今日发文解答了 Magic9 系列手机马达的功能特性。据称，Magic9 Pro Max 搭载全新超大 X 轴线性马达， 性能比上代提升 30% ，支持具身触感反馈体验。 另外，“电话接通 / 挂断振动”功能也在 Magic9 系列手机上回归， 更新“115SP8”版本可用 （可以在“通话 → 设…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响性能和寿命判断，适合放进参数库。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         }
       ]
     },
@@ -347,27 +368,50 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "coolapk-user-ff2fb05533f3",
-          "title": "竹本青：【小米18 Fold 最新销量曝光：周增约3300台，累计破11.2万台】 截至 W42—— 约11.22万（周增…",
+          "id": "auto-6ff20f8c955e",
+          "title": "Galaxy S26 Ultra 价格 / 成本相关消息",
           "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Xiaomi",
+          "source": "Gizmochina",
+          "brand": "Samsung",
           "type": "爆料",
-          "trust": "高可信爆料",
+          "trust": "媒体汇总",
           "date": "2026-11-01",
-          "time": "03:34",
-          "publishedAt": "2026-11-01T03:34:17.000Z",
-          "url": "https://www.coolapk.com/feed/74770370",
-          "image": "http://image.coolapk.com/feed/2026/1101/11/4248714_8b462647_4056_6115_688@3241x2557.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【小米18 Fold 最新销量曝光：周增约3300台，累计破11.2万台】 截至 W42—— 约11.22万（周增3300台） 截至 W41 —— 约10.89万（周增4200台） 截至 W40 —— 约10.47万（周增6400台） 截至 W39 —— 约9.83万（周增9700台） 截至 W38 —— 约8.86万（周增4.89万台） 截至 W37 —…",
-          "detail": "【小米18 Fold 最新销量曝光：周增约3300台，累计破11.2万台】 截至 W42—— 约11.22万（周增3300台） 截至 W41 —— 约10.89万（周增4200台） 截至 W40 —— 约10.47万（周增6400台） 截至 W39 —— 约9.83万（周增9700台） 截至 W38 —— 约8.86万（周增4.89万台） 截至 W37 —…",
+          "time": "13:14",
+          "publishedAt": "2026-11-01T13:14:12.000Z",
+          "url": "https://www.gizmochina.com/2026/11/01/galaxy-s26-ultra-gets-a-250-price-cut-on-amazon/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/s26-ultra-250-discount-300x169.jpg?x54692",
+          "verdict": "可略过",
+          "takeaway": "Galaxy S26 Ultra 价格 / 成本相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
+          "detail": "Galaxy S26 Ultra 价格 / 成本相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "爆料"
+            "成本 / 价格"
           ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响购买预算，值得先看。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
+          "id": "auto-7ce4f724d481",
+          "title": "Pixel 11 Pro 系统功能 / AI 体验相关消息",
+          "originalTitle": "",
+          "source": "Android Authority",
+          "brand": "Pixel",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-11-01",
+          "time": "11:00",
+          "publishedAt": "2026-11-01T11:00:26.000Z",
+          "url": "https://www.androidauthority.com/pixel-11-pro-5x-portrait-mode-mind-blowing-3728510/",
+          "image": "",
+          "verdict": "可略过",
+          "takeaway": "Pixel 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "Pixel 11 Pro 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响拍照体验，买旗舰机时值得关注。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         },
         {
           "id": "auto-281397e4f373",
@@ -416,29 +460,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "影响拍照体验，买旗舰机时值得关注。",
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "auto-31976f65ebd8",
-          "title": "Samsung 相关消息",
-          "originalTitle": "",
-          "source": "Android Police",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-10-31",
-          "time": "11:35",
-          "publishedAt": "2026-10-31T11:35:10.000Z",
-          "url": "https://www.androidpolice.com/samsung-galaxy-s26-fe-deal-verizon-or-t-mobile-which-offer-is-best/",
-          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/09/samsung-galaxy-s26-fe-duo.jpg",
-          "verdict": "可略过",
-          "takeaway": "Samsung 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Samsung 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }
