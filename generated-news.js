@@ -1,6 +1,426 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-11-02T05:59:11.594Z",
+  "updatedAt": "2026-11-02T15:48:04.049Z",
   "news": [
+    {
+      "id": "auto-e3a735c05dfc",
+      "title": "Mark Gurman: Apple Initially Aimed to Release iPhone Duo in November",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-02",
+      "time": "15:44",
+      "publishedAt": "2026-11-02T15:44:21.000Z",
+      "url": "https://www.macrumors.com/2026/11/02/iphone-duo-november/",
+      "image": "https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Outer-Display-Hand-scaled.jpg",
+      "summary": "Apple initially aimed to \"wait until November\" to release the iPhone Duo in the U.S. and China only, according to Bloomberg 's Mark Gurman , but it ultimately launched the device…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-34a9accf6105",
+      "title": "竹本青：【“比格多栋”回应罗技侮辱消费者：表情包未经授权，准备依法维权】 近期，罗技G影音旗舰店官方账号发布推广视频，使用…",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-02",
+      "time": "15:27",
+      "publishedAt": "2026-11-02T15:27:45.000Z",
+      "url": "https://www.coolapk.com/feed/74809728",
+      "image": "http://image.coolapk.com/feed/2026/1102/23/4248714_c98abe3a_4412_6312_806@1439x2590.jpg",
+      "summary": "【“比格多栋”回应罗技侮辱消费者：表情包未经授权，准备依法维权】 近期，罗技G影音旗舰店官方账号发布推广视频，使用原创IP“暹罗厘普”中的角色“比格多栋”表情包做价格对比。不少网友认为该内容带有隐喻，涉嫌侮辱消费者。 11月2日上午，相关店铺客服回应媒体，称小狗只是表情包，不是侮辱消费者。 当日下午，《BUG》栏目联系到该表情包著作权持有方厦门起重集文化传…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-a301772a071b",
+      "title": "The Motorola Signature 27's screen is five times brighter than the Galaxy S26 Ultra's",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-11-02",
+      "time": "15:08",
+      "publishedAt": "2026-11-02T15:08:37.000Z",
+      "url": "https://www.androidcentral.com/phones/motorola/the-motorola-signature-27s-screen-is-five-times-brighter-than-the-galaxy-s26-ultras",
+      "image": "https://cdn.mos.cms.futurecdn.net/mNiUka7dMtuaUaYbEaoxEo-1920-80.jpg",
+      "summary": "A new hands-on video just revealed Motorola's wildly specs-heavy Signature 27.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ef5f5d4fe1b6",
+      "title": "Save $300 on the Samsung Galaxy Z Fold 8 in Amazon price drop",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-02",
+      "time": "14:34",
+      "publishedAt": "2026-11-02T14:34:15.000Z",
+      "url": "https://www.androidauthority.com/deal-galaxy-z-fold-8-3730703/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Samsung-Galaxy-Z-Fold-8-in-hand-showing-folding-screen-scaled-1.jpg",
+      "summary": "Samsung Galaxy Z Fold 8 drops to $1,599.99 on Amazon, with a wider cover screen and flagship power for multitasking.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6d3f7c700380",
+      "title": "iPhone Duo: Latest Buyer Wait Times",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-02",
+      "time": "12:32",
+      "publishedAt": "2026-11-02T12:32:29.000Z",
+      "url": "https://www.macrumors.com/2026/11/02/iphone-duo-latest-buyer-wait-times/",
+      "image": "https://images.macrumors.com/article-new/2026/10/hero_medium_2x-feature2.jpg",
+      "summary": "iPhone Duo order wait times averaged 89 days despite falling by a week, according to UBS Investment Bank data as of October 30. (Via Investing.com .) The USB Evidence Lab tracker…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6be36b2b20f9",
+      "title": "This iPhone Duo Screen Setting Is Proving Hard to Change",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-02",
+      "time": "11:54",
+      "publishedAt": "2026-11-02T11:54:39.000Z",
+      "url": "https://www.macrumors.com/2026/11/02/iphone-duo-missing-display-zoom-option/",
+      "image": "https://images.macrumors.com/article-new/2026/11/display-zoom-comparison-iphone-duo-iphone-18-pro.jpeg",
+      "summary": "Some iPhone Duo owners have discovered that Apple's first foldable is missing a pretty important appearance setting that you can adjust during the initial setup process, but not a…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-be8f60eb2e4d",
+      "title": "If you’re a true Android enthusiast, there’s only one phone worth buying in 2026",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-02",
+      "time": "11:30",
+      "publishedAt": "2026-11-02T11:30:35.000Z",
+      "url": "https://www.androidauthority.com/true-android-enthusiast-galaxy-s26-ultra-3719774/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/04/Galaxy-S26-Ultra-rock-background-scaled.jpeg",
+      "summary": "The Android king of 2026: Samsung Galaxy S26 Ultra.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3ad6756364b5",
+      "title": "Is it worth getting the OPPO Find X10 in India?",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-02",
+      "time": "11:28",
+      "publishedAt": "2026-11-02T11:28:44.000Z",
+      "url": "https://www.gizmochina.com/2026/11/02/is-it-worth-getting-the-oppo-find-x10-in-india/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/Oppo-Find-X10-300x169.png?x42064",
+      "summary": "Oppo Find X10 has recently been launched in India with some serious camera upgrades over the last year’s Find X9. However, the hefty price increase of up to 100% makes people wond…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d2db9f456e9a",
+      "title": "RedMagic 12 Pro+ vs iQOO 16: Same Chip, Different Flagship Experience",
+      "source": "Gizmochina",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-02",
+      "time": "11:14",
+      "publishedAt": "2026-11-02T11:14:43.000Z",
+      "url": "https://www.gizmochina.com/2026/11/02/redmagic-12-pro-plus-vs-iqoo-16/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/redmagic-12-pro-vs-iqoo-16-same-chip-different-flagship-experience-300x158.png?x42064",
+      "summary": "RedMagic 12 Pro+ and iQOO 16 target performance-focused smartphone buyers, but they approach the flagship experience differently. Both pack Qualcomm’s latest Snapdragon chipset an…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-89a86dd8ce13",
+      "title": "Motorola Signature 27 specs are out, and its display easily outshines the competition",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-02",
+      "time": "11:12",
+      "publishedAt": "2026-11-02T11:12:47.000Z",
+      "url": "https://www.androidauthority.com/motorola-signature-display-camera-specs-revealed-3730578/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/moto-signature-27-bO.jpg",
+      "summary": "The display is about 5x brighter than the Galaxy S26 Ultra.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-24f90383f76c",
+      "title": "OnePlus Ace 7 Pro vs Redmi K100 Pro: Which Flagship Is Worth Buying?",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-02",
+      "time": "10:38",
+      "publishedAt": "2026-11-02T10:38:05.000Z",
+      "url": "https://www.gizmochina.com/2026/11/02/oneplus-ace-7-pro-vs-redmi-k100-pro/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/image-5-300x150.png?x42064",
+      "summary": "OnePlus Ace 7 Pro and Redmi K100 Pro take different approaches to flagship performance. Both feature the Snapdragon 8 Elite Gen 5 family of chipsets, high-refresh-rate displays an…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-13ca81837dd5",
+      "title": "I’ve used every Android foldable released this year. Here’s how the iPhone Duo stacks up",
+      "source": "Android Authority",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-02",
+      "time": "10:30",
+      "publishedAt": "2026-11-02T10:30:32.000Z",
+      "url": "https://www.androidauthority.com/iphone-duo-android-user-impressions-3728257/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/iPhone-Duo-AA-14.jpg",
+      "summary": "The iPhone Duo is a fun and frustrating first attempt.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-530b9d14a9c6",
+      "title": "竹本青：荣耀高管预告鞠婧祎成为700系列代言人",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-02",
+      "time": "09:09",
+      "publishedAt": "2026-11-02T09:09:26.000Z",
+      "url": "https://www.coolapk.com/feed/74801329",
+      "image": "http://image.coolapk.com/feed/2026/1102/17/4248714_4f36f8b1_0564_4917_542@1270x1180.jpg",
+      "summary": "【荣耀高管预告鞠婧祎成为700系列代言人】 11月2日，荣耀高管关海涛发文：“欢迎🍊”，预告鞠婧祎将成为荣耀700系列代言人。 10月24日，数码闲聊站曾曝光荣耀700系列共3杯，暂定11月发布：6.57英寸1.5K中屏，1.72英寸原生背屏、200Mp大底影像；Pro版额外搭载50Mp潜望长焦，系列最大电池9000mAh±，配色有冷白/晴空/蓝调/粉雾…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-e4fdd75d4f94",
+      "title": "Vivo X500 Pro vs iPhone 17 Pro: Can Vivo Beat Apple’s Flagship?",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-02",
+      "time": "08:58",
+      "publishedAt": "2026-11-02T08:58:13.000Z",
+      "url": "https://www.gizmochina.com/2026/11/02/vivo-x500-pro-vs-iphone-17-pro/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/image-4-300x168.png?x42064",
+      "summary": "Vivo X500 Pro and iPhone 17 Pro take different approaches to the compact flagship experience. While Vivo focuses on display technology, versatile cameras, and fast charging, Apple…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-10dc2b842912",
+      "title": "Honor Magic 9 series launching globally this week with Snapdragon 8 Elite Extreme Gen 6",
+      "source": "Gizmochina",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-02",
+      "time": "08:53",
+      "publishedAt": "2026-11-02T08:53:30.000Z",
+      "url": "https://www.gizmochina.com/2026/11/02/honor-magic-9-series-launching-globally-this-week-with-snapdragon-8-elite-extreme-gen-6/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Honor-Magic-9-Pro-Max-300x232.jpg?x42064",
+      "summary": "Honor will start its international rollout of the Honor Magic 9 series in Hong Kong on Wednesday, November 4. Honor global CMO Guan Haitao shared the update via a Weibo post. Unti…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-408b1f0601d7",
+      "title": "Counterpoint 数据：智能手机 SoC 出货量 2026Q3 萎缩 21%，苹果市占逼近高通",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-02",
+      "time": "08:41",
+      "publishedAt": "2026-11-02T08:41:16.000Z",
+      "url": "https://www.ithome.com/1/021/118.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/104bc86e-7808-4ac1-8cdb-a50fc226860d.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 11 月 2 日消息，Counterpoint Research 于 10 月 30 日表示， 全球智能手机 SoC 出货量在 2026Q3 出现了 21% 的大幅同比萎缩 。 而在市场占有率方面，两家实现芯片与终端垂直整合的国际巨头均实现了份额增长。 苹果市占达到 21% ， 逼近高通的 22% ；三星市占也升至 8%。联发科技市占从 Q2 的…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1a2031b5ec53",
+      "title": "Exclusive: Samsung improves Privacy Display for Galaxy S27 Pro and S27 Ultra",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-02",
+      "time": "08:09",
+      "publishedAt": "2026-11-02T08:09:10.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s27-pro-ultra-improved-privacy-display/",
+      "image": "",
+      "summary": "The Galaxy S26 Ultra introduced the groundbreaking Privacy Display feature earlier this year, and since then, several other brands have implemented a similar technology in their h…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3e37db80e9c0",
+      "title": "Xiaomi 18 Pro series officially confirmed for global launch this November",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-02",
+      "time": "06:48",
+      "publishedAt": "2026-11-02T06:48:14.000Z",
+      "url": "https://www.gizmochina.com/2026/11/02/xiaomi-18-pro-series-global-launch-november/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-16x9-3-300x169.jpg?x42064",
+      "summary": "Xiaomi has locked in a November window for the global debut of its Xiaomi 18 Pro series. The company said on X that the lineup is “going global this November,” asking fans which m…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-6eb564814108",
+      "title": "数码闲聊站：27年张铁牛来中国转一圈，发现中国品牌全员阔直板，iPhone会不会也会考虑做…",
+      "source": "数码闲聊站",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-02",
+      "time": "06:48",
+      "publishedAt": "2026-11-02T06:48:00.000Z",
+      "url": "https://weibo.com/6048569942/Rpw9AEfvA",
+      "image": "https://tvax1.sinaimg.cn/mw2000/006BlblIgy1iigw99njbpj341z31hhe1.jpg",
+      "summary": "27年张铁牛来中国转一圈，发现中国品牌全员阔直板，iPhone会不会也会考虑做一个阔屏？[爱慕]",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-30fe614674a4",
+      "title": "Vivo X500 Ultra camera details emerge again as a new 68MP selfie camera Vivo phone is in the works",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-02",
+      "time": "06:42",
+      "publishedAt": "2026-11-02T06:42:53.000Z",
+      "url": "https://www.gizmochina.com/2026/11/02/vivo-x500-ultra-camera-details-68mp-selfie-phone/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Vivo-X500-Pro-Max-india-launch-300x169.jpg?x42064",
+      "summary": "Last month, reliable tipster Digital Chat Station leaked details about the Vivo X500 Ultra’s cameras. Now, the tipster is back with more details about its camera capabilities. Her…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b7b12c17bf6c",
+      "title": "OnePlus 16 vs Xiaomi 18 Pro: Bigger Battery or Better Cameras?",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-02",
+      "time": "06:36",
+      "publishedAt": "2026-11-02T06:36:39.000Z",
+      "url": "https://www.gizmochina.com/2026/11/02/oneplus-16-vs-xiaomi-18-pro/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/image-3-300x151.png?x42064",
+      "summary": "OnePlus 16 and Xiaomi 18 Pro take different approaches to the premium smartphone experience. While OnePlus focuses on extreme performance, a high-refresh-rate display and exceptio…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-6dae154465a7",
       "title": "Galaxy Z Fold 9 could bring back a feature Samsung abandoned last year",
@@ -19,26 +439,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-92a8af16c4d4",
-      "title": "竹本青：vivo X500 Ultra影像方案曝光：后置三摄，长焦大升级",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-02",
-      "time": "05:30",
-      "publishedAt": "2026-11-02T05:30:03.000Z",
-      "url": "https://www.coolapk.com/feed/74796875",
-      "image": "http://image.coolapk.com/feed/2026/1102/13/4248714_2938d179_7405_828_396@1438x1275.jpg",
-      "summary": "【vivo X500 Ultra 影像方案曝光：后置三摄，长焦大升级】 11月2日，数码闲聊站曝光vivo X500 Ultra影像配置：后置50Mp+50Mp+200Mp三摄，前摄常规50Mp；目前方形前摄计划下下代S机型搭载，测试型号IMX05A 68Mp。 评论区补充显示，对于天玑9600 Pro版本的询问，博主回复目前最新一版工程机仍为骁龙；影像方…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -282,6 +682,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-46b0a97381ab",
+      "title": "警惕！你的手机可能在“偷听”",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-02",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%83%95%EF%BC%81%E4%BD%A0%E7%9A%84%E6%89%8B%E6%9C%BA%E5%8F%AF%E8%83%BD%E5%9C%A8%E2%80%9C%E5%81%B7%E5%90%AC%E2%80%9D",
+      "image": "",
+      "summary": "警惕！你的手机可能在“偷听”",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "auto-31344c5c5750",
       "title": "Samsung is leaving my Galaxy S22+ behind; I'm taking the hint",
       "source": "Android Police",
@@ -313,7 +733,7 @@ window.phoneRadarAuto = {
       "time": "18:09",
       "publishedAt": "2026-11-01T18:09:33.000Z",
       "url": "https://www.gizmochina.com/2026/11/01/oneplus-turbo-6vs-launches-144hz-oled-9000mah/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/OnePlus-Turbo-6Vs--300x151.png?x54692",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/OnePlus-Turbo-6Vs--300x151.png?x42064",
       "summary": "OnePlus has quietly listed a new Turbo mid-ranger in China, the OnePlus Turbo 6Vs. The phone is already up on the brand’s China store with a Snapdragon 7s Gen 4 chipset, a 6.78-in…",
       "tags": [
         "OPPO",
@@ -333,7 +753,7 @@ window.phoneRadarAuto = {
       "time": "17:50",
       "publishedAt": "2026-11-01T17:50:55.000Z",
       "url": "https://www.gizmochina.com/2026/11/01/redmi-m100-pro-launches-dimensity-7300-ultra-1-5k-oled/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/Redmi-M100-Pro--300x205.png?x54692",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/Redmi-M100-Pro--300x205.png?x42064",
       "summary": "A couple of months ago, Redmi unveiled its M-series phone, the Redmi M100, and now it is back with another model called the Redmi M100 Pro. The mid-ranger is already live on Xiaom…",
       "tags": [
         "Xiaomi",
@@ -393,7 +813,7 @@ window.phoneRadarAuto = {
       "time": "13:14",
       "publishedAt": "2026-11-01T13:14:12.000Z",
       "url": "https://www.gizmochina.com/2026/11/01/galaxy-s26-ultra-gets-a-250-price-cut-on-amazon/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/s26-ultra-250-discount-300x169.jpg?x54692",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/s26-ultra-250-discount-300x169.jpg?x42064",
       "summary": "Amazon just knocked $250 off the Galaxy S26 Ultra, and that brings the price of the 512GB model down to $1,349.99 from the usual $1,599.99. The post Galaxy S26 Ultra gets a $250 p…",
       "tags": [
         "Samsung",
@@ -453,7 +873,7 @@ window.phoneRadarAuto = {
       "time": "04:15",
       "publishedAt": "2026-11-01T04:15:01.000Z",
       "url": "https://www.gizmochina.com/2026/11/01/samsung-mocks-iphone-duo-display-defect/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/samsung-mocks-iphone-duo-display-defect-300x169.webp?x54692",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/samsung-mocks-iphone-duo-display-defect-300x169.webp?x42064",
       "summary": "Samsung didn’t waste any time. Accounts in Canada, Malaysia, Australia and other markets started posting ads that very deliberately echo those crack patterns. The post Samsung moc…",
       "tags": [
         "Samsung",
@@ -473,7 +893,7 @@ window.phoneRadarAuto = {
       "time": "02:43",
       "publishedAt": "2026-11-01T02:43:28.000Z",
       "url": "https://www.gizmochina.com/2026/11/01/vivo-x500-pro-max-vs-xiaomi-17-ultra/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/image-300x152.png?x54692",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/image-300x152.png?x42064",
       "summary": "The flagship smartphone battle is becoming increasingly competitive, with Vivo and Xiaomi taking different approaches to premium hardware. The Vivo X500 Pro Max promises an impres…",
       "tags": [
         "Xiaomi",
