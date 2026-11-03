@@ -1,20 +1,100 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-11-03T16:13:18.104Z",
+  "updatedAt": "2026-11-03T21:46:30.772Z",
   "news": [
     {
-      "id": "auto-5fee116337b2",
-      "title": "iPhone 18 Rumored to Get Larger Battery and Potential Price Increase",
+      "id": "auto-05862b8015dd",
+      "title": "iPhone 18 rumors suggest a bigger battery, higher price next year",
+      "source": "The Verge",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-03",
+      "time": "20:16",
+      "publishedAt": "2026-11-03T20:16:54.000Z",
+      "url": "https://www.theverge.com/tech/1025748/apple-iphone-18-rumors-price-hike-battery",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257946_iPhone_17_AKrales_0063.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "After Apple raised iPhone prices earlier this year, a new rumor claims it plans to launch the base iPhone 18 with a higher price, too. A Weibo post from leaker Digital Chat Statio…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e7657205a1d8",
+      "title": "The Galaxy Z Fold 8 has received its first major Amazon discount, weeks before Black Friday",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-03",
+      "time": "17:33",
+      "publishedAt": "2026-11-03T17:33:51.000Z",
+      "url": "https://www.androidpolice.com/samsung-galaxy-z-fold-8-deal-early-black-friday-discount-amazon/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/09/samsung-galaxy-z-fold-8-play-store.jpg",
+      "summary": "Enjoy no-strings savings on one of the year's most exciting releases.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7efb1137c693",
+      "title": "Deals: Pixel 11 up to $580 off, Google Home Speaker all-time low, Dell XPS 13 $200 off, new Fire TV Stick 58% off, more",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-03",
+      "time": "16:49",
+      "publishedAt": "2026-11-03T16:49:55.000Z",
+      "url": "https://9to5google.com/2026/11/03/deals-pixel-11-580-off-google-home-speaker-dell-xps-13/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/9to5Google-Nov-3.webp?w=1600",
+      "summary": "Alongside the Pixel 11 Pro, Pixel 11 Pro XL, and Pixel 11 Pro Fold . Best Buy is now offering massive Pixel 11 series price drops at up to $580 off (“excellent” open-box). From th…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6a0f64aaa0c5",
+      "title": "iPhone Duo Could Take Nearly 30% of Foldable Market in 2027",
       "source": "MacRumors",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-11-03",
-      "time": "15:50",
-      "publishedAt": "2026-11-03T15:50:21.000Z",
-      "url": "https://www.macrumors.com/2026/11/03/iphone-18-rumored-to-get-larger-battery/",
-      "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-models.jpg",
-      "summary": "Apple's upcoming iPhone 18 will feature a larger battery and potentially a higher price, according to the leaker known as \" Digital Chat Station .\" In a new post on Weibo today, t…",
+      "time": "16:47",
+      "publishedAt": "2026-11-03T16:47:34.000Z",
+      "url": "https://www.macrumors.com/2026/11/03/iphone-duo-could-take-30-percent-of-market/",
+      "image": "https://images.macrumors.com/article-new/2026/10/iphone-duo-dark.jpg",
+      "summary": "Apple could capture nearly 30% of the global foldable smartphone market in 2027, according to TrendForce's latest forecast . TrendForce projects Apple's share of shipments rising…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6c5b21c32b2e",
+      "title": "iPhone 18 will have two upgrades inspired by ‘Pro’ models, per leak",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-03",
+      "time": "16:46",
+      "publishedAt": "2026-11-03T16:46:35.000Z",
+      "url": "https://9to5mac.com/2026/11/03/iphone-18-will-have-two-upgrades-inspired-by-pro-models-per-leak/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/ios-26-5-pride-luminance-iphone-17-pro-black.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple has yet to launch the iPhone 18, with only 18 Pro and Duo models debuting this fall. But a new leak points to two iPhone 18 upgrades that will follow the pattern of the iPho…",
       "tags": [
         "iPhone",
         "爆料",
@@ -242,66 +322,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-97041fa15f92",
-      "title": "MKBHD Switches Back to iPhone 18 Pro After Testing iPhone Duo",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-03",
-      "time": "13:10",
-      "publishedAt": "2026-11-03T13:10:45.000Z",
-      "url": "https://www.macrumors.com/2026/11/03/mkbhd-switches-back-to-iphone-18-pro/",
-      "image": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-Burgundy-Feature.jpeg",
-      "summary": "YouTuber Marques Brownlee has switched back to the iPhone 18 Pro after spending more than two weeks with the iPhone Duo . On the latest episode of the \"Waveform\" podcast , Brownle…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-88d7b41829dd",
-      "title": "竹本青：中兴否认“400亿卖掉手机业务”报道",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-03",
-      "time": "12:34",
-      "publishedAt": "2026-11-03T12:34:27.000Z",
-      "url": "https://www.coolapk.com/feed/74827770",
-      "image": "http://image.coolapk.com/feed/2026/1103/20/4248714_06d183a3_9351_7798_385@2058x1156.jpg",
-      "summary": "【中兴否认“400亿卖掉手机业务”报道：与事实严重不符，保留追责权利】 11月3日晚间，雷峰网报道称，中兴通讯正与某互联网大厂商谈手机业务合作，方案涉及将中兴手机业务打包，并由中兴、该互联网大厂及上海国资共同成立合资公司。 有相关公司员工称，目前该互联网大厂方面拟出资约80亿元，而中兴方面希望按约400亿元的业务估值推进，双方商谈的最终估值、持股比例及交易…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-17db0498cb75",
-      "title": "400 亿卖掉手机业务？中兴称“不属实”",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-03",
-      "time": "12:24",
-      "publishedAt": "2026-11-03T12:24:04.000Z",
-      "url": "https://www.ithome.com/1/021/801.htm",
-      "image": "",
-      "summary": "IT之家 11 月 3 日消息，今日有消息传出， 中兴通讯正与某互联网大厂商谈手机业务合作 ，方案涉及将中兴手机业务打包，并由中兴、该互联网大厂及上海国资共同成立合资公司。 有相关公司员工称，目前该互联网大厂方面拟出资约 80 亿元，而中兴方面希望按约 400 亿元的业务估值推进，双方商谈的最终估值、持股比例及交易方式目前还在沟通阶段。 观察者网就该消息向…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-06939d709e6e",
       "title": "Galaxy Z Fold 9, Fold 9 Ultra camera specs leaked",
       "source": "Gizmochina",
@@ -317,66 +337,6 @@ window.phoneRadarAuto = {
       "summary": "According to the tip, the standard Z Fold 9 is sticking with the same dual-camera setup as the Z Fold 8: a 50 MP main camera paired with a 50 MP ultra-wide, and no dedicated telep…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1d6bc73ef237",
-      "title": "荣耀 700 系列手机官宣：旗舰级影像能力、内部代号 Flora，号称“全面大换新的一代”",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-03",
-      "time": "11:51",
-      "publishedAt": "2026-11-03T11:51:20.000Z",
-      "url": "https://www.ithome.com/1/021/794.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/1b4f69ee-b668-4d9b-9e02-10d34e49430e.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 11 月 3 日消息，荣耀全球首席营销官关海涛刚刚发文，正式官宣了数字 700 系列手机， 号称“荣耀数字系列全面大换新的一代” 。 据介绍，荣耀 700 系列将在冬日亮相，内部代号 Flora —— 古罗马神话里掌管春天的花神。他直言这个名字藏着团队的一份战略企图心：“700 系列必将是荣耀数字系列迭代承启的一代，也是数字系列一次全面焕新的起点…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-13618e2fb63a",
-      "title": "古尔曼：苹果首款折叠屏手机 iPhone Duo 原计划 11 月发布，最终“仓促提前至 10 月”致库存严重短缺",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-03",
-      "time": "11:50",
-      "publishedAt": "2026-11-03T11:50:02.000Z",
-      "url": "https://www.ithome.com/1/021/793.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/8a940add-65e7-475b-aa9a-891e859ec182.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 11 月 3 日消息，据彭博社记者 Mark Gurman（马克・古尔曼）报道，苹果首款折叠屏手机 iPhone Duo 实际上是“仓促推出”。 古尔曼表示，苹果最初计划于今年 11 月率先美国和中国市场发布这款产品，但最终将上市时间提前至 10 月 23 日，相应机型同步在全球 70 多个国家和地区同步开售。这一决定导致产品上市初期库存严重短缺…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-29dd29ea4825",
-      "title": "华为畅享 100 标准版手机实况窗效果优化，独占“灵动刘海”显示方案",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-03",
-      "time": "11:37",
-      "publishedAt": "2026-11-03T11:37:24.000Z",
-      "url": "https://www.ithome.com/1/021/788.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/0a647490-4bac-4eb1-bf83-947d90e59991.jpg",
-      "summary": "IT之家 11 月 3 日消息，在 10 月 28 日的华为双十一焕新季 · 全场景新品发布会上，华为董事、终端 BG CEO 何刚正式发布了畅享 100 系列手机。其中， 标准版配备一块 6.56 英寸 LCD 水滴屏 ，售价 1399 元起。 华为此前在鸿蒙 HarmonyOS 4 系统上带来了实况窗功能，支持将同一应用的多条通知聚合在单张动态卡片，并…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
@@ -417,26 +377,6 @@ window.phoneRadarAuto = {
       "summary": "Size-wise, it’s said to be almost identical to the S26 Ultra at 163.76 × 78.25 × 7.97 mm, and the S Pen still slots in at the bottom. The post Galaxy S27 Ultra dummy unit compared…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b9fcada2d9d1",
-      "title": "Apple Released the iPhone X Nine Years Ago Today",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-03",
-      "time": "08:58",
-      "publishedAt": "2026-11-03T08:58:51.000Z",
-      "url": "https://www.macrumors.com/2026/11/03/apple-released-iphone-x-nine-years-ago-today/",
-      "image": "https://images.macrumors.com/article-new/2025/04/iphone-x-front-back-feature-1.jpg",
-      "summary": "Apple's iPhone X went on sale nine years ago today, November 3, 2017. The 10th-anniversary iPhone was the first with an all-screen OLED display and no Home button, and its gesture…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -519,46 +459,6 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-f446620886b2",
-      "title": "竹本青：曝荣耀新机测试14000mAh及以上电池",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-03",
-      "time": "06:51",
-      "publishedAt": "2026-11-03T06:51:16.000Z",
-      "url": "https://www.coolapk.com/feed/74820846",
-      "image": "http://image.coolapk.com/feed/2026/1103/14/4248714_a8151849_8674_7503_19@1438x849.jpg",
-      "summary": "【曝荣耀新机测试14000mAh及以上电池，裸机重量低于250g】 11月3日，博主数码闲聊站曝光荣耀新机电池方案：新机正测试14000mAh-15000mAh±高密度电池，主打一周续航。 针对机身重量和厚度疑问，博主回应称裸机未达到250g，厚度也不会很夸张。 #今日热点# #MagicOS11# #荣耀Power2#",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-befcb253d48c",
-      "title": "竹本青：小米云服务开启双11特惠：会员包年3折起",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-03",
-      "time": "06:35",
-      "publishedAt": "2026-11-03T06:35:12.000Z",
-      "url": "https://www.coolapk.com/feed/74820542",
-      "image": "http://image.coolapk.com/feed/2026/1103/14/4248714_4be1b16a_7711_0187_498@1080x1380.jpg",
-      "summary": "【小米云服务开启双11特惠：会员包年3折起】 50GB 黄金包年会员 —— 29元 200GB 白金包年会员 —— 109元 2TB 钻石包年会员 —— 239元 活动时间：10月31日10点~11月14日 #HyperOS4# #今日热点# #数码日常#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -842,26 +742,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-221366388945",
-      "title": "我想说句实话，澎湃4.0比colorOS17流畅。#ColorOS17# #小米18ProMax# #OPPOFindX9Pro#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-03",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74797009",
-      "image": "",
-      "summary": "我想说句实话，澎湃4.0比colorOS17流畅。#ColorOS17# #小米18ProMax# #OPPOFindX9Pro#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-c6fc20b101f0",
       "title": "米果手机 17 Ultra 徕卡版 诞生～[受虐滑稽]",
       "source": "酷安热榜",
@@ -902,27 +782,87 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-7fa0006eff64",
-      "title": "看看是什么机型，貌似是全酷安第一个用iOS的k20pro发的帖子[受虐滑稽]",
+      "id": "newsnow-221366388945",
+      "title": "我想说句实话，澎湃4.0比colorOS17流畅。#ColorOS17# #小米18ProMax# #OPPOFindX9Pro#",
       "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-11-03",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74813958",
+      "url": "https://www.coolapk.com/feed/74797009",
       "image": "",
-      "summary": "看看是什么机型，貌似是全酷安第一个用iOS的k20pro发的帖子[受虐滑稽]",
+      "summary": "我想说句实话，澎湃4.0比colorOS17流畅。#ColorOS17# #小米18ProMax# #OPPOFindX9Pro#",
       "tags": [
-        "iPhone",
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-f14828f38a86",
+      "id": "newsnow-15e99190b561",
+      "title": "中兴否认“400亿卖掉手机业务”报道",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-03",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74827770",
+      "image": "",
+      "summary": "中兴否认“400亿卖掉手机业务”报道",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-c81be9c0a8d2",
+      "title": "7300块512G的4G手机已经用上了，大家有啥想问的没，挑口水的别来[欢呼]",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-03",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74812077",
+      "image": "",
+      "summary": "7300块512G的4G手机已经用上了，大家有啥想问的没，挑口水的别来[欢呼]",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-fe22bb682601",
+      "title": "雷峰网：中兴拟成立合资公司出售手机业务，估值约400亿",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-03",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74826109",
+      "image": "",
+      "summary": "雷峰网：中兴拟成立合资公司出售手机业务，估值约400亿",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-e618235eb413",
       "title": "女子每天玩手机10小时患手机痴呆症",
       "source": "微博热搜",
       "brand": "行业",
@@ -932,11 +872,51 @@ window.phoneRadarAuto = {
       "date": "2026-11-03",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%AF%8F%E5%A4%A9%E7%8E%A9%E6%89%8B%E6%9C%BA10%E5%B0%8F%E6%97%B6%E6%82%A3%E6%89%8B%E6%9C%BA%E7%97%B4%E5%91%86%E7%97%87%23&t=31&band_rank=1&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%AF%8F%E5%A4%A9%E7%8E%A9%E6%89%8B%E6%9C%BA10%E5%B0%8F%E6%97%B6%E6%82%A3%E6%89%8B%E6%9C%BA%E7%97%B4%E5%91%86%E7%97%87%23&t=31&band_rank=2&Refer=top",
       "image": "",
       "summary": "女子每天玩手机10小时患手机痴呆症",
       "tags": [
         "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-a1a630383f64",
+      "title": "iPhone天气下周五温差",
+      "source": "微博热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-11-03",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=iPhone%E5%A4%A9%E6%B0%94%E4%B8%8B%E5%91%A8%E4%BA%94%E6%B8%A9%E5%B7%AE&t=31&band_rank=4&Refer=top",
+      "image": "",
+      "summary": "iPhone天气下周五温差",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-f9b5d848342e",
+      "title": "华为新机线上线下差价一千",
+      "source": "微博热搜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-11-03",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E6%96%B0%E6%9C%BA%E7%BA%BF%E4%B8%8A%E7%BA%BF%E4%B8%8B%E5%B7%AE%E4%BB%B7%E4%B8%80%E5%8D%83&t=31&band_rank=16&Refer=top",
+      "image": "",
+      "summary": "华为新机线上线下差价一千",
+      "tags": [
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
@@ -975,26 +955,6 @@ window.phoneRadarAuto = {
       "url": "https://www.androidauthority.com/quick-share-sdk-launch-time-frame-3730882/",
       "image": "",
       "summary": "Google will soon let devs bake Quick Share directly into their apps.",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-7ebe12c2cfef",
-      "title": "Early Black Friday Brings Steep Price Drops on Apple's Latest iPhone Cases",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-02",
-      "time": "18:42",
-      "publishedAt": "2026-11-02T18:42:41.000Z",
-      "url": "https://www.macrumors.com/2026/11/02/early-black-friday-cases/",
-      "image": "https://images.macrumors.com/article-new/2026/11/iphone-black-friday-cases.jpeg",
-      "summary": "Amazon this week has big discounts across Apple's Clear, Silicone, and TechWoven Cases for the iPhone 18 Pro lineup. These deals are part of ongoing early Black Friday deals, whic…",
       "tags": [
         "iPhone",
         "爆料",
