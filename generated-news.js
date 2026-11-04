@@ -1,44 +1,464 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-11-04T02:19:11.526Z",
+  "updatedAt": "2026-11-04T12:06:00.206Z",
   "news": [
     {
-      "id": "auto-352bdb2bd9c7",
-      "title": "微信灰度测试「声音清晰度增强」选项：目前支持苹果 iOS 和安卓版，华为鸿蒙版仍在开发中",
+      "id": "auto-53fb89605747",
+      "title": "上海警方：两人使用“外挂”软件代拍演出活动门票非法牟利，被依法刑拘",
       "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-11-04",
-      "time": "01:34",
-      "publishedAt": "2026-11-04T01:34:40.000Z",
-      "url": "https://www.ithome.com/1/021/925.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/9afd735f-ed13-4cc1-9300-1c8be839a446.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 11 月 4 日消息，近日有多个用户反馈，微信正在灰度测试“声音清晰度增强”功能，例如 iOS 客户端在“我-设置-更多”中新增独立入口，用户开启后可在听语音消息、音视频通话等场景获得更清晰的声音。 腾讯客服回应IT之家表示，这是微信为提升语音沟通体验推出的智能功能。当用户听不清对方说话时，系统会根据听力情况自动匹配合适的清晰度。 有测试权限的用…",
+      "time": "12:00",
+      "publishedAt": "2026-11-04T12:00:59.000Z",
+      "url": "https://www.ithome.com/1/022/411.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/0ce16318-7b89-43e8-94dc-af031ee4d89a.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 11 月 4 日消息，据澎湃新闻报道，近日，两名男子因使用“外挂”软件代拍演出活动门票非法牟利，被上海警方依法刑事拘留。 经查，自今年 10 月起，余某、冯某分别在网络平台、朋友圈发布演出活动门票代抢揽客信息，并约定以收取服务费的方式加价出售。两人各自操控多部手机接入票务平台，通过非法“外挂”软件实施快速抢票并非法获利。目前，案件正在进一步办理中…",
       "tags": [
-        "Huawei",
+        "行业",
         "爆料",
         "自动抓取"
       ]
     },
     {
-      "id": "coolapk-user-d6bf542d4831",
-      "title": "竹本青：【消息称荣耀700全系搭载骁龙8系处理器、原生背屏】 ● 性能： 标准版与Pro版骁龙8系处理器 系列最大电池90…",
+      "id": "auto-bcdfb848addc",
+      "title": "OnePlus Ace 7 Pro vs Realme GT 8 Pro: Which Snapdragon 8 Elite Gen 5 Flagship Is Better?",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-04",
+      "time": "11:29",
+      "publishedAt": "2026-11-04T11:29:23.000Z",
+      "url": "https://www.gizmochina.com/2026/11/04/oneplus-ace-7-pro-vs-realme-gt-8-pro/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/image-11-300x151.png?x42064",
+      "summary": "OnePlus Ace 7 Pro and Realme GT 8 Pro take different approaches to flagship performance. Both feature Qualcomm’s latest Snapdragon 8 Elite Gen 5 chipset, but their priorities diff…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-35ea08398dc4",
+      "title": "Apple’s split launch strategy may have driven record revenues",
+      "source": "Gizmochina",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-04",
+      "time": "11:17",
+      "publishedAt": "2026-11-04T11:17:08.000Z",
+      "url": "https://www.gizmochina.com/2026/11/04/apple-q4-2026-revenue-and-split-launch-strategy/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/iPhone-18-Pro-300x200.png?x42064",
+      "summary": "Apple’s split launch pushed fiscal Q4 revenue to a record $114.5B as missing base models steered buyers to the iPhone 18 Pro. The post Apple’s split launch strategy may have drive…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5f919f80be00",
+      "title": "Not surprising: Galaxy Z Fold 9, 9 Ultra might not upgrade a single camera",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-11-04",
+      "time": "11:17",
+      "publishedAt": "2026-11-04T11:17:00.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/not-surprising-galaxy-z-fold-9-9-ultra-might-not-change-a-single-camera",
+      "image": "https://cdn.mos.cms.futurecdn.net/G2Q2XGRkfyAeCuS72UcdDb-1920-80.jpg",
+      "summary": "If you're expecting camera upgrades for Samsung's 2027 foldables, think again. Rumors say the Galaxy Z9 series could look largely the same.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a10b5822bbd0",
+      "title": "I loved the vivo X500 Pro Max, but one thing is holding it back from greatness",
+      "source": "Android Authority",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-04",
+      "time": "11:00",
+      "publishedAt": "2026-11-04T11:00:25.000Z",
+      "url": "https://www.androidauthority.com/vivo-x500-pro-max-review-3729439/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/vivo-x500-pro-max-7-scaled.jpg",
+      "summary": "The X500 Pro Max is a no-nonsense camera upgrade — but it'll cost you.",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-bcbc2e9294af",
+      "title": "I tested the iPhone 18 Pro’s and Pixel 11 Pro’s photo styles, and there’s a clear winner",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-04",
+      "time": "10:00",
+      "publishedAt": "2026-11-04T10:00:38.000Z",
+      "url": "https://www.androidauthority.com/iphone-18-pro-photography-styles-vs-pixel-11-pro-camera-looks-3730359/",
+      "image": "",
+      "summary": "The iPhone 18 Pro and Pixel 11 Pro take different approaches to photo filters. Here's why I prefer Apple's.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6a13e9fb0d63",
+      "title": "The Galaxy S27 Pro could miss out on Qualcomm’s fastest chip",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-04",
+      "time": "09:49",
+      "publishedAt": "2026-11-04T09:49:05.000Z",
+      "url": "https://www.androidpolice.com/galaxy-s27-pro-could-miss-out-on-qualcomms-fastest-chip/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/02/galaxy-s26-ultra-hero-6-1.jpg",
+      "summary": "No Extreme for Pro",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-4dcd8e9c353e",
+      "title": "竹本青：《智能体发展自律公约》发布，腾讯等20家单位起草",
       "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "高可信爆料",
       "date": "2026-11-04",
-      "time": "01:11",
-      "publishedAt": "2026-11-04T01:11:11.000Z",
-      "url": "https://www.coolapk.com/feed/74836603",
-      "image": "http://image.coolapk.com/feed/2026/1104/09/4248714_21f719f4_4669_3469_798@1440x533.jpg",
-      "summary": "【消息称荣耀700全系搭载骁龙8系处理器、原生背屏】 ● 性能： 标准版与Pro版骁龙8系处理器 系列最大电池9000mAh± ● 屏幕： 正面6.57英寸 1.5K四等边屏 背面1.72英寸 原生自拍背屏 ● 影像： 全系均搭载潜望镜 200Mp常规大底主摄 支持200mm增距镜 —————————————— 11月3日，荣耀高管关海涛官宣700系列手机…",
+      "time": "09:02",
+      "publishedAt": "2026-11-04T09:02:21.000Z",
+      "url": "https://www.coolapk.com/feed/74845893",
+      "image": "http://image.coolapk.com/feed/2026/1104/17/4248714_85808cd5_2940_5163_645@1850x1589.jpg",
+      "summary": "【《智能体发展自律公约》正式发布，由腾讯、华为、小米等20家单位起草】 11月4日，2026年世界互联网大会乌镇峰会“智能体互信互联互操作全球合作创新——携手构建智能互联网论坛”正式发布了《智能体发展自律公约》。 《自律公约》是落实《智能体规范应用与创新发展实施意见》“强化行业自律”任务部署的具体举措，由中国信息通信研究院、腾讯、蚂蚁、阿里、抖音、华为、小…",
       "tags": [
-        "HONOR",
+        "Huawei",
         "爆料",
         "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-b181aba0a3aa",
+      "title": "Counterpoint：2026 年第三季度全球智能手机平均售价创单季度历史最高水平，苹果营收创同期新高",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-04",
+      "time": "08:54",
+      "publishedAt": "2026-11-04T08:54:30.000Z",
+      "url": "https://www.ithome.com/1/022/263.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2025/9/0b4c37cc-0a5c-4014-8fdb-ce8d7cbc4ae0.png",
+      "summary": "IT之家 11 月 4 日消息，根据 Counterpoint Research 最新的市场监测服务，尽管 2026 年第三季度全球智能手机出货量同比大幅下降 19%，但全球智能手机营收仍同比增长 3%，达到 1,140 亿美元 （IT之家注：现汇率约合 7,619.8 亿元人民币） 。平均售价（ASP）上涨支撑了市场营收，抵消了出货量下滑带来的影响。高端…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-11d9eb5c132b",
+      "title": "The Galaxy S27 Pro might have a chip problem, and it’s not Exynos",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-04",
+      "time": "08:12",
+      "publishedAt": "2026-11-04T08:12:17.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s27-pro-ultra-chipset-leak-3731457/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/galaxy-s27-cad-render-ah-1.jpg",
+      "summary": "The Galaxy S27 Pro may dodge getting an Exynos 2700, but it may not get a Snapdragon 8 Elite Extreme Gen 6 either.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-006d35be0312",
+      "title": "Don’t expect better cameras with Galaxy Z Fold 9 and Z Fold 9 Ultra",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-04",
+      "time": "08:04",
+      "publishedAt": "2026-11-04T08:04:24.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-9-ultra-no-camera-hardware-upgrade/",
+      "image": "",
+      "summary": "While the Galaxy S27 Ultra is expected to bring a redesigned camera layout and improved image quality, anyone hoping to see those upgrades trickle down to the Galaxy Z Fold 9 and…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-58af73a543c0",
+      "title": "Redmi Turbo 6 Max tipped to pack massive 11,000mAh battery, largest ever on a Xiaomi phone",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-04",
+      "time": "07:53",
+      "publishedAt": "2026-11-04T07:53:55.000Z",
+      "url": "https://www.gizmochina.com/2026/11/04/redmi-turbo-6-max-11000mah-battery/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/02/Redmi-Turbo-5-Max-300x188.png?x42064",
+      "summary": "Redmi’s upcoming Redmi Turbo 6 Max is expected to bring a major upgrade over its predecessor, particularly in the battery department. Reliable tipster Digital Chat Station has now…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-cb934b50c30d",
+      "title": "竹本青：曝REDMI 2K屏性能新机确定搭载11000mAh电池",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-04",
+      "time": "07:30",
+      "publishedAt": "2026-11-04T07:30:45.000Z",
+      "url": "https://www.coolapk.com/feed/74844049",
+      "image": "http://image.coolapk.com/feed/2026/1104/15/4248714_e2486e98_7444_1971_774@2966x2489.jpg",
+      "summary": "【曝REDMI 2K屏性能新机 确定搭载11000mAh电池】 11月4日 博主数码闲聊站爆料，REDMI一款7英寸天玑性能新机电池规格确定，容量11000mAh，额定40.72Wh。 此前爆料信息显示，该机配备7英寸2K大R角直屏，正在评估185Hz刷新率，采用LIPO极窄四等边设计，边框预计1mm级别，支持BT.2020广色域，使用高亮低功耗基材。 #…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-0c005e98f1c1",
+      "title": "竹本青：华为「星芒」首款阔直板OSTA O1 Pro包装盒曝光",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-04",
+      "time": "07:20",
+      "publishedAt": "2026-11-04T07:20:20.000Z",
+      "url": "https://www.coolapk.com/feed/74843857",
+      "image": "http://image.coolapk.com/feed/2026/1104/15/4248714_fa3eac70_6818_8588_515@333x132.jpg",
+      "summary": "【华为「星芒」首款阔直板OSTA O1 Pro包装盒部分曝光，提供16+1TB版本】 11月4日，数码闲聊站放出OSTA O1 Pro包装盒部分实拍，确认存在16GB+1TB版本，生产主体标注为华为终端有限公司。 今天早些时候，该博主已爆料确认华为全新子品牌「星芒」英文名为OSTA，首款阔直板机型命名OSTA O1 Pro，首波新品定位旗舰级别。 结合已有…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-6138a2671b5e",
+      "title": "竹本青：【一加 Ace 7系列 首销情况曝光：销量约为Ace6的180%】 11月4日，博主「RD观测」分享第三方统计的一…",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-04",
+      "time": "06:44",
+      "publishedAt": "2026-11-04T06:44:42.000Z",
+      "url": "https://www.coolapk.com/feed/74843190",
+      "image": "http://image.coolapk.com/feed/2026/1104/14/4248714_cff34bd8_4681_0345_14@1271x635.jpg",
+      "summary": "【一加 Ace 7系列 首销情况曝光：销量约为Ace6的180%】 11月4日，博主「RD观测」分享第三方统计的一加 Ace 7系列首销表现： 以首销当天（16:00开售）+后三天为标准，同期销量约为上代Ace 6的180%；其中Ace 7 Pro同期约为上代Ace 6的125%。 #今日热点# #ColorOS17# #一加Ace7#",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-6888494fc79a",
+      "title": "JSCHEN小小狐：一加Ace 7系列首销情况曝光：达上代180%",
+      "source": "JSCHEN小小狐",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-04",
+      "time": "06:10",
+      "publishedAt": "2026-11-04T06:10:09.000Z",
+      "url": "https://www.coolapk.com/feed/74842545",
+      "image": "http://image.coolapk.com/feed/2026/1104/14/4702274_c99d545c_2607_3906_71@1440x1008.jpg",
+      "summary": "『一加 Ace 7 系列首销情况曝光：达上代 180%』 数码博主 RD观测 今日公布了一加 Ace 7 系列两款机型的首销激活量情况，具体如下： 一加 Ace 7 系列（Ace 7 + Ace 7 Pro） ◇ 约为一加 Ace 6 同期 180% 一加 Ace 7 Pro 单机型 ◇ 约为一加 Ace 6 同期 125% *标准：首销当日（约 16 点…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-378a4a552629",
+      "title": "New Galaxy S27 Pro leak reveals a Snapdragon surprise",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-04",
+      "time": "06:02",
+      "publishedAt": "2026-11-04T06:02:27.000Z",
+      "url": "https://www.sammobile.com/news/new-galaxy-s27-pro-leak-reveals-snapdragon-surprise/",
+      "image": "",
+      "summary": "Samsung is expected to announce four new high-end phones early next year: the Galaxy S27, Galaxy S27+, Galaxy S27 Pro, and Galaxy S27 Ultra. Interestingly, these four devices will…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-9aa3184be405",
+      "title": "数码闲聊站：嗯，华为子品牌星芒的英文名是OSTA，手机盒上也写的OSTA，第一款阔直板手机…",
+      "source": "数码闲聊站",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-04",
+      "time": "05:35",
+      "publishedAt": "2026-11-04T05:35:00.000Z",
+      "url": "https://weibo.com/6048569942/RpOwXgPj7",
+      "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1iiq35sbu30j30zc0qntff.jpg",
+      "summary": "嗯，华为子品牌星芒的英文名是OSTA，手机盒上也写的OSTA，第一款阔直板手机叫OSTA O1 Pro，目前第一波新品定位都是旗舰级[污]",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "coolapk-user-b3c465214bde",
+      "title": "JSCHEN小小狐：尼康宣布推出 ZR 2.00 版固件：RED + H.265",
+      "source": "JSCHEN小小狐",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-04",
+      "time": "05:20",
+      "publishedAt": "2026-11-04T05:20:11.000Z",
+      "url": "https://www.coolapk.com/feed/74841676",
+      "image": "http://image.coolapk.com/feed/2026/1104/13/4702274_f51700c8_9607_5171_813@1800x2400.jpg",
+      "summary": "『尼康宣布推出 ZR 2.00 版固件：RED + H.265』 11 月 4 日，尼康宣布推出适用于尼康 ZR 的固件 2.00 版本，将于稍晚时日提供下载。作为 ZR 上市以来的首次重大更新，2.00 进一步拓展影像创作空间，并优化专业制作流程。主要更新包括： 融 RED 色彩科学于更紧凑的 H.265 格式 - H.265 色调模式选项中新增 Log…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-3504aa34ff96",
+      "title": "Samsung’s Galaxy S27 Ultra may fix the privacy screen brightness flaw",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-04",
+      "time": "05:00",
+      "publishedAt": "2026-11-04T05:00:12.000Z",
+      "url": "https://www.androidpolice.com/samsung-galaxy-s27-ultra-could-fix-privacy-screen-brightness-flaw/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/03/a-hand-holding-a-galaxy-s26-ultra-with-a-dim-privacy-protected-screen-displaying-the-words-privacy-display-on-the-background.png",
+      "summary": "Privacy Display could arrive to a non-Ultra model for the first time",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-30874d700833",
+      "title": "Galaxy S25, S25 FE available with massive discounts in India",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-04",
+      "time": "04:22",
+      "publishedAt": "2026-11-04T04:22:43.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s25-s25-fe-available-with-massive-discounts-india/",
+      "image": "",
+      "summary": "If you live in India and have been eyeing Samsung’s Galaxy S25 or Galaxy S25 FE, now is a great time to buy either of these phones. The base variant of the Galaxy S25, which offer…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f9f82733b8d2",
+      "title": "Oppo Find X10 Ultra again tipped with Dimensity 9600 Pro, may pack ~8,000mAh battery",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-04",
+      "time": "03:32",
+      "publishedAt": "2026-11-04T03:32:00.000Z",
+      "url": "https://www.gizmochina.com/2026/11/04/oppo-find-x10-ultra-key-specs-tipped-dimenisty-9600-pro/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Oppo-Find-X9-Ultra-300x200.png?x42064",
+      "summary": "Oppo’s latest flagship lineup, comprising the Find X10 and Find X10 Pro Max, is now widely available in several countries. Looking ahead to 2027, the brand is expected to introduc…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-01eb1e6bf73b",
+      "title": "数码闲聊站：Find X10U内部代号星云，之前说过最新工程机测试2nm天玑9600 Pr…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-04",
+      "time": "02:32",
+      "publishedAt": "2026-11-04T02:32:00.000Z",
+      "url": "https://weibo.com/6048569942/RpNkG2jHr",
+      "image": "",
+      "summary": "Find X10U内部代号星云，之前说过最新工程机测试2nm天玑9600 Pro，如果顺利推进，那么这将是行业第一台天玑超大杯，亮点还是行业唯一原生10X潜望长焦+2亿高动态多摄影像，6.89\"2K+144Hz BOE，大R角极窄四等边新屏[偷乐]",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
       ]
     },
     {
@@ -123,7 +543,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "newsnow-0f973fdcaac7",
-      "title": "【苹果 Apple 智能国行版 上线测试：千问大模型，支持iPhone 15 Pro及以后机型】",
+      "title": "Apple智能国行版上线测试：千问大模型，支持iPhone 15 Pro及后续机型",
       "source": "酷安热榜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -134,7 +554,7 @@ window.phoneRadarAuto = {
       "publishedAt": "",
       "url": "https://www.coolapk.com/feed/74834417",
       "image": "",
-      "summary": "【苹果 Apple 智能国行版 上线测试：千问大模型，支持iPhone 15 Pro及以后机型】",
+      "summary": "Apple智能国行版上线测试：千问大模型，支持iPhone 15 Pro及后续机型",
       "tags": [
         "iPhone",
         "爆料",
@@ -162,6 +582,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-9807a61f7405",
+      "title": "经查，oppo/真我手机内确有，一加不清楚。",
+      "source": "酷安热榜",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-04",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74837554",
+      "image": "",
+      "summary": "经查，oppo/真我手机内确有，一加不清楚。",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-34c567383f53",
       "title": "米果手机 17 Ultra 徕卡版 诞生～[受虐滑稽]",
       "source": "酷安热榜",
@@ -177,26 +617,6 @@ window.phoneRadarAuto = {
       "summary": "米果手机 17 Ultra 徕卡版 诞生～[受虐滑稽]",
       "tags": [
         "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-a69bda9e7e50",
-      "title": "逆天华为售后，屏幕在保修期内烧屏了，没和我沟通就私自给我换了单体屏幕，屏幕和边框缝隙巨大肉眼可见明显，没有任何气密性可言，单体屏还不能返厂做防水，我黑猫，12315都投诉了，手机放在售后等了一周反馈，还是只给我换单体屏，官方客服说哪里坏了换哪里没问题，我说屏幕和边框缝隙这么大防水呢，说这个没办法新机也不能保证百分百防水，你给我换单体屏，也没问题你倒是给我返厂做好防水啊，至少屏幕边框缝隙要处理好吧，真的逆天，我还是华为v4会员，这尊享客服没屁用#售后那些事儿# #鸿蒙7#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-04",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74816860",
-      "image": "",
-      "summary": "逆天华为售后，屏幕在保修期内烧屏了，没和我沟通就私自给我换了单体屏幕，屏幕和边框缝隙巨大肉眼可见明显，没有任何气密性可言，单体屏还不能返厂做防水，我黑猫，12315都投诉了，手机放在售后等了一周反馈，还是只给我换单体屏，官方客服说哪里坏了换哪里没问题，我说屏幕和边框缝隙这么大防水呢，说这个没办法新机也不能保证百分百防水，你给我换单体屏，也没问题你倒是给我返…",
-      "tags": [
-        "Huawei",
         "爆料",
         "NewsNow"
       ]
@@ -222,49 +642,109 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-e4aeae535786",
-      "title": "#徕卡一瞬##谷歌相机##手机摄影#",
+      "id": "newsnow-81a9aefe27fe",
+      "title": "曝OPPO Find X10 Ultra最新测试天玑9600 Pro",
       "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-11-04",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74828019",
+      "url": "https://www.coolapk.com/feed/74838231",
       "image": "",
-      "summary": "#徕卡一瞬##谷歌相机##手机摄影#",
+      "summary": "曝OPPO Find X10 Ultra最新测试天玑9600 Pro",
       "tags": [
-        "行业",
+        "OPPO",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-0a994b388ce0",
-      "title": "雷峰网：中兴拟成立合资公司出售手机业务，估值约400亿",
+      "id": "newsnow-a69bda9e7e50",
+      "title": "逆天华为售后，屏幕在保修期内烧屏了，没和我沟通就私自给我换了单体屏幕，屏幕和边框缝隙巨大肉眼可见明显，没有任何气密性可言，单体屏还不能返厂做防水，我黑猫，12315都投诉了，手机放在售后等了一周反馈，还是只给我换单体屏，官方客服说哪里坏了换哪里没问题，我说屏幕和边框缝隙这么大防水呢，说这个没办法新机也不能保证百分百防水，你给我换单体屏，也没问题你倒是给我返厂做好防水啊，至少屏幕边框缝隙要处理好吧，真的逆天，我还是华为v4会员，这尊享客服没屁用#售后那些事儿# #鸿蒙7#",
       "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-11-04",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74826109",
+      "url": "https://www.coolapk.com/feed/74816860",
       "image": "",
-      "summary": "雷峰网：中兴拟成立合资公司出售手机业务，估值约400亿",
+      "summary": "逆天华为售后，屏幕在保修期内烧屏了，没和我沟通就私自给我换了单体屏幕，屏幕和边框缝隙巨大肉眼可见明显，没有任何气密性可言，单体屏还不能返厂做防水，我黑猫，12315都投诉了，手机放在售后等了一周反馈，还是只给我换单体屏，官方客服说哪里坏了换哪里没问题，我说屏幕和边框缝隙这么大防水呢，说这个没办法新机也不能保证百分百防水，你给我换单体屏，也没问题你倒是给我返…",
       "tags": [
-        "行业",
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-b64dcd0a0bd6",
-      "title": "iPhone天气下周五温差",
+      "id": "newsnow-327ead9c0f96",
+      "title": "长时间刷手机后的大脑变化",
       "source": "微博热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-11-04",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%97%B6%E9%97%B4%E5%88%B7%E6%89%8B%E6%9C%BA%E5%90%8E%E7%9A%84%E5%A4%A7%E8%84%91%E5%8F%98%E5%8C%96%23&t=31&band_rank=30&Refer=top",
+      "image": "",
+      "summary": "长时间刷手机后的大脑变化",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-fc1e9c992d94",
+      "title": "长时间刷手机 大脑里发生了什么",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-04",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E9%95%BF%E6%97%B6%E9%97%B4%E5%88%B7%E6%89%8B%E6%9C%BA+%E5%A4%A7%E8%84%91%E9%87%8C%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88",
+      "image": "",
+      "summary": "长时间刷手机 大脑里发生了什么",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-371d05333ca3",
+      "title": "老伯遗失绑有1500万购房款的手机",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-04",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E8%80%81%E4%BC%AF%E9%81%97%E5%A4%B1%E7%BB%91%E6%9C%891500%E4%B8%87%E8%B4%AD%E6%88%BF%E6%AC%BE%E7%9A%84%E6%89%8B%E6%9C%BA",
+      "image": "",
+      "summary": "老伯遗失绑有1500万购房款的手机",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-c4017f35cf77",
+      "title": "苹果手机天气数据显示异常",
+      "source": "抖音热点",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
       "type": "爆料",
@@ -272,9 +752,9 @@ window.phoneRadarAuto = {
       "date": "2026-11-04",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=iPhone%E5%A4%A9%E6%B0%94%E4%B8%8B%E5%91%A8%E4%BA%94%E6%B8%A9%E5%B7%AE&t=31&band_rank=28&Refer=top",
+      "url": "https://www.douyin.com/hot/2728207",
       "image": "",
-      "summary": "iPhone天气下周五温差",
+      "summary": "苹果手机天气数据显示异常",
       "tags": [
         "iPhone",
         "爆料",
@@ -282,39 +762,19 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-ea6dcb82fda4",
-      "title": "全球伙伴期待同中国携手开拓新机遇",
-      "source": "今日头条热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-04",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7703934320747610121/",
-      "image": "",
-      "summary": "全球伙伴期待同中国携手开拓新机遇",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-6378a1bae16a",
-      "title": "iPhone系统天气 下周五-32℃",
-      "source": "百度热搜",
+      "id": "newsnow-ae1d1dba3165",
+      "title": "气象部门回应iPhone天气异常数据",
+      "source": "抖音热点",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
       "type": "爆料",
-      "trust": "媒体汇总",
+      "trust": "待验证",
       "date": "2026-11-04",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=iPhone%E7%B3%BB%E7%BB%9F%E5%A4%A9%E6%B0%94+%E4%B8%8B%E5%91%A8%E4%BA%94-32%E2%84%83",
+      "url": "https://www.douyin.com/hot/2729500",
       "image": "",
-      "summary": "iPhone系统天气 下周五-32℃",
+      "summary": "气象部门回应iPhone天气异常数据",
       "tags": [
         "iPhone",
         "爆料",
@@ -371,32 +831,12 @@ window.phoneRadarAuto = {
       "trust": "媒体汇总",
       "date": "2026-11-03",
       "time": "22:20",
-      "publishedAt": "2026-11-03T22:20:33.000Z",
+      "publishedAt": "2026-11-03T22:20:26.000Z",
       "url": "https://www.macrumors.com/2026/11/03/iphone-jailbreak-lockdown-mode/",
       "image": "https://images.macrumors.com/article-new/2022/07/Lockdown-Mode-Feature.jpg",
       "summary": "Just over a week after jailbreaking an iPhone Duo on launch day, hacker team Calif is back with another jailbreak demonstration. This time, the group has jailbroken an iPhone in L…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e7657205a1d8",
-      "title": "The Galaxy Z Fold 8 has received its first major Amazon discount, weeks before Black Friday",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-03",
-      "time": "17:33",
-      "publishedAt": "2026-11-03T17:33:51.000Z",
-      "url": "https://www.androidpolice.com/samsung-galaxy-z-fold-8-deal-early-black-friday-discount-amazon/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/09/samsung-galaxy-z-fold-8-play-store.jpg",
-      "summary": "Enjoy no-strings savings on one of the year's most exciting releases.",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -522,26 +962,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-9cc54a2f50b9",
-      "title": "竹本青：【消息称华为「星芒」新机售价不低，配置对标旗舰线】 11月3日晚间，数码闲聊站再次爆料华为全新子品牌「星芒」，称新…",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-03",
-      "time": "13:46",
-      "publishedAt": "2026-11-03T13:46:28.000Z",
-      "url": "https://www.coolapk.com/feed/74829284",
-      "image": "http://image.coolapk.com/feed/2026/1103/21/4248714_c37e3a1e_4304_9631_941@3503x2366.jpg",
-      "summary": "【消息称华为「星芒」新机售价不低，配置对标旗舰线】 11月3日晚间，数码闲聊站再次爆料华为全新子品牌「星芒」，称新机配置对标旗舰产线，正式售价不低。 综合此前爆料，「星芒」产品面向线上渠道，定位并非中低端，但具备一定性价比，品牌已规划多款机型，其中一款搭载主动散热风扇。 此外，作为该品牌的首款阔直板机型，O1 Pro核心硬件配置已基本曝光： ● 6.39\"…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "coolapk-user-69c8414a9d2c",
       "title": "JSCHEN小小狐：同学的首发樱羽艾玛版小米 17 Pro（ 背屏的亮线据说是某个寻常的下午， 他像往常一样将手机正面朝下扣在桌面上……",
       "source": "JSCHEN小小狐",
@@ -559,26 +979,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-1e6f6bec6f1f",
-      "title": "Thinking of buying a Galaxy S25 Ultra or S26 Ultra in India? Now’s the time",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-03",
-      "time": "13:41",
-      "publishedAt": "2026-11-03T13:41:36.000Z",
-      "url": "https://www.sammobile.com/news/thinking-buying-galaxy-s25-ultra-s26-ultra-india-nows-the-time/",
-      "image": "",
-      "summary": "Samsung is offering attractive discounts on its latest and last year's flagship non-foldable smartphones, the Galaxy S26 Ultra and Galaxy S25 Ultra, in India. This makes it a grea…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -635,26 +1035,6 @@ window.phoneRadarAuto = {
       "url": "https://www.gizmochina.com/2026/11/03/galaxy-z-fold-9-ultra-camera-specs-leaked-new-200mp-sensor-for-the-ultra/",
       "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/galaxy-z-fold-9-ultra-camera-specs-leaked-new-200mp-sensor-for-the-ultra-2-300x169.jpg?x42064",
       "summary": "According to the tip, the standard Z Fold 9 is sticking with the same dual-camera setup as the Z Fold 8: a 50 MP main camera paired with a 50 MP ultra-wide, and no dedicated telep…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-44b8995551e6",
-      "title": "Galaxy Z Fold 8 sales jumped 20% following iPhone Duo launch",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-03",
-      "time": "11:02",
-      "publishedAt": "2026-11-03T11:02:13.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-sales-rise-20-percent-iphone-duo-launch/",
-      "image": "",
-      "summary": "Contrary to everyone's expectations, sales of the Galaxy Z Fold 8 have actually increased since the launch of Apple's first foldable phone, the iPhone Duo. While this might seem p…",
       "tags": [
         "Samsung",
         "爆料",
