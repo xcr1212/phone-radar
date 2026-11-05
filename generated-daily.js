@@ -1,5 +1,5 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-11-05T17:59:58.930Z",
+  "updatedAt": "2026-11-05T23:37:32.258Z",
   "issueDate": "2026-11-05",
   "issue": "VOL.261105",
   "title": "手机情报日报",
@@ -50,7 +50,7 @@ window.phoneRadarDaily = {
           "trust": "媒体汇总",
           "date": "2026-11-05",
           "time": "15:56",
-          "publishedAt": "2026-11-05T15:56:42.000Z",
+          "publishedAt": "2026-11-05T15:56:33.000Z",
           "url": "https://www.macrumors.com/2026/11/05/early-black-friday-deals-iphone/",
           "image": "https://images.macrumors.com/article-new/2026/11/iphone-early-black-friday.jpeg",
           "verdict": "先看",

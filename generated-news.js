@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-11-05T17:59:58.930Z",
+  "updatedAt": "2026-11-05T23:37:32.258Z",
   "news": [
+    {
+      "id": "auto-d0fca90381fd",
+      "title": "Caviar launches ultra-luxury iPhone Duo collection with 12 zodiac-inspired designs",
+      "source": "Gizmochina",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-05",
+      "time": "21:32",
+      "publishedAt": "2026-11-05T21:32:13.000Z",
+      "url": "https://www.gizmochina.com/2026/11/05/caviar-zodiac-iphone-duo-collection-launched-specs-price/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/caviar-zodiac-collection-launched-300x169.png?x96268",
+      "summary": "Caviar, the company that modifies consumer electronics with high-end materials, has announced a new customization option for the foldable iPhone Duo. The new lineup, called the Zo…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-09fbe711a8e5",
+      "title": "Samsung brings back free doubled storage discount on Galaxy Z Fold 8",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-05",
+      "time": "20:30",
+      "publishedAt": "2026-11-05T20:30:00.000Z",
+      "url": "https://9to5google.com/2026/11/05/samsung-galaxy-z-fold-8-doubled-storage-discount/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Galaxy-Z-Fold-8-lavender-3.jpg?quality=82&strip=all&w=1600",
+      "summary": "Samsung is running its much-loved “double the storage” promo on its Galaxy Z Fold 8 right now. more…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d2eb167f9593",
+      "title": "Samsung’s Galaxy Z Fold 8 is $300 off ahead of Black Friday",
+      "source": "The Verge",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-05",
+      "time": "19:27",
+      "publishedAt": "2026-11-05T19:27:06.000Z",
+      "url": "https://www.theverge.com/gadgets/1027659/samsung-galaxy-z-fold-8-beats-pill-deal-sale",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/samsung-galaxy-z-fold-8-roundup.png?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "Android fans with a bit of iPhone Duo envy, take note: The Samsung Galaxy Z Fold 8 is discounted to $1,599.99 at both Amazon and Best Buy, a hefty $300 markdown from its usual pri…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-bec2f36e03fd",
+      "title": "Pixel 11 and Pixel 10 at up to $350 off are great phone deals that will only be harder to find in RAMageddon",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-05",
+      "time": "19:05",
+      "publishedAt": "2026-11-05T19:05:00.000Z",
+      "url": "https://9to5google.com/2026/11/05/google-pixel-11-10-deals-ramageddon/",
+      "image": "",
+      "summary": "As RAMageddon’s impact squeezes smartphones more and more, great deals on a new smartphone are going to get harder to find. Right now, Google’s Pixel 11 series and the Pixel 10 ar…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-32f10d0fe00d",
       "title": "The Pixel 11 is quietly elite. [Video]",
@@ -51,7 +131,7 @@ window.phoneRadarAuto = {
       "trust": "媒体汇总",
       "date": "2026-11-05",
       "time": "15:56",
-      "publishedAt": "2026-11-05T15:56:42.000Z",
+      "publishedAt": "2026-11-05T15:56:33.000Z",
       "url": "https://www.macrumors.com/2026/11/05/early-black-friday-deals-iphone/",
       "image": "https://images.macrumors.com/article-new/2026/11/iphone-early-black-friday.jpeg",
       "summary": "Cellular carriers have always offered big savings on the newest iPhone models during the holidays, and Black Friday 2026 sales have kicked off at AT&T and T-Mobile , as well as Be…",
@@ -197,26 +277,6 @@ window.phoneRadarAuto = {
       "summary": "IT之家 11 月 5 日消息，摩托罗拉今日发布 Signature 27 手机，新品采用仿织物外壳、铝合金边框，配备骁龙 8 Elite Extreme Gen 6 芯片，拥有 2 亿像素潜望长焦镜头， 售价 1,599 美元 （IT之家注：现汇率约合 10,690 元人民币） ，初期仅在美国发售。 据介绍，这款手机提供煤烟黑、卡普莱特橄榄绿两种 Pan…",
       "tags": [
         "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-10d30cea7504",
-      "title": "The Razr Fold is Motorola’s best phone in years, and now it’s $1,100 off at T-Mobile",
-      "source": "Android Police",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-05",
-      "time": "13:17",
-      "publishedAt": "2026-11-05T13:17:10.000Z",
-      "url": "https://www.androidpolice.com/motorola-razr-fold-deal-t-mobile-early-black-friday/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/07/motorola-razr-fold-closing-hand-1.JPG",
-      "summary": "Ready to ditch the iPhone Duo? This Motorola foldable is the next best thing.",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -702,26 +762,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-76dd9585b6bc",
-      "title": "之前预估的28年，现在到30年了，还能回到白菜价的时候吗，手机都换不起了[doge笑哭] #一加Ace7Pro# #iPhone18ProMax#",
-      "source": "酷安热榜",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-05",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74847021",
-      "image": "",
-      "summary": "之前预估的28年，现在到30年了，还能回到白菜价的时候吗，手机都换不起了[doge笑哭] #一加Ace7Pro# #iPhone18ProMax#",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-7457e9a00901",
       "title": "来组毕业照，想问一下你们一般都是多大年纪被催婚的，都是那些地方的人，为什么我们贵州刚毕业就被安排相亲了。。。太不理解了现在都不敢回家，一回家就是唠叨，我一个人不吃谁家大米不花父母的钱，为什么非要让大家都不开心，不理解父母非要让孩子早早的进入婚姻那所围城里。我一个人想去哪里去哪里，想干嘛就干嘛，想学的东西也好技能也罢可以尽情的悦己，早早的结婚能干嘛？没结过不知道但是我觉得一个人的时间精力是有限的，给了家庭孩子乱七八糟的事情上想想就很累🤔，希望我做父母的时候能清醒一点做过开明的父母[害羞]#手机摄影# #酷安萌妹#",
       "source": "酷安热榜",
@@ -742,39 +782,39 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-453df751d2b4",
-      "title": "孩子们不好我不想换手机但是看到这个价格忍不住怎么办[受虐滑稽]",
+      "id": "newsnow-76dd9585b6bc",
+      "title": "之前预估的28年，现在到30年了，还能回到白菜价的时候吗，手机都换不起了[doge笑哭] #一加Ace7Pro# #iPhone18ProMax#",
       "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-11-05",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74852370",
+      "url": "https://www.coolapk.com/feed/74847021",
       "image": "",
-      "summary": "孩子们不好我不想换手机但是看到这个价格忍不住怎么办[受虐滑稽]",
+      "summary": "之前预估的28年，现在到30年了，还能回到白菜价的时候吗，手机都换不起了[doge笑哭] #一加Ace7Pro# #iPhone18ProMax#",
       "tags": [
-        "行业",
+        "OPPO",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-9091426c6df7",
-      "title": "中兴手机微信公众号迁移，新主体变为上海申启纪元智能终端",
-      "source": "酷安热榜",
+      "id": "newsnow-c1c49f206cd6",
+      "title": "王子璇手机是被收走的",
+      "source": "微博热搜",
       "brand": "行业",
       "model": "智能手机市场",
       "type": "爆料",
-      "trust": "高关注爆料源",
+      "trust": "待验证",
       "date": "2026-11-05",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74851675",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AD%90%E7%92%87%E6%89%8B%E6%9C%BA%E6%98%AF%E8%A2%AB%E6%94%B6%E8%B5%B0%E7%9A%84%23&t=31&band_rank=6&Refer=top",
       "image": "",
-      "summary": "中兴手机微信公众号迁移，新主体变为上海申启纪元智能终端",
+      "summary": "王子璇手机是被收走的",
       "tags": [
         "行业",
         "爆料",
@@ -1037,26 +1077,6 @@ window.phoneRadarAuto = {
       "summary": "The iPhone 18 Pro and Pixel 11 Pro take different approaches to photo filters. Here's why I prefer Apple's.",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-11d9eb5c132b",
-      "title": "The Galaxy S27 Pro might have a chip problem, and it’s not Exynos",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-04",
-      "time": "08:12",
-      "publishedAt": "2026-11-04T08:12:17.000Z",
-      "url": "https://www.androidauthority.com/samsung-galaxy-s27-pro-ultra-chipset-leak-3731457/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/galaxy-s27-cad-render-ah-1.jpg",
-      "summary": "The Galaxy S27 Pro may dodge getting an Exynos 2700, but it may not get a Snapdragon 8 Elite Extreme Gen 6 either.",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
