@@ -1,6 +1,346 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-11-05T09:28:27.758Z",
+  "updatedAt": "2026-11-05T17:59:58.930Z",
   "news": [
+    {
+      "id": "auto-32f10d0fe00d",
+      "title": "The Pixel 11 is quietly elite. [Video]",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-05",
+      "time": "17:30",
+      "publishedAt": "2026-11-05T17:30:11.000Z",
+      "url": "https://www.androidpolice.com/video/the-pixel-11-is-quietly-elite-video/",
+      "image": "",
+      "summary": "Google has been smart.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-bddf213fed26",
+      "title": "Samsung’s next cheap phone will have a much bigger battery than the Galaxy S26 Ultra",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-05",
+      "time": "16:30",
+      "publishedAt": "2026-11-05T16:30:00.000Z",
+      "url": "https://9to5google.com/2026/11/05/samsungs-next-cheap-phone-will-have-a-much-bigger-battery-than-the-galaxy-s26-ultra/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/galaxy-s26-ultra-review-15.jpg?quality=82&strip=all&w=1600",
+      "summary": "According to a new report, Samsung’s upcoming mid-range smartphone is getting a big battery upgrade that outdoes that company’s current $1,400 flagship. more…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e4cb6916271c",
+      "title": "Best Early Black Friday Deals on iPhone 18 Pro and iPhone Duo",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-05",
+      "time": "15:56",
+      "publishedAt": "2026-11-05T15:56:42.000Z",
+      "url": "https://www.macrumors.com/2026/11/05/early-black-friday-deals-iphone/",
+      "image": "https://images.macrumors.com/article-new/2026/11/iphone-early-black-friday.jpeg",
+      "summary": "Cellular carriers have always offered big savings on the newest iPhone models during the holidays, and Black Friday 2026 sales have kicked off at AT&T and T-Mobile , as well as Be…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f8272cb31fa7",
+      "title": "荣耀 700 系列手机盲盒周边曝光：背屏设计确认，消息称标准版搭载骁龙 8s Gen4 处理器",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-05",
+      "time": "15:46",
+      "publishedAt": "2026-11-05T15:46:20.000Z",
+      "url": "https://www.ithome.com/1/023/019.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/8e8b9811-2951-42d8-aea4-d07d0a8a4905.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 11 月 5 日消息，博主 @WHYLAB 今日分享了荣耀 700 系列手机的盲盒周边。从盲盒可以看出，荣耀 700 系列手机将采用小矩阵背屏设计。博主透露， 背屏尺寸为 1.72 英寸 。 该博主还透露， 荣耀 700 标准版采用骁龙 8s Gen4 处理器，Pro 则搭载骁龙 8 Gen5 处理器 。 据IT之家今日早些时候报道，博主 @数码…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-494bfaeb35f4",
+      "title": "iPhone Duo durability tested on unfolding livestream, now over 260,000 folds",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-05",
+      "time": "15:10",
+      "publishedAt": "2026-11-05T15:10:50.000Z",
+      "url": "https://9to5mac.com/2026/11/05/iphone-duo-durability-tested-on-unfolding-livestream-now-over-260000-folds/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-split-view-wide.jpg?quality=82&strip=all&w=1600",
+      "summary": "CNET built a ‘Fold-a-Phone’ machine that’s been constantly folding and unfolding iPhone Duo for over a week to test durability, while livestreaming daily. Here’s how it’s going. m…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-40e3842a446f",
+      "title": "竹本青：现在研究怎么低价买是主流",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-05",
+      "time": "14:20",
+      "publishedAt": "2026-11-05T14:20:18.000Z",
+      "url": "https://www.coolapk.com/feed/74874792",
+      "image": "http://image.coolapk.com/feed/2026/1105/22/4248714_5be35fbe_8417_1529_782@1271x1200.jpg",
+      "summary": "现在研究怎么低价买是主流",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-f22c4d37f5e1",
+      "title": "竹本青：【任天堂社长称Switch 2 暂无进一步涨价计划】 11月5日，任天堂公布2027财年上半年（4月至9月）财报。…",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-05",
+      "time": "14:19",
+      "publishedAt": "2026-11-05T14:19:02.000Z",
+      "url": "https://www.coolapk.com/feed/74874762",
+      "image": "http://image.coolapk.com/feed/2026/1105/22/4248714_922d6816_8340_0246_898@1272x1356.jpg",
+      "summary": "【任天堂社长称Switch 2 暂无进一步涨价计划】 11月5日，任天堂公布2027财年上半年（4月至9月）财报。财报显示，Switch 2 第二季度出货267万台，同比下滑41%；上半财年累计出货649万台，同比下滑37.4%。 随后，社长古川俊太郎在说明会问答中表示，目前没有进一步上调Switch 2 售价的计划。他称凭借充足的存储芯片供给，公司仍能达…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-0a8b2381485a",
+      "title": "苹果 HomeView 安全功能曝光：人脸识别连续失败 3 次，必须掏出 iPhone 解锁",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-05",
+      "time": "13:55",
+      "publishedAt": "2026-11-05T13:55:43.000Z",
+      "url": "https://www.ithome.com/1/022/993.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/3d5b72a4-5736-4a19-8c69-67eb1030a854.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 11 月 5 日消息，据报道，苹果即将推出的智能家居中枢 HomeView 将加入防欺骗保护机制：如果有人连续三次试图通过伪造人脸骗过设备的人脸识别系统，账户就会被锁定。此后，用户需要通过 iPhone 完成身份验证，才能重新解锁。 这项功能十分重要，因为 HomeView 将被放置在厨房、走廊等家庭公共区域，用于展示个人消息和日历信息。相关安全…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4d9ded0b7717",
+      "title": "Ugreen launches Dark Cherry MagFlow Qi2.2 slim power bank for iPhone 18 Pro with 10,000mAh capacity",
+      "source": "Gizmochina",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-05",
+      "time": "13:42",
+      "publishedAt": "2026-11-05T13:42:03.000Z",
+      "url": "https://www.gizmochina.com/2026/11/05/ugreen-launches-dark-cherry-magflow-qi2-2-slim-power-bank-for-iphone-18-pro-with-10000mah-capacity/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/ugreen-launches-dark-cherry-magflow-qi2-2-slim-power-bank-for-iphone-18-pro-3-300x169.jpg?x96268",
+      "summary": "The hardware itself hasn’t changed. At 13.9 mm thick, it's easy to carry in your pocket. The post Ugreen launches Dark Cherry MagFlow Qi2.2 slim power bank for iPhone 18 Pro with…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3eb058fb752c",
+      "title": "摩托罗拉发布 Signature 27 手机：骁龙 8EE6 芯片、2 亿长焦，1599 美元",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-05",
+      "time": "13:37",
+      "publishedAt": "2026-11-05T13:37:36.000Z",
+      "url": "https://www.ithome.com/1/022/988.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/68edb792-a51d-40d2-b1aa-ae234d294f04.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 11 月 5 日消息，摩托罗拉今日发布 Signature 27 手机，新品采用仿织物外壳、铝合金边框，配备骁龙 8 Elite Extreme Gen 6 芯片，拥有 2 亿像素潜望长焦镜头， 售价 1,599 美元 （IT之家注：现汇率约合 10,690 元人民币） ，初期仅在美国发售。 据介绍，这款手机提供煤烟黑、卡普莱特橄榄绿两种 Pan…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-10d30cea7504",
+      "title": "The Razr Fold is Motorola’s best phone in years, and now it’s $1,100 off at T-Mobile",
+      "source": "Android Police",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-05",
+      "time": "13:17",
+      "publishedAt": "2026-11-05T13:17:10.000Z",
+      "url": "https://www.androidpolice.com/motorola-razr-fold-deal-t-mobile-early-black-friday/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/07/motorola-razr-fold-closing-hand-1.JPG",
+      "summary": "Ready to ditch the iPhone Duo? This Motorola foldable is the next best thing.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-92a9bd37c433",
+      "title": "iPhone Duo’s durability woes are driving buyers straight to Galaxy Z Fold 8",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-05",
+      "time": "13:13",
+      "publishedAt": "2026-11-05T13:13:33.000Z",
+      "url": "https://www.gizmochina.com/2026/11/05/iphone-duos-durability-woes-are-driving-buyers-straight-to-galaxy-z-fold-8/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/Apple-iPhone-Duo-300x169.jpg?x96268",
+      "summary": "iPhone Duo durability issues and screen cracking drive users to Samsung, boosting Galaxy Z Fold 8 sales by over 20% in just one week. The post iPhone Duo’s durability woes are dri…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-963e2620654a",
+      "title": "OPPO Find X10 Ultra and vivo X500 Ultra leak points to five 200MP cameras between them",
+      "source": "Android Authority",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-05",
+      "time": "12:24",
+      "publishedAt": "2026-11-05T12:24:05.000Z",
+      "url": "https://www.androidauthority.com/oppo-find-x10-ultra-vivo-x500-ultra-camera-specs-leak-3731990/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/04/OPPO-Find-X9-Ultra-vs-Find-X9-Pro.jpg",
+      "summary": "OPPO’s next Ultra reportedly pairs triple 200MP cameras with a 50MP 10x zoom, while vivo brings back a 200MP main camera.",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-76c73e21f1ce",
+      "title": "Samsung Galaxy S26 gets a £250 price cut",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-05",
+      "time": "12:11",
+      "publishedAt": "2026-11-05T12:11:52.000Z",
+      "url": "https://www.gizmochina.com/2026/11/05/samsung-galaxy-s26-gets-a-250-price-cut/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/samsung-galaxy-s26-gets-a-250-price-cut-300x169.png?x96268",
+      "summary": "On Samsung’s UK site, the 256GB model with 12GB of RAM is currently showing at £709, down from £959, so it’s sitting under the £750 mark ahead of the main Black Friday rush. The p…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b57be122804d",
+      "title": "Resident Evil director Zach Cregger explains why the iPhone is vital to his work",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-05",
+      "time": "12:07",
+      "publishedAt": "2026-11-05T12:07:57.000Z",
+      "url": "https://9to5mac.com/2026/11/05/resident-evil-director-zach-cregger-explains-why-the-iphone-is-vital-to-his-work/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Resident-Evil-director-Zach-Cregger-explains-why-the-iPhone-is-vital-to-his-work.jpg?quality=82&strip=all&w=1600",
+      "summary": "There have been a number of high-profile movies technically shot on iPhone , but in most cases they are using the same professional cinematography kit they would use with other ca…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c71ace3816b4",
+      "title": "Got an iPhone Duo on Launch Day? Tomorrow Could Be Your Last Chance to Return It",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-05",
+      "time": "10:32",
+      "publishedAt": "2026-11-05T10:32:51.000Z",
+      "url": "https://www.macrumors.com/2026/11/05/iphone-duo-launch-day-nov-6-last-chance-return/",
+      "image": "https://images.macrumors.com/article-new/2026/09/iphone-duo-colors.jpg",
+      "summary": "If you bought an iPhone Duo on launch day and are having second thoughts about keeping Apple's first foldable iPhone, tomorrow could be your last chance to return it for a refund.…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-790bb701bc86",
+      "title": "Samsung's new Galaxy S27 Pro could come with one disappointing compromise",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-11-05",
+      "time": "09:29",
+      "publishedAt": "2026-11-05T09:29:52.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/s27-pro-might-miss-out-on-the-snapdragon-8-elite-extreme-gen-6",
+      "image": "https://cdn.mos.cms.futurecdn.net/5RcL2twzvS3RNbq8ai2mqa-1920-80.jpg",
+      "summary": "Samsung's Galaxy S27 Pro could miss out on one of the Ultra's biggest upgrades",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
     {
       "id": "coolapk-user-c0bb807fd05a",
       "title": "竹本青：华为nova 17系列配置曝光：8系新平台",
@@ -53,7 +393,7 @@ window.phoneRadarAuto = {
       "time": "07:54",
       "publishedAt": "2026-11-05T07:54:57.000Z",
       "url": "https://www.gizmochina.com/2026/11/05/iphone-duo-scalpers-are-loosing-money-on-every-unit-they-sell/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/you-have-to-wipe-all-data-from-iphone-duo-to-change-display-zoom-after-initial-3-300x169.jpg?x42064",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/you-have-to-wipe-all-data-from-iphone-duo-to-change-display-zoom-after-initial-3-300x169.jpg?x96268",
       "summary": "Reports from local merchants describe a sharp turnaround. Problems with the hinge and software that still feels incomplete have dampened interest. The post iPhone Duo scalpers are…",
       "tags": [
         "iPhone",
@@ -73,30 +413,10 @@ window.phoneRadarAuto = {
       "time": "07:27",
       "publishedAt": "2026-11-05T07:27:23.000Z",
       "url": "https://www.gizmochina.com/2026/11/05/you-have-to-wipe-all-data-from-iphone-duo-to-change-display-zoom-after-initial-setup/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/you-have-to-wipe-all-data-from-iphone-duo-to-change-display-zoom-after-initial-3-300x169.jpg?x42064",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/you-have-to-wipe-all-data-from-iphone-duo-to-change-display-zoom-after-initial-3-300x169.jpg?x96268",
       "summary": "On every other iPhone, you can change this Display Zoom setting whenever you want in Settings. On the Duo, that option simply vanishes once setup is done. The post You have to wip…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0c23792b9a9f",
-      "title": "7 英寸手机卷土重来：消息称年底至明年上半年将推出多款大屏机型，覆盖中端、旗舰等定位",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-05",
-      "time": "07:05",
-      "publishedAt": "2026-11-05T07:05:55.000Z",
-      "url": "https://www.ithome.com/1/022/757.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2018/10/20181020_191603_170.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 11 月 5 日消息，博主 @数码闲聊站 今日发文爆料，年底至明年上半年， 各手机厂商将发布多款 7 英寸大屏手机 ，包括： 7 英寸等深四等边超万级大电池中端机 7 英寸超超万级大电池性能中端机 7 英寸等深四曲面轻薄次旗舰机 7 英寸 2K 万级大电池性能机 7 英寸 2K 万级大电池旗舰机 ▲ IT之家开箱：华为 Mate 20 X 图赏…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
@@ -119,26 +439,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "评测",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-f1c133139824",
-      "title": "竹本青：华为鸿蒙首款台式机亮相：整机国产化率100%，全栈自主可控",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-05",
-      "time": "06:20",
-      "publishedAt": "2026-11-05T06:20:36.000Z",
-      "url": "https://www.coolapk.com/feed/74864499",
-      "image": "http://image.coolapk.com/feed/2026/1105/16/4248714_9866385e_5932_412_680@1000x5442.jpg",
-      "summary": "【华为鸿蒙首款台式机亮相：整机国产化率100%，全栈自主可控】 11月5日，鸿蒙办公产业峰会在武汉召开，华为首款鸿蒙台式机正式亮相——擎云HM650／HM650g。整机国产化率100%，全栈自主可控，主打政企、金融、能源等商用场景。 其中，HM650g面向政务客户、HM650面向企业客户。 软硬件方面，擎云HM650／HM650g搭载自研麒麟X90处理器，…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -193,7 +493,7 @@ window.phoneRadarAuto = {
       "time": "05:05",
       "publishedAt": "2026-11-05T05:05:15.000Z",
       "url": "https://www.gizmochina.com/2026/11/05/honor-700-series-snapdragon-8-gen-5-leak/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/Honor-600-Pro-300x235.png?x42064",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/Honor-600-Pro-300x235.png?x96268",
       "summary": "Honor is expected to unveil the Honor 700 series in China this month. The lineup will compete with the Oppo Reno 17 and Vivo S70 series, which are also expected to arrive around t…",
       "tags": [
         "HONOR",
@@ -213,7 +513,7 @@ window.phoneRadarAuto = {
       "time": "04:53",
       "publishedAt": "2026-11-05T04:53:40.000Z",
       "url": "https://www.gizmochina.com/2026/11/05/redmagic-12-pro-vs-honor-win-2/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/image-13-300x167.png?x42064",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/image-13-300x167.png?x96268",
       "summary": "RedMagic 12 Pro and Honor Win 2 represent two different approaches to flagship smartphone design. Both pack the same next-generation Snapdragon chipset, high-refresh-rate AMOLED d…",
       "tags": [
         "HONOR",
@@ -422,6 +722,46 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-7457e9a00901",
+      "title": "来组毕业照，想问一下你们一般都是多大年纪被催婚的，都是那些地方的人，为什么我们贵州刚毕业就被安排相亲了。。。太不理解了现在都不敢回家，一回家就是唠叨，我一个人不吃谁家大米不花父母的钱，为什么非要让大家都不开心，不理解父母非要让孩子早早的进入婚姻那所围城里。我一个人想去哪里去哪里，想干嘛就干嘛，想学的东西也好技能也罢可以尽情的悦己，早早的结婚能干嘛？没结过不知道但是我觉得一个人的时间精力是有限的，给了家庭孩子乱七八糟的事情上想想就很累🤔，希望我做父母的时候能清醒一点做过开明的父母[害羞]#手机摄影# #酷安萌妹#",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-05",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74866286",
+      "image": "",
+      "summary": "来组毕业照，想问一下你们一般都是多大年纪被催婚的，都是那些地方的人，为什么我们贵州刚毕业就被安排相亲了。。。太不理解了现在都不敢回家，一回家就是唠叨，我一个人不吃谁家大米不花父母的钱，为什么非要让大家都不开心，不理解父母非要让孩子早早的进入婚姻那所围城里。我一个人想去哪里去哪里，想干嘛就干嘛，想学的东西也好技能也罢可以尽情的悦己，早早的结婚能干嘛？没结过不…",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-453df751d2b4",
+      "title": "孩子们不好我不想换手机但是看到这个价格忍不住怎么办[受虐滑稽]",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-05",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74852370",
+      "image": "",
+      "summary": "孩子们不好我不想换手机但是看到这个价格忍不住怎么办[受虐滑稽]",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-9091426c6df7",
       "title": "中兴手机微信公众号迁移，新主体变为上海申启纪元智能终端",
       "source": "酷安热榜",
@@ -442,29 +782,29 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-55613bff9f0d",
-      "title": "孙子偷拿手机卖掉爷爷要回还要车费",
-      "source": "微博热搜",
+      "id": "newsnow-8b5dab3426c9",
+      "title": "大学生身挂 11 部手机无偿代跑校园跑，被查后独自扛下处分不供出同学，这算真义气还是真违规？",
+      "source": "知乎热榜",
       "brand": "行业",
       "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "待验证",
+      "type": "市场报告",
+      "trust": "媒体汇总",
       "date": "2026-11-05",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E5%AD%90%E5%81%B7%E6%8B%BF%E6%89%8B%E6%9C%BA%E5%8D%96%E6%8E%89%E7%88%B7%E7%88%B7%E8%A6%81%E5%9B%9E%E8%BF%98%E8%A6%81%E8%BD%A6%E8%B4%B9&t=31&band_rank=27&Refer=top",
+      "url": "https://www.zhihu.com/question/2101612544959969091",
       "image": "",
-      "summary": "孙子偷拿手机卖掉爷爷要回还要车费",
+      "summary": "大学生身挂 11 部手机无偿代跑校园跑，被查后独自扛下处分不供出同学，这算真义气还是真违规？",
       "tags": [
         "行业",
-        "爆料",
+        "市场报告",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-297486c43b9e",
-      "title": "大屏手机卷土重来",
-      "source": "百度热搜",
+      "id": "newsnow-2334ff817b59",
+      "title": "阔直板手机为什么火了",
+      "source": "今日头条热榜",
       "brand": "行业",
       "model": "智能手机市场",
       "type": "爆料",
@@ -472,49 +812,9 @@ window.phoneRadarAuto = {
       "date": "2026-11-05",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%B1%8F%E6%89%8B%E6%9C%BA%E5%8D%B7%E5%9C%9F%E9%87%8D%E6%9D%A5",
+      "url": "https://www.toutiao.com/trending/7704647901628075561/",
       "image": "",
-      "summary": "大屏手机卷土重来",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-31a3229b4ed0",
-      "title": "大金镯子早买几天省出一部手机",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-05",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E9%87%91%E9%95%AF%E5%AD%90%E6%97%A9%E4%B9%B0%E5%87%A0%E5%A4%A9%E7%9C%81%E5%87%BA%E4%B8%80%E9%83%A8%E6%89%8B%E6%9C%BA",
-      "image": "",
-      "summary": "大金镯子早买几天省出一部手机",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-11d9085951f5",
-      "title": "把手机掉在沙漠 一个月后失而复得",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-05",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E6%8A%8A%E6%89%8B%E6%9C%BA%E6%8E%89%E5%9C%A8%E6%B2%99%E6%BC%A0+%E4%B8%80%E4%B8%AA%E6%9C%88%E5%90%8E%E5%A4%B1%E8%80%8C%E5%A4%8D%E5%BE%97",
-      "image": "",
-      "summary": "把手机掉在沙漠 一个月后失而复得",
+      "summary": "阔直板手机为什么火了",
       "tags": [
         "行业",
         "爆料",
@@ -602,26 +902,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-d63f94212659",
-      "title": "Google’s Pixel 11 phones are up to 27 percent off",
-      "source": "The Verge",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-04",
-      "time": "15:59",
-      "publishedAt": "2026-11-04T15:59:31.000Z",
-      "url": "https://www.theverge.com/gadgets/1025370/google-pixel-11-pro-phone-deal-sale",
-      "image": "",
-      "summary": "You can save a heck of lot of money on Google’s Pixel 11 phones through November 8th, whether you want the best-for-the-least Pixel 11, or the slightly pricier Pixel 11 Pro that t…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-b218a7b5cd6c",
       "title": "Apple iPhone Duo review: the greatest iPhone ever made",
       "source": "Android Central",
@@ -673,7 +953,7 @@ window.phoneRadarAuto = {
       "time": "11:29",
       "publishedAt": "2026-11-04T11:29:23.000Z",
       "url": "https://www.gizmochina.com/2026/11/04/oneplus-ace-7-pro-vs-realme-gt-8-pro/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/image-11-300x151.png?x42064",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/image-11-300x151.png?x96268",
       "summary": "OnePlus Ace 7 Pro and Realme GT 8 Pro take different approaches to flagship performance. Both feature Qualcomm’s latest Snapdragon 8 Elite Gen 5 chipset, but their priorities diff…",
       "tags": [
         "OPPO",
@@ -693,7 +973,7 @@ window.phoneRadarAuto = {
       "time": "11:17",
       "publishedAt": "2026-11-04T11:17:08.000Z",
       "url": "https://www.gizmochina.com/2026/11/04/apple-q4-2026-revenue-and-split-launch-strategy/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/iPhone-18-Pro-300x200.png?x42064",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/iPhone-18-Pro-300x200.png?x96268",
       "summary": "Apple’s split launch pushed fiscal Q4 revenue to a record $114.5B as missing base models steered buyers to the iPhone 18 Pro. The post Apple’s split launch strategy may have drive…",
       "tags": [
         "iPhone",
@@ -782,26 +1062,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-006d35be0312",
-      "title": "Don’t expect better cameras with Galaxy Z Fold 9 and Z Fold 9 Ultra",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-04",
-      "time": "08:04",
-      "publishedAt": "2026-11-04T08:04:24.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-z-fold-9-ultra-no-camera-hardware-upgrade/",
-      "image": "",
-      "summary": "While the Galaxy S27 Ultra is expected to bring a redesigned camera layout and improved image quality, anyone hoping to see those upgrades trickle down to the Galaxy Z Fold 9 and…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-58af73a543c0",
       "title": "Redmi Turbo 6 Max tipped to pack massive 11,000mAh battery, largest ever on a Xiaomi phone",
       "source": "Gizmochina",
@@ -813,7 +1073,7 @@ window.phoneRadarAuto = {
       "time": "07:53",
       "publishedAt": "2026-11-04T07:53:55.000Z",
       "url": "https://www.gizmochina.com/2026/11/04/redmi-turbo-6-max-11000mah-battery/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/02/Redmi-Turbo-5-Max-300x188.png?x42064",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/02/Redmi-Turbo-5-Max-300x188.png?x96268",
       "summary": "Redmi’s upcoming Redmi Turbo 6 Max is expected to bring a major upgrade over its predecessor, particularly in the battery department. Reliable tipster Digital Chat Station has now…",
       "tags": [
         "Xiaomi",
@@ -893,7 +1153,7 @@ window.phoneRadarAuto = {
       "time": "03:32",
       "publishedAt": "2026-11-04T03:32:00.000Z",
       "url": "https://www.gizmochina.com/2026/11/04/oppo-find-x10-ultra-key-specs-tipped-dimenisty-9600-pro/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Oppo-Find-X9-Ultra-300x200.png?x42064",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/07/Oppo-Find-X9-Ultra-300x200.png?x96268",
       "summary": "Oppo’s latest flagship lineup, comprising the Find X10 and Find X10 Pro Max, is now widely available in several countries. Looking ahead to 2027, the brand is expected to introduc…",
       "tags": [
         "OPPO",
