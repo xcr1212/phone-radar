@@ -1,6 +1,106 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-11-06T15:54:31.351Z",
+  "updatedAt": "2026-11-06T21:28:44.391Z",
   "news": [
+    {
+      "id": "auto-08bdfc7bfff9",
+      "title": "Samsung had a lot of fun mocking iPhone Duo screen issues, here are our favorites",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-06",
+      "time": "19:10",
+      "publishedAt": "2026-11-06T19:10:01.000Z",
+      "url": "https://www.sammobile.com/news/samsung-fun-mocking-iphone-duo-screen-issues-favorites/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/11/samsung-canada-ig-slide1-folding-nothing-new.jpg",
+      "summary": "Samsung has never needed much encouragement to poke fun at Apple. With some iPhone Duo owners reporting cracked inner displays, Samsung's social media teams have had plenty of ins…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-faa64371041d",
+      "title": "Google is bringing iOS-style Settings icons to Chrome for Android",
+      "source": "Android Authority",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-06",
+      "time": "18:07",
+      "publishedAt": "2026-11-06T18:07:34.000Z",
+      "url": "https://www.androidauthority.com/chrome-android-colorful-settings-icons-redesign-3732624/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/11/Chrome-on-android-settings-redesign-2.jpg",
+      "summary": "The UI makeover is taking shape in Canary.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-55ea5388b238",
+      "title": "The Samsung Galaxy S26 Ultra scores a stunning discount ahead of Black Friday — save $450 right now",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-06",
+      "time": "17:19",
+      "publishedAt": "2026-11-06T17:19:28.000Z",
+      "url": "https://www.androidpolice.com/best-buy-samsung-galaxy-s26-ultra-deal-early-black-friday/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/02/samsung-galaxy-s26-ultra-11.jpg",
+      "summary": "The holidays have come early for Samsung fans.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a1c40059a0b0",
+      "title": "Deals: Best Buy early Black Friday now live, Galaxy S26 Ultra $450 off, Galaxy SmartTag 3 arrives, more",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-06",
+      "time": "16:48",
+      "publishedAt": "2026-11-06T16:48:13.000Z",
+      "url": "https://9to5google.com/2026/11/06/deals-best-buy-early-black-friday-galaxy-s26-smarttag-3/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/9to5Google-Nov-6-2.webp?w=1600",
+      "summary": "The giant Pixel 11 Pro, Pixel 11 Pro XL, and Pixel 11 Pro Fold , Samsung users will find a giant $450 off 2026 Galaxy S26 Ultra in brand new condition joined by today’s launch of…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-70f7ae3ef68d",
+      "title": "Next year’s iPhone Pro redesign will drop an important button, per leak",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-06",
+      "time": "16:02",
+      "publishedAt": "2026-11-06T16:02:43.000Z",
+      "url": "https://9to5mac.com/2026/11/06/next-years-iphone-pro-redesign-will-drop-an-important-button-per-leak/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-19-pro-20-anniversary-max.jpg?quality=82&strip=all&w=1600",
+      "summary": "Next year Apple is rumored to have a big redesign coming to the iPhone Pro models, and per a new leak, it may come with the loss of the Action button. more…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-4753f6f22832",
       "title": "Galaxy S26 Ultra at $949.99 is a good buy, $350 under its launch price",
@@ -59,26 +159,6 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-c058055b4d95",
-      "title": "Apple has a secret list of banned autocomplete phrases including ‘dictator Trump’ and ‘covid is a hoax’",
-      "source": "The Verge",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-06",
-      "time": "15:10",
-      "publishedAt": "2026-11-06T15:10:28.000Z",
-      "url": "https://www.theverge.com/tech/1028663/apple-ios-keyboard-blocked-words-autocomplete",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/DSC_2327.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "A researcher found over 100,000 words and phrases in \"every major language\" that are blocked from autocomplete and swipe-type in iOS, Reuters reports. The researcher, Derik Kauffm…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -279,26 +359,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-d89f0216bafb",
-      "title": "竹本青：【REDMI K100 首销情况曝光，同期销量约为K90的50%】 11月6日，博主「RD观测」分享第三方统计 的…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-06",
-      "time": "12:12",
-      "publishedAt": "2026-11-06T12:12:40.000Z",
-      "url": "https://www.coolapk.com/feed/74893617",
-      "image": "http://image.coolapk.com/feed/2026/1106/20/4248714_70011b73_7159_0576_983@1440x612.jpg",
-      "summary": "【REDMI K100 首销情况曝光，同期销量约为K90的50%】 11月6日，博主「RD观测」分享第三方统计 的REDMI K100首销情况：以首销当日（约10:00开售）+后三天为标准，同期销量约为上一代REDMI K90的50%。 REDMI K100于10月27日发布，首发2999元起，核心搭载骁龙8 Elite处理器、1.5K 165Hz M10…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -722,61 +782,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-dd6e0122d35a",
-      "title": "单位几个女生对安卓还是停留在卡顿、拍视频差、拍照片不如苹果这样的刻板印象[捂脸]，也懒得和她们争论了。拍视频不如苹果我能理解，这个旗舰机拍照片怎么可能不如苹果[捂脸]，估计是用的五六年前用的安卓，现在系统差距也越来越小了吧，说安卓拍照没有苹果那种感觉，质感不如苹果，真的给我惊呆了，而且现在四五千的安卓旗舰机也不卡了吧？我感觉苹果就是系统优化好，比如各个应用的阻尼感都差不多，很舒服，还有就是过渡动画舒服，还有马达扬声器在各个应用里面都优化的很好，但安卓超大杯这些也都不差。说实话你们觉得现在安卓和苹果差距还大吗？就光使用体验来说！#OPPOFindX9Ultra# #一加16# #iQOO16#",
+      "id": "newsnow-f2c97a83b9dd",
+      "title": "女朋友大晚上这两句话什么意思,发现她在一个不知道是什么的群#REDMIK100ProMax# #一加Ace7Pro# #OPPOFindX8Ultra#",
       "source": "酷安热榜",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-11-06",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74862616",
+      "url": "https://www.coolapk.com/feed/74899018",
       "image": "",
-      "summary": "单位几个女生对安卓还是停留在卡顿、拍视频差、拍照片不如苹果这样的刻板印象[捂脸]，也懒得和她们争论了。拍视频不如苹果我能理解，这个旗舰机拍照片怎么可能不如苹果[捂脸]，估计是用的五六年前用的安卓，现在系统差距也越来越小了吧，说安卓拍照没有苹果那种感觉，质感不如苹果，真的给我惊呆了，而且现在四五千的安卓旗舰机也不卡了吧？我感觉苹果就是系统优化好，比如各个应用…",
+      "summary": "女朋友大晚上这两句话什么意思,发现她在一个不知道是什么的群#REDMIK100ProMax# #一加Ace7Pro# #OPPOFindX8Ultra#",
       "tags": [
-        "OPPO",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-4ba4c6f0fb6d",
-      "title": "鸿蒙这东西真的是个拧巴的东西，你说他不流畅吧，点击反应还算行，但是各种二级菜单内容加载很慢很卡，你点进去如果马上滑动的话就很卡，你只能等一等，年纪大的人用着还行？不知道为啥这东西还那么多人买，并且这些粉丝还觉得这东西极为流畅。我看其他有兄弟说华子的触控也用的不是顶级供应商，cpu的弱加上触控弱，导致这种结果。不过鸿蒙也挺为难的，属于屎上雕花，这么孱弱的硬件上做到貌似流畅也不容易啊。如果不是阔直板这个形态大创新，真的是不会买任何华子的手机。各种媒体大v和用户都说的流畅，就这么个水平？？？很不理解。你别和我说什么厂家适配问题，我买的是手机，厂家适配关我什么事，再说为啥就鸿蒙适配这么费劲吗",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-06",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74861574",
-      "image": "",
-      "summary": "鸿蒙这东西真的是个拧巴的东西，你说他不流畅吧，点击反应还算行，但是各种二级菜单内容加载很慢很卡，你点进去如果马上滑动的话就很卡，你只能等一等，年纪大的人用着还行？不知道为啥这东西还那么多人买，并且这些粉丝还觉得这东西极为流畅。我看其他有兄弟说华子的触控也用的不是顶级供应商，cpu的弱加上触控弱，导致这种结果。不过鸿蒙也挺为难的，属于屎上雕花，这么孱弱的硬件…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-4d58da298194",
-      "title": "5百多买的华为mate80pm，商家说价格搞错了不发货怎么办 #华为Mate90ProMax# #华为#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-06",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74881005",
-      "image": "",
-      "summary": "5百多买的华为mate80pm，商家说价格搞错了不发货怎么办 #华为Mate90ProMax# #华为#",
-      "tags": [
-        "Huawei",
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
@@ -802,19 +822,59 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-767ae159c039",
-      "title": "Mate90拍的金鸡开幕短片夯爆了",
-      "source": "微博热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "id": "newsnow-0108c4c8a20c",
+      "title": "有没有懂行的大佬解释一下这个群是什么群？聊天内容是什么，群名称是什么。女朋友在这个群里面，气死我了#小米17Max# #一加Ace7Pro# #REDMIK100ProMax#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
-      "trust": "待验证",
+      "trust": "高关注爆料源",
       "date": "2026-11-06",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23Mate90%E6%8B%8D%E7%9A%84%E9%87%91%E9%B8%A1%E5%BC%80%E5%B9%95%E7%9F%AD%E7%89%87%E5%A4%AF%E7%88%86%E4%BA%86%23&t=31&band_rank=26&Refer=top",
+      "url": "https://www.coolapk.com/feed/74898668",
       "image": "",
-      "summary": "Mate90拍的金鸡开幕短片夯爆了",
+      "summary": "有没有懂行的大佬解释一下这个群是什么群？聊天内容是什么，群名称是什么。女朋友在这个群里面，气死我了#小米17Max# #一加Ace7Pro# #REDMIK100ProMax#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-94c1d65f00b7",
+      "title": "曝OPPO Find X10 Ultra项目暂停，曾最新测试天玑9600 Pro",
+      "source": "酷安热榜",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-06",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74889516",
+      "image": "",
+      "summary": "曝OPPO Find X10 Ultra项目暂停，曾最新测试天玑9600 Pro",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-22d2494c6599",
+      "title": "4点的时候，商场里面坐着。突然他拿着一盒蛋糕不好意思地送给我，想让我打个电话，我拒绝了食物但是帮他打电话，第一次给我挂了，第二次不接，然后我想到帮他发短信，显示未送达。我问他怎么回事他说手机坏了，等老乡，跟老乡一起来的，当时那个老乡说有急事让他等会，然后就再也没有回来，他觉得这个同伴可以信任。他还是要给我蛋糕我拒绝了。",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-06",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74894831",
+      "image": "",
+      "summary": "4点的时候，商场里面坐着。突然他拿着一盒蛋糕不好意思地送给我，想让我打个电话，我拒绝了食物但是帮他打电话，第一次给我挂了，第二次不接，然后我想到帮他发短信，显示未送达。我问他怎么回事他说手机坏了，等老乡，跟老乡一起来的，当时那个老乡说有急事让他等会，然后就再也没有回来，他觉得这个同伴可以信任。他还是要给我蛋糕我拒绝了。",
       "tags": [
         "行业",
         "爆料",
@@ -822,23 +882,23 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-3280af2f2958",
-      "title": "I’ve reviewed almost every Android foldable this year — here’s how the iPhone Duo compares",
-      "source": "The Verge",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "id": "newsnow-4ba4c6f0fb6d",
+      "title": "鸿蒙这东西真的是个拧巴的东西，你说他不流畅吧，点击反应还算行，但是各种二级菜单内容加载很慢很卡，你点进去如果马上滑动的话就很卡，你只能等一等，年纪大的人用着还行？不知道为啥这东西还那么多人买，并且这些粉丝还觉得这东西极为流畅。我看其他有兄弟说华子的触控也用的不是顶级供应商，cpu的弱加上触控弱，导致这种结果。不过鸿蒙也挺为难的，属于屎上雕花，这么孱弱的硬件上做到貌似流畅也不容易啊。如果不是阔直板这个形态大创新，真的是不会买任何华子的手机。各种媒体大v和用户都说的流畅，就这么个水平？？？很不理解。你别和我说什么厂家适配问题，我买的是手机，厂家适配关我什么事，再说为啥就鸿蒙适配这么费劲吗",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-05",
-      "time": "21:51",
-      "publishedAt": "2026-11-05T21:51:00.000Z",
-      "url": "https://www.theverge.com/tech/1026410/iphone-duo-foldable-android-samsung-google-xiaomi-oppo-honor",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/iphone-duo-android-foldables-1.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "When I first read Allison and Nilay's Verge review of the iPhone Duo, I was immediately struck by one of their complaints: that the cover display is too small. That's not how the…",
+      "trust": "高关注爆料源",
+      "date": "2026-11-06",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74861574",
+      "image": "",
+      "summary": "鸿蒙这东西真的是个拧巴的东西，你说他不流畅吧，点击反应还算行，但是各种二级菜单内容加载很慢很卡，你点进去如果马上滑动的话就很卡，你只能等一等，年纪大的人用着还行？不知道为啥这东西还那么多人买，并且这些粉丝还觉得这东西极为流畅。我看其他有兄弟说华子的触控也用的不是顶级供应商，cpu的弱加上触控弱，导致这种结果。不过鸿蒙也挺为难的，属于屎上雕花，这么孱弱的硬件…",
       "tags": [
-        "iPhone",
+        "Huawei",
         "爆料",
-        "自动抓取"
+        "NewsNow"
       ]
     },
     {
@@ -917,26 +977,6 @@ window.phoneRadarAuto = {
       "summary": "According to a new report, Samsung’s upcoming mid-range smartphone is getting a big battery upgrade that outdoes that company’s current $1,400 flagship. more…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e4cb6916271c",
-      "title": "Best Early Black Friday Deals on iPhone 18 Pro and iPhone Duo",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-05",
-      "time": "15:56",
-      "publishedAt": "2026-11-05T15:56:33.000Z",
-      "url": "https://www.macrumors.com/2026/11/05/early-black-friday-deals-iphone/",
-      "image": "https://images.macrumors.com/article-new/2026/11/iphone-early-black-friday.jpeg",
-      "summary": "Cellular carriers have always offered big savings on the newest iPhone models during the holidays, and Black Friday 2026 sales have kicked off at AT&T and T-Mobile , as well as Be…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
