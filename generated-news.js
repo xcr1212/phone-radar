@@ -1,6 +1,506 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-11-06T06:41:00.348Z",
+  "updatedAt": "2026-11-06T15:54:31.351Z",
   "news": [
+    {
+      "id": "auto-4753f6f22832",
+      "title": "Galaxy S26 Ultra at $949.99 is a good buy, $350 under its launch price",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-06",
+      "time": "15:48",
+      "publishedAt": "2026-11-06T15:48:15.000Z",
+      "url": "https://www.gizmochina.com/2026/11/06/galaxy-s26-ultra-at-949-99-is-a-good-buy-350-under-its-launch-price/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/04/galaxy-s26-ultra-features-kv-tb-300x169.jpg?x96268",
+      "summary": "Amazon US has the Samsung Galaxy S26 Ultra at $949.99 right now, which is $350 below its $1,299.99 launch price and $450 off the current list price. If you want a big Android phon…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0c17b66f1ca1",
+      "title": "iPhone Buying Guide 2026: Which iPhone Should You Buy?",
+      "source": "Gizmochina",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-06",
+      "time": "15:42",
+      "publishedAt": "2026-11-06T15:42:53.000Z",
+      "url": "https://www.gizmochina.com/2026/11/06/iphone-buying-guide-which-iphone-should-you-buy/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/Apple-iPhone-Duo-300x169.jpg?x96268",
+      "summary": "Apple launched three new iPhones on September 9 and raised the price of the iPhone 17e, iPhone 17, and iPhone Air on the same day. The new arrivals are the iPhone 18 Pro, iPhone 1…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-d2178be945fa",
+      "title": "竹本青：【华为昇腾实现Kimi K3.1 Pro模型LoRA训练适配】 11月4日，月之暗面正式开源Kimi K3.1 P…",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-06",
+      "time": "15:41",
+      "publishedAt": "2026-11-06T15:41:01.000Z",
+      "url": "https://www.coolapk.com/feed/74898070",
+      "image": "http://image.coolapk.com/feed/2026/1106/23/4248714_f18591d3_9660_7051_305@1521x493.jpg",
+      "summary": "【华为昇腾实现Kimi K3.1 Pro模型LoRA训练适配】 11月4日，月之暗面正式开源Kimi K3.1 Pro旗舰模型权重。此前，昇腾系列产品已持续支持 Kimi 系列模型，此次Kimi K3.1 Pro开源后，昇腾迅速完成模型适配，并在Atlas 950 SuperPoD上实现LoRA微调训练。 围绕超大规模 MoE 模型的训练挑战，昇腾从混合并…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-c058055b4d95",
+      "title": "Apple has a secret list of banned autocomplete phrases including ‘dictator Trump’ and ‘covid is a hoax’",
+      "source": "The Verge",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-06",
+      "time": "15:10",
+      "publishedAt": "2026-11-06T15:10:28.000Z",
+      "url": "https://www.theverge.com/tech/1028663/apple-ios-keyboard-blocked-words-autocomplete",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/DSC_2327.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "A researcher found over 100,000 words and phrases in \"every major language\" that are blocked from autocomplete and swipe-type in iOS, Reuters reports. The researcher, Derik Kauffm…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-70bcfb940b9f",
+      "title": "2026 年中国金鸡百花电影节开幕短片《完美婚礼》首播，使用华为 Mate 90 系列拍摄",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-06",
+      "time": "14:37",
+      "publishedAt": "2026-11-06T14:37:21.000Z",
+      "url": "https://www.ithome.com/1/023/559.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/6fbd5a4e-2f90-407a-bf57-53cf6c0e4387.jpg",
+      "summary": "IT之家 11 月 6 日消息，华为终端今日放出了 2026 年中国金鸡百花电影节宣传片暨开幕短片《完美婚礼》及幕后特辑。 据介绍，短片《完美婚礼》由黄建新监制、章笛沙执导，吴磊、庄达菲等全明星阵容参演， 并使用华为 Mate 90 系列手机进行拍摄 。 IT之家注意到， 这也是华为 Mate 系列手机已连续三年拍摄金鸡百花电影节宣传片 。去年的第 38…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-83f790899beb",
+      "title": "消息称 iQOO 品牌 7 英寸中端机已开模：超万级电池，暂定排期是 2027 年年中",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-06",
+      "time": "14:25",
+      "publishedAt": "2026-11-06T14:25:02.000Z",
+      "url": "https://www.ithome.com/1/023/556.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/2cbd74e6-34cd-46e3-867c-7c4ab3adcdea.png",
+      "summary": "IT之家 11 月 6 日消息，博主 @数码闲聊站 今日发文透露，iQOO 品牌 7 英寸中端机已开模。据称，该机将配备超万级容量电池， 暂定排期是 2027 年年中前后发布 。 博主还在评论区与网友展开了讨论， 并暗示高端机可能也有 7 英寸屏幕，分辨率达 2K 。据IT之家今日早些时候报道， 消息称 vivo 预计会在 2027 年推出阔直板手机 ，目…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ce2f570a52c4",
+      "title": "Leaker says OPPO may have suspended the Find X10 Ultra",
+      "source": "Android Authority",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-06",
+      "time": "14:19",
+      "publishedAt": "2026-11-06T14:19:51.000Z",
+      "url": "https://www.androidauthority.com/oppo-find-x10-ultra-development-pause-leak-3732500/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/04/Oppo-Find-X9-Ultra-stood-up.jpg",
+      "summary": "The successor to one of the best camera phones in the business may have been cancelled.",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-1444f5bfb4c2",
+      "title": "竹本青：【消息称小米成立中国区公关部：原360公关副总裁担任总经理、原星纪魅族副总裁担任公关媒介部负责人】 小米今日宣布人…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-06",
+      "time": "14:18",
+      "publishedAt": "2026-11-06T14:18:36.000Z",
+      "url": "https://www.coolapk.com/feed/74896380",
+      "image": "http://image.coolapk.com/feed/2026/1106/22/4248714_e93643d4_4715_9311_351@2277x1280.jpg",
+      "summary": "【消息称小米成立中国区公关部：原360公关副总裁担任总经理、原星纪魅族副总裁担任公关媒介部负责人】 小米今日宣布人事调整，集团公关部成立中国区公关部，任命张永生担任中国区公关部总经理，向集团公关部总经理徐洁云和集团高级副总裁、中国区总裁王晓雁双线汇报。 另外，任命曾洋担任集团公关部公关媒介部负责人，向集团公关部总经理徐洁云汇报。 资料显示，张永生此前曾在新…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-3d45928df4c1",
+      "title": "Samsung Galaxy S26 Ultra gets a big $450 Amazon price drop",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-06",
+      "time": "14:14",
+      "publishedAt": "2026-11-06T14:14:31.000Z",
+      "url": "https://www.androidauthority.com/amazon-deal-galaxy-s26-ultra-3732569/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/Galaxy-S26-Ultra-scaled.jpg",
+      "summary": "The Samsung Galaxy S26 Ultra is 32% off on Amazon, cutting the price of Samsung's 2026 flagship by a big margin.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c97c93001077",
+      "title": "Apple Rumored to Drop the iPhone's Action Button Next Year",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-06",
+      "time": "14:07",
+      "publishedAt": "2026-11-06T14:07:52.000Z",
+      "url": "https://www.macrumors.com/2026/11/06/apple-rumored-to-drop-the-action-button/",
+      "image": "https://images.macrumors.com/article-new/2026/09/silver-iphone-18-pro.jpg",
+      "summary": "Apple plans to merge the iPhone's Action button with the Camera Control starting next year, according to the leaker known as \" Instant Digital .\" In a new post on Weibo, the leake…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-1bf4ddf0dd28",
+      "title": "竹本青：【曝小米18 Ultra曾规划搭载自研玄戒O3】 11月6日，数码闲聊站在OPPO Find X10 Ultra暂…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-06",
+      "time": "13:26",
+      "publishedAt": "2026-11-06T13:26:19.000Z",
+      "url": "https://www.coolapk.com/feed/74895224",
+      "image": "http://image.coolapk.com/feed/2026/1106/21/4248714_978c4653_1577_8606_759@1270x1502.jpg",
+      "summary": "【曝小米18 Ultra曾规划搭载自研玄戒O3】 11月6日，数码闲聊站在OPPO Find X10 Ultra暂停的爆料评论区补充称，另有一款搭载自研芯片的Ultra机型项目也已取消。结合此前爆料信息，该机型指向小米18 Ultra。 根据此前曝光内容，小米18 Ultra原规划搭载自研玄戒O3 处理器，三2亿影像配置，起售价9999元，但最终因定价过高…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-dc1bce880a9c",
+      "title": "消息称苹果 Action Button 操作按钮将在明年下半年的新款 iPhone 正式退幕",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-06",
+      "time": "13:12",
+      "publishedAt": "2026-11-06T13:12:30.000Z",
+      "url": "https://www.ithome.com/1/023/542.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/115efcbb-3e36-4c3e-b6bc-6d447b9c8087.png",
+      "summary": "IT之家 11 月 6 日消息，博主 @刹那数码 今日发文透露，苹果 Action Button 操作按钮， 将在明年下半年的新款 iPhone 上正式退幕 。 博主称，该按键将与相机按钮进行整合 —— 单击进入相机，长按 Action Button 操作 。 IT之家注：苹果公司自 2007 年推出初代 iPhone 以来，过去的硬件产品更迭中，始终保留…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7b7dd5d2bbba",
+      "title": "Oppo confirms its next foldable will actually know what a ‘global’ release is",
+      "source": "9to5Google",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-06",
+      "time": "13:05",
+      "publishedAt": "2026-11-06T13:05:00.000Z",
+      "url": "https://9to5google.com/2026/11/06/oppo-find-n7-global-launch-confirmed/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/oppo-find-n6-5.jpg?quality=82&strip=all&w=1600",
+      "summary": "The Oppo Find N6 is a stunning foldable but, for the second year in a row, it really stretches the definition of what a “global” release means. Oppo Find N7, apparently, will fix…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2e6b112b8996",
+      "title": "消息称韩版三星 Galaxy S27 Pro、S27 Ultra 将采用高通骁龙 8 Elite Gen 6 系列芯片",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-06",
+      "time": "12:57",
+      "publishedAt": "2026-11-06T12:57:57.000Z",
+      "url": "https://www.ithome.com/1/023/541.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/45debd2e-53b8-45c4-bce1-171a720829b1.jpg",
+      "summary": "IT之家 11 月 6 日消息，据科技媒体 Sammobile 今天报道，自 Exynos 2400 以来，三星每一代自研移动处理器几乎都有所进步。尽管有传闻称 Exynos 2700 将成为三星迄今最出色芯片，但 Galaxy S27 Pro 和 Galaxy S27 Ultra 手机仍有可能继续使用高通骁龙。 爆料人士 yeux1122 表示，三星计划…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-d89f0216bafb",
+      "title": "竹本青：【REDMI K100 首销情况曝光，同期销量约为K90的50%】 11月6日，博主「RD观测」分享第三方统计 的…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-06",
+      "time": "12:12",
+      "publishedAt": "2026-11-06T12:12:40.000Z",
+      "url": "https://www.coolapk.com/feed/74893617",
+      "image": "http://image.coolapk.com/feed/2026/1106/20/4248714_70011b73_7159_0576_983@1440x612.jpg",
+      "summary": "【REDMI K100 首销情况曝光，同期销量约为K90的50%】 11月6日，博主「RD观测」分享第三方统计 的REDMI K100首销情况：以首销当日（约10:00开售）+后三天为标准，同期销量约为上一代REDMI K90的50%。 REDMI K100于10月27日发布，首发2999元起，核心搭载骁龙8 Elite处理器、1.5K 165Hz M10…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-be505279ae44",
+      "title": "Samsung will stick to Snapdragon for Galaxy S27 Pro and S27 Ultra in Korea",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-06",
+      "time": "11:17",
+      "publishedAt": "2026-11-06T11:17:11.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s27-pro-ultra-korea-stick-snapdragon-chip/",
+      "image": "",
+      "summary": "While many Exynos chips faced overheating, throttling, and efficiency issues in the past, Samsung improved in-house processors with each generation since the Exynos 2400. Although…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-413bd6fb7990",
+      "title": "男子卖 3 台苹果 iPhone 18 Pro Max 赚差价，结果收到涉诈资金银行卡被冻结",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-06",
+      "time": "10:52",
+      "publishedAt": "2026-11-06T10:52:05.000Z",
+      "url": "https://www.ithome.com/1/023/521.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/ac074c38-0be6-49db-86c1-a3234e12981f.jpg",
+      "summary": "IT之家 11 月 6 日消息，据 1818 黄金眼近日报道，冷先生在杭州经营一家服装工作室。9 月 18 日苹果新机首发，他抢到 3 台 iPhone 18 Pro Max（均为 1TB 版本，两个黑色、一个红色），随即挂上二手交易平台“闲鱼”。 冷先生表示，他把手机挂上闲鱼后很快有人询问，双方全程通过平台沟通，买家提出“叫人过来取，面交”。这三台苹果手…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-47ab68e78c77",
+      "title": "荣耀 MagicOS 系统 11 月更新内容公布，YOYO 建议与灵动胶囊新增寄件码提醒",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-06",
+      "time": "10:46",
+      "publishedAt": "2026-11-06T10:46:12.000Z",
+      "url": "https://www.ithome.com/1/023/520.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/33d711cb-155f-49dd-8c2a-4881365dbd84.jpg",
+      "summary": "IT之家 11 月 6 日消息，荣耀 MagicOS 官方今日公布了 MagicOS 系统 11 月体验升级亮点。 YOYO YOYO 建议 & 灵动胶囊新增寄件码提醒 YOYO 记忆支持物品临期提醒 YOYO 记忆支持智能填写 荣耀一碰传 支持 WorkBuddy 与百度网盘 其他 搜狗输入法新增通透模式 IT之家附升级计划如下： 荣耀 Magic9 系…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6c98817f897e",
+      "title": "Oppo Find X10 Ultra reportedly shelved despite its recent Dimensity 9600 Pro leak",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-06",
+      "time": "09:52",
+      "publishedAt": "2026-11-06T09:52:47.000Z",
+      "url": "https://www.gizmochina.com/2026/11/06/oppo-find-x10-ultra-cancellation-rumour/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/04/Oppo-Find-X9-Ulttra-300x219.png?x96268",
+      "summary": "Oppo’s Find X10 and Find X10 Pro Max flagships are now widely available across multiple markets. The company is expected to shift its attention to the Reno 17 series, which is tip…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-22fe0ee6b7e2",
+      "title": "荣耀 MagicOS 11 系统第三批内测用户增推版本今晚开推，报名通道下周一将重新开放",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-06",
+      "time": "09:27",
+      "publishedAt": "2026-11-06T09:27:00.000Z",
+      "url": "https://www.ithome.com/1/023/468.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2025/11/0d957a4f-37ee-4fc1-bb0d-3ef85799458a.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1",
+      "summary": "IT之家 11 月 6 日消息，荣耀产品维护与升级 @荣耀小芳哥 刚刚发布预告， 宣布今天 18 点开始，将向已报名 MagicOS 11 的第三批内测的用户增推版本 。 此外，下周一还将重新开放内测报名通道， 报名后次个工作日就可以收到版本 。推送机型如下： 手机： 荣耀 Robot Phone 、Magic Vs3、Magic V2 RSR 保时捷设计…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-31f8740cdf55",
+      "title": "iQOO Z-series midranger to pack 7-inh display, 10,000mAh battery",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-06",
+      "time": "07:54",
+      "publishedAt": "2026-11-06T07:54:42.000Z",
+      "url": "https://www.gizmochina.com/2026/11/06/iqoo-z12s-10000mah-battery-7-inch-display/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/08/iQOO-Z11S-back-300x169.jpg?x96268",
+      "summary": "A couple of Z-series iQOO phones are reportedly in the works. While the Chinese market is expected to receive the iQOO Z12 Turbo soon, the brand also appears to be developing mid-…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-41451dfdda60",
+      "title": "Motorola Signature 27 ranks second, over iPhone 18 Pro in DXOMARK camera test",
+      "source": "Gizmochina",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-06",
+      "time": "07:09",
+      "publishedAt": "2026-11-06T07:09:02.000Z",
+      "url": "https://www.gizmochina.com/2026/11/06/motorola-signature-27-ranks-second-over-iphone-18-pro-in-dxomark-camera-test/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/motorola-signature-27-launches-with-snapdragon-8-elite-extreme-gen-6-200mp-2-300x200.jpg?x96268",
+      "summary": "Motorola launched the Motorola Signature 27 yesterday, and its camera has already landed near the top of DXOMARK’s global rankings. The phone scored 173 points in the 6th Edition…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-b3f9b3a8be8d",
+      "title": "JSCHEN小小狐：曝iQOO开模7英寸中端机：超万级大电池",
+      "source": "JSCHEN小小狐",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-06",
+      "time": "07:05",
+      "publishedAt": "2026-11-06T07:05:28.000Z",
+      "url": "https://www.coolapk.com/feed/74887248",
+      "image": "http://image.coolapk.com/feed/2026/1106/15/4702274_4de21664_8727_0441_975@1440x443.jpg",
+      "summary": "『曝 iQOO 开模 7 英寸中端机：超万级大电池』 知名数码博主 数码闲聊站 今日爆料称，iQOO 开模了一款 7 英寸大屏的中端机。该机搭载超万级大电池，暂定于 2027 年中旬前后上市。 据悉，此前曾有两款分属不同品牌的 7 英寸中端机曝光，它们的核心亮点如下： ① 等深四等边 + 超万级大电池 ② 超超万级大电池 + 性能取向 #今日热点# #iQ…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-b00c3d860228",
+      "title": "Oppo, Realme ColorOS 17 rollout schedule for November: 25 devices set for major upgrade",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-06",
+      "time": "07:03",
+      "publishedAt": "2026-11-06T07:03:49.000Z",
+      "url": "https://www.gizmochina.com/2026/11/06/oppo-realme-coloros-17-november-rollout-schedule/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/OnePlus-ColorOS-17-300x169.jpg?x96268",
+      "summary": "Last month, Oppo officially announced ColorOS 17, and the update has already reached a handful of flagship offerings from Oppo and OnePlus. Starting this month, the rollout is set…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f48b45604923",
+      "title": "iPhone 变强了，但我没有",
+      "source": "少数派",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-11-06",
+      "time": "06:56",
+      "publishedAt": "2026-11-06T06:56:41.000Z",
+      "url": "https://sspai.com/post/118250",
+      "image": "",
+      "summary": "我们把 iPhone 18 Pro Max 带到了深圳、香港和吉隆坡，带入了形形色色的街头。在这个过程里，我们记录了使用 iPhone 拍到的美好画面，也借此描绘了自己的心情变化和生活感悟。",
+      "tags": [
+        "iPhone",
+        "评测",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-d6ee826108db",
       "title": "iQOO 16s incoming! Could peck Snapdragon 8 Gen 6 and 10,000mAh battery",
@@ -17,26 +517,6 @@ window.phoneRadarAuto = {
       "summary": "The iQOO 16 family for the global market is gradually growing. There are rumours that the iQOO 16 will be announced in India by next month. At the same time, the brand is said to…",
       "tags": [
         "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f9af533872f4",
-      "title": "Caviar 推出“十二星座”版 iPhone Duo，可定制陨石、鳄鱼皮等装饰",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-06",
-      "time": "05:16",
-      "publishedAt": "2026-11-06T05:16:47.000Z",
-      "url": "https://www.ithome.com/1/023/223.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/0253bce7-9ceb-4a2c-82a5-ee663043d3c2.jpg",
-      "summary": "IT之家 11 月 6 日消息，奢侈定制厂商 Caviar 上月（2026 年 10 月）推出“世界珍宝”（World Treasures）系列后，本月（11 月）再次推出“十二星座”（Zodiac）系列， 同样基于苹果首款折叠 iPhone Duo 上改造，将其变为可按星座、材质与工艺自由搭配的奢华收藏品。 Caviar 表示“十二星座”系列并非固定成品…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -99,106 +579,6 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-723018f3ce9e",
-      "title": "竹本青：ColorOS 17「流体云融合导航」冬季皮肤上线",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-06",
-      "time": "03:08",
-      "publishedAt": "2026-11-06T03:08:01.000Z",
-      "url": "https://www.coolapk.com/feed/74882688",
-      "image": "http://image.coolapk.com/feed/2026/1106/11/4248714_3861fdbc_4473_6676_305-livepic@1080x1560.jpg",
-      "summary": "【ColorOS 17「流体云融合导航」冬季皮肤上线】 11月6日，ColorOS官方宣布，「流体云融合导航」冬季主题皮肤正式上线。 该皮肤采用天气联动机制，当用户所在城市当日预计出现降雪天气时，地铁出行卡片将自动切换为冬日飘雪样式，结合流体云到站提醒功能，优化冬季出行场景的视觉体验。 #ColorOS17# #今日热点# #OPPOFindX10ProM…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-46f2d30aa1c4",
-      "title": "竹本青：OPPO Reno17系列外观揭晓，宋雨琦代言",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-06",
-      "time": "02:55",
-      "publishedAt": "2026-11-06T02:55:46.000Z",
-      "url": "https://www.coolapk.com/feed/74882400",
-      "image": "http://image.coolapk.com/feed/2026/1106/10/4248714_37ffd50d_3744_478_424-livepic@1440x1920.jpg",
-      "summary": "【OPPO Reno17系列 外观揭晓，宋雨琦代言】 11月6日，OPPO Reno17系列 外观揭晓，Deco采用左上方形三摄，将由继续宋雨琦代言。 据此前配置爆料，Reno17系列提供双版本，标准版搭载骁龙7 Gen4，配备6.5英寸1.5K 120Hz直屏与8000mAh电池；Pro版搭载天玑8550 SUPER，配备6.32英寸1.5K 120Hz…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-0ce3120abb68",
-      "title": "首款折叠 iPhone Duo 发售约 2 周后：苹果发起问卷调查，询问折痕、成像质量等核心体验",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-06",
-      "time": "02:55",
-      "publishedAt": "2026-11-06T02:55:33.000Z",
-      "url": "https://www.ithome.com/1/023/165.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/a5e5c7c7-1c69-4466-bf2e-d19c483adb0f.jpg",
-      "summary": "IT之家 11 月 6 日消息，科技媒体 MacRumors 今天（11 月 6 日）发布博文，报道称苹果首款折叠屏手机 iPhone Duo 发售约两周（10 月 23 日发售）后， 公司已开始向部分购买者发送电子邮件调查，收集其对新机屏幕尺寸、折痕、屏下摄像头及其他功能的真实反馈。 调查首先询问用户为何选择此时购买 iPhone Duo，可选理由包括“…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-3da554e04dcc",
-      "title": "竹本青：荣耀700系列正式亮相：全系搭载方形小背屏，现已开启预约",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-06",
-      "time": "02:00",
-      "publishedAt": "2026-11-06T02:00:49.000Z",
-      "url": "https://www.coolapk.com/feed/74881196",
-      "image": "http://image.coolapk.com/feed/2026/1106/10/4248714_4c69458d_1486_2912_661@2000x3555.jpg",
-      "summary": "【荣耀700系列 正式亮相：全系搭载方形小背屏，现已开启预约】 700 标准版 —— 骁龙8s Gen4 700 Pro —— 骁龙8 Gen5 700 S —— 未知 ● 6.57英寸1.5K屏+1.72英寸背屏 ● 系列最大电池9000mAh± ● 200Mp主摄｜全系潜望镜 SKU： 粉雾、蓝调、晴空、冷白 12+256／12+512／16+256／…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-422d53238a82",
-      "title": "竹本青：vivo 阔直板手机曝光：6.5英寸以下屏幕，有望明年发布",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-06",
-      "time": "01:07",
-      "publishedAt": "2026-11-06T01:07:54.000Z",
-      "url": "https://www.coolapk.com/feed/74880250",
-      "image": "http://image.coolapk.com/feed/2026/1106/09/4248714_9c851e64_7867_0337_569@1271x794.jpg",
-      "summary": "【vivo 阔直板手机曝光：6.5英寸以下屏幕，有望明年发布】 11月6日，博主数码闲聊站曝光，vivo大概率于2027年推出阔直板手机，当前早期阶段倾向小尺寸设计，屏幕尺寸控制在6.5英寸以下。 博主随后在评论区补充，vivo X500 Ultra的硬件配置已基本敲定，阔折叠屏的发布节奏将晚于该机。 ——————————————— 从全行业来看，目前国产…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -362,6 +742,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-4ba4c6f0fb6d",
+      "title": "鸿蒙这东西真的是个拧巴的东西，你说他不流畅吧，点击反应还算行，但是各种二级菜单内容加载很慢很卡，你点进去如果马上滑动的话就很卡，你只能等一等，年纪大的人用着还行？不知道为啥这东西还那么多人买，并且这些粉丝还觉得这东西极为流畅。我看其他有兄弟说华子的触控也用的不是顶级供应商，cpu的弱加上触控弱，导致这种结果。不过鸿蒙也挺为难的，属于屎上雕花，这么孱弱的硬件上做到貌似流畅也不容易啊。如果不是阔直板这个形态大创新，真的是不会买任何华子的手机。各种媒体大v和用户都说的流畅，就这么个水平？？？很不理解。你别和我说什么厂家适配问题，我买的是手机，厂家适配关我什么事，再说为啥就鸿蒙适配这么费劲吗",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-06",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74861574",
+      "image": "",
+      "summary": "鸿蒙这东西真的是个拧巴的东西，你说他不流畅吧，点击反应还算行，但是各种二级菜单内容加载很慢很卡，你点进去如果马上滑动的话就很卡，你只能等一等，年纪大的人用着还行？不知道为啥这东西还那么多人买，并且这些粉丝还觉得这东西极为流畅。我看其他有兄弟说华子的触控也用的不是顶级供应商，cpu的弱加上触控弱，导致这种结果。不过鸿蒙也挺为难的，属于屎上雕花，这么孱弱的硬件…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-4d58da298194",
       "title": "5百多买的华为mate80pm，商家说价格搞错了不发货怎么办 #华为Mate90ProMax# #华为#",
       "source": "酷安热榜",
@@ -382,23 +782,63 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-6c5df8b90a9c",
-      "title": "如何看待贵州 13 岁女孩失联半个月一直藏在同学家玩手机？为什么「玩手机」常常成为亲子关系的一道坎？",
-      "source": "知乎热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "市场报告",
-      "trust": "媒体汇总",
+      "id": "newsnow-4d5fb51a54a1",
+      "title": "新机潮过后，机圈短暂降温，但本周看点同样不少：中兴否认出售手机业传闻；罗技广告再度陷入争议；华为“星芒”新机包装盒曝光；国行Apple智能开放测试。存储市场，还传来内存长期紧缺的预警。",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
       "date": "2026-11-06",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2100973901962536138",
+      "url": "https://www.coolapk.com/feed/74889686",
       "image": "",
-      "summary": "如何看待贵州 13 岁女孩失联半个月一直藏在同学家玩手机？为什么「玩手机」常常成为亲子关系的一道坎？",
+      "summary": "新机潮过后，机圈短暂降温，但本周看点同样不少：中兴否认出售手机业传闻；罗技广告再度陷入争议；华为“星芒”新机包装盒曝光；国行Apple智能开放测试。存储市场，还传来内存长期紧缺的预警。",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-767ae159c039",
+      "title": "Mate90拍的金鸡开幕短片夯爆了",
+      "source": "微博热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-11-06",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23Mate90%E6%8B%8D%E7%9A%84%E9%87%91%E9%B8%A1%E5%BC%80%E5%B9%95%E7%9F%AD%E7%89%87%E5%A4%AF%E7%88%86%E4%BA%86%23&t=31&band_rank=26&Refer=top",
+      "image": "",
+      "summary": "Mate90拍的金鸡开幕短片夯爆了",
       "tags": [
         "行业",
-        "市场报告",
+        "爆料",
         "NewsNow"
+      ]
+    },
+    {
+      "id": "auto-3280af2f2958",
+      "title": "I’ve reviewed almost every Android foldable this year — here’s how the iPhone Duo compares",
+      "source": "The Verge",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-05",
+      "time": "21:51",
+      "publishedAt": "2026-11-05T21:51:00.000Z",
+      "url": "https://www.theverge.com/tech/1026410/iphone-duo-foldable-android-samsung-google-xiaomi-oppo-honor",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/iphone-duo-android-foldables-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "When I first read Allison and Nilay's Verge review of the iPhone Duo, I was immediately struck by one of their complaints: that the cover display is too small. That's not how the…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -442,26 +882,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-d2eb167f9593",
-      "title": "Samsung’s Galaxy Z Fold 8 is $300 off ahead of Black Friday",
-      "source": "The Verge",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-05",
-      "time": "19:27",
-      "publishedAt": "2026-11-05T19:27:06.000Z",
-      "url": "https://www.theverge.com/gadgets/1027659/samsung-galaxy-z-fold-8-beats-pill-deal-sale",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/samsung-galaxy-z-fold-8-roundup.png?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "Android fans with a bit of iPhone Duo envy, take note: The Samsung Galaxy Z Fold 8 is discounted to $1,599.99 at both Amazon and Best Buy, a hefty $300 markdown from its usual pri…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-bec2f36e03fd",
       "title": "Pixel 11 and Pixel 10 at up to $350 off are great phone deals that will only be harder to find in RAMageddon",
       "source": "9to5Google",
@@ -475,26 +895,6 @@ window.phoneRadarAuto = {
       "url": "https://9to5google.com/2026/11/05/google-pixel-11-10-deals-ramageddon/",
       "image": "",
       "summary": "As RAMageddon’s impact squeezes smartphones more and more, great deals on a new smartphone are going to get harder to find. Right now, Google’s Pixel 11 series and the Pixel 10 ar…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-32f10d0fe00d",
-      "title": "The Pixel 11 is quietly elite. [Video]",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-05",
-      "time": "17:30",
-      "publishedAt": "2026-11-05T17:30:11.000Z",
-      "url": "https://www.androidpolice.com/video/the-pixel-11-is-quietly-elite-video/",
-      "image": "",
-      "summary": "Google has been smart.",
       "tags": [
         "Pixel",
         "爆料",
@@ -655,26 +1055,6 @@ window.phoneRadarAuto = {
       "url": "https://9to5mac.com/2026/11/05/resident-evil-director-zach-cregger-explains-why-the-iphone-is-vital-to-his-work/",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Resident-Evil-director-Zach-Cregger-explains-why-the-iPhone-is-vital-to-his-work.jpg?quality=82&strip=all&w=1600",
       "summary": "There have been a number of high-profile movies technically shot on iPhone , but in most cases they are using the same professional cinematography kit they would use with other ca…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c71ace3816b4",
-      "title": "Got an iPhone Duo on Launch Day? Tomorrow Could Be Your Last Chance to Return It",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-05",
-      "time": "10:32",
-      "publishedAt": "2026-11-05T10:32:51.000Z",
-      "url": "https://www.macrumors.com/2026/11/05/iphone-duo-launch-day-nov-6-last-chance-return/",
-      "image": "https://images.macrumors.com/article-new/2026/09/iphone-duo-colors.jpg",
-      "summary": "If you bought an iPhone Duo on launch day and are having second thoughts about keeping Apple's first foldable iPhone, tomorrow could be your last chance to return it for a refund.…",
       "tags": [
         "iPhone",
         "爆料",
