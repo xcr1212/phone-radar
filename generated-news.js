@@ -1,20 +1,120 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-11-07T01:54:45.282Z",
+  "updatedAt": "2026-11-07T08:45:52.526Z",
   "news": [
     {
-      "id": "auto-2b90ade4640c",
-      "title": "苹果 iOS 键盘被曝隐藏约 10 万个敏感词汇名单：避免 iPhone 输入法自动推荐补全，但用户仍可手动输入",
+      "id": "auto-f7610dee16f7",
+      "title": "TrendForce：预计 2027 年翻新内存在智能手机市场渗透率达 7-9%",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-07",
+      "time": "08:36",
+      "publishedAt": "2026-11-07T08:36:13.000Z",
+      "url": "https://www.ithome.com/1/023/756.htm",
+      "image": "",
+      "summary": "IT之家 11 月 7 日消息，集邦咨询（TrendForce）最新存储行业研究显示，移动 DRAM 合约价格的持续走高，正促使智能手机厂商更多采用成本更低的翻新内存（Reballed Memory，重新植球内存），这一趋势在入门级与平价机型中尤为明显。 IT之家注意到，TrendForce 预计，翻新内存在智能手机市场的渗透率将在 2026 年达到约 3…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-92a16f384219",
+      "title": "华为更多机型鸿蒙 HarmonyOS 7 系统转公测，含 nova 12 / 13 系列、畅享 70X 等",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-07",
+      "time": "08:34",
+      "publishedAt": "2026-11-07T08:34:52.000Z",
+      "url": "https://www.ithome.com/1/023/755.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/19a321a5-b7b4-47b7-8bb1-e19a835a2130.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 11 月 7 日消息，华为官网最新信息显示，鸿蒙 HarmonyOS 7 系统更多机型从花粉 Beta 转为公测， 覆盖 nova 12 / 13 系列、畅享 70X、MatePad Pro 13.2 英寸 2023 系列等 。 IT之家附华为鸿蒙 HarmonyOS 7 最新适配机型清单如下： 正式版 HUAWEI Mate 80 系列 HUA…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-29666f3b1653",
+      "title": "荣耀 700 系列手机上线官网：Pro / 标准 / S 三杯、全系背屏设计",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-07",
+      "time": "08:23",
+      "publishedAt": "2026-11-07T08:23:41.000Z",
+      "url": "https://www.ithome.com/1/023/754.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/7f1f5481-cfcf-466a-bf17-7b04b18eef6c.jpg",
+      "summary": "IT之家 11 月 7 日消息，荣耀手机官方今日宣布， 荣耀 700 系列上新，已在官网开启预约 。 荣耀官网显示，荣耀 700 系列手机此次有“三杯”， 分别是荣耀 700 Pro、荣耀 700、荣耀 700S ，全系采用背屏设计。 据IT之家此前报道，博主 @数码闲聊站 爆料， 荣耀 700 系列手机采用同档唯一双 8 芯片 ，拥有更强性能 + 更大电…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-cb9090b03a87",
+      "title": "消息称内存价格彻底崩坏前各手机厂商“超大杯”部分影像配置已属绝版硬件",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-07",
+      "time": "07:47",
+      "publishedAt": "2026-11-07T07:47:49.000Z",
+      "url": "https://www.ithome.com/1/023/746.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/e9b43fe5-c7bc-4a5c-8d7b-33040ad023cb.png",
+      "summary": "IT之家 11 月 7 日消息，博主 @数码闲聊站 今日发文，盘点了内存价格彻底崩坏前的“超大杯”机型： 小米 17 Ultra —— 1 英寸 LOFIC + 2 亿连续光变 Find X9 Ultra —— 双 潜望长焦 + 10X 原生光变 X300 Ultra —— 200Mp 1/1.12\" 35mm 主摄 博主透露， 以上大多数是绝版硬件 。…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-3896cb41cbfa",
+      "title": "竹本青：【星闪赋能户内燃气安全：华为等单位参加可信运行研讨会，预计年底前设立首批试点场景】 据国际星闪联盟，11月4日下午…",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-07",
+      "time": "07:23",
+      "publishedAt": "2026-11-07T07:23:33.000Z",
+      "url": "https://www.coolapk.com/feed/74909337",
+      "image": "http://image.coolapk.com/feed/2026/1107/15/4248714_d9097bd7_6440_3982_713@1280x960.jpg",
+      "summary": "【星闪赋能户内燃气安全：华为等单位参加可信运行研讨会，预计年底前设立首批试点场景】 据国际星闪联盟，11月4日下午，星闪赋能户内燃气安全可信运行与产业协同专题研讨会在中国信息通信研究院举行。 会议由国际星闪联盟户内燃气安全专项兴趣小组（SIG）牵头主办，特邀星闪传感器SIG共同研讨。信通院工业互联网与物联网研究所、信通院泰尔实验室、华为、中移芯昇、浪潮集团…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-7822d0425852",
+      "title": "谷歌给安卓版 Chrome 浏览器设置页“上色”，焕新引入 iOS 版彩色风格图标",
       "source": "IT之家",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-11-07",
-      "time": "01:33",
-      "publishedAt": "2026-11-07T01:33:31.000Z",
-      "url": "https://www.ithome.com/1/023/638.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/79fd4588-1920-48ea-8f76-62b036f8aa03.png",
-      "summary": "IT之家 11 月 7 日消息，据路透社当地时间 11 月 6 日报道，独立研究人员 Derik Kauffman 发现，苹果 iOS 键盘系统内部存在一份未公开的多语言词汇限制名单，研究人员将其称为“灰名单”（Gray List）。 这意味着苹果不会通过自动补全或滑行输入功能向用户主动推荐这些词汇，但不禁止用户手动输入。据介绍，这份名单不仅包括脏话、性相…",
+      "time": "06:52",
+      "publishedAt": "2026-11-07T06:52:57.000Z",
+      "url": "https://www.ithome.com/1/023/688.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/fc3941cd-db79-4fc7-be39-a9b0ec2bfdaa.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 11 月 7 日消息，科技媒体 Android Authority 昨日（11 月 6 日）发布博文，报道称谷歌酝酿升级安卓版 Chrome 浏览器的设置页面，为各个设置条目加入彩色图标，并调整部分选项的分类。 谷歌正在安卓版 Chrome Canary 中测试设置页面改版，新版最直观的变化， 是设置主页面采用了与 iOS 版 Chrome 相近…",
       "tags": [
         "iPhone",
         "爆料",
@@ -22,23 +122,143 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-f6109a636f03",
-      "title": "消息称 vivo X500 Ultra 明年 3-4 月登场，或是同阵营唯一影像超大杯",
+      "id": "coolapk-user-7cc41181f1c0",
+      "title": "竹本青：【博主盘点前代安卓阵营超大杯：多数影像硬件已成绝版】 11月7日，数码闲聊站盘点内存价格上涨前的三款安卓超大杯旗舰…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-07",
+      "time": "04:23",
+      "publishedAt": "2026-11-07T04:23:11.000Z",
+      "url": "https://www.coolapk.com/feed/74905857",
+      "image": "http://image.coolapk.com/feed/2026/1107/12/4248714_da79af23_5390_0196_372@1272x574.jpg",
+      "summary": "【博主盘点前代安卓阵营超大杯：多数影像硬件已成绝版】 11月7日，数码闲聊站盘点内存价格上涨前的三款安卓超大杯旗舰，称其中多数影像硬件配置已成绝版。三款机型的规格分别为： 小米 17 Ultra —— 1英寸LOFIC+2亿连续光变 Find X9 Ultra —— 双潜望长焦+10X原生光变 X300 Ultra —— 200Mp 1/1.12\" 35m…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "weibo-8eb4f9ea0faa",
+      "title": "数码闲聊站：回顾一下内存价格彻底崩坏前的超大杯： 小米 17 Ultra——1英寸LOFI…",
+      "source": "数码闲聊站",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-07",
+      "time": "04:17",
+      "publishedAt": "2026-11-07T04:17:00.000Z",
+      "url": "https://weibo.com/6048569942/RqgiMwtIN",
+      "image": "",
+      "summary": "回顾一下内存价格彻底崩坏前的超大杯： 小米 17 Ultra——1英寸LOFIC+2亿连续光变 Find X9 Ultra——双潜望长焦+10X原生光变 X300 Ultra——200Mp 1/1.12\" 35mm主摄 以上大多数是绝版硬件[柯基]",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "coolapk-user-d6d0700f18f4",
+      "title": "竹本青：消息称小米 18 标准版已三证齐全，支持100W有线快充",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-07",
+      "time": "03:03",
+      "publishedAt": "2026-11-07T03:03:50.000Z",
+      "url": "https://www.coolapk.com/feed/74904284",
+      "image": "http://image.coolapk.com/feed/2026/1107/11/4248714_0b05b277_0629_193_566@1440x2820.jpg",
+      "summary": "【消息称小米 18 标准版已三证齐全，支持100W有线快充】 11月7日，型号为M261DB的小米5G数字移动电话机于昨日通过3C认证，标配MDY-18-EW电源适配器，支持最高100W有线快充。经多位博主确认，该机即为小米 18 标准版，目前产品已三证齐全。 据此前爆料，小米 18 标准版 预计12月发布，搭载骁龙8 Elite Gen 6处理器，支持N…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-e8ce5c903d68",
+      "title": "小米 18 标准版手机通过 3C 认证，支持 100W 快充",
       "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-07",
+      "time": "02:37",
+      "publishedAt": "2026-11-07T02:37:00.000Z",
+      "url": "https://www.ithome.com/1/023/652.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/b505a12f-9a40-42f3-a840-5a261c07cd42.png",
+      "summary": "IT之家 11 月 7 日消息，一款型号为 M261DB 的小米手机于 11 月 6 日通过了工信部 3C 认证，支持 100W 快充。据博主 @体验more 透露，该机为小米 18 标准版，预计下个月亮相。 IT之家注意到，在 9 月 23 日的小米 18 Pro 系列手机新品发布会前夕，有网友在微博询问小米集团合伙人、总裁 @卢伟冰 有关小米 18 标…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-34e3edbc1816",
+      "title": "Samsung Galaxy S27 Ultra tipped to use Snapdragon processor despite overheating concerns",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-07",
+      "time": "02:36",
+      "publishedAt": "2026-11-07T02:36:10.000Z",
+      "url": "https://www.androidpolice.com/samsung-galaxy-s27-ultra-tipped-use-snapdragon-processor-despite-overheating-concerns/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/03/galaxy-s26-ultra-back.JPG",
+      "summary": "The Pro could get the non-Extreme Snapdragon 8 Elite Gen 6 SoC",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5ef6d1c34fed",
+      "title": "Vivo X500 Ultra reportedly on track for March or April launch",
+      "source": "Gizmochina",
       "brand": "vivo",
       "model": "vivo 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-11-07",
-      "time": "01:11",
-      "publishedAt": "2026-11-07T01:11:52.000Z",
-      "url": "https://www.ithome.com/1/023/633.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/2f3a6636-f2ae-4688-9e86-bb98b921391f.png",
-      "summary": "IT之家 11 月 7 日消息，据博主 @数码闲聊站 今日爆料，vivo X500 Ultra 目前是正常打磨中，明年 3-4 月登场，或许是同阵营唯一影像超大杯。 IT之家注意到，vivo 副总裁、产品副总裁黄韬先前确认， X500 Ultra 机型会正常迭代 ，预计明年 3-4 月发布，影像会拉开和 Pro Max 的差距，主打先锋用户与专业创作者。…",
+      "time": "02:29",
+      "publishedAt": "2026-11-07T02:29:24.000Z",
+      "url": "https://www.gizmochina.com/2026/11/07/vivo-x500-ultra-reportedly-on-track-for-march-or-april-launch/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Vivo-X500-Pro-Max-1-300x200.png?x96268",
+      "summary": "Prolific industry insider Digital Chat Station says the Vivo X500 Ultra is going through normal refinement, and the tipster expects Vivo to launch the phone in March or April next…",
       "tags": [
         "vivo",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-2342f3f285d9",
+      "title": "竹本青：博主称vivo X500 Ultra正常打磨中：骁龙8EE6",
+      "source": "竹本青",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-07",
+      "time": "02:10",
+      "publishedAt": "2026-11-07T02:10:04.000Z",
+      "url": "https://www.coolapk.com/feed/74903204",
+      "image": "http://image.coolapk.com/feed/2026/1107/10/4248714_aecb28ee_7403_1246_703@1439x1378.jpg",
+      "summary": "【博主称vivo X500 Ultra正常打磨中：骁龙8EE6处理器，明年3-4月登场】 11月7日，博主数码闲聊站爆料，vivo X500 Ultra正常打磨中，搭载骁龙8EE6处理器，价格“贵是显而易见的”，或将成为安卓阵营唯一的影像超大杯，明年3-4月登场。 此前9月，vivo产品副总裁黄韬就已经确认：X500 Ultra一定会出，产品很多地方已经定…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
       ]
     },
     {
@@ -142,21 +362,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-3c06c823780f",
-      "title": "女朋友大晚上这两句话什么意思,发现她在一个不知道是什么的群#REDMIK100ProMax# #一加Ace7Pro# #OPPOFindX8Ultra#",
+      "id": "newsnow-62929d81ea5a",
+      "title": "前沿，目前本人属于全盲，使用手机必须依赖读屏软件，但目前国产几大系统，读屏软件支持起来或多或少都有一些问题，而且这些问题只能系统那边解决。为了在使用手机时，读屏软件能更加顺畅一点，不会有一些地方读不出来或者操作不了，因此才学会了刷机。正文开始。",
       "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-11-07",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74899018",
+      "url": "https://www.coolapk.com/feed/74897254",
       "image": "",
-      "summary": "女朋友大晚上这两句话什么意思,发现她在一个不知道是什么的群#REDMIK100ProMax# #一加Ace7Pro# #OPPOFindX8Ultra#",
+      "summary": "前沿，目前本人属于全盲，使用手机必须依赖读屏软件，但目前国产几大系统，读屏软件支持起来或多或少都有一些问题，而且这些问题只能系统那边解决。为了在使用手机时，读屏软件能更加顺畅一点，不会有一些地方读不出来或者操作不了，因此才学会了刷机。正文开始。",
       "tags": [
-        "Xiaomi",
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -202,26 +422,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-ee1a7af46e10",
-      "title": "有没有懂行的大佬解释一下这个群是什么群？聊天内容是什么，群名称是什么。女朋友在这个群里面，气死我了#小米17Max# #一加Ace7Pro# #REDMIK100ProMax#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74898668",
-      "image": "",
-      "summary": "有没有懂行的大佬解释一下这个群是什么群？聊天内容是什么，群名称是什么。女朋友在这个群里面，气死我了#小米17Max# #一加Ace7Pro# #REDMIK100ProMax#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-669bd3903c31",
       "title": "曝OPPO Find X10 Ultra项目暂停，曾最新测试天玑9600 Pro",
       "source": "酷安热榜",
@@ -237,6 +437,46 @@ window.phoneRadarAuto = {
       "summary": "曝OPPO Find X10 Ultra项目暂停，曾最新测试天玑9600 Pro",
       "tags": [
         "OPPO",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-697c18fd75ec",
+      "title": "兄弟们，我逛个街好像遇到明星了？？？[疑问][疑问]这人咋看起来那么眼熟呢？[受虐滑稽][受虐滑稽][受虐滑稽]全部用x9ultra十倍长焦拍的[呲牙][呲牙][呲牙]给兄弟们分享下[吃瓜][吃瓜]#数码日常# #手机摄影# #ColorOS17#",
+      "source": "酷安热榜",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-07",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74888307",
+      "image": "",
+      "summary": "兄弟们，我逛个街好像遇到明星了？？？[疑问][疑问]这人咋看起来那么眼熟呢？[受虐滑稽][受虐滑稽][受虐滑稽]全部用x9ultra十倍长焦拍的[呲牙][呲牙][呲牙]给兄弟们分享下[吃瓜][吃瓜]#数码日常# #手机摄影# #ColorOS17#",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-c690d4157bc8",
+      "title": "鸿蒙这东西真的是个拧巴的东西，你说他不流畅吧，点击反应还算行，但是各种二级菜单内容加载很慢很卡，你点进去如果马上滑动的话就很卡，你只能等一等，年纪大的人用着还行？不知道为啥这东西还那么多人买，并且这些粉丝还觉得这东西极为流畅。我看其他有兄弟说华子的触控也用的不是顶级供应商，cpu的弱加上触控弱，导致这种结果。不过鸿蒙也挺为难的，属于屎上雕花，这么孱弱的硬件上做到貌似流畅也不容易啊。如果不是阔直板这个形态大创新，真的是不会买任何华子的手机。各种媒体大v和用户都说的流畅，就这么个水平？？？很不理解。你别和我说什么厂家适配问题，我买的是手机，厂家适配关我什么事，再说为啥就鸿蒙适配这么费劲吗。",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-07",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74861574",
+      "image": "",
+      "summary": "鸿蒙这东西真的是个拧巴的东西，你说他不流畅吧，点击反应还算行，但是各种二级菜单内容加载很慢很卡，你点进去如果马上滑动的话就很卡，你只能等一等，年纪大的人用着还行？不知道为啥这东西还那么多人买，并且这些粉丝还觉得这东西极为流畅。我看其他有兄弟说华子的触控也用的不是顶级供应商，cpu的弱加上触控弱，导致这种结果。不过鸿蒙也挺为难的，属于屎上雕花，这么孱弱的硬件…",
+      "tags": [
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
@@ -259,66 +499,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-c690d4157bc8",
-      "title": "鸿蒙这东西真的是个拧巴的东西，你说他不流畅吧，点击反应还算行，但是各种二级菜单内容加载很慢很卡，你点进去如果马上滑动的话就很卡，你只能等一等，年纪大的人用着还行？不知道为啥这东西还那么多人买，并且这些粉丝还觉得这东西极为流畅。我看其他有兄弟说华子的触控也用的不是顶级供应商，cpu的弱加上触控弱，导致这种结果。不过鸿蒙也挺为难的，属于屎上雕花，这么孱弱的硬件上做到貌似流畅也不容易啊。如果不是阔直板这个形态大创新，真的是不会买任何华子的手机。各种媒体大v和用户都说的流畅，就这么个水平？？？很不理解。你别和我说什么厂家适配问题，我买的是手机，厂家适配关我什么事，再说为啥就鸿蒙适配这么费劲吗",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74861574",
-      "image": "",
-      "summary": "鸿蒙这东西真的是个拧巴的东西，你说他不流畅吧，点击反应还算行，但是各种二级菜单内容加载很慢很卡，你点进去如果马上滑动的话就很卡，你只能等一等，年纪大的人用着还行？不知道为啥这东西还那么多人买，并且这些粉丝还觉得这东西极为流畅。我看其他有兄弟说华子的触控也用的不是顶级供应商，cpu的弱加上触控弱，导致这种结果。不过鸿蒙也挺为难的，属于屎上雕花，这么孱弱的硬件…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-bf0fa5d28a19",
-      "title": "曝iPhone20按键调整",
-      "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-11-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DiPhone20%E6%8C%89%E9%94%AE%E8%B0%83%E6%95%B4%23&t=31&band_rank=21&Refer=top",
-      "image": "",
-      "summary": "曝iPhone20按键调整",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-d32234bc5544",
-      "title": "谷歌 YouTube 回应“半浅半深”界面：不是 Bug，测试“拼接”增强沉浸感",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-06",
-      "time": "23:51",
-      "publishedAt": "2026-11-06T23:51:37.000Z",
-      "url": "https://www.ithome.com/1/023/617.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/d8c9db8e-acd7-44a4-b2ef-6affc6f281aa.png",
-      "summary": "IT之家 11 月 7 日消息，科技媒体 Android Authority 昨日（11 月 6 日）发布博文， 经官方确认部分用户遇到的“一半深色、一半浅色”YouTube 界面并非 Bug，是一项正在小范围开展的界面实验。 IT之家附上相关截图如下： 根据社区用户反馈，安卓和 iOS 版 YouTube 在观看页面出现“一半深色、一半浅色”的奇怪界面，…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -482,66 +662,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-d2178be945fa",
-      "title": "竹本青：【华为昇腾实现Kimi K3.1 Pro模型LoRA训练适配】 11月4日，月之暗面正式开源Kimi K3.1 P…",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-06",
-      "time": "15:41",
-      "publishedAt": "2026-11-06T15:41:01.000Z",
-      "url": "https://www.coolapk.com/feed/74898070",
-      "image": "http://image.coolapk.com/feed/2026/1106/23/4248714_f18591d3_9660_7051_305@1521x493.jpg",
-      "summary": "【华为昇腾实现Kimi K3.1 Pro模型LoRA训练适配】 11月4日，月之暗面正式开源Kimi K3.1 Pro旗舰模型权重。此前，昇腾系列产品已持续支持 Kimi 系列模型，此次Kimi K3.1 Pro开源后，昇腾迅速完成模型适配，并在Atlas 950 SuperPoD上实现LoRA微调训练。 围绕超大规模 MoE 模型的训练挑战，昇腾从混合并…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-70bcfb940b9f",
-      "title": "2026 年中国金鸡百花电影节开幕短片《完美婚礼》首播，使用华为 Mate 90 系列拍摄",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-06",
-      "time": "14:37",
-      "publishedAt": "2026-11-06T14:37:21.000Z",
-      "url": "https://www.ithome.com/1/023/559.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/6fbd5a4e-2f90-407a-bf57-53cf6c0e4387.jpg",
-      "summary": "IT之家 11 月 6 日消息，华为终端今日放出了 2026 年中国金鸡百花电影节宣传片暨开幕短片《完美婚礼》及幕后特辑。 据介绍，短片《完美婚礼》由黄建新监制、章笛沙执导，吴磊、庄达菲等全明星阵容参演， 并使用华为 Mate 90 系列手机进行拍摄 。 IT之家注意到， 这也是华为 Mate 系列手机已连续三年拍摄金鸡百花电影节宣传片 。去年的第 38…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-83f790899beb",
-      "title": "消息称 iQOO 品牌 7 英寸中端机已开模：超万级电池，暂定排期是 2027 年年中",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-06",
-      "time": "14:25",
-      "publishedAt": "2026-11-06T14:25:02.000Z",
-      "url": "https://www.ithome.com/1/023/556.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/2cbd74e6-34cd-46e3-867c-7c4ab3adcdea.png",
-      "summary": "IT之家 11 月 6 日消息，博主 @数码闲聊站 今日发文透露，iQOO 品牌 7 英寸中端机已开模。据称，该机将配备超万级容量电池， 暂定排期是 2027 年年中前后发布 。 博主还在评论区与网友展开了讨论， 并暗示高端机可能也有 7 英寸屏幕，分辨率达 2K 。据IT之家今日早些时候报道， 消息称 vivo 预计会在 2027 年推出阔直板手机 ，目…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-ce2f570a52c4",
       "title": "Leaker says OPPO may have suspended the Find X10 Ultra",
       "source": "Android Authority",
@@ -559,26 +679,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-1444f5bfb4c2",
-      "title": "竹本青：【消息称小米成立中国区公关部：原360公关副总裁担任总经理、原星纪魅族副总裁担任公关媒介部负责人】 小米今日宣布人…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-06",
-      "time": "14:18",
-      "publishedAt": "2026-11-06T14:18:36.000Z",
-      "url": "https://www.coolapk.com/feed/74896380",
-      "image": "http://image.coolapk.com/feed/2026/1106/22/4248714_e93643d4_4715_9311_351@2277x1280.jpg",
-      "summary": "【消息称小米成立中国区公关部：原360公关副总裁担任总经理、原星纪魅族副总裁担任公关媒介部负责人】 小米今日宣布人事调整，集团公关部成立中国区公关部，任命张永生担任中国区公关部总经理，向集团公关部总经理徐洁云和集团高级副总裁、中国区总裁王晓雁双线汇报。 另外，任命曾洋担任集团公关部公关媒介部负责人，向集团公关部总经理徐洁云汇报。 资料显示，张永生此前曾在新…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -615,46 +715,6 @@ window.phoneRadarAuto = {
       "url": "https://www.macrumors.com/2026/11/06/apple-rumored-to-drop-the-action-button/",
       "image": "https://images.macrumors.com/article-new/2026/09/silver-iphone-18-pro.jpg",
       "summary": "Apple plans to merge the iPhone's Action button with the Camera Control starting next year, according to the leaker known as \" Instant Digital .\" In a new post on Weibo, the leake…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-1bf4ddf0dd28",
-      "title": "竹本青：【曝小米18 Ultra曾规划搭载自研玄戒O3】 11月6日，数码闲聊站在OPPO Find X10 Ultra暂…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-06",
-      "time": "13:26",
-      "publishedAt": "2026-11-06T13:26:19.000Z",
-      "url": "https://www.coolapk.com/feed/74895224",
-      "image": "http://image.coolapk.com/feed/2026/1106/21/4248714_978c4653_1577_8606_759@1270x1502.jpg",
-      "summary": "【曝小米18 Ultra曾规划搭载自研玄戒O3】 11月6日，数码闲聊站在OPPO Find X10 Ultra暂停的爆料评论区补充称，另有一款搭载自研芯片的Ultra机型项目也已取消。结合此前爆料信息，该机型指向小米18 Ultra。 根据此前曝光内容，小米18 Ultra原规划搭载自研玄戒O3 处理器，三2亿影像配置，起售价9999元，但最终因定价过高…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-dc1bce880a9c",
-      "title": "消息称苹果 Action Button 操作按钮将在明年下半年的新款 iPhone 正式退幕",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-06",
-      "time": "13:12",
-      "publishedAt": "2026-11-06T13:12:30.000Z",
-      "url": "https://www.ithome.com/1/023/542.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/115efcbb-3e36-4c3e-b6bc-6d447b9c8087.png",
-      "summary": "IT之家 11 月 6 日消息，博主 @刹那数码 今日发文透露，苹果 Action Button 操作按钮， 将在明年下半年的新款 iPhone 上正式退幕 。 博主称，该按键将与相机按钮进行整合 —— 单击进入相机，长按 Action Button 操作 。 IT之家注：苹果公司自 2007 年推出初代 iPhone 以来，过去的硬件产品更迭中，始终保留…",
       "tags": [
         "iPhone",
         "爆料",
@@ -899,6 +959,26 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-efaf508aa42e",
+      "title": "JSCHEN小小狐：『荣耀 700 系列上架商城：最高 16GB+512GB』 荣耀 700S（骁龙 7 Gen4）： - 12GB+…",
+      "source": "JSCHEN小小狐",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-06",
+      "time": "02:27",
+      "publishedAt": "2026-11-06T02:27:50.000Z",
+      "url": "https://www.coolapk.com/feed/74881789",
+      "image": "http://image.coolapk.com/feed/2026/1106/10/4702274_7bd196df_2284_8425_319@800x800.jpg",
+      "summary": "『荣耀 700 系列上架商城：最高 16GB+512GB』 荣耀 700S（骁龙 7 Gen4）： - 12GB+256GB / 12GB+512GB 荣耀 700（骁龙 8s Gen4）： - 12GB+256GB / 12GB+512GB - 16GB+256GB / 16GB+512GB 荣耀 700 Pro（骁龙 8 Gen5）： - 12GB+2…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
       ]
     },
     {
