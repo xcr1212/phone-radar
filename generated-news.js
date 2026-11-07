@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-11-07T16:24:57.852Z",
+  "updatedAt": "2026-11-07T21:48:07.732Z",
   "news": [
+    {
+      "id": "auto-352469072136",
+      "title": "Hands-on: I tested a bunch of iPhone Duo cases, these are my favorites [Video]",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-07",
+      "time": "18:02",
+      "publishedAt": "2026-11-07T18:02:09.000Z",
+      "url": "https://9to5mac.com/2026/11/07/hands-on-i-tested-a-bunch-of-iphone-duo-cases-these-are-my-favorites-video/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Cases-FI.jpg?quality=82&strip=all&w=1600",
+      "summary": "For the first time in a long time, I can say that iPhone cases are fun again! The introduction of the iPhone Duo has brought us a new era of cases in all shapes, sizes, functions,…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-58bc4fb36c52",
+      "title": "iPhone Air 2 is coming next year, here’s why it has more to prove than ever",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-07",
+      "time": "17:45",
+      "publishedAt": "2026-11-07T17:45:55.000Z",
+      "url": "https://9to5mac.com/2026/11/07/iphone-air-2-launching-early-next-year/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-air-falling.jpg?quality=82&strip=all&w=1600",
+      "summary": "Next spring, Apple will take the stage to unveil the second-generation iPhone Air to the world, after taking a bit more time to go back to the drawing board and incorporate a seco…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-d6f590967d17",
+      "title": "竹本青：【比亚迪仰望鼎曜行政版全球首秀，定位超豪华行政旗舰轿车】 ● 尺寸与设计： 长宽高：5600*2030*1590m…",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-07",
+      "time": "16:31",
+      "publishedAt": "2026-11-07T16:31:10.000Z",
+      "url": "https://www.coolapk.com/feed/74920637",
+      "image": "http://image.coolapk.com/feed/2026/1108/00/4248714_c9d29e41_9069_5188_319@720x13674.jpg",
+      "summary": "【比亚迪仰望鼎曜行政版全球首秀，定位超豪华行政旗舰轿车】 ● 尺寸与设计： 长宽高：5600*2030*1590mm 轴距3500mm 鼎形前脸+鼎形钻切大灯 点阵式宝石格栅 24K真金甲骨文车标 4.8m手工贯穿式双腰线 中轴对开门，开合前门80°／后门90° ● 电池与续航： 第二代刀片电池｜CLTC超1000公里 千伏平台闪充、万座闪充站补能 ● 座…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "auto-27c20eea9382",
       "title": "安卓阵营首款阔直板手机酷派 COOL X Wide 今日开售：999~1399 元，搭载联发科曦力 G99 芯片 + 720p 屏幕",
@@ -99,26 +159,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-09ab4815a063",
-      "title": "JSCHEN小小狐：『iPhone Duo 首周激活量曝光：约 12.46 万台』 数码博主 RD观测 今日公布了苹果首款大折叠屏 i…",
-      "source": "JSCHEN小小狐",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-07",
-      "time": "11:05",
-      "publishedAt": "2026-11-07T11:05:00.000Z",
-      "url": "https://www.coolapk.com/feed/74913687",
-      "image": "http://image.coolapk.com/feed/2026/1107/19/4702274_d5f35142_9499_2887_713@1440x539.jpg",
-      "summary": "『iPhone Duo 首周激活量曝光：约 12.46 万台』 数码博主 RD观测 今日公布了苹果首款大折叠屏 iPhone Duo 的首周（W43）激活量：在 10.19 - 10.25 期间，该机累计激活量约达 12.46 万台。 据悉，iPhone Duo 国行版本于 10.23 正式开售，256GB 版本起售价 15999 元。采用 7.6\" OL…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -262,46 +302,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-3896cb41cbfa",
-      "title": "竹本青：【星闪赋能户内燃气安全：华为等单位参加可信运行研讨会，预计年底前设立首批试点场景】 据国际星闪联盟，11月4日下午…",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-07",
-      "time": "07:23",
-      "publishedAt": "2026-11-07T07:23:33.000Z",
-      "url": "https://www.coolapk.com/feed/74909337",
-      "image": "http://image.coolapk.com/feed/2026/1107/15/4248714_d9097bd7_6440_3982_713@1280x960.jpg",
-      "summary": "【星闪赋能户内燃气安全：华为等单位参加可信运行研讨会，预计年底前设立首批试点场景】 据国际星闪联盟，11月4日下午，星闪赋能户内燃气安全可信运行与产业协同专题研讨会在中国信息通信研究院举行。 会议由国际星闪联盟户内燃气安全专项兴趣小组（SIG）牵头主办，特邀星闪传感器SIG共同研讨。信通院工业互联网与物联网研究所、信通院泰尔实验室、华为、中移芯昇、浪潮集团…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-7cc41181f1c0",
-      "title": "竹本青：【博主盘点前代安卓阵营超大杯：多数影像硬件已成绝版】 11月7日，数码闲聊站盘点内存价格上涨前的三款安卓超大杯旗舰…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-07",
-      "time": "04:23",
-      "publishedAt": "2026-11-07T04:23:11.000Z",
-      "url": "https://www.coolapk.com/feed/74905857",
-      "image": "http://image.coolapk.com/feed/2026/1107/12/4248714_da79af23_5390_0196_372@1272x574.jpg",
-      "summary": "【博主盘点前代安卓阵营超大杯：多数影像硬件已成绝版】 11月7日，数码闲聊站盘点内存价格上涨前的三款安卓超大杯旗舰，称其中多数影像硬件配置已成绝版。三款机型的规格分别为： 小米 17 Ultra —— 1英寸LOFIC+2亿连续光变 Find X9 Ultra —— 双潜望长焦+10X原生光变 X300 Ultra —— 200Mp 1/1.12\" 35m…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "weibo-8eb4f9ea0faa",
       "title": "数码闲聊站：回顾一下内存价格彻底崩坏前的超大杯： 小米 17 Ultra——1英寸LOFI…",
       "source": "数码闲聊站",
@@ -319,26 +319,6 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-34e3edbc1816",
-      "title": "Samsung Galaxy S27 Ultra tipped to use Snapdragon processor despite overheating concerns",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-07",
-      "time": "02:36",
-      "publishedAt": "2026-11-07T02:36:10.000Z",
-      "url": "https://www.androidpolice.com/samsung-galaxy-s27-ultra-tipped-use-snapdragon-processor-despite-overheating-concerns/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/03/galaxy-s26-ultra-back.JPG",
-      "summary": "The Pro could get the non-Extreme Snapdragon 8 Elite Gen 6 SoC",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -482,28 +462,28 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-2f8aa2a017f2",
-      "title": "没想到吧，目前所有手机新系统，小米澎湃os4系统，酷安评分，第一名了，真正遥遥领先，超越鸿蒙系统，超越oppo color系统，超越荣耀magic系统 超越vivo橘子系统。三十年河东，三十年河西。 #红米k100# #一加Ace7# #一加Ace7Pro#",
+      "id": "newsnow-8bd885b18e7f",
+      "title": "『iPhone Duo 首周激活量曝光：约 12.46 万台』",
       "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-11-07",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74900567",
+      "url": "https://www.coolapk.com/feed/74913687",
       "image": "",
-      "summary": "没想到吧，目前所有手机新系统，小米澎湃os4系统，酷安评分，第一名了，真正遥遥领先，超越鸿蒙系统，超越oppo color系统，超越荣耀magic系统 超越vivo橘子系统。三十年河东，三十年河西。 #红米k100# #一加Ace7# #一加Ace7Pro#",
+      "summary": "『iPhone Duo 首周激活量曝光：约 12.46 万台』",
       "tags": [
-        "HONOR",
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-3c06c823780f",
-      "title": "女朋友大晚上这两句话什么意思,发现她在一个不知道是什么的群#REDMIK100ProMax# #一加Ace7Pro# #OPPOFindX8Ultra#",
+      "id": "newsnow-aa51abdee800",
+      "title": "米17Max我也体验一周了，来讲一讲我的感受吧，综合我觉得要比真我gt8这个手机好了五倍，为什么？不是说欧系手机挺好用的吗？我并不这么认为，colorOS16，金标，17我都用了，整体的体验我并不是感受多好，没有让人眼前一亮的感觉，升级也不痛不痒，关键是美学美观度方面真的是个大狗fen，十分且超级无敌平庸，流畅度整体还可以，能接受过去，但有时候也会莫名其妙卡，而且是死机的那种卡，我已经发生三次了，每次都要强制重启才能搞好，所以真我gt8对我的使用体验其实并不好，但我自从上周换到小米17 max以后我第一眼上手就是小米什么时候这么好用了？？我刚开机就直接升级澎湃4了，整体流畅度，美观度，稳定性真的比真我好了太多太多（我没收米的钱），澎湃的动画效果类似于iOS，因为我也有一台ip17 Pro的，跟那个比较相像，而且整体UI协调也更好，这一点我又要喷一句color os了... 查看更多",
       "source": "酷安热榜",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
@@ -512,9 +492,9 @@ window.phoneRadarAuto = {
       "date": "2026-11-07",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74899018",
+      "url": "https://www.coolapk.com/feed/74911709",
       "image": "",
-      "summary": "女朋友大晚上这两句话什么意思,发现她在一个不知道是什么的群#REDMIK100ProMax# #一加Ace7Pro# #OPPOFindX8Ultra#",
+      "summary": "米17Max我也体验一周了，来讲一讲我的感受吧，综合我觉得要比真我gt8这个手机好了五倍，为什么？不是说欧系手机挺好用的吗？我并不这么认为，colorOS16，金标，17我都用了，整体的体验我并不是感受多好，没有让人眼前一亮的感觉，升级也不痛不痒，关键是美学美观度方面真的是个大狗fen，十分且超级无敌平庸，流畅度整体还可以，能接受过去，但有时候也会莫名其妙…",
       "tags": [
         "Xiaomi",
         "爆料",
@@ -522,48 +502,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-4209e03d2fdd",
-      "title": "新机潮过后，机圈短暂降温，但本周看点同样不少：中兴否认出售手机业传闻；罗技广告再度陷入争议；华为“星芒”新机包装盒曝光；国行Apple智能开放测试。存储市场，还传来内存长期紧缺的预警。",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74889686",
-      "image": "",
-      "summary": "新机潮过后，机圈短暂降温，但本周看点同样不少：中兴否认出售手机业传闻；罗技广告再度陷入争议；华为“星芒”新机包装盒曝光；国行Apple智能开放测试。存储市场，还传来内存长期紧缺的预警。",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-23c6e149da8c",
-      "title": "4点的时候，商场里面坐着。突然他拿着一盒蛋糕不好意思地送给我，想让我打个电话，我拒绝了食物但是帮他打电话，第一次给我挂了，第二次不接，然后我想到帮他发短信，显示未送达。我问他怎么回事他说手机坏了，等老乡，跟老乡一起来的，当时那个老乡说有急事让他等会，然后就再也没有回来，他觉得这个同伴可以信任。他还是要给我蛋糕我拒绝了。",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74894831",
-      "image": "",
-      "summary": "4点的时候，商场里面坐着。突然他拿着一盒蛋糕不好意思地送给我，想让我打个电话，我拒绝了食物但是帮他打电话，第一次给我挂了，第二次不接，然后我想到帮他发短信，显示未送达。我问他怎么回事他说手机坏了，等老乡，跟老乡一起来的，当时那个老乡说有急事让他等会，然后就再也没有回来，他觉得这个同伴可以信任。他还是要给我蛋糕我拒绝了。",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-669bd3903c31",
-      "title": "曝OPPO Find X10 Ultra项目暂停，曾最新测试天玑9600 Pro",
+      "id": "newsnow-9f9348e93a50",
+      "title": "兄弟们，两台手机我还是留了ace7 Pro，一加16卖了。",
       "source": "酷安热榜",
       "brand": "OPPO",
       "model": "OPPO 相关机型",
@@ -572,51 +512,11 @@ window.phoneRadarAuto = {
       "date": "2026-11-07",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74889516",
+      "url": "https://www.coolapk.com/feed/74912454",
       "image": "",
-      "summary": "曝OPPO Find X10 Ultra项目暂停，曾最新测试天玑9600 Pro",
+      "summary": "兄弟们，两台手机我还是留了ace7 Pro，一加16卖了。",
       "tags": [
         "OPPO",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-697c18fd75ec",
-      "title": "兄弟们，我逛个街好像遇到明星了？？？[疑问][疑问]这人咋看起来那么眼熟呢？[受虐滑稽][受虐滑稽][受虐滑稽]全部用x9ultra十倍长焦拍的[呲牙][呲牙][呲牙]给兄弟们分享下[吃瓜][吃瓜]#数码日常# #手机摄影# #ColorOS17#",
-      "source": "酷安热榜",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74888307",
-      "image": "",
-      "summary": "兄弟们，我逛个街好像遇到明星了？？？[疑问][疑问]这人咋看起来那么眼熟呢？[受虐滑稽][受虐滑稽][受虐滑稽]全部用x9ultra十倍长焦拍的[呲牙][呲牙][呲牙]给兄弟们分享下[吃瓜][吃瓜]#数码日常# #手机摄影# #ColorOS17#",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-fe1c2750b9c7",
-      "title": "iPhone20外观",
-      "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-11-07",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhone20%E5%A4%96%E8%A7%82%23&t=31&band_rank=21&Refer=top",
-      "image": "",
-      "summary": "iPhone20外观",
-      "tags": [
-        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -1099,26 +999,6 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-efaf508aa42e",
-      "title": "JSCHEN小小狐：『荣耀 700 系列上架商城：最高 16GB+512GB』 荣耀 700S（骁龙 7 Gen4）： - 12GB+…",
-      "source": "JSCHEN小小狐",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-06",
-      "time": "02:27",
-      "publishedAt": "2026-11-06T02:27:50.000Z",
-      "url": "https://www.coolapk.com/feed/74881789",
-      "image": "http://image.coolapk.com/feed/2026/1106/10/4702274_7bd196df_2284_8425_319@800x800.jpg",
-      "summary": "『荣耀 700 系列上架商城：最高 16GB+512GB』 荣耀 700S（骁龙 7 Gen4）： - 12GB+256GB / 12GB+512GB 荣耀 700（骁龙 8s Gen4）： - 12GB+256GB / 12GB+512GB - 16GB+256GB / 16GB+512GB 荣耀 700 Pro（骁龙 8 Gen5）： - 12GB+2…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
       ]
     },
     {

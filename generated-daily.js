@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-11-07T16:24:57.852Z",
+  "updatedAt": "2026-11-07T21:48:07.732Z",
   "issueDate": "2026-11-07",
   "issue": "VOL.261107",
   "title": "手机情报日报",
-  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 14 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 11,
+    "total": 14,
     "iphone": 8,
     "leaks": 8,
-    "official": 0,
+    "official": 1,
     "specs": 0
   },
   "sections": [
@@ -61,53 +61,6 @@ window.phoneRadarDaily = {
             "成本 / 价格"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-09ab4815a063",
-          "title": "JSCHEN小小狐：『iPhone Duo 首周激活量曝光：约 12.46 万台』 数码博主 RD观测 今日公布了苹果首款大折叠屏 i…",
-          "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-11-07",
-          "time": "11:05",
-          "publishedAt": "2026-11-07T11:05:00.000Z",
-          "url": "https://www.coolapk.com/feed/74913687",
-          "image": "http://image.coolapk.com/feed/2026/1107/19/4702274_d5f35142_9499_2887_713@1440x539.jpg",
-          "verdict": "先看",
-          "takeaway": "『iPhone Duo 首周激活量曝光：约 12.46 万台』 数码博主 RD观测 今日公布了苹果首款大折叠屏 iPhone Duo 的首周（W43）激活量：在 10.19 - 10.25 期间，该机累计激活量约达 12.46 万台。 据悉，iPhone Duo 国行版本于 10.23 正式开售，256GB 版本起售价 15999 元。采用 7.6\" OL…",
-          "detail": "『iPhone Duo 首周激活量曝光：约 12.46 万台』 数码博主 RD观测 今日公布了苹果首款大折叠屏 iPhone Duo 的首周（W43）激活量：在 10.19 - 10.25 期间，该机累计激活量约达 12.46 万台。 据悉，iPhone Duo 国行版本于 10.23 正式开售，256GB 版本起售价 15999 元。采用 7.6\" OL…",
-          "keyPoints": [
-            "屏幕形态",
-            "成本 / 价格"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-fe1c2750b9c7",
-          "title": "iPhone20外观",
-          "originalTitle": "",
-          "source": "微博热搜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "待验证",
-          "date": "2026-11-07",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone20%E5%A4%96%E8%A7%82%23&t=31&band_rank=21&Refer=top",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone20外观",
-          "detail": "iPhone20外观",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -205,6 +158,54 @@ window.phoneRadarDaily = {
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-8eb4f9ea0faa",
+          "title": "数码闲聊站：回顾一下内存价格彻底崩坏前的超大杯： 小米 17 Ultra——1英寸LOFI…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-11-07",
+          "time": "04:17",
+          "publishedAt": "2026-11-07T04:17:00.000Z",
+          "url": "https://weibo.com/6048569942/RqgiMwtIN",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "回顾一下内存价格彻底崩坏前的超大杯： 小米 17 Ultra——1英寸LOFIC+2亿连续光变 Find X9 Ultra——双潜望长焦+10X原生光变 X300 Ultra——200Mp 1/1.12\" 35mm主摄 以上大多数是绝版硬件[柯基]",
+          "detail": "回顾一下内存价格彻底崩坏前的超大杯： 小米 17 Ultra——1英寸LOFIC+2亿连续光变 Find X9 Ultra——双潜望长焦+10X原生光变 X300 Ultra——200Mp 1/1.12\" 35mm主摄 以上大多数是绝版硬件[柯基]",
+          "keyPoints": [
+            "影像硬件",
+            "成本 / 价格",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-aa51abdee800",
+          "title": "米17Max我也体验一周了，来讲一讲我的感受吧，综合我觉得要比真我gt8这个手机好了五倍，为什么？不是说欧系手机挺好用的吗？我并不这么认为，colorOS16，金标，17我都用了，整体的体验我并不是感受多好，没有让人眼前一亮的感觉，升级也不痛不痒，关键是美学美观度方面真的是个大狗fen，十分且超级无敌平庸，流畅度整体还可以，能接受过去，但有时候也会莫名其妙卡，而且是死机的那种卡，我已经发生三次了，每次都要强制重启才能搞好，所以真我gt8对我的使用体验其实并不好，但我自从上周换到小米17 max以后我第一眼上手就是小米什么时候这么好用了？？我刚开机就直接升级澎湃4了，整体流畅度，美观度，稳定性真的比真我好了太多太多（我没收米的钱），澎湃的动画效果类似于iOS，因为我也有一台ip17 Pro的，跟那个比较相像，而且整体UI协调也更好，这一点我又要喷一句color os了... 查看更多",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-11-07",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/74911709",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "米17Max我也体验一周了，来讲一讲我的感受吧，综合我觉得要比真我gt8这个手机好了五倍，为什么？不是说欧系手机挺好用的吗？我并不这么认为，colorOS16，金标，17我都用了，整体的体验我并不是感受多好，没有让人眼前一亮的感觉，升级也不痛不痒，关键是美学美观度方面真的是个大狗fen，十分且超级无敌平庸，流畅度整体还可以，能接受过去，但有时候也会莫名其妙…",
+          "detail": "米17Max我也体验一周了，来讲一讲我的感受吧，综合我觉得要比真我gt8这个手机好了五倍，为什么？不是说欧系手机挺好用的吗？我并不这么认为，colorOS16，金标，17我都用了，整体的体验我并不是感受多好，没有让人眼前一亮的感觉，升级也不痛不痒，关键是美学美观度方面真的是个大狗fen，十分且超级无敌平庸，流畅度整体还可以，能接受过去，但有时候也会莫名其妙…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -235,6 +236,52 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
+          "id": "newsnow-8bd885b18e7f",
+          "title": "『iPhone Duo 首周激活量曝光：约 12.46 万台』",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-11-07",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/74913687",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "『iPhone Duo 首周激活量曝光：约 12.46 万台』",
+          "detail": "『iPhone Duo 首周激活量曝光：约 12.46 万台』",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-a89f115eb254",
+          "title": "iPhone 芯片 / 性能相关消息",
+          "originalTitle": "",
+          "source": "Apple Newsroom",
+          "brand": "iPhone",
+          "type": "官方",
+          "trust": "官方确认",
+          "date": "2026-11-07",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.apple.com/newsroom/2026/10/apple-announces-american-manufacturing-program-partners-for-latest-iphone-lineup/",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone 芯片 / 性能相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "官方"
+          ],
+          "confidence": "官方内容，可直接作为已确认信息记录。",
+          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -288,6 +335,36 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "行业趋势",
+      "hint": "看方向，不急着当购买依据。",
+      "items": [
+        {
+          "id": "newsnow-9f9348e93a50",
+          "title": "兄弟们，两台手机我还是留了ace7 Pro，一加16卖了。",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-11-07",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/74912454",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "兄弟们，两台手机我还是留了ace7 Pro，一加16卖了。",
+          "detail": "兄弟们，两台手机我还是留了ace7 Pro，一加16卖了。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }
