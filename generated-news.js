@@ -1,6 +1,206 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-11-07T08:45:52.526Z",
+  "updatedAt": "2026-11-07T16:24:57.852Z",
   "news": [
+    {
+      "id": "auto-27c20eea9382",
+      "title": "安卓阵营首款阔直板手机酷派 COOL X Wide 今日开售：999~1399 元，搭载联发科曦力 G99 芯片 + 720p 屏幕",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-07",
+      "time": "16:00",
+      "publishedAt": "2026-11-07T16:00:12.000Z",
+      "url": "https://www.ithome.com/1/023/829.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/c948a1d4-afd1-4da2-aee6-456fb6b7f231.jpg",
+      "summary": "IT之家 11 月 8 日消息，安卓阵营首款阔直板手机，也是酷派首款阔直板手机 Cool X Wide 今日正式开售。其中，8GB+128GB 版本 999 元，8GB+256GB 版本 1199 元，12GB+256GB 版本 1399 元。 这款新机搭载 6.38 英寸 16:10 屏幕，仅 720x1158 分辨率，还支持 90Hz 刷新率；有鎏白、…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-6db49036626f",
+      "title": "竹本青：【百度地图上线鸿蒙专属「室内导航」功能】 基于华为星迹定位，从进商场到找店铺，精准定位目的地；首批上线全国22个城…",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-07",
+      "time": "15:45",
+      "publishedAt": "2026-11-07T15:45:03.000Z",
+      "url": "https://www.coolapk.com/feed/74919675",
+      "image": "http://image.coolapk.com/feed/2026/1107/23/4248714_5827046d_6302_8747_63@1080x1440.png",
+      "summary": "【百度地图上线鸿蒙专属「室内导航」功能】 基于华为星迹定位，从进商场到找店铺，精准定位目的地；首批上线全国22个城市、覆盖106家大型商业体/热门商场，支持自动切换楼层，找入口、坐电梯，室内室外不切换。 使用路径：打开百度地图，直接搜索，一键开启步行导航，即可直达餐厅、卫生间、母婴室、遛娃区。 #今日热点# #鸿蒙7# #数码日常#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-2134b01cb2d0",
+      "title": "Oppo reportedly cancels Find X10 Ultra thanks to RAMageddon",
+      "source": "9to5Google",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-07",
+      "time": "12:30",
+      "publishedAt": "2026-11-07T12:30:00.000Z",
+      "url": "https://9to5google.com/2026/11/07/oppo-reportedly-cancels-find-x10-ultra-thanks-to-ramageddon/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/oppo-find-x9-ultra-review-17.jpg?quality=82&strip=all&w=1600",
+      "summary": "The Oppo Find X9 Ultra was my favorite new phone of 2026 but, thanks to RAMageddon, the company is apparently canceling its sequel. more…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-76183e1b2005",
+      "title": "竹本青：【iPhone Duo 首周销量曝光：三天卖出约12.46万台】 11月7日，博主「RD观测」公布的第三方统计数据…",
+      "source": "竹本青",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-07",
+      "time": "12:24",
+      "publishedAt": "2026-11-07T12:24:59.000Z",
+      "url": "https://www.coolapk.com/feed/74915324",
+      "image": "http://image.coolapk.com/feed/2026/1107/20/4248714_ff04aafe_4298_8485_718@1440x1504.jpg",
+      "summary": "【iPhone Duo 首周销量曝光：三天卖出约12.46万台】 11月7日，博主「RD观测」公布的第三方统计数据显示，截至10月25日，iPhone Duo累计销量约12.46万台。博主此前分享称，该机首销期（首销日+后续三天）累计销量近20万台。 10月23日，iPhone Duo正式开售，起售价15999元。核心搭载A20 Pro芯片，配备120Hz…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-4db07e81e878",
+      "title": "苹果 iPhone Duo 折叠屏手机首周销量曝光，三天卖出约 12.46 万台",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-07",
+      "time": "12:13",
+      "publishedAt": "2026-11-07T12:13:58.000Z",
+      "url": "https://www.ithome.com/1/023/798.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/186b80cb-2730-46b1-9e9e-4683eaedd613.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 11 月 7 日消息，长期关注国内手机市场份额的数码博主 @RD观测 今日曝光了苹果 iPhone Duo 折叠屏手机的首周销量数据， 10 月 19 日-10 月 25 日期间合计约 12.46 万台 。 需要注意的是， 苹果 iPhone Duo 是在 10 月 23 日开售，因此该数据仅包含了 23 日、24 日和 25 日的销量数据。 该…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-09ab4815a063",
+      "title": "JSCHEN小小狐：『iPhone Duo 首周激活量曝光：约 12.46 万台』 数码博主 RD观测 今日公布了苹果首款大折叠屏 i…",
+      "source": "JSCHEN小小狐",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-07",
+      "time": "11:05",
+      "publishedAt": "2026-11-07T11:05:00.000Z",
+      "url": "https://www.coolapk.com/feed/74913687",
+      "image": "http://image.coolapk.com/feed/2026/1107/19/4702274_d5f35142_9499_2887_713@1440x539.jpg",
+      "summary": "『iPhone Duo 首周激活量曝光：约 12.46 万台』 数码博主 RD观测 今日公布了苹果首款大折叠屏 iPhone Duo 的首周（W43）激活量：在 10.19 - 10.25 期间，该机累计激活量约达 12.46 万台。 据悉，iPhone Duo 国行版本于 10.23 正式开售，256GB 版本起售价 15999 元。采用 7.6\" OL…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-fdb3bc53f708",
+      "title": "竹本青：#华为畅享90ProMax#",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-07",
+      "time": "10:14",
+      "publishedAt": "2026-11-07T10:14:18.000Z",
+      "url": "https://www.coolapk.com/feed/74912743",
+      "image": "",
+      "summary": "#华为畅享90ProMax#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-789c5f46cc52",
+      "title": "华为畅享 100 系列手机首销情况曝光：总量约 21.5 万台，Pro Max 机型约占 60%",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-07",
+      "time": "09:59",
+      "publishedAt": "2026-11-07T09:59:54.000Z",
+      "url": "https://www.ithome.com/1/023/780.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/fc4e686f-aba0-4869-8033-e80608d30994.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 11 月 7 日消息， 华为畅享 100 系列手机于 10 月 28 日发布，10 月 31 日 10:08 首销， 售价 1399 元起 。 ▲ 华为畅享 100 Pro Max 博主 @RD观测 今日曝光了系列新机的首销情况，以首销当日（10:08 开售）+ 后三天为标准， 华为畅享 100 系列的总量约 215K （21.5 万）。 其中：…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-53c0ad163d38",
+      "title": "竹本青：【华为畅享 100系列 首销情况曝光：全系销量约21.5万台，Pro Max占比约60%】 11月7日，博主「RD…",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-07",
+      "time": "09:55",
+      "publishedAt": "2026-11-07T09:55:03.000Z",
+      "url": "https://www.coolapk.com/feed/74912352",
+      "image": "http://image.coolapk.com/feed/2026/1107/18/4248714_88491d71_6194_8215_384@1270x813.jpg",
+      "summary": "【华为畅享 100系列 首销情况曝光：全系销量约21.5万台，Pro Max占比约60%】 11月7日，博主「RD观测」分享第三方统计 的华为畅享 100系列 首销情况：以首销当日（约10:08开售）+后三天为标准，全系销量约21.5万台。 畅享100 Pro Max —— 内占比约60% 畅享100 Pro —— 内占比约10% 畅享100 —— 内占比…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-be95f9fb4c07",
+      "title": "小米澎湃 HyperOS 4 近期修复进展公布，Xiaomi 17 系列手机多个问题优化",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-07",
+      "time": "08:52",
+      "publishedAt": "2026-11-07T08:52:00.000Z",
+      "url": "https://www.ithome.com/1/023/760.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2025/9/48ad53a0-d07e-4beb-81f7-1dabca2f72c3.jpg",
+      "summary": "IT之家 11 月 7 日消息，小米员工昨日在小米社区发布了澎湃 HyperOS 4 近期的修复进展汇总。据介绍， 修复将随后续版本推送逐步生效，具体时间因机型及应用版本不同 ，以实际更新为准。其中提到，Xiaomi 17 系列手机多个问题优化。 ▲ IT之家开箱：小米 17 Pro / Pro Max 手机图赏 IT之家附小米澎湃 HyperOS 4 系…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-f7610dee16f7",
       "title": "TrendForce：预计 2027 年翻新内存在智能手机市场渗透率达 7-9%",
@@ -62,26 +262,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-cb9090b03a87",
-      "title": "消息称内存价格彻底崩坏前各手机厂商“超大杯”部分影像配置已属绝版硬件",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-07",
-      "time": "07:47",
-      "publishedAt": "2026-11-07T07:47:49.000Z",
-      "url": "https://www.ithome.com/1/023/746.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/e9b43fe5-c7bc-4a5c-8d7b-33040ad023cb.png",
-      "summary": "IT之家 11 月 7 日消息，博主 @数码闲聊站 今日发文，盘点了内存价格彻底崩坏前的“超大杯”机型： 小米 17 Ultra —— 1 英寸 LOFIC + 2 亿连续光变 Find X9 Ultra —— 双 潜望长焦 + 10X 原生光变 X300 Ultra —— 200Mp 1/1.12\" 35mm 主摄 博主透露， 以上大多数是绝版硬件 。…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-3896cb41cbfa",
       "title": "竹本青：【星闪赋能户内燃气安全：华为等单位参加可信运行研讨会，预计年底前设立首批试点场景】 据国际星闪联盟，11月4日下午…",
       "source": "竹本青",
@@ -99,26 +279,6 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-7822d0425852",
-      "title": "谷歌给安卓版 Chrome 浏览器设置页“上色”，焕新引入 iOS 版彩色风格图标",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-07",
-      "time": "06:52",
-      "publishedAt": "2026-11-07T06:52:57.000Z",
-      "url": "https://www.ithome.com/1/023/688.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/fc3941cd-db79-4fc7-be39-a9b0ec2bfdaa.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 11 月 7 日消息，科技媒体 Android Authority 昨日（11 月 6 日）发布博文，报道称谷歌酝酿升级安卓版 Chrome 浏览器的设置页面，为各个设置条目加入彩色图标，并调整部分选项的分类。 谷歌正在安卓版 Chrome Canary 中测试设置页面改版，新版最直观的变化， 是设置主页面采用了与 iOS 版 Chrome 相近…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -162,46 +322,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-d6d0700f18f4",
-      "title": "竹本青：消息称小米 18 标准版已三证齐全，支持100W有线快充",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-07",
-      "time": "03:03",
-      "publishedAt": "2026-11-07T03:03:50.000Z",
-      "url": "https://www.coolapk.com/feed/74904284",
-      "image": "http://image.coolapk.com/feed/2026/1107/11/4248714_0b05b277_0629_193_566@1440x2820.jpg",
-      "summary": "【消息称小米 18 标准版已三证齐全，支持100W有线快充】 11月7日，型号为M261DB的小米5G数字移动电话机于昨日通过3C认证，标配MDY-18-EW电源适配器，支持最高100W有线快充。经多位博主确认，该机即为小米 18 标准版，目前产品已三证齐全。 据此前爆料，小米 18 标准版 预计12月发布，搭载骁龙8 Elite Gen 6处理器，支持N…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-e8ce5c903d68",
-      "title": "小米 18 标准版手机通过 3C 认证，支持 100W 快充",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-07",
-      "time": "02:37",
-      "publishedAt": "2026-11-07T02:37:00.000Z",
-      "url": "https://www.ithome.com/1/023/652.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/b505a12f-9a40-42f3-a840-5a261c07cd42.png",
-      "summary": "IT之家 11 月 7 日消息，一款型号为 M261DB 的小米手机于 11 月 6 日通过了工信部 3C 认证，支持 100W 快充。据博主 @体验more 透露，该机为小米 18 标准版，预计下个月亮相。 IT之家注意到，在 9 月 23 日的小米 18 Pro 系列手机新品发布会前夕，有网友在微博询问小米集团合伙人、总裁 @卢伟冰 有关小米 18 标…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-34e3edbc1816",
       "title": "Samsung Galaxy S27 Ultra tipped to use Snapdragon processor despite overheating concerns",
       "source": "Android Police",
@@ -239,26 +359,6 @@ window.phoneRadarAuto = {
         "vivo",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-2342f3f285d9",
-      "title": "竹本青：博主称vivo X500 Ultra正常打磨中：骁龙8EE6",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-07",
-      "time": "02:10",
-      "publishedAt": "2026-11-07T02:10:04.000Z",
-      "url": "https://www.coolapk.com/feed/74903204",
-      "image": "http://image.coolapk.com/feed/2026/1107/10/4248714_aecb28ee_7403_1246_703@1439x1378.jpg",
-      "summary": "【博主称vivo X500 Ultra正常打磨中：骁龙8EE6处理器，明年3-4月登场】 11月7日，博主数码闲聊站爆料，vivo X500 Ultra正常打磨中，搭载骁龙8EE6处理器，价格“贵是显而易见的”，或将成为安卓阵营唯一的影像超大杯，明年3-4月登场。 此前9月，vivo产品副总裁黄韬就已经确认：X500 Ultra一定会出，产品很多地方已经定…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -382,6 +482,46 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-2f8aa2a017f2",
+      "title": "没想到吧，目前所有手机新系统，小米澎湃os4系统，酷安评分，第一名了，真正遥遥领先，超越鸿蒙系统，超越oppo color系统，超越荣耀magic系统 超越vivo橘子系统。三十年河东，三十年河西。 #红米k100# #一加Ace7# #一加Ace7Pro#",
+      "source": "酷安热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-07",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74900567",
+      "image": "",
+      "summary": "没想到吧，目前所有手机新系统，小米澎湃os4系统，酷安评分，第一名了，真正遥遥领先，超越鸿蒙系统，超越oppo color系统，超越荣耀magic系统 超越vivo橘子系统。三十年河东，三十年河西。 #红米k100# #一加Ace7# #一加Ace7Pro#",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-3c06c823780f",
+      "title": "女朋友大晚上这两句话什么意思,发现她在一个不知道是什么的群#REDMIK100ProMax# #一加Ace7Pro# #OPPOFindX8Ultra#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-07",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74899018",
+      "image": "",
+      "summary": "女朋友大晚上这两句话什么意思,发现她在一个不知道是什么的群#REDMIK100ProMax# #一加Ace7Pro# #OPPOFindX8Ultra#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-4209e03d2fdd",
       "title": "新机潮过后，机圈短暂降温，但本周看点同样不少：中兴否认出售手机业传闻；罗技广告再度陷入争议；华为“星芒”新机包装盒曝光；国行Apple智能开放测试。存储市场，还传来内存长期紧缺的预警。",
       "source": "酷安热榜",
@@ -462,41 +602,61 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-c690d4157bc8",
-      "title": "鸿蒙这东西真的是个拧巴的东西，你说他不流畅吧，点击反应还算行，但是各种二级菜单内容加载很慢很卡，你点进去如果马上滑动的话就很卡，你只能等一等，年纪大的人用着还行？不知道为啥这东西还那么多人买，并且这些粉丝还觉得这东西极为流畅。我看其他有兄弟说华子的触控也用的不是顶级供应商，cpu的弱加上触控弱，导致这种结果。不过鸿蒙也挺为难的，属于屎上雕花，这么孱弱的硬件上做到貌似流畅也不容易啊。如果不是阔直板这个形态大创新，真的是不会买任何华子的手机。各种媒体大v和用户都说的流畅，就这么个水平？？？很不理解。你别和我说什么厂家适配问题，我买的是手机，厂家适配关我什么事，再说为啥就鸿蒙适配这么费劲吗。",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "id": "newsnow-fe1c2750b9c7",
+      "title": "iPhone20外观",
+      "source": "微博热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
-      "trust": "高关注爆料源",
+      "trust": "待验证",
       "date": "2026-11-07",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74861574",
+      "url": "https://s.weibo.com/weibo?q=%23iPhone20%E5%A4%96%E8%A7%82%23&t=31&band_rank=21&Refer=top",
       "image": "",
-      "summary": "鸿蒙这东西真的是个拧巴的东西，你说他不流畅吧，点击反应还算行，但是各种二级菜单内容加载很慢很卡，你点进去如果马上滑动的话就很卡，你只能等一等，年纪大的人用着还行？不知道为啥这东西还那么多人买，并且这些粉丝还觉得这东西极为流畅。我看其他有兄弟说华子的触控也用的不是顶级供应商，cpu的弱加上触控弱，导致这种结果。不过鸿蒙也挺为难的，属于屎上雕花，这么孱弱的硬件…",
+      "summary": "iPhone20外观",
       "tags": [
-        "Huawei",
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-782e39cb55b2",
-      "title": "当下这个行情，这个价格可以说是今年双11最夯的手机，没有之一，还有些酷友3500左右入手的，无脑冲好吧 #REDMIK100ProMax#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "id": "newsnow-88242c16bcf4",
+      "title": "尾号98888888手机号128万起拍",
+      "source": "今日头条热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
-      "trust": "高关注爆料源",
+      "trust": "媒体汇总",
       "date": "2026-11-07",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74883757",
+      "url": "https://www.toutiao.com/trending/7705331962466549802/",
       "image": "",
-      "summary": "当下这个行情，这个价格可以说是今年双11最夯的手机，没有之一，还有些酷友3500左右入手的，无脑冲好吧 #REDMIK100ProMax#",
+      "summary": "尾号98888888手机号128万起拍",
       "tags": [
-        "Xiaomi",
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-2265e3cb532c",
+      "title": "存储风暴压顶 小众手机在劫难逃",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-07",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E5%AD%98%E5%82%A8%E9%A3%8E%E6%9A%B4%E5%8E%8B%E9%A1%B6+%E5%B0%8F%E4%BC%97%E6%89%8B%E6%9C%BA%E5%9C%A8%E5%8A%AB%E9%9A%BE%E9%80%83",
+      "image": "",
+      "summary": "存储风暴压顶 小众手机在劫难逃",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -557,26 +717,6 @@ window.phoneRadarAuto = {
       "summary": "The UI makeover is taking shape in Canary.",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-55ea5388b238",
-      "title": "The Samsung Galaxy S26 Ultra scores a stunning discount ahead of Black Friday — save $450 right now",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-06",
-      "time": "17:19",
-      "publishedAt": "2026-11-06T17:19:28.000Z",
-      "url": "https://www.androidpolice.com/best-buy-samsung-galaxy-s26-ultra-deal-early-black-friday/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/02/samsung-galaxy-s26-ultra-11.jpg",
-      "summary": "The holidays have come early for Samsung fans.",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
