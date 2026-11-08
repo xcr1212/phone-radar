@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-11-08T01:25:53.970Z",
+  "updatedAt": "2026-11-08T08:58:54.422Z",
   "news": [
+    {
+      "id": "auto-094f9bbc00ef",
+      "title": "苹果首款折叠屏手机 iPhone Duo“裂屏门”追踪：消息称系供应商原材料问题",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-08",
+      "time": "08:35",
+      "publishedAt": "2026-11-08T08:35:42.000Z",
+      "url": "https://www.ithome.com/1/023/923.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/ecaa4de8-a363-4d8d-9b12-0034e4d2564a.jpg",
+      "summary": "IT之家 11 月 8 日消息，博主 @Kang 在微博发布爆料，称 iPhone Duo 的铰链问题已经基本查清，根源“在于两家供应商中的其中一家提供的原材料存在问题”。他表示，苹果可以通过设备序列号识别可能受到影响的产品批次，但目前尚不清楚苹果是否会开放序列号查询工具，以及是否会主动为用户更换设备。 IT之家获悉，iPhone Duo 的铰链总成主要供…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d539aa2695a7",
+      "title": "苹果 iPhone 18/18e 系列机型 X 光图曝光：两款手机共用部分模具，搭 4430mAh 电池",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-08",
+      "time": "06:50",
+      "publishedAt": "2026-11-08T06:50:06.000Z",
+      "url": "https://www.ithome.com/1/023/896.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/8f2bc533-7cba-417f-8e67-4638626ec21c.jpg",
+      "summary": "IT之家 11 月 8 日消息，综合外媒 NoteBook Check 及高通吧“小 tree_666”，近期网络上流出所谓苹果 iPhone 18 标准版 / 18e 手机的 X 光图，相应机型代号分别为 Taycan（V67 K）和 Nevera（V69）。 参考 X 光图，可以看到 iPhone 18 标准版 / 18e 手机内部布局较为相似，两款机…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-17197547d48d",
+      "title": "英国士兵手机遭黑客入侵，私密照片被用于勒索",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-08",
+      "time": "04:49",
+      "publishedAt": "2026-11-08T04:49:45.000Z",
+      "url": "https://www.ithome.com/1/023/883.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/cd1c0311-61ad-4de1-82e2-18491eb53545.png",
+      "summary": "北京时间 11 月 8 日，据 Ars Technica 报道，一名英国陆军士兵在前往爱沙尼亚执行军事任务前，未遵守上级关于移除手机 SIM 卡的安全命令，随后手机遭到黑客入侵，私人裸照被盗并遭到勒索。最终，这名士兵因违反合法军事命令被军事法庭判处 10 个月拘禁，并被降级。 据爱沙尼亚媒体 Eesti Ekspress 披露的英国军事上诉法院文件，涉事士…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fd91005eaf5c",
+      "title": "今日宜休王腾澄清智能戒指材质争议：并非所有内塑胶方案都是智商税，请不要断章取义",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-08",
+      "time": "04:21",
+      "publishedAt": "2026-11-08T04:21:03.000Z",
+      "url": "https://www.ithome.com/1/023/881.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/03a83b11-2512-495c-a2be-ec34c53ceea7.png",
+      "summary": "IT之家 11 月 8 日消息，今日宜休科技公司创始人王腾今日在微博发文称， 他没有说所有用内塑胶方案的智能戒指都是智商税 ， 请媒体老师们不要断章取义 。 王腾表示，内塑胶佩戴体验和工艺质感都不如双圈钛金属方案，成本也要低一些， 就像手机塑胶中框和金属中框的区别 ，都可以使用。不同的产品有不同的定位，大家可以自行选择。智能戒指是个新的品类，就像早年的手机…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-bfd196d7caed",
       "title": "iPhone Duo arrives at Apple Store locations worldwide",
@@ -142,8 +222,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-b116444c0de9",
-      "title": "『iPhone Duo 首周激活量曝光：约 12.46 万台』",
+      "id": "newsnow-9ab857dfbed0",
+      "title": "爆了爆了兄弟们，真4430mAh再配上vc均热板将乱杀17系列啊[受虐滑稽]#数码日常# #iPhone17#",
       "source": "酷安热榜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -152,9 +232,9 @@ window.phoneRadarAuto = {
       "date": "2026-11-08",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74913687",
+      "url": "https://www.coolapk.com/feed/74914690",
       "image": "",
-      "summary": "『iPhone Duo 首周激活量曝光：约 12.46 万台』",
+      "summary": "爆了爆了兄弟们，真4430mAh再配上vc均热板将乱杀17系列啊[受虐滑稽]#数码日常# #iPhone17#",
       "tags": [
         "iPhone",
         "爆料",
@@ -162,69 +242,9 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-9b7f822080fc",
-      "title": "米17Max我也体验一周了，来讲一讲我的感受吧，综合我觉得要比真我gt8这个手机好了五倍，为什么？不是说欧系手机挺好用的吗？我并不这么认为，colorOS16，金标，17我都用了，整体的体验我并不是感受多好，没有让人眼前一亮的感觉，升级也不痛不痒，关键是美学美观度方面真的是个大狗fen，十分且超级无敌平庸，流畅度整体还可以，能接受过去，但有时候也会莫名其妙卡，而且是死机的那种卡，我已经发生三次了，每次都要强制重启才能搞好，所以真我gt8对我的使用体验其实并不好，但我自从上周换到小米17 max以后我第一眼上手就是小米什么时候这么好用了？？我刚开机就直接升级澎湃4了，整体流畅度，美观度，稳定性真的比真我好了太多太多（我没收米的钱），澎湃的动画效果类似于iOS，因为我也有一台ip17 Pro的，跟那个比较相像，而且整体UI协调也更好，这一点我又要喷一句color os了... 查看更多",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-08",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74911709",
-      "image": "",
-      "summary": "米17Max我也体验一周了，来讲一讲我的感受吧，综合我觉得要比真我gt8这个手机好了五倍，为什么？不是说欧系手机挺好用的吗？我并不这么认为，colorOS16，金标，17我都用了，整体的体验我并不是感受多好，没有让人眼前一亮的感觉，升级也不痛不痒，关键是美学美观度方面真的是个大狗fen，十分且超级无敌平庸，流畅度整体还可以，能接受过去，但有时候也会莫名其妙…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-3d727da56661",
-      "title": "兄弟们，两台手机我还是留了ace7 Pro，一加16卖了。",
-      "source": "酷安热榜",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-08",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74912454",
-      "image": "",
-      "summary": "兄弟们，两台手机我还是留了ace7 Pro，一加16卖了。",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-b267e1a31d12",
-      "title": "消息称苹果折叠屏铰链问题查明",
-      "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-11-08",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%E6%B6%88%E6%81%AF%E7%A7%B0%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8F%E9%93%B0%E9%93%BE%E9%97%AE%E9%A2%98%E6%9F%A5%E6%98%8E&t=31&band_rank=20&Refer=top",
-      "image": "",
-      "summary": "消息称苹果折叠屏铰链问题查明",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-a90ab47fdc64",
-      "title": "尾号98888888手机号128万起拍",
-      "source": "今日头条热榜",
+      "id": "newsnow-c770f539fa4d",
+      "title": "手机里的隐私可能正在被“直播”",
+      "source": "百度热搜",
       "brand": "行业",
       "model": "智能手机市场",
       "type": "爆料",
@@ -232,9 +252,9 @@ window.phoneRadarAuto = {
       "date": "2026-11-08",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7705331962466549802/",
+      "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E9%87%8C%E7%9A%84%E9%9A%90%E7%A7%81%E5%8F%AF%E8%83%BD%E6%AD%A3%E5%9C%A8%E8%A2%AB%E2%80%9C%E7%9B%B4%E6%92%AD%E2%80%9D",
       "image": "",
-      "summary": "尾号98888888手机号128万起拍",
+      "summary": "手机里的隐私可能正在被“直播”",
       "tags": [
         "行业",
         "爆料",
@@ -322,26 +342,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-27c20eea9382",
-      "title": "安卓阵营首款阔直板手机酷派 COOL X Wide 今日开售：999~1399 元，搭载联发科曦力 G99 芯片 + 720p 屏幕",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-07",
-      "time": "16:00",
-      "publishedAt": "2026-11-07T16:00:12.000Z",
-      "url": "https://www.ithome.com/1/023/829.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/c948a1d4-afd1-4da2-aee6-456fb6b7f231.jpg",
-      "summary": "IT之家 11 月 8 日消息，安卓阵营首款阔直板手机，也是酷派首款阔直板手机 Cool X Wide 今日正式开售。其中，8GB+128GB 版本 999 元，8GB+256GB 版本 1199 元，12GB+256GB 版本 1399 元。 这款新机搭载 6.38 英寸 16:10 屏幕，仅 720x1158 分辨率，还支持 90Hz 刷新率；有鎏白、…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-6db49036626f",
       "title": "竹本青：【百度地图上线鸿蒙专属「室内导航」功能】 基于华为星迹定位，从进商场到找店铺，精准定位目的地；首批上线全国22个城…",
       "source": "竹本青",
@@ -402,61 +402,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-4db07e81e878",
-      "title": "苹果 iPhone Duo 折叠屏手机首周销量曝光，三天卖出约 12.46 万台",
-      "source": "IT之家",
+      "id": "coolapk-user-09ab4815a063",
+      "title": "JSCHEN小小狐：『iPhone Duo 首周激活量曝光：约 12.46 万台』 数码博主 RD观测 今日公布了苹果首款大折叠屏 i…",
+      "source": "JSCHEN小小狐",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
       "type": "爆料",
-      "trust": "媒体汇总",
+      "trust": "高可信爆料",
       "date": "2026-11-07",
-      "time": "12:13",
-      "publishedAt": "2026-11-07T12:13:58.000Z",
-      "url": "https://www.ithome.com/1/023/798.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/186b80cb-2730-46b1-9e9e-4683eaedd613.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 11 月 7 日消息，长期关注国内手机市场份额的数码博主 @RD观测 今日曝光了苹果 iPhone Duo 折叠屏手机的首周销量数据， 10 月 19 日-10 月 25 日期间合计约 12.46 万台 。 需要注意的是， 苹果 iPhone Duo 是在 10 月 23 日开售，因此该数据仅包含了 23 日、24 日和 25 日的销量数据。 该…",
+      "time": "11:05",
+      "publishedAt": "2026-11-07T11:05:00.000Z",
+      "url": "https://www.coolapk.com/feed/74913687",
+      "image": "http://image.coolapk.com/feed/2026/1107/19/4702274_d5f35142_9499_2887_713@1440x539.jpg",
+      "summary": "『iPhone Duo 首周激活量曝光：约 12.46 万台』 数码博主 RD观测 今日公布了苹果首款大折叠屏 iPhone Duo 的首周（W43）激活量：在 10.19 - 10.25 期间，该机累计激活量约达 12.46 万台。 据悉，iPhone Duo 国行版本于 10.23 正式开售，256GB 版本起售价 15999 元。采用 7.6\" OL…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-fdb3bc53f708",
-      "title": "竹本青：#华为畅享90ProMax#",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-07",
-      "time": "10:14",
-      "publishedAt": "2026-11-07T10:14:18.000Z",
-      "url": "https://www.coolapk.com/feed/74912743",
-      "image": "",
-      "summary": "#华为畅享90ProMax#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-53c0ad163d38",
-      "title": "竹本青：【华为畅享 100系列 首销情况曝光：全系销量约21.5万台，Pro Max占比约60%】 11月7日，博主「RD…",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-07",
-      "time": "09:55",
-      "publishedAt": "2026-11-07T09:55:03.000Z",
-      "url": "https://www.coolapk.com/feed/74912352",
-      "image": "http://image.coolapk.com/feed/2026/1107/18/4248714_88491d71_6194_8215_384@1270x813.jpg",
-      "summary": "【华为畅享 100系列 首销情况曝光：全系销量约21.5万台，Pro Max占比约60%】 11月7日，博主「RD观测」分享第三方统计 的华为畅享 100系列 首销情况：以首销当日（约10:08开售）+后三天为标准，全系销量约21.5万台。 畅享100 Pro Max —— 内占比约60% 畅享100 Pro —— 内占比约10% 畅享100 —— 内占比…",
-      "tags": [
-        "Huawei",
         "爆料",
         "酷安博主"
       ]
