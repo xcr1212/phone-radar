@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-11-08T08:58:54.422Z",
+  "updatedAt": "2026-11-08T16:39:26.841Z",
   "news": [
+    {
+      "id": "auto-c246ac778420",
+      "title": "被砍的 2021 款诺基亚 G20 5G 手机曝光：展锐 T7520 + 4G RAM",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-08",
+      "time": "10:26",
+      "publishedAt": "2026-11-08T10:26:29.000Z",
+      "url": "https://www.ithome.com/1/023/980.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/28a4fdd8-525d-4e00-869c-729df533888a.png",
+      "summary": "IT之家 11 月 8 日消息，消息源 smashx_60 发文，曝光了被砍的 HMD Global 旗下 2021 款诺基亚 G20 5G 手机。 参考其介绍，该机配备一块 6.52 英寸 1612x720 分辨率 IPS LCD 水滴屏面板，匹配 8Mp 自拍摄像头；该机后置圆形摄像头，匹配 48Mp 主摄 + 5Mp 超广角 + 2Mp 辅助摄像头…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f5fb43af9a2f",
+      "title": "消息称摩托罗拉阔折叠手机 Razr Flex 27 会有国行版，搭载第五代骁龙 8 芯片",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-08",
+      "time": "10:19",
+      "publishedAt": "2026-11-08T10:19:00.000Z",
+      "url": "https://www.ithome.com/1/023/978.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/5371de8d-b159-43e3-80e6-edf3b12b3cab.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 11 月 8 日消息，摩托罗拉本周发布了 Signature 27 手机，搭载第六代骁龙 8 超级至尊版处理器，起售价 1,599 美元 （IT之家注：现汇率约合 10,699 元人民币） 。 摩托罗拉 Signature 27 手机暂无国行版本。博主 @体验more 今日透露， 摩托罗拉阔折叠手机 Razr Flex 27 会有国行版 。 据悉…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-094f9bbc00ef",
       "title": "苹果首款折叠屏手机 iPhone Duo“裂屏门”追踪：消息称系供应商原材料问题",
@@ -17,66 +57,6 @@ window.phoneRadarAuto = {
       "summary": "IT之家 11 月 8 日消息，博主 @Kang 在微博发布爆料，称 iPhone Duo 的铰链问题已经基本查清，根源“在于两家供应商中的其中一家提供的原材料存在问题”。他表示，苹果可以通过设备序列号识别可能受到影响的产品批次，但目前尚不清楚苹果是否会开放序列号查询工具，以及是否会主动为用户更换设备。 IT之家获悉，iPhone Duo 的铰链总成主要供…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d539aa2695a7",
-      "title": "苹果 iPhone 18/18e 系列机型 X 光图曝光：两款手机共用部分模具，搭 4430mAh 电池",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-08",
-      "time": "06:50",
-      "publishedAt": "2026-11-08T06:50:06.000Z",
-      "url": "https://www.ithome.com/1/023/896.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/8f2bc533-7cba-417f-8e67-4638626ec21c.jpg",
-      "summary": "IT之家 11 月 8 日消息，综合外媒 NoteBook Check 及高通吧“小 tree_666”，近期网络上流出所谓苹果 iPhone 18 标准版 / 18e 手机的 X 光图，相应机型代号分别为 Taycan（V67 K）和 Nevera（V69）。 参考 X 光图，可以看到 iPhone 18 标准版 / 18e 手机内部布局较为相似，两款机…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-17197547d48d",
-      "title": "英国士兵手机遭黑客入侵，私密照片被用于勒索",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-08",
-      "time": "04:49",
-      "publishedAt": "2026-11-08T04:49:45.000Z",
-      "url": "https://www.ithome.com/1/023/883.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/cd1c0311-61ad-4de1-82e2-18491eb53545.png",
-      "summary": "北京时间 11 月 8 日，据 Ars Technica 报道，一名英国陆军士兵在前往爱沙尼亚执行军事任务前，未遵守上级关于移除手机 SIM 卡的安全命令，随后手机遭到黑客入侵，私人裸照被盗并遭到勒索。最终，这名士兵因违反合法军事命令被军事法庭判处 10 个月拘禁，并被降级。 据爱沙尼亚媒体 Eesti Ekspress 披露的英国军事上诉法院文件，涉事士…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-fd91005eaf5c",
-      "title": "今日宜休王腾澄清智能戒指材质争议：并非所有内塑胶方案都是智商税，请不要断章取义",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-08",
-      "time": "04:21",
-      "publishedAt": "2026-11-08T04:21:03.000Z",
-      "url": "https://www.ithome.com/1/023/881.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/03a83b11-2512-495c-a2be-ec34c53ceea7.png",
-      "summary": "IT之家 11 月 8 日消息，今日宜休科技公司创始人王腾今日在微博发文称， 他没有说所有用内塑胶方案的智能戒指都是智商税 ， 请媒体老师们不要断章取义 。 王腾表示，内塑胶佩戴体验和工艺质感都不如双圈钛金属方案，成本也要低一些， 就像手机塑胶中框和金属中框的区别 ，都可以使用。不同的产品有不同的定位，大家可以自行选择。智能戒指是个新的品类，就像早年的手机…",
-      "tags": [
-        "行业",
         "爆料",
         "自动抓取"
       ]
@@ -242,43 +222,43 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-c770f539fa4d",
-      "title": "手机里的隐私可能正在被“直播”",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "id": "newsnow-0aac3aeadb60",
+      "title": "如果不炒股，可以买多少台iPhone duo了[二哈]",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
-      "trust": "媒体汇总",
+      "trust": "高关注爆料源",
       "date": "2026-11-08",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E9%87%8C%E7%9A%84%E9%9A%90%E7%A7%81%E5%8F%AF%E8%83%BD%E6%AD%A3%E5%9C%A8%E8%A2%AB%E2%80%9C%E7%9B%B4%E6%92%AD%E2%80%9D",
+      "url": "https://www.coolapk.com/feed/74873826",
       "image": "",
-      "summary": "手机里的隐私可能正在被“直播”",
+      "summary": "如果不炒股，可以买多少台iPhone duo了[二哈]",
       "tags": [
-        "行业",
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "coolapk-user-6dbd167d70d7",
-      "title": "竹本青：【酷派Cool X Wide 阔直板手机今日开售：联发科G99处理器，999元起】 8GB+128GB —— 99…",
-      "source": "竹本青",
+      "id": "newsnow-236d3354da5c",
+      "title": "酷派Cool X Wide 阔直板手机开售：联发科G99，999元起",
+      "source": "酷安热榜",
       "brand": "行业",
       "model": "智能手机市场",
       "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-07",
-      "time": "18:21",
-      "publishedAt": "2026-11-07T18:21:01.000Z",
+      "trust": "高关注爆料源",
+      "date": "2026-11-08",
+      "time": "",
+      "publishedAt": "",
       "url": "https://www.coolapk.com/feed/74921718",
-      "image": "http://image.coolapk.com/feed/2026/1108/02/4248714_8f774dd5_5656_7104_880@595x842.jpg",
-      "summary": "【酷派Cool X Wide 阔直板手机今日开售：联发科G99处理器，999元起】 8GB+128GB —— 999元 8GB+256GB —— 1199元 12GB+256GB —— 1399元 ▫️联发科G99处理器 ▫️6.38\" 720P 90Hz LCD屏｜比例16:10 ▫️LPDDR4X+UFS 2.2 ▫️4600mAh电池+18W充电 ▫…",
+      "image": "",
+      "summary": "酷派Cool X Wide 阔直板手机开售：联发科G99，999元起",
       "tags": [
         "行业",
         "爆料",
-        "酷安博主"
+        "NewsNow"
       ]
     },
     {
@@ -323,7 +303,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-d6f590967d17",
-      "title": "竹本青：【比亚迪仰望鼎曜行政版全球首秀，定位超豪华行政旗舰轿车】 ● 尺寸与设计： 长宽高：5600*2030*1590m…",
+      "title": "竹本青：比亚迪仰望鼎曜行政版全球首秀，定位超豪华行政旗舰轿车",
       "source": "竹本青",
       "brand": "行业",
       "model": "智能手机市场",
@@ -337,26 +317,6 @@ window.phoneRadarAuto = {
       "summary": "【比亚迪仰望鼎曜行政版全球首秀，定位超豪华行政旗舰轿车】 ● 尺寸与设计： 长宽高：5600*2030*1590mm 轴距3500mm 鼎形前脸+鼎形钻切大灯 点阵式宝石格栅 24K真金甲骨文车标 4.8m手工贯穿式双腰线 中轴对开门，开合前门80°／后门90° ● 电池与续航： 第二代刀片电池｜CLTC超1000公里 千伏平台闪充、万座闪充站补能 ● 座…",
       "tags": [
         "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-6db49036626f",
-      "title": "竹本青：【百度地图上线鸿蒙专属「室内导航」功能】 基于华为星迹定位，从进商场到找店铺，精准定位目的地；首批上线全国22个城…",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-07",
-      "time": "15:45",
-      "publishedAt": "2026-11-07T15:45:03.000Z",
-      "url": "https://www.coolapk.com/feed/74919675",
-      "image": "http://image.coolapk.com/feed/2026/1107/23/4248714_5827046d_6302_8747_63@1080x1440.png",
-      "summary": "【百度地图上线鸿蒙专属「室内导航」功能】 基于华为星迹定位，从进商场到找店铺，精准定位目的地；首批上线全国22个城市、覆盖106家大型商业体/热门商场，支持自动切换楼层，找入口、坐电梯，室内室外不切换。 使用路径：打开百度地图，直接搜索，一键开启步行导航，即可直达餐厅、卫生间、母婴室、遛娃区。 #今日热点# #鸿蒙7# #数码日常#",
-      "tags": [
-        "Huawei",
         "爆料",
         "酷安博主"
       ]
@@ -382,28 +342,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-76183e1b2005",
-      "title": "竹本青：【iPhone Duo 首周销量曝光：三天卖出约12.46万台】 11月7日，博主「RD观测」公布的第三方统计数据…",
-      "source": "竹本青",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-07",
-      "time": "12:24",
-      "publishedAt": "2026-11-07T12:24:59.000Z",
-      "url": "https://www.coolapk.com/feed/74915324",
-      "image": "http://image.coolapk.com/feed/2026/1107/20/4248714_ff04aafe_4298_8485_718@1440x1504.jpg",
-      "summary": "【iPhone Duo 首周销量曝光：三天卖出约12.46万台】 11月7日，博主「RD观测」公布的第三方统计数据显示，截至10月25日，iPhone Duo累计销量约12.46万台。博主此前分享称，该机首销期（首销日+后续三天）累计销量近20万台。 10月23日，iPhone Duo正式开售，起售价15999元。核心搭载A20 Pro芯片，配备120Hz…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "coolapk-user-09ab4815a063",
-      "title": "JSCHEN小小狐：『iPhone Duo 首周激活量曝光：约 12.46 万台』 数码博主 RD观测 今日公布了苹果首款大折叠屏 i…",
+      "title": "JSCHEN小小狐：iPhone Duo首周激活量曝光：约12.46万台",
       "source": "JSCHEN小小狐",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
