@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-11-08T16:39:26.841Z",
+  "updatedAt": "2026-11-08T22:02:29.879Z",
   "news": [
+    {
+      "id": "auto-2ea18c8f335f",
+      "title": "Galaxy S27 clears BIS ahead of early 2027 launch",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-08",
+      "time": "20:09",
+      "publishedAt": "2026-11-08T20:09:43.000Z",
+      "url": "https://www.gizmochina.com/2026/11/08/galaxy-s27-clears-bis-ahead-of-early-2027-launch/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/galaxy-s27-bis-2-300x169.jpg?x96268",
+      "summary": "BIS filings don’t usually spill a lot of hardware details, but this same model number has already shown up in other databases. The post Galaxy S27 clears BIS ahead of early 2027 l…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c62d79db2e87",
+      "title": "iPhone 18 Pro Vs. Galaxy S26 Ultra is interesting this year. [Video]",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-08",
+      "time": "17:30",
+      "publishedAt": "2026-11-08T17:30:10.000Z",
+      "url": "https://www.androidpolice.com/video/iphone-18-pro-vs-galaxy-s26-ultra-is-interesting-this-year-video/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/10/iphone-18-pro-vs-galaxy-s26-ultra-is-interesting-this-year.jpg",
+      "summary": "This one is genuinely tough.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-10ec3007ba37",
+      "title": "竹本青：【央视点名罗技等问题广告：出圈不该靠出格】 11月9日资讯，据央视焦点访谈昨日报道： 广告是连接消费者和企业的桥梁…",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-08",
+      "time": "17:24",
+      "publishedAt": "2026-11-08T17:24:38.000Z",
+      "url": "https://www.coolapk.com/feed/74942719",
+      "image": "http://image.coolapk.com/feed/2026/1109/01/4248714_506637d3_8675_5279_896-livepic@1272x716.jpg",
+      "summary": "【央视点名罗技等问题广告：出圈不该靠出格】 11月9日资讯，据央视焦点访谈昨日报道： 广告是连接消费者和企业的桥梁，一则好的广告能够让企业的产品变得家喻户晓。但是，2026年以来，多家品牌因为广告内容低俗、打擦边球而接连引发舆论争议。事件发生后，涉事企业公开道歉、下架视频，也受到处罚，可新的争议广告还在上线。 今年3月，罗技抖音官方旗舰店发布的一条鼠标促销…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "auto-c246ac778420",
       "title": "被砍的 2021 款诺基亚 G20 5G 手机曝光：展锐 T7520 + 4G RAM",
@@ -162,6 +222,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-655e9070c4f2",
+      "title": "一加Ace 7 Pro 和 REDMI K100 Pro Max 主摄和长焦好像都是一样的[惊讶]#一加Ace7Pro# #红米k100#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74902994",
+      "image": "",
+      "summary": "一加Ace 7 Pro 和 REDMI K100 Pro Max 主摄和长焦好像都是一样的[惊讶]#一加Ace7Pro# #红米k100#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-7735cd287b6d",
       "title": "拼多多百亿补贴买到二手机了，今天才送到，显示上个月已经被激活过了，兄弟们咋整？",
       "source": "酷安热榜",
@@ -182,8 +262,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-30b7a4876fb3",
-      "title": "前沿，目前本人属于全盲，使用手机必须依赖读屏软件，但目前国产几大系统，读屏软件支持起来或多或少都有一些问题，而且这些问题只能系统那边解决。为了在使用手机时，读屏软件能更加顺畅一点，不会有一些地方读不出来或者操作不了，因此才学会了刷机。正文开始。",
+      "id": "newsnow-236d3354da5c",
+      "title": "酷派Cool X Wide 阔直板手机开售：联发科G99，999元起",
       "source": "酷安热榜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -192,9 +272,9 @@ window.phoneRadarAuto = {
       "date": "2026-11-08",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74897254",
+      "url": "https://www.coolapk.com/feed/74921718",
       "image": "",
-      "summary": "前沿，目前本人属于全盲，使用手机必须依赖读屏软件，但目前国产几大系统，读屏软件支持起来或多或少都有一些问题，而且这些问题只能系统那边解决。为了在使用手机时，读屏软件能更加顺畅一点，不会有一些地方读不出来或者操作不了，因此才学会了刷机。正文开始。",
+      "summary": "酷派Cool X Wide 阔直板手机开售：联发科G99，999元起",
       "tags": [
         "行业",
         "爆料",
@@ -222,28 +302,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-0aac3aeadb60",
-      "title": "如果不炒股，可以买多少台iPhone duo了[二哈]",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-08",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74873826",
-      "image": "",
-      "summary": "如果不炒股，可以买多少台iPhone duo了[二哈]",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-236d3354da5c",
-      "title": "酷派Cool X Wide 阔直板手机开售：联发科G99，999元起",
+      "id": "newsnow-73b3bb6553b3",
+      "title": "多多一千五买的顶配，这个屏幕看着，是不是黑边太大了，手机也有点感觉卡卡的，感觉不太像是原装屏#酷安夜话#",
       "source": "酷安热榜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -252,9 +312,49 @@ window.phoneRadarAuto = {
       "date": "2026-11-08",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74921718",
+      "url": "https://www.coolapk.com/feed/74934580",
       "image": "",
-      "summary": "酷派Cool X Wide 阔直板手机开售：联发科G99，999元起",
+      "summary": "多多一千五买的顶配，这个屏幕看着，是不是黑边太大了，手机也有点感觉卡卡的，感觉不太像是原装屏#酷安夜话#",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-c32373347632",
+      "title": "买了新手机，少逛酷安，及时卸载，3799入了k100pm，拼夕夕保价100，刷了追梦官改，scene-lp-省电模式，音质+震动模块，徕卡一瞬相机，其他也没啥好折腾[受虐滑稽][受虐滑稽]。",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74935470",
+      "image": "",
+      "summary": "买了新手机，少逛酷安，及时卸载，3799入了k100pm，拼夕夕保价100，刷了追梦官改，scene-lp-省电模式，音质+震动模块，徕卡一瞬相机，其他也没啥好折腾[受虐滑稽][受虐滑稽]。",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-3d83ffefb142",
+      "title": "这手机26年还在生产吗？有懂的吗？我怕买到高通的指纹，有大神，知道怎么不激活的情况下，能查出具体指纹的厂家吗？",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-08",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74932622",
+      "image": "",
+      "summary": "这手机26年还在生产吗？有懂的吗？我怕买到高通的指纹，有大神，知道怎么不激活的情况下，能查出具体指纹的厂家吗？",
       "tags": [
         "行业",
         "爆料",

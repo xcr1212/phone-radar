@@ -1,13 +1,13 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-11-08T16:39:26.841Z",
+  "updatedAt": "2026-11-08T22:02:29.879Z",
   "issueDate": "2026-11-08",
   "issue": "VOL.261108",
   "title": "手机情报日报",
-  "intro": "今日筛出 17 条重点，其中 7 条是重点爆料，包含 8 条 iPhone 相关、2 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 19 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、2 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 17,
+    "total": 19,
     "iphone": 8,
-    "leaks": 7,
+    "leaks": 8,
     "official": 2,
     "specs": 0
   },
@@ -116,72 +116,94 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "coolapk-user-d6f590967d17",
-          "title": "竹本青：比亚迪仰望鼎曜行政版全球首秀，定位超豪华行政旗舰轿车",
+          "id": "newsnow-655e9070c4f2",
+          "title": "一加Ace 7 Pro 和 REDMI K100 Pro Max 主摄和长焦好像都是一样的[惊讶]#一加Ace7Pro# #红米k100#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-11-08",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/74902994",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "一加Ace 7 Pro 和 REDMI K100 Pro Max 主摄和长焦好像都是一样的[惊讶]#一加Ace7Pro# #红米k100#",
+          "detail": "一加Ace 7 Pro 和 REDMI K100 Pro Max 主摄和长焦好像都是一样的[惊讶]#一加Ace7Pro# #红米k100#",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-73b3bb6553b3",
+          "title": "多多一千五买的顶配，这个屏幕看着，是不是黑边太大了，手机也有点感觉卡卡的，感觉不太像是原装屏#酷安夜话#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-11-08",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/74934580",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "多多一千五买的顶配，这个屏幕看着，是不是黑边太大了，手机也有点感觉卡卡的，感觉不太像是原装屏#酷安夜话#",
+          "detail": "多多一千五买的顶配，这个屏幕看着，是不是黑边太大了，手机也有点感觉卡卡的，感觉不太像是原装屏#酷安夜话#",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "newsnow-c32373347632",
+          "title": "买了新手机，少逛酷安，及时卸载，3799入了k100pm，拼夕夕保价100，刷了追梦官改，scene-lp-省电模式，音质+震动模块，徕卡一瞬相机，其他也没啥好折腾[受虐滑稽][受虐滑稽]。",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-11-08",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/74935470",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "买了新手机，少逛酷安，及时卸载，3799入了k100pm，拼夕夕保价100，刷了追梦官改，scene-lp-省电模式，音质+震动模块，徕卡一瞬相机，其他也没啥好折腾[受虐滑稽][受虐滑稽]。",
+          "detail": "买了新手机，少逛酷安，及时卸载，3799入了k100pm，拼夕夕保价100，刷了追梦官改，scene-lp-省电模式，音质+震动模块，徕卡一瞬相机，其他也没啥好折腾[受虐滑稽][受虐滑稽]。",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-10ec3007ba37",
+          "title": "竹本青：【央视点名罗技等问题广告：出圈不该靠出格】 11月9日资讯，据央视焦点访谈昨日报道： 广告是连接消费者和企业的桥梁…",
           "originalTitle": "",
           "source": "竹本青",
           "brand": "行业",
           "type": "爆料",
           "trust": "高可信爆料",
-          "date": "2026-11-07",
-          "time": "16:31",
-          "publishedAt": "2026-11-07T16:31:10.000Z",
-          "url": "https://www.coolapk.com/feed/74920637",
-          "image": "http://image.coolapk.com/feed/2026/1108/00/4248714_c9d29e41_9069_5188_319@720x13674.jpg",
+          "date": "2026-11-08",
+          "time": "17:24",
+          "publishedAt": "2026-11-08T17:24:38.000Z",
+          "url": "https://www.coolapk.com/feed/74942719",
+          "image": "http://image.coolapk.com/feed/2026/1109/01/4248714_506637d3_8675_5279_896-livepic@1272x716.jpg",
           "verdict": "先看",
-          "takeaway": "【比亚迪仰望鼎曜行政版全球首秀，定位超豪华行政旗舰轿车】 ● 尺寸与设计： 长宽高：5600*2030*1590mm 轴距3500mm 鼎形前脸+鼎形钻切大灯 点阵式宝石格栅 24K真金甲骨文车标 4.8m手工贯穿式双腰线 中轴对开门，开合前门80°／后门90° ● 电池与续航： 第二代刀片电池｜CLTC超1000公里 千伏平台闪充、万座闪充站补能 ● 座…",
-          "detail": "【比亚迪仰望鼎曜行政版全球首秀，定位超豪华行政旗舰轿车】 ● 尺寸与设计： 长宽高：5600*2030*1590mm 轴距3500mm 鼎形前脸+鼎形钻切大灯 点阵式宝石格栅 24K真金甲骨文车标 4.8m手工贯穿式双腰线 中轴对开门，开合前门80°／后门90° ● 电池与续航： 第二代刀片电池｜CLTC超1000公里 千伏平台闪充、万座闪充站补能 ● 座…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "电池 / 充电"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-5ef6d1c34fed",
-          "title": "vivo 发布 / 上市相关消息",
-          "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-11-07",
-          "time": "02:29",
-          "publishedAt": "2026-11-07T02:29:24.000Z",
-          "url": "https://www.gizmochina.com/2026/11/07/vivo-x500-ultra-reportedly-on-track-for-march-or-april-launch/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Vivo-X500-Pro-Max-1-300x200.png?x96268",
-          "verdict": "先看",
-          "takeaway": "vivo 有发布或新功能消息，适合确认是否和新机有关。",
-          "detail": "vivo 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-2134b01cb2d0",
-          "title": "OPPO 芯片 / 性能相关消息",
-          "originalTitle": "",
-          "source": "9to5Google",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-11-07",
-          "time": "12:30",
-          "publishedAt": "2026-11-07T12:30:00.000Z",
-          "url": "https://9to5google.com/2026/11/07/oppo-reportedly-cancels-find-x10-ultra-thanks-to-ramageddon/",
-          "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/oppo-find-x9-ultra-review-17.jpg?quality=82&strip=all&w=1600",
-          "verdict": "先看",
-          "takeaway": "OPPO 芯片 / 性能相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "OPPO 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "takeaway": "【央视点名罗技等问题广告：出圈不该靠出格】 11月9日资讯，据央视焦点访谈昨日报道： 广告是连接消费者和企业的桥梁，一则好的广告能够让企业的产品变得家喻户晓。但是，2026年以来，多家品牌因为广告内容低俗、打擦边球而接连引发舆论争议。事件发生后，涉事企业公开道歉、下架视频，也受到处罚，可新的争议广告还在上线。 今年3月，罗技抖音官方旗舰店发布的一条鼠标促销…",
+          "detail": "【央视点名罗技等问题广告：出圈不该靠出格】 11月9日资讯，据央视焦点访谈昨日报道： 广告是连接消费者和企业的桥梁，一则好的广告能够让企业的产品变得家喻户晓。但是，2026年以来，多家品牌因为广告内容低俗、打擦边球而接连引发舆论争议。事件发生后，涉事企业公开道歉、下架视频，也受到处罚，可新的争议广告还在上线。 今年3月，罗技抖音官方旗舰店发布的一条鼠标促销…",
           "keyPoints": [
             "爆料"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -208,29 +230,6 @@ window.phoneRadarDaily = {
           "verdict": "先看",
           "takeaway": "爆了爆了兄弟们，真4430mAh再配上vc均热板将乱杀17系列啊[受虐滑稽]#数码日常# #iPhone17#",
           "detail": "爆了爆了兄弟们，真4430mAh再配上vc均热板将乱杀17系列啊[受虐滑稽]#数码日常# #iPhone17#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-0aac3aeadb60",
-          "title": "如果不炒股，可以买多少台iPhone duo了[二哈]",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-11-08",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/74873826",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "如果不炒股，可以买多少台iPhone duo了[二哈]",
-          "detail": "如果不炒股，可以买多少台iPhone duo了[二哈]",
           "keyPoints": [
             "爆料"
           ],
@@ -329,6 +328,59 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-7fb946b1586a",
+          "title": "破与立：设计视角下的 iPhone Duo",
+          "originalTitle": "",
+          "source": "少数派热榜",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-11-08",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/116979",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "破与立：设计视角下的 iPhone Duo",
+          "detail": "破与立：设计视角下的 iPhone Duo",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "launch",
+      "title": "新机与官方发布",
+      "hint": "能直接更新到参数库。",
+      "items": [
+        {
+          "id": "auto-2ea18c8f335f",
+          "title": "Galaxy S27 发布 / 上市相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-11-08",
+          "time": "20:09",
+          "publishedAt": "2026-11-08T20:09:43.000Z",
+          "url": "https://www.gizmochina.com/2026/11/08/galaxy-s27-clears-bis-ahead-of-early-2027-launch/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/galaxy-s27-bis-2-300x169.jpg?x96268",
+          "verdict": "可略过",
+          "takeaway": "Samsung 有发布或新功能消息，适合确认是否和新机有关。",
+          "detail": "Galaxy S27 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -384,29 +436,6 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-30b7a4876fb3",
-          "title": "前沿，目前本人属于全盲，使用手机必须依赖读屏软件，但目前国产几大系统，读屏软件支持起来或多或少都有一些问题，而且这些问题只能系统那边解决。为了在使用手机时，读屏软件能更加顺畅一点，不会有一些地方读不出来或者操作不了，因此才学会了刷机。正文开始。",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-11-08",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/74897254",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "前沿，目前本人属于全盲，使用手机必须依赖读屏软件，但目前国产几大系统，读屏软件支持起来或多或少都有一些问题，而且这些问题只能系统那边解决。为了在使用手机时，读屏软件能更加顺畅一点，不会有一些地方读不出来或者操作不了，因此才学会了刷机。正文开始。",
-          "detail": "前沿，目前本人属于全盲，使用手机必须依赖读屏软件，但目前国产几大系统，读屏软件支持起来或多或少都有一些问题，而且这些问题只能系统那边解决。为了在使用手机时，读屏软件能更加顺畅一点，不会有一些地方读不出来或者操作不了，因此才学会了刷机。正文开始。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
           "id": "newsnow-236d3354da5c",
           "title": "酷派Cool X Wide 阔直板手机开售：联发科G99，999元起",
           "originalTitle": "",
@@ -422,6 +451,29 @@ window.phoneRadarDaily = {
           "verdict": "扫一眼",
           "takeaway": "酷派Cool X Wide 阔直板手机开售：联发科G99，999元起",
           "detail": "酷派Cool X Wide 阔直板手机开售：联发科G99，999元起",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-3d83ffefb142",
+          "title": "这手机26年还在生产吗？有懂的吗？我怕买到高通的指纹，有大神，知道怎么不激活的情况下，能查出具体指纹的厂家吗？",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-11-08",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/74932622",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "这手机26年还在生产吗？有懂的吗？我怕买到高通的指纹，有大神，知道怎么不激活的情况下，能查出具体指纹的厂家吗？",
+          "detail": "这手机26年还在生产吗？有懂的吗？我怕买到高通的指纹，有大神，知道怎么不激活的情况下，能查出具体指纹的厂家吗？",
           "keyPoints": [
             "爆料"
           ],
