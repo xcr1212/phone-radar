@@ -1,9 +1,349 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-11-09T09:46:25.014Z",
+  "updatedAt": "2026-11-09T20:42:39.787Z",
   "news": [
     {
+      "id": "auto-b6ef1167c121",
+      "title": "Samsung is focusing 70% of its Galaxy S27 production on the Ultra and Pro",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-09",
+      "time": "19:25",
+      "publishedAt": "2026-11-09T19:25:54.000Z",
+      "url": "https://www.androidauthority.com/galaxy-s27-ultra-pro-production-volume-3733071/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Samsung-Galaxy-S26-Ultra-home-screen-black-cat-scaled.jpg",
+      "summary": "Samsung really wants you to buy one of its premium phones.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-69e6cf64d021",
+      "title": "Forget Black Friday: Amazon is already slashing up to $450 off the entire Samsung Galaxy S26 lineup",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-09",
+      "time": "19:00",
+      "publishedAt": "2026-11-09T19:00:26.000Z",
+      "url": "https://www.androidpolice.com/amazon-early-black-friday-samsung-galaxy-s26-deals/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/03/samsung-galaxy-s26-ultra-series-2.jpg",
+      "summary": "From the base model S26 to the super-powered S26 Ultra.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d118edf4cdc6",
+      "title": "James Gunn is out as DC movie leader",
+      "source": "The Verge",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-09",
+      "time": "18:49",
+      "publishedAt": "2026-11-09T18:49:01.000Z",
+      "url": "https://www.theverge.com/entertainment/1030022/james-gunn-peter-safran-dc-studios-out-leaving",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2299570592.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "Soon, James Gunn and Peter Safran will no longer head up Skydance's DC Studios. After taking the helm of DC Studios as co-CEOs in 2022, Gunn and Safran are being replaced by forme…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f58fffeff37c",
+      "title": "Samsung bets that you’ll either buy a Galaxy S27 Pro or Ultra next year",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-09",
+      "time": "17:25",
+      "publishedAt": "2026-11-09T17:25:00.000Z",
+      "url": "https://9to5google.com/2026/11/09/samsung-bets-that-youll-either-buy-a-galaxy-s27-pro-or-ultra-next-year/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/galaxy-s27-pro-leak-size-comparison-onl-1.webp?w=1600",
+      "summary": "Samsung is teeing up to kick off 2027 with an all-new lineup of flagship smartphones , and despite rising prices at your local Best Buy, the brand is still hedging that you’re goi…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-22f1f579326a",
+      "title": "Motorola just leaked its own iPhone Duo rival ahead of its 2027 launch",
+      "source": "Android Central",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-11-09",
+      "time": "16:19",
+      "publishedAt": "2026-11-09T16:19:52.000Z",
+      "url": "https://www.androidcentral.com/phones/motorola/motorola-razr-flex-wide-foldable-for-2027",
+      "image": "https://cdn.mos.cms.futurecdn.net/3DDnMLXnppWFY4Qebrz9cG-1920-80.jpg",
+      "summary": "Motorola is reportedly preparing something different for its Razr lineup.",
+      "tags": [
+        "iPhone",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-549259fb649c",
+      "title": "Galaxy S27 Pro and S27 Ultra could make up over 70% of all Galaxy S27 sales",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-09",
+      "time": "16:17",
+      "publishedAt": "2026-11-09T16:17:28.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s27-pro-ultra-make-up-70-percent-all-s27-sales/",
+      "image": "",
+      "summary": "Due to the ongoing memory chip shortage, smartphone brands are forced to think of multiple ways to reduce losses. One of the most common ways is to sell more high-end models and f…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-261e0776271d",
+      "title": "Leak reveals details for more iPhone 18 models launching early 2027",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-09",
+      "time": "14:50",
+      "publishedAt": "2026-11-09T14:50:24.000Z",
+      "url": "https://9to5mac.com/2026/11/09/leak-reveals-details-for-more-iphone-18-models-launching-early-2027/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/iphone-17-black.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple is rumored to have three new iPhone models launching in early 2027: iPhone 18, iPhone 18e, and iPhone Air 2. Here’s what to expect from the iPhone 18 models per the latest l…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d0ce48f33948",
+      "title": "Pixel 10a drops to $449, the best deal you’ll find after Google’s price hike",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-09",
+      "time": "14:35",
+      "publishedAt": "2026-11-09T14:35:00.000Z",
+      "url": "https://9to5google.com/2026/11/09/google-pixel-10a-deal-after-price-hike/",
+      "image": "",
+      "summary": "Google may have hiked the price of the Pixel 10a in recent months, but a limited-time deal is the best price you’ll find at $450. more…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b9776228db69",
+      "title": "Leaker Envisions a Shorter iPhone With a New iOS Layout",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-09",
+      "time": "14:34",
+      "publishedAt": "2026-11-09T14:34:16.000Z",
+      "url": "https://www.macrumors.com/2026/11/09/leaker-envisions-shorter-iphone/",
+      "image": "https://images.macrumors.com/article-new/2026/11/iphone-duo-yellow-hand.jpeg",
+      "summary": "A future iPhone could keep its current width while becoming shorter, with iOS preserving room for content by moving some controls into the status bar, in a theory shared by the We…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3f04005393ed",
+      "title": "Motorola’s flexing with its answer to the Galaxy Z Fold 8",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-09",
+      "time": "14:09",
+      "publishedAt": "2026-11-09T14:09:01.000Z",
+      "url": "https://www.androidpolice.com/motorolas-answer-to-the-z-fold-8-finally-has-a-name/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/08/galaxy-z-fold-8-moto-razr-back.JPG",
+      "summary": "Motorola's long-awaited answer to the Z Fold 8 may finally have a name, according to an official source.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f622bdde3343",
+      "title": "Should you get an iPhone 17 now or wait for the iPhone 18 launch?",
+      "source": "Gizmochina",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-09",
+      "time": "13:01",
+      "publishedAt": "2026-11-09T13:01:58.000Z",
+      "url": "https://www.gizmochina.com/2026/11/09/should-you-get-iphone-17-now-or-wait-for-iphone-18-launch/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/04/iphone-17-300x169.jpg?x96268",
+      "summary": "Should you buy the iPhone 17 or wait for the iPhone 18? Compare leaked upgrades, chip performance, battery improvements, and expected price hikes. The post Should you get an iPhon…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-717f8ae4e86c",
+      "title": "iPhone 18e Could Feature Bigger Display and Battery",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-09",
+      "time": "12:45",
+      "publishedAt": "2026-11-09T12:45:29.000Z",
+      "url": "https://www.macrumors.com/2026/11/09/iphone-18e-bigger-display-and-battery/",
+      "image": "https://images.macrumors.com/article-new/2026/03/Apple-iPhone-17e-feature.jpg",
+      "summary": "Apple's standard iPhone 18 and the lower-cost iPhone 18e will both feature 6.3-inch displays and use the same battery, according to the leaker known as \" Fixed Focus Digital .\" In…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-eccb8a682f45",
+      "title": "大疆 Osmo Pocket 4P 云台相机固件更新：解锁 18 倍变焦、iPhone 即拍即传等功能",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-09",
+      "time": "12:42",
+      "publishedAt": "2026-11-09T12:42:21.000Z",
+      "url": "https://www.ithome.com/1/024/524.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/3b305a09-f713-4819-954c-bd9958cdd20d.jpg",
+      "summary": "IT之家 11 月 9 日消息，大疆今天（9 日）晚间宣布，云台相机 Osmo Pocket 4P 获得固件更新，版本号为 V01.02.11.49，四大功能一次解锁： 18 倍变焦、新增场景预设、iPhone 即拍即传、Livephoto 玩法升级 。 IT之家从官方获悉，此次新增的 18 倍变焦功能，拍照、录像都能用，不过不支持慢动作、延时摄影模式下使…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ccdb4c7333a5",
+      "title": "Samsung releases new updates for Galaxy Z Fold 6, Z Flip 6",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-09",
+      "time": "11:30",
+      "publishedAt": "2026-11-09T11:30:51.000Z",
+      "url": "https://www.sammobile.com/news/samsung-releases-new-updates-galaxy-z-fold-6-z-flip-6/",
+      "image": "",
+      "summary": "In the last few days, Samsung has released software updates for several of its smartphones with an identical changelog. Now, the brand has started rolling out updates with the sam…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-acd5ba1a0722",
+      "title": "After 3 months with the Pixel 11 Pro, there’s no other Android phone I’d rather use",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-09",
+      "time": "11:30",
+      "publishedAt": "2026-11-09T11:30:01.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-pro-three-months-later-3731692/",
+      "image": "",
+      "summary": "Yep, the Pixel 11 Pro is still great.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d80ad447b0f0",
+      "title": "Here’s what the new Galaxy S24 update brings",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-09",
+      "time": "11:08",
+      "publishedAt": "2026-11-09T11:08:55.000Z",
+      "url": "https://www.sammobile.com/news/heres-what-the-new-galaxy-s24-update-brings/",
+      "image": "",
+      "summary": "Samsung has released a new software update for the Galaxy S24 series. Considering that the update is coming out in November, people may think that it brings the November 2026 secu…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-a34194b61660",
+      "title": "竹本青：OPPO、vivo、小米、荣耀在大陆上线ADV开发者验证",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-09",
+      "time": "10:13",
+      "publishedAt": "2026-11-09T10:13:36.000Z",
+      "url": "https://www.coolapk.com/feed/74954535",
+      "image": "http://image.coolapk.com/feed/2026/1109/18/4248714_5047cadf_9215_2476_176@1200x1600.jpg",
+      "summary": "【OPPO、vivo、小米、荣耀在中国大陆上线ADV开发者验证】 11月9日，据移动智能终端生态联盟，当前侧载应用暂无统一的开发者实名管理机制，恶意、仿冒及诈骗类应用难以溯源。用户安装未经核验的侧载应用，存在财产损失、隐私泄露、诱导消费等安全风险。 OPPO、vivo、小米、荣耀推出 Android 侧载应用开发者身份验证（Android Develope…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
       "id": "coolapk-user-6a92f23bda1e",
-      "title": "竹本青：【博主曝光阔折叠品类销量：iPhone Duo开售10天卖出26.4万台】 11月9日，博主数码闲聊站分享，目前市…",
+      "title": "竹本青：博主曝光阔折叠品类销量：苹果10天卖出26.4万台",
       "source": "竹本青",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
@@ -42,26 +382,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-b29f24dc9404",
-      "title": "韩国最大公寓生活服务平台 Apartmentner 遭黑客入侵，部分用户手机号码泄露",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-09",
-      "time": "08:21",
-      "publishedAt": "2026-11-09T08:21:26.000Z",
-      "url": "https://www.ithome.com/1/024/353.htm",
-      "image": "",
-      "summary": "IT之家 11 月 9 日消息，据韩媒 The Elec 报道，韩国最大公寓生活服务平台 Apartmentner（아파트너）通报于 11 月 6 日发生用户个人信息泄露事件。 Apartmentner 表示，目前经排查平台仅有部分用户手机号码泄露，不涉及姓名、公寓名称、楼栋及房间号、居民身份证号码、账号密码，以及支付和金融信息。公司称，仅凭此次泄露的数据…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-0655df979977",
       "title": "Huawei Pura 90 Plus vs Vivo X300 Pro: Is the More Expensive Phone Better?",
       "source": "Gizmochina",
@@ -79,86 +399,6 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-4631368dd277",
-      "title": "曝 vivo 系目前已量产最大电池是 12000mAh++，后面还有更大的方案",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-09",
-      "time": "07:54",
-      "publishedAt": "2026-11-09T07:54:28.000Z",
-      "url": "https://www.ithome.com/1/024/342.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/8913c074-c1d6-452a-b136-3223a373bcb5.png",
-      "summary": "IT之家 11 月 9 日消息，微博博主 @数码闲聊站 今日爆料称，蓝系厂商（预计指 vivo 系）大电池不会掉队，目前已量产最大的电池是 12000mAh++，额定容量 11970mAh。 不过博主并没有在文中给出具体机型，只是说后面还有更大的方案，搭配新大屏。 后续有用户在评论区询问蓝厂大折叠手机明年何时发布、是否会采用 2nm 旗舰芯片，博主回应称“…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d55d3a60d405",
-      "title": "荣耀 MagicOS 11 系统第三批内测报名通道重新开放，覆盖 Robot Phone、Magic5 系列等 28 款机型",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-09",
-      "time": "07:26",
-      "publishedAt": "2026-11-09T07:26:36.000Z",
-      "url": "https://www.ithome.com/1/024/308.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/cb7b081f-8d4b-4223-b3b7-4159255cb770.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 11 月 9 日消息，荣耀产品维护与升级 @荣耀小芳哥 今日宣布，MagicOS 11 系统第三批内测报名通道重新开放， 覆盖 Robot Phone、Magic5 系列等 28 款机型 。 手机： 荣耀 Robot Phone 、Magic Vs3、Magic V2 RSR 保时捷设计、Magic V2 至臻版、Magic V2、Magic5…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-b0f8437ca1be",
-      "title": "竹本青：小米超级岛上新：QQ闪传、哔哩哔哩赛事",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-09",
-      "time": "07:12",
-      "publishedAt": "2026-11-09T07:12:36.000Z",
-      "url": "https://www.coolapk.com/feed/74951203",
-      "image": "http://image.coolapk.com/feed/2026/1109/15/4248714_8145972d_8354_9394_63@2000x2667.jpg",
-      "summary": "【小米超级岛上新：QQ闪传、哔哩哔哩赛事】 11月9日，小米宣布澎湃OS超级岛新增QQ闪传、哔哩哔哩赛事两项适配。 QQ闪传适配后，可在超级岛实时显示文件传输进度与完成状态；哔哩哔哩赛事适配支持实时展示对阵比分、赛事阶段等信息。 上述功能需设备升级至澎湃OS 4，此外哔哩哔哩赛事功能还需版本不低于v9.8.0。 #今日热点# #HyperOS4# #小米1…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-01d1f860990e",
-      "title": "竹本青：曝玛莎拉蒂与尊界的合作项目名为“玛莎拉蒂Design”",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-09",
-      "time": "06:50",
-      "publishedAt": "2026-11-09T06:50:16.000Z",
-      "url": "https://www.coolapk.com/feed/74950786",
-      "image": "http://image.coolapk.com/feed/2026/1109/14/4248714_34c7b8be_7126_7612_996@896x1000.jpg",
-      "summary": "【消息称玛莎拉蒂将与尊界合作，项目系属华为、江淮、Stellantis三方合作】 11月9日，据第一财经报道，玛莎拉蒂与尊界的合作项目名为“玛莎拉蒂Design”，该项目为华为、江淮和Stellantis的三方合作。目前，新车外观已确认，规划明年第四季度有进一步量产动态。 知情人士对第一财经表示：“由于玛莎拉蒂国内生产资质问题，该项目将通过江淮进行制造，华…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -362,28 +602,28 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-8c58f28abb80",
-      "title": "破与立：设计视角下的 iPhone Duo",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
+      "id": "newsnow-e3b4e1db9acb",
+      "title": "宴请年少时候的自己[坏笑]，下次假期和女朋友去海滨公园玩。把存图都发了#手机摄影# #人像摄影# #我在酷安晒女友#",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
       "date": "2026-11-09",
       "time": "",
       "publishedAt": "",
-      "url": "https://sspai.com/post/116979",
+      "url": "https://www.coolapk.com/feed/74957967",
       "image": "",
-      "summary": "破与立：设计视角下的 iPhone Duo",
+      "summary": "宴请年少时候的自己[坏笑]，下次假期和女朋友去海滨公园玩。把存图都发了#手机摄影# #人像摄影# #我在酷安晒女友#",
       "tags": [
-        "iPhone",
-        "评测",
+        "行业",
+        "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-f97edaf22b8f",
-      "title": "一加Ace 7 Pro 和 REDMI K100 Pro Max 主摄和长焦好像都是一样的[惊讶]#一加Ace7Pro# #红米k100#",
+      "id": "newsnow-e93f908d78d3",
+      "title": "#一加Ace7Pro# #小米17Max# #OPPOFindX8Ultra# 手搓了一个拦截软件，大家感兴趣吗？感兴趣我考虑深度优化，排查后发一个版本出来让大家使用[受虐滑稽][受虐滑稽]",
       "source": "酷安热榜",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
@@ -392,9 +632,9 @@ window.phoneRadarAuto = {
       "date": "2026-11-09",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74902994",
+      "url": "https://www.coolapk.com/feed/74955547",
       "image": "",
-      "summary": "一加Ace 7 Pro 和 REDMI K100 Pro Max 主摄和长焦好像都是一样的[惊讶]#一加Ace7Pro# #红米k100#",
+      "summary": "#一加Ace7Pro# #小米17Max# #OPPOFindX8Ultra# 手搓了一个拦截软件，大家感兴趣吗？感兴趣我考虑深度优化，排查后发一个版本出来让大家使用[受虐滑稽][受虐滑稽]",
       "tags": [
         "Xiaomi",
         "爆料",
@@ -402,149 +642,9 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-231fd4749152",
-      "title": "一大早起来正看着blg打t1，女朋友醒了给我拿了duo出来说送给我[呲牙]，特么的我勒个豆，比赛都看不下去了🥲，精致的玩具🤩 #iPhoneDuo# #vivoX200Pro# #iPhone17ProMax#",
-      "source": "酷安热榜",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-09",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74944839",
-      "image": "",
-      "summary": "一大早起来正看着blg打t1，女朋友醒了给我拿了duo出来说送给我[呲牙]，特么的我勒个豆，比赛都看不下去了🥲，精致的玩具🤩 #iPhoneDuo# #vivoX200Pro# #iPhone17ProMax#",
-      "tags": [
-        "vivo",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-26467c58cf19",
-      "title": "酷派Cool X Wide 阔直板手机开售：联发科G99，999元起",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-09",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74921718",
-      "image": "",
-      "summary": "酷派Cool X Wide 阔直板手机开售：联发科G99，999元起",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-2787a97a4b1e",
-      "title": "暧昧对象昨晚拿我手机拍照，一直觉得puramax前置像素低，拍照不好看，结果发现是我建模还不太行[汗]",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-09",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74947017",
-      "image": "",
-      "summary": "暧昧对象昨晚拿我手机拍照，一直觉得puramax前置像素低，拍照不好看，结果发现是我建模还不太行[汗]",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-1a7b7f19a74e",
-      "title": "一发入魂，抽到了实体卡号段爽歪歪，保号一年才6.99🔪，折合一个月人民币46/12=3.83333[呲牙][呲牙][呲牙] #iPhoneDuo#",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-09",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74942006",
-      "image": "",
-      "summary": "一发入魂，抽到了实体卡号段爽歪歪，保号一年才6.99🔪，折合一个月人民币46/12=3.83333[呲牙][呲牙][呲牙] #iPhoneDuo#",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-0f17f3279e04",
-      "title": "拼多多百亿补贴买到二手机了，今天才送到，显示上个月已经被激活过了，兄弟们咋整？",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-09",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74919683",
-      "image": "",
-      "summary": "拼多多百亿补贴买到二手机了，今天才送到，显示上个月已经被激活过了，兄弟们咋整？",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-841a984b549b",
-      "title": "爆了爆了兄弟们，真4430mAh再配上vc均热板将乱杀17系列啊[受虐滑稽]#数码日常# #iPhone17#",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-09",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74914690",
-      "image": "",
-      "summary": "爆了爆了兄弟们，真4430mAh再配上vc均热板将乱杀17系列啊[受虐滑稽]#数码日常# #iPhone17#",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-381cc424ba55",
-      "title": "尾号“5555555”手机号流拍",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-09",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E5%B0%BE%E5%8F%B7%E2%80%9C5555555%E2%80%9D%E6%89%8B%E6%9C%BA%E5%8F%B7%E6%B5%81%E6%8B%8D",
-      "image": "",
-      "summary": "尾号“5555555”手机号流拍",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-de38bb3d3336",
-      "title": "中国新发展为世界提供新机遇",
-      "source": "抖音热点",
+      "id": "newsnow-e9f8ccf5dfd8",
+      "title": "王子璇手机型号",
+      "source": "微博热搜",
       "brand": "行业",
       "model": "智能手机市场",
       "type": "爆料",
@@ -552,9 +652,9 @@ window.phoneRadarAuto = {
       "date": "2026-11-09",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.douyin.com/hot/2737361",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AD%90%E7%92%87%E6%89%8B%E6%9C%BA%E5%9E%8B%E5%8F%B7%23&t=31&band_rank=21&Refer=top",
       "image": "",
-      "summary": "中国新发展为世界提供新机遇",
+      "summary": "王子璇手机型号",
       "tags": [
         "行业",
         "爆料",
@@ -575,26 +675,6 @@ window.phoneRadarAuto = {
       "url": "https://www.gizmochina.com/2026/11/08/galaxy-s27-clears-bis-ahead-of-early-2027-launch/",
       "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/galaxy-s27-bis-2-300x169.jpg?x96268",
       "summary": "BIS filings don’t usually spill a lot of hardware details, but this same model number has already shown up in other databases. The post Galaxy S27 clears BIS ahead of early 2027 l…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c62d79db2e87",
-      "title": "iPhone 18 Pro Vs. Galaxy S26 Ultra is interesting this year. [Video]",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-08",
-      "time": "17:30",
-      "publishedAt": "2026-11-08T17:30:10.000Z",
-      "url": "https://www.androidpolice.com/video/iphone-18-pro-vs-galaxy-s26-ultra-is-interesting-this-year-video/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/10/iphone-18-pro-vs-galaxy-s26-ultra-is-interesting-this-year.jpg",
-      "summary": "This one is genuinely tough.",
       "tags": [
         "Samsung",
         "爆料",
