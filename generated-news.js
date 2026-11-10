@@ -1,6 +1,286 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-11-10T12:37:35.884Z",
+  "updatedAt": "2026-11-10T20:48:32.713Z",
   "news": [
+    {
+      "id": "auto-f98ca125bbe0",
+      "title": "Gboard’s Rambler voice typing expands to the Pixel 10 series",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-10",
+      "time": "19:00",
+      "publishedAt": "2026-11-10T19:00:49.000Z",
+      "url": "https://www.androidauthority.com/google-gboard-rambler-pixel-10-series-feature-drop-3733419/",
+      "image": "",
+      "summary": "No longer a Pixel 11 exclusive.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4fd8a0f2bac0",
+      "title": "Pixel 11’s better Pixel Search is expanding to every Pixel launched since 2021",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-10",
+      "time": "19:00",
+      "publishedAt": "2026-11-10T19:00:48.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-search-natural-language-pixel-6-3733219/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/09/IMG_20250916_200047-scaled.jpg",
+      "summary": "That includes phones as old as the Pixel 6, including even the A-series ones.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d210a4bf6bb8",
+      "title": "Google rolls out Create My Widget to Pixel 10 and 11 series, but the Pixel 10a misses out",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-10",
+      "time": "19:00",
+      "publishedAt": "2026-11-10T19:00:41.000Z",
+      "url": "https://www.androidauthority.com/google-create-my-widget-pixel-feature-drop-3733311/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/google-create-my-widget-play-store-listing-hero-image.jpg",
+      "summary": "You can now use natural language commands to generate widgets, but not on the budget Pixel.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-230429aa2545",
+      "title": "Google is making Pixel HiLight slightly more useful",
+      "source": "The Verge",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-10",
+      "time": "18:42",
+      "publishedAt": "2026-11-10T18:42:42.000Z",
+      "url": "https://www.theverge.com/tech/1031089/google-pixel-drop-november-2026-hilight",
+      "image": "",
+      "summary": "Google is adding a new feature to its underwhelming HiLight light on the back of Pixel 11 Pro phones: as part of the November 2026 Pixel Drop, the light can light up when you get…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a133eb0d3c44",
+      "title": "RedMagic 12 Pro+ vs OnePlus Ace 7 Pro: Which Flagship Gaming Phone Is Better?",
+      "source": "Gizmochina",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-10",
+      "time": "17:35",
+      "publishedAt": "2026-11-10T17:35:02.000Z",
+      "url": "https://www.gizmochina.com/2026/11/10/redmagic-12-pro-plus-vs-oneplus-ace-7-pro/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/image-43-300x156.png?x96268",
+      "summary": "RedMagic 12 Pro+ and OnePlus Ace 7 Pro take different approaches to flagship performance, combining powerful Snapdragon processors with high-refresh-rate displays and advanced coo…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-6040a8ebc655",
+      "title": "竹本青：【酷派Cool X Wide阔直板 开售3天销量破万】 11月11日资讯，酷派官方昨日宣布，Cool X Wide…",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-10",
+      "time": "17:33",
+      "publishedAt": "2026-11-10T17:33:39.000Z",
+      "url": "https://www.coolapk.com/feed/74986860",
+      "image": "http://image.coolapk.com/feed/2026/1111/01/4248714_8f9014cc_2018_3496_283@1200x1600.jpg",
+      "summary": "【酷派Cool X Wide阔直板 开售3天销量破万】 11月11日资讯，酷派官方昨日宣布，Cool X Wide 阔直板手机开售仅3天，累计实际售出已突破1万台。 该新机于11月8日上架，起售价999元，核心搭载联发科G99处理器，6.38英寸720P 90Hz LCD屏、4600mAh电池。 #今日热点# #酷派COOLXWide# #数码日常#",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-4709d5d91039",
+      "title": "竹本青：#双11开箱# 双11好多人买手机啊，以我自己为例，发个小作文分享购机心得 前两年我的思维比较固化，真的只看性能这…",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-10",
+      "time": "16:07",
+      "publishedAt": "2026-11-10T16:07:08.000Z",
+      "url": "https://www.coolapk.com/feed/74985489",
+      "image": "http://image.coolapk.com/feed/2026/1111/00/4248714_e62f9c87_6826_8025_549@1319x2048.jpg",
+      "summary": "#双11开箱# 双11好多人买手机啊，以我自己为例，发个小作文分享购机心得 前两年我的思维比较固化，真的只看性能这一项，认为性能是决定使用体验的一切，“性能最强，使用起来肯定丝滑，那怎么会不好用呢？”现在看过来蛮蠢的，图2是我二三年写的小笔记，当时还会列出来自己认为的性能top榜，然后就在电商每晚蹲价格…… 因为当时购机选择迷茫，没有目标，所以属于是大V推…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-71d33018f34f",
+      "title": "OnePlus Turbo 6V vs Nord 5: Is a 9000mAh Battery Better Than Flagship Performance?",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-10",
+      "time": "15:59",
+      "publishedAt": "2026-11-10T15:59:27.000Z",
+      "url": "https://www.gizmochina.com/2026/11/10/oneplus-turbo-6v-vs-oneplus-nord-5/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/image-42-300x149.png?x96268",
+      "summary": "OnePlus has two interesting options competing in the upper mid-range segment, but they take very different approaches. The OnePlus Turbo 6V focuses on battery endurance, durabilit…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2559a4fd35bc",
+      "title": "Galaxy S27 redesign leak shows off Pro vs Ultra size difference, with just a bit of controversy",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-10",
+      "time": "15:20",
+      "publishedAt": "2026-11-10T15:20:00.000Z",
+      "url": "https://9to5google.com/2026/11/10/samsung-galaxy-s27-redesign-leak-size/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-s26-ultra-4.jpg?quality=82&strip=all&w=1600",
+      "summary": "Samsung is working on a long overdue redesign for its Galaxy S27 series and, this week, we’re getting a fresh look. more…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-27bcb5437047",
+      "title": "Galaxy S27 Ultra, Pro, and Plus dummy units leak, but the camera layout is raising red flags",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-10",
+      "time": "13:59",
+      "publishedAt": "2026-11-10T13:59:57.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s27-pro-ultra-plus-dummy-units-leak-3733332/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/Samsung-Galaxy-S26-series-showing-backs.jpg",
+      "summary": "Past leaks indicate Samsung may ditch the 3x telephoto camera on the Galaxy S27 Ultra.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-4c9e5e3f7a85",
+      "title": "JSCHEN小小狐：『华为睿影 Z10 H1 / H2 可换卡口开售：399 元』 睿影 Z10 H1 / H2 单卡口售价：399…",
+      "source": "JSCHEN小小狐",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-10",
+      "time": "13:55",
+      "publishedAt": "2026-11-10T13:55:19.000Z",
+      "url": "https://www.coolapk.com/feed/74982482",
+      "image": "http://image.coolapk.com/feed/2026/1110/21/4702274_7c73a160_8916_673_985@800x800.png",
+      "summary": "『华为睿影 Z10 H1 / H2 可换卡口开售：399 元』 睿影 Z10 H1 / H2 单卡口售价：399 元 H1 卡口 —— 适配 Mate90 Pro Max 典藏版 H2 卡口 —— 适配 Mate90 RS 非凡大师 11 月 10 日，华为终端 BG CTO 李小龙 在微博宣布，华为睿影 Z10 10 倍变焦模块相机配套的 H1 / H2…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-37efcca7abf4",
+      "title": "Samsung updates Galaxy S26 with November 2026 security patch",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-10",
+      "time": "13:47",
+      "publishedAt": "2026-11-10T13:47:29.000Z",
+      "url": "https://www.sammobile.com/news/samsung-updates-galaxy-s26-with-november-2026-security-patch/",
+      "image": "",
+      "summary": "Samsung has started rolling out new software updates to the Galaxy S26, Galaxy S26+, and Galaxy S26 Ultra. These updates bring the November 2026 security patch, which fixes 179 vu…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-21da485acd97",
+      "title": "荣耀 CEO 李健官宣 Magic9 系列旗舰手机销量突破 50 万台，称还有更多惊喜将揭晓",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-10",
+      "time": "13:32",
+      "publishedAt": "2026-11-10T13:32:02.000Z",
+      "url": "https://www.ithome.com/1/025/159.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/965c91e0-932f-4534-81d0-1b015439b76d.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 11 月 10 日消息，荣耀终端股份有限公司 CEO 李健刚刚发文宣布，最新统计数据显示， Magic9 系列旗舰手机的累计销量已经突破 50 万台 。 李健还宣布，围绕 荣耀 Magic9 系列， 还有更多惊喜即将揭晓 。 李健并未直接公开 Magic9 系列手机的“更多惊喜”具体所指，但据IT之家今日早些时候报道，消息称 Magic9 系列手…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-1e4136e04688",
+      "title": "竹本青：【荣耀CEO李健：Magic9系列销量破50万，更多惊喜即将揭晓】 11月10日，荣耀CEO李健宣布 Magic9…",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-10",
+      "time": "13:27",
+      "publishedAt": "2026-11-10T13:27:10.000Z",
+      "url": "https://www.coolapk.com/feed/74981785",
+      "image": "http://image.coolapk.com/feed/2026/1110/21/4248714_3600808a_7228_5787_216@1439x689.jpg",
+      "summary": "【荣耀CEO李健：Magic9系列销量破50万，更多惊喜即将揭晓】 11月10日，荣耀CEO李健宣布 Magic9系列 销量已突破50万台，并预告：“围绕Magic9系列，还有更多惊喜即将揭晓，敬请期待。” 同日，数码闲聊站爆料称，Magic9系列目前为安卓阵营销量冠军，后续将推出新配色（已摸到一个\"红色\"），并同步上线摄影大师套装。 #今日热点# #荣耀…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "auto-bef87f4108c5",
       "title": "英格兰收紧校园手机禁令：手机不得放于口袋书包",
@@ -62,26 +342,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-0c89d2cafcdd",
-      "title": "The Samsung Galaxy S27 range's cameras just leaked and fans are furious",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-10",
-      "time": "11:20",
-      "publishedAt": "2026-11-10T11:20:50.000Z",
-      "url": "https://www.androidpolice.com/all-the-samsung-galaxy-s27-camera-details-just-leaked/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/03/galaxy-s26-ultra-camera.JPG",
-      "summary": "Samsung fans aren't happy about what seem like downgrades to the next Galaxy flagship phones.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-75cf94ccfcfb",
       "title": "I used the Pixel 11 Pro XL and Galaxy S26 Ultra for a week. This is the one I’d keep",
       "source": "Android Authority",
@@ -97,26 +357,6 @@ window.phoneRadarAuto = {
       "summary": "One flagship got the last laugh.",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9c2afa8bc933",
-      "title": "消息称苹果开始对 iPhone 改机解锁“动手”，后续是否还会加强措施暂不明确",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-10",
-      "time": "10:14",
-      "publishedAt": "2026-11-10T10:14:28.000Z",
-      "url": "https://www.ithome.com/1/025/017.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/269c893d-1423-4051-82b7-5629727954f6.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 11 月 10 日消息，超雪团队发文，透露苹果开始对 iPhone 改机解锁“动手”， 但暂不明确后续是否还会加强措施 。 IT之家查询获悉，改机解锁可理解通过拆开主板，修改手机底层序列号、SN、IMEI 等硬件串号，骗过苹果服务器，把有 ID 激活锁的手机“洗白”，并绕过 iCloud 激活锁的一种方式。 目前尚不知晓此次变动带来的影响。需要注…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -142,26 +382,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-706e07dbbfc3",
-      "title": "摩托罗拉宽折叠手机 Razr Flex 2027 首次官网确认，将配高通第五代骁龙 8 芯片",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-10",
-      "time": "09:12",
-      "publishedAt": "2026-11-10T09:12:50.000Z",
-      "url": "https://www.ithome.com/1/024/921.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/6f5ab92f-8649-4d28-ac75-4888c14b26c5.png",
-      "summary": "IT之家 11 月 10 日消息，科技媒体 9to5Google 昨日（11 月 9 日）发布博文，报道称在澳大利亚摩托罗拉官方支持页面，出现了“motorola razr flex – 2027”的踪迹， 首次在官方支持文档中出现宽折叠手机 Razr Flex 2027，上市后将会和苹果 iPhone Duo 正面竞争。 不过本次官方支持文档并未提供其它…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-1deba1b12ae0",
       "title": "Motorola Signature 27 vs Honor Magic 9 Pro Max: Which flagship gives you more for your money?",
       "source": "Gizmochina",
@@ -179,26 +399,6 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-16cb493f9a82",
-      "title": "竹本青：小米联合北京大学发布《物联网设备模型技术白皮书》，结合超11.6亿台AIoT设备实践",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-10",
-      "time": "07:32",
-      "publishedAt": "2026-11-10T07:32:19.000Z",
-      "url": "https://www.coolapk.com/feed/74973658",
-      "image": "http://image.coolapk.com/feed/2026/1110/15/4248714_545ad8e6_5936_1606_879@1122x1402.jpg",
-      "summary": "【小米联合北京大学发布《物联网设备模型技术白皮书》，结合超11.6亿台AIoT设备实践】 据小米技术，近日，在 2026 CCF中国软件大会现场，由中国计算机学会（CCF）泛在操作系统开放社区牵头，小米科技联合北京大学编写的《物联网设备模型（Thing Model）技术白皮书》正式发布。 中国科学院院士梅宏出席了本次发布，给予指导并表示，“这份白皮书系统地…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -297,26 +497,6 @@ window.phoneRadarAuto = {
       "summary": "The wide-screen candybar trend is spreading across Android flagships, and OnePlus now looks set to put its next numbered phone on that path. Weibo tipster Smart Pikachu has flagge…",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-72ccad93f056",
-      "title": "Galaxy S27 Pro doesn’t really have a pro-grade zoom camera",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-10",
-      "time": "04:41",
-      "publishedAt": "2026-11-10T04:41:36.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s27-pro-doesnt-really-have-a-pro-grade-zoom-camera/",
-      "image": "",
-      "summary": "When the first Galaxy S27 Pro reports surfaced earlier this year, Galaxy fans looking for a compact flagship phone rejoiced. Earlier rumors claimed it would feature the same camer…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -522,8 +702,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-2919e51f4bee",
-      "title": "#酷安夜话# 刷到酷友说女友被上司追 还送苹果手机 女友不舍得离职之类的帖子 感慨万千 [二哈] 现在想想 我老婆当初没选开揽子的富二代而选择我 放现在岂不是科幻片[笑哭]#初恋这件小事#",
+      "id": "newsnow-9318aaf73ee7",
+      "title": "前一段儿时间我发了动态感叹公共场合里大家用折叠屏很少用内屏，看大家的评论，很多人是觉得不好意思，会让别人觉得有点装，刚好我媳妇儿也在用 iPhone Duo，我一问，她果然也是这么想，本身阔折叠这个外屏就很小，其实很想展开用内屏，但用内屏确实有点心理压力，所以就忍一忍了。",
       "source": "酷安热榜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -532,29 +712,9 @@ window.phoneRadarAuto = {
       "date": "2026-11-10",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74962029",
+      "url": "https://www.coolapk.com/feed/74972853",
       "image": "",
-      "summary": "#酷安夜话# 刷到酷友说女友被上司追 还送苹果手机 女友不舍得离职之类的帖子 感慨万千 [二哈] 现在想想 我老婆当初没选开揽子的富二代而选择我 放现在岂不是科幻片[笑哭]#初恋这件小事#",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-d24fd87041de",
-      "title": "Iphone Duo 最佳壁纸",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-10",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74960025",
-      "image": "",
-      "summary": "Iphone Duo 最佳壁纸",
+      "summary": "前一段儿时间我发了动态感叹公共场合里大家用折叠屏很少用内屏，看大家的评论，很多人是觉得不好意思，会让别人觉得有点装，刚好我媳妇儿也在用 iPhone Duo，我一问，她果然也是这么想，本身阔折叠这个外屏就很小，其实很想展开用内屏，但用内屏确实有点心理压力，所以就忍一忍了。",
       "tags": [
         "iPhone",
         "爆料",
@@ -582,26 +742,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-3612cd963ffe",
-      "title": "PIxel 10a is now $450 for a limited time",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-09",
-      "time": "22:40",
-      "publishedAt": "2026-11-09T22:40:12.000Z",
-      "url": "https://www.androidpolice.com/the-pixel-10a-is-now-cheaper-than-it-was-at-launch/",
-      "image": "",
-      "summary": "This is the discount we've been waiting for.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-d8f2047d8e2d",
       "title": "Samsung has big plans for the Galaxy S27 Pro and Ultra, but it's bad news for the base models",
       "source": "Android Central",
@@ -622,26 +762,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-e747ceca8a9f",
-      "title": "Keeping Flex Mode and the Galaxy Z Fold 8 separate might’ve been Samsung’s most inspired idea",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-09",
-      "time": "20:50",
-      "publishedAt": "2026-11-09T20:50:41.000Z",
-      "url": "https://www.sammobile.com/opinion/keeping-flex-mode-galaxy-z-fold-8-separate-samsung-inspired-idea/",
-      "image": "",
-      "summary": "I was a little disappointed to learn that the Galaxy Z Fold 8 didn't have Flex Mode. After all, the Galaxy Z Fold 8 is my first daily foldable, and I wanted to experience Samsung'…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-b6ef1167c121",
       "title": "Samsung is focusing 70% of its Galaxy S27 production on the Ultra and Pro",
       "source": "Android Authority",
@@ -655,26 +775,6 @@ window.phoneRadarAuto = {
       "url": "https://www.androidauthority.com/galaxy-s27-ultra-pro-production-volume-3733071/",
       "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Samsung-Galaxy-S26-Ultra-home-screen-black-cat-scaled.jpg",
       "summary": "Samsung really wants you to buy one of its premium phones.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-69e6cf64d021",
-      "title": "Forget Black Friday: Amazon is already slashing up to $450 off the entire Samsung Galaxy S26 lineup",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-09",
-      "time": "19:00",
-      "publishedAt": "2026-11-09T19:00:26.000Z",
-      "url": "https://www.androidpolice.com/amazon-early-black-friday-samsung-galaxy-s26-deals/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/03/samsung-galaxy-s26-ultra-series-2.jpg",
-      "summary": "From the base model S26 to the super-powered S26 Ultra.",
       "tags": [
         "Samsung",
         "爆料",
@@ -718,26 +818,6 @@ window.phoneRadarAuto = {
       "tags": [
         "iPhone",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-549259fb649c",
-      "title": "Galaxy S27 Pro and S27 Ultra could make up over 70% of all Galaxy S27 sales",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-09",
-      "time": "16:17",
-      "publishedAt": "2026-11-09T16:17:28.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s27-pro-ultra-make-up-70-percent-all-s27-sales/",
-      "image": "",
-      "summary": "Due to the ongoing memory chip shortage, smartphone brands are forced to think of multiple ways to reduce losses. One of the most common ways is to sell more high-end models and f…",
-      "tags": [
-        "Samsung",
-        "爆料",
         "自动抓取"
       ]
     },

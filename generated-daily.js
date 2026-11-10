@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-11-10T12:37:35.884Z",
+  "updatedAt": "2026-11-10T20:48:32.713Z",
   "issueDate": "2026-11-10",
   "issue": "VOL.261110",
   "title": "手机情报日报",
-  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 9 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 12,
-    "iphone": 9,
+    "total": 8,
+    "iphone": 5,
     "leaks": 8,
-    "official": 1,
+    "official": 0,
     "specs": 0
   },
   "sections": [
@@ -18,46 +18,23 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "auto-9c2afa8bc933",
-          "title": "消息称苹果开始对 iPhone 改机解锁“动手”，后续是否还会加强措施暂不明确",
+          "id": "newsnow-9318aaf73ee7",
+          "title": "前一段儿时间我发了动态感叹公共场合里大家用折叠屏很少用内屏，看大家的评论，很多人是觉得不好意思，会让别人觉得有点装，刚好我媳妇儿也在用 iPhone Duo，我一问，她果然也是这么想，本身阔折叠这个外屏就很小，其实很想展开用内屏，但用内屏确实有点心理压力，所以就忍一忍了。",
           "originalTitle": "",
-          "source": "IT之家",
+          "source": "酷安热榜",
           "brand": "iPhone",
           "type": "爆料",
-          "trust": "媒体汇总",
+          "trust": "高关注爆料源",
           "date": "2026-11-10",
-          "time": "10:14",
-          "publishedAt": "2026-11-10T10:14:28.000Z",
-          "url": "https://www.ithome.com/1/025/017.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/269c893d-1423-4051-82b7-5629727954f6.png?x-bce-process=image/format,f_auto",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/74972853",
+          "image": "",
           "verdict": "先看",
-          "takeaway": "IT之家 11 月 10 日消息，超雪团队发文，透露苹果开始对 iPhone 改机解锁“动手”， 但暂不明确后续是否还会加强措施 。 IT之家查询获悉，改机解锁可理解通过拆开主板，修改手机底层序列号、SN、IMEI 等硬件串号，骗过苹果服务器，把有 ID 激活锁的手机“洗白”，并绕过 iCloud 激活锁的一种方式。 目前尚不知晓此次变动带来的影响。需要注…",
-          "detail": "IT之家 11 月 10 日消息，超雪团队发文，透露苹果开始对 iPhone 改机解锁“动手”， 但暂不明确后续是否还会加强措施 。 IT之家查询获悉，改机解锁可理解通过拆开主板，修改手机底层序列号、SN、IMEI 等硬件串号，骗过苹果服务器，把有 ID 激活锁的手机“洗白”，并绕过 iCloud 激活锁的一种方式。 目前尚不知晓此次变动带来的影响。需要注…",
+          "takeaway": "前一段儿时间我发了动态感叹公共场合里大家用折叠屏很少用内屏，看大家的评论，很多人是觉得不好意思，会让别人觉得有点装，刚好我媳妇儿也在用 iPhone Duo，我一问，她果然也是这么想，本身阔折叠这个外屏就很小，其实很想展开用内屏，但用内屏确实有点心理压力，所以就忍一忍了。",
+          "detail": "前一段儿时间我发了动态感叹公共场合里大家用折叠屏很少用内屏，看大家的评论，很多人是觉得不好意思，会让别人觉得有点装，刚好我媳妇儿也在用 iPhone Duo，我一问，她果然也是这么想，本身阔折叠这个外屏就很小，其实很想展开用内屏，但用内屏确实有点心理压力，所以就忍一忍了。",
           "keyPoints": [
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-706e07dbbfc3",
-          "title": "摩托罗拉宽折叠手机 Razr Flex 2027 首次官网确认，将配高通第五代骁龙 8 芯片",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-11-10",
-          "time": "09:12",
-          "publishedAt": "2026-11-10T09:12:50.000Z",
-          "url": "https://www.ithome.com/1/024/921.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/6f5ab92f-8649-4d28-ac75-4888c14b26c5.png",
-          "verdict": "先看",
-          "takeaway": "IT之家 11 月 10 日消息，科技媒体 9to5Google 昨日（11 月 9 日）发布博文，报道称在澳大利亚摩托罗拉官方支持页面，出现了“motorola razr flex – 2027”的踪迹， 首次在官方支持文档中出现宽折叠手机 Razr Flex 2027，上市后将会和苹果 iPhone Duo 正面竞争。 不过本次官方支持文档并未提供其它…",
-          "detail": "IT之家 11 月 10 日消息，科技媒体 9to5Google 昨日（11 月 9 日）发布博文，报道称在澳大利亚摩托罗拉官方支持页面，出现了“motorola razr flex – 2027”的踪迹， 首次在官方支持文档中出现宽折叠手机 Razr Flex 2027，上市后将会和苹果 iPhone Duo 正面竞争。 不过本次官方支持文档并未提供其它…",
-          "keyPoints": [
-            "芯片 / 性能"
+            "屏幕形态"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -160,6 +137,30 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "coolapk-user-1e4136e04688",
+          "title": "竹本青：【荣耀CEO李健：Magic9系列销量破50万，更多惊喜即将揭晓】 11月10日，荣耀CEO李健宣布 Magic9…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-11-10",
+          "time": "13:27",
+          "publishedAt": "2026-11-10T13:27:10.000Z",
+          "url": "https://www.coolapk.com/feed/74981785",
+          "image": "http://image.coolapk.com/feed/2026/1110/21/4248714_3600808a_7228_5787_216@1439x689.jpg",
+          "verdict": "先看",
+          "takeaway": "【荣耀CEO李健：Magic9系列销量破50万，更多惊喜即将揭晓】 11月10日，荣耀CEO李健宣布 Magic9系列 销量已突破50万台，并预告：“围绕Magic9系列，还有更多惊喜即将揭晓，敬请期待。” 同日，数码闲聊站爆料称，Magic9系列目前为安卓阵营销量冠军，后续将推出新配色（已摸到一个\"红色\"），并同步上线摄影大师套装。 #今日热点# #荣耀…",
+          "detail": "【荣耀CEO李健：Magic9系列销量破50万，更多惊喜即将揭晓】 11月10日，荣耀CEO李健宣布 Magic9系列 销量已突破50万台，并预告：“围绕Magic9系列，还有更多惊喜即将揭晓，敬请期待。” 同日，数码闲聊站爆料称，Magic9系列目前为安卓阵营销量冠军，后续将推出新配色（已摸到一个\"红色\"），并同步上线摄影大师套装。 #今日热点# #荣耀…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "coolapk-user-b0f86d15121d",
           "title": "JSCHEN小小狐：消息称荣耀Magic9系列销量破50万，新配色将至",
           "originalTitle": "",
@@ -207,112 +208,6 @@ window.phoneRadarDaily = {
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        }
-      ]
-    },
-    {
-      "id": "iphone",
-      "title": "iPhone 重点",
-      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
-      "items": [
-        {
-          "id": "newsnow-2919e51f4bee",
-          "title": "#酷安夜话# 刷到酷友说女友被上司追 还送苹果手机 女友不舍得离职之类的帖子 感慨万千 [二哈] 现在想想 我老婆当初没选开揽子的富二代而选择我 放现在岂不是科幻片[笑哭]#初恋这件小事#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-11-10",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/74962029",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "#酷安夜话# 刷到酷友说女友被上司追 还送苹果手机 女友不舍得离职之类的帖子 感慨万千 [二哈] 现在想想 我老婆当初没选开揽子的富二代而选择我 放现在岂不是科幻片[笑哭]#初恋这件小事#",
-          "detail": "#酷安夜话# 刷到酷友说女友被上司追 还送苹果手机 女友不舍得离职之类的帖子 感慨万千 [二哈] 现在想想 我老婆当初没选开揽子的富二代而选择我 放现在岂不是科幻片[笑哭]#初恋这件小事#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-d24fd87041de",
-          "title": "Iphone Duo 最佳壁纸",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-11-10",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/74960025",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "Iphone Duo 最佳壁纸",
-          "detail": "Iphone Duo 最佳壁纸",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-a89f115eb254",
-          "title": "iPhone 芯片 / 性能相关消息",
-          "originalTitle": "",
-          "source": "Apple Newsroom",
-          "brand": "iPhone",
-          "type": "官方",
-          "trust": "官方确认",
-          "date": "2026-11-10",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.apple.com/newsroom/2026/10/apple-announces-american-manufacturing-program-partners-for-latest-iphone-lineup/",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone 芯片 / 性能相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "官方"
-          ],
-          "confidence": "官方内容，可直接作为已确认信息记录。",
-          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "market",
-      "title": "行业趋势",
-      "hint": "看方向，不急着当购买依据。",
-      "items": [
-        {
-          "id": "auto-bef87f4108c5",
-          "title": "英格兰收紧校园手机禁令：手机不得放于口袋书包",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-11-10",
-          "time": "12:15",
-          "publishedAt": "2026-11-10T12:15:12.000Z",
-          "url": "https://www.ithome.com/1/025/134.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/3/c67c2587-c9a0-4bc3-9426-5a81424b1cbf.jpg?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11/format,f_auto",
-          "verdict": "扫一眼",
-          "takeaway": "IT之家 11 月 10 日消息，为了进一步强化学校是“学习和交友的地方，而不是刷手机的地方”这一理念，英国英格兰地区政府官员宣布，将从明年 9 月起进一步收紧校园手机管理规定，学生不仅不能在校内使用手机，甚至不能将手机放在书包或口袋里。 根据 2026 年 4 月通过、6 月下旬正式成为法律的《2026 年儿童福祉与学校法案》（Children's We…",
-          "detail": "IT之家 11 月 10 日消息，为了进一步强化学校是“学习和交友的地方，而不是刷手机的地方”这一理念，英国英格兰地区政府官员宣布，将从明年 9 月起进一步收紧校园手机管理规定，学生不仅不能在校内使用手机，甚至不能将手机放在书包或口袋里。 根据 2026 年 4 月通过、6 月下旬正式成为法律的《2026 年儿童福祉与学校法案》（Children's We…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         }
       ]
     }
