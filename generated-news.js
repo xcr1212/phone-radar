@@ -1,20 +1,80 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-11-10T04:05:44.174Z",
+  "updatedAt": "2026-11-10T12:37:35.884Z",
   "news": [
     {
-      "id": "auto-5a8e0077aaf4",
-      "title": "消息称 Pro 和 Ultra 版占据三星 Galaxy S27 系列智能手机七成规划出货量",
+      "id": "auto-bef87f4108c5",
+      "title": "英格兰收紧校园手机禁令：手机不得放于口袋书包",
       "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-10",
+      "time": "12:15",
+      "publishedAt": "2026-11-10T12:15:12.000Z",
+      "url": "https://www.ithome.com/1/025/134.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/3/c67c2587-c9a0-4bc3-9426-5a81424b1cbf.jpg?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11/format,f_auto",
+      "summary": "IT之家 11 月 10 日消息，为了进一步强化学校是“学习和交友的地方，而不是刷手机的地方”这一理念，英国英格兰地区政府官员宣布，将从明年 9 月起进一步收紧校园手机管理规定，学生不仅不能在校内使用手机，甚至不能将手机放在书包或口袋里。 根据 2026 年 4 月通过、6 月下旬正式成为法律的《2026 年儿童福祉与学校法案》（Children's We…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5c97a3877d44",
+      "title": "iPhone 20 Pro: Ten Big Changes That Could Redefine Apple's Flagship",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-10",
+      "time": "11:39",
+      "publishedAt": "2026-11-10T11:39:01.000Z",
+      "url": "https://www.macrumors.com/2026/11/10/iphone-20-pro-rumors-ten-big-changes/",
+      "image": "https://images.macrumors.com/article-new/2026/01/Mostly-Screen-iPhone-Purple-Feature-2027.jpg",
+      "summary": "In 2017, Apple celebrated the iPhone's 10th birthday with the iPhone X, the biggest redesign in the product's history. For the device's 20th anniversary, all the rumors indicate t…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-34387a385497",
+      "title": "DOOGEE 预热 Note60 W 阔直板手机计划 12 月中旬上市，搭 6.38 英寸 90Hz 16:10 比例面板",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-10",
+      "time": "11:25",
+      "publishedAt": "2026-11-10T11:25:42.000Z",
+      "url": "https://www.ithome.com/1/025/123.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/35d64892-1127-4135-91b3-44b3da79c5d5.png",
+      "summary": "IT之家 11 月 10 日消息，据 DOOGEE 公众号，DOOGEE 首款 16:10 阔面直屏手机 Note60 W 将于 2026 年 12 月中旬正式上市。 据介绍，DOOGEE Note60 W 系列手机采用 6.38 英寸 90Hz 阔面屏设计，打破传统屏幕比例；机身厚度约 8.4mm，搭载紫光展锐 T7250 处理器，内置 6500mAh…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0c89d2cafcdd",
+      "title": "The Samsung Galaxy S27 range's cameras just leaked and fans are furious",
+      "source": "Android Police",
       "brand": "Samsung",
       "model": "Samsung 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-11-10",
-      "time": "03:53",
-      "publishedAt": "2026-11-10T03:53:51.000Z",
-      "url": "https://www.ithome.com/1/024/741.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/cf41d1ad-e234-4d1e-91b0-e7d594a81605.jpg",
-      "summary": "IT之家 11 月 10 日消息，韩媒 ETNEWS 当地时间昨日报道称，在三星电子 MX（移动体验）业务的规划中， Pro 和 Ultra 两个高阶版本将 Galaxy S27 系列智能手机整体出货量的七成左右 。 三星电子的 Galaxy S 系列旗舰手机年产能通常在 3500 万部上下，今年的情况也是如此。其中，高端的 Ultra 系列约占 1800…",
+      "time": "11:20",
+      "publishedAt": "2026-11-10T11:20:50.000Z",
+      "url": "https://www.androidpolice.com/all-the-samsung-galaxy-s27-camera-details-just-leaked/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/03/galaxy-s26-ultra-camera.JPG",
+      "summary": "Samsung fans aren't happy about what seem like downgrades to the next Galaxy flagship phones.",
       "tags": [
         "Samsung",
         "爆料",
@@ -22,23 +82,283 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-1f0fd46fd07c",
-      "title": "竹本青：【OPPO Reno系列 2026冬日限定曲上线】 OPPO今天宣布，由宋雨琦演绎，Reno系列2026冬日限定曲…",
+      "id": "auto-75cf94ccfcfb",
+      "title": "I used the Pixel 11 Pro XL and Galaxy S26 Ultra for a week. This is the one I’d keep",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-10",
+      "time": "10:30",
+      "publishedAt": "2026-11-10T10:30:02.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s26-ultra-vs-google-pixel-11-pro-xl-one-week-usage-3732233/",
+      "image": "",
+      "summary": "One flagship got the last laugh.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9c2afa8bc933",
+      "title": "消息称苹果开始对 iPhone 改机解锁“动手”，后续是否还会加强措施暂不明确",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-10",
+      "time": "10:14",
+      "publishedAt": "2026-11-10T10:14:28.000Z",
+      "url": "https://www.ithome.com/1/025/017.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/269c893d-1423-4051-82b7-5629727954f6.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 11 月 10 日消息，超雪团队发文，透露苹果开始对 iPhone 改机解锁“动手”， 但暂不明确后续是否还会加强措施 。 IT之家查询获悉，改机解锁可理解通过拆开主板，修改手机底层序列号、SN、IMEI 等硬件串号，骗过苹果服务器，把有 ID 激活锁的手机“洗白”，并绕过 iCloud 激活锁的一种方式。 目前尚不知晓此次变动带来的影响。需要注…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-31be2885b22a",
+      "title": "REDMAGIC 12 Pro+ China vs REDMAGIC 12 Pro Global: What’s Different?",
+      "source": "Gizmochina",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-10",
+      "time": "10:05",
+      "publishedAt": "2026-11-10T10:05:22.000Z",
+      "url": "https://www.gizmochina.com/2026/11/10/redmagic-12-pro-plus-china-vs-global/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/image-39-243x300.png?x96268",
+      "summary": "REDMAGIC has taken an interesting approach with its latest gaming flagship. The company launched the REDMAGIC 12 Pro+ in China but introduced the same phone internationally under…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-706e07dbbfc3",
+      "title": "摩托罗拉宽折叠手机 Razr Flex 2027 首次官网确认，将配高通第五代骁龙 8 芯片",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-10",
+      "time": "09:12",
+      "publishedAt": "2026-11-10T09:12:50.000Z",
+      "url": "https://www.ithome.com/1/024/921.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/6f5ab92f-8649-4d28-ac75-4888c14b26c5.png",
+      "summary": "IT之家 11 月 10 日消息，科技媒体 9to5Google 昨日（11 月 9 日）发布博文，报道称在澳大利亚摩托罗拉官方支持页面，出现了“motorola razr flex – 2027”的踪迹， 首次在官方支持文档中出现宽折叠手机 Razr Flex 2027，上市后将会和苹果 iPhone Duo 正面竞争。 不过本次官方支持文档并未提供其它…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1deba1b12ae0",
+      "title": "Motorola Signature 27 vs Honor Magic 9 Pro Max: Which flagship gives you more for your money?",
+      "source": "Gizmochina",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-10",
+      "time": "08:34",
+      "publishedAt": "2026-11-10T08:34:41.000Z",
+      "url": "https://www.gizmochina.com/2026/11/10/motorola-signature-27-vs-honor-magic-9-pro-max-which-flagship-gives-you-more-for-your-money/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/motorola-signature-27-vs-honor-magic-9-pro-max-which-flagship-gives-you-more-300x150.jpg?x96268",
+      "summary": "The Motorola Signature 27 costs $1,599.99 in the US and comes with a 200MP camera. The Honor Magic 9 Pro Max has two 200MP cameras and starts at around $900 in China. Both phones…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-16cb493f9a82",
+      "title": "竹本青：小米联合北京大学发布《物联网设备模型技术白皮书》，结合超11.6亿台AIoT设备实践",
       "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "高可信爆料",
       "date": "2026-11-10",
-      "time": "03:51",
-      "publishedAt": "2026-11-10T03:51:30.000Z",
-      "url": "https://www.coolapk.com/feed/74969207",
-      "image": "http://image.coolapk.com/feed/2026/1110/11/4248714_254afca2_2689_4536_106@1440x1920.jpg",
-      "summary": "【OPPO Reno系列 2026冬日限定曲上线】 OPPO今天宣布，由宋雨琦演绎，Reno系列2026冬日限定曲《Reno My Color》，现已上线QQ音乐、网易云音乐、汽水音乐等平台。 #今日热点# #ColorOS17# #OPPOReno17#",
+      "time": "07:32",
+      "publishedAt": "2026-11-10T07:32:19.000Z",
+      "url": "https://www.coolapk.com/feed/74973658",
+      "image": "http://image.coolapk.com/feed/2026/1110/15/4248714_545ad8e6_5936_1606_879@1122x1402.jpg",
+      "summary": "【小米联合北京大学发布《物联网设备模型技术白皮书》，结合超11.6亿台AIoT设备实践】 据小米技术，近日，在 2026 CCF中国软件大会现场，由中国计算机学会（CCF）泛在操作系统开放社区牵头，小米科技联合北京大学编写的《物联网设备模型（Thing Model）技术白皮书》正式发布。 中国科学院院士梅宏出席了本次发布，给予指导并表示，“这份白皮书系统地…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-a024819a1e9f",
+      "title": "Xiaomi 18 Pro series global launch is set for November 17 in Paris",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-10",
+      "time": "07:09",
+      "publishedAt": "2026-11-10T07:09:33.000Z",
+      "url": "https://www.gizmochina.com/2026/11/10/xiaomi-18-pro-series-global-launch-is-set-for-november-17-in-paris/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/xiaomi-18-pro-series-global-launch-is-set-for-november-17-in-paris-241x300.jpg?x96268",
+      "summary": "Xiaomi has confirmed that the Xiaomi 18 Pro series will make its global debut in Paris on November 17. The announcement follows a teaser from Xu Fei, Xiaomi’s VP and CMO, who hint…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6c46cc6d4c15",
+      "title": "A new red Honor Magic 9 color and photography master kit may launch soon",
+      "source": "Gizmochina",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-10",
+      "time": "06:51",
+      "publishedAt": "2026-11-10T06:51:17.000Z",
+      "url": "https://www.gizmochina.com/2026/11/10/new-red-honor-magic-9-color-photography-master-kit/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-v2-16x9-1-300x169.jpg?x96268",
+      "summary": "A new red color is coming to the Honor Magic 9 series, according to tipster Digital Chat Station, and a photography master kit is set to launch at the same time. DCS says a red un…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-04181318997f",
+      "title": "Purported Redmi K100 Ultra may pack a 2nm chip, 10,000mAh battery and 100W charging",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-10",
+      "time": "06:36",
+      "publishedAt": "2026-11-10T06:36:18.000Z",
+      "url": "https://www.gizmochina.com/2026/11/10/redmi-k100-ultra-2nm-10000mah-100w-charging-leak/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-16x9-27-300x169.jpg?x96268",
+      "summary": "Reliable tipster Digital Chat Station has shared new details on a next-generation sub-brand flagship now being discussed as the purported Redmi K100 Ultra. The tipster did not nam…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fa838d91e15a",
+      "title": "Galaxy S27 series leak reveals all the camera sensors",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-10",
+      "time": "06:04",
+      "publishedAt": "2026-11-10T06:04:38.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s27-series-camera-sensors-leak-3733185/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/Samsung-Galaxy-S26-series-showing-backs-1.jpg",
+      "summary": "The base and Plus models see no significant changes, while the Pro and Ultra models only get upgraded main shooters.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e5d15a5e885e",
+      "title": "OnePlus 17’s early leak reveals a wide-screen design",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-10",
+      "time": "05:00",
+      "publishedAt": "2026-11-10T05:00:28.000Z",
+      "url": "https://www.gizmochina.com/2026/11/10/oneplus-17-early-leak-wide-screen-design/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-16x9-25-300x169.jpg?x96268",
+      "summary": "The wide-screen candybar trend is spreading across Android flagships, and OnePlus now looks set to put its next numbered phone on that path. Weibo tipster Smart Pikachu has flagge…",
       "tags": [
         "OPPO",
         "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-72ccad93f056",
+      "title": "Galaxy S27 Pro doesn’t really have a pro-grade zoom camera",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-10",
+      "time": "04:41",
+      "publishedAt": "2026-11-10T04:41:36.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s27-pro-doesnt-really-have-a-pro-grade-zoom-camera/",
+      "image": "",
+      "summary": "When the first Galaxy S27 Pro reports surfaced earlier this year, Galaxy fans looking for a compact flagship phone rejoiced. Earlier rumors claimed it would feature the same camer…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-b0f86d15121d",
+      "title": "JSCHEN小小狐：消息称荣耀Magic9系列销量破50万，新配色将至",
+      "source": "JSCHEN小小狐",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-10",
+      "time": "04:35",
+      "publishedAt": "2026-11-10T04:35:15.000Z",
+      "url": "https://www.coolapk.com/feed/74970092",
+      "image": "http://image.coolapk.com/feed/2026/1110/12/4702274_87cc1b3c_5314_8915_793@1440x517.jpg",
+      "summary": "『荣耀 Magic9 系列销量破 50 万 / 新配色将至』 知名数码博主 数码闲聊站 今日爆料称，截至目前，荣耀 Magic9 系列累计销量已突破 50 万台，处本代安卓旗舰第一位置。 此外他还表示，荣耀后续将为该系列推出新配色（含一款“红色”），并同步上线摄影大师套装。 #今日热点# #荣耀Magic9# #荣耀Magic9超能版#",
+      "tags": [
+        "HONOR",
+        "爆料",
         "酷安博主"
+      ]
+    },
+    {
+      "id": "weibo-3b1248ce4d19",
+      "title": "数码闲聊站：耀子Magic9系列累计销量50W+，目前安卓冠军，后面还会出新配色，目前摸到…",
+      "source": "数码闲聊站",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-10",
+      "time": "04:32",
+      "publishedAt": "2026-11-10T04:32:00.000Z",
+      "url": "https://weibo.com/6048569942/RqIGmq3MJ",
+      "image": "",
+      "summary": "耀子Magic9系列累计销量50W+，目前安卓冠军，后面还会出新配色，目前摸到一个「红色」，并会同步上线摄影大师套装，可能还会再冲一波[吃瓜]",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "微博"
       ]
     },
     {
@@ -55,66 +375,6 @@ window.phoneRadarAuto = {
       "url": "https://www.gizmochina.com/2026/11/10/vivo-x500-ultra-sony-lyt-l910-lofic-sensor-main-ultrawide-camera-leak/",
       "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/vivo-X300-Ultra-Review_1.mp4_20260408_143941.449-1024x512-1-300x169.jpg?x96268",
       "summary": "Digital Chat Station shared new camera details about an upcoming Ultra flagship today. It is likely the Vivo X500 Ultra, based on the tipster’s habits. Here is what the post says.…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1b88f9ee8e95",
-      "title": "魅族 Flyme AIOS 官宣「超级 Aicy」已上线，支持通话助手、出行管家、主动备车等",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-10",
-      "time": "02:13",
-      "publishedAt": "2026-11-10T02:13:23.000Z",
-      "url": "https://www.ithome.com/1/024/641.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/666e08da-a9df-42e0-b67e-67648abcd189.jpg",
-      "summary": "IT之家 11 月 10 日消息，魅族 Flyme AIOS 今日宣布，一位 24 小时在线、技能满点的赛博搭子 ——「超级 Aicy」已上线。 IT之家附主要功能如下： 通话助手：指定人、指定场景代接，还能自定义回复要求 出行管家：高铁、飞机、酒店，查询-对比-预定一步到位；说出目的地，打车、导航即刻出发；周边地点随手查，一键跳转地图看路线。 办公助手：…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ed0157e32a70",
-      "title": "6999 元，“第二代豆包手机”努比亚 NaviX Ultra 星空典藏版开启预售",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-10",
-      "time": "02:02",
-      "publishedAt": "2026-11-10T02:02:40.000Z",
-      "url": "https://www.ithome.com/1/024/624.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/1782fce8-a27e-43e9-be88-9f75d0a239fb.jpg",
-      "summary": "IT之家 11 月 10 日消息，努比亚今日宣布 NaviX Ultra 星空典藏版将于 10:00 开启预售，11 月 16 日 10:00 正式开售。IT之家查询获悉，新品售价 6999 元，仅提供 16GB+512GB 一个版本。 据此前官方介绍， 努比亚 NaviX Ultra 手机的“星空典藏版”采用 微纳米浮雕工艺 ，灵感源自梵高《星空》。官方…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b8643a96cfb3",
-      "title": "消息称某厂骁龙 8EE6 超大杯超广角最高测试 LYT-L910，预计为 vivo X500 Ultra",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-10",
-      "time": "01:25",
-      "publishedAt": "2026-11-10T01:25:32.000Z",
-      "url": "https://www.ithome.com/1/024/613.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/9038fb18-450c-4201-bcfa-96a34fc2d704.png",
-      "summary": "IT之家 11 月 10 日消息，据博主 @数码闲聊站 今日爆料，某厂骁龙 8EE6 超大杯搭载 50Mp 1/1.28\" 超大底超广角，工程机 CIS 最高测试索尼 LYT-L910。 据其透露，该机有望集齐 LYT-L910 主摄 +LYT-L910 超广角 +HPU 潜望镜，行业唯一 LOFIC / DeepPix 全高动态全大底影像。结合该博主的爆…",
       "tags": [
         "vivo",
         "爆料",
@@ -282,21 +542,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-886dac2503c0",
-      "title": "#一加Ace7Pro# #小米17Max# #OPPOFindX8Ultra# 手搓了一个拦截软件，大家感兴趣吗？感兴趣我考虑深度优化，排查后发一个版本出来让大家使用[受虐滑稽][受虐滑稽]",
+      "id": "newsnow-d24fd87041de",
+      "title": "Iphone Duo 最佳壁纸",
       "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-11-10",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74955547",
+      "url": "https://www.coolapk.com/feed/74960025",
       "image": "",
-      "summary": "#一加Ace7Pro# #小米17Max# #OPPOFindX8Ultra# 手搓了一个拦截软件，大家感兴趣吗？感兴趣我考虑深度优化，排查后发一个版本出来让大家使用[受虐滑稽][受虐滑稽]",
+      "summary": "Iphone Duo 最佳壁纸",
       "tags": [
-        "Xiaomi",
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -522,26 +782,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-b9776228db69",
-      "title": "Leaker Envisions a Shorter iPhone With a New iOS Layout",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-09",
-      "time": "14:34",
-      "publishedAt": "2026-11-09T14:34:16.000Z",
-      "url": "https://www.macrumors.com/2026/11/09/leaker-envisions-shorter-iphone/",
-      "image": "https://images.macrumors.com/article-new/2026/11/iphone-duo-yellow-hand.jpeg",
-      "summary": "A future iPhone could keep its current width while becoming shorter, with iOS preserving room for content by moving some controls into the status bar, in a theory shared by the We…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-f622bdde3343",
       "title": "Should you get an iPhone 17 now or wait for the iPhone 18 launch?",
       "source": "Gizmochina",
@@ -562,26 +802,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-ccdb4c7333a5",
-      "title": "Samsung releases new updates for Galaxy Z Fold 6, Z Flip 6",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-09",
-      "time": "11:30",
-      "publishedAt": "2026-11-09T11:30:51.000Z",
-      "url": "https://www.sammobile.com/news/samsung-releases-new-updates-galaxy-z-fold-6-z-flip-6/",
-      "image": "",
-      "summary": "In the last few days, Samsung has released software updates for several of its smartphones with an identical changelog. Now, the brand has started rolling out updates with the sam…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-acd5ba1a0722",
       "title": "After 3 months with the Pixel 11 Pro, there’s no other Android phone I’d rather use",
       "source": "Android Authority",
@@ -597,26 +817,6 @@ window.phoneRadarAuto = {
       "summary": "Yep, the Pixel 11 Pro is still great.",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d80ad447b0f0",
-      "title": "Here’s what the new Galaxy S24 update brings",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-09",
-      "time": "11:08",
-      "publishedAt": "2026-11-09T11:08:55.000Z",
-      "url": "https://www.sammobile.com/news/heres-what-the-new-galaxy-s24-update-brings/",
-      "image": "",
-      "summary": "Samsung has released a new software update for the Galaxy S24 series. Considering that the update is coming out in November, people may think that it brings the November 2026 secu…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
