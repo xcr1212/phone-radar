@@ -1,6 +1,386 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-11-09T20:42:39.787Z",
+  "updatedAt": "2026-11-10T04:05:44.174Z",
   "news": [
+    {
+      "id": "auto-5a8e0077aaf4",
+      "title": "消息称 Pro 和 Ultra 版占据三星 Galaxy S27 系列智能手机七成规划出货量",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-10",
+      "time": "03:53",
+      "publishedAt": "2026-11-10T03:53:51.000Z",
+      "url": "https://www.ithome.com/1/024/741.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/cf41d1ad-e234-4d1e-91b0-e7d594a81605.jpg",
+      "summary": "IT之家 11 月 10 日消息，韩媒 ETNEWS 当地时间昨日报道称，在三星电子 MX（移动体验）业务的规划中， Pro 和 Ultra 两个高阶版本将 Galaxy S27 系列智能手机整体出货量的七成左右 。 三星电子的 Galaxy S 系列旗舰手机年产能通常在 3500 万部上下，今年的情况也是如此。其中，高端的 Ultra 系列约占 1800…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-1f0fd46fd07c",
+      "title": "竹本青：【OPPO Reno系列 2026冬日限定曲上线】 OPPO今天宣布，由宋雨琦演绎，Reno系列2026冬日限定曲…",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-10",
+      "time": "03:51",
+      "publishedAt": "2026-11-10T03:51:30.000Z",
+      "url": "https://www.coolapk.com/feed/74969207",
+      "image": "http://image.coolapk.com/feed/2026/1110/11/4248714_254afca2_2689_4536_106@1440x1920.jpg",
+      "summary": "【OPPO Reno系列 2026冬日限定曲上线】 OPPO今天宣布，由宋雨琦演绎，Reno系列2026冬日限定曲《Reno My Color》，现已上线QQ音乐、网易云音乐、汽水音乐等平台。 #今日热点# #ColorOS17# #OPPOReno17#",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-3bde9b912758",
+      "title": "Vivo X500 Ultra may put Sony’s LOFIC sensor behind two of its three cameras",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-10",
+      "time": "02:27",
+      "publishedAt": "2026-11-10T02:27:23.000Z",
+      "url": "https://www.gizmochina.com/2026/11/10/vivo-x500-ultra-sony-lyt-l910-lofic-sensor-main-ultrawide-camera-leak/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/vivo-X300-Ultra-Review_1.mp4_20260408_143941.449-1024x512-1-300x169.jpg?x96268",
+      "summary": "Digital Chat Station shared new camera details about an upcoming Ultra flagship today. It is likely the Vivo X500 Ultra, based on the tipster’s habits. Here is what the post says.…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1b88f9ee8e95",
+      "title": "魅族 Flyme AIOS 官宣「超级 Aicy」已上线，支持通话助手、出行管家、主动备车等",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-10",
+      "time": "02:13",
+      "publishedAt": "2026-11-10T02:13:23.000Z",
+      "url": "https://www.ithome.com/1/024/641.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/666e08da-a9df-42e0-b67e-67648abcd189.jpg",
+      "summary": "IT之家 11 月 10 日消息，魅族 Flyme AIOS 今日宣布，一位 24 小时在线、技能满点的赛博搭子 ——「超级 Aicy」已上线。 IT之家附主要功能如下： 通话助手：指定人、指定场景代接，还能自定义回复要求 出行管家：高铁、飞机、酒店，查询-对比-预定一步到位；说出目的地，打车、导航即刻出发；周边地点随手查，一键跳转地图看路线。 办公助手：…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ed0157e32a70",
+      "title": "6999 元，“第二代豆包手机”努比亚 NaviX Ultra 星空典藏版开启预售",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-10",
+      "time": "02:02",
+      "publishedAt": "2026-11-10T02:02:40.000Z",
+      "url": "https://www.ithome.com/1/024/624.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/1782fce8-a27e-43e9-be88-9f75d0a239fb.jpg",
+      "summary": "IT之家 11 月 10 日消息，努比亚今日宣布 NaviX Ultra 星空典藏版将于 10:00 开启预售，11 月 16 日 10:00 正式开售。IT之家查询获悉，新品售价 6999 元，仅提供 16GB+512GB 一个版本。 据此前官方介绍， 努比亚 NaviX Ultra 手机的“星空典藏版”采用 微纳米浮雕工艺 ，灵感源自梵高《星空》。官方…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b8643a96cfb3",
+      "title": "消息称某厂骁龙 8EE6 超大杯超广角最高测试 LYT-L910，预计为 vivo X500 Ultra",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-10",
+      "time": "01:25",
+      "publishedAt": "2026-11-10T01:25:32.000Z",
+      "url": "https://www.ithome.com/1/024/613.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/9038fb18-450c-4201-bcfa-96a34fc2d704.png",
+      "summary": "IT之家 11 月 10 日消息，据博主 @数码闲聊站 今日爆料，某厂骁龙 8EE6 超大杯搭载 50Mp 1/1.28\" 超大底超广角，工程机 CIS 最高测试索尼 LYT-L910。 据其透露，该机有望集齐 LYT-L910 主摄 +LYT-L910 超广角 +HPU 潜望镜，行业唯一 LOFIC / DeepPix 全高动态全大底影像。结合该博主的爆…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-dc5bcc7c2eb5",
+      "title": "JSCHEN小小狐：vivo X500 Ultra影像曝光：全高动态全大底",
+      "source": "JSCHEN小小狐",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-10",
+      "time": "01:10",
+      "publishedAt": "2026-11-10T01:10:28.000Z",
+      "url": "https://www.coolapk.com/feed/74965898",
+      "image": "http://image.coolapk.com/feed/2026/1110/09/4702274_eb76d22c_3026_9419_148@1440x798.jpg",
+      "summary": "『vivo X500 Ultra 影像曝光：全高动态全大底』 主摄｜50MP 1/1.28\" LYTIA L910 - LOFIC，35mm，云台级 OIS 潜望｜200MP 1/1.12\" S5KHPU - DeepPix 超高动态技术 超广｜50MP 1/1.28\" LYTIA L910 - LOFIC，“最高测试版本” 其他曝光参数： ◇ 骁龙 8…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-bfd196d7caed",
+      "title": "iPhone Duo arrives at Apple Store locations worldwide",
+      "source": "Apple Newsroom",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-11-10",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.apple.com/newsroom/2026/10/iphone-duo-arrives-at-apple-store-locations-worldwide/",
+      "image": "",
+      "summary": "On Friday, October 23, the highly anticipated iPhone Duo made its debut at Apple Store locations worldwide.",
+      "tags": [
+        "iPhone",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a89f115eb254",
+      "title": "Apple announces American Manufacturing Program partners for latest iPhone lineup",
+      "source": "Apple Newsroom",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-11-10",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-announces-american-manufacturing-program-partners-for-latest-iphone-lineup/",
+      "image": "",
+      "summary": "Apple announced new and expanded partnerships with American companies that are supplying critical materials and components for iPhone Duo and iPhone 18 Pro.",
+      "tags": [
+        "iPhone",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "newsnow-5a3081a9a14c",
+      "title": "iPhone 变强了，但我没有",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-11-10",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/118250",
+      "image": "",
+      "summary": "iPhone 变强了，但我没有",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-2419fd7e67c3",
+      "title": "一日一技｜iPhone 恶意被锁，线上移除流程拆招",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-11-10",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/116686",
+      "image": "",
+      "summary": "一日一技｜iPhone 恶意被锁，线上移除流程拆招",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-8d0b6b36d305",
+      "title": "怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-11-10",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/116991",
+      "image": "",
+      "summary": "怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-8c9ac410ef88",
+      "title": "宴请年少时候的自己[坏笑]，下次假期和女朋友去海滨公园玩。把存图都发了#手机摄影# #人像摄影# #我在酷安晒女友#",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-10",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74957967",
+      "image": "",
+      "summary": "宴请年少时候的自己[坏笑]，下次假期和女朋友去海滨公园玩。把存图都发了#手机摄影# #人像摄影# #我在酷安晒女友#",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-2919e51f4bee",
+      "title": "#酷安夜话# 刷到酷友说女友被上司追 还送苹果手机 女友不舍得离职之类的帖子 感慨万千 [二哈] 现在想想 我老婆当初没选开揽子的富二代而选择我 放现在岂不是科幻片[笑哭]#初恋这件小事#",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-10",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74962029",
+      "image": "",
+      "summary": "#酷安夜话# 刷到酷友说女友被上司追 还送苹果手机 女友不舍得离职之类的帖子 感慨万千 [二哈] 现在想想 我老婆当初没选开揽子的富二代而选择我 放现在岂不是科幻片[笑哭]#初恋这件小事#",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-886dac2503c0",
+      "title": "#一加Ace7Pro# #小米17Max# #OPPOFindX8Ultra# 手搓了一个拦截软件，大家感兴趣吗？感兴趣我考虑深度优化，排查后发一个版本出来让大家使用[受虐滑稽][受虐滑稽]",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-10",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74955547",
+      "image": "",
+      "summary": "#一加Ace7Pro# #小米17Max# #OPPOFindX8Ultra# 手搓了一个拦截软件，大家感兴趣吗？感兴趣我考虑深度优化，排查后发一个版本出来让大家使用[受虐滑稽][受虐滑稽]",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "auto-d68c8728e4a0",
+      "title": "Samsung Galaxy S27 series camera specs leak, and they’re disappointing",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-09",
+      "time": "23:20",
+      "publishedAt": "2026-11-09T23:20:00.000Z",
+      "url": "https://9to5google.com/2026/11/09/samsung-galaxy-s27-series-camera-specs-leak-and-theyre-disappointing/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Galaxy-S26-camera-1.jpg?quality=82&strip=all&w=1600",
+      "summary": "New leaks reveal the camera specs for Samsung’s upcoming Galaxy S27 series which includes three lenses across the lineup, but not the upgrades you want, nor what Ultra owners migh…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3612cd963ffe",
+      "title": "PIxel 10a is now $450 for a limited time",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-09",
+      "time": "22:40",
+      "publishedAt": "2026-11-09T22:40:12.000Z",
+      "url": "https://www.androidpolice.com/the-pixel-10a-is-now-cheaper-than-it-was-at-launch/",
+      "image": "",
+      "summary": "This is the discount we've been waiting for.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d8f2047d8e2d",
+      "title": "Samsung has big plans for the Galaxy S27 Pro and Ultra, but it's bad news for the base models",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-11-09",
+      "time": "21:30",
+      "publishedAt": "2026-11-09T21:30:12.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-is-betting-big-on-galaxy-s27-pro-and-galaxy-s27-ultra",
+      "image": "https://cdn.mos.cms.futurecdn.net/YEPnpMWbsBwfNbbUzGaFdL-1920-80.jpg",
+      "summary": "Samsung reportedly expects big things from the Galaxy S27 Pro.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e747ceca8a9f",
+      "title": "Keeping Flex Mode and the Galaxy Z Fold 8 separate might’ve been Samsung’s most inspired idea",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-09",
+      "time": "20:50",
+      "publishedAt": "2026-11-09T20:50:41.000Z",
+      "url": "https://www.sammobile.com/opinion/keeping-flex-mode-galaxy-z-fold-8-separate-samsung-inspired-idea/",
+      "image": "",
+      "summary": "I was a little disappointed to learn that the Galaxy Z Fold 8 didn't have Flex Mode. After all, the Galaxy Z Fold 8 is my first daily foldable, and I wanted to experience Samsung'…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-b6ef1167c121",
       "title": "Samsung is focusing 70% of its Galaxy S27 production on the Ultra and Pro",
@@ -37,26 +417,6 @@ window.phoneRadarAuto = {
       "summary": "From the base model S26 to the super-powered S26 Ultra.",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d118edf4cdc6",
-      "title": "James Gunn is out as DC movie leader",
-      "source": "The Verge",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-09",
-      "time": "18:49",
-      "publishedAt": "2026-11-09T18:49:01.000Z",
-      "url": "https://www.theverge.com/entertainment/1030022/james-gunn-peter-safran-dc-studios-out-leaving",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2299570592.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "Soon, James Gunn and Peter Safran will no longer head up Skydance's DC Studios. After taking the helm of DC Studios as co-CEOs in 2022, Gunn and Safran are being replaced by forme…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -182,26 +542,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-3f04005393ed",
-      "title": "Motorola’s flexing with its answer to the Galaxy Z Fold 8",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-09",
-      "time": "14:09",
-      "publishedAt": "2026-11-09T14:09:01.000Z",
-      "url": "https://www.androidpolice.com/motorolas-answer-to-the-z-fold-8-finally-has-a-name/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/08/galaxy-z-fold-8-moto-razr-back.JPG",
-      "summary": "Motorola's long-awaited answer to the Z Fold 8 may finally have a name, according to an official source.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-f622bdde3343",
       "title": "Should you get an iPhone 17 now or wait for the iPhone 18 launch?",
       "source": "Gizmochina",
@@ -215,46 +555,6 @@ window.phoneRadarAuto = {
       "url": "https://www.gizmochina.com/2026/11/09/should-you-get-iphone-17-now-or-wait-for-iphone-18-launch/",
       "image": "https://www.gizmochina.com/wp-content/uploads/2026/04/iphone-17-300x169.jpg?x96268",
       "summary": "Should you buy the iPhone 17 or wait for the iPhone 18? Compare leaked upgrades, chip performance, battery improvements, and expected price hikes. The post Should you get an iPhon…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-717f8ae4e86c",
-      "title": "iPhone 18e Could Feature Bigger Display and Battery",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-09",
-      "time": "12:45",
-      "publishedAt": "2026-11-09T12:45:29.000Z",
-      "url": "https://www.macrumors.com/2026/11/09/iphone-18e-bigger-display-and-battery/",
-      "image": "https://images.macrumors.com/article-new/2026/03/Apple-iPhone-17e-feature.jpg",
-      "summary": "Apple's standard iPhone 18 and the lower-cost iPhone 18e will both feature 6.3-inch displays and use the same battery, according to the leaker known as \" Fixed Focus Digital .\" In…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-eccb8a682f45",
-      "title": "大疆 Osmo Pocket 4P 云台相机固件更新：解锁 18 倍变焦、iPhone 即拍即传等功能",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-09",
-      "time": "12:42",
-      "publishedAt": "2026-11-09T12:42:21.000Z",
-      "url": "https://www.ithome.com/1/024/524.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/3b305a09-f713-4819-954c-bd9958cdd20d.jpg",
-      "summary": "IT之家 11 月 9 日消息，大疆今天（9 日）晚间宣布，云台相机 Osmo Pocket 4P 获得固件更新，版本号为 V01.02.11.49，四大功能一次解锁： 18 倍变焦、新增场景预设、iPhone 即拍即传、Livephoto 玩法升级 。 IT之家从官方获悉，此次新增的 18 倍变焦功能，拍照、录像都能用，不过不支持慢动作、延时摄影模式下使…",
       "tags": [
         "iPhone",
         "爆料",
@@ -319,46 +619,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-a34194b61660",
-      "title": "竹本青：OPPO、vivo、小米、荣耀在大陆上线ADV开发者验证",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-09",
-      "time": "10:13",
-      "publishedAt": "2026-11-09T10:13:36.000Z",
-      "url": "https://www.coolapk.com/feed/74954535",
-      "image": "http://image.coolapk.com/feed/2026/1109/18/4248714_5047cadf_9215_2476_176@1200x1600.jpg",
-      "summary": "【OPPO、vivo、小米、荣耀在中国大陆上线ADV开发者验证】 11月9日，据移动智能终端生态联盟，当前侧载应用暂无统一的开发者实名管理机制，恶意、仿冒及诈骗类应用难以溯源。用户安装未经核验的侧载应用，存在财产损失、隐私泄露、诱导消费等安全风险。 OPPO、vivo、小米、荣耀推出 Android 侧载应用开发者身份验证（Android Develope…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-6a92f23bda1e",
-      "title": "竹本青：博主曝光阔折叠品类销量：苹果10天卖出26.4万台",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-09",
-      "time": "09:35",
-      "publishedAt": "2026-11-09T09:35:57.000Z",
-      "url": "https://www.coolapk.com/feed/74953888",
-      "image": "http://image.coolapk.com/feed/2026/1109/17/4248714_ca484ff2_6986_4891_66@1270x571.jpg",
-      "summary": "【博主曝光阔折叠品类销量：iPhone Duo开售10天卖出26.4万台】 11月9日，博主数码闲聊站分享，目前市场在售的阔折叠手机品类累计销量： iPhone Duo——26.4W±(开售10天) 华为Pura X Max/典藏版——117.4W±(开售191天) 小米18 Fold——11.9W±(开售53天) 三星Galaxy Z Fold 8——7…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -519,166 +779,6 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-bfd196d7caed",
-      "title": "iPhone Duo arrives at Apple Store locations worldwide",
-      "source": "Apple Newsroom",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "官方",
-      "trust": "官方确认",
-      "date": "2026-11-09",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.apple.com/newsroom/2026/10/iphone-duo-arrives-at-apple-store-locations-worldwide/",
-      "image": "",
-      "summary": "On Friday, October 23, the highly anticipated iPhone Duo made its debut at Apple Store locations worldwide.",
-      "tags": [
-        "iPhone",
-        "官方",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a89f115eb254",
-      "title": "Apple announces American Manufacturing Program partners for latest iPhone lineup",
-      "source": "Apple Newsroom",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "官方",
-      "trust": "官方确认",
-      "date": "2026-11-09",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-announces-american-manufacturing-program-partners-for-latest-iphone-lineup/",
-      "image": "",
-      "summary": "Apple announced new and expanded partnerships with American companies that are supplying critical materials and components for iPhone Duo and iPhone 18 Pro.",
-      "tags": [
-        "iPhone",
-        "官方",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "newsnow-791b0889a4d2",
-      "title": "一日一技｜iPhone 恶意被锁，线上移除流程拆招",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-11-09",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/116686",
-      "image": "",
-      "summary": "一日一技｜iPhone 恶意被锁，线上移除流程拆招",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-506dbaecce70",
-      "title": "怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-11-09",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/116991",
-      "image": "",
-      "summary": "怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-e3b4e1db9acb",
-      "title": "宴请年少时候的自己[坏笑]，下次假期和女朋友去海滨公园玩。把存图都发了#手机摄影# #人像摄影# #我在酷安晒女友#",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-09",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74957967",
-      "image": "",
-      "summary": "宴请年少时候的自己[坏笑]，下次假期和女朋友去海滨公园玩。把存图都发了#手机摄影# #人像摄影# #我在酷安晒女友#",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-e93f908d78d3",
-      "title": "#一加Ace7Pro# #小米17Max# #OPPOFindX8Ultra# 手搓了一个拦截软件，大家感兴趣吗？感兴趣我考虑深度优化，排查后发一个版本出来让大家使用[受虐滑稽][受虐滑稽]",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-09",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74955547",
-      "image": "",
-      "summary": "#一加Ace7Pro# #小米17Max# #OPPOFindX8Ultra# 手搓了一个拦截软件，大家感兴趣吗？感兴趣我考虑深度优化，排查后发一个版本出来让大家使用[受虐滑稽][受虐滑稽]",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-e9f8ccf5dfd8",
-      "title": "王子璇手机型号",
-      "source": "微博热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-11-09",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AD%90%E7%92%87%E6%89%8B%E6%9C%BA%E5%9E%8B%E5%8F%B7%23&t=31&band_rank=21&Refer=top",
-      "image": "",
-      "summary": "王子璇手机型号",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-2ea18c8f335f",
-      "title": "Galaxy S27 clears BIS ahead of early 2027 launch",
-      "source": "Gizmochina",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-08",
-      "time": "20:09",
-      "publishedAt": "2026-11-08T20:09:43.000Z",
-      "url": "https://www.gizmochina.com/2026/11/08/galaxy-s27-clears-bis-ahead-of-early-2027-launch/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/galaxy-s27-bis-2-300x169.jpg?x96268",
-      "summary": "BIS filings don’t usually spill a lot of hardware details, but this same model number has already shown up in other databases. The post Galaxy S27 clears BIS ahead of early 2027 l…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
       ]
     }
   ]

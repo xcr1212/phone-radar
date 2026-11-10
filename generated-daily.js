@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-11-09T20:42:39.787Z",
-  "issueDate": "2026-11-09",
-  "issue": "VOL.261109",
+  "updatedAt": "2026-11-10T04:05:44.174Z",
+  "issueDate": "2026-11-10",
+  "issue": "VOL.261110",
   "title": "手机情报日报",
-  "intro": "今日筛出 20 条重点，其中 8 条是重点爆料，包含 10 条 iPhone 相关、2 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 10 条 iPhone 相关、2 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 20,
+    "total": 18,
     "iphone": 10,
     "leaks": 8,
     "official": 2,
@@ -17,29 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-eccb8a682f45",
-          "title": "大疆 Osmo Pocket 4P 云台相机固件更新：解锁 18 倍变焦、iPhone 即拍即传等功能",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-11-09",
-          "time": "12:42",
-          "publishedAt": "2026-11-09T12:42:21.000Z",
-          "url": "https://www.ithome.com/1/024/524.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/3b305a09-f713-4819-954c-bd9958cdd20d.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 11 月 9 日消息，大疆今天（9 日）晚间宣布，云台相机 Osmo Pocket 4P 获得固件更新，版本号为 V01.02.11.49，四大功能一次解锁： 18 倍变焦、新增场景预设、iPhone 即拍即传、Livephoto 玩法升级 。 IT之家从官方获悉，此次新增的 18 倍变焦功能，拍照、录像都能用，不过不支持慢动作、延时摄影模式下使…",
-          "detail": "IT之家 11 月 9 日消息，大疆今天（9 日）晚间宣布，云台相机 Osmo Pocket 4P 获得固件更新，版本号为 V01.02.11.49，四大功能一次解锁： 18 倍变焦、新增场景预设、iPhone 即拍即传、Livephoto 玩法升级 。 IT之家从官方获悉，此次新增的 18 倍变焦功能，拍照、录像都能用，不过不支持慢动作、延时摄影模式下使…",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "auto-22f1f579326a",
           "title": "iPhone 发布 / 上市相关消息",
@@ -136,32 +113,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-717f8ae4e86c",
-          "title": "iPhone 18e 电池 / 充电相关消息",
-          "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-11-09",
-          "time": "12:45",
-          "publishedAt": "2026-11-09T12:45:29.000Z",
-          "url": "https://www.macrumors.com/2026/11/09/iphone-18e-bigger-display-and-battery/",
-          "image": "https://images.macrumors.com/article-new/2026/03/Apple-iPhone-17e-feature.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 18e 电池 / 充电相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 18e 电池 / 充电相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "屏幕形态",
-            "电池 / 充电",
-            "成本 / 价格",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "coolapk-user-8f1ce5f44d55",
           "title": "JSCHEN小小狐：『博主曝光华为星芒 OSTA O1 Pro 正面渲染图』 知名数码博主 数码闲聊站 今日曝光了华为全新子品牌「星芒…",
           "originalTitle": "",
@@ -180,6 +131,53 @@ window.phoneRadarDaily = {
           "keyPoints": [
             "外观 / 配色 / 尺寸",
             "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-5a8e0077aaf4",
+          "title": "消息称 Pro 和 Ultra 版占据三星 Galaxy S27 系列智能手机七成规划出货量",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-11-10",
+          "time": "03:53",
+          "publishedAt": "2026-11-10T03:53:51.000Z",
+          "url": "https://www.ithome.com/1/024/741.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/cf41d1ad-e234-4d1e-91b0-e7d594a81605.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 11 月 10 日消息，韩媒 ETNEWS 当地时间昨日报道称，在三星电子 MX（移动体验）业务的规划中， Pro 和 Ultra 两个高阶版本将 Galaxy S27 系列智能手机整体出货量的七成左右 。 三星电子的 Galaxy S 系列旗舰手机年产能通常在 3500 万部上下，今年的情况也是如此。其中，高端的 Ultra 系列约占 1800…",
+          "detail": "IT之家 11 月 10 日消息，韩媒 ETNEWS 当地时间昨日报道称，在三星电子 MX（移动体验）业务的规划中， Pro 和 Ultra 两个高阶版本将 Galaxy S27 系列智能手机整体出货量的七成左右 。 三星电子的 Galaxy S 系列旗舰手机年产能通常在 3500 万部上下，今年的情况也是如此。其中，高端的 Ultra 系列约占 1800…",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-b8643a96cfb3",
+          "title": "消息称某厂骁龙 8EE6 超大杯超广角最高测试 LYT-L910，预计为 vivo X500 Ultra",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "vivo",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-11-10",
+          "time": "01:25",
+          "publishedAt": "2026-11-10T01:25:32.000Z",
+          "url": "https://www.ithome.com/1/024/613.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/9038fb18-450c-4201-bcfa-96a34fc2d704.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 11 月 10 日消息，据博主 @数码闲聊站 今日爆料，某厂骁龙 8EE6 超大杯搭载 50Mp 1/1.28\" 超大底超广角，工程机 CIS 最高测试索尼 LYT-L910。 据其透露，该机有望集齐 LYT-L910 主摄 +LYT-L910 超广角 +HPU 潜望镜，行业唯一 LOFIC / DeepPix 全高动态全大底影像。结合该博主的爆…",
+          "detail": "IT之家 11 月 10 日消息，据博主 @数码闲聊站 今日爆料，某厂骁龙 8EE6 超大杯搭载 50Mp 1/1.28\" 超大底超广角，工程机 CIS 最高测试索尼 LYT-L910。 据其透露，该机有望集齐 LYT-L910 主摄 +LYT-L910 超广角 +HPU 潜望镜，行业唯一 LOFIC / DeepPix 全高动态全大底影像。结合该博主的爆…",
+          "keyPoints": [
+            "影像硬件",
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
@@ -217,6 +215,52 @@ window.phoneRadarDaily = {
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
         {
+          "id": "auto-1b88f9ee8e95",
+          "title": "魅族 Flyme AIOS 官宣「超级 Aicy」已上线，支持通话助手、出行管家、主动备车等",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-11-10",
+          "time": "02:13",
+          "publishedAt": "2026-11-10T02:13:23.000Z",
+          "url": "https://www.ithome.com/1/024/641.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/666e08da-a9df-42e0-b67e-67648abcd189.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 11 月 10 日消息，魅族 Flyme AIOS 今日宣布，一位 24 小时在线、技能满点的赛博搭子 ——「超级 Aicy」已上线。 IT之家附主要功能如下： 通话助手：指定人、指定场景代接，还能自定义回复要求 出行管家：高铁、飞机、酒店，查询-对比-预定一步到位；说出目的地，打车、导航即刻出发；周边地点随手查，一键跳转地图看路线。 办公助手：…",
+          "detail": "IT之家 11 月 10 日消息，魅族 Flyme AIOS 今日宣布，一位 24 小时在线、技能满点的赛博搭子 ——「超级 Aicy」已上线。 IT之家附主要功能如下： 通话助手：指定人、指定场景代接，还能自定义回复要求 出行管家：高铁、飞机、酒店，查询-对比-预定一步到位；说出目的地，打车、导航即刻出发；周边地点随手查，一键跳转地图看路线。 办公助手：…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
+          "id": "newsnow-2919e51f4bee",
+          "title": "#酷安夜话# 刷到酷友说女友被上司追 还送苹果手机 女友不舍得离职之类的帖子 感慨万千 [二哈] 现在想想 我老婆当初没选开揽子的富二代而选择我 放现在岂不是科幻片[笑哭]#初恋这件小事#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-11-10",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/74962029",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "#酷安夜话# 刷到酷友说女友被上司追 还送苹果手机 女友不舍得离职之类的帖子 感慨万千 [二哈] 现在想想 我老婆当初没选开揽子的富二代而选择我 放现在岂不是科幻片[笑哭]#初恋这件小事#",
+          "detail": "#酷安夜话# 刷到酷友说女友被上司追 还送苹果手机 女友不舍得离职之类的帖子 感慨万千 [二哈] 现在想想 我老婆当初没选开揽子的富二代而选择我 放现在岂不是科幻片[笑哭]#初恋这件小事#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "auto-bfd196d7caed",
           "title": "iPhone 相关消息",
           "originalTitle": "",
@@ -224,7 +268,7 @@ window.phoneRadarDaily = {
           "brand": "iPhone",
           "type": "官方",
           "trust": "官方确认",
-          "date": "2026-11-09",
+          "date": "2026-11-10",
           "time": "",
           "publishedAt": "",
           "url": "https://www.apple.com/newsroom/2026/10/iphone-duo-arrives-at-apple-store-locations-worldwide/",
@@ -247,7 +291,7 @@ window.phoneRadarDaily = {
           "brand": "iPhone",
           "type": "官方",
           "trust": "官方确认",
-          "date": "2026-11-09",
+          "date": "2026-11-10",
           "time": "",
           "publishedAt": "",
           "url": "https://www.apple.com/newsroom/2026/10/apple-announces-american-manufacturing-program-partners-for-latest-iphone-lineup/",
@@ -263,14 +307,37 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-791b0889a4d2",
+          "id": "newsnow-5a3081a9a14c",
+          "title": "iPhone 变强了，但我没有",
+          "originalTitle": "",
+          "source": "少数派热榜",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-11-10",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/118250",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "iPhone 变强了，但我没有",
+          "detail": "iPhone 变强了，但我没有",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-2419fd7e67c3",
           "title": "一日一技｜iPhone 恶意被锁，线上移除流程拆招",
           "originalTitle": "",
           "source": "少数派热榜",
           "brand": "iPhone",
           "type": "评测",
           "trust": "媒体汇总",
-          "date": "2026-11-09",
+          "date": "2026-11-10",
           "time": "",
           "publishedAt": "",
           "url": "https://sspai.com/post/116686",
@@ -284,82 +351,6 @@ window.phoneRadarDaily = {
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-506dbaecce70",
-          "title": "怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」",
-          "originalTitle": "",
-          "source": "少数派热榜",
-          "brand": "iPhone",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-11-09",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://sspai.com/post/116991",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」",
-          "detail": "怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」",
-          "keyPoints": [
-            "评测"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "launch",
-      "title": "新机与官方发布",
-      "hint": "能直接更新到参数库。",
-      "items": [
-        {
-          "id": "auto-3f04005393ed",
-          "title": "Samsung 折叠屏相关消息",
-          "originalTitle": "",
-          "source": "Android Police",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-11-09",
-          "time": "14:09",
-          "publishedAt": "2026-11-09T14:09:01.000Z",
-          "url": "https://www.androidpolice.com/motorolas-answer-to-the-z-fold-8-finally-has-a-name/",
-          "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/08/galaxy-z-fold-8-moto-razr-back.JPG",
-          "verdict": "可略过",
-          "takeaway": "Samsung 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-d80ad447b0f0",
-          "title": "Galaxy S24 功能更新或覆盖范围扩大",
-          "originalTitle": "",
-          "source": "SamMobile",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-11-09",
-          "time": "11:08",
-          "publishedAt": "2026-11-09T11:08:55.000Z",
-          "url": "https://www.sammobile.com/news/heres-what-the-new-galaxy-s24-update-brings/",
-          "image": "",
-          "verdict": "可略过",
-          "takeaway": "Galaxy S24 功能更新或覆盖范围扩大。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Galaxy S24 功能更新或覆盖范围扩大。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     },
@@ -369,14 +360,37 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "newsnow-e3b4e1db9acb",
+          "id": "auto-ed0157e32a70",
+          "title": "6999 元，“第二代豆包手机”努比亚 NaviX Ultra 星空典藏版开启预售",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-11-10",
+          "time": "02:02",
+          "publishedAt": "2026-11-10T02:02:40.000Z",
+          "url": "https://www.ithome.com/1/024/624.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/1782fce8-a27e-43e9-be88-9f75d0a239fb.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "IT之家 11 月 10 日消息，努比亚今日宣布 NaviX Ultra 星空典藏版将于 10:00 开启预售，11 月 16 日 10:00 正式开售。IT之家查询获悉，新品售价 6999 元，仅提供 16GB+512GB 一个版本。 据此前官方介绍， 努比亚 NaviX Ultra 手机的“星空典藏版”采用 微纳米浮雕工艺 ，灵感源自梵高《星空》。官方…",
+          "detail": "IT之家 11 月 10 日消息，努比亚今日宣布 NaviX Ultra 星空典藏版将于 10:00 开启预售，11 月 16 日 10:00 正式开售。IT之家查询获悉，新品售价 6999 元，仅提供 16GB+512GB 一个版本。 据此前官方介绍， 努比亚 NaviX Ultra 手机的“星空典藏版”采用 微纳米浮雕工艺 ，灵感源自梵高《星空》。官方…",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
+          "id": "newsnow-8c9ac410ef88",
           "title": "宴请年少时候的自己[坏笑]，下次假期和女朋友去海滨公园玩。把存图都发了#手机摄影# #人像摄影# #我在酷安晒女友#",
           "originalTitle": "",
           "source": "酷安热榜",
           "brand": "行业",
           "type": "爆料",
           "trust": "高关注爆料源",
-          "date": "2026-11-09",
+          "date": "2026-11-10",
           "time": "",
           "publishedAt": "",
           "url": "https://www.coolapk.com/feed/74957967",
@@ -392,14 +406,14 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "newsnow-e93f908d78d3",
+          "id": "newsnow-886dac2503c0",
           "title": "#一加Ace7Pro# #小米17Max# #OPPOFindX8Ultra# 手搓了一个拦截软件，大家感兴趣吗？感兴趣我考虑深度优化，排查后发一个版本出来让大家使用[受虐滑稽][受虐滑稽]",
           "originalTitle": "",
           "source": "酷安热榜",
           "brand": "Xiaomi",
           "type": "爆料",
           "trust": "高关注爆料源",
-          "date": "2026-11-09",
+          "date": "2026-11-10",
           "time": "",
           "publishedAt": "",
           "url": "https://www.coolapk.com/feed/74955547",
@@ -415,96 +429,27 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "coolapk-user-a34194b61660",
-          "title": "竹本青：OPPO、vivo、小米、荣耀在大陆上线ADV开发者验证",
+          "id": "coolapk-user-1f0fd46fd07c",
+          "title": "竹本青：【OPPO Reno系列 2026冬日限定曲上线】 OPPO今天宣布，由宋雨琦演绎，Reno系列2026冬日限定曲…",
           "originalTitle": "",
           "source": "竹本青",
-          "brand": "HONOR",
+          "brand": "OPPO",
           "type": "爆料",
           "trust": "高可信爆料",
-          "date": "2026-11-09",
-          "time": "10:13",
-          "publishedAt": "2026-11-09T10:13:36.000Z",
-          "url": "https://www.coolapk.com/feed/74954535",
-          "image": "http://image.coolapk.com/feed/2026/1109/18/4248714_5047cadf_9215_2476_176@1200x1600.jpg",
+          "date": "2026-11-10",
+          "time": "03:51",
+          "publishedAt": "2026-11-10T03:51:30.000Z",
+          "url": "https://www.coolapk.com/feed/74969207",
+          "image": "http://image.coolapk.com/feed/2026/1110/11/4248714_254afca2_2689_4536_106@1440x1920.jpg",
           "verdict": "扫一眼",
-          "takeaway": "【OPPO、vivo、小米、荣耀在中国大陆上线ADV开发者验证】 11月9日，据移动智能终端生态联盟，当前侧载应用暂无统一的开发者实名管理机制，恶意、仿冒及诈骗类应用难以溯源。用户安装未经核验的侧载应用，存在财产损失、隐私泄露、诱导消费等安全风险。 OPPO、vivo、小米、荣耀推出 Android 侧载应用开发者身份验证（Android Develope…",
-          "detail": "【OPPO、vivo、小米、荣耀在中国大陆上线ADV开发者验证】 11月9日，据移动智能终端生态联盟，当前侧载应用暂无统一的开发者实名管理机制，恶意、仿冒及诈骗类应用难以溯源。用户安装未经核验的侧载应用，存在财产损失、隐私泄露、诱导消费等安全风险。 OPPO、vivo、小米、荣耀推出 Android 侧载应用开发者身份验证（Android Develope…",
+          "takeaway": "【OPPO Reno系列 2026冬日限定曲上线】 OPPO今天宣布，由宋雨琦演绎，Reno系列2026冬日限定曲《Reno My Color》，现已上线QQ音乐、网易云音乐、汽水音乐等平台。 #今日热点# #ColorOS17# #OPPOReno17#",
+          "detail": "【OPPO Reno系列 2026冬日限定曲上线】 OPPO今天宣布，由宋雨琦演绎，Reno系列2026冬日限定曲《Reno My Color》，现已上线QQ音乐、网易云音乐、汽水音乐等平台。 #今日热点# #ColorOS17# #OPPOReno17#",
           "keyPoints": [
-            "爆料"
+            "外观 / 配色 / 尺寸"
           ],
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "coolapk-user-a7db7fd4e78d",
-          "title": "JSCHEN小小狐：子系新一轮性能机首周激活量曝光：一加登顶",
-          "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-11-09",
-          "time": "05:37",
-          "publishedAt": "2026-11-09T05:37:59.000Z",
-          "url": "https://www.coolapk.com/feed/74949567",
-          "image": "http://image.coolapk.com/feed/2026/1109/13/4702274_626e1302_2678_0352_653@1440x688.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "『子系新一轮性能机首周激活量曝光：一加登顶』 iQOO Neo12（1 款机型） 开售 5 天 —— 激活量约 6.4 万台 一加 Ace 7 系列（2 款机型） 开售 4 天 —— 激活量约 8.9 万台 REDMI K100（1 款机型） 开售 2 天 —— 激活量约 4.6 万台 #今日热点# #一加Ace7Pro# #iQOONeo12#",
-          "detail": "『子系新一轮性能机首周激活量曝光：一加登顶』 iQOO Neo12（1 款机型） 开售 5 天 —— 激活量约 6.4 万台 一加 Ace 7 系列（2 款机型） 开售 4 天 —— 激活量约 8.9 万台 REDMI K100（1 款机型） 开售 2 天 —— 激活量约 4.6 万台 #今日热点# #一加Ace7Pro# #iQOONeo12#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "影响性能和寿命判断，适合放进参数库。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-b6ef1167c121",
-          "title": "Samsung 相关消息",
-          "originalTitle": "",
-          "source": "Android Authority",
-          "brand": "Samsung",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-11-09",
-          "time": "19:25",
-          "publishedAt": "2026-11-09T19:25:54.000Z",
-          "url": "https://www.androidauthority.com/galaxy-s27-ultra-pro-production-volume-3733071/",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Samsung-Galaxy-S26-Ultra-home-screen-black-cat-scaled.jpg",
-          "verdict": "可略过",
-          "takeaway": "Samsung 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "Samsung 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "auto-d0ce48f33948",
-          "title": "Pixel 10a 价格 / 成本相关消息",
-          "originalTitle": "",
-          "source": "9to5Google",
-          "brand": "Pixel",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-11-09",
-          "time": "14:35",
-          "publishedAt": "2026-11-09T14:35:00.000Z",
-          "url": "https://9to5google.com/2026/11/09/google-pixel-10a-deal-after-price-hike/",
-          "image": "",
-          "verdict": "可略过",
-          "takeaway": "Pixel 10a 价格 / 成本相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
-          "detail": "Pixel 10a 价格 / 成本相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     }
