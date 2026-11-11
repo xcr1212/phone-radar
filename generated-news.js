@@ -1,24 +1,304 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-11-11T01:55:16.956Z",
+  "updatedAt": "2026-11-11T09:23:00.733Z",
   "news": [
     {
-      "id": "coolapk-user-afa8dd14aff4",
-      "title": "竹本青：【余承东官宣华为全新子品牌：OSTA星芒】 11月11日，余承东、何刚官宣华为全新子品牌——OSTA星芒，将在11…",
+      "id": "coolapk-user-e988c9d63ddd",
+      "title": "JSCHEN小小狐：『曝 2027 年子系旗舰或全员 2K PenTile 大屏』 知名数码博主 数码闲聊站 今日爆料称，2027 年…",
+      "source": "JSCHEN小小狐",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-11",
+      "time": "09:03",
+      "publishedAt": "2026-11-11T09:03:04.000Z",
+      "url": "https://www.coolapk.com/feed/74999251",
+      "image": "http://image.coolapk.com/feed/2026/1111/17/4702274_4d977653_7783_5039_146@1440x506.jpg",
+      "summary": "『曝 2027 年子系旗舰或全员 2K PenTile 大屏』 知名数码博主 数码闲聊站 今日爆料称，2027 年各家子系旗舰（一加、iQOO、REDMI 等）或全员搭载 PenTile 排列 2K 超高刷常规比例大屏。不包含 2K RGB S-Stripe 规格。 本代子系旗舰屏幕选型如下： 一加 16 - 6.78\" 1.5K 185Hz LTPO｜京…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-7fcd296cfd36",
+      "title": "Motorola is coming to challenge the Galaxy Z Fold 8 in the US",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-11",
+      "time": "07:41",
+      "publishedAt": "2026-11-11T07:41:22.000Z",
+      "url": "https://www.sammobile.com/news/motorola-razr-flex-challenge-galaxy-z-fold-8-usa/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/11/Motorola-Razr-Flex-2027-Renders.jpg",
+      "summary": "The Galaxy Z Fold 8 is Samsung's first wide foldable phone, competing head-to-head with Apple's first foldable device, the iPhone Duo. Together, they are practically the only wide…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-98298f9fac01",
+      "title": "竹本青：【曝华为nova新机搭载1:1前置镜头，预计明年上半年发布】 11月11日，数码闲聊站爆料称，华为nova系列新机…",
       "source": "竹本青",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "高可信爆料",
       "date": "2026-11-11",
-      "time": "01:42",
-      "publishedAt": "2026-11-11T01:42:39.000Z",
-      "url": "https://www.coolapk.com/feed/74989714",
-      "image": "http://image.coolapk.com/feed/2026/1111/09/4248714_ebaf7f9e_1618_2428_746@1272x650.jpg",
-      "summary": "【余承东官宣华为全新子品牌：OSTA星芒】 11月11日，余承东、何刚官宣华为全新子品牌——OSTA星芒，将在11月20日举办的发布会上首次亮相。届时享界V8也将正式上市、尚界Z7T星野套装同步登场。 OSTA星芒此前已被博主多次曝光，最新爆料显示该品牌并非纯线上定位，已规划多款产品，将采用线上线下全渠道销售模式：线上在现有华为店铺内销售，线下进驻华为体验…",
+      "time": "06:27",
+      "publishedAt": "2026-11-11T06:27:25.000Z",
+      "url": "https://www.coolapk.com/feed/74995794",
+      "image": "http://image.coolapk.com/feed/2026/1111/14/4248714_a9279380_8444_0318_865@1270x757.jpg",
+      "summary": "【曝华为nova新机搭载1:1前置镜头，预计明年上半年发布】 11月11日，数码闲聊站爆料称，华为nova系列新机预计明年上半年发布，目前正测试68Mp 1:1方形 OV68F传感器。 相比常规比例前置镜头，1:1方形传感器，在同等模组宽度下感光面积更大，可提升进光量，优化弱光自拍画质；同时1:1比例更适配人像自拍构图，也便于机身内部结构排布。 #今日热点…",
       "tags": [
         "Huawei",
         "爆料",
         "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-214bbfeb08fb",
+      "title": "JSCHEN小小狐：曝华为nova 18系列落地68MP 1:1 方形前摄",
+      "source": "JSCHEN小小狐",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-11",
+      "time": "06:24",
+      "publishedAt": "2026-11-11T06:24:16.000Z",
+      "url": "https://www.coolapk.com/feed/74995723",
+      "image": "http://image.coolapk.com/feed/2026/1111/14/4702274_b6098e67_8255_3747_875@1440x429.jpg",
+      "summary": "『曝华为 nova 18 系列落地 68MP 1:1 方形前摄』 知名数码博主 数码闲聊站 今日爆料称，华为正在测试豪威 68MP 1:1 方形前摄，型号 OV68F，尺寸未知。该规格预计落地华为 nova 18 系列。 根据此前爆料，华为 nova 18 系列或搭载双 2 亿影像，有概率搭配外挂增距镜方案。规格如下： 主摄｜200MP 1/1.3\" 超大…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-ad03aeab3313",
+      "title": "Oppo Reno 17 series to feature four 50MP cameras, details officially confirmed",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-11",
+      "time": "06:23",
+      "publishedAt": "2026-11-11T06:23:30.000Z",
+      "url": "https://www.gizmochina.com/2026/11/11/oppo-reno-17-series-four-50mp-cameras-officially-confirmed/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-16x9-33-300x169.jpg?x96268",
+      "summary": "Oppo has officially confirmed the camera setup on the standard Oppo Reno 17 ahead of its China launch. The vanilla model uses four 50-megapixel cameras and is promoted as a Live P…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-907c98359739",
+      "title": "竹本青：荣耀700系列背屏预热：灵动通知卡片",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-11",
+      "time": "06:03",
+      "publishedAt": "2026-11-11T06:03:21.000Z",
+      "url": "https://www.coolapk.com/feed/74995315",
+      "image": "http://image.coolapk.com/feed/2026/1111/14/4248714_12ef0c1b_7751_7383_797-livepic@1080x1920.jpg",
+      "summary": "【荣耀700系列 背屏预热：灵动通知卡片，覆盖外卖、天气等场景】 11月11日，荣耀预热700系列背屏\"灵动通知\"功能，显示卡片覆盖外卖、网约车、取餐码、闹钟、音乐、天气、日历、快递等多场景。 #今日热点# #荣耀700Pro# #荣耀700#",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-e8e1d9fe9f31",
+      "title": "Google Pixel 10 gets a charging trick that sounds better than it is",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-11",
+      "time": "05:47",
+      "publishedAt": "2026-11-11T05:47:37.000Z",
+      "url": "https://www.androidpolice.com/google-pixel-10-gets-charging-trick-that-sounds-better-than-it-is/",
+      "image": "",
+      "summary": "Pixel 11's Extreme Charging Mode comes to Google's last year flagship",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6f1941175688",
+      "title": "New Galaxy Z Fold 8 series, Flip 8 updates bring November 2026 security patch",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-11",
+      "time": "05:09",
+      "publishedAt": "2026-11-11T05:09:05.000Z",
+      "url": "https://www.sammobile.com/news/new-galaxy-z-fold-8-series-flip-8-updates-bring-november-2026-security-patch/",
+      "image": "",
+      "summary": "Samsung has released new software updates for the Galaxy Z Fold 8 Ultra, Galaxy Z Fold 8, and the Galaxy Z Flip 8 to offer the November 2026 security patch. It fixes 179 security…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9a25ff7fd68d",
+      "title": "Motorola’s wide Razr foldable is officially coming for the Galaxy Z Fold 8",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-11",
+      "time": "05:02",
+      "publishedAt": "2026-11-11T05:02:08.000Z",
+      "url": "https://www.androidpolice.com/motorolas-wide-razr-foldable-officially-coming-for-galaxy-z-fold-8/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/10/motorola-razr-flex-shown-partially-unfolded.png",
+      "summary": "It could be the most compact passport foldable",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7eacddc0647e",
+      "title": "Samsung Galaxy W27 vs Samsung Galaxy Z Fold8 Ultra: What’s Actually Different?",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-11",
+      "time": "04:43",
+      "publishedAt": "2026-11-11T04:43:37.000Z",
+      "url": "https://www.gizmochina.com/2026/11/11/samsung-galaxy-w27-vs-z-fold8-ultra/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/image-44-300x150.png?x96268",
+      "summary": "Samsung’s Galaxy W27 and Galaxy Z Fold8 Ultra present an unusual comparison. Rather than two competing foldables with substantially different hardware, they represent two regional…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-176d959b69f8",
+      "title": "JSCHEN小小狐：曝OPPO A7 Ultra将于12月前后发布：万级电池",
+      "source": "JSCHEN小小狐",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-11",
+      "time": "04:23",
+      "publishedAt": "2026-11-11T04:23:29.000Z",
+      "url": "https://www.coolapk.com/feed/74993285",
+      "image": "http://image.coolapk.com/feed/2026/1111/12/4702274_56cfeb25_1009_0712_81@1440x434.jpg",
+      "summary": "『曝 OPPO A7 Ultra 12 月前后发布：万级电池』 知名数码博主 数码闲聊站 今日爆料称，OPPO 预计将在 12 月前后发布 A7 Ultra 新机。该机主打万级大电池，或成为 A 系列首款「Ultra」。 ◇ 横向大矩阵 Deco 设计 ◇ 12000mAh 电池（额定 11640mAh） 此前 OPPO 已于 8 月 4 日发布 A7 P…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-7d989af98dbb",
+      "title": "Redmi is planning a 12000mAh phone, while next stop is 14000mAh",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-11",
+      "time": "04:20",
+      "publishedAt": "2026-11-11T04:20:27.000Z",
+      "url": "https://www.gizmochina.com/2026/11/11/redmi-is-planning-a-12000mah-phone-while-next-stop-is-14000mah/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/redmi-is-planning-a-12000mah-phone-while-next-stop-is-14000mah-3-300x200.jpg?x96268",
+      "summary": "Redmi is already planning a battery bigger than the one in the Redmi K100. We followed the Redmi K100’s 10,000mAh cell from an August leak to its official confirmation before the…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-c76a25b88b94",
+      "title": "数码闲聊站：独家超前瞻，12000mAh±大电池已完成量产规划，新机定位不算低，13000…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-11",
+      "time": "02:43",
+      "publishedAt": "2026-11-11T02:43:46.000Z",
+      "url": "https://weibo.com/6048569942/RqRoVDumW",
+      "image": "",
+      "summary": "独家超前瞻，12000mAh±大电池已完成量产规划，新机定位不算低，13000-14000mAh±巨容量方案积极评估中，计划明年量产，子系电池大爆发",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "coolapk-user-b4fd76c8fc37",
+      "title": "JSCHEN小小狐：OPPO Reno17系列预热：四主摄 + 超清实况",
+      "source": "JSCHEN小小狐",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-11",
+      "time": "02:35",
+      "publishedAt": "2026-11-11T02:35:46.000Z",
+      "url": "https://www.coolapk.com/feed/74990907",
+      "image": "http://image.coolapk.com/feed/2026/1111/10/4702274_1c6de2f1_4531_5247_355-livepic@1440x1920.jpg",
+      "summary": "『OPPO Reno17 系列预热：四主摄 + 超清实况』 ◇ 5000 万像素超清主摄像头 ◇ 5000 万像素潜望长焦摄像头 ◇ 5000 万像素超广角摄像头 ◇ 前置 5000 万像素超广角摄像头 · 全焦段超清实况 · 前置广角超清实况 · 超清原色实况 · 4K 超清长实况 · 实况调色盘 #今日热点# #OPPOReno16# #OPPORen…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-eaf541ba2803",
+      "title": "Honor’s first wide-screen phone has a battery bigger than 8000mAh, claims leak",
+      "source": "Gizmochina",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-11",
+      "time": "01:57",
+      "publishedAt": "2026-11-11T01:57:16.000Z",
+      "url": "https://www.gizmochina.com/2026/11/11/honors-first-wide-screen-phone-has-a-battery-bigger-than-8000mah-claims-leak/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Coolpad-Cool-X-Wide-Launch-Specs-300x200.jpg?x96268",
+      "summary": "Honor’s first wide-screen phone could have a bigger battery than the Huawei Pura X View that started the trend. According to tipster Digital Chat Station (DCS), the upcoming 6.39-…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -62,26 +342,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-ead452386acf",
-      "title": "竹本青：【鸿蒙智行享界V8及华为星芒品牌发布会，定档11月20日】 11月11日，华为官宣全新发布会定于11月20日举行，…",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-11",
-      "time": "01:02",
-      "publishedAt": "2026-11-11T01:02:06.000Z",
-      "url": "https://www.coolapk.com/feed/74989020",
-      "image": "http://image.coolapk.com/feed/2026/1111/09/4248714_45948ccc_8924_8227_226@2000x3556.jpg",
-      "summary": "【鸿蒙智行享界V8及华为星芒品牌发布会，定档11月20日】 11月11日，华为官宣全新发布会定于11月20日举行，将发布鸿蒙智行首款纯电MPV享界V8 ，以及华为全新「星芒」子品牌。 其中，享界V8预售价32.98万元起，搭载L3级架构设计，896线激光雷达，标配±12°后轮转向；动力提供纯电与增程双版本。 而「星芒」此前已被博主多次爆料，最新显示该品牌并…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-06fe17922ffc",
       "title": "Apple's Holiday Gift Guide Highlights iPhone Duo and More",
       "source": "MacRumors",
@@ -102,26 +362,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-7d2bb41d0d8d",
-      "title": "苹果团队赴印度工厂调查，3 名塔塔合同工在维护污水处理设施时遇难",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-11",
-      "time": "00:55",
-      "publishedAt": "2026-11-11T00:55:45.000Z",
-      "url": "https://www.ithome.com/1/025/231.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/3e990780-7c4e-4d94-ad70-fb30af71379e.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 11 月 11 日消息，路透社当地时间 11 月 10 日报道称，苹果公司正就印度塔塔电子（Tata Electronics）iPhone 零部件供应商工厂发生的致命事故进行调查。 该工厂位于泰米尔纳德邦霍苏尔（Hosur），有 3 名合同工在维护污水处理设施期间吸入气体后死亡。苹果、塔塔电子及当地政府均已启动调查。 据印度克里希纳吉里地区官员…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-c151e3b70730",
       "title": "Three Workers Die at Tata iPhone Parts Plant in India",
       "source": "MacRumors",
@@ -135,26 +375,6 @@ window.phoneRadarAuto = {
       "url": "https://www.macrumors.com/2026/11/10/india-tata-electronics-gas-incident/",
       "image": "https://images.macrumors.com/article-new/2020/08/apple-india.jpg",
       "summary": "Three contract workers died on Monday at a factory owned by Indian Apple supplier Tata Electronics, reports Reuters . The facility in Hosur, Tamil Nadu, manufactures components fo…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-fccb9df043d4",
-      "title": "（更新：恢复正常）苹果 iCloud 服务全球性故障，影响注册登录、照片同步和查找 iPhone 等",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-11",
-      "time": "00:31",
-      "publishedAt": "2026-11-11T00:31:09.000Z",
-      "url": "https://www.ithome.com/1/025/227.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/7cca7678-d564-45a1-a2fb-222352d93e1b.jpg",
-      "summary": "11 月 11 日 9:27 更新：服务已全部恢复正常。 11 月 11 日 9:02 更新：iCloud 联系人、iCloud 邮件、iCloud 日历、Game Center 和照片服务恢复，但 iCloud 账户与登录仍处于服务中断。 IT之家 11 月 11 日消息， 苹果 iCloud 服务今早突发全球性故障 。本次故障从北京时间清晨 06:49…",
       "tags": [
         "iPhone",
         "爆料",
@@ -282,8 +502,28 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-065ed3b77002",
-      "title": "宴请年少时候的自己[坏笑]，下次假期和女朋友去海滨公园玩。把存图都发了#手机摄影# #人像摄影# #我在酷安晒女友#",
+      "id": "newsnow-484d7a1f11e0",
+      "title": "这价格也太恐怖了吧，直接掀桌子了 搞得我都手痒，想买了[喷]#REDMIK100ProMax#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-11",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74981111",
+      "image": "",
+      "summary": "这价格也太恐怖了吧，直接掀桌子了 搞得我都手痒，想买了[喷]#REDMIK100ProMax#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-0431a73e6741",
+      "title": "OSTA星芒手机官微上线，Logo同步公布",
       "source": "酷安热榜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -292,9 +532,9 @@ window.phoneRadarAuto = {
       "date": "2026-11-11",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74957967",
+      "url": "https://www.coolapk.com/feed/74991195",
       "image": "",
-      "summary": "宴请年少时候的自己[坏笑]，下次假期和女朋友去海滨公园玩。把存图都发了#手机摄影# #人像摄影# #我在酷安晒女友#",
+      "summary": "OSTA星芒手机官微上线，Logo同步公布",
       "tags": [
         "行业",
         "爆料",
@@ -302,19 +542,19 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-d4b3e9706efc",
-      "title": "Mate90系列果然扑街了，就9499的promax上残疾芯片这事没得洗。也可以下一代接着这么干，看看消费者是不是傻子。每年都会买新旗舰支持下，但是今年这个mate系列肯定不会买，不要说🌸难，就是傲慢，根本不拿消费者当人。",
-      "source": "酷安热榜",
+      "id": "newsnow-5041e4e424ee",
+      "title": "张萌要给许飞送手机",
+      "source": "微博热搜",
       "brand": "行业",
       "model": "智能手机市场",
       "type": "爆料",
-      "trust": "高关注爆料源",
+      "trust": "待验证",
       "date": "2026-11-11",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74973578",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%90%8C%E8%A6%81%E7%BB%99%E8%AE%B8%E9%A3%9E%E9%80%81%E6%89%8B%E6%9C%BA%23&t=31&band_rank=13&Refer=top",
       "image": "",
-      "summary": "Mate90系列果然扑街了，就9499的promax上残疾芯片这事没得洗。也可以下一代接着这么干，看看消费者是不是傻子。每年都会买新旗舰支持下，但是今年这个mate系列肯定不会买，不要说🌸难，就是傲慢，根本不拿消费者当人。",
+      "summary": "张萌要给许飞送手机",
       "tags": [
         "行业",
         "爆料",
@@ -322,48 +562,28 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-b4e648ad0c56",
-      "title": "#酷安夜话# 刷到酷友说女友被上司追 还送苹果手机 女友不舍得离职之类的帖子 感慨万千 [二哈] 现在想想 我老婆当初没选开揽子的富二代而选择我 放现在岂不是科幻片[笑哭]#初恋这件小事#",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "id": "newsnow-026e117bb7c2",
+      "title": "张萌马天宇都爱送人手机",
+      "source": "微博热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
-      "trust": "高关注爆料源",
+      "trust": "待验证",
       "date": "2026-11-11",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74962029",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%90%8C%E9%A9%AC%E5%A4%A9%E5%AE%87%E9%83%BD%E7%88%B1%E9%80%81%E4%BA%BA%E6%89%8B%E6%9C%BA%23&t=31&band_rank=27&Refer=top",
       "image": "",
-      "summary": "#酷安夜话# 刷到酷友说女友被上司追 还送苹果手机 女友不舍得离职之类的帖子 感慨万千 [二哈] 现在想想 我老婆当初没选开揽子的富二代而选择我 放现在岂不是科幻片[笑哭]#初恋这件小事#",
+      "summary": "张萌马天宇都爱送人手机",
       "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-fcdcb1dc3c8c",
-      "title": "要8E5，给我妈买手机，选ace7Pro还是一加15呀，选那个最划算呀#一加15# #ColorOS16# #好物安利#",
-      "source": "酷安热榜",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-11",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74981613",
-      "image": "",
-      "summary": "要8E5，给我妈买手机，选ace7Pro还是一加15呀，选那个最划算呀#一加15# #ColorOS16# #好物安利#",
-      "tags": [
-        "OPPO",
+        "行业",
         "爆料",
         "NewsNow"
       ]
     },
     {
       "id": "newsnow-d2af1225e19c",
-      "title": "女子银行短信提醒突然被取消，卡里近26万元消失，手机曾不受控制黑屏闪烁，这一过程发生了什么？该如何防范？",
+      "title": "女子卡里近 26 万元消失，6 天内被分多笔转走，交易短信提醒被取消，手机曾莫名闪烁，这是什么情况？",
       "source": "知乎热榜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -374,7 +594,7 @@ window.phoneRadarAuto = {
       "publishedAt": "",
       "url": "https://www.zhihu.com/question/2103438593268238305",
       "image": "",
-      "summary": "女子银行短信提醒突然被取消，卡里近26万元消失，手机曾不受控制黑屏闪烁，这一过程发生了什么？该如何防范？",
+      "summary": "女子卡里近 26 万元消失，6 天内被分多笔转走，交易短信提醒被取消，手机曾莫名闪烁，这是什么情况？",
       "tags": [
         "行业",
         "市场报告",
@@ -382,8 +602,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-6d9c46d9930f",
-      "title": "高铁座椅USB口充手机越充越掉电",
+      "id": "newsnow-00062a90c5b2",
+      "title": "为什么手机很少出现在梦中",
       "source": "百度热搜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -392,9 +612,29 @@ window.phoneRadarAuto = {
       "date": "2026-11-11",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E5%BA%A7%E6%A4%85USB%E5%8F%A3%E5%85%85%E6%89%8B%E6%9C%BA%E8%B6%8A%E5%85%85%E8%B6%8A%E6%8E%89%E7%94%B5",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%89%8B%E6%9C%BA%E5%BE%88%E5%B0%91%E5%87%BA%E7%8E%B0%E5%9C%A8%E6%A2%A6%E4%B8%AD",
       "image": "",
-      "summary": "高铁座椅USB口充手机越充越掉电",
+      "summary": "为什么手机很少出现在梦中",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-b5c27b024c79",
+      "title": "“用二手手机不再没面子了”",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-11",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%94%A8%E4%BA%8C%E6%89%8B%E6%89%8B%E6%9C%BA%E4%B8%8D%E5%86%8D%E6%B2%A1%E9%9D%A2%E5%AD%90%E4%BA%86%E2%80%9D",
+      "image": "",
+      "summary": "“用二手手机不再没面子了”",
       "tags": [
         "行业",
         "爆料",
@@ -417,46 +657,6 @@ window.phoneRadarAuto = {
       "summary": "The scans, shared by a known leaker, suggest Apple is reusing a lot of the same internal layout across models while making targeted tweaks. The post iPhone 18 and 18e could share…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-59552ce3b276",
-      "title": "再迎“iPhone X 时刻”：20 周年款苹果手机前瞻，整机如一块玻璃、按键将全固态",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-10",
-      "time": "23:22",
-      "publishedAt": "2026-11-10T23:22:12.000Z",
-      "url": "https://www.ithome.com/1/025/211.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/0716e839-b5df-4423-ab4e-74dfb564c5a8.png",
-      "summary": "IT之家 11 月 11 日消息，科技媒体 MacRumors 昨日（11 月 10 日）发布博文，梳理、验证和汇总多条供应链消息和可靠信源爆料，认为苹果为庆祝 iPhone 问世 20 周年，会在 2027 年 9 月推出 20 周年版 iPhone（上市后可能名为 iPhone 20 Pro），有望迎来外观、屏幕、交互、影像与芯片等全方位升级。 苹果…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e4c7c6690407",
-      "title": "谷歌宣布免费升级 Google Fi 超级网络：Pixel 9 系列支持双 5G 网络自动切换和数百万 Wi-Fi 热点",
-      "source": "IT之家",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-10",
-      "time": "23:01",
-      "publishedAt": "2026-11-10T23:01:30.000Z",
-      "url": "https://www.ithome.com/1/025/208.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/e96d0e9c-a900-4194-842b-80e2d3093f36.jpg",
-      "summary": "IT之家 11 月 11 日消息，当地时间 11 月 10 日，谷歌宣布为旗下 Google Fi Wireless 推出全新的「超级网络」（Super Network），通过双 5G 蜂窝网络和数百万个 Wi-Fi 热点之间的自动切换，改善用户在室内、拥挤区域及偏远地区的网络连接体验。 谷歌 Google Store 与 Google Fi 副总裁 Ma…",
-      "tags": [
-        "Pixel",
         "爆料",
         "自动抓取"
       ]
@@ -642,46 +842,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-6040a8ebc655",
-      "title": "竹本青：【酷派Cool X Wide阔直板 开售3天销量破万】 11月11日资讯，酷派官方昨日宣布，Cool X Wide…",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-10",
-      "time": "17:33",
-      "publishedAt": "2026-11-10T17:33:39.000Z",
-      "url": "https://www.coolapk.com/feed/74986860",
-      "image": "http://image.coolapk.com/feed/2026/1111/01/4248714_8f9014cc_2018_3496_283@1200x1600.jpg",
-      "summary": "【酷派Cool X Wide阔直板 开售3天销量破万】 11月11日资讯，酷派官方昨日宣布，Cool X Wide 阔直板手机开售仅3天，累计实际售出已突破1万台。 该新机于11月8日上架，起售价999元，核心搭载联发科G99处理器，6.38英寸720P 90Hz LCD屏、4600mAh电池。 #今日热点# #酷派COOLXWide# #数码日常#",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-4709d5d91039",
-      "title": "竹本青：#双11开箱# 双11好多人买手机啊，以我自己为例，发个小作文分享购机心得 前两年我的思维比较固化，真的只看性能这…",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-10",
-      "time": "16:07",
-      "publishedAt": "2026-11-10T16:07:08.000Z",
-      "url": "https://www.coolapk.com/feed/74985489",
-      "image": "http://image.coolapk.com/feed/2026/1111/00/4248714_e62f9c87_6826_8025_549@1319x2048.jpg",
-      "summary": "#双11开箱# 双11好多人买手机啊，以我自己为例，发个小作文分享购机心得 前两年我的思维比较固化，真的只看性能这一项，认为性能是决定使用体验的一切，“性能最强，使用起来肯定丝滑，那怎么会不好用呢？”现在看过来蛮蠢的，图2是我二三年写的小笔记，当时还会列出来自己认为的性能top榜，然后就在电商每晚蹲价格…… 因为当时购机选择迷茫，没有目标，所以属于是大V推…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-71d33018f34f",
       "title": "OnePlus Turbo 6V vs Nord 5: Is a 9000mAh Battery Better Than Flagship Performance?",
       "source": "Gizmochina",
@@ -743,7 +903,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-4c9e5e3f7a85",
-      "title": "JSCHEN小小狐：『华为睿影 Z10 H1 / H2 可换卡口开售：399 元』 睿影 Z10 H1 / H2 单卡口售价：399…",
+      "title": "JSCHEN小小狐：华为睿影Z10 H1 / H2可换卡口开售：399元",
       "source": "JSCHEN小小狐",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
@@ -777,46 +937,6 @@ window.phoneRadarAuto = {
       "summary": "Samsung has started rolling out new software updates to the Galaxy S26, Galaxy S26+, and Galaxy S26 Ultra. These updates bring the November 2026 security patch, which fixes 179 vu…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-1e4136e04688",
-      "title": "竹本青：【荣耀CEO李健：Magic9系列销量破50万，更多惊喜即将揭晓】 11月10日，荣耀CEO李健宣布 Magic9…",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-10",
-      "time": "13:27",
-      "publishedAt": "2026-11-10T13:27:10.000Z",
-      "url": "https://www.coolapk.com/feed/74981785",
-      "image": "http://image.coolapk.com/feed/2026/1110/21/4248714_3600808a_7228_5787_216@1439x689.jpg",
-      "summary": "【荣耀CEO李健：Magic9系列销量破50万，更多惊喜即将揭晓】 11月10日，荣耀CEO李健宣布 Magic9系列 销量已突破50万台，并预告：“围绕Magic9系列，还有更多惊喜即将揭晓，敬请期待。” 同日，数码闲聊站爆料称，Magic9系列目前为安卓阵营销量冠军，后续将推出新配色（已摸到一个\"红色\"），并同步上线摄影大师套装。 #今日热点# #荣耀…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-5c97a3877d44",
-      "title": "iPhone 20 Pro: Ten Big Changes That Could Redefine Apple's Flagship",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-10",
-      "time": "11:39",
-      "publishedAt": "2026-11-10T11:39:01.000Z",
-      "url": "https://www.macrumors.com/2026/11/10/iphone-20-pro-rumors-ten-big-changes/",
-      "image": "https://images.macrumors.com/article-new/2026/01/Mostly-Screen-iPhone-Purple-Feature-2027.jpg",
-      "summary": "In 2017, Apple celebrated the iPhone's 10th birthday with the iPhone X, the biggest redesign in the product's history. For the device's 20th anniversary, all the rumors indicate t…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
@@ -1039,26 +1159,6 @@ window.phoneRadarAuto = {
         "vivo",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-dc5bcc7c2eb5",
-      "title": "JSCHEN小小狐：vivo X500 Ultra影像曝光：全高动态全大底",
-      "source": "JSCHEN小小狐",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-10",
-      "time": "01:10",
-      "publishedAt": "2026-11-10T01:10:28.000Z",
-      "url": "https://www.coolapk.com/feed/74965898",
-      "image": "http://image.coolapk.com/feed/2026/1110/09/4702274_eb76d22c_3026_9419_148@1440x798.jpg",
-      "summary": "『vivo X500 Ultra 影像曝光：全高动态全大底』 主摄｜50MP 1/1.28\" LYTIA L910 - LOFIC，35mm，云台级 OIS 潜望｜200MP 1/1.12\" S5KHPU - DeepPix 超高动态技术 超广｜50MP 1/1.28\" LYTIA L910 - LOFIC，“最高测试版本” 其他曝光参数： ◇ 骁龙 8…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
       ]
     }
   ]

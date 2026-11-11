@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-11-11T01:55:16.956Z",
+  "updatedAt": "2026-11-11T09:23:00.733Z",
   "issueDate": "2026-11-11",
   "issue": "VOL.261111",
   "title": "手机情报日报",
-  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 3 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 10,
-    "iphone": 5,
+    "total": 11,
+    "iphone": 3,
     "leaks": 8,
-    "official": 0,
+    "official": 1,
     "specs": 0
   },
   "sections": [
@@ -17,32 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-59552ce3b276",
-          "title": "再迎“iPhone X 时刻”：20 周年款苹果手机前瞻，整机如一块玻璃、按键将全固态",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-11-10",
-          "time": "23:22",
-          "publishedAt": "2026-11-10T23:22:12.000Z",
-          "url": "https://www.ithome.com/1/025/211.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/0716e839-b5df-4423-ab4e-74dfb564c5a8.png",
-          "verdict": "先看",
-          "takeaway": "IT之家 11 月 11 日消息，科技媒体 MacRumors 昨日（11 月 10 日）发布博文，梳理、验证和汇总多条供应链消息和可靠信源爆料，认为苹果为庆祝 iPhone 问世 20 周年，会在 2027 年 9 月推出 20 周年版 iPhone（上市后可能名为 iPhone 20 Pro），有望迎来外观、屏幕、交互、影像与芯片等全方位升级。 苹果…",
-          "detail": "IT之家 11 月 11 日消息，科技媒体 MacRumors 昨日（11 月 10 日）发布博文，梳理、验证和汇总多条供应链消息和可靠信源爆料，认为苹果为庆祝 iPhone 问世 20 周年，会在 2027 年 9 月推出 20 周年版 iPhone（上市后可能名为 iPhone 20 Pro），有望迎来外观、屏幕、交互、影像与芯片等全方位升级。 苹果…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "影像硬件",
-            "屏幕形态",
-            "芯片 / 性能"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "auto-2f62377e7d55",
           "title": "iPhone 18 机模 / 配色信息曝光",
@@ -92,30 +66,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "coolapk-user-1e4136e04688",
-          "title": "竹本青：【荣耀CEO李健：Magic9系列销量破50万，更多惊喜即将揭晓】 11月10日，荣耀CEO李健宣布 Magic9…",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-11-10",
-          "time": "13:27",
-          "publishedAt": "2026-11-10T13:27:10.000Z",
-          "url": "https://www.coolapk.com/feed/74981785",
-          "image": "http://image.coolapk.com/feed/2026/1110/21/4248714_3600808a_7228_5787_216@1439x689.jpg",
-          "verdict": "先看",
-          "takeaway": "【荣耀CEO李健：Magic9系列销量破50万，更多惊喜即将揭晓】 11月10日，荣耀CEO李健宣布 Magic9系列 销量已突破50万台，并预告：“围绕Magic9系列，还有更多惊喜即将揭晓，敬请期待。” 同日，数码闲聊站爆料称，Magic9系列目前为安卓阵营销量冠军，后续将推出新配色（已摸到一个\"红色\"），并同步上线摄影大师套装。 #今日热点# #荣耀…",
-          "detail": "【荣耀CEO李健：Magic9系列销量破50万，更多惊喜即将揭晓】 11月10日，荣耀CEO李健宣布 Magic9系列 销量已突破50万台，并预告：“围绕Magic9系列，还有更多惊喜即将揭晓，敬请期待。” 同日，数码闲聊站爆料称，Magic9系列目前为安卓阵营销量冠军，后续将推出新配色（已摸到一个\"红色\"），并同步上线摄影大师套装。 #今日热点# #荣耀…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "coolapk-user-b0f86d15121d",
           "title": "JSCHEN小小狐：消息称荣耀Magic9系列销量破50万，新配色将至",
           "originalTitle": "",
@@ -136,29 +86,6 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-e4c7c6690407",
-          "title": "谷歌宣布免费升级 Google Fi 超级网络：Pixel 9 系列支持双 5G 网络自动切换和数百万 Wi-Fi 热点",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Pixel",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-11-10",
-          "time": "23:01",
-          "publishedAt": "2026-11-10T23:01:30.000Z",
-          "url": "https://www.ithome.com/1/025/208.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/e96d0e9c-a900-4194-842b-80e2d3093f36.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 11 月 11 日消息，当地时间 11 月 10 日，谷歌宣布为旗下 Google Fi Wireless 推出全新的「超级网络」（Super Network），通过双 5G 蜂窝网络和数百万个 Wi-Fi 热点之间的自动切换，改善用户在室内、拥挤区域及偏远地区的网络连接体验。 谷歌 Google Store 与 Google Fi 副总裁 Ma…",
-          "detail": "IT之家 11 月 11 日消息，当地时间 11 月 10 日，谷歌宣布为旗下 Google Fi Wireless 推出全新的「超级网络」（Super Network），通过双 5G 蜂窝网络和数百万个 Wi-Fi 热点之间的自动切换，改善用户在室内、拥挤区域及偏远地区的网络连接体验。 谷歌 Google Store 与 Google Fi 副总裁 Ma…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -187,25 +114,98 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "coolapk-user-afa8dd14aff4",
-          "title": "竹本青：【余承东官宣华为全新子品牌：OSTA星芒】 11月11日，余承东、何刚官宣华为全新子品牌——OSTA星芒，将在11…",
+          "id": "coolapk-user-e988c9d63ddd",
+          "title": "JSCHEN小小狐：『曝 2027 年子系旗舰或全员 2K PenTile 大屏』 知名数码博主 数码闲聊站 今日爆料称，2027 年…",
+          "originalTitle": "",
+          "source": "JSCHEN小小狐",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-11-11",
+          "time": "09:03",
+          "publishedAt": "2026-11-11T09:03:04.000Z",
+          "url": "https://www.coolapk.com/feed/74999251",
+          "image": "http://image.coolapk.com/feed/2026/1111/17/4702274_4d977653_7783_5039_146@1440x506.jpg",
+          "verdict": "先看",
+          "takeaway": "『曝 2027 年子系旗舰或全员 2K PenTile 大屏』 知名数码博主 数码闲聊站 今日爆料称，2027 年各家子系旗舰（一加、iQOO、REDMI 等）或全员搭载 PenTile 排列 2K 超高刷常规比例大屏。不包含 2K RGB S-Stripe 规格。 本代子系旗舰屏幕选型如下： 一加 16 - 6.78\" 1.5K 185Hz LTPO｜京…",
+          "detail": "『曝 2027 年子系旗舰或全员 2K PenTile 大屏』 知名数码博主 数码闲聊站 今日爆料称，2027 年各家子系旗舰（一加、iQOO、REDMI 等）或全员搭载 PenTile 排列 2K 超高刷常规比例大屏。不包含 2K RGB S-Stripe 规格。 本代子系旗舰屏幕选型如下： 一加 16 - 6.78\" 1.5K 185Hz LTPO｜京…",
+          "keyPoints": [
+            "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-98298f9fac01",
+          "title": "竹本青：【曝华为nova新机搭载1:1前置镜头，预计明年上半年发布】 11月11日，数码闲聊站爆料称，华为nova系列新机…",
           "originalTitle": "",
           "source": "竹本青",
           "brand": "Huawei",
           "type": "爆料",
           "trust": "高可信爆料",
           "date": "2026-11-11",
-          "time": "01:42",
-          "publishedAt": "2026-11-11T01:42:39.000Z",
-          "url": "https://www.coolapk.com/feed/74989714",
-          "image": "http://image.coolapk.com/feed/2026/1111/09/4248714_ebaf7f9e_1618_2428_746@1272x650.jpg",
+          "time": "06:27",
+          "publishedAt": "2026-11-11T06:27:25.000Z",
+          "url": "https://www.coolapk.com/feed/74995794",
+          "image": "http://image.coolapk.com/feed/2026/1111/14/4248714_a9279380_8444_0318_865@1270x757.jpg",
           "verdict": "先看",
-          "takeaway": "【余承东官宣华为全新子品牌：OSTA星芒】 11月11日，余承东、何刚官宣华为全新子品牌——OSTA星芒，将在11月20日举办的发布会上首次亮相。届时享界V8也将正式上市、尚界Z7T星野套装同步登场。 OSTA星芒此前已被博主多次曝光，最新爆料显示该品牌并非纯线上定位，已规划多款产品，将采用线上线下全渠道销售模式：线上在现有华为店铺内销售，线下进驻华为体验…",
-          "detail": "【余承东官宣华为全新子品牌：OSTA星芒】 11月11日，余承东、何刚官宣华为全新子品牌——OSTA星芒，将在11月20日举办的发布会上首次亮相。届时享界V8也将正式上市、尚界Z7T星野套装同步登场。 OSTA星芒此前已被博主多次曝光，最新爆料显示该品牌并非纯线上定位，已规划多款产品，将采用线上线下全渠道销售模式：线上在现有华为店铺内销售，线下进驻华为体验…",
+          "takeaway": "【曝华为nova新机搭载1:1前置镜头，预计明年上半年发布】 11月11日，数码闲聊站爆料称，华为nova系列新机预计明年上半年发布，目前正测试68Mp 1:1方形 OV68F传感器。 相比常规比例前置镜头，1:1方形传感器，在同等模组宽度下感光面积更大，可提升进光量，优化弱光自拍画质；同时1:1比例更适配人像自拍构图，也便于机身内部结构排布。 #今日热点…",
+          "detail": "【曝华为nova新机搭载1:1前置镜头，预计明年上半年发布】 11月11日，数码闲聊站爆料称，华为nova系列新机预计明年上半年发布，目前正测试68Mp 1:1方形 OV68F传感器。 相比常规比例前置镜头，1:1方形传感器，在同等模组宽度下感光面积更大，可提升进光量，优化弱光自拍画质；同时1:1比例更适配人像自拍构图，也便于机身内部结构排布。 #今日热点…",
           "keyPoints": [
             "爆料来源"
           ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-214bbfeb08fb",
+          "title": "JSCHEN小小狐：曝华为nova 18系列落地68MP 1:1 方形前摄",
+          "originalTitle": "",
+          "source": "JSCHEN小小狐",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-11-11",
+          "time": "06:24",
+          "publishedAt": "2026-11-11T06:24:16.000Z",
+          "url": "https://www.coolapk.com/feed/74995723",
+          "image": "http://image.coolapk.com/feed/2026/1111/14/4702274_b6098e67_8255_3747_875@1440x429.jpg",
+          "verdict": "先看",
+          "takeaway": "『曝华为 nova 18 系列落地 68MP 1:1 方形前摄』 知名数码博主 数码闲聊站 今日爆料称，华为正在测试豪威 68MP 1:1 方形前摄，型号 OV68F，尺寸未知。该规格预计落地华为 nova 18 系列。 根据此前爆料，华为 nova 18 系列或搭载双 2 亿影像，有概率搭配外挂增距镜方案。规格如下： 主摄｜200MP 1/1.3\" 超大…",
+          "detail": "『曝华为 nova 18 系列落地 68MP 1:1 方形前摄』 知名数码博主 数码闲聊站 今日爆料称，华为正在测试豪威 68MP 1:1 方形前摄，型号 OV68F，尺寸未知。该规格预计落地华为 nova 18 系列。 根据此前爆料，华为 nova 18 系列或搭载双 2 亿影像，有概率搭配外挂增距镜方案。规格如下： 主摄｜200MP 1/1.3\" 超大…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "影像硬件",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-176d959b69f8",
+          "title": "JSCHEN小小狐：曝OPPO A7 Ultra将于12月前后发布：万级电池",
+          "originalTitle": "",
+          "source": "JSCHEN小小狐",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-11-11",
+          "time": "04:23",
+          "publishedAt": "2026-11-11T04:23:29.000Z",
+          "url": "https://www.coolapk.com/feed/74993285",
+          "image": "http://image.coolapk.com/feed/2026/1111/12/4702274_56cfeb25_1009_0712_81@1440x434.jpg",
+          "verdict": "先看",
+          "takeaway": "『曝 OPPO A7 Ultra 12 月前后发布：万级电池』 知名数码博主 数码闲聊站 今日爆料称，OPPO 预计将在 12 月前后发布 A7 Ultra 新机。该机主打万级大电池，或成为 A 系列首款「Ultra」。 ◇ 横向大矩阵 Deco 设计 ◇ 12000mAh 电池（额定 11640mAh） 此前 OPPO 已于 8 月 4 日发布 A7 P…",
+          "detail": "『曝 OPPO A7 Ultra 12 月前后发布：万级电池』 知名数码博主 数码闲聊站 今日爆料称，OPPO 预计将在 12 月前后发布 A7 Ultra 新机。该机主打万级大电池，或成为 A 系列首款「Ultra」。 ◇ 横向大矩阵 Deco 设计 ◇ 12000mAh 电池（额定 11640mAh） 此前 OPPO 已于 8 月 4 日发布 A7 P…",
+          "keyPoints": [
+            "电池 / 充电",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -217,44 +217,74 @@ window.phoneRadarDaily = {
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
         {
-          "id": "auto-fccb9df043d4",
-          "title": "（更新：恢复正常）苹果 iCloud 服务全球性故障，影响注册登录、照片同步和查找 iPhone 等",
+          "id": "auto-a89f115eb254",
+          "title": "iPhone 芯片 / 性能相关消息",
           "originalTitle": "",
-          "source": "IT之家",
+          "source": "Apple Newsroom",
           "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
+          "type": "官方",
+          "trust": "官方确认",
           "date": "2026-11-11",
-          "time": "00:31",
-          "publishedAt": "2026-11-11T00:31:09.000Z",
-          "url": "https://www.ithome.com/1/025/227.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/7cca7678-d564-45a1-a2fb-222352d93e1b.jpg",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.apple.com/newsroom/2026/10/apple-announces-american-manufacturing-program-partners-for-latest-iphone-lineup/",
+          "image": "",
           "verdict": "先看",
-          "takeaway": "11 月 11 日 9:27 更新：服务已全部恢复正常。 11 月 11 日 9:02 更新：iCloud 联系人、iCloud 邮件、iCloud 日历、Game Center 和照片服务恢复，但 iCloud 账户与登录仍处于服务中断。 IT之家 11 月 11 日消息， 苹果 iCloud 服务今早突发全球性故障 。本次故障从北京时间清晨 06:49…",
-          "detail": "11 月 11 日 9:27 更新：服务已全部恢复正常。 11 月 11 日 9:02 更新：iCloud 联系人、iCloud 邮件、iCloud 日历、Game Center 和照片服务恢复，但 iCloud 账户与登录仍处于服务中断。 IT之家 11 月 11 日消息， 苹果 iCloud 服务今早突发全球性故障 。本次故障从北京时间清晨 06:49…",
+          "takeaway": "iPhone 芯片 / 性能相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "爆料"
+            "官方"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
-        },
+          "confidence": "官方内容，可直接作为已确认信息记录。",
+          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "行业趋势",
+      "hint": "看方向，不急着当购买依据。",
+      "items": [
         {
-          "id": "newsnow-b4e648ad0c56",
-          "title": "#酷安夜话# 刷到酷友说女友被上司追 还送苹果手机 女友不舍得离职之类的帖子 感慨万千 [二哈] 现在想想 我老婆当初没选开揽子的富二代而选择我 放现在岂不是科幻片[笑哭]#初恋这件小事#",
+          "id": "newsnow-484d7a1f11e0",
+          "title": "这价格也太恐怖了吧，直接掀桌子了 搞得我都手痒，想买了[喷]#REDMIK100ProMax#",
           "originalTitle": "",
           "source": "酷安热榜",
-          "brand": "iPhone",
+          "brand": "Xiaomi",
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-11-11",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/74962029",
+          "url": "https://www.coolapk.com/feed/74981111",
           "image": "",
           "verdict": "先看",
-          "takeaway": "#酷安夜话# 刷到酷友说女友被上司追 还送苹果手机 女友不舍得离职之类的帖子 感慨万千 [二哈] 现在想想 我老婆当初没选开揽子的富二代而选择我 放现在岂不是科幻片[笑哭]#初恋这件小事#",
-          "detail": "#酷安夜话# 刷到酷友说女友被上司追 还送苹果手机 女友不舍得离职之类的帖子 感慨万千 [二哈] 现在想想 我老婆当初没选开揽子的富二代而选择我 放现在岂不是科幻片[笑哭]#初恋这件小事#",
+          "takeaway": "这价格也太恐怖了吧，直接掀桌子了 搞得我都手痒，想买了[喷]#REDMIK100ProMax#",
+          "detail": "这价格也太恐怖了吧，直接掀桌子了 搞得我都手痒，想买了[喷]#REDMIK100ProMax#",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响购买预算，值得先看。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
+          "id": "newsnow-0431a73e6741",
+          "title": "OSTA星芒手机官微上线，Logo同步公布",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-11-11",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/74991195",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "OSTA星芒手机官微上线，Logo同步公布",
+          "detail": "OSTA星芒手机官微上线，Logo同步公布",
           "keyPoints": [
             "爆料"
           ],
