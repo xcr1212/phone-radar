@@ -1,6 +1,406 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-11-12T00:40:59.706Z",
+  "updatedAt": "2026-11-12T09:48:51.452Z",
   "news": [
+    {
+      "id": "auto-61da836d7a0a",
+      "title": "Honor 700 series specs leak: all three phones tipped with a rear screen and a 9000mAh battery",
+      "source": "Gizmochina",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-12",
+      "time": "08:47",
+      "publishedAt": "2026-11-12T08:47:12.000Z",
+      "url": "https://www.gizmochina.com/2026/11/12/honor-700-series-specs-leak-all-three-phones-tipped-with-a-rear-screen-and-a-9000mah-battery/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/gallery-honor-700-pro-16x9-1-300x169.jpg?x22604",
+      "summary": "Honor is preparing to launch the Honor 700 series in China tomorrow, and the company has been gradually revealing details about the new phones ahead of the event. A new leak, howe…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6f4dedc6b7b7",
+      "title": "Vivo X500s tipped to feature 64MP periscope camera, Dimensity 9-series chip",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-12",
+      "time": "08:39",
+      "publishedAt": "2026-11-12T08:39:54.000Z",
+      "url": "https://www.gizmochina.com/2026/11/12/vivo-x500s-64mp-periscope-dimensity-9-series-chip/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-6-300x169.jpg?x22604",
+      "summary": "Digital Chat Station has shared a new leak about an upcoming S-series flagship that is believed to be the Vivo X500s. The exclusive tip outlines a large-screen all-around flagship…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-47dd59cbf987",
+      "title": "Galaxy S25 Ultra discount is back for Indian buyers who missed previous deal",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-12",
+      "time": "08:33",
+      "publishedAt": "2026-11-12T08:33:18.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s25-ultra-discount-back-indian-buyers-who-missed-previous-deal/",
+      "image": "",
+      "summary": "Samsung’s last year’s flagship non-foldable smartphone, the Galaxy S25 Ultra, has been available in India at massive discounts on several occasions, particularly during major fest…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-085c8ff10ece",
+      "title": "竹本青：那就好好告个别吧，时光的河入海流…… #OPPOFindX10ProMax# #OPPOFindX9Ultra#…",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-12",
+      "time": "08:21",
+      "publishedAt": "2026-11-12T08:21:17.000Z",
+      "url": "https://www.coolapk.com/feed/75021634",
+      "image": "",
+      "summary": "那就好好告个别吧，时光的河入海流…… #OPPOFindX10ProMax# #OPPOFindX9Ultra# #数码日常#",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-84d55a61efda",
+      "title": "Motorola Signature 27 vs Samsung Galaxy S26 Ultra: Head-to-Head Comparison",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-12",
+      "time": "07:59",
+      "publishedAt": "2026-11-12T07:59:06.000Z",
+      "url": "https://www.gizmochina.com/2026/11/12/motorola-signature-27-vs-samsung-galaxy-s26-ultra-head-to-head-comparison/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/Motorola-Signature-27-vs-Samsung-Galaxy-S26-Ultra-300x150.jpg?x22604",
+      "summary": "The Galaxy S26 Ultra has a stylus tucked into its frame and a screen that can keep people sitting next to you from reading over your shoulder. The Motorola Signature 27 has neithe…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-2861dcf6adfc",
+      "title": "JSCHEN小小狐：vivo X500s曝光：6.85\" 2K屏 / 64MP潜望",
+      "source": "JSCHEN小小狐",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-12",
+      "time": "07:21",
+      "publishedAt": "2026-11-12T07:21:56.000Z",
+      "url": "https://www.coolapk.com/feed/75020398",
+      "image": "http://image.coolapk.com/feed/2026/1112/15/4702274_6f812b89_8115_2199_523@1440x528.jpg",
+      "summary": "『vivo X500s 曝光：6.85\" 2K 屏 / 64MP 潜望』 ◇ 6.85\" 2K 144Hz LTPO OLED 直屏 ◇ 天玑 9600 系列平台｜电池加大 ◇ 64MP 1/2\" LYTIA 610 潜望长焦 ◇ 产品定义「全能大屏旗舰机」 #今日热点# #vivoX500# #vivoX500ProMax#",
+      "tags": [
+        "vivo",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-a4e0fe924992",
+      "title": "荣耀 700 系列手机全系配备新一代绿洲护眼屏：首发旗舰同款长焦增距镜，提供“4K 电影感 Live 照片”",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-12",
+      "time": "07:17",
+      "publishedAt": "2026-11-12T07:17:01.000Z",
+      "url": "https://www.ithome.com/1/026/097.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/2be60b68-3dd3-4376-9d96-0c05fc948ff2.png",
+      "summary": "IT之家 11 月 12 日现场消息，在今天的荣耀 700 闭门沟通会现场中，荣耀透露了相应机型部分规格信息， IT之家获悉，相应机型全系配备全新一代荣耀绿洲护眼屏，采用 1.5K 分辨率与 0.98mm 极窄四等边设计，支持 1nit 硬件极暗显示与 8000nits 峰值亮度，搭载 3840Hz 零风险调光。 同时，其行业首创全链路干眼守护方案，联合复…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-3d5cd343a2b4",
+      "title": "数码闲聊站：独家信息：S小迭代旗舰机，6.85\"2K+144Hz LTPO直屏，64Mp中…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-12",
+      "time": "07:16",
+      "publishedAt": "2026-11-12T07:16:00.000Z",
+      "url": "https://weibo.com/6048569942/Rr2BVjDlb",
+      "image": "",
+      "summary": "独家信息，S小迭代旗舰机，6.85\"2K+144Hz LTPO直屏，64Mp中底潜望长焦，天玑9旗舰平台，电池加大，定义全能大屏旗舰机[笑哈哈]",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-21a6e29cb74d",
+      "title": "Vivo X500 series India launch date officially revealed, brings new red variant",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-12",
+      "time": "07:08",
+      "publishedAt": "2026-11-12T07:08:22.000Z",
+      "url": "https://www.gizmochina.com/2026/11/12/vivo-x500-series-india-launch-november-26/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-trio-300x169.jpg?x22604",
+      "summary": "Vivo has officially confirmed that the X500 series will launch in India on November 26, 2026. In a new post on X, Vivo India said the wait has led to something extraordinary and s…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-acb7f05f041d",
+      "title": "竹本青：关海涛：荣耀获10月国内安卓手机销量冠军",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-12",
+      "time": "07:02",
+      "publishedAt": "2026-11-12T07:02:06.000Z",
+      "url": "https://www.coolapk.com/feed/75019933",
+      "image": "http://image.coolapk.com/feed/2026/1112/15/4248714_610d7c9e_6925_7902_203@1080x1920.jpg",
+      "summary": "【关海涛：荣耀获10月国内安卓手机销量冠军】 11月12日，荣耀高管关海涛官宣，荣耀品牌获得2026年10月国内智能手机市场安卓销量冠军（数据口径：第三方数据平台） 此前10日，荣耀CEO李健曾透露，Magic9系列累计销量已突破50万台。该系列升级阿莱影像系统与智能交互能力，在屏幕、续航、外观设计等方面收获用户正向评价。 #今日热点# #荣耀Magic9…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-d6e8940a4798",
+      "title": "荣耀 700 系列手机规格信息曝光：至高搭高通骁龙 8 Gen 5 处理器，内置 9000mAh 电池",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-12",
+      "time": "07:02",
+      "publishedAt": "2026-11-12T07:02:05.000Z",
+      "url": "https://www.ithome.com/1/026/089.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/afb7f028-c62c-4987-82cf-ca594db8633b.png",
+      "summary": "IT之家 11 月 12 日消息，博主 @体验more 发文，曝光了荣耀 700 系列手机规格信息，系列手机均配备 1.72 英寸背屏，拥有 0.98mm LIPO 四等窄黑边。 IT之家整理如下： 荣耀 700 该机配备一块 6.57 英寸面板，使用高通骁龙 8s Gen 4 处理器，内置 9000mAh 电池（支持 80W 有线充电），匹配 200Mp…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8e7b3f47df60",
+      "title": "Honor 700 series confirmed to pack 9,000mAh battery, Snapdragon chips",
+      "source": "Gizmochina",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-12",
+      "time": "06:37",
+      "publishedAt": "2026-11-12T06:37:26.000Z",
+      "url": "https://www.gizmochina.com/2026/11/12/honor-700-series-9000mah-battery-snapdragon-chips/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-3-300x169.jpg?x22604",
+      "summary": "Honor has officially confirmed that the Honor 700 series will pack a 9,000mAh Qinghai Lake battery and Snapdragon chips across the lineup. In a new Weibo post, the company also hi…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4aa17505c469",
+      "title": "Xiaomi 18 blind orders begin, launch could be fast approaching",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-12",
+      "time": "06:14",
+      "publishedAt": "2026-11-12T06:14:41.000Z",
+      "url": "https://www.gizmochina.com/2026/11/12/xiaomi-18-blind-orders-begin-launch-fast-approaching/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-2-300x169.jpg?x22604",
+      "summary": "September saw the arrival of the Xiaomi 18 Pro and Xiaomi 18 Pro Max, while the standard Xiaomi 18 was missing from the scene. While this month will see the global launch of the X…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-04395701549c",
+      "title": "Canceled Oppo Find X10 Ultra’s 6.89-inch 2K screen and 200MP 1/1.12″ camera to land on a new model",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-12",
+      "time": "04:15",
+      "publishedAt": "2026-11-12T04:15:33.000Z",
+      "url": "https://www.gizmochina.com/2026/11/12/canceled-oppo-find-x10-ultra-2k-screen-200mp-camera-new-model/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-16x9-37-300x169.jpg?x22604",
+      "summary": "The Oppo Find X10 Ultra has reportedly been canceled, and a new leak suggests its leftover hardware may appear on later models instead. Tipster Digital Chat Station said the Ultra…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-2db50f0e1f3c",
+      "title": "数码闲聊站：明年阔家族将见到小阔折✓大阔折✓阔直板旗舰机✓阔直板XXX✓阔形态还会上新，先…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-12",
+      "time": "04:08",
+      "publishedAt": "2026-11-12T04:08:00.000Z",
+      "url": "https://weibo.com/6048569942/Rr1nCa62v",
+      "image": "",
+      "summary": "明年阔家族将见到小阔折✓大阔折✓阔直板旗舰机✓阔直板XXX✓阔形态还会上新，先人一步[污]",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-b4939939b1d9",
+      "title": "Honor 700 Pro hits Geekbench with Snapdragon 8 Gen 5 and 16GB RAM before November 13 launch",
+      "source": "Gizmochina",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-12",
+      "time": "04:06",
+      "publishedAt": "2026-11-12T04:06:18.000Z",
+      "url": "https://www.gizmochina.com/2026/11/12/honor-700-pro-geekbench-snapdragon-8-gen-5-16gb-ram/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-16x9-36-300x169.jpg?x22604",
+      "summary": "An unreleased Honor phone has reportedly appeared on Geekbench, and the listing is being linked to the upcoming Honor 700 Pro. The result is being treated as confirmation of the c…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d4d9feb59bfa",
+      "title": "iQOO 16R is coming soon to India as it bags an important certification",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-12",
+      "time": "03:55",
+      "publishedAt": "2026-11-12T03:55:42.000Z",
+      "url": "https://www.gizmochina.com/2026/11/12/iqoo-16r-coming-soon-india-bis-certification/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-16x9-35-300x169.jpg?x22604",
+      "summary": "An upcoming iQOO phone has been approved by India’s Bureau of Indian Standards, and the listing is being tied to the iQOO 16R, or 16s in some markets. The clearance comes even as…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-7547b5585724",
+      "title": "JSCHEN小小狐：荣耀Robot Phone 2曝光：至高1/1.12\"主摄",
+      "source": "JSCHEN小小狐",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-12",
+      "time": "02:48",
+      "publishedAt": "2026-11-12T02:48:06.000Z",
+      "url": "https://www.coolapk.com/feed/75015115",
+      "image": "http://image.coolapk.com/feed/2026/1112/10/4702274_6d3f82d2_1685_1232_99@1440x774.jpg",
+      "summary": "『荣耀 Robot Phone 2 曝光：至高 1/1.12\" 主摄』 知名数码博主 数码闲聊站 今日爆料称，荣耀正在测试下一代 Robot Phone，或搭载以下硬件： 骁龙 8 Elite Extreme Gen6 移动平台 2 亿像素主摄 AB Test： ① 200MP 1/1.28\" ② 200MP 1/1.12\"（推进更积极、防抖加强） 博主表…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-14a13d544608",
+      "title": "折叠屏手机的转身｜明日后视镜",
+      "source": "爱范儿",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-11-12",
+      "time": "01:39",
+      "publishedAt": "2026-11-12T01:39:17.000Z",
+      "url": "https://www.ifanr.com/1689097?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "image": "https://s3.ifanr.com/wp-content/uploads/2026/11/banner16t9-1.jpg",
+      "summary": "折叠屏手机的挑战，生态适配的试炼，也许才刚刚开始",
+      "tags": [
+        "行业",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-82d5ed954bd8",
+      "title": "数码闲聊站：一个独家超前瞻： X10U随机掉落的圣遗物将会被后续新机瓜分[偷乐] 目前看有…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-12",
+      "time": "01:03",
+      "publishedAt": "2026-11-12T01:03:34.000Z",
+      "url": "https://weibo.com/6048569942/Rr0aKt4bM",
+      "image": "",
+      "summary": "一个独家超前瞻： X10U随机掉落的圣遗物将会被后续新机瓜分[偷乐] 目前看有大迭代机型在测试6.89英寸2K BOE、100Mp 1:1方形前摄、200Mp 1/1.12\"高动态主摄",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
     {
       "id": "auto-bfd196d7caed",
       "title": "iPhone Duo arrives at Apple Store locations worldwide",
@@ -102,26 +502,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-fb5431cda532",
-      "title": "这价格也太恐怖了吧，直接掀桌子了 搞得我都手痒，想买了[喷]#REDMIK100ProMax#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-12",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74981111",
-      "image": "",
-      "summary": "这价格也太恐怖了吧，直接掀桌子了 搞得我都手痒，想买了[喷]#REDMIK100ProMax#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-17d274fab032",
       "title": "#徕卡一瞬##谷歌相机##手机摄影#",
       "source": "酷安热榜",
@@ -142,39 +522,39 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-e76f3e028b57",
-      "title": "作为一个之前不怎么喜欢苹果的人，当然上一部对苹果那么感兴趣的手机就是十三香，去年给老婆买了个17标准版，当时一直认为苹果就是智商税，能卖那么贵。",
+      "id": "newsnow-fb5431cda532",
+      "title": "这价格也太恐怖了吧，直接掀桌子了 搞得我都手痒，想买了[喷]#REDMIK100ProMax#",
       "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-11-12",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74995295",
+      "url": "https://www.coolapk.com/feed/74981111",
       "image": "",
-      "summary": "作为一个之前不怎么喜欢苹果的人，当然上一部对苹果那么感兴趣的手机就是十三香，去年给老婆买了个17标准版，当时一直认为苹果就是智商税，能卖那么贵。",
+      "summary": "这价格也太恐怖了吧，直接掀桌子了 搞得我都手痒，想买了[喷]#REDMIK100ProMax#",
       "tags": [
-        "iPhone",
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-d8e54f07f215",
-      "title": "三张“图”看开放中国新机遇",
-      "source": "百度热搜",
+      "id": "newsnow-1c062bd88c15",
+      "title": "OSTA星芒手机官微上线，Logo同步公布",
+      "source": "酷安热榜",
       "brand": "行业",
       "model": "智能手机市场",
       "type": "爆料",
-      "trust": "媒体汇总",
+      "trust": "高关注爆料源",
       "date": "2026-11-12",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%89%E5%BC%A0%E2%80%9C%E5%9B%BE%E2%80%9D%E7%9C%8B%E5%BC%80%E6%94%BE%E4%B8%AD%E5%9B%BD%E6%96%B0%E6%9C%BA%E9%81%87",
+      "url": "https://www.coolapk.com/feed/74991195",
       "image": "",
-      "summary": "三张“图”看开放中国新机遇",
+      "summary": "OSTA星芒手机官微上线，Logo同步公布",
       "tags": [
         "行业",
         "爆料",
@@ -342,26 +722,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-84c5ace41c91",
-      "title": "Galaxy Z Fold 8 helps Samsung capture 69% foldable market share, its highest in years",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-11",
-      "time": "14:32",
-      "publishedAt": "2026-11-11T14:32:00.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-samsung-capture-69-percent-foldable-market-share-highest-in-years/",
-      "image": "",
-      "summary": "The foldable phone market is experiencing a renaissance. Well, foldable phones never went away, thanks to Samsung, but the launch of the Galaxy Z Fold 8 and Apple's iPhone Duo bro…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-6d9bfd587e80",
       "title": "If you bought an iPhone Duo, have you kept or returned it? [Poll]",
       "source": "9to5Mac",
@@ -377,106 +737,6 @@ window.phoneRadarAuto = {
       "summary": "When Apple announced the iPhone Duo back in September, the company called it “the most transformational change to iPhone since the original,” and there’s no doubt that it generate…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-538a2eba8e92",
-      "title": "不止小米 18 Pro 系列：卢伟冰官宣穿戴、米家智能新品同步亮相 11 月 17 日巴黎发布会",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-11",
-      "time": "13:37",
-      "publishedAt": "2026-11-11T13:37:16.000Z",
-      "url": "https://www.ithome.com/1/025/804.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/1870ed22-0f7f-4c52-9065-56a400732955.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 11 月 11 日消息，本月 9 日晚间，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰宣布，小米 18 Pro 系列将于巴黎时间 11 月 17 日 14 时发布，届时将面向国际首次发布全新“百变背屏”。此外，多款科技新品也将同场亮相。 卢伟冰刚刚再次发文预热，宣布此次发布会不只有小米 18 Pro 系列手机， 穿戴、米家智能新品也…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e22ef776cf37",
-      "title": "高铁座椅 USB 充电口“越充越掉电”，12306 客服称仅作应急补电使用",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-11",
-      "time": "13:33",
-      "publishedAt": "2026-11-11T13:33:04.000Z",
-      "url": "https://www.ithome.com/1/025/802.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/1cdbe25a-d458-41f3-8b3d-9251c9f1f75f.jpg",
-      "summary": "IT之家 11 月 11 日消息，近日有网友发帖称，高铁座椅 USB 接口给手机充电越充越掉电，一时间“乘客称高铁座椅充电越充越掉电”话题引发热议。 11 月 10 日，“万维视频”就此事致电铁路 12306 官方热线。接线客服回应称，列车充电口的电压 低于家里使用的交流电电压 ，是用来应急补电用的，如果手机电量较少或平时手机用电习惯较差的旅客，还是 建议…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-127cb5246ff0",
-      "title": "2027 年第八届华为睿影 XMAGE 金鸡手机电影计划全球征片开启：设 7 项荣誉共 19 部荣誉作品",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-11",
-      "time": "13:25",
-      "publishedAt": "2026-11-11T13:25:41.000Z",
-      "url": "https://www.ithome.com/1/025/799.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/4c650165-4c0e-43a7-8b7e-f1b34ec5f47c.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 11 月 11 日消息，华为官方今日宣布，2027 年第八届华为睿影 XMAGE 金鸡手机电影计划全球征片开启，面向个人与创作团体征集手机电影作品。 计划设 7 项荣誉共 19 部荣誉作品 ，结果将于 2027 年中国金鸡百花电影节期间揭晓。 参考IT之家此前报道，第七届华为睿影 XMAGE 金鸡手机电影计划入围名单已于今年 10 月正式揭晓。…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-7ce4a9f5f7de",
-      "title": "竹本青：【小米18 标准版 开启线下盲约：轻薄好握，年度均衡直板旗舰】 11月11日晚间，小米之家员工宣布小米18 标准版…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-11",
-      "time": "13:04",
-      "publishedAt": "2026-11-11T13:04:16.000Z",
-      "url": "https://www.coolapk.com/feed/75004978",
-      "image": "http://image.coolapk.com/feed/2026/1111/21/4248714_07b0c573_4435_2665_180@1438x1446.jpg",
-      "summary": "【小米18 标准版 开启线下盲约：轻薄好握，年度均衡直板旗舰】 11月11日晚间，小米之家员工宣布小米18 标准版开启预售盲约，并公开核心卖点：轻薄好握、直屏设计、徕卡影像、澎湃OS 4系统。 结合此前爆料，小米18 标准版 型号为M261DB，目前已经三证齐全，预计将在12月正式发布。硬件有望搭载： ○ 骁龙8 Elite Gen 6处理器 ○ 6.4\"…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-290f1d002aa8",
-      "title": "Apples and Galaxy Z Fold 8 storm the football pitch during Zurich All-Star Game 2026",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-11",
-      "time": "11:47",
-      "publishedAt": "2026-11-11T11:47:18.000Z",
-      "url": "https://www.sammobile.com/news/apples-galaxy-z-fold-8-storm-football-pitch-during-zurich-all-star-game-2026/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/11/Samsung_All-Star-Game-2026_Galaxy-Z-Fold8_3-1920x1280.jpg",
-      "summary": "Samsung found another ingenious way to promote the Galaxy Z Fold 8 while throwing shade at its biggest rival, Apple. The Zurich All-Star Game 2026 kicked off last Friday, when Sam…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -499,26 +759,6 @@ window.phoneRadarAuto = {
         "Pixel",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-f79613a7995b",
-      "title": "竹本青：OPPO Reno17系列预热：全新“鱼眼镜头”影像功能",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-11",
-      "time": "11:34",
-      "publishedAt": "2026-11-11T11:34:23.000Z",
-      "url": "https://www.coolapk.com/feed/75002710",
-      "image": "http://image.coolapk.com/feed/2026/1111/19/4248714_bd2e8307_6859_0588_27-livepic@2494x3325.jpg",
-      "summary": "【OPPO Reno17系列 预热：全新“鱼眼镜头”影像功能】 11月11日，OPPO产品经理张若星放出Reno17系列全新“鱼眼镜头”功能实拍样片。（入口：相机-POP-创意镜头-鱼眼。） Reno17系列除该功能外，还将支持出圈实况拼图、实况调色盘两大影像玩法。 #ColorOS17# #OPPOReno17# #今日热点#",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -573,7 +813,7 @@ window.phoneRadarAuto = {
       "time": "06:23",
       "publishedAt": "2026-11-11T06:23:30.000Z",
       "url": "https://www.gizmochina.com/2026/11/11/oppo-reno-17-series-four-50mp-cameras-officially-confirmed/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-16x9-33-300x169.jpg?x96268",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-16x9-33-300x169.jpg?x22604",
       "summary": "Oppo has officially confirmed the camera setup on the standard Oppo Reno 17 ahead of its China launch. The vanilla model uses four 50-megapixel cameras and is promoted as a Live P…",
       "tags": [
         "OPPO",
@@ -593,7 +833,7 @@ window.phoneRadarAuto = {
       "time": "04:43",
       "publishedAt": "2026-11-11T04:43:37.000Z",
       "url": "https://www.gizmochina.com/2026/11/11/samsung-galaxy-w27-vs-z-fold8-ultra/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/image-44-300x150.png?x96268",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/image-44-300x150.png?x22604",
       "summary": "Samsung’s Galaxy W27 and Galaxy Z Fold8 Ultra present an unusual comparison. Rather than two competing foldables with substantially different hardware, they represent two regional…",
       "tags": [
         "Samsung",
@@ -633,32 +873,12 @@ window.phoneRadarAuto = {
       "time": "04:20",
       "publishedAt": "2026-11-11T04:20:27.000Z",
       "url": "https://www.gizmochina.com/2026/11/11/redmi-is-planning-a-12000mah-phone-while-next-stop-is-14000mah/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/redmi-is-planning-a-12000mah-phone-while-next-stop-is-14000mah-3-300x200.jpg?x96268",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/redmi-is-planning-a-12000mah-phone-while-next-stop-is-14000mah-3-300x200.jpg?x22604",
       "summary": "Redmi is already planning a battery bigger than the one in the Redmi K100. We followed the Redmi K100’s 10,000mAh cell from an August leak to its official confirmation before the…",
       "tags": [
         "Xiaomi",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-625538b15102",
-      "title": "JSCHEN小小狐：OSTA星芒手机官微上线，Logo同步公布",
-      "source": "JSCHEN小小狐",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-11",
-      "time": "02:49",
-      "publishedAt": "2026-11-11T02:49:04.000Z",
-      "url": "https://www.coolapk.com/feed/74991195",
-      "image": "http://image.coolapk.com/feed/2026/1111/10/4702274_05fd3ba2_5761_537_108@1440x1440.jpg",
-      "summary": "『OSTA 星芒手机官微上线 / 新 Logo 同步公布』 11 月 11 日，华为全新子品牌 OSTA 星芒手机正式注册官方微博，全新品牌 Logo 同步公布。Logo 以紫色为主题色，“OSTA” 字母为主体。 此前，余承东、何刚在微博同步官宣，华为全新子品牌 OSTA 星芒将在 11 月 20 日的「鸿蒙智行享界 V8 及星芒品牌发布会」上首次亮相。…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -713,7 +933,7 @@ window.phoneRadarAuto = {
       "time": "01:57",
       "publishedAt": "2026-11-11T01:57:16.000Z",
       "url": "https://www.gizmochina.com/2026/11/11/honors-first-wide-screen-phone-has-a-battery-bigger-than-8000mah-claims-leak/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Coolpad-Cool-X-Wide-Launch-Specs-300x200.jpg?x96268",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Coolpad-Cool-X-Wide-Launch-Specs-300x200.jpg?x22604",
       "summary": "Honor’s first wide-screen phone could have a bigger battery than the Huawei Pura X View that started the trend. According to tipster Digital Chat Station (DCS), the upcoming 6.39-…",
       "tags": [
         "HONOR",
@@ -733,7 +953,7 @@ window.phoneRadarAuto = {
       "time": "01:19",
       "publishedAt": "2026-11-11T01:19:57.000Z",
       "url": "https://www.gizmochina.com/2026/11/11/iphone-18-and-iphone-air-2-dummy-models-show-rear-camera-layouts-in-new-leak/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/iphone-18-and-iphone-air-2-dummy-models-show-rear-camera-layouts-in-new-leak-300x200.jpg?x96268",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/iphone-18-and-iphone-air-2-dummy-models-show-rear-camera-layouts-in-new-leak-300x200.jpg?x22604",
       "summary": "A new image claims to show dummy models of the iPhone 18 and iPhone Air 2. It follows the X-ray images of the iPhone 18 and iPhone 18e that surfaced earlier this month. This time,…",
       "tags": [
         "iPhone",
