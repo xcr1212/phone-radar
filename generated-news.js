@@ -1,6 +1,346 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-11-12T09:48:51.452Z",
+  "updatedAt": "2026-11-12T18:18:05.922Z",
   "news": [
+    {
+      "id": "auto-85f0899534a1",
+      "title": "Pixel 11 Vs. Pixel 8 reveals a strange quirk. [Video]",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-12",
+      "time": "17:33",
+      "publishedAt": "2026-11-12T17:33:10.000Z",
+      "url": "https://www.androidpolice.com/video/pixel-11-vs-pixel-8-reveals-a-strange-quirk-video/",
+      "image": "",
+      "summary": "There have been some changes.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5680c915e5e4",
+      "title": "Apple Adds Samsung Foldables to Trade-In Program",
+      "source": "MacRumors",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-12",
+      "time": "16:43",
+      "publishedAt": "2026-11-12T16:43:45.000Z",
+      "url": "https://www.macrumors.com/2026/11/12/apple-adds-samsung-foldables-to-trade-in-program/",
+      "image": "https://images.macrumors.com/article-new/2026/09/Apple-Trade-Ins-Feature.jpg",
+      "summary": "Apple today revised its U.S. trade-in estimates, with increases for many older iPhones, reductions for several Pro models, and newly listed offers for six Samsung foldables. The i…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-592cae364194",
+      "title": "Is Samsung the reason behind Apple’s iPhone 18 launch delay?",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-12",
+      "time": "16:02",
+      "publishedAt": "2026-11-12T16:02:49.000Z",
+      "url": "https://www.sammobile.com/news/is-samsung-reason-apple-iphone-18-launch-delay/",
+      "image": "",
+      "summary": "Apple did something peculiar this year. Instead of launching both the base and Pro variants of the iPhone 18 series together, it only launched the iPhone 18 Pro models alongside t…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a134e0a664b5",
+      "title": "Forget folding screens, Samsung may want your next phone to slide open",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-11-12",
+      "time": "15:25",
+      "publishedAt": "2026-11-12T15:25:18.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/forget-folding-screens-samsung-may-want-your-next-phone-to-slide-open",
+      "image": "https://cdn.mos.cms.futurecdn.net/Y3K9tt3jcKg6PAXNQLuHY9-1920-80.jpg",
+      "summary": "Samsung's rumored sliding phone could replace the Galaxy Z Flip if it solves one big battery problem.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6d442642d7b2",
+      "title": "OnePlus Turbo 6V vs Realme Neo7 SE: Which Smartphone Offers Better Value?",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-12",
+      "time": "14:10",
+      "publishedAt": "2026-11-12T14:10:49.000Z",
+      "url": "https://www.gizmochina.com/2026/11/12/oneplus-turbo-6v-vs-realme-neo7-se/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/image-48-300x160.png?x22604",
+      "summary": "OnePlus Turbo 6V and Realme Neo7 SE target buyers who want flagship-inspired features without spending flagship money. Both combine powerful hardware, large batteries and durable…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6418305d5623",
+      "title": "Galaxy S27 series wallpaper leak hints at new color options",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-12",
+      "time": "13:42",
+      "publishedAt": "2026-11-12T13:42:56.000Z",
+      "url": "https://www.gizmochina.com/2026/11/12/galaxy-s27-series-wallpaper-leak-hints-at-new-color-options/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/galaxy-s27-ultra-wallpaper-leak-hints-at-new-color-options-300x169.jpg?x22604",
+      "summary": "Samsung has a pretty consistent habit of pairing its phones with default wallpapers that match the available finishes. The post Galaxy S27 series wallpaper leak hints at new color…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1d833c8b5df9",
+      "title": "Galaxy S27 wallpapers leak, giving us early clues on expected colors",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-12",
+      "time": "13:25",
+      "publishedAt": "2026-11-12T13:25:26.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s27-series-wallpapers-leak-3734394/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/Samsung-Galaxy-S26-Ultra-home-screen.jpg",
+      "summary": "Although we’re still a couple of months away from the Galaxy S26 series launch, their wallpapers are already here.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f4468ef9a825",
+      "title": "Foxconn revenue climbs 46%; Bloomberg forecasts 16M iPhone Duo sales",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-12",
+      "time": "13:16",
+      "publishedAt": "2026-11-12T13:16:02.000Z",
+      "url": "https://9to5mac.com/2026/11/12/foxconn-revenue-climbs-46-bloomberg-forecasts-16m-iphone-duo-sales/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Foxconn-revenue-climbs-46-Bloomberg-forecasts-16M-iPhone-Duo-sales.jpg?quality=82&strip=all&w=1600",
+      "summary": "Key Apple manufacturing partner Foxconn has announced a year-on-year revenue increase of 46%, thanks to a mix of consumer electronics and server demand. Separately, Bloomberg Inte…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9278339f1947",
+      "title": "Galaxy S26 Ultra 256GB model sees a $250 price cut",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-12",
+      "time": "13:04",
+      "publishedAt": "2026-11-12T13:04:02.000Z",
+      "url": "https://www.gizmochina.com/2026/11/12/galaxy-s26-ultra-256gb-model-sees-a-250-price-cut/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/04/Samsung-Galaxy-S26-Ultra-300x160.jpg?x22604",
+      "summary": "The deal focuses on the unlocked 256GB model in White. It’s listed around $1,138 right now, down from the usual $1,399.99. The post Galaxy S26 Ultra 256GB model sees a $250 price…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d12becf8e4ba",
+      "title": "The iPhone Duo’s rocky launch is a reminder of how far Android foldables have come",
+      "source": "9to5Google",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-12",
+      "time": "12:00",
+      "publishedAt": "2026-11-12T12:00:00.000Z",
+      "url": "https://9to5google.com/2026/11/12/the-iphone-duos-rocky-launch-is-a-reminder-of-how-far-android-foldables-have-come/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/galaxy-z-fold-8-iphone-duo-4.jpg?quality=82&strip=all&w=1600",
+      "summary": "Good morning. Today I’m finding open source alternatives to all of my apps , poring through Pitchfork’s list of the 100 best indie rock albums to find ones I haven’t listened to,…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-85d9373699ba",
+      "title": "竹本青：【奇瑞集团报案：有不法分子冒用公司名义开展高校招聘】 11月12日，奇瑞集团法务部发布声明，称近期有不法机构及个人…",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-12",
+      "time": "11:55",
+      "publishedAt": "2026-11-12T11:55:18.000Z",
+      "url": "https://www.coolapk.com/feed/75025943",
+      "image": "http://image.coolapk.com/feed/2026/1112/19/4248714_a4f37797_4516_2381_801@484x1046.jpg",
+      "summary": "【奇瑞集团报案：有不法分子冒用公司名义开展高校招聘】 11月12日，奇瑞集团法务部发布声明，称近期有不法机构及个人冒用公司名义，在河南工学院、贵州师范大学等高校发布虚假招聘信息并开展招聘活动，收集学生身份证号、手机号等个人隐私信息。 经核查，相关招聘及资料均系伪造，涉事主体与奇瑞无关联，奇瑞已向公安机关正式报案，案件正在侦查中。奇瑞同时公布官方招聘渠道，提…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-f466a04771b7",
+      "title": "Galaxy Z Fold 8 Ultra gets a $230 discount on Amazon",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-12",
+      "time": "11:16",
+      "publishedAt": "2026-11-12T11:16:38.000Z",
+      "url": "https://www.gizmochina.com/2026/11/12/galaxy-z-fold-8-ultra-gets-a-230-discount-on-amazon/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/galaxy-z-fold-8-ultra-gets-a-230-discount-on-amazon-300x169.jpg?x22604",
+      "summary": "The deal is specifically on the 512GB model. Amazon has dropped it from $2,299.99 down to $2,069.99, that’s a $230 saving, or about 10 percent off. The post Galaxy Z Fold 8 Ultra…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f4ad66bec9e7",
+      "title": "The vivo X500 Pro Max is the most fun I’ve had with video capture on a phone",
+      "source": "Android Authority",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-12",
+      "time": "11:00",
+      "publishedAt": "2026-11-12T11:00:25.000Z",
+      "url": "https://www.androidauthority.com/vivo-x500-pro-max-favorite-video-capture-phone-3731185/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/vivo-X500-Pro-Max-rear-cover-and-cameras.jpg",
+      "summary": "Vivo's latest flagship is a fun time when it comes to video capture, even though some features are a miss.",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-83702639585a",
+      "title": "OnePlus 16 vs OnePlus Ace 7 Pro: Which OnePlus Flagship Should You Buy?",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-12",
+      "time": "10:51",
+      "publishedAt": "2026-11-12T10:51:20.000Z",
+      "url": "https://www.gizmochina.com/2026/11/12/oneplus-16-vs-oneplus-ace-7-pro/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/image-47-300x158.png?x22604",
+      "summary": "OnePlus 16 and OnePlus Ace 7 Pro take different approaches to flagship performance despite sharing several core specifications. Both feature a 9000mAh battery, a 185Hz display and…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-dbde6ff828cc",
+      "title": "iPhone 20 Pro tipped to bring Apple’s biggest redesign since the iPhone X",
+      "source": "Gizmochina",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-12",
+      "time": "10:44",
+      "publishedAt": "2026-11-12T10:44:57.000Z",
+      "url": "https://www.gizmochina.com/2026/11/12/iphone-20-pro-tipped-to-bring-apples-biggest-redesign-since-the-iphone-x/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/iphone-20-pro-design-300x169.jpg?x22604",
+      "summary": "The front glass is said to curve on all four sides, which would hide or shrink the metal frame so the phone looks almost borderless when you’re just holding it. The post iPhone 20…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a35ebac43c01",
+      "title": "The Galaxy S27 Ultra camera leak has me worried Samsung learned nothing",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-12",
+      "time": "10:00",
+      "publishedAt": "2026-11-12T10:00:16.000Z",
+      "url": "https://www.androidauthority.com/galaxy-s27-ultra-camera-concerns-3733812/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/Samsung-Galaxy-S26-Ultras-camera-module-zoomed-in.jpg",
+      "summary": "Samsung is still putting its best 200MP camera behind the wrong lens.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7a514bf33967",
+      "title": "'A very well-considered follow-up' — 3 reasons the Honor 700 series could shake up the mid-range Android market",
+      "source": "Android Central",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-11-12",
+      "time": "09:57",
+      "publishedAt": "2026-11-12T09:57:40.000Z",
+      "url": "https://www.androidcentral.com/phones/honor-phones/a-very-well-considered-follow-up-3-reasons-the-honor-700-series-could-shake-up-the-mid-range-android-market",
+      "image": "https://cdn.mos.cms.futurecdn.net/9qrfyisguHTVz6RTShxSvK-1920-80.jpg",
+      "summary": "The Honor 700 series could compete with high-end flagships if it launches at the right price.",
+      "tags": [
+        "HONOR",
+        "评测",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-61da836d7a0a",
       "title": "Honor 700 series specs leak: all three phones tipped with a rear screen and a 9000mAh battery",
@@ -37,26 +377,6 @@ window.phoneRadarAuto = {
       "summary": "Digital Chat Station has shared a new leak about an upcoming S-series flagship that is believed to be the Vivo X500s. The exclusive tip outlines a large-screen all-around flagship…",
       "tags": [
         "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-47dd59cbf987",
-      "title": "Galaxy S25 Ultra discount is back for Indian buyers who missed previous deal",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-12",
-      "time": "08:33",
-      "publishedAt": "2026-11-12T08:33:18.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s25-ultra-discount-back-indian-buyers-who-missed-previous-deal/",
-      "image": "",
-      "summary": "Samsung’s last year’s flagship non-foldable smartphone, the Galaxy S25 Ultra, has been available in India at massive discounts on several occasions, particularly during major fest…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -122,26 +442,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-a4e0fe924992",
-      "title": "荣耀 700 系列手机全系配备新一代绿洲护眼屏：首发旗舰同款长焦增距镜，提供“4K 电影感 Live 照片”",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-12",
-      "time": "07:17",
-      "publishedAt": "2026-11-12T07:17:01.000Z",
-      "url": "https://www.ithome.com/1/026/097.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/2be60b68-3dd3-4376-9d96-0c05fc948ff2.png",
-      "summary": "IT之家 11 月 12 日现场消息，在今天的荣耀 700 闭门沟通会现场中，荣耀透露了相应机型部分规格信息， IT之家获悉，相应机型全系配备全新一代荣耀绿洲护眼屏，采用 1.5K 分辨率与 0.98mm 极窄四等边设计，支持 1nit 硬件极暗显示与 8000nits 峰值亮度，搭载 3840Hz 零风险调光。 同时，其行业首创全链路干眼守护方案，联合复…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "weibo-3d5cd343a2b4",
       "title": "数码闲聊站：独家信息：S小迭代旗舰机，6.85\"2K+144Hz LTPO直屏，64Mp中…",
       "source": "数码闲聊站",
@@ -199,26 +499,6 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-d6e8940a4798",
-      "title": "荣耀 700 系列手机规格信息曝光：至高搭高通骁龙 8 Gen 5 处理器，内置 9000mAh 电池",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-12",
-      "time": "07:02",
-      "publishedAt": "2026-11-12T07:02:05.000Z",
-      "url": "https://www.ithome.com/1/026/089.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/afb7f028-c62c-4987-82cf-ca594db8633b.png",
-      "summary": "IT之家 11 月 12 日消息，博主 @体验more 发文，曝光了荣耀 700 系列手机规格信息，系列手机均配备 1.72 英寸背屏，拥有 0.98mm LIPO 四等窄黑边。 IT之家整理如下： 荣耀 700 该机配备一块 6.57 英寸面板，使用高通骁龙 8s Gen 4 处理器，内置 9000mAh 电池（支持 80W 有线充电），匹配 200Mp…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -542,6 +822,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-5267e4aa8334",
+      "title": "如果 iPhone 20 Pro 真的是这样，我必买！iPhone 18 和 iPhone Duo 说实话是没有太大的兴趣，但是看到 iPhone 20 这个外观真的心动，配置也非常不错。",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-12",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/75013558",
+      "image": "",
+      "summary": "如果 iPhone 20 Pro 真的是这样，我必买！iPhone 18 和 iPhone Duo 说实话是没有太大的兴趣，但是看到 iPhone 20 这个外观真的心动，配置也非常不错。",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-1c062bd88c15",
       "title": "OSTA星芒手机官微上线，Logo同步公布",
       "source": "酷安热榜",
@@ -557,6 +857,46 @@ window.phoneRadarAuto = {
       "summary": "OSTA星芒手机官微上线，Logo同步公布",
       "tags": [
         "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-037a85cc3295",
+      "title": "国产手机再迎双品牌战略",
+      "source": "今日头条热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-12",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7707106382072054322/",
+      "image": "",
+      "summary": "国产手机再迎双品牌战略",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-ab0d7258919b",
+      "title": "iPhone 13为何突然又火了",
+      "source": "今日头条热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-12",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7706895766857613833/",
+      "image": "",
+      "summary": "iPhone 13为何突然又火了",
+      "tags": [
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -602,26 +942,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-fa61f144af45",
-      "title": "Galaxy S24 Ultra owners love their phones, and newer models aren’t winning them over",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-11",
-      "time": "20:42",
-      "publishedAt": "2026-11-11T20:42:34.000Z",
-      "url": "https://www.sammobile.com/news/samsung-galaxy-s24-ultra-owners-love-their-phones-waiting-upgrade/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/11/Galaxy-S24-Ultra-display-1920x1079.jpg",
-      "summary": "Samsung's newer flagships are making some Galaxy S24 Ultra owners appreciate their old phone even more. They still love its design and features, and the Galaxy S25 Ultra and S26 U…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-c18bf6dfef55",
       "title": "Apple reportedly met with Thai officials over spyware alerts sent to politicians",
       "source": "9to5Mac",
@@ -637,26 +957,6 @@ window.phoneRadarAuto = {
       "summary": "Bloomberg reports that Apple has met with Thai government officials in the wake of its recent wave of iPhone alerts about mercenary spyware attacks. Here are the details. more…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-698ebe45b35e",
-      "title": "An old Samsung accessory I almost threw away pairs perfectly with my Galaxy Z Fold 8",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-11",
-      "time": "19:00",
-      "publishedAt": "2026-11-11T19:00:00.000Z",
-      "url": "https://www.sammobile.com/opinion/old-samsung-accessory-pairs-perfectly-galaxy-z-fold-8/",
-      "image": "",
-      "summary": "One of the great things about being a Samsung fan for all these years is that I have rarely experienced buyer's remorse. It happened once with a product I didn't spend much on. Bu…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -882,26 +1182,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "weibo-c76a25b88b94",
-      "title": "数码闲聊站：独家超前瞻，12000mAh±大电池已完成量产规划，新机定位不算低，13000…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-11",
-      "time": "02:43",
-      "publishedAt": "2026-11-11T02:43:46.000Z",
-      "url": "https://weibo.com/6048569942/RqRoVDumW",
-      "image": "",
-      "summary": "独家超前瞻，12000mAh±大电池已完成量产规划，新机定位不算低，13000-14000mAh±巨容量方案积极评估中，计划明年量产，子系电池大爆发",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
       "id": "coolapk-user-b4fd76c8fc37",
       "title": "JSCHEN小小狐：OPPO Reno17系列预热：四主摄 + 超清实况",
       "source": "JSCHEN小小狐",
@@ -955,66 +1235,6 @@ window.phoneRadarAuto = {
       "url": "https://www.gizmochina.com/2026/11/11/iphone-18-and-iphone-air-2-dummy-models-show-rear-camera-layouts-in-new-leak/",
       "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/iphone-18-and-iphone-air-2-dummy-models-show-rear-camera-layouts-in-new-leak-300x200.jpg?x22604",
       "summary": "A new image claims to show dummy models of the iPhone 18 and iPhone Air 2. It follows the X-ray images of the iPhone 18 and iPhone 18e that surfaced earlier this month. This time,…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-f8bf4490a46c",
-      "title": "数码闲聊站：独家，6.39英寸阔直板新机，目前早期工程机是骁龙芯，200Mp大底三摄影像，…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-11",
-      "time": "01:06",
-      "publishedAt": "2026-11-11T01:06:16.000Z",
-      "url": "https://weibo.com/6048569942/RqQLm2Gkm",
-      "image": "",
-      "summary": "独家，6.39英寸阔直板新机，目前早期工程机是骁龙芯，200Mp大底三摄影像，有一颗潜望镜，喜欢吗[二哈]",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "auto-06fe17922ffc",
-      "title": "Apple's Holiday Gift Guide Highlights iPhone Duo and More",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-11",
-      "time": "00:57",
-      "publishedAt": "2026-11-11T00:57:36.000Z",
-      "url": "https://www.macrumors.com/2026/11/10/apple-hoilday-gift-guide/",
-      "image": "https://images.macrumors.com/article-new/2026/11/hero_holiday_2026_yellow_feature-1.jpg",
-      "summary": "Apple this week updated its homepage in the U.S. and other countries to start promoting holiday gift suggestions as the shopping season approaches. The website has colorful, festi…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c151e3b70730",
-      "title": "Three Workers Die at Tata iPhone Parts Plant in India",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-11",
-      "time": "00:46",
-      "publishedAt": "2026-11-11T00:46:16.000Z",
-      "url": "https://www.macrumors.com/2026/11/10/india-tata-electronics-gas-incident/",
-      "image": "https://images.macrumors.com/article-new/2020/08/apple-india.jpg",
-      "summary": "Three contract workers died on Monday at a factory owned by Indian Apple supplier Tata Electronics, reports Reuters . The facility in Hosur, Tamil Nadu, manufactures components fo…",
       "tags": [
         "iPhone",
         "爆料",

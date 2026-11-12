@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-11-12T09:48:51.452Z",
+  "updatedAt": "2026-11-12T18:18:05.922Z",
   "issueDate": "2026-11-12",
   "issue": "VOL.261112",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 3 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 10 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、2 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 8,
-    "iphone": 3,
+    "total": 10,
+    "iphone": 5,
     "leaks": 8,
-    "official": 0,
+    "official": 2,
     "specs": 0
   },
   "sections": [
@@ -17,6 +17,29 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "newsnow-5267e4aa8334",
+          "title": "如果 iPhone 20 Pro 真的是这样，我必买！iPhone 18 和 iPhone Duo 说实话是没有太大的兴趣，但是看到 iPhone 20 这个外观真的心动，配置也非常不错。",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-11-12",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/75013558",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "如果 iPhone 20 Pro 真的是这样，我必买！iPhone 18 和 iPhone Duo 说实话是没有太大的兴趣，但是看到 iPhone 20 这个外观真的心动，配置也非常不错。",
+          "detail": "如果 iPhone 20 Pro 真的是这样，我必买！iPhone 18 和 iPhone Duo 说实话是没有太大的兴趣，但是看到 iPhone 20 这个外观真的心动，配置也非常不错。",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-2f62377e7d55",
           "title": "iPhone 18 机模 / 配色信息曝光",
@@ -66,70 +89,24 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-06fe17922ffc",
-          "title": "iPhone 相关消息",
+          "id": "auto-6418305d5623",
+          "title": "Galaxy S27 机模 / 配色信息曝光",
           "originalTitle": "",
-          "source": "MacRumors",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-11-11",
-          "time": "00:57",
-          "publishedAt": "2026-11-11T00:57:36.000Z",
-          "url": "https://www.macrumors.com/2026/11/10/apple-hoilday-gift-guide/",
-          "image": "https://images.macrumors.com/article-new/2026/11/hero_holiday_2026_yellow_feature-1.jpg",
-          "verdict": "先看",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-a4e0fe924992",
-          "title": "荣耀 700 系列手机全系配备新一代绿洲护眼屏：首发旗舰同款长焦增距镜，提供“4K 电影感 Live 照片”",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "HONOR",
+          "source": "Gizmochina",
+          "brand": "Samsung",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-11-12",
-          "time": "07:17",
-          "publishedAt": "2026-11-12T07:17:01.000Z",
-          "url": "https://www.ithome.com/1/026/097.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/2be60b68-3dd3-4376-9d96-0c05fc948ff2.png",
+          "time": "13:42",
+          "publishedAt": "2026-11-12T13:42:56.000Z",
+          "url": "https://www.gizmochina.com/2026/11/12/galaxy-s27-series-wallpaper-leak-hints-at-new-color-options/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/galaxy-s27-ultra-wallpaper-leak-hints-at-new-color-options-300x169.jpg?x22604",
           "verdict": "先看",
-          "takeaway": "IT之家 11 月 12 日现场消息，在今天的荣耀 700 闭门沟通会现场中，荣耀透露了相应机型部分规格信息， IT之家获悉，相应机型全系配备全新一代荣耀绿洲护眼屏，采用 1.5K 分辨率与 0.98mm 极窄四等边设计，支持 1nit 硬件极暗显示与 8000nits 峰值亮度，搭载 3840Hz 零风险调光。 同时，其行业首创全链路干眼守护方案，联合复…",
-          "detail": "IT之家 11 月 12 日现场消息，在今天的荣耀 700 闭门沟通会现场中，荣耀透露了相应机型部分规格信息， IT之家获悉，相应机型全系配备全新一代荣耀绿洲护眼屏，采用 1.5K 分辨率与 0.98mm 极窄四等边设计，支持 1nit 硬件极暗显示与 8000nits 峰值亮度，搭载 3840Hz 零风险调光。 同时，其行业首创全链路干眼守护方案，联合复…",
+          "takeaway": "Galaxy S27 机模 / 配色信息曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
+          "detail": "Galaxy S27 机模 / 配色信息曝光。来源提到未发布机型的机模/配色图，适合先判断外观方向、颜色变化和机身轮廓，但最终量产版本仍可能调整。",
           "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-d6e8940a4798",
-          "title": "荣耀 700 系列手机规格信息曝光：至高搭高通骁龙 8 Gen 5 处理器，内置 9000mAh 电池",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-11-12",
-          "time": "07:02",
-          "publishedAt": "2026-11-12T07:02:05.000Z",
-          "url": "https://www.ithome.com/1/026/089.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/afb7f028-c62c-4987-82cf-ca594db8633b.png",
-          "verdict": "先看",
-          "takeaway": "IT之家 11 月 12 日消息，博主 @体验more 发文，曝光了荣耀 700 系列手机规格信息，系列手机均配备 1.72 英寸背屏，拥有 0.98mm LIPO 四等窄黑边。 IT之家整理如下： 荣耀 700 该机配备一块 6.57 英寸面板，使用高通骁龙 8s Gen 4 处理器，内置 9000mAh 电池（支持 80W 有线充电），匹配 200Mp…",
-          "detail": "IT之家 11 月 12 日消息，博主 @体验more 发文，曝光了荣耀 700 系列手机规格信息，系列手机均配备 1.72 英寸背屏，拥有 0.98mm LIPO 四等窄黑边。 IT之家整理如下： 荣耀 700 该机配备一块 6.57 英寸面板，使用高通骁龙 8s Gen 4 处理器，内置 9000mAh 电池（支持 80W 有线充电），匹配 200Mp…",
-          "keyPoints": [
-            "电池 / 充电",
-            "芯片 / 性能"
+            "外观 / 配色 / 尺寸",
+            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -208,6 +185,82 @@ window.phoneRadarDaily = {
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-14a13d544608",
+          "title": "折叠屏手机的转身｜明日后视镜",
+          "originalTitle": "",
+          "source": "爱范儿",
+          "brand": "行业",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-11-12",
+          "time": "01:39",
+          "publishedAt": "2026-11-12T01:39:17.000Z",
+          "url": "https://www.ifanr.com/1689097?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "image": "https://s3.ifanr.com/wp-content/uploads/2026/11/banner16t9-1.jpg",
+          "verdict": "先看",
+          "takeaway": "折叠屏手机的挑战，生态适配的试炼，也许才刚刚开始",
+          "detail": "折叠屏手机的挑战，生态适配的试炼，也许才刚刚开始",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        }
+      ]
+    },
+    {
+      "id": "iphone",
+      "title": "iPhone 重点",
+      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
+      "items": [
+        {
+          "id": "auto-bfd196d7caed",
+          "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "Apple Newsroom",
+          "brand": "iPhone",
+          "type": "官方",
+          "trust": "官方确认",
+          "date": "2026-11-12",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.apple.com/newsroom/2026/10/iphone-duo-arrives-at-apple-store-locations-worldwide/",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "官方"
+          ],
+          "confidence": "官方内容，可直接作为已确认信息记录。",
+          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-a89f115eb254",
+          "title": "iPhone 芯片 / 性能相关消息",
+          "originalTitle": "",
+          "source": "Apple Newsroom",
+          "brand": "iPhone",
+          "type": "官方",
+          "trust": "官方确认",
+          "date": "2026-11-12",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.apple.com/newsroom/2026/10/apple-announces-american-manufacturing-program-partners-for-latest-iphone-lineup/",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone 芯片 / 性能相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "官方"
+          ],
+          "confidence": "官方内容，可直接作为已确认信息记录。",
+          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }
