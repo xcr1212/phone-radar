@@ -1,6 +1,286 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-11-11T17:53:15.024Z",
+  "updatedAt": "2026-11-12T00:40:59.706Z",
   "news": [
+    {
+      "id": "auto-bfd196d7caed",
+      "title": "iPhone Duo arrives at Apple Store locations worldwide",
+      "source": "Apple Newsroom",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-11-12",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.apple.com/newsroom/2026/10/iphone-duo-arrives-at-apple-store-locations-worldwide/",
+      "image": "",
+      "summary": "On Friday, October 23, the highly anticipated iPhone Duo made its debut at Apple Store locations worldwide.",
+      "tags": [
+        "iPhone",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a89f115eb254",
+      "title": "Apple announces American Manufacturing Program partners for latest iPhone lineup",
+      "source": "Apple Newsroom",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-11-12",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-announces-american-manufacturing-program-partners-for-latest-iphone-lineup/",
+      "image": "",
+      "summary": "Apple announced new and expanded partnerships with American companies that are supplying critical materials and components for iPhone Duo and iPhone 18 Pro.",
+      "tags": [
+        "iPhone",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "newsnow-271ead01946c",
+      "title": "iPhone 变强了，但我没有",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-11-12",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/118250",
+      "image": "",
+      "summary": "iPhone 变强了，但我没有",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-cfe7f609b0fc",
+      "title": "一日一技｜iPhone 恶意被锁，线上移除流程拆招",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-11-12",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/116686",
+      "image": "",
+      "summary": "一日一技｜iPhone 恶意被锁，线上移除流程拆招",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-4afa825d2a63",
+      "title": "怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-11-12",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/116991",
+      "image": "",
+      "summary": "怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-fb5431cda532",
+      "title": "这价格也太恐怖了吧，直接掀桌子了 搞得我都手痒，想买了[喷]#REDMIK100ProMax#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-12",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74981111",
+      "image": "",
+      "summary": "这价格也太恐怖了吧，直接掀桌子了 搞得我都手痒，想买了[喷]#REDMIK100ProMax#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-17d274fab032",
+      "title": "#徕卡一瞬##谷歌相机##手机摄影#",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-12",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74996758",
+      "image": "",
+      "summary": "#徕卡一瞬##谷歌相机##手机摄影#",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-e76f3e028b57",
+      "title": "作为一个之前不怎么喜欢苹果的人，当然上一部对苹果那么感兴趣的手机就是十三香，去年给老婆买了个17标准版，当时一直认为苹果就是智商税，能卖那么贵。",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-12",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/74995295",
+      "image": "",
+      "summary": "作为一个之前不怎么喜欢苹果的人，当然上一部对苹果那么感兴趣的手机就是十三香，去年给老婆买了个17标准版，当时一直认为苹果就是智商税，能卖那么贵。",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-d8e54f07f215",
+      "title": "三张“图”看开放中国新机遇",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-12",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%89%E5%BC%A0%E2%80%9C%E5%9B%BE%E2%80%9D%E7%9C%8B%E5%BC%80%E6%94%BE%E4%B8%AD%E5%9B%BD%E6%96%B0%E6%9C%BA%E9%81%87",
+      "image": "",
+      "summary": "三张“图”看开放中国新机遇",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "auto-8ea3b10feecb",
+      "title": "iPhone Duo one week later: The future, or not for me?",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-11",
+      "time": "21:33",
+      "publishedAt": "2026-11-11T21:33:21.000Z",
+      "url": "https://9to5mac.com/2026/11/11/iphone-duo-one-week-later-the-future-or-not-for-me/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-23.jpg?quality=82&strip=all&w=1600",
+      "summary": "My iPhone Duo arrived last Thursday, so I’ve had a week to use it as my daily carry. My early experience has been mixed, so I keep asking myself an important question: is this the…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5e4f3d903c48",
+      "title": "Binance warns iPhone crypto holders of security flaw researchers say remains unpatched",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-11",
+      "time": "21:17",
+      "publishedAt": "2026-11-11T21:17:30.000Z",
+      "url": "https://9to5mac.com/2026/11/11/binance-warns-iphone-crypto-holders-of-security-flaw-researchers-say-remains-unpatched/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-hacked.jpg?quality=82&strip=all&w=1600",
+      "summary": "Crypto exchange Binance has warned iPhone users about an iOS vulnerability that could allow malicious apps to access sensitive data stored by other apps. Here are the details. mor…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fa61f144af45",
+      "title": "Galaxy S24 Ultra owners love their phones, and newer models aren’t winning them over",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-11",
+      "time": "20:42",
+      "publishedAt": "2026-11-11T20:42:34.000Z",
+      "url": "https://www.sammobile.com/news/samsung-galaxy-s24-ultra-owners-love-their-phones-waiting-upgrade/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/11/Galaxy-S24-Ultra-display-1920x1079.jpg",
+      "summary": "Samsung's newer flagships are making some Galaxy S24 Ultra owners appreciate their old phone even more. They still love its design and features, and the Galaxy S25 Ultra and S26 U…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c18bf6dfef55",
+      "title": "Apple reportedly met with Thai officials over spyware alerts sent to politicians",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-11",
+      "time": "20:18",
+      "publishedAt": "2026-11-11T20:18:07.000Z",
+      "url": "https://9to5mac.com/2026/11/11/apple-reportedly-met-with-thai-officials-over-spyware-alerts-sent-to-politicians/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/mercenary-alert-2.jpg?quality=82&strip=all&w=1600",
+      "summary": "Bloomberg reports that Apple has met with Thai government officials in the wake of its recent wave of iPhone alerts about mercenary spyware attacks. Here are the details. more…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-698ebe45b35e",
+      "title": "An old Samsung accessory I almost threw away pairs perfectly with my Galaxy Z Fold 8",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-11",
+      "time": "19:00",
+      "publishedAt": "2026-11-11T19:00:00.000Z",
+      "url": "https://www.sammobile.com/opinion/old-samsung-accessory-pairs-perfectly-galaxy-z-fold-8/",
+      "image": "",
+      "summary": "One of the great things about being a Samsung fan for all these years is that I have rarely experienced buyer's remorse. It happened once with a product I didn't spend much on. Bu…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-a890050b170f",
       "title": "iPhone is the winner of new battery test, topping all Androids",
@@ -97,26 +377,6 @@ window.phoneRadarAuto = {
       "summary": "When Apple announced the iPhone Duo back in September, the company called it “the most transformational change to iPhone since the original,” and there’s no doubt that it generate…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-8c8e96e64232",
-      "title": "The Samsung Galaxy S26 FE just quietly scored an impressive no-strings discount",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-11",
-      "time": "14:01",
-      "publishedAt": "2026-11-11T14:01:10.000Z",
-      "url": "https://www.androidpolice.com/samsung-galaxy-s26-fe-deal-early-black-friday-amazon/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/09/three-samsung-galaxy-s26-fe-held-in-one-hand-against-a-green-battery-patterned-background.png",
-      "summary": "The 'Fan Edition' smartphone has dropped to just $599 ahead of Black Friday",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -282,26 +542,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-7fcd296cfd36",
-      "title": "Motorola is coming to challenge the Galaxy Z Fold 8 in the US",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-11",
-      "time": "07:41",
-      "publishedAt": "2026-11-11T07:41:22.000Z",
-      "url": "https://www.sammobile.com/news/motorola-razr-flex-challenge-galaxy-z-fold-8-usa/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/11/Motorola-Razr-Flex-2027-Renders.jpg",
-      "summary": "The Galaxy Z Fold 8 is Samsung's first wide foldable phone, competing head-to-head with Apple's first foldable device, the iPhone Duo. Together, they are practically the only wide…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-214bbfeb08fb",
       "title": "JSCHEN小小狐：曝华为nova 18系列落地68MP 1:1 方形前摄",
       "source": "JSCHEN小小狐",
@@ -337,26 +577,6 @@ window.phoneRadarAuto = {
       "summary": "Oppo has officially confirmed the camera setup on the standard Oppo Reno 17 ahead of its China launch. The vanilla model uses four 50-megapixel cameras and is promoted as a Live P…",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-6f1941175688",
-      "title": "New Galaxy Z Fold 8 series, Flip 8 updates bring November 2026 security patch",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-11",
-      "time": "05:09",
-      "publishedAt": "2026-11-11T05:09:05.000Z",
-      "url": "https://www.sammobile.com/news/new-galaxy-z-fold-8-series-flip-8-updates-bring-november-2026-security-patch/",
-      "image": "",
-      "summary": "Samsung has released new software updates for the Galaxy Z Fold 8 Ultra, Galaxy Z Fold 8, and the Galaxy Z Flip 8 to offer the November 2026 security patch. It fixes 179 security…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -419,6 +639,26 @@ window.phoneRadarAuto = {
         "Xiaomi",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-625538b15102",
+      "title": "JSCHEN小小狐：OSTA星芒手机官微上线，Logo同步公布",
+      "source": "JSCHEN小小狐",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-11",
+      "time": "02:49",
+      "publishedAt": "2026-11-11T02:49:04.000Z",
+      "url": "https://www.coolapk.com/feed/74991195",
+      "image": "http://image.coolapk.com/feed/2026/1111/10/4702274_05fd3ba2_5761_537_108@1440x1440.jpg",
+      "summary": "『OSTA 星芒手机官微上线 / 新 Logo 同步公布』 11 月 11 日，华为全新子品牌 OSTA 星芒手机正式注册官方微博，全新品牌 Logo 同步公布。Logo 以紫色为主题色，“OSTA” 字母为主体。 此前，余承东、何刚在微博同步官宣，华为全新子品牌 OSTA 星芒将在 11 月 20 日的「鸿蒙智行享界 V8 及星芒品牌发布会」上首次亮相。…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
       ]
     },
     {
@@ -551,652 +791,12 @@ window.phoneRadarAuto = {
       "trust": "媒体汇总",
       "date": "2026-11-11",
       "time": "00:46",
-      "publishedAt": "2026-11-11T00:46:21.000Z",
+      "publishedAt": "2026-11-11T00:46:16.000Z",
       "url": "https://www.macrumors.com/2026/11/10/india-tata-electronics-gas-incident/",
       "image": "https://images.macrumors.com/article-new/2020/08/apple-india.jpg",
       "summary": "Three contract workers died on Monday at a factory owned by Indian Apple supplier Tata Electronics, reports Reuters . The facility in Hosur, Tamil Nadu, manufactures components fo…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-bfd196d7caed",
-      "title": "iPhone Duo arrives at Apple Store locations worldwide",
-      "source": "Apple Newsroom",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "官方",
-      "trust": "官方确认",
-      "date": "2026-11-11",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.apple.com/newsroom/2026/10/iphone-duo-arrives-at-apple-store-locations-worldwide/",
-      "image": "",
-      "summary": "On Friday, October 23, the highly anticipated iPhone Duo made its debut at Apple Store locations worldwide.",
-      "tags": [
-        "iPhone",
-        "官方",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a89f115eb254",
-      "title": "Apple announces American Manufacturing Program partners for latest iPhone lineup",
-      "source": "Apple Newsroom",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "官方",
-      "trust": "官方确认",
-      "date": "2026-11-11",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-announces-american-manufacturing-program-partners-for-latest-iphone-lineup/",
-      "image": "",
-      "summary": "Apple announced new and expanded partnerships with American companies that are supplying critical materials and components for iPhone Duo and iPhone 18 Pro.",
-      "tags": [
-        "iPhone",
-        "官方",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "newsnow-9a639748c649",
-      "title": "iPhone 变强了，但我没有",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-11-11",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/118250",
-      "image": "",
-      "summary": "iPhone 变强了，但我没有",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-82bebe7dc1b5",
-      "title": "一日一技｜iPhone 恶意被锁，线上移除流程拆招",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-11-11",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/116686",
-      "image": "",
-      "summary": "一日一技｜iPhone 恶意被锁，线上移除流程拆招",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-a9243496304d",
-      "title": "怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-11-11",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/116991",
-      "image": "",
-      "summary": "怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-484d7a1f11e0",
-      "title": "这价格也太恐怖了吧，直接掀桌子了 搞得我都手痒，想买了[喷]#REDMIK100ProMax#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-11",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74981111",
-      "image": "",
-      "summary": "这价格也太恐怖了吧，直接掀桌子了 搞得我都手痒，想买了[喷]#REDMIK100ProMax#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-0431a73e6741",
-      "title": "OSTA星芒手机官微上线，Logo同步公布",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-11",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74991195",
-      "image": "",
-      "summary": "OSTA星芒手机官微上线，Logo同步公布",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-001fa9ce6b0a",
-      "title": "山东球迷在大连买手机打5折",
-      "source": "微博热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-11-11",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E7%90%83%E8%BF%B7%E5%9C%A8%E5%A4%A7%E8%BF%9E%E4%B9%B0%E6%89%8B%E6%9C%BA%E6%89%935%E6%8A%98%23&t=31&band_rank=20&Refer=top",
-      "image": "",
-      "summary": "山东球迷在大连买手机打5折",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-d5b47569f0b3",
-      "title": "iPhone20Pro再曝",
-      "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-11-11",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23iPhone20Pro%E5%86%8D%E6%9B%9D%23&t=31&band_rank=27&Refer=top",
-      "image": "",
-      "summary": "iPhone20Pro再曝",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-a488438c8fbd",
-      "title": "三张“图”看开放中国新机遇",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-11",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%89%E5%BC%A0%E2%80%9C%E5%9B%BE%E2%80%9D%E7%9C%8B%E5%BC%80%E6%94%BE%E4%B8%AD%E5%9B%BD%E6%96%B0%E6%9C%BA%E9%81%87",
-      "image": "",
-      "summary": "三张“图”看开放中国新机遇",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-8310a7711f87",
-      "title": "iPhone 18 and 18e could share more than just their looks, X-ray scans suggest",
-      "source": "Gizmochina",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-10",
-      "time": "23:40",
-      "publishedAt": "2026-11-10T23:40:42.000Z",
-      "url": "https://www.gizmochina.com/2026/11/10/iphone-18-and-18e-could-share-more-than-just-their-looks-x-ray-scans-suggest/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/iphone-18-18e-x-ray-images-300x169.jpg?x96268",
-      "summary": "The scans, shared by a known leaker, suggest Apple is reusing a lot of the same internal layout across models while making targeted tweaks. The post iPhone 18 and 18e could share…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-4c954d240991",
-      "title": "Apple to investigate accident that killed three workers at iPhone parts factory in India",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-10",
-      "time": "21:34",
-      "publishedAt": "2026-11-10T21:34:43.000Z",
-      "url": "https://9to5mac.com/2026/11/10/apple-to-investigate-accident-that-killed-three-workers-at-iphone-parts-factory-in-india/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/03/apple-india.jpg?quality=82&strip=all&w=1600",
-      "summary": "Reuters reports that three contract workers died after inhaling gas during an inspection at a Tata Electronics factory that produces iPhone components in India. Here are the detai…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9c8712678b9f",
-      "title": "Google's November Pixel Drop is massive, and older Pixel phones are getting some love",
-      "source": "Android Central",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-11-10",
-      "time": "20:51",
-      "publishedAt": "2026-11-10T20:51:23.000Z",
-      "url": "https://www.androidcentral.com/phones/google-pixel/november-2026-google-pixel-drop",
-      "image": "https://cdn.mos.cms.futurecdn.net/tsGBfo6aojNnDjc3D9jkZD-1920-80.jpg",
-      "summary": "Pixel 10 owners just got some seriously good news.",
-      "tags": [
-        "Pixel",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f98ca125bbe0",
-      "title": "Gboard’s Rambler voice typing expands to the Pixel 10 series",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-10",
-      "time": "19:00",
-      "publishedAt": "2026-11-10T19:00:49.000Z",
-      "url": "https://www.androidauthority.com/google-gboard-rambler-pixel-10-series-feature-drop-3733419/",
-      "image": "",
-      "summary": "No longer a Pixel 11 exclusive.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-4fd8a0f2bac0",
-      "title": "Pixel 11’s better Pixel Search is expanding to every Pixel launched since 2021",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-10",
-      "time": "19:00",
-      "publishedAt": "2026-11-10T19:00:48.000Z",
-      "url": "https://www.androidauthority.com/pixel-11-search-natural-language-pixel-6-3733219/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2025/09/IMG_20250916_200047-scaled.jpg",
-      "summary": "That includes phones as old as the Pixel 6, including even the A-series ones.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d210a4bf6bb8",
-      "title": "Google rolls out Create My Widget to Pixel 10 and 11 series, but the Pixel 10a misses out",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-10",
-      "time": "19:00",
-      "publishedAt": "2026-11-10T19:00:41.000Z",
-      "url": "https://www.androidauthority.com/google-create-my-widget-pixel-feature-drop-3733311/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/google-create-my-widget-play-store-listing-hero-image.jpg",
-      "summary": "You can now use natural language commands to generate widgets, but not on the budget Pixel.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a133eb0d3c44",
-      "title": "RedMagic 12 Pro+ vs OnePlus Ace 7 Pro: Which Flagship Gaming Phone Is Better?",
-      "source": "Gizmochina",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-10",
-      "time": "17:35",
-      "publishedAt": "2026-11-10T17:35:02.000Z",
-      "url": "https://www.gizmochina.com/2026/11/10/redmagic-12-pro-plus-vs-oneplus-ace-7-pro/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/image-43-300x156.png?x96268",
-      "summary": "RedMagic 12 Pro+ and OnePlus Ace 7 Pro take different approaches to flagship performance, combining powerful Snapdragon processors with high-refresh-rate displays and advanced coo…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-71d33018f34f",
-      "title": "OnePlus Turbo 6V vs Nord 5: Is a 9000mAh Battery Better Than Flagship Performance?",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-10",
-      "time": "15:59",
-      "publishedAt": "2026-11-10T15:59:27.000Z",
-      "url": "https://www.gizmochina.com/2026/11/10/oneplus-turbo-6v-vs-oneplus-nord-5/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/image-42-300x149.png?x96268",
-      "summary": "OnePlus has two interesting options competing in the upper mid-range segment, but they take very different approaches. The OnePlus Turbo 6V focuses on battery endurance, durabilit…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2559a4fd35bc",
-      "title": "Galaxy S27 redesign leak shows off Pro vs Ultra size difference, with just a bit of controversy",
-      "source": "9to5Google",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-10",
-      "time": "15:20",
-      "publishedAt": "2026-11-10T15:20:00.000Z",
-      "url": "https://9to5google.com/2026/11/10/samsung-galaxy-s27-redesign-leak-size/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-s26-ultra-4.jpg?quality=82&strip=all&w=1600",
-      "summary": "Samsung is working on a long overdue redesign for its Galaxy S27 series and, this week, we’re getting a fresh look. more…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-27bcb5437047",
-      "title": "Galaxy S27 Ultra, Pro, and Plus dummy units leak, but the camera layout is raising red flags",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-10",
-      "time": "13:59",
-      "publishedAt": "2026-11-10T13:59:57.000Z",
-      "url": "https://www.androidauthority.com/samsung-galaxy-s27-pro-ultra-plus-dummy-units-leak-3733332/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/Samsung-Galaxy-S26-series-showing-backs.jpg",
-      "summary": "Past leaks indicate Samsung may ditch the 3x telephoto camera on the Galaxy S27 Ultra.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-4c9e5e3f7a85",
-      "title": "JSCHEN小小狐：华为睿影Z10 H1 / H2可换卡口开售：399元",
-      "source": "JSCHEN小小狐",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-10",
-      "time": "13:55",
-      "publishedAt": "2026-11-10T13:55:19.000Z",
-      "url": "https://www.coolapk.com/feed/74982482",
-      "image": "http://image.coolapk.com/feed/2026/1110/21/4702274_7c73a160_8916_673_985@800x800.png",
-      "summary": "『华为睿影 Z10 H1 / H2 可换卡口开售：399 元』 睿影 Z10 H1 / H2 单卡口售价：399 元 H1 卡口 —— 适配 Mate90 Pro Max 典藏版 H2 卡口 —— 适配 Mate90 RS 非凡大师 11 月 10 日，华为终端 BG CTO 李小龙 在微博宣布，华为睿影 Z10 10 倍变焦模块相机配套的 H1 / H2…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-75cf94ccfcfb",
-      "title": "I used the Pixel 11 Pro XL and Galaxy S26 Ultra for a week. This is the one I’d keep",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-10",
-      "time": "10:30",
-      "publishedAt": "2026-11-10T10:30:02.000Z",
-      "url": "https://www.androidauthority.com/samsung-galaxy-s26-ultra-vs-google-pixel-11-pro-xl-one-week-usage-3732233/",
-      "image": "",
-      "summary": "One flagship got the last laugh.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-31be2885b22a",
-      "title": "REDMAGIC 12 Pro+ China vs REDMAGIC 12 Pro Global: What’s Different?",
-      "source": "Gizmochina",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-10",
-      "time": "10:05",
-      "publishedAt": "2026-11-10T10:05:22.000Z",
-      "url": "https://www.gizmochina.com/2026/11/10/redmagic-12-pro-plus-china-vs-global/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/image-39-243x300.png?x96268",
-      "summary": "REDMAGIC has taken an interesting approach with its latest gaming flagship. The company launched the REDMAGIC 12 Pro+ in China but introduced the same phone internationally under…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1deba1b12ae0",
-      "title": "Motorola Signature 27 vs Honor Magic 9 Pro Max: Which flagship gives you more for your money?",
-      "source": "Gizmochina",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-10",
-      "time": "08:34",
-      "publishedAt": "2026-11-10T08:34:41.000Z",
-      "url": "https://www.gizmochina.com/2026/11/10/motorola-signature-27-vs-honor-magic-9-pro-max-which-flagship-gives-you-more-for-your-money/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/motorola-signature-27-vs-honor-magic-9-pro-max-which-flagship-gives-you-more-300x150.jpg?x96268",
-      "summary": "The Motorola Signature 27 costs $1,599.99 in the US and comes with a 200MP camera. The Honor Magic 9 Pro Max has two 200MP cameras and starts at around $900 in China. Both phones…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a024819a1e9f",
-      "title": "Xiaomi 18 Pro series global launch is set for November 17 in Paris",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-10",
-      "time": "07:09",
-      "publishedAt": "2026-11-10T07:09:33.000Z",
-      "url": "https://www.gizmochina.com/2026/11/10/xiaomi-18-pro-series-global-launch-is-set-for-november-17-in-paris/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/xiaomi-18-pro-series-global-launch-is-set-for-november-17-in-paris-241x300.jpg?x96268",
-      "summary": "Xiaomi has confirmed that the Xiaomi 18 Pro series will make its global debut in Paris on November 17. The announcement follows a teaser from Xu Fei, Xiaomi’s VP and CMO, who hint…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-6c46cc6d4c15",
-      "title": "A new red Honor Magic 9 color and photography master kit may launch soon",
-      "source": "Gizmochina",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-10",
-      "time": "06:51",
-      "publishedAt": "2026-11-10T06:51:17.000Z",
-      "url": "https://www.gizmochina.com/2026/11/10/new-red-honor-magic-9-color-photography-master-kit/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-v2-16x9-1-300x169.jpg?x96268",
-      "summary": "A new red color is coming to the Honor Magic 9 series, according to tipster Digital Chat Station, and a photography master kit is set to launch at the same time. DCS says a red un…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-04181318997f",
-      "title": "Purported Redmi K100 Ultra may pack a 2nm chip, 10,000mAh battery and 100W charging",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-10",
-      "time": "06:36",
-      "publishedAt": "2026-11-10T06:36:18.000Z",
-      "url": "https://www.gizmochina.com/2026/11/10/redmi-k100-ultra-2nm-10000mah-100w-charging-leak/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-16x9-27-300x169.jpg?x96268",
-      "summary": "Reliable tipster Digital Chat Station has shared new details on a next-generation sub-brand flagship now being discussed as the purported Redmi K100 Ultra. The tipster did not nam…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-fa838d91e15a",
-      "title": "Galaxy S27 series leak reveals all the camera sensors",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-10",
-      "time": "06:04",
-      "publishedAt": "2026-11-10T06:04:38.000Z",
-      "url": "https://www.androidauthority.com/samsung-galaxy-s27-series-camera-sensors-leak-3733185/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/Samsung-Galaxy-S26-series-showing-backs-1.jpg",
-      "summary": "The base and Plus models see no significant changes, while the Pro and Ultra models only get upgraded main shooters.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e5d15a5e885e",
-      "title": "OnePlus 17’s early leak reveals a wide-screen design",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-10",
-      "time": "05:00",
-      "publishedAt": "2026-11-10T05:00:28.000Z",
-      "url": "https://www.gizmochina.com/2026/11/10/oneplus-17-early-leak-wide-screen-design/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-16x9-25-300x169.jpg?x96268",
-      "summary": "The wide-screen candybar trend is spreading across Android flagships, and OnePlus now looks set to put its next numbered phone on that path. Weibo tipster Smart Pikachu has flagge…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-b0f86d15121d",
-      "title": "JSCHEN小小狐：消息称荣耀Magic9系列销量破50万，新配色将至",
-      "source": "JSCHEN小小狐",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-10",
-      "time": "04:35",
-      "publishedAt": "2026-11-10T04:35:15.000Z",
-      "url": "https://www.coolapk.com/feed/74970092",
-      "image": "http://image.coolapk.com/feed/2026/1110/12/4702274_87cc1b3c_5314_8915_793@1440x517.jpg",
-      "summary": "『荣耀 Magic9 系列销量破 50 万 / 新配色将至』 知名数码博主 数码闲聊站 今日爆料称，截至目前，荣耀 Magic9 系列累计销量已突破 50 万台，处本代安卓旗舰第一位置。 此外他还表示，荣耀后续将为该系列推出新配色（含一款“红色”），并同步上线摄影大师套装。 #今日热点# #荣耀Magic9# #荣耀Magic9超能版#",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "weibo-3b1248ce4d19",
-      "title": "数码闲聊站：耀子Magic9系列累计销量50W+，目前安卓冠军，后面还会出新配色，目前摸到…",
-      "source": "数码闲聊站",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-10",
-      "time": "04:32",
-      "publishedAt": "2026-11-10T04:32:00.000Z",
-      "url": "https://weibo.com/6048569942/RqIGmq3MJ",
-      "image": "",
-      "summary": "耀子Magic9系列累计销量50W+，目前安卓冠军，后面还会出新配色，目前摸到一个「红色」，并会同步上线摄影大师套装，可能还会再冲一波[吃瓜]",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "auto-3bde9b912758",
-      "title": "Vivo X500 Ultra may put Sony’s LOFIC sensor behind two of its three cameras",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-10",
-      "time": "02:27",
-      "publishedAt": "2026-11-10T02:27:23.000Z",
-      "url": "https://www.gizmochina.com/2026/11/10/vivo-x500-ultra-sony-lyt-l910-lofic-sensor-main-ultrawide-camera-leak/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/vivo-X300-Ultra-Review_1.mp4_20260408_143941.449-1024x512-1-300x169.jpg?x96268",
-      "summary": "Digital Chat Station shared new camera details about an upcoming Ultra flagship today. It is likely the Vivo X500 Ultra, based on the tipster’s habits. Here is what the post says.…",
-      "tags": [
-        "vivo",
         "爆料",
         "自动抓取"
       ]
