@@ -1,24 +1,264 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-11-13T09:29:51.690Z",
+  "updatedAt": "2026-11-13T17:43:25.555Z",
   "news": [
     {
-      "id": "coolapk-user-8fe46b3675fe",
-      "title": "竹本青：【曝华为Pura X View激活销量破百万，为下半年唯一单品百万激活国产旗舰】 9月18日 —— 开售5天，激活…",
+      "id": "coolapk-user-118f1096b03b",
+      "title": "竹本青：【OPPO段要辉：新型相机正在研发，将搭载手机影像技术】 近日，OPPO高级副总裁段要辉 在接受采访时透露，新型相…",
       "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
       "type": "爆料",
       "trust": "高可信爆料",
       "date": "2026-11-13",
-      "time": "09:05",
-      "publishedAt": "2026-11-13T09:05:25.000Z",
-      "url": "https://www.coolapk.com/feed/75042665",
-      "image": "http://image.coolapk.com/feed/2026/1113/17/4248714_3fdbb742_1894_1158_886@1271x896.jpg",
-      "summary": "【曝华为Pura X View激活销量破百万，为下半年唯一单品百万激活国产旗舰】 9月18日 —— 开售5天，激活销量约28.2万 10月16日 —— 出货量超71万台 11月13日 —— 上市66天，激活销量破100万，今年下半年唯一单品百万激活的国产旗舰机 9月7日，华为Pura X View正式发布，起售价售5999元，核心搭载麒麟9030S芯片，6…",
+      "time": "16:27",
+      "publishedAt": "2026-11-13T16:27:21.000Z",
+      "url": "https://www.coolapk.com/feed/75051172",
+      "image": "http://image.coolapk.com/feed/2026/1114/00/4248714_b0116d6d_8407_6716_482-livepic@1080x1922.jpg",
+      "summary": "【OPPO段要辉：新型相机正在研发，将搭载手机影像技术】 近日，OPPO高级副总裁段要辉 在接受采访时透露，新型相机距离发布“应该不会太远”。 其表示，OPPO在影像领域持续研发，已在光学、算法、软件交互等维度形成技术储备，未来会把手机影像技术延伸至多终端品类。 据此前博主爆料，OPPO Pocket 云台相机 预计今年年底前后发布，将搭载“旗舰级”芯片，…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-ab248b22228d",
+      "title": "iPhone 20 爆料汇总：一整块玻璃，藏着苹果下一个十年",
+      "source": "爱范儿",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-11-13",
+      "time": "15:44",
+      "publishedAt": "2026-11-13T15:44:48.000Z",
+      "url": "https://www.ifanr.com/1689409?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "image": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794564996359-1.png",
+      "summary": "iPhone 20 会是一台伟大的产品吗？",
+      "tags": [
+        "iPhone",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f666667dd339",
+      "title": "RedMagic 12 Pro+ vs Xiaomi 18 Pro: Which Flagship Is Worth Buying?",
+      "source": "Gizmochina",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-13",
+      "time": "15:09",
+      "publishedAt": "2026-11-13T15:09:04.000Z",
+      "url": "https://www.gizmochina.com/2026/11/13/redmagic-12-pro-plus-vs-xiaomi-18-pro/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/image-50-300x152.png?x64146",
+      "summary": "RedMagic 12 Pro+ and Xiaomi 18 Pro target two very different types of flagship buyers. One prioritizes gaming performance, advanced cooling, and an exceptionally fast display, whi…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e03e757f926c",
+      "title": "iPhone 18 and 18e Coming in Spring 2027 With A20 Chip",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-13",
+      "time": "14:37",
+      "publishedAt": "2026-11-13T14:37:16.000Z",
+      "url": "https://www.macrumors.com/2026/11/13/iphone-18-and-18e-coming-in-spring-2027/",
+      "image": "https://images.macrumors.com/article-new/2026/03/iphone-17e-notch.jpg",
+      "summary": "Apple's iPhone 18 and iPhone 18e will launch in spring 2027 with an A20 chip, Bloomberg 's Mark Gurman reiterated on the latest episode of his \"Power On\" podcast . The remarks ali…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-d4d9ab31a462",
+      "title": "竹本青：【XREAL回应X1芯片自研质疑，称双方研发分工】 11月13日，据界面新闻报道，消费级AR品牌XREAL针对其旗…",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-13",
+      "time": "14:13",
+      "publishedAt": "2026-11-13T14:13:45.000Z",
+      "url": "https://www.coolapk.com/feed/75048598",
+      "image": "http://image.coolapk.com/feed/2026/1113/22/4248714_c5e00a8c_9223_7764_515@1440x2560.jpg",
+      "summary": "【XREAL回应X1芯片自研质疑，称双方研发分工】 11月13日，据界面新闻报道，消费级AR品牌XREAL针对其旗下X1芯片自研争议，向「电厂」发布独家声明。XREAL强调，“X1系是基于合作伙伴芯片平台、专为AR空间显示定义和优化的芯片”“XREAL在上市申请文件中对X1的描述真实、准确”。 此前，自媒体“倪叔的思考暗时间”于11月11日发布文章，文中援…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-dc208a6a3b27",
+      "title": "One tweak makes the Galaxy Z Fold 8 multi-window experience even better",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-13",
+      "time": "13:37",
+      "publishedAt": "2026-11-13T13:37:30.000Z",
+      "url": "https://www.sammobile.com/news/one-tweak-makes-galaxy-z-fold-8-split-screen-better/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/11/Screenshot_20261113_150123_Settings-1920x1336.jpg",
+      "summary": "Compared to other foldable phones, the Galaxy Z Fold 8 arguably offers the most comfortable multi-window experience, primarily because the multi-window a.k.a. split-screen feature…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-060b82018cc7",
+      "title": "‘It just looks like R2-D2’ — This new gaming phone offers flagship specs and PC game emulation at a killer price, but its design is something else",
+      "source": "Android Central",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-11-13",
+      "time": "13:37",
+      "publishedAt": "2026-11-13T13:37:16.000Z",
+      "url": "https://www.androidcentral.com/phones/honor-phones/it-just-looks-like-r2-d2-this-new-gaming-phone-offers-flagship-specs-and-pc-game-emulation-at-a-killer-price-but-its-design-is-something-else",
+      "image": "https://cdn.mos.cms.futurecdn.net/d2WRvPqjvHJDDL4gxQffPF-1920-80.jpg",
+      "summary": "The RedMagic 12 Pro has excellent specs, but its design is a bit too out there for me.",
+      "tags": [
+        "HONOR",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-0b574c115bf6",
+      "title": "竹本青：【博主爆料年底多款性能向新机待发，覆盖REDMI、一加、iQOO等品牌】 11月13日，数码闲聊站爆料，今年年底前…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-13",
+      "time": "12:48",
+      "publishedAt": "2026-11-13T12:48:59.000Z",
+      "url": "https://www.coolapk.com/feed/75046889",
+      "image": "http://image.coolapk.com/feed/2026/1113/20/4248714_82f2ad65_4138_4732_476@1271x1589.jpg",
+      "summary": "【博主爆料年底多款性能向新机待发，覆盖REDMI、一加、iQOO等品牌】 11月13日，数码闲聊站爆料，今年年底前后将有多款性能定位新机推出，涵盖REDMI Turbo6系列、一加Turbo7系列、iQOO 16R等机型。 据介绍，该批机型覆盖中屏、超大屏尺寸，配备超高刷新屏幕，新增外设配件，并搭载大容量电池。 #今日热点# #数码日常# #HyperOS…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-38ff9ea087d8",
+      "title": "Galaxy Z Fold 7, Z Flip 7 get November 2026 security update",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-13",
+      "time": "12:48",
+      "publishedAt": "2026-11-13T12:48:58.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-fold-7-z-flip-7-get-november-2026-security-update/",
+      "image": "",
+      "summary": "Samsung has started rolling out new updates to the Galaxy Z Fold 7 and the Galaxy Z Flip 7 to offer the November 2026 security patch. It addresses 179 vulnerabilities present in t…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-0f63c5fafba7",
+      "title": "JSCHEN小小狐：『多款子系性能向新机曝光：或年底前后发布』 ◆ 机型 REDMI Turbo 6 系列 一加 Turbo 7 系列…",
+      "source": "JSCHEN小小狐",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-13",
+      "time": "12:20",
+      "publishedAt": "2026-11-13T12:20:10.000Z",
+      "url": "https://www.coolapk.com/feed/75046355",
+      "image": "http://image.coolapk.com/feed/2026/1113/20/4702274_b3bbbc04_2409_4546_871@1440x585.jpg",
+      "summary": "『多款子系性能向新机曝光：或年底前后发布』 ◆ 机型 REDMI Turbo 6 系列 一加 Turbo 7 系列 iQOO 16R …… ◆ 特色 ① 中屏 / 超大屏 ② 超高刷屏幕 ③ 万级大电池 ④ 新型外设 其中，一加 Turbo 7 将搭载 SM8845 Pro，该平台或基于骁龙 8 Gen5（SM8845）改进而来。 #今日热点# #REDM…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "weibo-4c78bb964035",
+      "title": "数码闲聊站：从备案信息看，子系年底前后应该还有一波新机，REDMI Turbo6系列、一加…",
+      "source": "数码闲聊站",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-13",
+      "time": "12:08",
+      "publishedAt": "2026-11-13T12:08:00.000Z",
+      "url": "https://weibo.com/6048569942/RrdWWreer",
+      "image": "",
+      "summary": "从备案信息看，子系年底前后应该还有一波新机，REDMI Turbo6系列、一加Turbo7系列、iQOO16R等等，都是你们期待的性能向产品，有中屏、超大屏、超高刷、外设新活儿、万级大电池等等……[流鼻血]",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-eda5690fe8f2",
+      "title": "6 reasons I’d still buy the Galaxy S26 Ultra instead of the Motorola Signature 27",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-13",
+      "time": "10:00",
+      "publishedAt": "2026-11-13T10:00:36.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s26-ultra-vs-motorola-signature-27-3732992/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/samsung-galaxy-s26-ultra-pine-tree-scaled.jpg",
+      "summary": "The Motorola Signature 27 looks impressive, but Samsung's S26 Ultra still has a few tricks up its sleeve.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-79c4d50de6d3",
+      "title": "今年下半年唯一国产旗舰机：消息称华为 Pura X View 阔直板激活销量破百万",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-13",
+      "time": "09:22",
+      "publishedAt": "2026-11-13T09:22:54.000Z",
+      "url": "https://www.ithome.com/1/026/869.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/dd148524-bcc8-428b-878b-5b38a2c1b7d1.png",
+      "summary": "IT之家 11 月 13 日消息，今天（13 日）傍晚，@数码闲聊站 爆料称，华为 Pura X View 阔直板手机上市 66 天， 激活销量已突破 100 万台 。该机截至今年第 45 周累计激活为 96.4 万台，百万台大关是在第 46 周突破的。 @数码闲聊站 在评论区透露，今年下半年达成单品百万激活的只有 iPhone 18 Pro Max、iP…",
       "tags": [
         "Huawei",
         "爆料",
-        "酷安博主"
+        "自动抓取"
       ]
     },
     {
@@ -82,46 +322,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-320aabc9b26a",
-      "title": "三星 Galaxy S27 系列手机壁纸曝光：5 种颜色，折叠丝带设计吸睛",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-13",
-      "time": "08:04",
-      "publishedAt": "2026-11-13T08:04:40.000Z",
-      "url": "https://www.ithome.com/1/026/802.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/dc290d46-9e18-476c-990d-4959b61f06c1.png",
-      "summary": "IT之家 11 月 13 日消息，科技媒体 sammyguru 昨日（11 月 12 日）发布博文，分享了一组照片，声称是三星 Galaxy S27 系列手机默认壁纸，共有 5 种配色，采用折叠丝带设计，暗示三星最新旗舰手机也会采用这 5 种颜色。 通常情况下，三星会为 Galaxy S 系列旗舰手机的不同颜色，推出专属壁纸。IT之家援引博文介绍，以 Ga…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-8f7675da2e13",
-      "title": "竹本青：上周国内手机市场份额曝光：大盘下降约5%",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-13",
-      "time": "07:53",
-      "publishedAt": "2026-11-13T07:53:01.000Z",
-      "url": "https://www.coolapk.com/feed/75041290",
-      "image": "http://image.coolapk.com/feed/2026/1113/15/4248714_fa15fbbf_6380_0237_102@1271x905.jpg",
-      "summary": "【上周（W45）国内手机市场份额曝光：苹果连续8周榜首，大盘下降约5%】 ● 2026 W45：大盘下降约5% 1.苹果 —— 29.3% 2.华为 —— 20.8% 3.小米 —— 13% 4.OPPO —— 12.3%（含一加 3.9%，realme 0.2%） 5.vivo —— 11.4%（含iQOO 3.3%） 6.荣耀 —— 10.6% 202…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-095266481727",
       "title": "Honor 700 series launch event officially set for November 23",
       "source": "Gizmochina",
@@ -137,26 +337,6 @@ window.phoneRadarAuto = {
       "summary": "Honor has officially confirmed that the Honor 700 series will launch in China on November 23. We previously reported that the Honor 700, Honor 700 Pro, and Honor 700S were launchi…",
       "tags": [
         "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b78cd1af6f0e",
-      "title": "三星 Galaxy XCover 8/FR 两款三防手机曝光，主打耐用与扫描能力",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-13",
-      "time": "07:25",
-      "publishedAt": "2026-11-13T07:25:12.000Z",
-      "url": "https://www.ithome.com/1/026/784.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/637b61f9-9570-465f-861c-6a851432256a.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 11 月 13 日消息，科技媒体 Android Headline 昨日（11 月 12 日）发布博文，报道称三星面向工业、物流及户外作业场景，正在推进 Galaxy XCover 8 与 Galaxy XCover FR / Scan 两款三防手机。 根据目前披露的海关记录数据，Galaxy XCover 8 仍以耐用性、可维护性和基础通信能力…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -179,106 +359,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1c362a031783",
-      "title": "OPPO Reno17 系列智能手机联动洛天依，主题曲《点亮奇遇时刻》上线",
-      "source": "IT之家",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-13",
-      "time": "06:15",
-      "publishedAt": "2026-11-13T06:15:00.000Z",
-      "url": "https://www.ithome.com/1/026/728.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/a622cf10-ed97-4dae-8c2d-14660172e5ec.jpg",
-      "summary": "IT之家 11 月 13 日消息， OPPO 与虚拟歌手洛天依今日宣布围绕 Reno17 系列智能手机展开联动 ，主题曲《点亮奇遇时刻》现已上线。 IT之家获悉，OPPO 与洛天依的本次联动包含 5 个部分： 500 台 Reno17 洛天依限定镌刻款限量出售； 官方渠道购买 Reno17 可选洛天依联名限定礼盒赠品； 2027 年 2 月 10 日前提供…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-fe43ddbbabf6",
-      "title": "最高省 80% 流量：iOS 版 Opera One 浏览器引入 Data Saver 功能",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-13",
-      "time": "05:05",
-      "publishedAt": "2026-11-13T05:05:17.000Z",
-      "url": "https://www.ithome.com/1/026/675.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/eee55b5e-e387-441b-b1f4-b1761c1d70de.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 11 月 13 日消息，Opera 昨日（11 月 12 日）发布公告，宣布升级 iOS 版 Opera One 应用程序， 重点引入“省流量”（Data Saver）功能，用户开启后流量消耗最高可减少 80%。 在技术实现方面，Opera 服务器会先压缩网页中的图片和文本，然后传输至用户设备，以减少加载页面所需的数据量。IT之家援引 Opera…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-397207110148",
-      "title": "竹本青：【华为Mate X8 大折叠真机曝光：紫色机身，宝石环Deco】 11月13日，华为余承东手持Mate X8的真机…",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-13",
-      "time": "04:08",
-      "publishedAt": "2026-11-13T04:08:59.000Z",
-      "url": "https://www.coolapk.com/feed/75037591",
-      "image": "http://image.coolapk.com/feed/2026/1113/12/4248714_d67dcdd7_2938_1258_267@2039x4066.jpg",
-      "summary": "【华为Mate X8 大折叠真机曝光：紫色机身，宝石环Deco】 11月13日，华为余承东手持Mate X8的真机视频在网络流传，显示新机采用紫色机身，背部搭载圆形Deco／宝石环设计。 据此前博主爆料，Mate X8将配备6.5\"外屏+8.15\"UTG内屏，麒麟9050 Pro芯片；后置50Mp 1/1.28\" SC595XS LOFIC主摄，支持可变光…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-4e6ac18749cb",
-      "title": "竹本青：OPPO Reno17系列 × 洛天依 联动开启，主题曲将上线",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-13",
-      "time": "03:02",
-      "publishedAt": "2026-11-13T03:02:54.000Z",
-      "url": "https://www.coolapk.com/feed/75036333",
-      "image": "http://image.coolapk.com/feed/2026/1113/11/4248714_61c4e65e_8973_078_611@1500x2000.jpg",
-      "summary": "【OPPO Reno17系列 x 洛天依 联动开启，主题曲即将上线】 11月13日，OPPO 正式公布 Reno17系列 与洛天依的联动合作，联动主题「奇遇喵」，主题曲《点亮奇遇时刻》即将上线。 #今日热点# #数码日常# #OPPOReno17Pro#",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-382164926046",
-      "title": "竹本青：OPPO三大旗舰产品线爆料：云台相机年底前后登场",
-      "source": "竹本青",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-13",
-      "time": "02:47",
-      "publishedAt": "2026-11-13T02:47:39.000Z",
-      "url": "https://www.coolapk.com/feed/75036027",
-      "image": "http://image.coolapk.com/feed/2026/1113/10/4248714_8ffd016b_8058_8409_973@1272x474.jpg",
-      "summary": "【OPPO 三大旗舰产品线爆料：云台相机年底前后登场、阔折叠准备就绪、阔直板研发推进】 ● Pocket云台相机：预计年底前后登场 200Mp 1/1.12\" 大底主摄，或与哈苏联名，内置“旗舰级”芯片，支持生态互联。 ● OPPO 阔折叠：已准备就绪 2nm 旗舰芯片，5.5英寸副屏+7.6英寸三星内屏，无痕铰链方案；2亿大底主摄、5000万超广角、50…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -462,26 +542,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-a2e6a4e2b38f",
-      "title": "10月份工资已到账💰底薪+全勤＋提成＋餐补将近1万4。给爸妈转3000，房租800，存5千，留5千换新机[呲牙]看到双11大家都上好车了，没赶上。等下个月一波双12[微笑]#酷工作#",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-13",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/75030615",
-      "image": "",
-      "summary": "10月份工资已到账💰底薪+全勤＋提成＋餐补将近1万4。给爸妈转3000，房租800，存5千，留5千换新机[呲牙]看到双11大家都上好车了，没赶上。等下个月一波双12[微笑]#酷工作#",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-6ee043b425be",
       "title": "主力机1+8真燃尽了，爱回收上淘了个1+13 12+256的，价格2000出头，会有啥坑么，小白头一次买二手机",
       "source": "酷安热榜",
@@ -502,8 +562,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-b80f47e0cad5",
-      "title": "抖音横刀直播间看到工人加班加点给你们发货打包，估计这几天卖了上万台手机，说点正经的你们有没有觉得这手机上面声音小，下面声音大，而且声音开到最大有点破音，然后就是0.7倍镜拍也拍不清楚，录像也录不清楚……",
+      "id": "newsnow-a2e6a4e2b38f",
+      "title": "10月份工资已到账💰底薪+全勤＋提成＋餐补将近1万4。给爸妈转3000，房租800，存5千，留5千换新机[呲牙]看到双11大家都上好车了，没赶上。等下个月一波双12[微笑]#酷工作#",
       "source": "酷安热榜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -512,9 +572,9 @@ window.phoneRadarAuto = {
       "date": "2026-11-13",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/75029509",
+      "url": "https://www.coolapk.com/feed/75030615",
       "image": "",
-      "summary": "抖音横刀直播间看到工人加班加点给你们发货打包，估计这几天卖了上万台手机，说点正经的你们有没有觉得这手机上面声音小，下面声音大，而且声音开到最大有点破音，然后就是0.7倍镜拍也拍不清楚，录像也录不清楚……",
+      "summary": "10月份工资已到账💰底薪+全勤＋提成＋餐补将近1万4。给爸妈转3000，房租800，存5千，留5千换新机[呲牙]看到双11大家都上好车了，没赶上。等下个月一波双12[微笑]#酷工作#",
       "tags": [
         "行业",
         "爆料",
@@ -542,42 +602,22 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-94bbd84643fa",
-      "title": "好了我服气了[流泪][流泪][流泪]，再也不会继续想这台手机了，昨晚按耐不住内心的喜爱又买了一台，今天到了以后随便开了个小说软件看了一会感觉眼睛好累，而且感觉屏幕会闪……果然是千人千眼……Magic8pro，你我注定无缘啊[流泪][流泪][流泪][流泪]……",
+      "id": "newsnow-b80f47e0cad5",
+      "title": "抖音横刀直播间看到工人加班加点给你们发货打包，估计这几天卖了上万台手机，说点正经的你们有没有觉得这手机上面声音小，下面声音大，而且声音开到最大有点破音，然后就是0.7倍镜拍也拍不清楚，录像也录不清楚……",
       "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-11-13",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/75018300",
+      "url": "https://www.coolapk.com/feed/75029509",
       "image": "",
-      "summary": "好了我服气了[流泪][流泪][流泪]，再也不会继续想这台手机了，昨晚按耐不住内心的喜爱又买了一台，今天到了以后随便开了个小说软件看了一会感觉眼睛好累，而且感觉屏幕会闪……果然是千人千眼……Magic8pro，你我注定无缘啊[流泪][流泪][流泪][流泪]……",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-be8052badc8f",
-      "title": "网友称高铁座椅 USB 口充手机越充越掉电，12306 称电压更低，用于应急补电，这个设计合理吗？",
-      "source": "知乎热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "市场报告",
-      "trust": "媒体汇总",
-      "date": "2026-11-13",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2103538454634180703",
-      "image": "",
-      "summary": "网友称高铁座椅 USB 口充手机越充越掉电，12306 称电压更低，用于应急补电，这个设计合理吗？",
+      "summary": "抖音横刀直播间看到工人加班加点给你们发货打包，估计这几天卖了上万台手机，说点正经的你们有没有觉得这手机上面声音小，下面声音大，而且声音开到最大有点破音，然后就是0.7倍镜拍也拍不清楚，录像也录不清楚……",
       "tags": [
         "行业",
-        "市场报告",
+        "爆料",
         "NewsNow"
       ]
     },
@@ -597,6 +637,26 @@ window.phoneRadarAuto = {
       "summary": "iPhone销量为何能逆势领跑",
       "tags": [
         "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-d7eacbd37395",
+      "title": "苹果开始回收三星折叠屏了",
+      "source": "百度热搜",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-13",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%BC%80%E5%A7%8B%E5%9B%9E%E6%94%B6%E4%B8%89%E6%98%9F%E6%8A%98%E5%8F%A0%E5%B1%8F%E4%BA%86",
+      "image": "",
+      "summary": "苹果开始回收三星折叠屏了",
+      "tags": [
+        "Samsung",
         "爆料",
         "NewsNow"
       ]
@@ -662,26 +722,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-85f0899534a1",
-      "title": "Pixel 11 Vs. Pixel 8 reveals a strange quirk. [Video]",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-12",
-      "time": "17:33",
-      "publishedAt": "2026-11-12T17:33:10.000Z",
-      "url": "https://www.androidpolice.com/video/pixel-11-vs-pixel-8-reveals-a-strange-quirk-video/",
-      "image": "",
-      "summary": "There have been some changes.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-5680c915e5e4",
       "title": "Apple Adds Samsung Foldables to Trade-In Program",
       "source": "MacRumors",
@@ -695,26 +735,6 @@ window.phoneRadarAuto = {
       "url": "https://www.macrumors.com/2026/11/12/apple-adds-samsung-foldables-to-trade-in-program/",
       "image": "https://images.macrumors.com/article-new/2026/09/Apple-Trade-Ins-Feature.jpg",
       "summary": "Apple today revised its U.S. trade-in estimates, with increases for many older iPhones, reductions for several Pro models, and newly listed offers for six Samsung foldables. The i…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-592cae364194",
-      "title": "Is Samsung the reason behind Apple’s iPhone 18 launch delay?",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-12",
-      "time": "16:02",
-      "publishedAt": "2026-11-12T16:02:49.000Z",
-      "url": "https://www.sammobile.com/news/is-samsung-reason-apple-iphone-18-launch-delay/",
-      "image": "",
-      "summary": "Apple did something peculiar this year. Instead of launching both the base and Pro variants of the iPhone 18 series together, it only launched the iPhone 18 Pro models alongside t…",
       "tags": [
         "Samsung",
         "爆料",
@@ -1159,26 +1179,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-2db50f0e1f3c",
-      "title": "数码闲聊站：明年阔家族将见到小阔折✓大阔折✓阔直板旗舰机✓阔直板XXX✓阔形态还会上新，先…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-12",
-      "time": "04:08",
-      "publishedAt": "2026-11-12T04:08:00.000Z",
-      "url": "https://weibo.com/6048569942/Rr1nCa62v",
-      "image": "",
-      "summary": "明年阔家族将见到小阔折✓大阔折✓阔直板旗舰机✓阔直板XXX✓阔形态还会上新，先人一步[污]",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
       ]
     },
     {
