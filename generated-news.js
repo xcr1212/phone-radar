@@ -1,6 +1,66 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-11-13T17:43:25.555Z",
+  "updatedAt": "2026-11-13T23:30:51.381Z",
   "news": [
+    {
+      "id": "auto-91a157657efb",
+      "title": "Google gets ready to kill off Pixel 10 Magic Cue in favor of Proactive Assistance",
+      "source": "Android Authority",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-13",
+      "time": "21:10",
+      "publishedAt": "2026-11-13T21:10:02.000Z",
+      "url": "https://www.androidauthority.com/google-kill-magic-cue-3735173/",
+      "image": "",
+      "summary": "Google appears to be preparing to pull the plug on Magic Cue by the end of 2027.",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-69567165f150",
+      "title": "Wide foldable craze is just getting started: Galaxy Z Fold 8 supercharges Q3 2026 performance",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-11-13",
+      "time": "18:44",
+      "publishedAt": "2026-11-13T18:44:07.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/wide-foldable-craze-galaxy-z-fold-8-supercharges-q3-2026-performance",
+      "image": "https://cdn.mos.cms.futurecdn.net/GDQiMMaXu8dfHz8fgGPas5-1920-80.jpg",
+      "summary": "Samsung drives Q3 2026 foldable performance thanks to the Galaxy Z Fold 8. Analysts foresee a turnaround as the wide foldable craze heats up.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9b48264900d8",
+      "title": "iPhone Duo Survives 450,000 Folds, but Hinge is Weakening",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-13",
+      "time": "18:25",
+      "publishedAt": "2026-11-13T18:25:14.000Z",
+      "url": "https://www.macrumors.com/2026/11/13/iphone-duo-fold-testing/",
+      "image": "",
+      "summary": "For the last three weeks, CNET has been stress testing the iPhone Duo 's hinge on a livestream. After over 451,000 folds, the hinge is showing signs of wear. CNET says the hinge s…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "coolapk-user-118f1096b03b",
       "title": "竹本青：【OPPO段要辉：新型相机正在研发，将搭载手机影像技术】 近日，OPPO高级副总裁段要辉 在接受采访时透露，新型相…",
@@ -237,26 +297,6 @@ window.phoneRadarAuto = {
       "summary": "The Motorola Signature 27 looks impressive, but Samsung's S26 Ultra still has a few tricks up its sleeve.",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-79c4d50de6d3",
-      "title": "今年下半年唯一国产旗舰机：消息称华为 Pura X View 阔直板激活销量破百万",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-13",
-      "time": "09:22",
-      "publishedAt": "2026-11-13T09:22:54.000Z",
-      "url": "https://www.ithome.com/1/026/869.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/dd148524-bcc8-428b-878b-5b38a2c1b7d1.png",
-      "summary": "IT之家 11 月 13 日消息，今天（13 日）傍晚，@数码闲聊站 爆料称，华为 Pura X View 阔直板手机上市 66 天， 激活销量已突破 100 万台 。该机截至今年第 45 周累计激活为 96.4 万台，百万台大关是在第 46 周突破的。 @数码闲聊站 在评论区透露，今年下半年达成单品百万激活的只有 iPhone 18 Pro Max、iP…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
@@ -522,101 +562,41 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-4a1b6b0893f3",
-      "title": "如果 iPhone 20 Pro 真的是这样，我必买！iPhone 18 和 iPhone Duo 说实话是没有太大的兴趣，但是看到 iPhone 20 这个外观真的心动，配置也非常不错。",
+      "id": "newsnow-3782a57cead1",
+      "title": "今年双11这半个多月，折腾了3个手机，从一加13顶配先换到findx8u，再到一加15，然后又到了findx9pro，最后又回到一加15，现在有空来谈谈自己的主观感受。",
       "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-11-13",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/75013558",
+      "url": "https://www.coolapk.com/feed/75046118",
       "image": "",
-      "summary": "如果 iPhone 20 Pro 真的是这样，我必买！iPhone 18 和 iPhone Duo 说实话是没有太大的兴趣，但是看到 iPhone 20 这个外观真的心动，配置也非常不错。",
+      "summary": "今年双11这半个多月，折腾了3个手机，从一加13顶配先换到findx8u，再到一加15，然后又到了findx9pro，最后又回到一加15，现在有空来谈谈自己的主观感受。",
       "tags": [
-        "iPhone",
+        "OPPO",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-6ee043b425be",
-      "title": "主力机1+8真燃尽了，爱回收上淘了个1+13 12+256的，价格2000出头，会有啥坑么，小白头一次买二手机",
+      "id": "newsnow-9da90a89e711",
+      "title": "周围人对安卓还是停留在卡顿、拍视频差、拍照片不如苹果这样的刻板印象，也懒得和她们争论了。拍视频不如苹果我能理解，这个旗舰机拍照片怎么可能不如苹果，估计是用的五六年前用的安卓，现在系统差距也越来越小了吧，说安卓拍照没有苹果那种感觉，质感不如苹果，真的给我惊呆了，而且现在四五千的安卓旗舰机也不卡了吧？我感觉苹果就是系统优化好，比如各个应用的阻尼感都差不多，很舒服，还有就是过渡动画舒服，还有马达扬声器在各个应用里面都优化的很好，但安卓超大杯这些也都不差。说实话你们觉得现在安卓和苹果差距还大吗？就光使用体验来说！ #HyperOS4# #OriginOS6# #OPPOFindX10ProMax#",
       "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-11-13",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/75020661",
+      "url": "https://www.coolapk.com/feed/75040055",
       "image": "",
-      "summary": "主力机1+8真燃尽了，爱回收上淘了个1+13 12+256的，价格2000出头，会有啥坑么，小白头一次买二手机",
+      "summary": "周围人对安卓还是停留在卡顿、拍视频差、拍照片不如苹果这样的刻板印象，也懒得和她们争论了。拍视频不如苹果我能理解，这个旗舰机拍照片怎么可能不如苹果，估计是用的五六年前用的安卓，现在系统差距也越来越小了吧，说安卓拍照没有苹果那种感觉，质感不如苹果，真的给我惊呆了，而且现在四五千的安卓旗舰机也不卡了吧？我感觉苹果就是系统优化好，比如各个应用的阻尼感都差不多，很舒…",
       "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-a2e6a4e2b38f",
-      "title": "10月份工资已到账💰底薪+全勤＋提成＋餐补将近1万4。给爸妈转3000，房租800，存5千，留5千换新机[呲牙]看到双11大家都上好车了，没赶上。等下个月一波双12[微笑]#酷工作#",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-13",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/75030615",
-      "image": "",
-      "summary": "10月份工资已到账💰底薪+全勤＋提成＋餐补将近1万4。给爸妈转3000，房租800，存5千，留5千换新机[呲牙]看到双11大家都上好车了，没赶上。等下个月一波双12[微笑]#酷工作#",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-2b6dbf99537d",
-      "title": "#徕卡一瞬##谷歌相机##手机摄影#",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-13",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/74996758",
-      "image": "",
-      "summary": "#徕卡一瞬##谷歌相机##手机摄影#",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-b80f47e0cad5",
-      "title": "抖音横刀直播间看到工人加班加点给你们发货打包，估计这几天卖了上万台手机，说点正经的你们有没有觉得这手机上面声音小，下面声音大，而且声音开到最大有点破音，然后就是0.7倍镜拍也拍不清楚，录像也录不清楚……",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-13",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/75029509",
-      "image": "",
-      "summary": "抖音横刀直播间看到工人加班加点给你们发货打包，估计这几天卖了上万台手机，说点正经的你们有没有觉得这手机上面声音小，下面声音大，而且声音开到最大有点破音，然后就是0.7倍镜拍也拍不清楚，录像也录不清楚……",
-      "tags": [
-        "行业",
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
@@ -642,26 +622,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-d7eacbd37395",
-      "title": "苹果开始回收三星折叠屏了",
-      "source": "百度热搜",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-13",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%BC%80%E5%A7%8B%E5%9B%9E%E6%94%B6%E4%B8%89%E6%98%9F%E6%8A%98%E5%8F%A0%E5%B1%8F%E4%BA%86",
-      "image": "",
-      "summary": "苹果开始回收三星折叠屏了",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "auto-71b74f669f34",
       "title": "Google Fitbit Air syncing issues leave some iPhone users unable to access health data",
       "source": "Android Authority",
@@ -677,66 +637,6 @@ window.phoneRadarAuto = {
       "summary": "Google reportedly knows about the issue.",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-427259c99105",
-      "title": "Apple Continues to Move Up iPhone Duo Delivery Dates",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-12",
-      "time": "20:28",
-      "publishedAt": "2026-11-12T20:28:50.000Z",
-      "url": "https://www.macrumors.com/2026/11/12/iphone-duo-delivery-dates-continue-to-move-up/",
-      "image": "https://images.macrumors.com/article-new/2026/10/Apple-iPhone-Duo-Early-Feature.jpg",
-      "summary": "It's a Christmas miracle: some customers who ordered the iPhone Duo through Apple and received an estimated January 25 delivery date saw their delivery windows move up to December…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-8325c053a434",
-      "title": "Apple Explains How HomeView Keeps Camera Data Private",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-12",
-      "time": "19:48",
-      "publishedAt": "2026-11-12T19:48:04.000Z",
-      "url": "https://www.macrumors.com/2026/11/12/apple-homeview-secure-exclaves/",
-      "image": "https://images.macrumors.com/article-new/2026/10/Apple-HomeView-lineup-feature5.jpg",
-      "summary": "Apple today shared an in-depth look at how it's using Secure Exclaves to protect camera and microphone data on the HomeView, iPhone 18 Pro , and other products. Apple describes Se…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5680c915e5e4",
-      "title": "Apple Adds Samsung Foldables to Trade-In Program",
-      "source": "MacRumors",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-12",
-      "time": "16:43",
-      "publishedAt": "2026-11-12T16:43:45.000Z",
-      "url": "https://www.macrumors.com/2026/11/12/apple-adds-samsung-foldables-to-trade-in-program/",
-      "image": "https://images.macrumors.com/article-new/2026/09/Apple-Trade-Ins-Feature.jpg",
-      "summary": "Apple today revised its U.S. trade-in estimates, with increases for many older iPhones, reductions for several Pro models, and newly listed offers for six Samsung foldables. The i…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -957,26 +857,6 @@ window.phoneRadarAuto = {
       "summary": "The front glass is said to curve on all four sides, which would hide or shrink the metal frame so the phone looks almost borderless when you’re just holding it. The post iPhone 20…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a35ebac43c01",
-      "title": "The Galaxy S27 Ultra camera leak has me worried Samsung learned nothing",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-12",
-      "time": "10:00",
-      "publishedAt": "2026-11-12T10:00:16.000Z",
-      "url": "https://www.androidauthority.com/galaxy-s27-ultra-camera-concerns-3733812/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/Samsung-Galaxy-S26-Ultras-camera-module-zoomed-in.jpg",
-      "summary": "Samsung is still putting its best 200MP camera behind the wrong lens.",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
