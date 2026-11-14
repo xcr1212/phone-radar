@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-11-13T23:30:51.381Z",
-  "issueDate": "2026-11-13",
-  "issue": "VOL.261113",
+  "updatedAt": "2026-11-14T06:19:28.540Z",
+  "issueDate": "2026-11-14",
+  "issue": "VOL.261114",
   "title": "手机情报日报",
-  "intro": "今日筛出 8 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、2 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 8,
-    "iphone": 4,
+    "total": 12,
+    "iphone": 7,
     "leaks": 8,
-    "official": 0,
+    "official": 2,
     "specs": 0
   },
   "sections": [
@@ -17,6 +17,53 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-da8cb8612a7f",
+          "title": "配 A20 芯片：古尔曼重申苹果 iPhone 18/18e 明年春季将登场",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-11-14",
+          "time": "02:26",
+          "publishedAt": "2026-11-14T02:26:45.000Z",
+          "url": "https://www.ithome.com/1/027/057.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/864f434d-636d-41bc-86eb-80ca122b0fc5.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 11 月 14 日消息，在最新一期 Power On 访谈节目中，彭博社的马克 · 古尔曼（Mark Gurman）再次透露， 苹果将会在 2027 年春季发布 iPhone 18 和 iPhone 18e 两款手机，将会搭载 A20 芯片。 在上述视频的约 36:43~37:00 分，古尔曼表示：“iPhone 18 和 iPhone 18e…",
+          "detail": "IT之家 11 月 14 日消息，在最新一期 Power On 访谈节目中，彭博社的马克 · 古尔曼（Mark Gurman）再次透露， 苹果将会在 2027 年春季发布 iPhone 18 和 iPhone 18e 两款手机，将会搭载 A20 芯片。 在上述视频的约 36:43~37:00 分，古尔曼表示：“iPhone 18 和 iPhone 18e…",
+          "keyPoints": [
+            "芯片 / 性能",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-023d1d3afe51",
+          "title": "CNET 耐久测试：苹果首款折叠 iPhone Duo 撑过 45.7 万次开合，铰链磨损变松 / 屏幕未见裂纹",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-11-14",
+          "time": "01:45",
+          "publishedAt": "2026-11-14T01:45:35.000Z",
+          "url": "https://www.ithome.com/1/027/046.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/8643e9ee-3b49-445a-9bb9-70a418af49ec.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 11 月 14 日消息，科技媒体 CNET 昨日（11 月 13 日）结束第 15 天直播后， 苹果首款折叠 iPhone Duo 手机已经历 457,053 次折叠，目前仍能运行，屏幕未见裂纹，但铰链已出现明显磨损迹象。 IT之家附上相关截图如下： 测试人员表示变化最早出现在约 39 万次折叠时，可以感觉到铰链变松。次数增至约 44.03 万次…",
+          "detail": "IT之家 11 月 14 日消息，科技媒体 CNET 昨日（11 月 13 日）结束第 15 天直播后， 苹果首款折叠 iPhone Duo 手机已经历 457,053 次折叠，目前仍能运行，屏幕未见裂纹，但铰链已出现明显磨损迹象。 IT之家附上相关截图如下： 测试人员表示变化最早出现在约 39 万次折叠时，可以感觉到铰链变松。次数增至约 44.03 万次…",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-ab248b22228d",
           "title": "iPhone 20 爆料汇总：一整块玻璃，藏着苹果下一个十年",
@@ -88,25 +135,53 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-71b74f669f34",
-          "title": "iPhone 系统功能 / AI 体验相关消息",
+          "id": "auto-67548d13bb44",
+          "title": "消息称某厂 6.3 英寸 1.5K 小屏机立项，预计小米 REDMI 旗下",
           "originalTitle": "",
-          "source": "Android Authority",
-          "brand": "iPhone",
+          "source": "IT之家",
+          "brand": "Xiaomi",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-11-12",
-          "time": "22:58",
-          "publishedAt": "2026-11-12T22:58:31.000Z",
-          "url": "https://www.androidauthority.com/google-fitbit-air-iphone-syncing-issues-3734762/",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Fitbit-Air-Health-Coach-scaled-e1778862993795-500w-260h.jpg",
+          "date": "2026-11-14",
+          "time": "01:52",
+          "publishedAt": "2026-11-14T01:52:54.000Z",
+          "url": "https://www.ithome.com/1/027/048.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/074fbb27-94b6-4331-947f-19418756d323.png",
           "verdict": "先看",
-          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
-          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "takeaway": "IT之家 11 月 14 日消息，博主 @数码闲聊站 今日发布超前瞻爆料，某厂子系有 6.3 英寸小屏机立项， 采用 1.5K LTPO+LIPO 四等边设计 。结合该博主的爆料习惯，预计新机为小米 REDMI 旗下。 目前尚不清楚这款新机的具体型号，仅从屏幕尺寸上看，新机大小预计与小米 17 标准版接近。 作为参考，小米 17 标准版手机便搭载了 6.3…",
+          "detail": "IT之家 11 月 14 日消息，博主 @数码闲聊站 今日发布超前瞻爆料，某厂子系有 6.3 英寸小屏机立项， 采用 1.5K LTPO+LIPO 四等边设计 。结合该博主的爆料习惯，预计新机为小米 REDMI 旗下。 目前尚不清楚这款新机的具体型号，仅从屏幕尺寸上看，新机大小预计与小米 17 标准版接近。 作为参考，小米 17 标准版手机便搭载了 6.3…",
           "keyPoints": [
-            "爆料"
+            "外观 / 配色 / 尺寸",
+            "屏幕形态",
+            "爆料来源"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-e46a5629cdfa",
+          "title": "数码闲聊站：OPPO Reno17系列参数汇总，猜猜价格吧： Reno17——6.56英寸…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-11-14",
+          "time": "04:25",
+          "publishedAt": "2026-11-14T04:25:00.000Z",
+          "url": "https://weibo.com/6048569942/RrklvsKqz",
+          "image": "https://tvax2.sinaimg.cn/mw2000/006BlblIgy1ij1fedgxvoj30zc0vjtdr.jpg",
+          "verdict": "先看",
+          "takeaway": "OPPO Reno17系列参数汇总，猜猜价格吧： Reno17——6.56英寸1.5K LTPS直屏，骁龙7G4，前置50Mp，后置50Mp主摄+50Mp超广角+50Mp 3.5X潜望长焦，8000mAh+80W，金属中框，光学指纹，宋雨琦代言 Reno17 Pro——6.32英寸1.5K LTPS直屏，天玑8550 SUPER，前置50Mp，后置200M…",
+          "detail": "OPPO Reno17系列参数汇总，猜猜价格吧： Reno17——6.56英寸1.5K LTPS直屏，骁龙7G4，前置50Mp，后置50Mp主摄+50Mp超广角+50Mp 3.5X潜望长焦，8000mAh+80W，金属中框，光学指纹，宋雨琦代言 Reno17 Pro——6.32英寸1.5K LTPS直屏，天玑8550 SUPER，前置50Mp，后置200M…",
+          "keyPoints": [
+            "影像硬件",
+            "屏幕形态",
+            "成本 / 价格",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -133,81 +208,119 @@ window.phoneRadarDaily = {
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        }
+      ]
+    },
+    {
+      "id": "iphone",
+      "title": "iPhone 重点",
+      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
+      "items": [
+        {
+          "id": "auto-bfd196d7caed",
+          "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "Apple Newsroom",
+          "brand": "iPhone",
+          "type": "官方",
+          "trust": "官方确认",
+          "date": "2026-11-14",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.apple.com/newsroom/2026/10/iphone-duo-arrives-at-apple-store-locations-worldwide/",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "官方"
+          ],
+          "confidence": "官方内容，可直接作为已确认信息记录。",
+          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "coolapk-user-118f1096b03b",
-          "title": "竹本青：【OPPO段要辉：新型相机正在研发，将搭载手机影像技术】 近日，OPPO高级副总裁段要辉 在接受采访时透露，新型相…",
+          "id": "auto-a89f115eb254",
+          "title": "iPhone 芯片 / 性能相关消息",
           "originalTitle": "",
-          "source": "竹本青",
+          "source": "Apple Newsroom",
+          "brand": "iPhone",
+          "type": "官方",
+          "trust": "官方确认",
+          "date": "2026-11-14",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.apple.com/newsroom/2026/10/apple-announces-american-manufacturing-program-partners-for-latest-iphone-lineup/",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone 芯片 / 性能相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 芯片 / 性能相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "官方"
+          ],
+          "confidence": "官方内容，可直接作为已确认信息记录。",
+          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "review",
+      "title": "评测与体验",
+      "hint": "买前再细看，平时扫一眼即可。",
+      "items": [
+        {
+          "id": "newsnow-9a589112ffa8",
+          "title": "周围人对安卓还是停留在卡顿、拍视频差、拍照片不如苹果这样的刻板印象，也懒得和她们争论了。拍视频不如苹果我能理解，这个旗舰机拍照片怎么可能不如苹果，估计是用的五六年前用的安卓，现在系统差距也越来越小了吧，说安卓拍照没有苹果那种感觉，质感不如苹果，真的给我惊呆了，而且现在四五千的安卓旗舰机也不卡了吧？我感觉苹果就是系统优化好，比如各个应用的阻尼感都差不多，很舒服，还有就是过渡动画舒服，还有马达扬声器在各个应用里面都优化的很好，但安卓超大杯这些也都不差。说实话你们觉得现在安卓和苹果差距还大吗？就光使用体验来说！ #HyperOS4# #OriginOS6# #OPPOFindX10ProMax#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-11-14",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/75040055",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "周围人对安卓还是停留在卡顿、拍视频差、拍照片不如苹果这样的刻板印象，也懒得和她们争论了。拍视频不如苹果我能理解，这个旗舰机拍照片怎么可能不如苹果，估计是用的五六年前用的安卓，现在系统差距也越来越小了吧，说安卓拍照没有苹果那种感觉，质感不如苹果，真的给我惊呆了，而且现在四五千的安卓旗舰机也不卡了吧？我感觉苹果就是系统优化好，比如各个应用的阻尼感都差不多，很舒…",
+          "detail": "周围人对安卓还是停留在卡顿、拍视频差、拍照片不如苹果这样的刻板印象，也懒得和她们争论了。拍视频不如苹果我能理解，这个旗舰机拍照片怎么可能不如苹果，估计是用的五六年前用的安卓，现在系统差距也越来越小了吧，说安卓拍照没有苹果那种感觉，质感不如苹果，真的给我惊呆了，而且现在四五千的安卓旗舰机也不卡了吧？我感觉苹果就是系统优化好，比如各个应用的阻尼感都差不多，很舒…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "行业趋势",
+      "hint": "看方向，不急着当购买依据。",
+      "items": [
+        {
+          "id": "newsnow-33380d5e9812",
+          "title": "今年双11这半个多月，折腾了3个手机，从一加13顶配先换到findx8u，再到一加15，然后又到了findx9pro，最后又回到一加15，现在有空来谈谈自己的主观感受。",
+          "originalTitle": "",
+          "source": "酷安热榜",
           "brand": "OPPO",
           "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-11-13",
-          "time": "16:27",
-          "publishedAt": "2026-11-13T16:27:21.000Z",
-          "url": "https://www.coolapk.com/feed/75051172",
-          "image": "http://image.coolapk.com/feed/2026/1114/00/4248714_b0116d6d_8407_6716_482-livepic@1080x1922.jpg",
+          "trust": "高关注爆料源",
+          "date": "2026-11-14",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/75046118",
+          "image": "",
           "verdict": "先看",
-          "takeaway": "【OPPO段要辉：新型相机正在研发，将搭载手机影像技术】 近日，OPPO高级副总裁段要辉 在接受采访时透露，新型相机距离发布“应该不会太远”。 其表示，OPPO在影像领域持续研发，已在光学、算法、软件交互等维度形成技术储备，未来会把手机影像技术延伸至多终端品类。 据此前博主爆料，OPPO Pocket 云台相机 预计今年年底前后发布，将搭载“旗舰级”芯片，…",
-          "detail": "【OPPO段要辉：新型相机正在研发，将搭载手机影像技术】 近日，OPPO高级副总裁段要辉 在接受采访时透露，新型相机距离发布“应该不会太远”。 其表示，OPPO在影像领域持续研发，已在光学、算法、软件交互等维度形成技术储备，未来会把手机影像技术延伸至多终端品类。 据此前博主爆料，OPPO Pocket 云台相机 预计今年年底前后发布，将搭载“旗舰级”芯片，…",
+          "takeaway": "今年双11这半个多月，折腾了3个手机，从一加13顶配先换到findx8u，再到一加15，然后又到了findx9pro，最后又回到一加15，现在有空来谈谈自己的主观感受。",
+          "detail": "今年双11这半个多月，折腾了3个手机，从一加13顶配先换到findx8u，再到一加15，然后又到了findx9pro，最后又回到一加15，现在有空来谈谈自己的主观感受。",
           "keyPoints": [
-            "影像硬件",
-            "芯片 / 性能",
-            "爆料来源"
+            "爆料"
           ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-0b574c115bf6",
-          "title": "竹本青：【博主爆料年底多款性能向新机待发，覆盖REDMI、一加、iQOO等品牌】 11月13日，数码闲聊站爆料，今年年底前…",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-11-13",
-          "time": "12:48",
-          "publishedAt": "2026-11-13T12:48:59.000Z",
-          "url": "https://www.coolapk.com/feed/75046889",
-          "image": "http://image.coolapk.com/feed/2026/1113/20/4248714_82f2ad65_4138_4732_476@1271x1589.jpg",
-          "verdict": "先看",
-          "takeaway": "【博主爆料年底多款性能向新机待发，覆盖REDMI、一加、iQOO等品牌】 11月13日，数码闲聊站爆料，今年年底前后将有多款性能定位新机推出，涵盖REDMI Turbo6系列、一加Turbo7系列、iQOO 16R等机型。 据介绍，该批机型覆盖中屏、超大屏尺寸，配备超高刷新屏幕，新增外设配件，并搭载大容量电池。 #今日热点# #数码日常# #HyperOS…",
-          "detail": "【博主爆料年底多款性能向新机待发，覆盖REDMI、一加、iQOO等品牌】 11月13日，数码闲聊站爆料，今年年底前后将有多款性能定位新机推出，涵盖REDMI Turbo6系列、一加Turbo7系列、iQOO 16R等机型。 据介绍，该批机型覆盖中屏、超大屏尺寸，配备超高刷新屏幕，新增外设配件，并搭载大容量电池。 #今日热点# #数码日常# #HyperOS…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "屏幕形态",
-            "电池 / 充电",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-0f63c5fafba7",
-          "title": "JSCHEN小小狐：『多款子系性能向新机曝光：或年底前后发布』 ◆ 机型 REDMI Turbo 6 系列 一加 Turbo 7 系列…",
-          "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-11-13",
-          "time": "12:20",
-          "publishedAt": "2026-11-13T12:20:10.000Z",
-          "url": "https://www.coolapk.com/feed/75046355",
-          "image": "http://image.coolapk.com/feed/2026/1113/20/4702274_b3bbbc04_2409_4546_871@1440x585.jpg",
-          "verdict": "先看",
-          "takeaway": "『多款子系性能向新机曝光：或年底前后发布』 ◆ 机型 REDMI Turbo 6 系列 一加 Turbo 7 系列 iQOO 16R …… ◆ 特色 ① 中屏 / 超大屏 ② 超高刷屏幕 ③ 万级大电池 ④ 新型外设 其中，一加 Turbo 7 将搭载 SM8845 Pro，该平台或基于骁龙 8 Gen5（SM8845）改进而来。 #今日热点# #REDM…",
-          "detail": "『多款子系性能向新机曝光：或年底前后发布』 ◆ 机型 REDMI Turbo 6 系列 一加 Turbo 7 系列 iQOO 16R …… ◆ 特色 ① 中屏 / 超大屏 ② 超高刷屏幕 ③ 万级大电池 ④ 新型外设 其中，一加 Turbo 7 将搭载 SM8845 Pro，该平台或基于骁龙 8 Gen5（SM8845）改进而来。 #今日热点# #REDM…",
-          "keyPoints": [
-            "屏幕形态",
-            "电池 / 充电"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }
