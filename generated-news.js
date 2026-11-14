@@ -1,9 +1,49 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-11-14T15:02:55.851Z",
+  "updatedAt": "2026-11-14T20:42:16.666Z",
   "news": [
     {
+      "id": "auto-143b9ade2553",
+      "title": "iPhone 20 Pro’s 3D quad-curved cover glass leaks in hands-on video",
+      "source": "Gizmochina",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-14",
+      "time": "17:37",
+      "publishedAt": "2026-11-14T17:37:26.000Z",
+      "url": "https://www.gizmochina.com/2026/11/14/iphone-20-pros-3d-quad-curved-cover-glass-leaks-in-hands-on-video/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/iphone-20-pro-3d-quad-curved-covered-glass-300x169.webp?x47967",
+      "summary": "The glass curves down on all four sides toward the frame, has rounded corners, and features noticeably smaller cutouts for the front camera and Face ID sensors. The post iPhone 20…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ff1722b24b57",
+      "title": "Huawei Pura 90 Plus vs iPhone 17 Pro: Huawei Wins on Hardware, But Is Apple Still Better?",
+      "source": "Gizmochina",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-14",
+      "time": "15:29",
+      "publishedAt": "2026-11-14T15:29:50.000Z",
+      "url": "https://www.gizmochina.com/2026/11/14/huawei-pura-90-plus-vs-iphone-17-pro/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/image-55-300x155.png?x47967",
+      "summary": "Huawei Pura 90 Plus and iPhone 17 Pro take different approaches to premium smartphone design. Huawei focuses on advanced camera hardware, a larger display and exceptionally fast c…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "auto-2bd7995bc87d",
-      "title": "OPPO Reno17 系列手机将提供洛天依联动定制主题，11 月 16 日发布",
+      "title": "OPPO 展示 Reno17 系列手机洛天依联动定制主题，11 月 16 日发布",
       "source": "IT之家",
       "brand": "OPPO",
       "model": "OPPO 相关机型",
@@ -13,8 +53,8 @@ window.phoneRadarAuto = {
       "time": "14:43",
       "publishedAt": "2026-11-14T14:43:21.000Z",
       "url": "https://www.ithome.com/1/027/243.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/ff2afe1c-879a-4bfb-8933-ec02eac48f53.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 11 月 14 日消息，OPPO 官方微博发文，宣布 OPPO Reno17 系列手机将提供洛天依定制主题，相应主题仅限 Reno17 系列机型使用，包含 4 款专属锁屏 + 壁纸，提供洛天依三色全新造型及 Q 版形象锁屏。 除此之外，相应主题包括时间、待办、步数等多种趣味组件及跟手粒子、下雪动效、充电动画等专属交互动效。 IT之家注意到，先前相…",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/ff2afe1c-879a-4bfb-8933-ec02eac48f53.png",
+      "summary": "IT之家 11 月 14 日消息，OPPO 官方微博发文，展示了 OPPO Reno17 系列手机提供的洛天依定制主题，相应主题仅限 Reno17 系列机型使用，包含 4 款专属锁屏 + 壁纸，提供洛天依三色全新造型及 Q 版形象锁屏。 除此之外，相应主题包括时间、待办、步数等多种趣味组件及跟手粒子、下雪动效、充电动画等专属交互动效。 IT之家注意到，先前…",
       "tags": [
         "OPPO",
         "爆料",
@@ -122,26 +162,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-518e529ff746",
-      "title": "I used Pixel 10's Magic Cue and Galaxy's Now Nudge side by side; only one showed up when I needed it",
-      "source": "Android Police",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-14",
-      "time": "11:00",
-      "publishedAt": "2026-11-14T11:00:10.000Z",
-      "url": "https://www.androidpolice.com/i-used-pixel-10s-magic-cue-galaxys-now-nudge-side-by-side-one-showed-up-when-i-needed-it/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/02/s26-now-nudge-2.jpg",
-      "summary": "I now know which one is more reliable",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-340d39a20367",
       "title": "竹本青：【OPPO Reno17系列 洛天依定制主题即将上线，覆盖图标、充电、锁屏等】 ▫️4款专属锁屏+壁纸 ▫️洛天依…",
       "source": "竹本青",
@@ -197,26 +217,6 @@ window.phoneRadarAuto = {
       "summary": "Honor has listed the Honor 700 series in China Telecom’s product library ahead of its China launch. The pages cover the Honor 700, Honor 700 Pro, and Honor 700S, with a market dat…",
       "tags": [
         "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-606f9d44c698",
-      "title": "Google Pixel 11 Pro's most pointless feature just got a useful upgrade",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-14",
-      "time": "06:32",
-      "publishedAt": "2026-11-14T06:32:41.000Z",
-      "url": "https://www.androidpolice.com/google-pixel-11-pro-most-pointless-feature-useful-upgrade/",
-      "image": "",
-      "summary": "HiLight now works with WhatsApp messages",
-      "tags": [
-        "Pixel",
         "爆料",
         "自动抓取"
       ]
@@ -322,26 +322,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-871eab182217",
-      "title": "Samsung might have accidentally shown off Galaxy S27's most eye-catching feature",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-14",
-      "time": "01:16",
-      "publishedAt": "2026-11-14T01:16:14.000Z",
-      "url": "https://www.androidpolice.com/samsung-might-leaked-galaxy-s27-most-eye-catching-feature-colors/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/02/galaxy-s26-ultra-hand-back.JPG",
-      "summary": "Violet is out, Red is in",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-4b8f8a7ded1b",
       "title": "竹本青：【曝REDMI 小屏机立项：6.3英寸+四等边】 11月14日，博主数码闲聊站 超前瞻爆料，REDMI已立项小屏新…",
       "source": "竹本青",
@@ -442,41 +422,101 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-609e1c1988ac",
-      "title": "怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-11-14",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/116991",
-      "image": "",
-      "summary": "怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-9a589112ffa8",
-      "title": "周围人对安卓还是停留在卡顿、拍视频差、拍照片不如苹果这样的刻板印象，也懒得和她们争论了。拍视频不如苹果我能理解，这个旗舰机拍照片怎么可能不如苹果，估计是用的五六年前用的安卓，现在系统差距也越来越小了吧，说安卓拍照没有苹果那种感觉，质感不如苹果，真的给我惊呆了，而且现在四五千的安卓旗舰机也不卡了吧？我感觉苹果就是系统优化好，比如各个应用的阻尼感都差不多，很舒服，还有就是过渡动画舒服，还有马达扬声器在各个应用里面都优化的很好，但安卓超大杯这些也都不差。说实话你们觉得现在安卓和苹果差距还大吗？就光使用体验来说！ #HyperOS4# #OriginOS6# #OPPOFindX10ProMax#",
+      "id": "newsnow-8b2f808da6d2",
+      "title": "这果子真是治好了我的续航焦虑，比我的一加 ace3p 续航强太多了 #一加Ace3Pro# #iPhone18ProMax#",
       "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-11-14",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/75040055",
+      "url": "https://www.coolapk.com/feed/75056903",
       "image": "",
-      "summary": "周围人对安卓还是停留在卡顿、拍视频差、拍照片不如苹果这样的刻板印象，也懒得和她们争论了。拍视频不如苹果我能理解，这个旗舰机拍照片怎么可能不如苹果，估计是用的五六年前用的安卓，现在系统差距也越来越小了吧，说安卓拍照没有苹果那种感觉，质感不如苹果，真的给我惊呆了，而且现在四五千的安卓旗舰机也不卡了吧？我感觉苹果就是系统优化好，比如各个应用的阻尼感都差不多，很舒…",
+      "summary": "这果子真是治好了我的续航焦虑，比我的一加 ace3p 续航强太多了 #一加Ace3Pro# #iPhone18ProMax#",
       "tags": [
-        "Xiaomi",
+        "OPPO",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-8a6dbf0cbd8d",
+      "title": "#徕卡一瞬##谷歌相机##手机摄影#",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-14",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/75062018",
+      "image": "",
+      "summary": "#徕卡一瞬##谷歌相机##手机摄影#",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-53c77e7e8dd6",
+      "title": "其实只要光线好……（野外有风险，给我爱机膜干碎了）#运动健身# #手机摄影# #酷安生活#",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-14",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/75054583",
+      "image": "",
+      "summary": "其实只要光线好……（野外有风险，给我爱机膜干碎了）#运动健身# #手机摄影# #酷安生活#",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-427cf9dec2ee",
+      "title": "iPhone销量为何能逆势领跑",
+      "source": "B站热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-14",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://search.bilibili.com/all?keyword=iPhone%E9%94%80%E9%87%8F%E4%B8%BA%E4%BD%95%E8%83%BD%E9%80%86%E5%8A%BF%E9%A2%86%E8%B7%91",
+      "image": "",
+      "summary": "iPhone销量为何能逆势领跑",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-11b66616af62",
+      "title": "母亲回应孤独症儿子在手机店被善待",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-14",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E6%AF%8D%E4%BA%B2%E5%9B%9E%E5%BA%94%E5%AD%A4%E7%8B%AC%E7%97%87%E5%84%BF%E5%AD%90%E5%9C%A8%E6%89%8B%E6%9C%BA%E5%BA%97%E8%A2%AB%E5%96%84%E5%BE%85",
+      "image": "",
+      "summary": "母亲回应孤独症儿子在手机店被善待",
+      "tags": [
+        "行业",
         "爆料",
         "NewsNow"
       ]
