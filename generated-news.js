@@ -1,6 +1,246 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-11-14T06:19:28.540Z",
+  "updatedAt": "2026-11-14T15:02:55.851Z",
   "news": [
+    {
+      "id": "auto-2bd7995bc87d",
+      "title": "OPPO Reno17 系列手机将提供洛天依联动定制主题，11 月 16 日发布",
+      "source": "IT之家",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-14",
+      "time": "14:43",
+      "publishedAt": "2026-11-14T14:43:21.000Z",
+      "url": "https://www.ithome.com/1/027/243.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/ff2afe1c-879a-4bfb-8933-ec02eac48f53.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 11 月 14 日消息，OPPO 官方微博发文，宣布 OPPO Reno17 系列手机将提供洛天依定制主题，相应主题仅限 Reno17 系列机型使用，包含 4 款专属锁屏 + 壁纸，提供洛天依三色全新造型及 Q 版形象锁屏。 除此之外，相应主题包括时间、待办、步数等多种趣味组件及跟手粒子、下雪动效、充电动画等专属交互动效。 IT之家注意到，先前相…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-bd71852a2b6e",
+      "title": "竹本青：【小米18 Fold 最新销量曝光：周增约3800台，累计破11.9万台】 截至 W44 —— 约11.93万（周…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-14",
+      "time": "14:36",
+      "publishedAt": "2026-11-14T14:36:05.000Z",
+      "url": "https://www.coolapk.com/feed/75068154",
+      "image": "http://image.coolapk.com/feed/2026/1114/22/4248714_bfdb018c_6964_2789_686@1272x1576.jpg",
+      "summary": "【小米18 Fold 最新销量曝光：周增约3800台，累计破11.9万台】 截至 W44 —— 约11.93万（周增3800台） 截至 W43 —— 约11.55万（周增3300台） 截至 W42 —— 约11.22万（周增3300台） 截至 W41 —— 约10.89万（周增4200台） 截至 W40 —— 约10.47万（周增6400台） 截至 W39…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-e222d80d15fb",
+      "title": "Top Stories: Apple's New Software Approach, iPhone Duo-Optimized Apps, and More",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-14",
+      "time": "14:00",
+      "publishedAt": "2026-11-14T14:00:08.000Z",
+      "url": "https://www.macrumors.com/2026/11/14/top-stories-apple-new-software-approach/",
+      "image": "https://images.macrumors.com/article-new/2026/11/top-stories-2026-11-14.jpg",
+      "summary": "Apple's wild past few months are finally starting to slow down with the last of the big hardware launches coming this week. Meanwhile, developers are continuing to optimize their…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-de8e53c8d55d",
+      "title": "I played WoW Forever on my Galaxy Z Fold 8, and it performed perfectly",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-14",
+      "time": "13:45",
+      "publishedAt": "2026-11-14T13:45:10.000Z",
+      "url": "https://www.androidpolice.com/heres-how-to-play-world-of-warcraft-forever-on-your-smartphone/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/11/wow-forever-on-z-fold-8-on-cata-box.jpg",
+      "summary": "This amazing Github project means you can play WoW on your phone.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-300bda423275",
+      "title": "Facebook 擅自读取意大利用户相册，Meta 被处以 8.05 亿欧元重罚",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-14",
+      "time": "12:42",
+      "publishedAt": "2026-11-14T12:42:51.000Z",
+      "url": "https://www.ithome.com/1/027/227.htm",
+      "image": "",
+      "summary": "IT之家 11 月 14 日消息，因在 未经意大利用户单独授权、也未充分告知用户 的情况下，通过 Android 版 Facebook 应用读取手机中保存的照片、视频及附带的元数据，意大利数据保护局今天（14 日）对 Meta 开出 8.05 亿欧元 （IT之家注：现汇率约合 59.36 亿元人民币） 罚单。 意大利数据保护局声明指出，此次处罚针对的是 F…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6355d11f5238",
+      "title": "Honor Magic 10 tipped with 200MP LOFIC camera, tandem OLED display",
+      "source": "Gizmochina",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-14",
+      "time": "11:09",
+      "publishedAt": "2026-11-14T11:09:53.000Z",
+      "url": "https://www.gizmochina.com/2026/11/14/honor-magic-10-tipped-with-200mp-lofic-camera-tandem-oled-display/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Honor-Magic-9-Pro-Max-camera-300x200.jpg?x47967",
+      "summary": "Honor is reportedly working on a new 200MP main camera with LOFIC technology for its next flagship series. The information comes from tipster Smart Pikachu, who has shared two sep…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-518e529ff746",
+      "title": "I used Pixel 10's Magic Cue and Galaxy's Now Nudge side by side; only one showed up when I needed it",
+      "source": "Android Police",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-14",
+      "time": "11:00",
+      "publishedAt": "2026-11-14T11:00:10.000Z",
+      "url": "https://www.androidpolice.com/i-used-pixel-10s-magic-cue-galaxys-now-nudge-side-by-side-one-showed-up-when-i-needed-it/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/02/s26-now-nudge-2.jpg",
+      "summary": "I now know which one is more reliable",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-340d39a20367",
+      "title": "竹本青：【OPPO Reno17系列 洛天依定制主题即将上线，覆盖图标、充电、锁屏等】 ▫️4款专属锁屏+壁纸 ▫️洛天依…",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-14",
+      "time": "07:32",
+      "publishedAt": "2026-11-14T07:32:25.000Z",
+      "url": "https://www.coolapk.com/feed/75060286",
+      "image": "http://image.coolapk.com/feed/2026/1114/15/4248714_1bccfb04_1543_4703_418@1500x2000.jpg",
+      "summary": "【OPPO Reno17系列 洛天依定制主题即将上线，覆盖图标、充电、锁屏等】 ▫️4款专属锁屏+壁纸 ▫️洛天依三色全新造型 ▫️Q版形象锁屏 ▫️多种趣味组件 ▫️交互动效、充电动画等 ＊定制主题仅限Reno17 系列机型使用 #今日热点# #OPPOReno17Pro# #ColorOS17#",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-99d81994cf2e",
+      "title": "竹本青：【博主汇总OPPO Reno17系列参数：全系50Mp潜望，至高搭载天玑8550 SUPER】 ● 标准版： 6.…",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-14",
+      "time": "07:30",
+      "publishedAt": "2026-11-14T07:30:41.000Z",
+      "url": "https://www.coolapk.com/feed/75060251",
+      "image": "http://image.coolapk.com/feed/2026/1114/15/4248714_49f04900_1439_9826_385@1271x971.jpg",
+      "summary": "【博主汇总OPPO Reno17系列参数：全系50Mp潜望，至高搭载天玑8550 SUPER】 ● 标准版： 6.56英寸1.5K LTPS直屏 骁龙7 Gen4处理器 8000mAh+80W续航组合 金属中框｜短焦指纹 前置｜50Mp 主摄｜50Mp 超广｜50Mp 潜望｜50Mp 3.5X ————————————— ● Pro版 6.32英寸1.5K…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-0a177b167703",
+      "title": "Honor 700, 700 Pro, and 700S full specs emerge via premature listings well before November 23 launch",
+      "source": "Gizmochina",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-14",
+      "time": "06:47",
+      "publishedAt": "2026-11-14T06:47:10.000Z",
+      "url": "https://www.gizmochina.com/2026/11/14/honor-700-700-pro-700s-full-specs-emerge-premature-listing/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-12-300x169.jpg?x47967",
+      "summary": "Honor has listed the Honor 700 series in China Telecom’s product library ahead of its China launch. The pages cover the Honor 700, Honor 700 Pro, and Honor 700S, with a market dat…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-606f9d44c698",
+      "title": "Google Pixel 11 Pro's most pointless feature just got a useful upgrade",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-14",
+      "time": "06:32",
+      "publishedAt": "2026-11-14T06:32:41.000Z",
+      "url": "https://www.androidpolice.com/google-pixel-11-pro-most-pointless-feature-useful-upgrade/",
+      "image": "",
+      "summary": "HiLight now works with WhatsApp messages",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6b3775cb9bba",
+      "title": "Oppo Reno 17, Reno 17 Pro full specs leaked ahead of launch",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-14",
+      "time": "06:17",
+      "publishedAt": "2026-11-14T06:17:37.000Z",
+      "url": "https://www.gizmochina.com/2026/11/14/oppo-reno-17-reno-17-pro-full-specs-leaked-ahead-launch/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-11-300x169.jpg?x47967",
+      "summary": "Oppo is gearing up for its next launch event in China, scheduled for November 16 at 7 PM local time. The brand is expected to unveil the Reno 17 and Reno 17 Pro smartphones at the…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "coolapk-user-7e948a01f64c",
       "title": "竹本青：【比亚迪辟谣：“华为数字能源出售给比亚迪”信息不实】 11月14日，比亚迪官方辟谣：针对网络流传“华为数字能源出售…",
@@ -42,26 +282,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-cfff2c675f01",
-      "title": "荣耀被曝测试多款豪威影像传感器，“最顶”主摄为 2 亿像素 OVB0D",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-14",
-      "time": "03:03",
-      "publishedAt": "2026-11-14T03:03:47.000Z",
-      "url": "https://www.ithome.com/1/027/067.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/8b72b3b3-71c7-4d16-8b48-a00403852f70.png",
-      "summary": "IT之家 11 月 14 日消息，据博主 @数码闲聊站 今日爆料，荣耀手机正在测试多款豪威旗下的影像传感器。 据其透露，目前测试“最顶”的主摄为 200Mp 1/1.12\" OVB0D LOFIC 1X-2X ，中高端主摄为 200Mp 1/1.55\" OV52F，中高端潜望长焦为 64Mp 1/2\" OV64D，原生方形前摄为 68Mp OV68F。 I…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-873233dcbe09",
       "title": "JSCHEN小小狐：『曝荣耀测试多款豪威传感器: 最高 2 亿 1/1.12\"』 主摄最高测试： 200MP 1/1.12\" OVB0…",
       "source": "JSCHEN小小狐",
@@ -99,66 +319,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-da8cb8612a7f",
-      "title": "配 A20 芯片：古尔曼重申苹果 iPhone 18/18e 明年春季将登场",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-14",
-      "time": "02:26",
-      "publishedAt": "2026-11-14T02:26:45.000Z",
-      "url": "https://www.ithome.com/1/027/057.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/864f434d-636d-41bc-86eb-80ca122b0fc5.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 11 月 14 日消息，在最新一期 Power On 访谈节目中，彭博社的马克 · 古尔曼（Mark Gurman）再次透露， 苹果将会在 2027 年春季发布 iPhone 18 和 iPhone 18e 两款手机，将会搭载 A20 芯片。 在上述视频的约 36:43~37:00 分，古尔曼表示：“iPhone 18 和 iPhone 18e…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-67548d13bb44",
-      "title": "消息称某厂 6.3 英寸 1.5K 小屏机立项，预计小米 REDMI 旗下",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-14",
-      "time": "01:52",
-      "publishedAt": "2026-11-14T01:52:54.000Z",
-      "url": "https://www.ithome.com/1/027/048.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/074fbb27-94b6-4331-947f-19418756d323.png",
-      "summary": "IT之家 11 月 14 日消息，博主 @数码闲聊站 今日发布超前瞻爆料，某厂子系有 6.3 英寸小屏机立项， 采用 1.5K LTPO+LIPO 四等边设计 。结合该博主的爆料习惯，预计新机为小米 REDMI 旗下。 目前尚不清楚这款新机的具体型号，仅从屏幕尺寸上看，新机大小预计与小米 17 标准版接近。 作为参考，小米 17 标准版手机便搭载了 6.3…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-023d1d3afe51",
-      "title": "CNET 耐久测试：苹果首款折叠 iPhone Duo 撑过 45.7 万次开合，铰链磨损变松 / 屏幕未见裂纹",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-14",
-      "time": "01:45",
-      "publishedAt": "2026-11-14T01:45:35.000Z",
-      "url": "https://www.ithome.com/1/027/046.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/8643e9ee-3b49-445a-9bb9-70a418af49ec.jpg",
-      "summary": "IT之家 11 月 14 日消息，科技媒体 CNET 昨日（11 月 13 日）结束第 15 天直播后， 苹果首款折叠 iPhone Duo 手机已经历 457,053 次折叠，目前仍能运行，屏幕未见裂纹，但铰链已出现明显磨损迹象。 IT之家附上相关截图如下： 测试人员表示变化最早出现在约 39 万次折叠时，可以感觉到铰链变松。次数增至约 44.03 万次…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -322,86 +482,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-33380d5e9812",
-      "title": "今年双11这半个多月，折腾了3个手机，从一加13顶配先换到findx8u，再到一加15，然后又到了findx9pro，最后又回到一加15，现在有空来谈谈自己的主观感受。",
-      "source": "酷安热榜",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-14",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/75046118",
-      "image": "",
-      "summary": "今年双11这半个多月，折腾了3个手机，从一加13顶配先换到findx8u，再到一加15，然后又到了findx9pro，最后又回到一加15，现在有空来谈谈自己的主观感受。",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-ef660d3ea897",
-      "title": "奔驰女司机借300元加油钱后手机关机",
-      "source": "微博热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-11-14",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%A5%94%E9%A9%B0%E5%A5%B3%E5%8F%B8%E6%9C%BA%E5%80%9F300%E5%85%83%E5%8A%A0%E6%B2%B9%E9%92%B1%E5%90%8E%E6%89%8B%E6%9C%BA%E5%85%B3%E6%9C%BA%23&t=31&band_rank=5&Refer=top",
-      "image": "",
-      "summary": "奔驰女司机借300元加油钱后手机关机",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-4387fcdc2a71",
-      "title": "一组数据读懂APEC“中国年”新机遇",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-14",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%80%E7%BB%84%E6%95%B0%E6%8D%AE%E8%AF%BB%E6%87%82APEC%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%B9%B4%E2%80%9D%E6%96%B0%E6%9C%BA%E9%81%87",
-      "image": "",
-      "summary": "一组数据读懂APEC“中国年”新机遇",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-95d1129418bb",
-      "title": "你的旧手机号可能被别人用来消费",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-14",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E7%9A%84%E6%97%A7%E6%89%8B%E6%9C%BA%E5%8F%B7%E5%8F%AF%E8%83%BD%E8%A2%AB%E5%88%AB%E4%BA%BA%E7%94%A8%E6%9D%A5%E6%B6%88%E8%B4%B9",
-      "image": "",
-      "summary": "你的旧手机号可能被别人用来消费",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "auto-91a157657efb",
       "title": "Google gets ready to kill off Pixel 10 Magic Cue in favor of Proactive Assistance",
       "source": "Android Authority",
@@ -459,26 +539,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-118f1096b03b",
-      "title": "竹本青：OPPO段要辉：新型相机正在研发，将搭载手机影像技术",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-13",
-      "time": "16:27",
-      "publishedAt": "2026-11-13T16:27:21.000Z",
-      "url": "https://www.coolapk.com/feed/75051172",
-      "image": "http://image.coolapk.com/feed/2026/1114/00/4248714_b0116d6d_8407_6716_482-livepic@1080x1922.jpg",
-      "summary": "【OPPO段要辉：新型相机正在研发，将搭载手机影像技术】 近日，OPPO高级副总裁段要辉 在接受采访时透露，新型相机距离发布“应该不会太远”。 其表示，OPPO在影像领域持续研发，已在光学、算法、软件交互等维度形成技术储备，未来会把手机影像技术延伸至多终端品类。 据此前博主爆料，OPPO Pocket 云台相机 预计今年年底前后发布，将搭载“旗舰级”芯片，…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -542,26 +602,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-d4d9ab31a462",
-      "title": "竹本青：XREAL回应X1芯片自研质疑：双方研发分工",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-13",
-      "time": "14:13",
-      "publishedAt": "2026-11-13T14:13:45.000Z",
-      "url": "https://www.coolapk.com/feed/75048598",
-      "image": "http://image.coolapk.com/feed/2026/1113/22/4248714_c5e00a8c_9223_7764_515@1440x2560.jpg",
-      "summary": "【XREAL回应X1芯片自研质疑，称双方研发分工】 11月13日，据界面新闻报道，消费级AR品牌XREAL针对其旗下X1芯片自研争议，向「电厂」发布独家声明。XREAL强调，“X1系是基于合作伙伴芯片平台、专为AR空间显示定义和优化的芯片”“XREAL在上市申请文件中对X1的描述真实、准确”。 此前，自媒体“倪叔的思考暗时间”于11月11日发布文章，文中援…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-dc208a6a3b27",
       "title": "One tweak makes the Galaxy Z Fold 8 multi-window experience even better",
       "source": "SamMobile",
@@ -599,26 +639,6 @@ window.phoneRadarAuto = {
         "HONOR",
         "评测",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-0b574c115bf6",
-      "title": "竹本青：【博主爆料年底多款性能向新机待发，覆盖REDMI、一加、iQOO等品牌】 11月13日，数码闲聊站爆料，今年年底前…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-13",
-      "time": "12:48",
-      "publishedAt": "2026-11-13T12:48:59.000Z",
-      "url": "https://www.coolapk.com/feed/75046889",
-      "image": "http://image.coolapk.com/feed/2026/1113/20/4248714_82f2ad65_4138_4732_476@1271x1589.jpg",
-      "summary": "【博主爆料年底多款性能向新机待发，覆盖REDMI、一加、iQOO等品牌】 11月13日，数码闲聊站爆料，今年年底前后将有多款性能定位新机推出，涵盖REDMI Turbo6系列、一加Turbo7系列、iQOO 16R等机型。 据介绍，该批机型覆盖中屏、超大屏尺寸，配备超高刷新屏幕，新增外设配件，并搭载大容量电池。 #今日热点# #数码日常# #HyperOS…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
       ]
     },
     {

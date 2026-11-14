@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-11-14T06:19:28.540Z",
+  "updatedAt": "2026-11-14T15:02:55.851Z",
   "issueDate": "2026-11-14",
   "issue": "VOL.261114",
   "title": "手机情报日报",
-  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、2 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
     "total": 12,
-    "iphone": 7,
+    "iphone": 5,
     "leaks": 8,
-    "official": 2,
+    "official": 1,
     "specs": 0
   },
   "sections": [
@@ -17,53 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-da8cb8612a7f",
-          "title": "配 A20 芯片：古尔曼重申苹果 iPhone 18/18e 明年春季将登场",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-11-14",
-          "time": "02:26",
-          "publishedAt": "2026-11-14T02:26:45.000Z",
-          "url": "https://www.ithome.com/1/027/057.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/864f434d-636d-41bc-86eb-80ca122b0fc5.jpg?x-bce-process=image/format,f_auto",
-          "verdict": "先看",
-          "takeaway": "IT之家 11 月 14 日消息，在最新一期 Power On 访谈节目中，彭博社的马克 · 古尔曼（Mark Gurman）再次透露， 苹果将会在 2027 年春季发布 iPhone 18 和 iPhone 18e 两款手机，将会搭载 A20 芯片。 在上述视频的约 36:43~37:00 分，古尔曼表示：“iPhone 18 和 iPhone 18e…",
-          "detail": "IT之家 11 月 14 日消息，在最新一期 Power On 访谈节目中，彭博社的马克 · 古尔曼（Mark Gurman）再次透露， 苹果将会在 2027 年春季发布 iPhone 18 和 iPhone 18e 两款手机，将会搭载 A20 芯片。 在上述视频的约 36:43~37:00 分，古尔曼表示：“iPhone 18 和 iPhone 18e…",
-          "keyPoints": [
-            "芯片 / 性能",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-023d1d3afe51",
-          "title": "CNET 耐久测试：苹果首款折叠 iPhone Duo 撑过 45.7 万次开合，铰链磨损变松 / 屏幕未见裂纹",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-11-14",
-          "time": "01:45",
-          "publishedAt": "2026-11-14T01:45:35.000Z",
-          "url": "https://www.ithome.com/1/027/046.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/8643e9ee-3b49-445a-9bb9-70a418af49ec.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 11 月 14 日消息，科技媒体 CNET 昨日（11 月 13 日）结束第 15 天直播后， 苹果首款折叠 iPhone Duo 手机已经历 457,053 次折叠，目前仍能运行，屏幕未见裂纹，但铰链已出现明显磨损迹象。 IT之家附上相关截图如下： 测试人员表示变化最早出现在约 39 万次折叠时，可以感觉到铰链变松。次数增至约 44.03 万次…",
-          "detail": "IT之家 11 月 14 日消息，科技媒体 CNET 昨日（11 月 13 日）结束第 15 天直播后， 苹果首款折叠 iPhone Duo 手机已经历 457,053 次折叠，目前仍能运行，屏幕未见裂纹，但铰链已出现明显磨损迹象。 IT之家附上相关截图如下： 测试人员表示变化最早出现在约 39 万次折叠时，可以感觉到铰链变松。次数增至约 44.03 万次…",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "auto-ab248b22228d",
           "title": "iPhone 20 爆料汇总：一整块玻璃，藏着苹果下一个十年",
@@ -82,6 +35,29 @@ window.phoneRadarDaily = {
           "detail": "iPhone 20 会是一台伟大的产品吗？",
           "keyPoints": [
             "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-e222d80d15fb",
+          "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-11-14",
+          "time": "14:00",
+          "publishedAt": "2026-11-14T14:00:08.000Z",
+          "url": "https://www.macrumors.com/2026/11/14/top-stories-apple-new-software-approach/",
+          "image": "https://images.macrumors.com/article-new/2026/11/top-stories-2026-11-14.jpg",
+          "verdict": "先看",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -135,27 +111,25 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-67548d13bb44",
-          "title": "消息称某厂 6.3 英寸 1.5K 小屏机立项，预计小米 REDMI 旗下",
+          "id": "auto-2bd7995bc87d",
+          "title": "OPPO Reno17 系列手机将提供洛天依联动定制主题，11 月 16 日发布",
           "originalTitle": "",
           "source": "IT之家",
-          "brand": "Xiaomi",
+          "brand": "OPPO",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-11-14",
-          "time": "01:52",
-          "publishedAt": "2026-11-14T01:52:54.000Z",
-          "url": "https://www.ithome.com/1/027/048.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/074fbb27-94b6-4331-947f-19418756d323.png",
+          "time": "14:43",
+          "publishedAt": "2026-11-14T14:43:21.000Z",
+          "url": "https://www.ithome.com/1/027/243.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/ff2afe1c-879a-4bfb-8933-ec02eac48f53.png?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 11 月 14 日消息，博主 @数码闲聊站 今日发布超前瞻爆料，某厂子系有 6.3 英寸小屏机立项， 采用 1.5K LTPO+LIPO 四等边设计 。结合该博主的爆料习惯，预计新机为小米 REDMI 旗下。 目前尚不清楚这款新机的具体型号，仅从屏幕尺寸上看，新机大小预计与小米 17 标准版接近。 作为参考，小米 17 标准版手机便搭载了 6.3…",
-          "detail": "IT之家 11 月 14 日消息，博主 @数码闲聊站 今日发布超前瞻爆料，某厂子系有 6.3 英寸小屏机立项， 采用 1.5K LTPO+LIPO 四等边设计 。结合该博主的爆料习惯，预计新机为小米 REDMI 旗下。 目前尚不清楚这款新机的具体型号，仅从屏幕尺寸上看，新机大小预计与小米 17 标准版接近。 作为参考，小米 17 标准版手机便搭载了 6.3…",
+          "takeaway": "IT之家 11 月 14 日消息，OPPO 官方微博发文，宣布 OPPO Reno17 系列手机将提供洛天依定制主题，相应主题仅限 Reno17 系列机型使用，包含 4 款专属锁屏 + 壁纸，提供洛天依三色全新造型及 Q 版形象锁屏。 除此之外，相应主题包括时间、待办、步数等多种趣味组件及跟手粒子、下雪动效、充电动画等专属交互动效。 IT之家注意到，先前相…",
+          "detail": "IT之家 11 月 14 日消息，OPPO 官方微博发文，宣布 OPPO Reno17 系列手机将提供洛天依定制主题，相应主题仅限 Reno17 系列机型使用，包含 4 款专属锁屏 + 壁纸，提供洛天依三色全新造型及 Q 版形象锁屏。 除此之外，相应主题包括时间、待办、步数等多种趣味组件及跟手粒子、下雪动效、充电动画等专属交互动效。 IT之家注意到，先前相…",
           "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "屏幕形态",
-            "爆料来源"
+            "电池 / 充电"
           ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -208,6 +182,32 @@ window.phoneRadarDaily = {
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-99d81994cf2e",
+          "title": "竹本青：【博主汇总OPPO Reno17系列参数：全系50Mp潜望，至高搭载天玑8550 SUPER】 ● 标准版： 6.…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-11-14",
+          "time": "07:30",
+          "publishedAt": "2026-11-14T07:30:41.000Z",
+          "url": "https://www.coolapk.com/feed/75060251",
+          "image": "http://image.coolapk.com/feed/2026/1114/15/4248714_49f04900_1439_9826_385@1271x971.jpg",
+          "verdict": "先看",
+          "takeaway": "【博主汇总OPPO Reno17系列参数：全系50Mp潜望，至高搭载天玑8550 SUPER】 ● 标准版： 6.56英寸1.5K LTPS直屏 骁龙7 Gen4处理器 8000mAh+80W续航组合 金属中框｜短焦指纹 前置｜50Mp 主摄｜50Mp 超广｜50Mp 潜望｜50Mp 3.5X ————————————— ● Pro版 6.32英寸1.5K…",
+          "detail": "【博主汇总OPPO Reno17系列参数：全系50Mp潜望，至高搭载天玑8550 SUPER】 ● 标准版： 6.56英寸1.5K LTPS直屏 骁龙7 Gen4处理器 8000mAh+80W续航组合 金属中框｜短焦指纹 前置｜50Mp 主摄｜50Mp 超广｜50Mp 潜望｜50Mp 3.5X ————————————— ● Pro版 6.32英寸1.5K…",
+          "keyPoints": [
+            "影像硬件",
+            "屏幕形态",
+            "电池 / 充电",
+            "芯片 / 性能"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -216,29 +216,6 @@ window.phoneRadarDaily = {
       "title": "iPhone 重点",
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
-        {
-          "id": "auto-bfd196d7caed",
-          "title": "iPhone 相关消息",
-          "originalTitle": "",
-          "source": "Apple Newsroom",
-          "brand": "iPhone",
-          "type": "官方",
-          "trust": "官方确认",
-          "date": "2026-11-14",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.apple.com/newsroom/2026/10/iphone-duo-arrives-at-apple-store-locations-worldwide/",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "官方"
-          ],
-          "confidence": "官方内容，可直接作为已确认信息记录。",
-          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
         {
           "id": "auto-a89f115eb254",
           "title": "iPhone 芯片 / 性能相关消息",
@@ -261,6 +238,36 @@ window.phoneRadarDaily = {
           "confidence": "官方内容，可直接作为已确认信息记录。",
           "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "launch",
+      "title": "新机与官方发布",
+      "hint": "能直接更新到参数库。",
+      "items": [
+        {
+          "id": "auto-ee7969073bc4",
+          "title": "iPhone 18 发布 / 上市相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-11-13",
+          "time": "06:46",
+          "publishedAt": "2026-11-13T06:46:28.000Z",
+          "url": "https://www.gizmochina.com/2026/11/13/samsung-may-be-the-reason-behind-iphone-18-launch-delay/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/04/iphone-17-300x169.jpg?x47967",
+          "verdict": "扫一眼",
+          "takeaway": "Samsung 有发布或新功能消息，适合确认是否和新机有关。",
+          "detail": "iPhone 18 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响拍照体验，买旗舰机时值得关注。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         }
       ]
     },
@@ -300,25 +307,25 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "newsnow-33380d5e9812",
-          "title": "今年双11这半个多月，折腾了3个手机，从一加13顶配先换到findx8u，再到一加15，然后又到了findx9pro，最后又回到一加15，现在有空来谈谈自己的主观感受。",
+          "id": "coolapk-user-bd71852a2b6e",
+          "title": "竹本青：【小米18 Fold 最新销量曝光：周增约3800台，累计破11.9万台】 截至 W44 —— 约11.93万（周…",
           "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "OPPO",
+          "source": "竹本青",
+          "brand": "Xiaomi",
           "type": "爆料",
-          "trust": "高关注爆料源",
+          "trust": "高可信爆料",
           "date": "2026-11-14",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/75046118",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "今年双11这半个多月，折腾了3个手机，从一加13顶配先换到findx8u，再到一加15，然后又到了findx9pro，最后又回到一加15，现在有空来谈谈自己的主观感受。",
-          "detail": "今年双11这半个多月，折腾了3个手机，从一加13顶配先换到findx8u，再到一加15，然后又到了findx9pro，最后又回到一加15，现在有空来谈谈自己的主观感受。",
+          "time": "14:36",
+          "publishedAt": "2026-11-14T14:36:05.000Z",
+          "url": "https://www.coolapk.com/feed/75068154",
+          "image": "http://image.coolapk.com/feed/2026/1114/22/4248714_bfdb018c_6964_2789_686@1272x1576.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "【小米18 Fold 最新销量曝光：周增约3800台，累计破11.9万台】 截至 W44 —— 约11.93万（周增3800台） 截至 W43 —— 约11.55万（周增3300台） 截至 W42 —— 约11.22万（周增3300台） 截至 W41 —— 约10.89万（周增4200台） 截至 W40 —— 约10.47万（周增6400台） 截至 W39…",
+          "detail": "【小米18 Fold 最新销量曝光：周增约3800台，累计破11.9万台】 截至 W44 —— 约11.93万（周增3800台） 截至 W43 —— 约11.55万（周增3300台） 截至 W42 —— 约11.22万（周增3300台） 截至 W41 —— 约10.89万（周增4200台） 截至 W40 —— 约10.47万（周增6400台） 截至 W39…",
           "keyPoints": [
             "爆料"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
