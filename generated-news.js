@@ -1,6 +1,46 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-11-15T17:08:16.540Z",
+  "updatedAt": "2026-11-15T22:47:16.924Z",
   "news": [
+    {
+      "id": "auto-f7ced63d2ffe",
+      "title": "The Galaxy Z Fold 8 is making me question my allegiance to Samsung’s best phone lineup",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-15",
+      "time": "22:41",
+      "publishedAt": "2026-11-15T22:41:41.000Z",
+      "url": "https://www.sammobile.com/opinion/galaxy-z-fold-8-making-me-question-allegiance-samsung-best-phone/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/03/Galaxy-S26-Ultra-review-cameras-1920x1078.jpg",
+      "summary": "For a long time, the Galaxy S Ultra has been the easy choice when deciding which Samsung phone I want to use as my main device. I enjoy trying other phones, and my work gives me p…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ce708f1f10cc",
+      "title": "Galaxy S27 Ultra and S27 Pro to share this camera layout, here’s the design",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-15",
+      "time": "18:44",
+      "publishedAt": "2026-11-15T18:44:18.000Z",
+      "url": "https://www.gizmochina.com/2026/11/15/galaxy-s27-ultra-s27-pro-final-camera-design-leak/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-13-300x169.jpg?x47967",
+      "summary": "Samsung‘s next flagship phones may share a more compact rear camera cluster than earlier leaks suggested. A new post from Ice Universe includes a line sketch of the back of the ph…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-3cb778cdf66c",
       "title": "Apple Aiming to Upgrade the iPhone Duo in Four Ways",
@@ -282,8 +322,28 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-313b68a98000",
-      "title": "#徕卡一瞬##谷歌相机##手机摄影#",
+      "id": "newsnow-3bfe66f6b5ce",
+      "title": "这人闹麻了，还以为自己多有理，总结一下，拿了一个过保的magic7去扩容，扩容完，主板有问题荣耀给他免费换主板，换的主板有问题荣耀还是免费给他换主板，据他描述，荣耀这个售后行为完全没有任何问题，他在第二次荣耀给他换主板时要求换新机本质就是无理取闹[疑问]#荣耀WINRT2# #MagicOS11# #荣耀Magic8ProAir#",
+      "source": "酷安热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-15",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/75085662",
+      "image": "",
+      "summary": "这人闹麻了，还以为自己多有理，总结一下，拿了一个过保的magic7去扩容，扩容完，主板有问题荣耀给他免费换主板，换的主板有问题荣耀还是免费给他换主板，据他描述，荣耀这个售后行为完全没有任何问题，他在第二次荣耀给他换主板时要求换新机本质就是无理取闹[疑问]#荣耀WINRT2# #MagicOS11# #荣耀Magic8ProAir#",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-96864c58cf1a",
+      "title": "兄弟们，帮我做选择卖掉其中一个手机，玩不过来了，特别纠结。",
       "source": "酷安热榜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -292,9 +352,9 @@ window.phoneRadarAuto = {
       "date": "2026-11-15",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/75062018",
+      "url": "https://www.coolapk.com/feed/75084562",
       "image": "",
-      "summary": "#徕卡一瞬##谷歌相机##手机摄影#",
+      "summary": "兄弟们，帮我做选择卖掉其中一个手机，玩不过来了，特别纠结。",
       "tags": [
         "行业",
         "爆料",
@@ -302,7 +362,47 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-b0b8c730e3c8",
+      "id": "newsnow-b5008ba050aa",
+      "title": "不得不说，oppo的售后是中国手机厂商第一，因为摄像头内进灰，第一次换货后，我晚上回到家又发现摄像头内有灰，第二天和售后小哥说了之后，他回复说可以帮我先订货，货到了再让我去店里，不用跑2趟，这点比vivo荣耀强，vivo只给换单机，还得提前跑去售后检查之后过几天货到了再去换机，不过有问题可以一直换到没问题为止。荣耀第一次可以给换全套，第二次就只愿意换单机，还说下次只能修。 #荣耀Magic9ProMax# #vivoX500ProMax# #小米18ProMax#",
+      "source": "酷安热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-15",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/75082365",
+      "image": "",
+      "summary": "不得不说，oppo的售后是中国手机厂商第一，因为摄像头内进灰，第一次换货后，我晚上回到家又发现摄像头内有灰，第二天和售后小哥说了之后，他回复说可以帮我先订货，货到了再让我去店里，不用跑2趟，这点比vivo荣耀强，vivo只给换单机，还得提前跑去售后检查之后过几天货到了再去换机，不过有问题可以一直换到没问题为止。荣耀第一次可以给换全套，第二次就只愿意换单机，…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-4e3ecdfe0189",
+      "title": "#酷回收# #REDMIK100ProMax# #iPhone18ProMax# 安利下酷回收♻️平台，比咸鱼爱回收平台好太多了，价格合适，关键省事。今年本来没打算换机，结果上了18pm某宝9329的车[流汗滑稽]，不得已将手里的一年的小17出了回回血，无意发现酷安还有二手回收平台，想着双十一还有抽奖活动就在酷安回收了，没想到今天运气还不错[牛牛点赞][牛牛点赞]抽到了 Redmi K100pm哈哈哈哈",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-15",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/75085392",
+      "image": "",
+      "summary": "#酷回收# #REDMIK100ProMax# #iPhone18ProMax# 安利下酷回收♻️平台，比咸鱼爱回收平台好太多了，价格合适，关键省事。今年本来没打算换机，结果上了18pm某宝9329的车[流汗滑稽]，不得已将手里的一年的小17出了回回血，无意发现酷安还有二手回收平台，想着双十一还有抽奖活动就在酷安回收了，没想到今天运气还不错[牛牛点赞][牛…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-cf6035f6f86d",
       "title": "白鹿换新手机",
       "source": "微博热搜",
       "brand": "行业",
@@ -312,7 +412,7 @@ window.phoneRadarAuto = {
       "date": "2026-11-15",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%8D%A2%E6%96%B0%E6%89%8B%E6%9C%BA%23&t=31&band_rank=16&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%8D%A2%E6%96%B0%E6%89%8B%E6%9C%BA%23&t=31&band_rank=29&Refer=top",
       "image": "",
       "summary": "白鹿换新手机",
       "tags": [

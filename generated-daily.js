@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-11-15T17:08:16.540Z",
+  "updatedAt": "2026-11-15T22:47:16.924Z",
   "issueDate": "2026-11-15",
   "issue": "VOL.261115",
   "title": "手机情报日报",
-  "intro": "今日筛出 17 条重点，其中 8 条是重点爆料，包含 11 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 19 条重点，其中 8 条是重点爆料，包含 11 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 17,
+    "total": 19,
     "iphone": 11,
     "leaks": 8,
     "official": 1,
@@ -362,40 +362,79 @@ window.phoneRadarDaily = {
       ]
     },
     {
-      "id": "launch",
-      "title": "新机与官方发布",
-      "hint": "能直接更新到参数库。",
+      "id": "market",
+      "title": "行业趋势",
+      "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "auto-0a177b167703",
-          "title": "HONOR 发布 / 上市相关消息",
+          "id": "newsnow-3bfe66f6b5ce",
+          "title": "这人闹麻了，还以为自己多有理，总结一下，拿了一个过保的magic7去扩容，扩容完，主板有问题荣耀给他免费换主板，换的主板有问题荣耀还是免费给他换主板，据他描述，荣耀这个售后行为完全没有任何问题，他在第二次荣耀给他换主板时要求换新机本质就是无理取闹[疑问]#荣耀WINRT2# #MagicOS11# #荣耀Magic8ProAir#",
           "originalTitle": "",
-          "source": "Gizmochina",
+          "source": "酷安热榜",
           "brand": "HONOR",
           "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-11-14",
-          "time": "06:47",
-          "publishedAt": "2026-11-14T06:47:10.000Z",
-          "url": "https://www.gizmochina.com/2026/11/14/honor-700-700-pro-700s-full-specs-emerge-premature-listing/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-12-300x169.jpg?x47967",
-          "verdict": "可略过",
-          "takeaway": "HONOR 有发布或新功能消息，适合确认是否和新机有关。",
-          "detail": "HONOR 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "trust": "高关注爆料源",
+          "date": "2026-11-15",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/75085662",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "这人闹麻了，还以为自己多有理，总结一下，拿了一个过保的magic7去扩容，扩容完，主板有问题荣耀给他免费换主板，换的主板有问题荣耀还是免费给他换主板，据他描述，荣耀这个售后行为完全没有任何问题，他在第二次荣耀给他换主板时要求换新机本质就是无理取闹[疑问]#荣耀WINRT2# #MagicOS11# #荣耀Magic8ProAir#",
+          "detail": "这人闹麻了，还以为自己多有理，总结一下，拿了一个过保的magic7去扩容，扩容完，主板有问题荣耀给他免费换主板，换的主板有问题荣耀还是免费给他换主板，据他描述，荣耀这个售后行为完全没有任何问题，他在第二次荣耀给他换主板时要求换新机本质就是无理取闹[疑问]#荣耀WINRT2# #MagicOS11# #荣耀Magic8ProAir#",
           "keyPoints": [
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "market",
-      "title": "行业趋势",
-      "hint": "看方向，不急着当购买依据。",
-      "items": [
+        },
+        {
+          "id": "newsnow-b5008ba050aa",
+          "title": "不得不说，oppo的售后是中国手机厂商第一，因为摄像头内进灰，第一次换货后，我晚上回到家又发现摄像头内有灰，第二天和售后小哥说了之后，他回复说可以帮我先订货，货到了再让我去店里，不用跑2趟，这点比vivo荣耀强，vivo只给换单机，还得提前跑去售后检查之后过几天货到了再去换机，不过有问题可以一直换到没问题为止。荣耀第一次可以给换全套，第二次就只愿意换单机，还说下次只能修。 #荣耀Magic9ProMax# #vivoX500ProMax# #小米18ProMax#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-11-15",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/75082365",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "不得不说，oppo的售后是中国手机厂商第一，因为摄像头内进灰，第一次换货后，我晚上回到家又发现摄像头内有灰，第二天和售后小哥说了之后，他回复说可以帮我先订货，货到了再让我去店里，不用跑2趟，这点比vivo荣耀强，vivo只给换单机，还得提前跑去售后检查之后过几天货到了再去换机，不过有问题可以一直换到没问题为止。荣耀第一次可以给换全套，第二次就只愿意换单机，…",
+          "detail": "不得不说，oppo的售后是中国手机厂商第一，因为摄像头内进灰，第一次换货后，我晚上回到家又发现摄像头内有灰，第二天和售后小哥说了之后，他回复说可以帮我先订货，货到了再让我去店里，不用跑2趟，这点比vivo荣耀强，vivo只给换单机，还得提前跑去售后检查之后过几天货到了再去换机，不过有问题可以一直换到没问题为止。荣耀第一次可以给换全套，第二次就只愿意换单机，…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-4e3ecdfe0189",
+          "title": "#酷回收# #REDMIK100ProMax# #iPhone18ProMax# 安利下酷回收♻️平台，比咸鱼爱回收平台好太多了，价格合适，关键省事。今年本来没打算换机，结果上了18pm某宝9329的车[流汗滑稽]，不得已将手里的一年的小17出了回回血，无意发现酷安还有二手回收平台，想着双十一还有抽奖活动就在酷安回收了，没想到今天运气还不错[牛牛点赞][牛牛点赞]抽到了 Redmi K100pm哈哈哈哈",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-11-15",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/75085392",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "#酷回收# #REDMIK100ProMax# #iPhone18ProMax# 安利下酷回收♻️平台，比咸鱼爱回收平台好太多了，价格合适，关键省事。今年本来没打算换机，结果上了18pm某宝9329的车[流汗滑稽]，不得已将手里的一年的小17出了回回血，无意发现酷安还有二手回收平台，想着双十一还有抽奖活动就在酷安回收了，没想到今天运气还不错[牛牛点赞][牛…",
+          "detail": "#酷回收# #REDMIK100ProMax# #iPhone18ProMax# 安利下酷回收♻️平台，比咸鱼爱回收平台好太多了，价格合适，关键省事。今年本来没打算换机，结果上了18pm某宝9329的车[流汗滑稽]，不得已将手里的一年的小17出了回回血，无意发现酷安还有二手回收平台，想着双十一还有抽奖活动就在酷安回收了，没想到今天运气还不错[牛牛点赞][牛…",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响购买预算，值得先看。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
         {
           "id": "auto-ff1722b24b57",
           "title": "Huawei Pura 90 Plus 对比 iPhone 17 Pro：差异整理",
@@ -422,28 +461,27 @@ window.phoneRadarDaily = {
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         },
         {
-          "id": "auto-33d36a9c8a09",
-          "title": "OPPO 相关消息",
+          "id": "newsnow-96864c58cf1a",
+          "title": "兄弟们，帮我做选择卖掉其中一个手机，玩不过来了，特别纠结。",
           "originalTitle": "",
-          "source": "Gizmochina",
-          "brand": "OPPO",
+          "source": "酷安热榜",
+          "brand": "行业",
           "type": "爆料",
-          "trust": "媒体汇总",
+          "trust": "高关注爆料源",
           "date": "2026-11-15",
-          "time": "08:57",
-          "publishedAt": "2026-11-15T08:57:18.000Z",
-          "url": "https://www.gizmochina.com/2026/11/15/oneplus-turbo-6v-vs-oneplus-turbo-6/",
-          "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/image-56-300x154.png?x47967",
-          "verdict": "可略过",
-          "takeaway": "OPPO 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "OPPO 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/75084562",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "兄弟们，帮我做选择卖掉其中一个手机，玩不过来了，特别纠结。",
+          "detail": "兄弟们，帮我做选择卖掉其中一个手机，玩不过来了，特别纠结。",
           "keyPoints": [
-            "影像硬件",
-            "电池 / 充电"
+            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }
