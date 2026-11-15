@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-11-15T01:53:55.912Z",
+  "updatedAt": "2026-11-15T09:23:07.242Z",
   "issueDate": "2026-11-15",
   "issue": "VOL.261115",
   "title": "手机情报日报",
-  "intro": "今日筛出 17 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 18 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 17,
-    "iphone": 7,
+    "total": 18,
+    "iphone": 8,
     "leaks": 8,
     "official": 1,
     "specs": 0
@@ -17,6 +17,30 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-c4a712f3f8b1",
+          "title": "苹果 iPhone 20 Pro 屏幕盖板曝光：3D 四曲面设计、开孔尺寸缩小",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-11-15",
+          "time": "07:33",
+          "publishedAt": "2026-11-15T07:33:07.000Z",
+          "url": "https://www.ithome.com/1/027/348.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/0102fea7-2358-497c-ad1c-dc17d4502295.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 11 月 15 日消息，消息源 @i冰宇宙 发文，展示了苹果 iPhone 20 Pro 手机所用的屏幕盖板样品，相应盖板采用 3D 四曲面设计，同时 Face ID 和前置摄像头对应的开孔尺寸似乎也有所缩小。 苹果通常会在新款 iPhone 发布前一年左右敲定产品设计，因此 iPhone 18 Pro 发布后不久便出现新一代机型的盖板样品，并不…",
+          "detail": "IT之家 11 月 15 日消息，消息源 @i冰宇宙 发文，展示了苹果 iPhone 20 Pro 手机所用的屏幕盖板样品，相应盖板采用 3D 四曲面设计，同时 Face ID 和前置摄像头对应的开孔尺寸似乎也有所缩小。 苹果通常会在新款 iPhone 发布前一年左右敲定产品设计，因此 iPhone 18 Pro 发布后不久便出现新一代机型的盖板样品，并不…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-143b9ade2553",
           "title": "iPhone 20 Pro 影像能力相关消息",
@@ -65,52 +89,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-2bd7995bc87d",
-          "title": "OPPO 展示 Reno17 系列手机洛天依联动定制主题，11 月 16 日发布",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-11-14",
-          "time": "14:43",
-          "publishedAt": "2026-11-14T14:43:21.000Z",
-          "url": "https://www.ithome.com/1/027/243.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/ff2afe1c-879a-4bfb-8933-ec02eac48f53.png",
-          "verdict": "先看",
-          "takeaway": "IT之家 11 月 14 日消息，OPPO 官方微博发文，展示了 OPPO Reno17 系列手机提供的洛天依定制主题，相应主题仅限 Reno17 系列机型使用，包含 4 款专属锁屏 + 壁纸，提供洛天依三色全新造型及 Q 版形象锁屏。 除此之外，相应主题包括时间、待办、步数等多种趣味组件及跟手粒子、下雪动效、充电动画等专属交互动效。 IT之家注意到，先前…",
-          "detail": "IT之家 11 月 14 日消息，OPPO 官方微博发文，展示了 OPPO Reno17 系列手机提供的洛天依定制主题，相应主题仅限 Reno17 系列机型使用，包含 4 款专属锁屏 + 壁纸，提供洛天依三色全新造型及 Q 版形象锁屏。 除此之外，相应主题包括时间、待办、步数等多种趣味组件及跟手粒子、下雪动效、充电动画等专属交互动效。 IT之家注意到，先前…",
-          "keyPoints": [
-            "电池 / 充电"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "newsnow-b203ede64889",
-          "title": "这果子真是治好了我的续航焦虑，比我的一加 ace3p 续航强太多了 #一加Ace3Pro# #iPhone18ProMax#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-11-15",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/75056903",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "这果子真是治好了我的续航焦虑，比我的一加 ace3p 续航强太多了 #一加Ace3Pro# #iPhone18ProMax#",
-          "detail": "这果子真是治好了我的续航焦虑，比我的一加 ace3p 续航强太多了 #一加Ace3Pro# #iPhone18ProMax#",
-          "keyPoints": [
-            "电池 / 充电"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "weibo-e46a5629cdfa",
           "title": "数码闲聊站：OPPO Reno17系列参数汇总，猜猜价格吧： Reno17——6.56英寸…",
           "originalTitle": "",
@@ -133,6 +111,31 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-38bf27d8b0a9",
+          "title": "竹本青：【余承东首曝华为Mate X8 折叠屏真机：紫色纹理机身，圆形宝石环镜组】 11月15日，华为高管余承东首次曝光M…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-11-15",
+          "time": "03:54",
+          "publishedAt": "2026-11-15T03:54:56.000Z",
+          "url": "https://www.coolapk.com/feed/75075682",
+          "image": "http://image.coolapk.com/feed/2026/1115/11/4248714_fc7ccdef_4895_3904_5-livepic@1600x1200.jpg",
+          "verdict": "先看",
+          "takeaway": "【余承东首曝华为Mate X8 折叠屏真机：紫色纹理机身，圆形宝石环镜组】 11月15日，华为高管余承东首次曝光Mate X8大折叠真机：紫色纹理机身、背部圆形宝石环Deco镜组、内屏右上角挖孔设计。 余承东透露，这一次Mate X8在屏幕、拍照影像和性能体验上 均有新突破，值得期待。 据此前博主爆料，Mate X8将配备6.5英寸外屏+8.15英寸UTG…",
+          "detail": "【余承东首曝华为Mate X8 折叠屏真机：紫色纹理机身，圆形宝石环镜组】 11月15日，华为高管余承东首次曝光Mate X8大折叠真机：紫色纹理机身、背部圆形宝石环Deco镜组、内屏右上角挖孔设计。 余承东透露，这一次Mate X8在屏幕、拍照影像和性能体验上 均有新突破，值得期待。 据此前博主爆料，Mate X8将配备6.5英寸外屏+8.15英寸UTG…",
+          "keyPoints": [
+            "影像硬件",
+            "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -160,30 +163,6 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "coolapk-user-340d39a20367",
-          "title": "竹本青：【OPPO Reno17系列 洛天依定制主题即将上线，覆盖图标、充电、锁屏等】 ▫️4款专属锁屏+壁纸 ▫️洛天依…",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-11-14",
-          "time": "07:32",
-          "publishedAt": "2026-11-14T07:32:25.000Z",
-          "url": "https://www.coolapk.com/feed/75060286",
-          "image": "http://image.coolapk.com/feed/2026/1114/15/4248714_1bccfb04_1543_4703_418@1500x2000.jpg",
-          "verdict": "先看",
-          "takeaway": "【OPPO Reno17系列 洛天依定制主题即将上线，覆盖图标、充电、锁屏等】 ▫️4款专属锁屏+壁纸 ▫️洛天依三色全新造型 ▫️Q版形象锁屏 ▫️多种趣味组件 ▫️交互动效、充电动画等 ＊定制主题仅限Reno17 系列机型使用 #今日热点# #OPPOReno17Pro# #ColorOS17#",
-          "detail": "【OPPO Reno17系列 洛天依定制主题即将上线，覆盖图标、充电、锁屏等】 ▫️4款专属锁屏+壁纸 ▫️洛天依三色全新造型 ▫️Q版形象锁屏 ▫️多种趣味组件 ▫️交互动效、充电动画等 ＊定制主题仅限Reno17 系列机型使用 #今日热点# #OPPOReno17Pro# #ColorOS17#",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "电池 / 充电"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
           "id": "coolapk-user-873233dcbe09",
           "title": "JSCHEN小小狐：『曝荣耀测试多款豪威传感器: 最高 2 亿 1/1.12\"』 主摄最高测试： 200MP 1/1.12\" OVB0…",
           "originalTitle": "",
@@ -205,6 +184,30 @@ window.phoneRadarDaily = {
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-6355d11f5238",
+          "title": "HONOR 影像能力相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "HONOR",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-11-14",
+          "time": "11:09",
+          "publishedAt": "2026-11-14T11:09:53.000Z",
+          "url": "https://www.gizmochina.com/2026/11/14/honor-magic-10-tipped-with-200mp-lofic-camera-tandem-oled-display/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/09/Honor-Magic-9-Pro-Max-camera-300x200.jpg?x47967",
+          "verdict": "先看",
+          "takeaway": "HONOR 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
+          "detail": "HONOR 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
+          "keyPoints": [
+            "影像硬件",
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -214,27 +217,27 @@ window.phoneRadarDaily = {
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
         {
-          "id": "auto-a5183dd0a464",
-          "title": "IT早报 1115：SpaceX 首次完成“筷子夹星舰飞船”；百万级 CAR-T 抗癌药首次进医保；古尔曼重申苹果 iPhone 18 明年春发布；比亚迪辟谣收购某数字能源...",
+          "id": "coolapk-user-383d4a005f61",
+          "title": "竹本青：【iPhone 18 Pro系列 最新销量曝光：周增约93.6万台，累计破782万台】 截至 W45—— 约782…",
           "originalTitle": "",
-          "source": "IT之家",
+          "source": "竹本青",
           "brand": "iPhone",
           "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-11-14",
-          "time": "23:55",
-          "publishedAt": "2026-11-14T23:55:12.000Z",
-          "url": "https://www.ithome.com/1/027/257.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/80b1170a-1c47-4d0b-ad5a-3a56591212dd.png",
+          "trust": "高可信爆料",
+          "date": "2026-11-15",
+          "time": "09:17",
+          "publishedAt": "2026-11-15T09:17:59.000Z",
+          "url": "https://www.coolapk.com/feed/75081299",
+          "image": "http://image.coolapk.com/feed/2026/1115/17/4248714_8cc3ca23_4262_3345_151@3279x2528.jpg",
           "verdict": "先看",
-          "takeaway": "“IT早报”时间，大家好，现在是 2026 年 11 月 15 日星期日，今天的重要科技资讯有： 1. 创造历史：美国 SpaceX 首次实现筷子夹星舰飞船 SpaceX 在星舰第 15 次试飞中首次用发射塔“筷子”机械臂捕获轨道返回的星舰上面级，虽未完全回收整枚火箭，但仍是星舰项目重要里程碑，目前正调查助推器中止着陆的原因。>> 查看详情 2. 配 A2…",
-          "detail": "“IT早报”时间，大家好，现在是 2026 年 11 月 15 日星期日，今天的重要科技资讯有： 1. 创造历史：美国 SpaceX 首次实现筷子夹星舰飞船 SpaceX 在星舰第 15 次试飞中首次用发射塔“筷子”机械臂捕获轨道返回的星舰上面级，虽未完全回收整枚火箭，但仍是星舰项目重要里程碑，目前正调查助推器中止着陆的原因。>> 查看详情 2. 配 A2…",
+          "takeaway": "【iPhone 18 Pro系列 最新销量曝光：周增约93.6万台，累计破782万台】 截至 W45—— 约782.87万 （周增93.6万） 截至 W44 —— 约689.27万 （周增87.27万） 截至 W43 —— 约602万 （周增105.96万） 截至 W42 —— 约496.04万 （周增87.95万） 截至 W41 —— 约408.09万…",
+          "detail": "【iPhone 18 Pro系列 最新销量曝光：周增约93.6万台，累计破782万台】 截至 W45—— 约782.87万 （周增93.6万） 截至 W44 —— 约689.27万 （周增87.27万） 截至 W43 —— 约602万 （周增105.96万） 截至 W42 —— 约496.04万 （周增87.95万） 截至 W41 —— 约408.09万…",
           "keyPoints": [
             "爆料"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
           "id": "auto-a89f115eb254",
@@ -413,6 +416,30 @@ window.phoneRadarDaily = {
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-33d36a9c8a09",
+          "title": "OPPO 相关消息",
+          "originalTitle": "",
+          "source": "Gizmochina",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-11-15",
+          "time": "08:57",
+          "publishedAt": "2026-11-15T08:57:18.000Z",
+          "url": "https://www.gizmochina.com/2026/11/15/oneplus-turbo-6v-vs-oneplus-turbo-6/",
+          "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/image-56-300x154.png?x47967",
+          "verdict": "可略过",
+          "takeaway": "OPPO 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "OPPO 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "影像硬件",
+            "电池 / 充电"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响日常体验，尤其是游戏、拍照和长时间使用。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         },
         {
           "id": "auto-de8e53c8d55d",

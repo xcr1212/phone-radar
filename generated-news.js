@@ -1,6 +1,106 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-11-15T01:53:55.912Z",
+  "updatedAt": "2026-11-15T09:23:07.242Z",
   "news": [
+    {
+      "id": "coolapk-user-383d4a005f61",
+      "title": "竹本青：【iPhone 18 Pro系列 最新销量曝光：周增约93.6万台，累计破782万台】 截至 W45—— 约782…",
+      "source": "竹本青",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-15",
+      "time": "09:17",
+      "publishedAt": "2026-11-15T09:17:59.000Z",
+      "url": "https://www.coolapk.com/feed/75081299",
+      "image": "http://image.coolapk.com/feed/2026/1115/17/4248714_8cc3ca23_4262_3345_151@3279x2528.jpg",
+      "summary": "【iPhone 18 Pro系列 最新销量曝光：周增约93.6万台，累计破782万台】 截至 W45—— 约782.87万 （周增93.6万） 截至 W44 —— 约689.27万 （周增87.27万） 截至 W43 —— 约602万 （周增105.96万） 截至 W42 —— 约496.04万 （周增87.95万） 截至 W41 —— 约408.09万…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-33d36a9c8a09",
+      "title": "OnePlus Turbo 6V vs Turbo 6: Is the More Expensive Model Really Worth It?",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-15",
+      "time": "08:57",
+      "publishedAt": "2026-11-15T08:57:18.000Z",
+      "url": "https://www.gizmochina.com/2026/11/15/oneplus-turbo-6v-vs-oneplus-turbo-6/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/image-56-300x154.png?x47967",
+      "summary": "OnePlus Turbo 6V and Turbo 6 share much of the same foundation, including a massive battery, fast charging and a similar camera setup. However, the standard Turbo 6 introduces sev…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c4a712f3f8b1",
+      "title": "苹果 iPhone 20 Pro 屏幕盖板曝光：3D 四曲面设计、开孔尺寸缩小",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-15",
+      "time": "07:33",
+      "publishedAt": "2026-11-15T07:33:07.000Z",
+      "url": "https://www.ithome.com/1/027/348.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/0102fea7-2358-497c-ad1c-dc17d4502295.png",
+      "summary": "IT之家 11 月 15 日消息，消息源 @i冰宇宙 发文，展示了苹果 iPhone 20 Pro 手机所用的屏幕盖板样品，相应盖板采用 3D 四曲面设计，同时 Face ID 和前置摄像头对应的开孔尺寸似乎也有所缩小。 苹果通常会在新款 iPhone 发布前一年左右敲定产品设计，因此 iPhone 18 Pro 发布后不久便出现新一代机型的盖板样品，并不…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-247236888da3",
+      "title": "华为更多机型鸿蒙 HarmonyOS 7 系统“转正”，含 nova 12 / 13 系列、畅享 70X 等",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-15",
+      "time": "05:59",
+      "publishedAt": "2026-11-15T05:59:34.000Z",
+      "url": "https://www.ithome.com/1/027/312.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2024/1/659c1d70-269a-413c-9d51-a9724cb0d9c1.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 11 月 15 日消息，华为官网最新信息显示，鸿蒙 HarmonyOS 7 系统更多机型从公测转为正式版， 覆盖 nova 12 / 13 系列、畅享 70X 等手机 。 ▲ IT之家开箱：华为 nova 12 Ultra「12 号色」图赏 IT之家附华为鸿蒙 HarmonyOS 7 最新适配机型清单如下： 正式版 HUAWEI Mate 80…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-38bf27d8b0a9",
+      "title": "竹本青：【余承东首曝华为Mate X8 折叠屏真机：紫色纹理机身，圆形宝石环镜组】 11月15日，华为高管余承东首次曝光M…",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-15",
+      "time": "03:54",
+      "publishedAt": "2026-11-15T03:54:56.000Z",
+      "url": "https://www.coolapk.com/feed/75075682",
+      "image": "http://image.coolapk.com/feed/2026/1115/11/4248714_fc7ccdef_4895_3904_5-livepic@1600x1200.jpg",
+      "summary": "【余承东首曝华为Mate X8 折叠屏真机：紫色纹理机身，圆形宝石环镜组】 11月15日，华为高管余承东首次曝光Mate X8大折叠真机：紫色纹理机身、背部圆形宝石环Deco镜组、内屏右上角挖孔设计。 余承东透露，这一次Mate X8在屏幕、拍照影像和性能体验上 均有新突破，值得期待。 据此前博主爆料，Mate X8将配备6.5英寸外屏+8.15英寸UTG…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "auto-19480d025fe8",
       "title": "Hands-on: ESR’s MagSafe kickstand charger solves two key iPhone Duo shortcomings",
@@ -102,26 +202,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-b203ede64889",
-      "title": "这果子真是治好了我的续航焦虑，比我的一加 ace3p 续航强太多了 #一加Ace3Pro# #iPhone18ProMax#",
-      "source": "酷安热榜",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-15",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/75056903",
-      "image": "",
-      "summary": "这果子真是治好了我的续航焦虑，比我的一加 ace3p 续航强太多了 #一加Ace3Pro# #iPhone18ProMax#",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-313b68a98000",
       "title": "#徕卡一瞬##谷歌相机##手机摄影#",
       "source": "酷安热榜",
@@ -139,26 +219,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-a5183dd0a464",
-      "title": "IT早报 1115：SpaceX 首次完成“筷子夹星舰飞船”；百万级 CAR-T 抗癌药首次进医保；古尔曼重申苹果 iPhone 18 明年春发布；比亚迪辟谣收购某数字能源...",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-14",
-      "time": "23:55",
-      "publishedAt": "2026-11-14T23:55:12.000Z",
-      "url": "https://www.ithome.com/1/027/257.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/80b1170a-1c47-4d0b-ad5a-3a56591212dd.png",
-      "summary": "“IT早报”时间，大家好，现在是 2026 年 11 月 15 日星期日，今天的重要科技资讯有： 1. 创造历史：美国 SpaceX 首次实现筷子夹星舰飞船 SpaceX 在星舰第 15 次试飞中首次用发射塔“筷子”机械臂捕获轨道返回的星舰上面级，虽未完全回收整枚火箭，但仍是星舰项目重要里程碑，目前正调查助推器中止着陆的原因。>> 查看详情 2. 配 A2…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -197,26 +257,6 @@ window.phoneRadarAuto = {
       "summary": "Huawei Pura 90 Plus and iPhone 17 Pro take different approaches to premium smartphone design. Huawei focuses on advanced camera hardware, a larger display and exceptionally fast c…",
       "tags": [
         "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2bd7995bc87d",
-      "title": "OPPO 展示 Reno17 系列手机洛天依联动定制主题，11 月 16 日发布",
-      "source": "IT之家",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-14",
-      "time": "14:43",
-      "publishedAt": "2026-11-14T14:43:21.000Z",
-      "url": "https://www.ithome.com/1/027/243.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/ff2afe1c-879a-4bfb-8933-ec02eac48f53.png",
-      "summary": "IT之家 11 月 14 日消息，OPPO 官方微博发文，展示了 OPPO Reno17 系列手机提供的洛天依定制主题，相应主题仅限 Reno17 系列机型使用，包含 4 款专属锁屏 + 壁纸，提供洛天依三色全新造型及 Q 版形象锁屏。 除此之外，相应主题包括时间、待办、步数等多种趣味组件及跟手粒子、下雪动效、充电动画等专属交互动效。 IT之家注意到，先前…",
-      "tags": [
-        "OPPO",
         "爆料",
         "自动抓取"
       ]
@@ -282,26 +322,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-300bda423275",
-      "title": "Facebook 擅自读取意大利用户相册，Meta 被处以 8.05 亿欧元重罚",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-14",
-      "time": "12:42",
-      "publishedAt": "2026-11-14T12:42:51.000Z",
-      "url": "https://www.ithome.com/1/027/227.htm",
-      "image": "",
-      "summary": "IT之家 11 月 14 日消息，因在 未经意大利用户单独授权、也未充分告知用户 的情况下，通过 Android 版 Facebook 应用读取手机中保存的照片、视频及附带的元数据，意大利数据保护局今天（14 日）对 Meta 开出 8.05 亿欧元 （IT之家注：现汇率约合 59.36 亿元人民币） 罚单。 意大利数据保护局声明指出，此次处罚针对的是 F…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-6355d11f5238",
       "title": "Honor Magic 10 tipped with 200MP LOFIC camera, tandem OLED display",
       "source": "Gizmochina",
@@ -319,26 +339,6 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-340d39a20367",
-      "title": "竹本青：【OPPO Reno17系列 洛天依定制主题即将上线，覆盖图标、充电、锁屏等】 ▫️4款专属锁屏+壁纸 ▫️洛天依…",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-14",
-      "time": "07:32",
-      "publishedAt": "2026-11-14T07:32:25.000Z",
-      "url": "https://www.coolapk.com/feed/75060286",
-      "image": "http://image.coolapk.com/feed/2026/1114/15/4248714_1bccfb04_1543_4703_418@1500x2000.jpg",
-      "summary": "【OPPO Reno17系列 洛天依定制主题即将上线，覆盖图标、充电、锁屏等】 ▫️4款专属锁屏+壁纸 ▫️洛天依三色全新造型 ▫️Q版形象锁屏 ▫️多种趣味组件 ▫️交互动效、充电动画等 ＊定制主题仅限Reno17 系列机型使用 #今日热点# #OPPOReno17Pro# #ColorOS17#",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
