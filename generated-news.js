@@ -1,9 +1,109 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-11-15T09:23:07.242Z",
+  "updatedAt": "2026-11-15T17:08:16.540Z",
   "news": [
     {
+      "id": "auto-3cb778cdf66c",
+      "title": "Apple Aiming to Upgrade the iPhone Duo in Four Ways",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-15",
+      "time": "16:42",
+      "publishedAt": "2026-11-15T16:42:29.000Z",
+      "url": "https://www.macrumors.com/2026/11/15/apple-aims-to-upgrade-iphone-duo-in-four-ways/",
+      "image": "https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Outer-Display-Hand-scaled.jpg",
+      "summary": "Bloomberg 's Mark Gurman today said Apple has four goals for future iPhone Duo models: Face ID, an Action button, a telephoto camera, and a thinner-and-lighter design. Gurman said…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3a74abb1ccf2",
+      "title": "Apple engineers ‘actively working’ on Face ID for iPhone Duo 2’s outer display: report",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-15",
+      "time": "16:36",
+      "publishedAt": "2026-11-15T16:36:12.000Z",
+      "url": "https://9to5mac.com/2026/11/15/apple-engineers-actively-working-on-face-id-for-iphone-duo-2s-outer-display-report/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2027/10/iphone-duo-18.jpg?quality=82&strip=all&w=1600",
+      "summary": "Next fall, Apple will introduce its second-generation iPhone Duo. It’s unclear what it’ll offer in terms of meaningful upgrades outside of the usual chip upgrades and camera impro…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6071287e0006",
+      "title": "Motorola Signature 27 vs iPhone 18 Pro: When the iPhone is Cheaper",
+      "source": "Gizmochina",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-15",
+      "time": "15:39",
+      "publishedAt": "2026-11-15T15:39:45.000Z",
+      "url": "https://www.gizmochina.com/2026/11/15/motorola-signature-27-vs-iphone-18-pro-when-the-iphone-is-cheaper/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/motorola-signature-27-vs-iphone-18-pro-when-the-iphone-is-cheaper-300x150.jpg?x47967",
+      "summary": "The Motorola Signature 27 has a battery that is 26 to 30 percent larger than the one inside the iPhone 18 Pro Max, at least on paper. It is also lighter, charges faster, and costs…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-31a81b927e03",
+      "title": "Hands-on: This 25W MagSafe charger is thinner than an iPhone: KUXIU K4 Air [Video]",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-15",
+      "time": "15:23",
+      "publishedAt": "2026-11-15T15:23:31.000Z",
+      "url": "https://9to5mac.com/2026/11/15/hands-on-this-25w-magsafe-charger-is-thinner-than-an-iphone-kuxiu-k4-air-video/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/IMG_6662-e1794695776576.jpg?quality=82&strip=all&w=1600",
+      "summary": "When it comes to 3-in-1 travel chargers, I look at two main things: How fast it can charge my iPhone and how portable it is. I have tested plenty of travel chargers that aim to be…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fb9905a7c6c3",
+      "title": "三星在部分区域提供基于联发科技曦力 G99+ 芯片的 Galaxy A18 智能手机",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-15",
+      "time": "12:09",
+      "publishedAt": "2026-11-15T12:09:54.000Z",
+      "url": "https://www.ithome.com/1/027/439.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/6fe64ed6-b6aa-42f3-833b-478c5498b15c.jpg",
+      "summary": "IT之家 11 月 15 日消息，根据三星电子官方新闻稿， 该企业向新西兰、菲律宾、新加坡等部分区域提供了基于联发科技曦力 G99+ 移动平台的 Galaxy A18 智能手机 。三星还在其它区域销售 基于自家 Exynos 1610 芯片的该机型 。 G99+ 版 Galaxy A18 配备 4GB + 128GB 存储器组合 ，搭载 6.7\" 1080…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "coolapk-user-383d4a005f61",
-      "title": "竹本青：【iPhone 18 Pro系列 最新销量曝光：周增约93.6万台，累计破782万台】 截至 W45—— 约782…",
+      "title": "竹本青：iPhone 18 Pro系列最新销量曝光：周增约93.6万台",
       "source": "竹本青",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
@@ -19,6 +119,26 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-8e7a815305fa",
+      "title": "消息称苹果 iPhone 18 Pro 系列手机销量已达 782.87 万台",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-15",
+      "time": "09:06",
+      "publishedAt": "2026-11-15T09:06:10.000Z",
+      "url": "https://www.ithome.com/1/027/411.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/e5fea2a1-d589-4fae-8448-3085873b55a5.jpg",
+      "summary": "IT之家 11 月 15 日消息，据长期关注国内手机市场份额的数码博主 @RD观测 今日爆料，截至 2026 年第 45 周（11 月 1 日至 11 月 7 日）， 苹果 iPhone 18 Pro 系列手机销量达到 782.87 万台 。 参考IT之家此前报道，在 9 月 10 日的苹果 2026 年秋季发布会上， iPhone 18 Pro 系列正式…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -42,48 +162,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-c4a712f3f8b1",
-      "title": "苹果 iPhone 20 Pro 屏幕盖板曝光：3D 四曲面设计、开孔尺寸缩小",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-15",
-      "time": "07:33",
-      "publishedAt": "2026-11-15T07:33:07.000Z",
-      "url": "https://www.ithome.com/1/027/348.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/0102fea7-2358-497c-ad1c-dc17d4502295.png",
-      "summary": "IT之家 11 月 15 日消息，消息源 @i冰宇宙 发文，展示了苹果 iPhone 20 Pro 手机所用的屏幕盖板样品，相应盖板采用 3D 四曲面设计，同时 Face ID 和前置摄像头对应的开孔尺寸似乎也有所缩小。 苹果通常会在新款 iPhone 发布前一年左右敲定产品设计，因此 iPhone 18 Pro 发布后不久便出现新一代机型的盖板样品，并不…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-247236888da3",
-      "title": "华为更多机型鸿蒙 HarmonyOS 7 系统“转正”，含 nova 12 / 13 系列、畅享 70X 等",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-15",
-      "time": "05:59",
-      "publishedAt": "2026-11-15T05:59:34.000Z",
-      "url": "https://www.ithome.com/1/027/312.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2024/1/659c1d70-269a-413c-9d51-a9724cb0d9c1.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 11 月 15 日消息，华为官网最新信息显示，鸿蒙 HarmonyOS 7 系统更多机型从公测转为正式版， 覆盖 nova 12 / 13 系列、畅享 70X 等手机 。 ▲ IT之家开箱：华为 nova 12 Ultra「12 号色」图赏 IT之家附华为鸿蒙 HarmonyOS 7 最新适配机型清单如下： 正式版 HUAWEI Mate 80…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-38bf27d8b0a9",
-      "title": "竹本青：【余承东首曝华为Mate X8 折叠屏真机：紫色纹理机身，圆形宝石环镜组】 11月15日，华为高管余承东首次曝光M…",
+      "title": "竹本青：余承东曝光华为Mate X8 折叠屏真机：紫色纹理机身，圆形宝石环镜组",
       "source": "竹本青",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
@@ -222,6 +302,46 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-b0b8c730e3c8",
+      "title": "白鹿换新手机",
+      "source": "微博热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-11-15",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%8D%A2%E6%96%B0%E6%89%8B%E6%9C%BA%23&t=31&band_rank=16&Refer=top",
+      "image": "",
+      "summary": "白鹿换新手机",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-77a831370c9e",
+      "title": "iPhoneDuo 经 45.7 万次折叠后屏幕完好铰链松动，测试结果说明了啥？能在多大程度上反映手机寿命？",
+      "source": "知乎热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-11-15",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2104970594072490759",
+      "image": "",
+      "summary": "iPhoneDuo 经 45.7 万次折叠后屏幕完好铰链松动，测试结果说明了啥？能在多大程度上反映手机寿命？",
+      "tags": [
+        "iPhone",
+        "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "auto-143b9ade2553",
       "title": "iPhone 20 Pro’s 3D quad-curved cover glass leaks in hands-on video",
       "source": "Gizmochina",
@@ -262,26 +382,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-bd71852a2b6e",
-      "title": "竹本青：【小米18 Fold 最新销量曝光：周增约3800台，累计破11.9万台】 截至 W44 —— 约11.93万（周…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-14",
-      "time": "14:36",
-      "publishedAt": "2026-11-14T14:36:05.000Z",
-      "url": "https://www.coolapk.com/feed/75068154",
-      "image": "http://image.coolapk.com/feed/2026/1114/22/4248714_bfdb018c_6964_2789_686@1272x1576.jpg",
-      "summary": "【小米18 Fold 最新销量曝光：周增约3800台，累计破11.9万台】 截至 W44 —— 约11.93万（周增3800台） 截至 W43 —— 约11.55万（周增3300台） 截至 W42 —— 约11.22万（周增3300台） 截至 W41 —— 约10.89万（周增4200台） 截至 W40 —— 约10.47万（周增6400台） 截至 W39…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-e222d80d15fb",
       "title": "Top Stories: Apple's New Software Approach, iPhone Duo-Optimized Apps, and More",
       "source": "MacRumors",
@@ -297,26 +397,6 @@ window.phoneRadarAuto = {
       "summary": "Apple's wild past few months are finally starting to slow down with the last of the big hardware launches coming this week. Meanwhile, developers are continuing to optimize their…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-de8e53c8d55d",
-      "title": "I played WoW Forever on my Galaxy Z Fold 8, and it performed perfectly",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-14",
-      "time": "13:45",
-      "publishedAt": "2026-11-14T13:45:10.000Z",
-      "url": "https://www.androidpolice.com/heres-how-to-play-world-of-warcraft-forever-on-your-smartphone/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/11/wow-forever-on-z-fold-8-on-cata-box.jpg",
-      "summary": "This amazing Github project means you can play WoW on your phone.",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -403,7 +483,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-873233dcbe09",
-      "title": "JSCHEN小小狐：『曝荣耀测试多款豪威传感器: 最高 2 亿 1/1.12\"』 主摄最高测试： 200MP 1/1.12\" OVB0…",
+      "title": "JSCHEN小小狐：曝荣耀测试多款豪威传感器：最高2亿1/1.12\"",
       "source": "JSCHEN小小狐",
       "brand": "HONOR",
       "model": "HONOR 相关机型",
