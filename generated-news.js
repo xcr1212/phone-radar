@@ -1,24 +1,544 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-11-16T06:25:24.060Z",
+  "updatedAt": "2026-11-16T18:30:47.422Z",
   "news": [
     {
-      "id": "newsnow-b54969167552",
-      "title": "海贝推出 HiBy FC6 II 手机解码耳放，998 元",
-      "source": "IT之家热榜",
+      "id": "auto-b03b47710a49",
+      "title": "Apple Says More Than 200,000 Apps Now Optimized for iPhone Duo",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-16",
+      "time": "18:23",
+      "publishedAt": "2026-11-16T18:23:29.000Z",
+      "url": "https://www.macrumors.com/2026/11/16/apple-says-200k-apps-optimized-for-iphone-duo/",
+      "image": "https://images.macrumors.com/article-new/2026/11/Flighty-on-iPhone-Duo.jpg",
+      "summary": "Apple's marketing chief Greg Joswiak today announced that more than 200,000 apps are now optimized for the iPhone Duo, up from 100,000 earlier this month . This refers to apps bui…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a09fe248de9b",
+      "title": "Google beta lets you test ‘Create My Widget’ on Pixel 10 and 11 now",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-16",
+      "time": "17:39",
+      "publishedAt": "2026-11-16T17:39:58.000Z",
+      "url": "https://9to5google.com/2026/11/16/pixel-create-my-widget-beta/",
+      "image": "",
+      "summary": "Following the November 2026 Pixel Drop announcement, Google is letting Pixel 10 and 11 owners try Create My Widget ahead of broader availability. more…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-327196c2fd15",
+      "title": "Deals: Early Black Samsung now live – Galaxy Fold 8 $350 off, S26 Ultra $450 off, Tabs from $200, more",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-16",
+      "time": "16:51",
+      "publishedAt": "2026-11-16T16:51:38.000Z",
+      "url": "https://9to5google.com/2026/11/16/deals-samsung-galaxy-fold-8-s26-ultra/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/9to5Google-Nov-16.webp?w=1600",
+      "summary": "Amazon has now updated its wide-ranging early Black Friday sale with loads of new price drops and we are now tracking Samsung Galaxy Z Fold 8 back down at some of the lowest price…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-51d1c8a3bbff",
+      "title": "The best Android phones you can’t buy in the US",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-16",
+      "time": "16:43",
+      "publishedAt": "2026-11-16T16:43:11.000Z",
+      "url": "https://www.gizmochina.com/2026/11/16/the-best-android-phones-you-cant-buy-in-the-us/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-17-300x169.jpg?x47967",
+      "summary": "Some of the most interesting Android phones arriving this fall won’t be available in the US. Oppo already sells its latest Find X10 flagship in Europe, Vivo is preparing to bring…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2fe705cc7df5",
+      "title": "The Galaxy S28 Ultra and S28 Pro could feature variable aperture cameras",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-16",
+      "time": "16:10",
+      "publishedAt": "2026-11-16T16:10:49.000Z",
+      "url": "https://www.sammobile.com/news/the-galaxy-s28-ultra-and-s28-pro-could-feature-variable-aperture-cameras/",
+      "image": "",
+      "summary": "Even though the Galaxy S27 Ultra has yet to be officially unveiled, some are already looking forward to what its eventual sequel, the Galaxy S28 Ultra, could achieve. Some even sp…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0843e25b989f",
+      "title": "Samsung’s Galaxy Z Fold 8 returns to its lowest price yet ahead of Black Friday",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-16",
+      "time": "16:08",
+      "publishedAt": "2026-11-16T16:08:00.000Z",
+      "url": "https://9to5google.com/2026/11/16/samsungs-galaxy-z-fold-8-returns-to-its-lowest-price-yet-ahead-of-black-friday/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Galaxy-Z-Fold-8-lavender-5.jpg?quality=82&strip=all&w=1600",
+      "summary": "No, your calendar isn’t lying to you — Thanksgiving really is next week, and with it comes the official start of the holiday shopping season. It’s never too early to get a start o…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-eb00e1b89ebc",
+      "title": "iPhone 20 Pro leak shows a quad-curved front glass with a Dynamic Island",
+      "source": "Gizmochina",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-16",
+      "time": "15:27",
+      "publishedAt": "2026-11-16T15:27:47.000Z",
+      "url": "https://www.gizmochina.com/2026/11/16/iphone-20-pro-quad-curved-front-glass-new-video/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-18-300x169.jpg?x47967",
+      "summary": "Apple‘s 20th-anniversary iPhone, widely expected in 2027 as the iPhone 20 Pro, was already framed this week as the company’s biggest redesign since the iPhone X. A video of a 3D q…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3a0b8525bdfc",
+      "title": "Xiaomi’s wide-screen phone in works, display details emerge",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-16",
+      "time": "14:55",
+      "publishedAt": "2026-11-16T14:55:16.000Z",
+      "url": "https://www.gizmochina.com/2026/11/16/xiaomi-wide-screen-bar-phone-16-9-display-leak/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-17-300x169.jpg?x47967",
+      "summary": "Xiaomi is lining up the standard Xiaomi 18 for a December China debut, with blind orders already open at China retailers, after the Xiaomi 18 Pro series officially goes global on…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7fbf083bb2cb",
+      "title": "Next year’s iPhone Pro redesign gets new update via leaker",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-16",
+      "time": "14:54",
+      "publishedAt": "2026-11-16T14:54:22.000Z",
+      "url": "https://9to5mac.com/2026/11/16/next-years-iphone-pro-redesign-gets-new-update-via-leaker/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-19-pro-20-anniversary-max.jpg?quality=82&strip=all&w=1600",
+      "summary": "Next year is the iPhone’s 20th anniversary, and Apple reportedly has a big redesign coming to its Pro models. Here’s what to expect per the latest leak. more…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fba81cf3740d",
+      "title": "Redmi Note 18 5G may pack an 8,888mAh battery!",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-16",
+      "time": "14:03",
+      "publishedAt": "2026-11-16T14:03:39.000Z",
+      "url": "https://www.gizmochina.com/2026/11/16/redmi-note-18-5g-rebrand-note-17-5g-battery-leak/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-16-300x169.jpg?x47967",
+      "summary": "Redmi launched the Note 17 in China in July and brought the Note 17 5G to India in August, with a large battery as the main talking point. A certification listing that emerged las…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-aac48da60aae",
+      "title": "'iPhone 20 Pro' Rumored to Be Based on iPhone Air",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-16",
+      "time": "13:40",
+      "publishedAt": "2026-11-16T13:40:33.000Z",
+      "url": "https://www.macrumors.com/2026/11/16/iphone-20-pro-to-be-based-on-iphone-air/",
+      "image": "https://images.macrumors.com/article-new/2025/02/iphone-air-camera.jpg",
+      "summary": "Next year's \"iPhone 20 Pro\" models will use the same glass design as the iPhone Air , but with more pronounced curvature along all four sides, according to the leaker known as \" F…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-14d1984300f5",
+      "title": "The Oppo Reno 17 and 17 Pro will be unveiled next week, but the specs have already leaked — here’s what you need to know",
+      "source": "Android Central",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-11-16",
+      "time": "13:15",
+      "publishedAt": "2026-11-16T13:15:47.000Z",
+      "url": "https://www.androidcentral.com/phones/oppo-phones/the-oppo-reno-17-and-17-pro-will-be-unveiled-next-week-but-the-specs-have-already-leaked-heres-what-you-need-to-know",
+      "image": "https://cdn.mos.cms.futurecdn.net/zbd7EWjkJ5mA6UQSC459rQ-1920-80.jpg",
+      "summary": "The Oppo Reno 17 and Reno 17 Pro specs have seemingly leaked.",
+      "tags": [
+        "OPPO",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-677a1f7cf083",
+      "title": "Samsung Galaxy S28 Pro and Ultra may get variable aperture cameras in 2028, leak says",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-16",
+      "time": "13:06",
+      "publishedAt": "2026-11-16T13:06:13.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s28-variable-aperture-camera-leak-3735527/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/11/iPhone-18-Pro-vs-Samsung-Galaxy-S26-Ultra-side-by-side.jpg",
+      "summary": "To no one's surprise, you can thank Apple for this if it pans out.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e9091ae9bbbc",
+      "title": "New camera sensor coming to the iPhone 20 Pro’s main camera, says leaker",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-16",
+      "time": "13:02",
+      "publishedAt": "2026-11-16T13:02:52.000Z",
+      "url": "https://9to5mac.com/2026/11/16/new-camera-sensor-coming-to-the-iphone-20-pros-main-camera-says-leaker/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2022/09/Sensor-size.jpg?quality=82&strip=all&w=1000",
+      "summary": "The biggest improvement to iPhone photo quality that Apple could make would be to give the device a larger sensor. There have been two reports suggesting this is on the way, altho…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ef39aef81fee",
+      "title": "Oppo launches Reno 17 and Reno 17 Pro with 200MP camera and rather large 8000mAh battery",
+      "source": "Gizmochina",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-16",
+      "time": "13:01",
+      "publishedAt": "2026-11-16T13:01:18.000Z",
+      "url": "https://www.gizmochina.com/2026/11/16/oppo-launches-reno-17-and-reno-17-pro-with-200mp-camera-and-rather-large-8000mah-battery/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/Oppo-Reno-17-and-Reno-17-Pro-Launch-Specs-Price-300x200.jpg?x47967",
+      "summary": "Oppo has launched the Oppo Reno 17 and Oppo Reno 17 Pro in China. The Oppo Reno 17 has an 8,000mAh battery. The Oppo Reno 17 Pro has a 200MP main camera. Both phones go on sale on…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f4d0c2eada61",
+      "title": "Leaker is 100% sure this is the final Galaxy S27 Pro and Ultra camera design",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-16",
+      "time": "12:24",
+      "publishedAt": "2026-11-16T12:24:46.000Z",
+      "url": "https://www.sammobile.com/news/leaker-100-percent-sure-final-galaxy-s27-pro-and-ultra-camera-design/",
+      "image": "",
+      "summary": "The upcoming Galaxy S27 Ultra will bring a new camera setup, and most leaks so far have agreed on one thing: The redesigned camera housing will be a wide rectangle. However, most…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0e3aeb527cd7",
+      "title": "iPhone 20 Pro Rumored to Feature New 17nm Camera Sensor",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-16",
+      "time": "12:22",
+      "publishedAt": "2026-11-16T12:22:39.000Z",
+      "url": "https://www.macrumors.com/2026/11/16/iphone-20-pro-new-17nm-camera-sensor/",
+      "image": "https://images.macrumors.com/article-new/2026/10/iPhone-18-Pro-Max-Glacier-Camera.jpg",
+      "summary": "Next year's iPhone 20 Pro could feature a main camera sensor with logic circuitry manufactured using a new 17-nanometer process, according to Weibo-based leaker Ice Universe . Mod…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-8bc5966b3897",
+      "title": "数码闲聊站：OPPO Reno17，这价格感觉怎么样？ 8GB+256GB——3599元…",
+      "source": "数码闲聊站",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-16",
+      "time": "12:21",
+      "publishedAt": "2026-11-16T12:21:17.000Z",
+      "url": "https://weibo.com/6048569942/RrGjPbgZV",
+      "image": "",
+      "summary": "OPPO Reno17，这价格感觉怎么样？ 8GB+256GB——3599元 12GB+256GB——3799元 12GB+512GB——3999元 12GB+1TB——4899元 OPPO Reno17 Pro，这价格感觉怎么样？ 8GB+256GB——4199元 12GB+256GB——4599元 12GB+512GB——4999元",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-3e00f3399a2f",
+      "title": "OPPO Reno17 系列手机洛天依镌刻版 / 联名礼盒公布：含限定立牌、水晶球等，3799 元起",
+      "source": "IT之家",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-16",
+      "time": "12:21",
+      "publishedAt": "2026-11-16T12:21:00.000Z",
+      "url": "https://www.ithome.com/1/027/951.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/f82be044-0c28-4ff9-aa80-954ce232b14b.png",
+      "summary": "IT之家 11 月 16 日现场消息，在今天进行的 OPPO Reno17 系列手机发布会中，OPPO 介绍了旗下 Reno17 系列洛天依限定镌刻版正式发布， 定价为 3799 元起。标准版机型亦赠送洛天依礼盒 （需在下单时自行勾选） ，定制主题将于 11 月 20 日上线。 IT之家获悉，洛天依镌刻版机型主要就是手机中框上带有限定镌刻。而洛天依限定礼盒…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-28254c1c6c39",
+      "title": "竹本青：【OPPO Reno17系列 发布：骁龙7Gen4／天玑8550S芯片，售价3599元起】 ● Reno17： 8…",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-16",
+      "time": "12:12",
+      "publishedAt": "2026-11-16T12:12:10.000Z",
+      "url": "https://www.coolapk.com/feed/75102752",
+      "image": "http://image.coolapk.com/feed/2026/1116/20/4248714_3f153e4f_1280_563_919@2369x3500.jpg",
+      "summary": "【OPPO Reno17系列 发布：骁龙7Gen4／天玑8550S芯片，售价3599元起】 ● Reno17： 8GB+256GB —— 3599元 12GB+256GB —— 3799元 12GB+512GB —— 3999元 12GB+1TB —— 4899元 ▫️6.56\" 1.5K LTPS直屏 ▫️骁龙7 Gen4芯片 ▫️8000mAh电池+8…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-c006bcb79aa1",
+      "title": "影石 Toast 彩色墨水屏相纸发布：手机相机快速传图，能摆能挂能贴",
+      "source": "IT之家",
       "brand": "行业",
       "model": "智能手机市场",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-11-16",
-      "time": "14:15",
-      "publishedAt": "2026-11-16T14:15:24.000Z",
-      "url": "https://www.ithome.com/1/027/655.htm",
-      "image": "",
-      "summary": "海贝推出 HiBy FC6 II 手机解码耳放，998 元",
+      "time": "12:07",
+      "publishedAt": "2026-11-16T12:07:14.000Z",
+      "url": "https://www.ithome.com/1/027/947.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/fea714e2-86cf-4307-ae3a-a4762d59faeb.jpg",
+      "summary": "IT之家 11 月 16 日消息，影石今日发布了一款彩色墨水屏相纸产品 —— Toast ，单片定价 429 元，双片定价 815 元（每张省 21.5 元）。 Toast 除了指“吐司”，也有“举杯庆祝”之意，新品的名字就取意于此，希望能够为喜欢的瞬间举杯。IT之家已经拿到了这款影石 Toast 新品，为大家带来高清实物图。 作为一款彩色墨水屏相纸，To…",
       "tags": [
         "行业",
         "爆料",
-        "NewsNow"
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e852c418f9b2",
+      "title": "OPPO Bubble 潮玩自拍屏全新升级：支持后置超清自拍预览、10 米远程拍照预览等功能",
+      "source": "IT之家",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-16",
+      "time": "12:00",
+      "publishedAt": "2026-11-16T12:00:19.000Z",
+      "url": "https://www.ithome.com/1/027/944.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/f7650d3d-4747-4fea-b93c-a8f095ca5117.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 11 月 16 日现场消息，在今天进行的 OPPO Reno17 系列手机发布会中，OPPO 宣布旗下 Bubble 潮玩自拍屏全新升级，引入壁纸个性化编辑、后置超清自拍预览、10 米远程拍照预览、多人合拍等功能。 官方表示，潮玩自拍屏自定义壁纸可以随心切换喜欢的 IP 角色、萌宠与表情包，还能 DIY 文字、贴纸和特效；丰富的表盘时钟也能随心挑…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b199047a26ba",
+      "title": "苹果首款折叠屏手机 iPhone Duo 中国官网送货上门时间更新，从明年 1 月提前至 12 月交付",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-16",
+      "time": "11:57",
+      "publishedAt": "2026-11-16T11:57:32.000Z",
+      "url": "https://www.ithome.com/1/027/942.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/2fbb61c0-bb3c-4292-b011-1e98cfa4c07e.jpg",
+      "summary": "IT之家 11 月 16 日消息，苹果中国官网现已更新 iPhone Duo 手机送货上门时间，从 2027 年 1 月 23 日提前至 2026 年 12 月 15 日至 2026 年 12 月 22 日。 IT之家注意到，目前国内多家 Apple Store 零售店已支持 iPhone Duo 部分版本直接购买和到店取货，如果用户想尽快购买手机，可以尝…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-7811d77a1e55",
+      "title": "竹本青：产品经理用力过猛，笑的有点吓人了",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-16",
+      "time": "11:56",
+      "publishedAt": "2026-11-16T11:56:19.000Z",
+      "url": "https://www.coolapk.com/feed/75102453",
+      "image": "",
+      "summary": "产品经理用力过猛，笑的有点吓人了",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-8bdb0085eca8",
+      "title": "Samsung Galaxy S27 Ultra's major camera downgrade is almost confirmed",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-11-16",
+      "time": "10:35",
+      "publishedAt": "2026-11-16T10:35:06.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/s27-ultra-camera-downgrade-almost-confirmed",
+      "image": "https://cdn.mos.cms.futurecdn.net/YEPnpMWbsBwfNbbUzGaFdL-1920-80.jpg",
+      "summary": "Samsung might be making a surprising Galaxy Ultra downgrade.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-dbff9d37f376",
+      "title": "JSCHEN小小狐：OPPO 无边四曲屏旗舰细节曝光：直屏+四曲盖板",
+      "source": "JSCHEN小小狐",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-16",
+      "time": "07:57",
+      "publishedAt": "2026-11-16T07:57:50.000Z",
+      "url": "https://www.coolapk.com/feed/75098353",
+      "image": "http://image.coolapk.com/feed/2026/1116/15/4702274_7b9b5385_5869_776_22@1440x509.jpg",
+      "summary": "『OPPO 无边四曲屏细节曝光：直屏+四曲盖板』 知名数码博主 数码闲聊站 今日曝光了 OPPO 无边四曲屏的更多细节。据悉，该方案技术层面看齐苹果，可实现接近视觉无边框效果，预计将搭载于下一代 Find X 系列直板旗舰。 结合此前爆料，该方案主要细节如下： ◇ 6.9\"± 2K 直屏面板 + LIPO 极窄封装 ◇ 屏幕保护盖板采用「四曲面」方案 ◇…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "weibo-3b4aaf982d31",
+      "title": "数码闲聊站：独家超前瞻，关于无边四曲屏，直屏+极窄封装+四曲面盖板方案，视觉边框0.3mm…",
+      "source": "数码闲聊站",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-16",
+      "time": "07:37",
+      "publishedAt": "2026-11-16T07:37:01.000Z",
+      "url": "https://weibo.com/6048569942/RrEsrkyw0",
+      "image": "",
+      "summary": "独家超前瞻，关于无边四曲屏，直屏+极窄封装+四曲面盖板方案，视觉边框0.3mm±，接近视觉无边框效果，技术看齐苹果，下一代旗舰想要吗[偷乐]",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "微博"
       ]
     },
     {
@@ -42,46 +562,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-f9c5263a62ab",
-      "title": "Omdia：2026 年 Q3 东南亚智能手机出货量同比下降 36%，苹果逆势增长 4%",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-16",
-      "time": "05:28",
-      "publishedAt": "2026-11-16T05:28:25.000Z",
-      "url": "https://www.ithome.com/1/027/644.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/d9ef62c6-5926-47ac-96ee-18c518679550.jpg",
-      "summary": "IT之家 11 月 16 日消息，根据 Omdia 最新研究，2026 年第三季度，东南亚智能手机市场同比下降 36%， 出货量降至 1,650 万部 。这一市场收缩延续了 2026 年上半年以来的下行趋势，存储芯片供应短缺及零部件成本上涨持续制约智能手机厂商的出货表现。 IT之家从报告获悉，尽管出货量大幅下滑，市场出货价值同比仅下降 1%， 而平均售价（…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-c439b9921661",
-      "title": "竹本青：手机壳有没有推荐的品牌，官网这个aiuv壳带涂层滑吗",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-16",
-      "time": "05:01",
-      "publishedAt": "2026-11-16T05:01:34.000Z",
-      "url": "https://www.coolapk.com/feed/75095446",
-      "image": "http://image.coolapk.com/feed/2026/1116/13/4248714_91d76270_5293_6226_272@1271x1944.jpg",
-      "summary": "手机壳有没有推荐的品牌，官网这个aiuv壳带涂层滑吗",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-b3ce0282c946",
       "title": "Redmi Band 4 vs Huawei Band 11: Which Fitness Band Is Better?",
       "source": "Gizmochina",
@@ -95,66 +575,6 @@ window.phoneRadarAuto = {
       "url": "https://www.gizmochina.com/2026/11/16/redmi-band-4-vs-huawei-band-11/",
       "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/image-58-300x152.png?x47967",
       "summary": "Redmi Band 4 and Huawei Band 11 are affordable fitness bands designed for users who want health monitoring, activity tracking and everyday convenience without investing in a full-…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b24ff373a9fb",
-      "title": "2 亿主摄加持，三星 Galaxy S27 Pro / Ultra 手机摄像头排列曝光",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-16",
-      "time": "03:29",
-      "publishedAt": "2026-11-16T03:29:54.000Z",
-      "url": "https://www.ithome.com/1/027/592.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/0ae69052-ddd3-488f-b0e1-20e116b4838b.png",
-      "summary": "IT之家 11 月 16 日消息，博主 @i冰宇宙 今日分享了三星 Galaxy S27 Pro / Ultra 真机摄像头排列，并经过其再次确认。 可以看到，新机采用了横向矩形相机 Deco 设计，左侧为两个主要镜头，右侧为闪光灯以及一个较小镜头，整体较上代机型有较大变化。 IT之家注意到，S27 系列将打破 Galaxy S 的近年传统，在标准、Plu…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-217ad322fcc8",
-      "title": "JSCHEN小小狐：华为Mate X8上架官方商城：现已开启预约",
-      "source": "JSCHEN小小狐",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-16",
-      "time": "03:01",
-      "publishedAt": "2026-11-16T03:01:06.000Z",
-      "url": "https://www.coolapk.com/feed/75093359",
-      "image": "http://image.coolapk.com/feed/2026/1116/11/4702274_eb415a2f_8061_9742_22@800x800.png",
-      "summary": "『华为 Mate X8 上架官方商城：现已开启预约』 颜色： 紫金锦、青云锦、丹霞锦、雪域白、苍穹黑 版本： 12GB + 256GB 12GB + 512GB 16GB + 512GB 典藏版 16GB + 1TB 典藏版 ◇ 约 6.5 英寸外屏 + 8.15 英寸 UTG 内屏 ◇ 自研镜头模组 + 马达一体超薄方案 ◇ 麒麟 9050 Pro 逻辑…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-01f3ac8cef61",
-      "title": "华为 Mate X8 大折叠手机现身官网：五色外观全公开，至高可选 16GB+1TB 典藏版",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-16",
-      "time": "02:52",
-      "publishedAt": "2026-11-16T02:52:33.000Z",
-      "url": "https://www.ithome.com/1/027/551.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/dd951c5f-c6b1-462b-bcf4-87df0a932575.png",
-      "summary": "IT之家 11 月 16 日消息，华为 Mate X8 及全场景新品发布会今日官宣定档 11 月 24 日 14:30 举行。华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东已率先用上新机的典藏版。 IT之家注意到，Mate X8 已现身华为官网，并公开了部分配置信息及所有配色的外观图。 颜色 紫金锦 苍穹黑 雪域白 青云锦 丹霞锦 配置 1…",
       "tags": [
         "Huawei",
         "爆料",
@@ -182,106 +602,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-973203e960de",
-      "title": "华为星芒 OSTA O1 Pro 真机流出，消息称搭载麒麟 9030S 处理器",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-16",
-      "time": "02:28",
-      "publishedAt": "2026-11-16T02:28:57.000Z",
-      "url": "https://www.ithome.com/1/027/535.htm",
-      "image": "https://qimg.ithome.com/newfiles/2026/11/ade19eec-dcde-4efd-8617-bf6a2d2b9a5f.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 11 月 16 日消息，华为星芒 OSTA O1 Pro 真机谍照已在互联网平台曝光。可以看到，该机外观与 Pura X View 相近， 但摄像头少了一枚，同时背板部分改用纯色设计 。 博主 @数码闲聊站 今日发文称，华为星芒 OSTA O1 Pro 真机已经流出， 鉴定为真 。他透露，新机配备了一块 6.39\"1.5K LTPS 的 16:9…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1c2184cefec8",
-      "title": "华为何刚：Mate X 系列 8 年 8 代一路走来，已成为 2000 万用户手里的主力大屏",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-16",
-      "time": "02:24",
-      "publishedAt": "2026-11-16T02:24:04.000Z",
-      "url": "https://www.ithome.com/1/027/531.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/dd951c5f-c6b1-462b-bcf4-87df0a932575.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 11 月 16 日消息，华为 Mate X8 及全场景新品发布会今日官宣定档 11 月 24 日 14:30 举行。华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东已率先用上新机的典藏版。 IT之家注意到，华为董事、终端 BG CEO 何刚今日发文透露了一组数据，作为华为大折叠旗舰，Mate X 系列 8 年 8 代一路走来， 已经…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-44a4af926985",
-      "title": "松下官宣 LUMIX 新机发布会，预计为电影摄影机产品",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-16",
-      "time": "02:08",
-      "publishedAt": "2026-11-16T02:08:37.000Z",
-      "url": "https://www.ithome.com/1/027/514.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/a0d98448-b72b-41cc-8bb6-72074557950d.jpg",
-      "summary": "IT之家 11 月 16 日消息，松下官方今天在 YouTube 宣布， 北京时间明晚 22:00 将会有 LUMIX 新机发布 。 结合消息源 L-Rumors 爆料，这款新品预计是一款 L 卡口全画幅电影摄影机。该机将没有内置 ND 滤镜、电子取景器，配备两个 USB Type-C 接口，并具备 HDMI 2.1 全尺寸接口，使用 V 口电池，不支持拍…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f838b404266e",
-      "title": "华为余承东：新一代大折叠手机 Mate X8 我已经用上了，更大、更薄、更强",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-16",
-      "time": "02:03",
-      "publishedAt": "2026-11-16T02:03:11.000Z",
-      "url": "https://www.ithome.com/1/027/511.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/f6987e57-0fa2-4b30-b596-128b86714e39.jpg",
-      "summary": "IT之家 11 月 16 日消息，华为今日官宣，Mate X8 及全场景新品发布会定档 11 月 24 日 14:30。 华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日发文透露， 自己已经用上了新一代大折叠手机华为 Mate X8 ，新机“更大、更薄、更强，上手确实惊喜”。 从余承东微博小尾巴来看， 他用的并不是普通版，而是更高阶的典藏…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-94a6783011b7",
-      "title": "竹本青：【网传华为星芒OSTA O1 Pro 真机外观曝光：横向长条Deco，双摄像头】 11月16日，网传华为星芒OST…",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-16",
-      "time": "01:54",
-      "publishedAt": "2026-11-16T01:54:49.000Z",
-      "url": "https://www.coolapk.com/feed/75092080",
-      "image": "http://image.coolapk.com/feed/2026/1116/09/4248714_06dc3421_4087_7867_350@1272x1272.jpg",
-      "summary": "【网传华为星芒OSTA O1 Pro 真机外观曝光：横向长条Deco，双摄像头】 11月16日，网传华为星芒OSTA O1 Pro真机后盖与包装盒实拍图曝光。 图片显示采用横向长条“感叹号”Deco，配备双摄像头，外观风格与华为Pura X View相近；包装盒印有“OSTA O1 Pro”字样与华为品牌标识。 目前，华为全新子品牌星芒OSTA已官宣于11…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "coolapk-user-a0dd301e674a",
       "title": "JSCHEN小小狐：华为Mate X8外观亮相：钇晶宝石/云锦工艺",
       "source": "JSCHEN小小狐",
@@ -297,26 +617,6 @@ window.phoneRadarAuto = {
       "summary": "『华为 Mate X8 外观亮相：钇晶宝石/云锦工艺』 ◇ 圆形模组 + 双侧金属切割 ◇ 钇晶宝石材质镜头环 ◇ 云锦工艺锦纤后盖 新一代大折叠华为 Mate X8， 更大，更薄，更强，创新集大成者。 11 月 24 日 14:30 发布会，焕新来袭。 爆料信息： ◇ 丹霞锦/青云锦/紫金锦/雪域白/苍穹黑 ◇ 6.5 英寸外屏 + 8.15± 英寸 U…",
       "tags": [
         "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-2eb0d6815711",
-      "title": "JSCHEN小小狐：曝小米阔直板已开屏：约 6.3-6.4 英寸 / 16:9",
-      "source": "JSCHEN小小狐",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-16",
-      "time": "00:56",
-      "publishedAt": "2026-11-16T00:56:26.000Z",
-      "url": "https://www.coolapk.com/feed/75091253",
-      "image": "http://image.coolapk.com/feed/2026/1116/08/4702274_d1c98121_0585_9487_944@1440x487.jpg",
-      "summary": "『曝小米阔直板已开屏：约 6.3-6.4 英寸 / 16:9』 知名数码博主 数码闲聊站 今日爆料称，小米将在明年发布旗下首款阔屏直板机。该机当前已开屏，早期屏幕规格方案如下： ◇ 约 6.3-6.4 英寸 ◇ 16:9 屏幕比例 ◇ 1mm± 极窄四等边 ◇ BT.2020 超广色域 #今日热点# #小米18# #小米18ProMax#",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "酷安博主"
       ]
@@ -382,26 +682,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-7d63170df7b5",
-      "title": "一日一技｜iPhone 恶意被锁，线上移除流程拆招",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-11-16",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/116686",
-      "image": "",
-      "summary": "一日一技｜iPhone 恶意被锁，线上移除流程拆招",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-1d87e51cd157",
       "title": "兄弟们，帮我做选择卖掉其中一个手机，玩不过来了，特别纠结。",
       "source": "酷安热榜",
@@ -422,21 +702,41 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-eb55099b4e20",
-      "title": "不得不说，oppo的售后是中国手机厂商第一，因为摄像头内进灰，第一次换货后，我晚上回到家又发现摄像头内有灰，第二天和售后小哥说了之后，他回复说可以帮我先订货，货到了再让我去店里，不用跑2趟，这点比vivo荣耀强，vivo只给换单机，还得提前跑去售后检查之后过几天货到了再去换机，不过有问题可以一直换到没问题为止。荣耀第一次可以给换全套，第二次就只愿意换单机，还说下次只能修。 #荣耀Magic9ProMax# #vivoX500ProMax# #小米18ProMax#",
+      "id": "newsnow-f5e53b7e2de1",
+      "title": "其实我觉得给父母买手机，真不该买传统意义上的“老年机”。",
       "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-11-16",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/75082365",
+      "url": "https://www.coolapk.com/feed/75092873",
       "image": "",
-      "summary": "不得不说，oppo的售后是中国手机厂商第一，因为摄像头内进灰，第一次换货后，我晚上回到家又发现摄像头内有灰，第二天和售后小哥说了之后，他回复说可以帮我先订货，货到了再让我去店里，不用跑2趟，这点比vivo荣耀强，vivo只给换单机，还得提前跑去售后检查之后过几天货到了再去换机，不过有问题可以一直换到没问题为止。荣耀第一次可以给换全套，第二次就只愿意换单机，…",
+      "summary": "其实我觉得给父母买手机，真不该买传统意义上的“老年机”。",
       "tags": [
-        "HONOR",
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-8d7dc7ab8000",
+      "title": "iPhone duo这台手机，说起来上市时间也不短了吧，但：",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-16",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/75093787",
+      "image": "",
+      "summary": "iPhone duo这台手机，说起来上市时间也不短了吧，但：",
+      "tags": [
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -462,103 +762,23 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-24de75798cab",
-      "title": "iPhone 18 Pro系列最新销量曝光：周增约93.6万台",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-16",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/75081299",
-      "image": "",
-      "summary": "iPhone 18 Pro系列最新销量曝光：周增约93.6万台",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-dc3bcdd28ca4",
-      "title": "曝iPhone20苹果明年重头戏",
+      "id": "newsnow-6787848fcb98",
+      "title": "人一旦用过折叠手机",
       "source": "微博热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "待验证",
       "date": "2026-11-16",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DiPhone20%E8%8B%B9%E6%9E%9C%E6%98%8E%E5%B9%B4%E9%87%8D%E5%A4%B4%E6%88%8F%23&t=31&band_rank=6&Refer=top",
+      "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E4%B8%80%E6%97%A6%E7%94%A8%E8%BF%87%E6%8A%98%E5%8F%A0%E6%89%8B%E6%9C%BA&t=31&band_rank=22&Refer=top",
       "image": "",
-      "summary": "曝iPhone20苹果明年重头戏",
+      "summary": "人一旦用过折叠手机",
       "tags": [
-        "iPhone",
+        "行业",
         "爆料",
         "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-0642e12dcd2e",
-      "title": "华为最平整的折叠屏要来了",
-      "source": "微博热搜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-11-16",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E6%9C%80%E5%B9%B3%E6%95%B4%E7%9A%84%E6%8A%98%E5%8F%A0%E5%B1%8F%E8%A6%81%E6%9D%A5%E4%BA%86%23&t=31&band_rank=29&Refer=top",
-      "image": "",
-      "summary": "华为最平整的折叠屏要来了",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-bd12de3b8556",
-      "title": "第二代iPhone Duo曝光",
-      "source": "百度热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-16",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E7%AC%AC%E4%BA%8C%E4%BB%A3iPhone+Duo%E6%9B%9D%E5%85%89",
-      "image": "",
-      "summary": "第二代iPhone Duo曝光",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-f7ced63d2ffe",
-      "title": "The Galaxy Z Fold 8 is making me question my allegiance to Samsung’s best phone lineup",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-15",
-      "time": "22:41",
-      "publishedAt": "2026-11-15T22:41:41.000Z",
-      "url": "https://www.sammobile.com/opinion/galaxy-z-fold-8-making-me-question-allegiance-samsung-best-phone/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/03/Galaxy-S26-Ultra-review-cameras-1920x1078.jpg",
-      "summary": "For a long time, the Galaxy S Ultra has been the easy choice when deciding which Samsung phone I want to use as my main device. I enjoy trying other phones, and my work gives me p…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -577,26 +797,6 @@ window.phoneRadarAuto = {
       "summary": "Samsung‘s next flagship phones may share a more compact rear camera cluster than earlier leaks suggested. A new post from Ice Universe includes a line sketch of the back of the ph…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-3cb778cdf66c",
-      "title": "Apple Aiming to Upgrade the iPhone Duo in Four Ways",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-15",
-      "time": "16:42",
-      "publishedAt": "2026-11-15T16:42:29.000Z",
-      "url": "https://www.macrumors.com/2026/11/15/apple-aims-to-upgrade-iphone-duo-in-four-ways/",
-      "image": "https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Outer-Display-Hand-scaled.jpg",
-      "summary": "Bloomberg 's Mark Gurman today said Apple has four goals for future iPhone Duo models: Face ID, an Action button, a telephoto camera, and a thinner-and-lighter design. Gurman said…",
-      "tags": [
-        "iPhone",
         "爆料",
         "自动抓取"
       ]
