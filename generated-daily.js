@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-11-17T02:54:52.725Z",
+  "updatedAt": "2026-11-17T13:23:14.805Z",
   "issueDate": "2026-11-17",
   "issue": "VOL.261117",
   "title": "手机情报日报",
-  "intro": "今日筛出 13 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 15 条重点，其中 8 条是重点爆料，包含 8 条 iPhone 相关、1 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 13,
+    "total": 15,
     "iphone": 8,
     "leaks": 8,
     "official": 1,
@@ -17,29 +17,6 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
-        {
-          "id": "auto-84321916d81a",
-          "title": "“里程碑式设计”：苹果 iPhone 20 Pro 屏幕盖板再曝，让边框淡出视野",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-11-16",
-          "time": "23:13",
-          "publishedAt": "2026-11-16T23:13:54.000Z",
-          "url": "https://www.ithome.com/1/028/025.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/8dffabe2-57e7-4f0f-98e4-f872d4c597ce.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 11 月 17 日消息，@数码大叔 于昨日（11 月 16 日）在小红书上发布视频，展示了苹果 iPhone 20 Pro 的四曲面玻璃屏幕盖板。数码博主 @i冰宇宙 随后在 X 平台转发该视频， 并表示“苹果 iPhone 20 Pro 将采用一个里程碑式设计”。 IT之家附上相关视频如下： 按照目前所描述的方案，iPhone 20 Pro 的…",
-          "detail": "IT之家 11 月 17 日消息，@数码大叔 于昨日（11 月 16 日）在小红书上发布视频，展示了苹果 iPhone 20 Pro 的四曲面玻璃屏幕盖板。数码博主 @i冰宇宙 随后在 X 平台转发该视频， 并表示“苹果 iPhone 20 Pro 将采用一个里程碑式设计”。 IT之家附上相关视频如下： 按照目前所描述的方案，iPhone 20 Pro 的…",
-          "keyPoints": [
-            "屏幕形态"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
         {
           "id": "weibo-3b4aaf982d31",
           "title": "数码闲聊站：独家超前瞻，关于无边四曲屏，直屏+极窄封装+四曲面盖板方案，视觉边框0.3mm…",
@@ -83,29 +60,6 @@ window.phoneRadarDaily = {
           "keyPoints": [
             "影像硬件",
             "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-8248482e047d",
-          "title": "华为星芒 OSTA O1 Pro 阔直板手机上架：三款配色外观公布，紫色独占 16GB 内存",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-11-17",
-          "time": "01:50",
-          "publishedAt": "2026-11-17T01:50:22.000Z",
-          "url": "https://www.ithome.com/1/028/067.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/51cb2a05-cb8d-4624-8402-6426f48b9979.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 11 月 17 日消息，华为全新子品牌星芒的首款产品 —— OSTA O1 Pro 阔直板手机现已上架华为商城，将于 11 月 20 日正式发布。 IT之家从商店页面了解到，OSTA O1 Pro 可选 星空黑、星云白、星芒紫 三款配色，其中： 星空黑、星云白可选 12GB + 256GB、12GB + 512GB 星芒紫可选 16GB + 51…",
-          "detail": "IT之家 11 月 17 日消息，华为全新子品牌星芒的首款产品 —— OSTA O1 Pro 阔直板手机现已上架华为商城，将于 11 月 20 日正式发布。 IT之家从商店页面了解到，OSTA O1 Pro 可选 星空黑、星云白、星芒紫 三款配色，其中： 星空黑、星云白可选 12GB + 256GB、12GB + 512GB 星芒紫可选 16GB + 51…",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -159,49 +113,100 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-ac85f610fec0",
-          "title": "华为星芒 OSTA O1 Pro 阔直板手机外观公布，主打紫色渐变",
+          "id": "weibo-8bc5966b3897",
+          "title": "数码闲聊站：OPPO Reno17，这价格感觉怎么样？ 8GB+256GB——3599元…",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Huawei",
+          "source": "数码闲聊站",
+          "brand": "OPPO",
           "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-11-17",
-          "time": "01:12",
-          "publishedAt": "2026-11-17T01:12:09.000Z",
-          "url": "https://www.ithome.com/1/028/057.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/13bf3954-208e-4e76-be4d-00e528f3e38f.jpg",
+          "trust": "高关注爆料源",
+          "date": "2026-11-16",
+          "time": "12:21",
+          "publishedAt": "2026-11-16T12:21:17.000Z",
+          "url": "https://weibo.com/6048569942/RrGjPbgZV",
+          "image": "",
           "verdict": "先看",
-          "takeaway": "IT之家 11 月 17 日消息，华为全新品牌 OSTA 星芒手机今日官宣了 OSTA O1 Pro 阔直板手机 ，并公布了新机的外观。 从预热视频可以看到，星芒 OSTA O1 Pro 采用了类似 Pura X View 的机身屏幕比例，后置镜头模组同样为横向跑道形，不过看起来像是砍掉了一颗镜头。 新机以紫色渐变为主打色，正面为顶部居中挖孔屏，画面中还特…",
-          "detail": "IT之家 11 月 17 日消息，华为全新品牌 OSTA 星芒手机今日官宣了 OSTA O1 Pro 阔直板手机 ，并公布了新机的外观。 从预热视频可以看到，星芒 OSTA O1 Pro 采用了类似 Pura X View 的机身屏幕比例，后置镜头模组同样为横向跑道形，不过看起来像是砍掉了一颗镜头。 新机以紫色渐变为主打色，正面为顶部居中挖孔屏，画面中还特…",
+          "takeaway": "OPPO Reno17，这价格感觉怎么样？ 8GB+256GB——3599元 12GB+256GB——3799元 12GB+512GB——3999元 12GB+1TB——4899元 OPPO Reno17 Pro，这价格感觉怎么样？ 8GB+256GB——4199元 12GB+256GB——4599元 12GB+512GB——4999元",
+          "detail": "OPPO Reno17，这价格感觉怎么样？ 8GB+256GB——3599元 12GB+256GB——3799元 12GB+512GB——3999元 12GB+1TB——4899元 OPPO Reno17 Pro，这价格感觉怎么样？ 8GB+256GB——4199元 12GB+256GB——4599元 12GB+512GB——4999元",
           "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "屏幕形态"
+            "成本 / 价格",
+            "爆料来源"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "newsnow-04eaeeecb088",
-          "title": "坚持直屏这么多年 苹果终于改主意了",
+          "id": "auto-8da704352c11",
+          "title": "阔折叠 VS 大折叠：消息称明年安卓新机阵营也有两种形态并行",
           "originalTitle": "",
-          "source": "百度热搜",
-          "brand": "iPhone",
+          "source": "IT之家",
+          "brand": "行业",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-11-17",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.baidu.com/s?wd=%E5%9D%9A%E6%8C%81%E7%9B%B4%E5%B1%8F%E8%BF%99%E4%B9%88%E5%A4%9A%E5%B9%B4+%E8%8B%B9%E6%9E%9C%E7%BB%88%E4%BA%8E%E6%94%B9%E4%B8%BB%E6%84%8F%E4%BA%86",
+          "time": "09:27",
+          "publishedAt": "2026-11-17T09:27:10.000Z",
+          "url": "https://www.ithome.com/1/028/429.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/1d165661-d6eb-4b76-af9f-02f90976a468.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 11 月 17 日消息，博主 @数码闲聊站 今日发文，谈及了阔折叠手机和大折叠手机的两种形态。他透露， 明年安卓阵营也有两种形态并行 。 根据具体形态来看，大折指的是常规 1:1 比例方正大折叠手机，阔折目前主流定义是√2:1 比例形态的折叠屏手机。前者内部空间充足，电池、散热、影像等更有机会堆料，办公、多窗口生产力有一定优势；后者造型新颖，内屏…",
+          "detail": "IT之家 11 月 17 日消息，博主 @数码闲聊站 今日发文，谈及了阔折叠手机和大折叠手机的两种形态。他透露， 明年安卓阵营也有两种形态并行 。 根据具体形态来看，大折指的是常规 1:1 比例方正大折叠手机，阔折目前主流定义是√2:1 比例形态的折叠屏手机。前者内部空间充足，电池、散热、影像等更有机会堆料，办公、多窗口生产力有一定优势；后者造型新颖，内屏…",
+          "keyPoints": [
+            "影像硬件",
+            "屏幕形态",
+            "电池 / 充电",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-f02dd043b73a",
+          "title": "竹本青：#每日一催小米18发布# 期待加强散热和更大的马达吧 看前面几代的标准版，我感觉15就已经做到近乎完全；电池足够大…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-11-17",
+          "time": "06:32",
+          "publishedAt": "2026-11-17T06:32:40.000Z",
+          "url": "https://www.coolapk.com/feed/75116481",
           "image": "",
           "verdict": "先看",
-          "takeaway": "坚持直屏这么多年 苹果终于改主意了",
-          "detail": "坚持直屏这么多年 苹果终于改主意了",
+          "takeaway": "#每日一催小米18发布# 期待加强散热和更大的马达吧 看前面几代的标准版，我感觉15就已经做到近乎完全；电池足够大了，性能也足够了，就差部分外围，还有受限于机身的发热控制。 去年的17我感觉算是15的plus版本，尤其是Deco变丑了，不能理解……，不过按现在爆料来讲，应该是能回到涂黑设计，那还挺好的 #HyperOS4# #小米18#",
+          "detail": "#每日一催小米18发布# 期待加强散热和更大的马达吧 看前面几代的标准版，我感觉15就已经做到近乎完全；电池足够大了，性能也足够了，就差部分外围，还有受限于机身的发热控制。 去年的17我感觉算是15的plus版本，尤其是Deco变丑了，不能理解……，不过按现在爆料来讲，应该是能回到涂黑设计，那还挺好的 #HyperOS4# #小米18#",
           "keyPoints": [
-            "屏幕形态"
+            "电池 / 充电",
+            "爆料来源"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "coolapk-user-dbff9d37f376",
+          "title": "JSCHEN小小狐：OPPO 无边四曲屏旗舰细节曝光：直屏+四曲盖板",
+          "originalTitle": "",
+          "source": "JSCHEN小小狐",
+          "brand": "OPPO",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-11-16",
+          "time": "07:57",
+          "publishedAt": "2026-11-16T07:57:50.000Z",
+          "url": "https://www.coolapk.com/feed/75098353",
+          "image": "http://image.coolapk.com/feed/2026/1116/15/4702274_7b9b5385_5869_776_22@1440x509.jpg",
+          "verdict": "先看",
+          "takeaway": "『OPPO 无边四曲屏细节曝光：直屏+四曲盖板』 知名数码博主 数码闲聊站 今日曝光了 OPPO 无边四曲屏的更多细节。据悉，该方案技术层面看齐苹果，可实现接近视觉无边框效果，预计将搭载于下一代 Find X 系列直板旗舰。 结合此前爆料，该方案主要细节如下： ◇ 6.9\"± 2K 直屏面板 + LIPO 极窄封装 ◇ 屏幕保护盖板采用「四曲面」方案 ◇…",
+          "detail": "『OPPO 无边四曲屏细节曝光：直屏+四曲盖板』 知名数码博主 数码闲聊站 今日曝光了 OPPO 无边四曲屏的更多细节。据悉，该方案技术层面看齐苹果，可实现接近视觉无边框效果，预计将搭载于下一代 Find X 系列直板旗舰。 结合此前爆料，该方案主要细节如下： ◇ 6.9\"± 2K 直屏面板 + LIPO 极窄封装 ◇ 屏幕保护盖板采用「四曲面」方案 ◇…",
+          "keyPoints": [
+            "屏幕形态",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
@@ -213,8 +218,54 @@ window.phoneRadarDaily = {
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
         {
+          "id": "auto-4e3af5f3ea48",
+          "title": "苹果将于 2027 年 6 月在法国受审，被控通过限制 iPhone 第三方维修实施计划性报废",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-11-17",
+          "time": "12:42",
+          "publishedAt": "2026-11-17T12:42:06.000Z",
+          "url": "https://www.ithome.com/1/028/519.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2025/9/0b4c37cc-0a5c-4014-8fdb-ce8d7cbc4ae0.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 11 月 17 日消息，法国消费者权益组织“反计划报废协会”（Halte à l'Obsolescence Programmée，简称 HOP）11 月 16 日在官网宣布，苹果将于 2027 年 6 月在巴黎接受审判，回应其涉嫌阻碍用户通过官方授权渠道以外的方式维修 iPhone 一事。此前，HOP 已于四年前就这一问题对苹果提起诉讼。 HOP…",
+          "detail": "IT之家 11 月 17 日消息，法国消费者权益组织“反计划报废协会”（Halte à l'Obsolescence Programmée，简称 HOP）11 月 16 日在官网宣布，苹果将于 2027 年 6 月在巴黎接受审判，回应其涉嫌阻碍用户通过官方授权渠道以外的方式维修 iPhone 一事。此前，HOP 已于四年前就这一问题对苹果提起诉讼。 HOP…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
+          "id": "auto-adb8445b1ee0",
+          "title": "社区速递 166｜柯尼卡胶片机、iPhone Duo 体验与假期省钱实操大赏",
+          "originalTitle": "",
+          "source": "少数派",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-11-17",
+          "time": "09:02",
+          "publishedAt": "2026-11-17T09:02:00.000Z",
+          "url": "https://sspai.com/post/119184",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...",
+          "detail": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+        },
+        {
           "id": "newsnow-0bda533e3b44",
-          "title": "【iPhone Duo 新增2D人脸解锁功能】",
+          "title": "iPhone Duo新增2D人脸解锁功能",
           "originalTitle": "",
           "source": "酷安热榜",
           "brand": "iPhone",
@@ -226,8 +277,8 @@ window.phoneRadarDaily = {
           "url": "https://www.coolapk.com/feed/75109119",
           "image": "",
           "verdict": "先看",
-          "takeaway": "【iPhone Duo 新增2D人脸解锁功能】",
-          "detail": "【iPhone Duo 新增2D人脸解锁功能】",
+          "takeaway": "iPhone Duo新增2D人脸解锁功能",
+          "detail": "iPhone Duo新增2D人脸解锁功能",
           "keyPoints": [
             "爆料"
           ],
@@ -296,6 +347,29 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
+          "id": "newsnow-c0784b9526a1",
+          "title": "30来岁第一辆车，3.9万拿下。再也不用父亲坐别人车那种欠人情那种感觉了，回老家也不用四处找车了， # #手机摄影# #年轻人的第一辆车# #数码日常#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-11-17",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/75104628",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "30来岁第一辆车，3.9万拿下。再也不用父亲坐别人车那种欠人情那种感觉了，回老家也不用四处找车了， # #手机摄影# #年轻人的第一辆车# #数码日常#",
+          "detail": "30来岁第一辆车，3.9万拿下。再也不用父亲坐别人车那种欠人情那种感觉了，回老家也不用四处找车了， # #手机摄影# #年轻人的第一辆车# #数码日常#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
           "id": "newsnow-044163e0b905",
           "title": "其实我觉得给父母买手机，真不该买传统意义上的“老年机”。",
           "originalTitle": "",
@@ -311,29 +385,6 @@ window.phoneRadarDaily = {
           "verdict": "扫一眼",
           "takeaway": "其实我觉得给父母买手机，真不该买传统意义上的“老年机”。",
           "detail": "其实我觉得给父母买手机，真不该买传统意义上的“老年机”。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-490e08bed20d",
-          "title": "兄弟们，帮我做选择卖掉其中一个手机，玩不过来了，特别纠结。",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-11-17",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/75084562",
-          "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "兄弟们，帮我做选择卖掉其中一个手机，玩不过来了，特别纠结。",
-          "detail": "兄弟们，帮我做选择卖掉其中一个手机，玩不过来了，特别纠结。",
           "keyPoints": [
             "爆料"
           ],
