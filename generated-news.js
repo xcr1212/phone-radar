@@ -1,6 +1,506 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-11-17T13:23:14.805Z",
+  "updatedAt": "2026-11-17T22:21:23.317Z",
   "news": [
+    {
+      "id": "auto-3a3093d41bca",
+      "title": "Report: iPhone set to gain market share in 2027 amid industry-wide slump",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-17",
+      "time": "22:07",
+      "publishedAt": "2026-11-17T22:07:22.000Z",
+      "url": "https://9to5mac.com/2026/11/17/report-iphone-set-to-gain-market-share-in-2027-amid-industry-wide-slump/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-color-lineup-official.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple could see iPhone shipments rise 7% next year, giving it a 26% share of global smartphone shipments, according to a new report. Here are the details. more…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9cc6220261c8",
+      "title": "Why iPhone Duo wasn’t for me (but might be for you)",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-17",
+      "time": "18:48",
+      "publishedAt": "2026-11-17T18:48:36.000Z",
+      "url": "https://9to5mac.com/2026/11/17/why-iphone-duo-wasnt-for-me-but-might-be-for-you/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-one-handed-front-display.jpg?quality=82&strip=all&w=1600",
+      "summary": "I’ve had the iPhone Duo for nearly two weeks now, and have officially decided to return it. Here are the three main reasons why the Duo didn’t work out for me, but might for you.…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-12ec5852e730",
+      "title": "iPhone Duo 开售三周后，苹果 Apple Store 完成适配",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-17",
+      "time": "18:00",
+      "publishedAt": "2026-11-17T18:00:30.000Z",
+      "url": "https://www.ithome.com/1/028/573.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/da909afb-e807-497d-8b12-d92a95a20a22.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 11 月 18 日消息，苹果 Apple Store 在线商店昨晚发布了 6.10 版本升级，更新日志显示为“多种改进和性能增强”。 据用户反馈， 该版本的 Apple Store 终于完成了对 iPhone Duo 的适配 。值得一提的是，如今距离 iPhone Duo 开售已过去约三周时间。 据IT之家昨日报道，苹果全球营销高级副总裁格雷格…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9cbb423e7f02",
+      "title": "The Samsung Galaxy Z Flip 8 just quietly scored a major discount ahead of Black Friday",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-17",
+      "time": "17:39",
+      "publishedAt": "2026-11-17T17:39:37.000Z",
+      "url": "https://www.androidpolice.com/samsung-galaxy-z-flip-8-black-friday-deal-early-amazon/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/07/samsung-galaxy-z-flip-8-half-closing.JPG",
+      "summary": "The Galaxy Z Flip 8 is sleek, lightweight, and Black Friday-ready.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-a23f745ededc",
+      "title": "竹本青：太搞了，这视频我以为早被米米删掉了，刚才好奇搜了一下，竟然还在 #HyperOS4#",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-17",
+      "time": "16:52",
+      "publishedAt": "2026-11-17T16:52:41.000Z",
+      "url": "https://www.coolapk.com/feed/75129630",
+      "image": "http://image.coolapk.com/feed/2026/1118/00/4248714_0b0db091_4360_491_253@1271x1322.jpg",
+      "summary": "太搞了，这视频我以为早被米米删掉了，刚才好奇搜了一下，竟然还在 #HyperOS4#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-5898a509c318",
+      "title": "竹本青：【大疆Pocket 4系列相机 正式涨价，最高上调560元】 11月18日，大疆Pocket 4系列云台相机 调价…",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-17",
+      "time": "16:36",
+      "publishedAt": "2026-11-17T16:36:52.000Z",
+      "url": "https://www.coolapk.com/feed/75129376",
+      "image": "http://image.coolapk.com/feed/2026/1118/00/4248714_2dc980e7_3409_7765_827@1272x1338.jpg",
+      "summary": "【大疆Pocket 4系列相机 正式涨价，最高上调560元】 11月18日，大疆Pocket 4系列云台相机 调价正式生效，官网显示上涨200元-560元不等。 ● Pocket 4： 涨价200元起 标准套装 —— 2999元 → 3199元 全能套装 —— 3799元 → 4299元 美拍套装 —— 4098元 → 4598元 ● Pocket 4P：…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-b44e86b3e4f1",
+      "title": "Samsung supplier leak suggests mystery ‘bezel-less’ Galaxy 27 display",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-17",
+      "time": "16:36",
+      "publishedAt": "2026-11-17T16:36:35.000Z",
+      "url": "https://9to5google.com/2026/11/17/leak-rumors-bezel-less-galaxy-s27-display/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/Welcome-to-One-UI-9.0-on-Galaxy-S26-device-1.jpg?quality=82&strip=all&w=1600",
+      "summary": "There are rumors of a Samsung phone with an “extremely bezel-less” display coming from one of the company’s suppliers, and it might be on one of the next Galaxy S27 models. more…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-955988ab7950",
+      "title": "小米 18 Pro 系列手机国际版正式发布：把背屏带向海外，1399 欧元起",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-17",
+      "time": "16:20",
+      "publishedAt": "2026-11-17T16:20:23.000Z",
+      "url": "https://www.ithome.com/1/028/564.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/2d13b8a8-1431-4674-8051-a80d89c25ac5.jpg",
+      "summary": "IT之家 11 月 18 日消息，在昨晚的巴黎发布会上，小米 18 Pro 系列手机国际版正式发布，把背屏设计带向海外， 售价 1,399 欧元 （IT之家注：现汇率约合 10,278 元人民币） 起 。 小米 18 Pro（电池 6000mAh | 骁龙 8E6） 12GB+256GB 规格：1,399 欧元 （现汇率约合 10,278 元人民币） ；…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-73fb77535d1b",
+      "title": "Apple Accused of Silencing iPhone Duo Supplier Over 'Crackgate' Issue",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-17",
+      "time": "16:10",
+      "publishedAt": "2026-11-17T16:10:49.000Z",
+      "url": "https://www.macrumors.com/2026/11/17/apple-silencing-iphone-duo-supplier-crackgate/",
+      "image": "https://images.macrumors.com/article-new/2026/10/iphone-duo-screen-crack.jpg",
+      "summary": "Apple allegedly pressured a component supplier to withdraw a public statement distancing itself from the display cracking issue affecting some iPhone Duo units, according to The E…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8943492080cb",
+      "title": "The Xiaomi 18 Pro debuts globally with sub-mm bezels, privacy display, rear display, and 200MP Leica cameras",
+      "source": "9to5Google",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-17",
+      "time": "15:35",
+      "publishedAt": "2026-11-17T15:35:00.000Z",
+      "url": "https://9to5google.com/2026/11/17/the-xiaomi-18-pro-debuts-globally-with-sub-mm-bezels-privacy-display-4000-nit-back-display-and-dual-200mp-leica-cameras/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xiaomi-18-pro-series.jpg?quality=82&strip=all&w=1600",
+      "summary": "Xiaomi is pushing the limits of modern smartphone specs with a killer design, flush camera lenses, and a next-gen Snapdragon SoC. more…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b43d708e94ba",
+      "title": "Is Apple cooked? The Xiaomi 18 Pro is coming for iPhone with the fastest Android chipset and a built-in back display",
+      "source": "Android Central",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-11-17",
+      "time": "15:00",
+      "publishedAt": "2026-11-17T15:00:58.000Z",
+      "url": "https://www.androidcentral.com/phones/xiaomi/is-apple-cooked-the-xiaomi-18-pro-is-coming-for-iphone-with-the-fastest-android-chipset-and-a-built-in-back-display",
+      "image": "https://cdn.mos.cms.futurecdn.net/xZEX2GNB29YiUtcbcVXKmW-1920-80.jpg",
+      "summary": "The Xiaomi 18 Pro and Pro Max are here, with both models sporting a rear display.",
+      "tags": [
+        "Xiaomi",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5a76c64d0dfd",
+      "title": "华为 Mate X8 大折叠手机上手效果图发布，何刚揭秘新机外观设计细节",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-17",
+      "time": "14:38",
+      "publishedAt": "2026-11-17T14:38:07.000Z",
+      "url": "https://www.ithome.com/1/028/542.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/e5662129-8fa5-4b0a-8860-d696d0e81da8.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 11 月 17 日消息，华为 Mate X8 及全场景新品发布会今日官宣定档 11 月 24 日 14:30 举行。届时，华为将发布最新一代大折叠旗舰手机。 华为官方今日也发布了多张宣传图，展示了 Mate X8 的上手效果， 紫金锦、青云锦、丹霞锦、苍穹黑、雪域白五款配色全覆盖 。 据华为董事、终端 BG CEO 何刚介绍，全新华为 Mate…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5105d3321a37",
+      "title": "These Android flagships double down on screens and 200MP cameras",
+      "source": "Android Police",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-17",
+      "time": "14:36",
+      "publishedAt": "2026-11-17T14:36:57.000Z",
+      "url": "https://www.androidpolice.com/these-android-flagships-double-down-screens-200mp-cameras/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/11/xiaomi-18-pro-max-two-colors.jpg",
+      "summary": "Xiaomi 18 Pro and Pro Max are going global",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-1f2dc6aafee3",
+      "title": "竹本青：【华为与中国人寿签署战略合作协议，将围绕保险数智变革发展】 11月17日，中国人寿保险（集团）公司与华为技术有限公…",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-17",
+      "time": "14:36",
+      "publishedAt": "2026-11-17T14:36:05.000Z",
+      "url": "https://www.coolapk.com/feed/75126834",
+      "image": "http://image.coolapk.com/feed/2026/1117/22/4248714_3909f9a7_6163_9441_151@1280x853.jpg",
+      "summary": "【华为与中国人寿签署战略合作协议，将围绕保险数智变革发展】 11月17日，中国人寿保险（集团）公司与华为技术有限公司签署战略合作协议。 根据协议，双方将围绕保险数智变革在科技金融、业务合作及人才培养等领域进行深入合作，以共同推动双方业务发展。 华为副董事长、轮值董事长汪涛表示，中国人寿是华为重要战略合作伙伴，多年来双方在信息基础设施、人工智能、云计算等领域…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-5691dec8240e",
+      "title": "Xiaomi 18 Pro series goes global with privacy displays and rear screens",
+      "source": "Android Authority",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-17",
+      "time": "14:30",
+      "publishedAt": "2026-11-17T14:30:23.000Z",
+      "url": "https://www.androidauthority.com/xiaomi-18-pro-series-global-launch-3735934/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/11/Xiaomi-18-Pro-Stood-Up-.jpg",
+      "summary": "Xiaomi's phones also bring dual 200MP telephoto cameras and large batteries.",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1d9bd77bf6d8",
+      "title": "Xiaomi 18 Pro and 18 Pro Max go global, Vibe-Code Rear Screen Apps",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-17",
+      "time": "14:28",
+      "publishedAt": "2026-11-17T14:28:00.000Z",
+      "url": "https://www.gizmochina.com/2026/11/17/xiaomi-18-pro-and-xiaomi-18-pro-max-launch-global-rear-display-200mp-camera-specs-price/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/Xiaomi-18-Pro-Max-Design-300x200.jpg?x47967",
+      "summary": "Xiaomi‘s latest flagship phones are finally heading outside China. The Xiaomi 18 Pro and Xiaomi 18 Pro Max made their global debut today with a secondary display on the rear camer…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1899b34583b2",
+      "title": "Galaxy Z Fold 8 drops to a record low with $350 off",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-17",
+      "time": "14:22",
+      "publishedAt": "2026-11-17T14:22:15.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-record-low-deal-3736119/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Samsung-Galaxy-Z-Fold-8-5-scaled.jpg",
+      "summary": "The unlocked 256GB Galaxy Z Fold 8 is $350 off on Amazon, its lowest price yet.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ee8b98b1bebd",
+      "title": "Galaxy Z Fold 8 now costs only $1,550 thanks to the early Black Friday sale",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-17",
+      "time": "14:18",
+      "publishedAt": "2026-11-17T14:18:51.000Z",
+      "url": "https://www.gizmochina.com/2026/11/17/galaxy-z-fold-8-now-costs-only-1550-thanks-to-the-early-black-friday-sale/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/galaxy-z-fold-8-discount-300x162.png?x47967",
+      "summary": "That’s $350 off the usual $1,900-ish list price, and it’s one of the lowest straight cash prices we’ve seen for it so far. The post Galaxy Z Fold 8 now costs only $1,550 thanks to…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2301b943a7fb",
+      "title": "华为 Mate XT 2 三折叠手机获 HarmonyOS 7.0.0.115 升级，基于星闪技术新增“好心人救援”功能",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-17",
+      "time": "14:08",
+      "publishedAt": "2026-11-17T14:08:15.000Z",
+      "url": "https://www.ithome.com/1/028/536.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/37bcfa58-440d-404d-a360-89cf8c6f3632.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 11 月 17 日消息，今晚除了华为 Mate 90 系列手机推送 HarmonyOS 7.0.0.115 版本外，华为 Mate XT 2 三折叠手机也迎来了新版本升级，包体大小同样突破 10GB， 并基于星闪技术新增了“好心人救援”功能 。 IT之家附华为 Mate XT 2 三折叠手机此次更新内容如下： 图库 支持批量将 HEIF 格式图片…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-15441be3ae2e",
+      "title": "iPhone 20 Pro Screen Protectors Show Rumored Curved Design",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-17",
+      "time": "14:08",
+      "publishedAt": "2026-11-17T14:08:09.000Z",
+      "url": "https://www.macrumors.com/2026/11/17/iphone-20-pro-screen-protectors-rumored-design/",
+      "image": "https://images.macrumors.com/article-new/2026/11/iphone-20-pro-screen-protectors.jpg",
+      "summary": "Screen protector samples circulating online offer an early look at how Apple's rumored iPhone 20 Pro redesign could look, with rounded edges that could help create the appearance…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a601907a983a",
+      "title": "Major websites compromised to steal crypto from iPhone users",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-17",
+      "time": "14:06",
+      "publishedAt": "2026-11-17T14:06:04.000Z",
+      "url": "https://9to5mac.com/2026/11/17/major-websites-compromised-to-steal-crypto-from-iphone-users/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Major-websites-compromised-to-steal-crypto-from-iPhone-users.jpg?quality=82&strip=all&w=1600",
+      "summary": "A security researcher has discovered that some of the world’s most popular websites were compromised in an attempt to steal cryptocurrency from iPhone users. A total of 178 websit…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7484f861d76c",
+      "title": "受锂电池运输法规影响，德国版摩托罗拉 Signature 27 手机电池容量缩水 21%",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-17",
+      "time": "14:04",
+      "publishedAt": "2026-11-17T14:04:38.000Z",
+      "url": "https://www.ithome.com/1/028/535.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/423260fd-8bf1-44c9-82df-0a0abad83d54.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 11 月 17 日消息，摩托罗拉近日发布了 Signature 27 手机，此前有传闻称，该机在部分市场推出的版本将配备容量更小的电池。如今看来，这一消息属实。 摩托罗拉已经确认，Signature 27 德国版将采用容量更小的电池。摩托罗拉向科技媒体 Android Authority 证实了这一消息，并将原因归咎于德国当地有关锂电池运输和物流…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e0cd11fd9f48",
+      "title": "多家知名网站遭篡改，攻击者窃取加密货币并入侵 iPhone",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-17",
+      "time": "13:32",
+      "publishedAt": "2026-11-17T13:32:39.000Z",
+      "url": "https://www.ithome.com/1/028/530.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/94a53100-49ef-44e5-840e-528065d187c2.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 11 月 17 日消息，据路透社报道，全球访问量最高的一些网站遭到恶意代码攻击，涉及 Zoom、汇丰银行、益博睿（Equifax）、美国有线电视新闻网（CNN）、Salesforce 和宜家等知名企业。安全研究人员周一表示，攻击者试图借此窃取用户加密货币，并向 iPhone 植入恶意程序。 安全研究人员斯科特 · 赫尔姆（Scott Helme）…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2074374a7ea6",
+      "title": "Samsung’s Galaxy S27 redesign is ‘100%’ confirmed, leaker says – do you like it? [Poll]",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-17",
+      "time": "13:15",
+      "publishedAt": "2026-11-17T13:15:00.000Z",
+      "url": "https://9to5google.com/2026/11/17/samsung-galaxy-s27-redesign-confirmed-poll/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/galaxy-s27-pro-leak-size-comparison-onl-1.webp?w=1600",
+      "summary": "Samsung’s upcoming Galaxy S27 series is getting a redesign, with a reliable leaker saying it’s definitely happening. But, do you like it? more…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-8cfe77bc4b60",
+      "title": "华为 Mate X8 大折叠真机再曝，“亮面”内屏折痕也几乎不可见",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-17",
+      "time": "13:10",
+      "publishedAt": "2026-11-17T13:10:38.000Z",
+      "url": "https://www.ithome.com/1/028/526.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/4a92dd01-8f29-4bb5-824e-5bd96561dc66.jpg",
+      "summary": "IT之家 11 月 17 日消息，华为 Mate X8 及全场景新品发布会今日官宣定档 11 月 24 日 14:30 举行。届时，华为将发布最新一代大折叠旗舰手机。 目前，华为 Mate X8 折叠屏手机的真机上手视频已曝光。画面显示，该机内屏在采用“亮面”设计的情况下， 其折痕多角度查看也处于几乎不可见的状态 。 IT之家注意到，华为官方昨天也发布了预…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-4e3af5f3ea48",
       "title": "苹果将于 2027 年 6 月在法国受审，被控通过限制 iPhone 第三方维修实施计划性报废",
@@ -182,26 +682,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-3dbb0d6916de",
-      "title": "长鑫科技：LPDDR6 将拓展智能驾驶等场景，车规存储需求呈增长态势",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-17",
-      "time": "10:20",
-      "publishedAt": "2026-11-17T10:20:35.000Z",
-      "url": "https://www.ithome.com/1/028/457.htm",
-      "image": "",
-      "summary": "IT之家 11 月 17 日消息，长鑫科技高管今天（17 日）在 2026 年第三季度业绩说明会上介绍，目前公司车载内存产品已稳步演进至 LPDDR5X，并正加快 LPDDR6 在车载场景的应用创新与拓展 ；LPDDR6 凭借更高原生速率和双子架构设计，不仅能满足旗舰手机的需求，后续也能 拓展到智能驾驶、边缘计算及对存储能效要求高的服务器场景 ，具有广泛的…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-22c54abf800b",
       "title": "Samsung may offer Galaxy S27 at lowest prices in this country",
       "source": "SamMobile",
@@ -237,26 +717,6 @@ window.phoneRadarAuto = {
       "summary": "Google brings faster charging to the Pixel 10 series, but should you use it?",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-8da704352c11",
-      "title": "阔折叠 VS 大折叠：消息称明年安卓新机阵营也有两种形态并行",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-17",
-      "time": "09:27",
-      "publishedAt": "2026-11-17T09:27:10.000Z",
-      "url": "https://www.ithome.com/1/028/429.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/1d165661-d6eb-4b76-af9f-02f90976a468.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 11 月 17 日消息，博主 @数码闲聊站 今日发文，谈及了阔折叠手机和大折叠手机的两种形态。他透露， 明年安卓阵营也有两种形态并行 。 根据具体形态来看，大折指的是常规 1:1 比例方正大折叠手机，阔折目前主流定义是√2:1 比例形态的折叠屏手机。前者内部空间充足，电池、散热、影像等更有机会堆料，办公、多窗口生产力有一定优势；后者造型新颖，内屏…",
-      "tags": [
-        "行业",
         "爆料",
         "自动抓取"
       ]
@@ -302,26 +762,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-a4c682b8d72b",
-      "title": "竹本青：紫光展锐完成「手机直连卫星」海外实网验证",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-17",
-      "time": "07:52",
-      "publishedAt": "2026-11-17T07:52:33.000Z",
-      "url": "https://www.coolapk.com/feed/75118241",
-      "image": "http://image.coolapk.com/feed/2026/1117/15/4248714_83e93225_1942_8637_534@1068x455.jpg",
-      "summary": "【紫光展锐完成「手机直连卫星」海外实网验证】 近日，紫光展锐与智利电信运营商Entel在智利完成了一项D2C（手机直连卫星）现场测试，覆盖卫星连接建立、消息收发，以及卫星覆盖与地面覆盖之间的切换等关键环节。 测试设备分别搭载展锐T8300和T7300平台：T8300面向5G设备，T7300面向LTE设备。两款平台同步参与验证，说明展锐的D2C技术能力可以覆…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-2127997eb8b3",
       "title": "The Galaxy S27 Pro and Ultra aren’t out yet, but you can already download their wallpapers",
       "source": "Android Authority",
@@ -362,26 +802,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-f02dd043b73a",
-      "title": "竹本青：#每日一催小米18发布# 期待加强散热和更大的马达吧 看前面几代的标准版，我感觉15就已经做到近乎完全；电池足够大…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-17",
-      "time": "06:32",
-      "publishedAt": "2026-11-17T06:32:40.000Z",
-      "url": "https://www.coolapk.com/feed/75116481",
-      "image": "",
-      "summary": "#每日一催小米18发布# 期待加强散热和更大的马达吧 看前面几代的标准版，我感觉15就已经做到近乎完全；电池足够大了，性能也足够了，就差部分外围，还有受限于机身的发热控制。 去年的17我感觉算是15的plus版本，尤其是Deco变丑了，不能理解……，不过按现在爆料来讲，应该是能回到涂黑设计，那还挺好的 #HyperOS4# #小米18#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-5fcf807e69c5",
       "title": "iQOO Z12 Lite 5G’s image, key specs emerge, launching soon",
       "source": "Gizmochina",
@@ -397,26 +817,6 @@ window.phoneRadarAuto = {
       "summary": "Earlier this month, iQOO cleared a key India certification for the upcoming 16R, even as the more powerful iQOO 16, already launched in China, is still being lined up for a local…",
       "tags": [
         "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a81ac2f06ac3",
-      "title": "The Galaxy S27 Ultra could finally kill Samsung's most iconic feature",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-17",
-      "time": "03:06",
-      "publishedAt": "2026-11-17T03:06:22.000Z",
-      "url": "https://www.androidpolice.com/galaxy-s27-ultra-could-finally-kill-samsung-most-iconic-feature/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/02/galaxy-s26-ultra-back.JPG",
-      "summary": "A favorite camera may not survive the overhaul",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -502,6 +902,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-2cfa0db0d825",
+      "title": "疑似iPhone 20 Pro四微曲玻璃盖板样品曝光",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-17",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/75115478",
+      "image": "",
+      "summary": "疑似iPhone 20 Pro四微曲玻璃盖板样品曝光",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-0bda533e3b44",
       "title": "iPhone Duo新增2D人脸解锁功能",
       "source": "酷安热榜",
@@ -522,61 +942,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-c0784b9526a1",
-      "title": "30来岁第一辆车，3.9万拿下。再也不用父亲坐别人车那种欠人情那种感觉了，回老家也不用四处找车了， # #手机摄影# #年轻人的第一辆车# #数码日常#",
+      "id": "newsnow-375268f9c42d",
+      "title": "哦吼哦吼，抢在星芒独占功能之前， 90系列更新底部小艺[喷血]#鸿蒙7# #华为Mate90ProMax# #星芒OSTA#",
       "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-11-17",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/75104628",
+      "url": "https://www.coolapk.com/feed/75120895",
       "image": "",
-      "summary": "30来岁第一辆车，3.9万拿下。再也不用父亲坐别人车那种欠人情那种感觉了，回老家也不用四处找车了， # #手机摄影# #年轻人的第一辆车# #数码日常#",
+      "summary": "哦吼哦吼，抢在星芒独占功能之前， 90系列更新底部小艺[喷血]#鸿蒙7# #华为Mate90ProMax# #星芒OSTA#",
       "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-044163e0b905",
-      "title": "其实我觉得给父母买手机，真不该买传统意义上的“老年机”。",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-17",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/75092873",
-      "image": "",
-      "summary": "其实我觉得给父母买手机，真不该买传统意义上的“老年机”。",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-490e08bed20d",
-      "title": "兄弟们，帮我做选择卖掉其中一个手机，玩不过来了，特别纠结。",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-17",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/75084562",
-      "image": "",
-      "summary": "兄弟们，帮我做选择卖掉其中一个手机，玩不过来了，特别纠结。",
-      "tags": [
-        "行业",
+        "Huawei",
         "爆料",
         "NewsNow"
       ]
@@ -598,46 +978,6 @@ window.phoneRadarAuto = {
       "tags": [
         "OPPO",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-62d6d1aefabb",
-      "title": "Galaxy Z Fold 8 drops to its best price ahead of the holidays",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-16",
-      "time": "23:46",
-      "publishedAt": "2026-11-16T23:46:11.000Z",
-      "url": "https://www.androidpolice.com/galaxy-z-fold-8-drops-to-its-best-price-ahead-of-the-holidays/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/08/samsung-galaxy-z-fold-8-circle-to-search-landscape.jpg",
-      "summary": "Amazon is offering the best discount we've seen",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-bf7425a9c8a2",
-      "title": "iPhone Duo Orders Will Now Arrive Before the Holidays",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-16",
-      "time": "21:50",
-      "publishedAt": "2026-11-16T21:50:33.000Z",
-      "url": "https://www.macrumors.com/2026/11/16/iphone-duo-orders-early-arrival/",
-      "image": "https://images.macrumors.com/article-new/2026/10/Apple-iPhone-Duo-Early-Feature.jpg",
-      "summary": "Supplies of the iPhone Duo are improving, and many people will be able to get Apple's foldable before the holidays. New &zwnj;iPhone Duo&zwnj; orders placed today in the U.S. will…",
-      "tags": [
-        "iPhone",
-        "爆料",
         "自动抓取"
       ]
     },
@@ -695,46 +1035,6 @@ window.phoneRadarAuto = {
       "url": "https://9to5mac.com/2026/11/16/apple-releases-beautiful-new-iphone-wallpapers-featuring-pokemon-download-here/",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-Pokemon-wallpaper-fi.jpg?quality=82&strip=all&w=1600",
       "summary": "Apple is celebrating the 30th anniversary of Pokémon with a collection of original wallpapers for iPhone. There are four total, including one designed for iPhone Duo. more…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-72e60cb02b91",
-      "title": "Apple Celebrates Pokémon With iPhone Wallpapers and Special Gift Card",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-16",
-      "time": "19:11",
-      "publishedAt": "2026-11-16T19:11:58.000Z",
-      "url": "https://www.macrumors.com/2026/11/16/apple-pokemon-gift-card-iphone-wallpapers/",
-      "image": "https://images.macrumors.com/article-new/2026/11/Apple-Gift-Card-Special-Pokemon-Edition.jpg",
-      "summary": "Apple has announced that it is celebrating the 30th anniversary of Pokémon in a variety of ways starting today — primarily in Japan. First, Apple is selling Pokémon Special Editio…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b03b47710a49",
-      "title": "Apple Says More Than 200,000 Apps Now Optimized for iPhone Duo",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-16",
-      "time": "18:23",
-      "publishedAt": "2026-11-16T18:23:29.000Z",
-      "url": "https://www.macrumors.com/2026/11/16/apple-says-200k-apps-optimized-for-iphone-duo/",
-      "image": "https://images.macrumors.com/article-new/2026/11/Flighty-on-iPhone-Duo.jpg",
-      "summary": "Apple's marketing chief Greg Joswiak today announced that more than 200,000 apps are now optimized for the iPhone Duo, up from 100,000 earlier this month . This refers to apps bui…",
       "tags": [
         "iPhone",
         "爆料",
@@ -1059,26 +1359,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-324e3d5a3347",
-      "title": "New leak shows Galaxy S27 Pro and Ultra camera design with three lenses",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-16",
-      "time": "06:13",
-      "publishedAt": "2026-11-16T06:13:27.000Z",
-      "url": "https://www.androidauthority.com/galaxy-s27-pro-ultra-camera-design-leak-3735297/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/Samsung-Galaxy-S26-Ultras-camera-module-zoomed-in.jpg",
-      "summary": "The S27 Ultra's downgrade to three cameras seems even more likely now.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
