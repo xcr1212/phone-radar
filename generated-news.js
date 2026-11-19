@@ -1,6 +1,246 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-11-18T17:14:21.391Z",
+  "updatedAt": "2026-11-19T00:21:08.721Z",
   "news": [
+    {
+      "id": "auto-bfd196d7caed",
+      "title": "iPhone Duo arrives at Apple Store locations worldwide",
+      "source": "Apple Newsroom",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-11-19",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.apple.com/newsroom/2026/10/iphone-duo-arrives-at-apple-store-locations-worldwide/",
+      "image": "",
+      "summary": "On Friday, October 23, the highly anticipated iPhone Duo made its debut at Apple Store locations worldwide.",
+      "tags": [
+        "iPhone",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "newsnow-5d884e8be7c4",
+      "title": "iPhone 变强了，但我没有",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-11-19",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/118250",
+      "image": "",
+      "summary": "iPhone 变强了，但我没有",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-19e941aa5ad2",
+      "title": "买了之后会不会在地铁被别人认为是杂牌啊[流汗滑稽]，毕竟真正天天关注手机的人不多。[受虐滑稽]",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-19",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/75142846",
+      "image": "",
+      "summary": "买了之后会不会在地铁被别人认为是杂牌啊[流汗滑稽]，毕竟真正天天关注手机的人不多。[受虐滑稽]",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-aadf6b984dca",
+      "title": "各位机油，还记得第一次使用旗舰超大杯长焦拍照的震撼吗？[受虐滑稽]",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-19",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/75137685",
+      "image": "",
+      "summary": "各位机油，还记得第一次使用旗舰超大杯长焦拍照的震撼吗？[受虐滑稽]",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-437623f09df3",
+      "title": "#徕卡一瞬##谷歌相机##手机摄影#",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-19",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/75132776",
+      "image": "",
+      "summary": "#徕卡一瞬##谷歌相机##手机摄影#",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-3026fb6a5da7",
+      "title": "老外被中国刷手机丝滑到了",
+      "source": "微博热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-11-19",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%80%81%E5%A4%96%E8%A2%AB%E4%B8%AD%E5%9B%BD%E5%88%B7%E6%89%8B%E6%9C%BA%E4%B8%9D%E6%BB%91%E5%88%B0%E4%BA%86%23&t=31&band_rank=19&Refer=top",
+      "image": "",
+      "summary": "老外被中国刷手机丝滑到了",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "auto-28f59b707083",
+      "title": "Omdia：2026 年 Q3 中东智能手机出货量同比下降 29%，创两年来最大跌幅，入门机型加速萎缩",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-18",
+      "time": "23:12",
+      "publishedAt": "2026-11-18T23:12:12.000Z",
+      "url": "https://www.ithome.com/1/029/136.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/9774953a-41c6-4816-b224-38dbb0a23213.jpg",
+      "summary": "IT之家 11 月 19 日消息，11 月 18 日，根据 Omdia 最新研究，2026 年第三季度，中东地区（不包括土耳其）智能手机出货量同比下降 29%，至 1,070 万部，创两年来最大跌幅。 IT之家从报告获悉， 零部件成本上涨、入门级设备供应有限以及零售需求疲软 是导致市场下滑的主要因素。此外，夏季旅游带来的季节性需求放缓、地缘政治不确定性以及…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f50b5ea124af",
+      "title": "Absolute Batman can save DC Studios",
+      "source": "The Verge",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-18",
+      "time": "22:27",
+      "publishedAt": "2026-11-18T22:27:32.000Z",
+      "url": "https://www.theverge.com/entertainment/1035722/absolute-batman-can-save-dc-studios",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/PowHeader.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "With James Gunn and Peter Safran out as the co-heads of DC Studios following Skydance's acquisition of Warner Bros. Discovery, it's unclear what will become of the cinematic unive…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-181e5329cd5f",
+      "title": "The Galaxy Z Fold 8 series just got a special edition that celebrates GTA VI",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-18",
+      "time": "21:17",
+      "publishedAt": "2026-11-18T21:17:06.000Z",
+      "url": "https://www.androidauthority.com/galaxy-z-fold-8-gta-vi-edition-3736869/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/11/Galaxy-Z-Fold-8-Ultra-Ocean-Drive-edition-9.jpg",
+      "summary": "The Galaxy Z Fold 8 just got a GTA VI makeover.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9b3f14f5bf86",
+      "title": "Apple Card Offers New Users Double Daily Cash for a Year",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-18",
+      "time": "19:47",
+      "publishedAt": "2026-11-18T19:47:49.000Z",
+      "url": "https://www.macrumors.com/2026/11/18/apple-card-double-daily-cash/",
+      "image": "https://images.macrumors.com/article-new/2023/06/Apple-Card-Balance.jpeg",
+      "summary": "Apple is aiming to get people to sign up for the Apple Card over the holidays by offering a 2X Daily Cash bonus for new users. iPhone users who sign up for an Apple Card by Decemb…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a20e2c52bf49",
+      "title": "New leaks detail next year’s iPhone Pro redesign and iPhone Duo 2",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-18",
+      "time": "19:47",
+      "publishedAt": "2026-11-18T19:47:06.000Z",
+      "url": "https://9to5mac.com/2026/11/18/new-leaks-detail-next-years-iphone-pro-redesign-and-iphone-duo-2/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-19-pro-20-anniversary-max.jpg?quality=82&strip=all&w=1600",
+      "summary": "Next year’s fall iPhone lineup is expected to include 20th anniversary redesigned Pro models and an iPhone Duo 2. Here’s what to expect per the latest leaks. more…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c92860529bae",
+      "title": "Vivo X500 Pro camera review: Battle of the small(er) phones vs Pixel 11 Pro",
+      "source": "9to5Google",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-18",
+      "time": "17:48",
+      "publishedAt": "2026-11-18T17:48:17.000Z",
+      "url": "https://9to5google.com/2026/11/18/vivo-x500-and-vivo-x500-pro-camera-review/",
+      "image": "",
+      "summary": "The compact Vivo X500 Pro has some camera downgrades compared to the Pro Max, so are you better off saving money and getting the base Vivo X500 instead? more…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-f299f5c45cd5",
       "title": "iPhone 20 Pro Rumored to Return to Titanium",
@@ -17,26 +257,6 @@ window.phoneRadarAuto = {
       "summary": "Apple's rumored \"iPhone 20 Pro\" could return to titanium as part of a more rounded design, according to the leaker known as \" Fixed Focus Digital .\" In a new post on Weibo , the l…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-bf5756a32851",
-      "title": "Caviar launches GTA VI-inspired luxury iPhones, Galaxy Z Fold 8 Ultra and Ray-Ban Meta glasses",
-      "source": "Gizmochina",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-18",
-      "time": "16:04",
-      "publishedAt": "2026-11-18T16:04:17.000Z",
-      "url": "https://www.gizmochina.com/2026/11/18/caviar-most-wanted-gta-vi-collection-iphone-galaxy-fold-meta-glasses-launched/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/caviar-most-wanted-gta-vi-collection-7-300x176.jpg?x47967",
-      "summary": "Caviar, the customization brand known for modifying standard consumer electronics with precious metals and unusual materials, has released a new collection of devices ahead of the…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -62,26 +282,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-96abd8e05cb2",
-      "title": "LISCHYNA Gives the iPhone Duo a Luxury GTA VI Makeover With Gold Reliefs and Gemstones",
-      "source": "Gizmochina",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-18",
-      "time": "14:34",
-      "publishedAt": "2026-11-18T14:34:35.000Z",
-      "url": "https://www.gizmochina.com/2026/11/18/lischyna-gta-vi-edition/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/image-76-220x300.png?x47967",
-      "summary": "Ukrainian luxury smartphone brand LISCHYNA has introduced the iPhone Duo GTA VI Edition, a custom-designed version of the foldable iPhone Duo inspired by Grand Theft Auto VI. The…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-dbb9324a2502",
       "title": "iPhone Duo 2 Likely to Retain Touch ID as Face ID Remains Uncertain",
       "source": "MacRumors",
@@ -97,26 +297,6 @@ window.phoneRadarAuto = {
       "summary": "Apple's second-generation iPhone Duo will retain its existing display sizes and side-mounted fingerprint sensor, according to the leaker known as \" Digital Chat Station .\" In a ne…",
       "tags": [
         "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5938017b2bcd",
-      "title": "Galaxy Z Fold 8 series and Flip 8 get second November update",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-18",
-      "time": "13:57",
-      "publishedAt": "2026-11-18T13:57:02.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-z-fold-8-series-and-flip-8-get-second-november-update/",
-      "image": "",
-      "summary": "Samsung usually releases one software update for most of its smartphones every month to deliver the latest security patch. That update for the Galaxy Z Fold 8 series and the Galax…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -202,26 +382,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-c1a7ef02fa7e",
-      "title": "Motorola Edge 70 Neo set to launch next week, here’s everything confirmed",
-      "source": "Gizmochina",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-18",
-      "time": "10:58",
-      "publishedAt": "2026-11-18T10:58:19.000Z",
-      "url": "https://www.gizmochina.com/2026/11/18/motorola-edge-70-neo-launch-date/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/image-71-300x209.png?x47967",
-      "summary": "Motorola recently started teasing the arrival of a Neo-branded phone on Flipkart, following earlier Geekbench sightings and leaked design renders. The page is now updated to revea…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-0466a41a3ff7",
       "title": "竹本青：忍俊不禁的是，我这个帖子刚才也被系统吃掉了，专门去找管理员沟通才过的审，审核机制真的是拉完了 // @竹本青 :…",
       "source": "竹本青",
@@ -235,26 +395,6 @@ window.phoneRadarAuto = {
       "url": "https://www.coolapk.com/feed/75141503",
       "image": "",
       "summary": "忍俊不禁的是，我这个帖子刚才也被系统吃掉了，专门去找管理员沟通才过的审，审核机制真的是拉完了 // @竹本青 : 好帖子，甚至还有一个评分体系总结，这么用心的帖子流量这么低，有点儿唏嘘，对于其他型号，可参考性也很强，毕竟材质都是相同，推荐一下 #OPPOFindX9Pro# #ColorOS17#",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-57d23e764606",
-      "title": "竹本青：好帖子，甚至还有一个评分体系总结，这么用心的帖子流量这么低，有点儿唏嘘，对于其他型号，可参考性也很强，毕竟材质都是…",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-18",
-      "time": "09:16",
-      "publishedAt": "2026-11-18T09:16:38.000Z",
-      "url": "https://www.coolapk.com/feed/75141209",
-      "image": "",
-      "summary": "好帖子，甚至还有一个评分体系总结，这么用心的帖子流量这么低，有点儿唏嘘，对于其他型号，可参考性也很强，毕竟材质都是相同，推荐一下 #OPPOFindX9Pro# #ColorOS17#",
       "tags": [
         "OPPO",
         "爆料",
@@ -299,566 +439,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-e8c30ec95a7c",
-      "title": "Samsung’s bezel-less phone display could arrive before Apple’s 20th anniversary iPhone",
-      "source": "Gizmochina",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-18",
-      "time": "05:35",
-      "publishedAt": "2026-11-18T05:35:10.000Z",
-      "url": "https://www.gizmochina.com/2026/11/18/samsung-bezel-less-display-before-apple-20th-anniversary-iphone/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-galaxy-s26-ultra-1200x675-1-300x169.jpg?x47967",
-      "summary": "Samsung could be preparing a major design change for its future Galaxy smartphones as the industry looks towards an almost bezel-free display. Apple is also reportedly exploring a…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-10528c3c389d",
-      "title": "OnePlus Turbo 7 Pro certified with 100W charging ahead of launch",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-18",
-      "time": "05:23",
-      "publishedAt": "2026-11-18T05:23:22.000Z",
-      "url": "https://www.gizmochina.com/2026/11/18/oneplus-turbo-7-pro-certified-with-100w-charging-ahead-of-launch/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-1-300x169.jpg?x47967",
-      "summary": "The upcoming OnePlus Turbo 7 Pro has passed China’s 3C certification with the model number PYP110, and it all but confirms 100W wired charging. The certification follows an earlie…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-bfd196d7caed",
-      "title": "iPhone Duo arrives at Apple Store locations worldwide",
-      "source": "Apple Newsroom",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "官方",
-      "trust": "官方确认",
-      "date": "2026-11-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.apple.com/newsroom/2026/10/iphone-duo-arrives-at-apple-store-locations-worldwide/",
-      "image": "",
-      "summary": "On Friday, October 23, the highly anticipated iPhone Duo made its debut at Apple Store locations worldwide.",
-      "tags": [
-        "iPhone",
-        "官方",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "newsnow-e61325d28e17",
-      "title": "iPhone 变强了，但我没有",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-11-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/118250",
-      "image": "",
-      "summary": "iPhone 变强了，但我没有",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-5405c70261af",
-      "title": "疑似iPhone 20 Pro四微曲玻璃盖板样品曝光",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/75115478",
-      "image": "",
-      "summary": "疑似iPhone 20 Pro四微曲玻璃盖板样品曝光",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-3e9a08bd1f72",
-      "title": "#徕卡一瞬##谷歌相机##手机摄影#",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/75132776",
-      "image": "",
-      "summary": "#徕卡一瞬##谷歌相机##手机摄影#",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-4db34fcb6e0f",
-      "title": "老外被中国刷手机丝滑到了",
-      "source": "微博热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-11-18",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%80%81%E5%A4%96%E8%A2%AB%E4%B8%AD%E5%9B%BD%E5%88%B7%E6%89%8B%E6%9C%BA%E4%B8%9D%E6%BB%91%E5%88%B0%E4%BA%86%23&t=31&band_rank=16&Refer=top",
-      "image": "",
-      "summary": "老外被中国刷手机丝滑到了",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-3a3093d41bca",
-      "title": "Report: iPhone set to gain market share in 2027 amid industry-wide slump",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-17",
-      "time": "22:07",
-      "publishedAt": "2026-11-17T22:07:22.000Z",
-      "url": "https://9to5mac.com/2026/11/17/report-iphone-set-to-gain-market-share-in-2027-amid-industry-wide-slump/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-color-lineup-official.jpg?quality=82&strip=all&w=1600",
-      "summary": "Apple could see iPhone shipments rise 7% next year, giving it a 26% share of global smartphone shipments, according to a new report. Here are the details. more…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9cc6220261c8",
-      "title": "Why iPhone Duo wasn’t for me (but might be for you)",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-17",
-      "time": "18:48",
-      "publishedAt": "2026-11-17T18:48:36.000Z",
-      "url": "https://9to5mac.com/2026/11/17/why-iphone-duo-wasnt-for-me-but-might-be-for-you/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-one-handed-front-display.jpg?quality=82&strip=all&w=1600",
-      "summary": "I’ve had the iPhone Duo for nearly two weeks now, and have officially decided to return it. Here are the three main reasons why the Duo didn’t work out for me, but might for you.…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b44e86b3e4f1",
-      "title": "Samsung supplier leak suggests mystery ‘bezel-less’ Galaxy 27 display",
-      "source": "9to5Google",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-17",
-      "time": "16:36",
-      "publishedAt": "2026-11-17T16:36:35.000Z",
-      "url": "https://9to5google.com/2026/11/17/leak-rumors-bezel-less-galaxy-s27-display/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/Welcome-to-One-UI-9.0-on-Galaxy-S26-device-1.jpg?quality=82&strip=all&w=1600",
-      "summary": "There are rumors of a Samsung phone with an “extremely bezel-less” display coming from one of the company’s suppliers, and it might be on one of the next Galaxy S27 models. more…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-8943492080cb",
-      "title": "The Xiaomi 18 Pro debuts globally with sub-mm bezels, privacy display, rear display, and 200MP Leica cameras",
-      "source": "9to5Google",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-17",
-      "time": "15:35",
-      "publishedAt": "2026-11-17T15:35:00.000Z",
-      "url": "https://9to5google.com/2026/11/17/the-xiaomi-18-pro-debuts-globally-with-sub-mm-bezels-privacy-display-4000-nit-back-display-and-dual-200mp-leica-cameras/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/xiaomi-18-pro-series.jpg?quality=82&strip=all&w=1600",
-      "summary": "Xiaomi is pushing the limits of modern smartphone specs with a killer design, flush camera lenses, and a next-gen Snapdragon SoC. more…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b43d708e94ba",
-      "title": "Is Apple cooked? The Xiaomi 18 Pro is coming for iPhone with the fastest Android chipset and a built-in back display",
-      "source": "Android Central",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-11-17",
-      "time": "15:00",
-      "publishedAt": "2026-11-17T15:00:58.000Z",
-      "url": "https://www.androidcentral.com/phones/xiaomi/is-apple-cooked-the-xiaomi-18-pro-is-coming-for-iphone-with-the-fastest-android-chipset-and-a-built-in-back-display",
-      "image": "https://cdn.mos.cms.futurecdn.net/xZEX2GNB29YiUtcbcVXKmW-1920-80.jpg",
-      "summary": "The Xiaomi 18 Pro and Pro Max are here, with both models sporting a rear display.",
-      "tags": [
-        "Xiaomi",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5691dec8240e",
-      "title": "Xiaomi 18 Pro series goes global with privacy displays and rear screens",
-      "source": "Android Authority",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-17",
-      "time": "14:30",
-      "publishedAt": "2026-11-17T14:30:23.000Z",
-      "url": "https://www.androidauthority.com/xiaomi-18-pro-series-global-launch-3735934/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/11/Xiaomi-18-Pro-Stood-Up-.jpg",
-      "summary": "Xiaomi's phones also bring dual 200MP telephoto cameras and large batteries.",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1d9bd77bf6d8",
-      "title": "Xiaomi 18 Pro and 18 Pro Max go global, Vibe-Code Rear Screen Apps",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-17",
-      "time": "14:28",
-      "publishedAt": "2026-11-17T14:28:00.000Z",
-      "url": "https://www.gizmochina.com/2026/11/17/xiaomi-18-pro-and-xiaomi-18-pro-max-launch-global-rear-display-200mp-camera-specs-price/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/Xiaomi-18-Pro-Max-Design-300x200.jpg?x47967",
-      "summary": "Xiaomi‘s latest flagship phones are finally heading outside China. The Xiaomi 18 Pro and Xiaomi 18 Pro Max made their global debut today with a secondary display on the rear camer…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-1899b34583b2",
-      "title": "Galaxy Z Fold 8 drops to a record low with $350 off",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-17",
-      "time": "14:22",
-      "publishedAt": "2026-11-17T14:22:15.000Z",
-      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-record-low-deal-3736119/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Samsung-Galaxy-Z-Fold-8-5-scaled.jpg",
-      "summary": "The unlocked 256GB Galaxy Z Fold 8 is $350 off on Amazon, its lowest price yet.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a601907a983a",
-      "title": "Major websites compromised to steal crypto from iPhone users",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-17",
-      "time": "14:06",
-      "publishedAt": "2026-11-17T14:06:04.000Z",
-      "url": "https://9to5mac.com/2026/11/17/major-websites-compromised-to-steal-crypto-from-iphone-users/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Major-websites-compromised-to-steal-crypto-from-iPhone-users.jpg?quality=82&strip=all&w=1600",
-      "summary": "A security researcher has discovered that some of the world’s most popular websites were compromised in an attempt to steal cryptocurrency from iPhone users. A total of 178 websit…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2074374a7ea6",
-      "title": "Samsung’s Galaxy S27 redesign is ‘100%’ confirmed, leaker says – do you like it? [Poll]",
-      "source": "9to5Google",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-17",
-      "time": "13:15",
-      "publishedAt": "2026-11-17T13:15:00.000Z",
-      "url": "https://9to5google.com/2026/11/17/samsung-galaxy-s27-redesign-confirmed-poll/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/galaxy-s27-pro-leak-size-comparison-onl-1.webp?w=1600",
-      "summary": "Samsung’s upcoming Galaxy S27 series is getting a redesign, with a reliable leaker saying it’s definitely happening. But, do you like it? more…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-29280c1b23da",
-      "title": "Google’s new ‘Fast Switch’ feature leaks, lets you use one number on two Android phones",
-      "source": "9to5Google",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-17",
-      "time": "12:30",
-      "publishedAt": "2026-11-17T12:30:00.000Z",
-      "url": "https://9to5google.com/2026/11/17/google-android-fast-switch-sim-iphone-handoff/",
-      "image": "",
-      "summary": "Similar to a recent iPhone feature, Google appears to be working on “Fast Switch” as a way to share one SIM and phone number on two Android phones at once, and it sounds pretty co…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-eafd10b47e0b",
-      "title": "Apple’s variable aperture might have inspired Samsung to bring it back on the Galaxy S28",
-      "source": "Gizmochina",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-17",
-      "time": "12:20",
-      "publishedAt": "2026-11-17T12:20:47.000Z",
-      "url": "https://www.gizmochina.com/2026/11/17/apples-variable-aperture-might-have-inspired-samsung-to-bring-it-back-on-the-galaxy-s28/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/apple-s-variable-aperture-might-have-inspired-samsung-to-bring-it-back-on-the-300x169.jpg?x47967",
-      "summary": "According to leaker Yogesh Brar, variable aperture “could be making a comeback” with the Galaxy S28 Pro and Galaxy S28 Ultra. The post Apple’s variable aperture might have inspire…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-824697ed3061",
-      "title": "Apple just rolled out iPhone Duo face unlock — but the Google Pixel 11 can still do so much more",
-      "source": "Android Central",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-11-17",
-      "time": "12:11",
-      "publishedAt": "2026-11-17T12:11:13.000Z",
-      "url": "https://www.androidcentral.com/phones/apple-iphone/apple-just-rolled-out-iphone-duo-face-unlock-but-the-google-pixel-11-can-still-do-so-much-more",
-      "image": "https://cdn.mos.cms.futurecdn.net/ZoxGhiPWLGna8nTYAPPB6j-1920-80.jpg",
-      "summary": "The iPhone duo finally gets camera-based facial recognition, but Google Pixel's is still more powerful.",
-      "tags": [
-        "Pixel",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0b87758c178e",
-      "title": "Redmi Turbo 6 series phone bags an important certification",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-17",
-      "time": "11:55",
-      "publishedAt": "2026-11-17T11:55:26.000Z",
-      "url": "https://www.gizmochina.com/2026/11/17/redmi-turbo-6-series-phone-bags-an-important-certification/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-26-300x169.jpg?x47967",
-      "summary": "Redmi recently launched the K100 series phones in China, including the K100, K100 Pro, and K100 Pro Max. The brand is likely to shift its focus to the Turbo 6 series, a set of mid…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-408767e5d572",
-      "title": "Xiaomi 18 appears in real, Xiaomi CEO flaunts it at APEC",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-17",
-      "time": "11:48",
-      "publishedAt": "2026-11-17T11:48:24.000Z",
-      "url": "https://www.gizmochina.com/2026/11/17/xiaomi-18-appears-in-real-ceo-flaunts-it-at-apec/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-24-300x169.jpg?x47967",
-      "summary": "Xiaomi has had a busy stretch with its numbered flagship series, first putting the standard Xiaomi 18 up for blind orders in China and then lining up the Xiaomi 18 Pro models for…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-81899ce051c4",
-      "title": "Motorola Edge 70 Neo India launch soon, official page hints launch date",
-      "source": "Gizmochina",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-17",
-      "time": "10:29",
-      "publishedAt": "2026-11-17T10:29:18.000Z",
-      "url": "https://www.gizmochina.com/2026/11/17/motorola-edge-70-neo-india-launch-soon-official-page-hints-date/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-22-300x169.jpg?x47967",
-      "summary": "Motorola already has several Edge 70 models in India, including the Edge 70, Edge 70 Fusion, Edge 70 Pro, Edge 70 Pro+, and Edge 70 Max. Recently, the brand unveiled the Signature…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-156fc9d14caa",
-      "title": "Here's your first look at the Galaxy S27 Pro and S27 Ultra wallpapers",
-      "source": "Android Central",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-11-17",
-      "time": "09:06",
-      "publishedAt": "2026-11-17T09:06:00.000Z",
-      "url": "https://www.androidcentral.com/phones/samsung-galaxy/s27-ultra-and-s27-pro-wallpapers",
-      "image": "https://cdn.mos.cms.futurecdn.net/ygMKG9aBZikNUtH6YX99bf-1920-80.jpg",
-      "summary": "You can now download Samsung's leaked Galaxy S27 Ultra and Galaxy S27 Pro wallpapers.",
-      "tags": [
-        "Samsung",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-adb8445b1ee0",
-      "title": "社区速递 166｜柯尼卡胶片机、iPhone Duo 体验与假期省钱实操大赏",
-      "source": "少数派",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-11-17",
-      "time": "09:02",
-      "publishedAt": "2026-11-17T09:02:00.000Z",
-      "url": "https://sspai.com/post/119184",
-      "image": "",
-      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...",
-      "tags": [
-        "iPhone",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5fcf807e69c5",
-      "title": "iQOO Z12 Lite 5G’s image, key specs emerge, launching soon",
-      "source": "Gizmochina",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-17",
-      "time": "06:14",
-      "publishedAt": "2026-11-17T06:14:26.000Z",
-      "url": "https://www.gizmochina.com/2026/11/17/iqoo-z12-lite-5g-google-play-console-listing/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/iQOO-Z12-Lite-5G-Google-Play-Console-listing-300x169.png?x47967",
-      "summary": "Earlier this month, iQOO cleared a key India certification for the upcoming 16R, even as the more powerful iQOO 16, already launched in China, is still being lined up for a local…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-4017ab16830b",
-      "title": "除了人脸解锁，iPhone Duo 2 还值得哪些升级？",
-      "source": "爱范儿",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-11-17",
-      "time": "04:00",
-      "publishedAt": "2026-11-17T04:00:26.000Z",
-      "url": "https://www.ifanr.com/1690009?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "image": "https://s3.ifanr.com/wp-content/uploads/2026/11/banner16t9-3-scaled.jpg",
-      "summary": "那我缺的实体 SIM 卡这一块谁给我补啊",
-      "tags": [
-        "iPhone",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-6cbb4dc1dbd3",
-      "title": "I tested iPhone Duo, Galaxy Z Fold 8, and Xiaomi 18 Fold cameras in Dubai – and the zoom gap is unreal",
-      "source": "Android Central",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-11-17",
-      "time": "01:45",
-      "publishedAt": "2026-11-17T01:45:05.000Z",
-      "url": "https://www.androidcentral.com/phones/i-tested-iphone-duo-galaxy-z-fold-8-and-xiaomi-18-fold-cameras-in-dubai-and-the-zoom-gap-is-unreal",
-      "image": "https://cdn.mos.cms.futurecdn.net/6b5mTmV6roSJwFjSQf4R2g-1920-80.jpg",
-      "summary": "Apple’s first foldable and Samsung’s redesigned passport-style Z Fold 8 both skip a telephoto lens – and putting them head-to-head against Xiaomi’s Leica-tuned periscope across Du…",
-      "tags": [
-        "Samsung",
-        "评测",
-        "自动抓取"
       ]
     }
   ]
