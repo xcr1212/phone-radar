@@ -1,14 +1,14 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-11-20T12:52:09.845Z",
+  "updatedAt": "2026-11-20T21:48:15.696Z",
   "issueDate": "2026-11-20",
   "issue": "VOL.261120",
   "title": "手机情报日报",
-  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 4 条 iPhone 相关、1 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
     "total": 11,
-    "iphone": 4,
+    "iphone": 5,
     "leaks": 8,
-    "official": 1,
+    "official": 0,
     "specs": 0
   },
   "sections": [
@@ -18,47 +18,71 @@ window.phoneRadarDaily = {
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
         {
-          "id": "newsnow-78d03af02c80",
-          "title": "苹果20周年iPhone最新爆料：四曲面方案已打样3年",
+          "id": "auto-167af1616e5a",
+          "title": "iPhone 18 机模 / 配色信息曝光",
           "originalTitle": "",
-          "source": "酷安热榜",
+          "source": "MacRumors",
           "brand": "iPhone",
           "type": "爆料",
-          "trust": "高关注爆料源",
+          "trust": "媒体汇总",
           "date": "2026-11-20",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/75135043",
-          "image": "",
+          "time": "13:31",
+          "publishedAt": "2026-11-20T13:31:19.000Z",
+          "url": "https://www.macrumors.com/2026/11/20/iphone-air-2-and-iphone-18-dummy-models/",
+          "image": "https://images.macrumors.com/article-new/2026/11/iphone-air-2-and-iphone-18-dummy-models.jpg",
           "verdict": "先看",
-          "takeaway": "苹果20周年iPhone最新爆料：四曲面方案已打样3年",
-          "detail": "苹果20周年iPhone最新爆料：四曲面方案已打样3年",
+          "takeaway": "iPhone 18 机模 / 配色信息曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
+          "detail": "iPhone 18 机模 / 配色信息曝光。来源提到未发布机型的机模/配色图，适合先判断外观方向、颜色变化和机身轮廓，但最终量产版本仍可能调整。",
           "keyPoints": [
-            "爆料来源"
+            "外观 / 配色 / 尺寸",
+            "影像硬件"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-2b68703fe14b",
-          "title": "华为星芒 OSTA O1 Pro 手机外观亮相：16:9.5 比例 1.5K LTPS 直屏、屏占比 96.1%",
+          "id": "auto-c74fd55d945b",
+          "title": "iPhone 机模 / 配色信息曝光",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Huawei",
+          "source": "9to5Mac",
+          "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-11-20",
-          "time": "08:26",
-          "publishedAt": "2026-11-20T08:26:28.000Z",
-          "url": "https://www.ithome.com/1/030/082.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/f03a97db-0588-412b-a077-db54b2f9cdf5.png",
+          "time": "12:56",
+          "publishedAt": "2026-11-20T12:56:31.000Z",
+          "url": "https://9to5mac.com/2026/11/20/iphone-air-2-dual-camera-system/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-air-2-camera-concept-blue.jpg?quality=82&strip=all&w=1600",
           "verdict": "先看",
-          "takeaway": "IT之家 11 月 20 日消息，在目前正在进行的华为鸿蒙智行享界 V8 及星芒品牌发布会中，华为星芒 OSTA O1 Pro 正式亮相。 官方强调，该机采用了具有辨识度的阔直板设计，厚度 6.68mm，重量约 200g，提供星芒紫、星云白、星空黑三款配色可选。 该机配备一块 6.39 英寸 16:9.5 比例 1.5K LTPS 直屏，屏占比 96.1%…",
-          "detail": "IT之家 11 月 20 日消息，在目前正在进行的华为鸿蒙智行享界 V8 及星芒品牌发布会中，华为星芒 OSTA O1 Pro 正式亮相。 官方强调，该机采用了具有辨识度的阔直板设计，厚度 6.68mm，重量约 200g，提供星芒紫、星云白、星空黑三款配色可选。 该机配备一块 6.39 英寸 16:9.5 比例 1.5K LTPS 直屏，屏占比 96.1%…",
+          "takeaway": "iPhone 机模 / 配色信息曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
+          "detail": "iPhone 机模 / 配色信息曝光。来源提到未发布机型的机模/配色图，适合先判断外观方向、颜色变化和机身轮廓，但最终量产版本仍可能调整。",
           "keyPoints": [
             "外观 / 配色 / 尺寸",
-            "屏幕形态"
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-cba3d7f4da26",
+          "title": "iPhone 相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-11-20",
+          "time": "17:21",
+          "publishedAt": "2026-11-20T17:21:59.000Z",
+          "url": "https://www.macrumors.com/2026/11/20/the-macrumors-show-next-for-iphone-duo/",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -109,30 +133,6 @@ window.phoneRadarDaily = {
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-2fcb88ec0669",
-          "title": "消息称华为星芒 OSTA O1 Pro 阔直板手机首发价 5499 元起",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-11-20",
-          "time": "08:14",
-          "publishedAt": "2026-11-20T08:14:19.000Z",
-          "url": "https://www.ithome.com/1/030/059.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/e0cfab42-5f4e-49bb-96fa-8ea8c94b1b9a.jpg",
-          "verdict": "先看",
-          "takeaway": "IT之家 11 月 20 日消息，博主 @ 数码闲聊站发文，透露华为星芒 OSTA O1 Pro 首发价 5499 元起，IT之家整理价格信息如下： 12GB RAM+256GB 存储空间：5699 元，首发价 5499 元 12GB RAM+512GB 存储空间：6699 元，首发价 6499 元 16GB RAM+512GB 存储空间：7499 元，首…",
-          "detail": "IT之家 11 月 20 日消息，博主 @ 数码闲聊站发文，透露华为星芒 OSTA O1 Pro 首发价 5499 元起，IT之家整理价格信息如下： 12GB RAM+256GB 存储空间：5699 元，首发价 5499 元 12GB RAM+512GB 存储空间：6699 元，首发价 6499 元 16GB RAM+512GB 存储空间：7499 元，首…",
-          "keyPoints": [
-            "成本 / 价格",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -212,73 +212,36 @@ window.phoneRadarDaily = {
       ]
     },
     {
-      "id": "iphone",
-      "title": "iPhone 重点",
-      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
-      "items": [
-        {
-          "id": "auto-bfd196d7caed",
-          "title": "iPhone 相关消息",
-          "originalTitle": "",
-          "source": "Apple Newsroom",
-          "brand": "iPhone",
-          "type": "官方",
-          "trust": "官方确认",
-          "date": "2026-11-20",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.apple.com/newsroom/2026/10/iphone-duo-arrives-at-apple-store-locations-worldwide/",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
-          "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
-          "keyPoints": [
-            "官方"
-          ],
-          "confidence": "官方内容，可直接作为已确认信息记录。",
-          "impact": "可信度高，但如果不是配置/价格消息，只需要扫一眼。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "launch",
-      "title": "新机与官方发布",
-      "hint": "能直接更新到参数库。",
-      "items": [
-        {
-          "id": "coolapk-user-1c00f3a8e0ba",
-          "title": "竹本青：余承东纠正：开车不能睡觉，大家一定要注意安全",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-11-20",
-          "time": "09:20",
-          "publishedAt": "2026-11-20T09:20:46.000Z",
-          "url": "https://www.coolapk.com/feed/75178909",
-          "image": "http://image.coolapk.com/feed/2026/1120/17/4248714_dc8ab563_6445_4624_289@1271x371.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【华为余承东纠正：开车不能睡觉，大家一定要注意安全】 11月20日，华为余承东发文，纠正自己发言：“享界V8现在给大家用的是L2辅助驾驶，L3的硬件能力已具备，但还没有开放。大家用辅助驾驶要专心开车、按要求握好方向盘。现在还是L2时代，大家一定要注意安全，开车不能睡觉。” 今天早些时候，在享界V8及星芒品牌发布会上，他曾发言：“L3自动驾驶来临以后，开车就…",
-          "detail": "【华为余承东纠正：开车不能睡觉，大家一定要注意安全】 11月20日，华为余承东发文，纠正自己发言：“享界V8现在给大家用的是L2辅助驾驶，L3的硬件能力已具备，但还没有开放。大家用辅助驾驶要专心开车、按要求握好方向盘。现在还是L2时代，大家一定要注意安全，开车不能睡觉。” 今天早些时候，在享界V8及星芒品牌发布会上，他曾发言：“L3自动驾驶来临以后，开车就…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
       "id": "market",
       "title": "行业趋势",
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "newsnow-d36400cd0b76",
-          "title": "华为售后堪称手机界标杆，无锡的华为售后堪称华为的标杆。此前因Mate80ProMax内屏进灰，发现之后去申请换货，已超15天换货期。售后没有同配置512G库存，提出建议换风驰版，被我拒绝后，直接丢了台标准版1T的过来，还是我最喜欢的银色。[牛牛点赞][牛牛点赞][牛牛点赞][牛牛点赞][牛牛点赞][牛牛点赞]",
+          "id": "newsnow-f041be6996e2",
+          "title": "8E还能在用几年 能不能成为我使用最最久的手机机[受虐滑稽](最长一台手机没活过两年) #小米15# #红米k100# #小米15Ultra#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-11-20",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/75182197",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "8E还能在用几年 能不能成为我使用最最久的手机机[受虐滑稽](最长一台手机没活过两年) #小米15# #红米k100# #小米15Ultra#",
+          "detail": "8E还能在用几年 能不能成为我使用最最久的手机机[受虐滑稽](最长一台手机没活过两年) #小米15# #红米k100# #小米15Ultra#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-21c0e81505f1",
+          "title": "不知道这个板块哪里来的那么多魔怔人，没公布价格前一堆人4999，3999，甚至2999的都来了，这都不叫许愿，许愿还有可能实现，华为的手机就单金属边框就可以断定这手机不低于5000，现在一堆人在那里刷1分给我看乐了，不知道哪来的那么大怨气，pxv机主还没说话一群妖魔先高潮",
           "originalTitle": "",
           "source": "酷安热榜",
           "brand": "Huawei",
@@ -287,17 +250,40 @@ window.phoneRadarDaily = {
           "date": "2026-11-20",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/75121119",
+          "url": "https://www.coolapk.com/feed/75186476",
           "image": "",
           "verdict": "先看",
-          "takeaway": "华为售后堪称手机界标杆，无锡的华为售后堪称华为的标杆。此前因Mate80ProMax内屏进灰，发现之后去申请换货，已超15天换货期。售后没有同配置512G库存，提出建议换风驰版，被我拒绝后，直接丢了台标准版1T的过来，还是我最喜欢的银色。[牛牛点赞][牛牛点赞][牛牛点赞][牛牛点赞][牛牛点赞][牛牛点赞]",
-          "detail": "华为售后堪称手机界标杆，无锡的华为售后堪称华为的标杆。此前因Mate80ProMax内屏进灰，发现之后去申请换货，已超15天换货期。售后没有同配置512G库存，提出建议换风驰版，被我拒绝后，直接丢了台标准版1T的过来，还是我最喜欢的银色。[牛牛点赞][牛牛点赞][牛牛点赞][牛牛点赞][牛牛点赞][牛牛点赞]",
+          "takeaway": "不知道这个板块哪里来的那么多魔怔人，没公布价格前一堆人4999，3999，甚至2999的都来了，这都不叫许愿，许愿还有可能实现，华为的手机就单金属边框就可以断定这手机不低于5000，现在一堆人在那里刷1分给我看乐了，不知道哪来的那么大怨气，pxv机主还没说话一群妖魔先高潮",
+          "detail": "不知道这个板块哪里来的那么多魔怔人，没公布价格前一堆人4999，3999，甚至2999的都来了，这都不叫许愿，许愿还有可能实现，华为的手机就单金属边框就可以断定这手机不低于5000，现在一堆人在那里刷1分给我看乐了，不知道哪来的那么大怨气，pxv机主还没说话一群妖魔先高潮",
+          "keyPoints": [
+            "成本 / 价格"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响购买预算，值得先看。",
+          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+        },
+        {
+          "id": "auto-6649e8a03e72",
+          "title": "Counterpoint：消费者耐用性需求崛起，康宁大猩猩玻璃引领智能手机材料创新",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-11-20",
+          "time": "11:12",
+          "publishedAt": "2026-11-20T11:12:03.000Z",
+          "url": "https://www.ithome.com/1/030/200.htm",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "IT之家 11 月 20 日消息，随着高端智能手机普及，消费者对设备寿命的要求日益提升，耐用性正成为影响购机决策的关键因素。碎屏是导致用户提前换机的最常见原因之一，Counterpoint 研究副总裁 Neil Shah 与康宁的 Andrew Beck 展开对话，围绕最新消费者调研结果、大猩猩玻璃创新、盖板玻璃工程设计与材料技术展开探讨。 耐用性已成为购…",
+          "detail": "IT之家 11 月 20 日消息，随着高端智能手机普及，消费者对设备寿命的要求日益提升，耐用性正成为影响购机决策的关键因素。碎屏是导致用户提前换机的最常见原因之一，Counterpoint 研究副总裁 Neil Shah 与康宁的 Andrew Beck 展开对话，围绕最新消费者调研结果、大猩猩玻璃创新、盖板玻璃工程设计与材料技术展开探讨。 耐用性已成为购…",
           "keyPoints": [
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         }
       ]
     }

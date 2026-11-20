@@ -1,6 +1,306 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-11-20T12:52:09.845Z",
+  "updatedAt": "2026-11-20T21:48:15.696Z",
   "news": [
+    {
+      "id": "auto-5e296554aaf0",
+      "title": "Google Health 5.13 update makes tracking workouts and meals easier",
+      "source": "Android Authority",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-20",
+      "time": "21:28",
+      "publishedAt": "2026-11-20T21:28:12.000Z",
+      "url": "https://www.androidauthority.com/google-health-5-13-update-fitness-features-3737916/",
+      "image": "",
+      "summary": "There's some good news for iPhone users too.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-09dd340cb5ac",
+      "title": "Survey finds Pixel 11 Pro owners are mostly happy with their purchase",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-20",
+      "time": "20:39",
+      "publishedAt": "2026-11-20T20:39:41.000Z",
+      "url": "https://www.androidauthority.com/pixel-11-pro-three-months-later-poll-results-3737834/",
+      "image": "",
+      "summary": "Over 40% love their phone.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7e0abe38defe",
+      "title": "Is the Galaxy S26 Ultra still a good buy at the end of 2026?",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-20",
+      "time": "19:12",
+      "publishedAt": "2026-11-20T19:12:42.000Z",
+      "url": "https://9to5google.com/2026/11/20/is-the-galaxy-s26-ultra-still-a-good-buy-at-the-end-of-2026/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/galaxy-s26-ultra-review-11.jpg?quality=82&strip=all&w=1600",
+      "summary": "Yes, the Samsung Galaxy S26 Ultra remains a good buy in late 2026 if you want a large-screen Android phone with versatile cameras, an integrated S Pen, and long-term software supp…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-075b2be5c7f2",
+      "title": "Google Health 5.13 rolling out: Improved food search, more swimming controls",
+      "source": "9to5Google",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-20",
+      "time": "19:00",
+      "publishedAt": "2026-11-20T19:00:55.000Z",
+      "url": "https://9to5google.com/2026/11/20/google-health-5-13-release-notes/",
+      "image": "",
+      "summary": "Version 5.13 of Google Health is rolling out to Android and iOS with updates across five areas. It’s a modest release that reiterates recent launches. more…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-13a24f80b128",
+      "title": "Google Pixel held its ground in the US despite a middling Pixel 11 launch",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-20",
+      "time": "17:30",
+      "publishedAt": "2026-11-20T17:30:00.000Z",
+      "url": "https://9to5google.com/2026/11/20/google-pixel-us-smartphone-market-q3-2026/",
+      "image": "",
+      "summary": "The latest quarterly data for the US smartphone market reveals that Google Pixel is holding its ground despite the overall market faltering, and the other two major Android brands…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-cba3d7f4da26",
+      "title": "The MacRumors Show: What's Next for iPhone Duo?",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-20",
+      "time": "17:21",
+      "publishedAt": "2026-11-20T17:21:59.000Z",
+      "url": "https://www.macrumors.com/2026/11/20/the-macrumors-show-next-for-iphone-duo/",
+      "image": "",
+      "summary": "On this week's episode of The MacRumors Show , we discuss the iPhone Duo 's new Face Unlock feature and all of the latest rumors about Apple's next-generation foldable iPhone. Sub…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-70daeb1a751b",
+      "title": "Is wide the next phone craze? The new Huawei Osta O1 Pro looks like a fat iPhone Air",
+      "source": "Android Central",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-11-20",
+      "time": "17:00",
+      "publishedAt": "2026-11-20T17:00:17.000Z",
+      "url": "https://www.androidcentral.com/phones/huawei/is-wide-the-next-phone-craze-the-new-huawei-osta-o1-pro-looks-like-a-fat-iphone-air",
+      "image": "https://cdn.mos.cms.futurecdn.net/GAhRezL3FMabJRVxQZZYan-1920-80.png",
+      "summary": "Huawei has unveiled a wide smartphone as part of a new sub brand launch.",
+      "tags": [
+        "Huawei",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e53971fa334f",
+      "title": "Why the Pixel 11 Pro at $749 is catching so much attention",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-20",
+      "time": "16:10",
+      "publishedAt": "2026-11-20T16:10:13.000Z",
+      "url": "https://www.androidpolice.com/i-cant-believe-the-pixel-11-pro-is-only-749/",
+      "image": "",
+      "summary": "A deal worth a closer look",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e8842d429497",
+      "title": "Alleged Pixel 11 Pro prototype had HiLight and a temperature sensor",
+      "source": "9to5Google",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-20",
+      "time": "15:15",
+      "publishedAt": "2026-11-20T15:15:00.000Z",
+      "url": "https://9to5google.com/2026/11/20/alleged-pixel-11-pro-prototype-had-hilight-and-a-temperature-sensor/",
+      "image": "",
+      "summary": "Google might have had a chance to keep the temperature sensor around, it seems, as a supposed prototype shows off a device that offered both the last-gen temperature sensor and th…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0898fab07afb",
+      "title": "I’m trying something unusual to extend my Galaxy Z Fold 8’s lifespan and stop those sticky sounds when unfolding",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-20",
+      "time": "15:00",
+      "publishedAt": "2026-11-20T15:00:00.000Z",
+      "url": "https://www.sammobile.com/opinion/trying-something-unusual-extend-my-galaxy-z-fold-8-lifespan/",
+      "image": "",
+      "summary": "Using the Galaxy Z Fold 8 every day for the past couple of months has eased almost all of my previous durability concerns. For example, I'm now fully confident that I won't accide…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-73b94df70aab",
+      "title": "Samsung fans continue to hate on Galaxy S27 Ultra redesign",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-20",
+      "time": "14:48",
+      "publishedAt": "2026-11-20T14:48:02.000Z",
+      "url": "https://9to5google.com/2026/11/20/samsung-fans-continue-to-hate-on-galaxy-s27-ultra-redesign/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/samsung-galaxy-s27-ultra-leak-video.jpg?quality=82&strip=all&w=1600",
+      "summary": "An alleged new video shows Galaxy S27 dummy units that look like the latest leaks, and Samsung fans aren’t having it. more…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f27f1450c95e",
+      "title": "三星电子非半导体板块内存平均采购价今年前九个月同比暴涨 263%",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-20",
+      "time": "13:47",
+      "publishedAt": "2026-11-20T13:47:56.000Z",
+      "url": "https://www.ithome.com/1/030/243.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/936dc9fb-f5b6-476b-9a82-31d3c43f132c.jpg",
+      "summary": "IT之家 11 月 20 日消息，据韩联社当地时间 18 日报道，根据三星电子同日发布的详细三季报，该企业负责非半导体板块的 DX（设备体验）部门 今年 1~9 月的内存平均采购价格同比暴涨 263% 。 而在相同时间内，DX 部门的移动应用处理器平均采购价格上涨了 8%， 旗下 MX（移动体验）业务的 Galaxy 智能手机平均销售价格仅上涨了 13%…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-167af1616e5a",
+      "title": "First Look at iPhone Air 2 and iPhone 18 Revealed By Dummy Models",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-20",
+      "time": "13:31",
+      "publishedAt": "2026-11-20T13:31:19.000Z",
+      "url": "https://www.macrumors.com/2026/11/20/iphone-air-2-and-iphone-18-dummy-models/",
+      "image": "https://images.macrumors.com/article-new/2026/11/iphone-air-2-and-iphone-18-dummy-models.jpg",
+      "summary": "New images of dummy models offer an early look at the purported designs of the iPhone Air 2 and iPhone 18 , showing a new dual rear camera arrangement for the Air and a largely un…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-9542f3aadfc8",
+      "title": "竹本青：【小米公司回应工程师路边救人：已安排奖励】 11月20日，小米公司就旗下服务工程师路边救助被撞阿姨一事作出回应，对…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-20",
+      "time": "13:23",
+      "publishedAt": "2026-11-20T13:23:37.000Z",
+      "url": "https://www.coolapk.com/feed/75183441",
+      "image": "http://image.coolapk.com/feed/2026/1120/21/4248714_907cf5b7_1015_9184_524@1440x2114.jpg",
+      "summary": "【小米公司回应工程师路边救人：已安排奖励】 11月20日，小米公司就旗下服务工程师路边救助被撞阿姨一事作出回应，对该员工的行为表示点赞，并确认已为其安排奖励。 此前报道显示，11月18日，有网友发帖称，中午在成都龙泉驿区，看见路边一位阿姨被撞倒，电动车倒在一旁。一名戴着小米工牌的小哥帮阿姨给交警和120打电话。该网友还写道：“希望做好事的人被更多人看到、关…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-c74fd55d945b",
+      "title": "iPhone Air 2 dummy unit shows off new dual-camera design",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-20",
+      "time": "12:56",
+      "publishedAt": "2026-11-20T12:56:31.000Z",
+      "url": "https://9to5mac.com/2026/11/20/iphone-air-2-dual-camera-system/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-air-2-camera-concept-blue.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple is expected to release the iPhone 18 and iPhone Air 2 sometime next spring. Ahead of that launch, new dummy units posted to social media today give us a closer look at the d…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-2891c057b73c",
       "title": "WhatsApp Raises Group Chat Limit to 1,500 Members",
@@ -17,6 +317,26 @@ window.phoneRadarAuto = {
       "summary": "WhatsApp is allowing group chats to have up to 1,500 members on iPhone and Android, up from the previous limit of 1,024 participants, according to WABetaInfo . The increase means…",
       "tags": [
         "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6649e8a03e72",
+      "title": "Counterpoint：消费者耐用性需求崛起，康宁大猩猩玻璃引领智能手机材料创新",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-20",
+      "time": "11:12",
+      "publishedAt": "2026-11-20T11:12:03.000Z",
+      "url": "https://www.ithome.com/1/030/200.htm",
+      "image": "",
+      "summary": "IT之家 11 月 20 日消息，随着高端智能手机普及，消费者对设备寿命的要求日益提升，耐用性正成为影响购机决策的关键因素。碎屏是导致用户提前换机的最常见原因之一，Counterpoint 研究副总裁 Neil Shah 与康宁的 Andrew Beck 展开对话，围绕最新消费者调研结果、大猩猩玻璃创新、盖板玻璃工程设计与材料技术展开探讨。 耐用性已成为购…",
+      "tags": [
+        "行业",
         "爆料",
         "自动抓取"
       ]
@@ -99,46 +419,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-1c00f3a8e0ba",
-      "title": "竹本青：余承东纠正：开车不能睡觉，大家一定要注意安全",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-20",
-      "time": "09:20",
-      "publishedAt": "2026-11-20T09:20:46.000Z",
-      "url": "https://www.coolapk.com/feed/75178909",
-      "image": "http://image.coolapk.com/feed/2026/1120/17/4248714_dc8ab563_6445_4624_289@1271x371.jpg",
-      "summary": "【华为余承东纠正：开车不能睡觉，大家一定要注意安全】 11月20日，华为余承东发文，纠正自己发言：“享界V8现在给大家用的是L2辅助驾驶，L3的硬件能力已具备，但还没有开放。大家用辅助驾驶要专心开车、按要求握好方向盘。现在还是L2时代，大家一定要注意安全，开车不能睡觉。” 今天早些时候，在享界V8及星芒品牌发布会上，他曾发言：“L3自动驾驶来临以后，开车就…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-13c82ac97789",
-      "title": "竹本青：【华为余承东：用L3开车可以睡觉、不摸方向盘，别睡死过去就行】 11月20日，在享界V8及星芒品牌发布会上，华为高…",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-20",
-      "time": "09:11",
-      "publishedAt": "2026-11-20T09:11:08.000Z",
-      "url": "https://www.coolapk.com/feed/75178709",
-      "image": "http://image.coolapk.com/feed/2026/1120/17/4248714_54b40e56_6293_8981_127-livepic@1920x1080.jpg",
-      "summary": "【华为余承东：用L3开车可以睡觉、不摸方向盘，别睡死过去就行】 11月20日，在享界V8及星芒品牌发布会上，华为高管余承东介绍，享界V8率先开启全国首个120km/h L3级自动驾驶跨城高速路测。 谈及L3的使用状态，余承东表达了安全性的信心。他表示，“L3自动驾驶来临以后，开车就不用摸方向盘了，开车是可以睡觉的，别睡死过去就行，20秒还是多少秒给你唤醒就…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -242,26 +522,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-2b68703fe14b",
-      "title": "华为星芒 OSTA O1 Pro 手机外观亮相：16:9.5 比例 1.5K LTPS 直屏、屏占比 96.1%",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-20",
-      "time": "08:26",
-      "publishedAt": "2026-11-20T08:26:28.000Z",
-      "url": "https://www.ithome.com/1/030/082.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/f03a97db-0588-412b-a077-db54b2f9cdf5.png",
-      "summary": "IT之家 11 月 20 日消息，在目前正在进行的华为鸿蒙智行享界 V8 及星芒品牌发布会中，华为星芒 OSTA O1 Pro 正式亮相。 官方强调，该机采用了具有辨识度的阔直板设计，厚度 6.68mm，重量约 200g，提供星芒紫、星云白、星空黑三款配色可选。 该机配备一块 6.39 英寸 16:9.5 比例 1.5K LTPS 直屏，屏占比 96.1%…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-01145c12e0a8",
       "title": "Galaxy S27 Pro’s Geekbench listing reveals its chipset, RAM well before launch",
       "source": "Gizmochina",
@@ -299,46 +559,6 @@ window.phoneRadarAuto = {
         "OPPO",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2fcb88ec0669",
-      "title": "消息称华为星芒 OSTA O1 Pro 阔直板手机首发价 5499 元起",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-20",
-      "time": "08:14",
-      "publishedAt": "2026-11-20T08:14:19.000Z",
-      "url": "https://www.ithome.com/1/030/059.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/e0cfab42-5f4e-49bb-96fa-8ea8c94b1b9a.jpg",
-      "summary": "IT之家 11 月 20 日消息，博主 @ 数码闲聊站发文，透露华为星芒 OSTA O1 Pro 首发价 5499 元起，IT之家整理价格信息如下： 12GB RAM+256GB 存储空间：5699 元，首发价 5499 元 12GB RAM+512GB 存储空间：6699 元，首发价 6499 元 16GB RAM+512GB 存储空间：7499 元，首…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-e8ccfe9d9f98",
-      "title": "竹本青：鸿蒙智行享界V8发布：L3级架构，31.98万元起",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-20",
-      "time": "08:03",
-      "publishedAt": "2026-11-20T08:03:56.000Z",
-      "url": "https://www.coolapk.com/feed/75177047",
-      "image": "http://image.coolapk.com/feed/2026/1120/16/4248714_a57ff123_2013_9327_557@1504x5509.jpg",
-      "summary": "【鸿蒙智行 享界V8 正式发布：旗舰大七座MPV，L3级自动驾驶架构，31.98万元起】 纯电版本 Max —— 34.98万元 Ultra —— 38.98万元 Ultra+ —— 42.98万元 增程版本 Max —— 31.98万元 Max+ —— 34.98万元 Ultra —— 35.98万元 Ultra+ —— 39.98万元 ● 空间： 车身…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -502,6 +722,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-dca723d63ef5",
+      "title": "社区速递 166｜柯尼卡胶片机、iPhone Duo 体验与假期省钱实操大赏",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-11-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/119184",
+      "image": "",
+      "summary": "社区速递 166｜柯尼卡胶片机、iPhone Duo 体验与假期省钱实操大赏",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-fa94b8d201ff",
       "title": "iPhone 变强了，但我没有",
       "source": "少数派热榜",
@@ -522,8 +762,28 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-423d65a210ae",
-      "title": "消息称小米无边四曲屏与阔屏同步开发中",
+      "id": "newsnow-345072abe131",
+      "title": "上手了几个小时，总结一下，就是pura x view换皮，但是512 6199还行吧",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-20",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/75182448",
+      "image": "",
+      "summary": "上手了几个小时，总结一下，就是pura x view换皮，但是512 6199还行吧",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-f041be6996e2",
+      "title": "8E还能在用几年 能不能成为我使用最最久的手机机[受虐滑稽](最长一台手机没活过两年) #小米15# #红米k100# #小米15Ultra#",
       "source": "酷安热榜",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
@@ -532,9 +792,9 @@ window.phoneRadarAuto = {
       "date": "2026-11-20",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/75160455",
+      "url": "https://www.coolapk.com/feed/75182197",
       "image": "",
-      "summary": "消息称小米无边四曲屏与阔屏同步开发中",
+      "summary": "8E还能在用几年 能不能成为我使用最最久的手机机[受虐滑稽](最长一台手机没活过两年) #小米15# #红米k100# #小米15Ultra#",
       "tags": [
         "Xiaomi",
         "爆料",
@@ -542,8 +802,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-d36400cd0b76",
-      "title": "华为售后堪称手机界标杆，无锡的华为售后堪称华为的标杆。此前因Mate80ProMax内屏进灰，发现之后去申请换货，已超15天换货期。售后没有同配置512G库存，提出建议换风驰版，被我拒绝后，直接丢了台标准版1T的过来，还是我最喜欢的银色。[牛牛点赞][牛牛点赞][牛牛点赞][牛牛点赞][牛牛点赞][牛牛点赞]",
+      "id": "newsnow-21c0e81505f1",
+      "title": "不知道这个板块哪里来的那么多魔怔人，没公布价格前一堆人4999，3999，甚至2999的都来了，这都不叫许愿，许愿还有可能实现，华为的手机就单金属边框就可以断定这手机不低于5000，现在一堆人在那里刷1分给我看乐了，不知道哪来的那么大怨气，pxv机主还没说话一群妖魔先高潮",
       "source": "酷安热榜",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
@@ -552,73 +812,13 @@ window.phoneRadarAuto = {
       "date": "2026-11-20",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/75121119",
+      "url": "https://www.coolapk.com/feed/75186476",
       "image": "",
-      "summary": "华为售后堪称手机界标杆，无锡的华为售后堪称华为的标杆。此前因Mate80ProMax内屏进灰，发现之后去申请换货，已超15天换货期。售后没有同配置512G库存，提出建议换风驰版，被我拒绝后，直接丢了台标准版1T的过来，还是我最喜欢的银色。[牛牛点赞][牛牛点赞][牛牛点赞][牛牛点赞][牛牛点赞][牛牛点赞]",
+      "summary": "不知道这个板块哪里来的那么多魔怔人，没公布价格前一堆人4999，3999，甚至2999的都来了，这都不叫许愿，许愿还有可能实现，华为的手机就单金属边框就可以断定这手机不低于5000，现在一堆人在那里刷1分给我看乐了，不知道哪来的那么大怨气，pxv机主还没说话一群妖魔先高潮",
       "tags": [
         "Huawei",
         "爆料",
         "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-78d03af02c80",
-      "title": "苹果20周年iPhone最新爆料：四曲面方案已打样3年",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-20",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/75135043",
-      "image": "",
-      "summary": "苹果20周年iPhone最新爆料：四曲面方案已打样3年",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-cd769e83b6b4",
-      "title": "喜提摸摸机[doge笑哭][doge笑哭]，上个月破冰店买的，22号下单，23号下午才发货，好像是从官方购买的才有7天无理由，我这台退货开始是21号，说明在我没买前就被别人玩过了[流泪]，然后退回去删除激活信息，重新后封包装给我，破冰专卖店买的，显示是官方渠道购买，说明是别人从官方买的，然后7天无理由退货的摸摸机[doge笑哭][doge笑哭]#REDMIK100ProMax# #小米17Max# #REDMIK90至尊版#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-20",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/75166743",
-      "image": "",
-      "summary": "喜提摸摸机[doge笑哭][doge笑哭]，上个月破冰店买的，22号下单，23号下午才发货，好像是从官方购买的才有7天无理由，我这台退货开始是21号，说明在我没买前就被别人玩过了[流泪]，然后退回去删除激活信息，重新后封包装给我，破冰专卖店买的，显示是官方渠道购买，说明是别人从官方买的，然后7天无理由退货的摸摸机[doge笑哭][doge笑哭]#REDMI…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-cd2d56207e16",
-      "title": "Pixel 10 drops to $599 for early Black Friday and it's hard to beat",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-19",
-      "time": "22:46",
-      "publishedAt": "2026-11-19T22:46:02.000Z",
-      "url": "https://www.androidpolice.com/pixel-10-at-599-the-only-deal-that-matters/",
-      "image": "",
-      "summary": "Get it before Black Friday ends",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -822,26 +1022,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-e39a45386b80",
-      "title": "Pixel 10 deal: Save $200 on Google’s first base phone with telephoto",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-19",
-      "time": "12:59",
-      "publishedAt": "2026-11-19T12:59:07.000Z",
-      "url": "https://www.androidauthority.com/google-pixel-10-deal-black-friday-3736288/",
-      "image": "",
-      "summary": "Last year's Pixel is 25% off on Amazon, a solid price for a phone with years of updates ahead.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-98c87758e73e",
       "title": "Galaxy Z Fold 8 is $1,499 for Black Friday; its new lowest price ever, just not for everyone",
       "source": "9to5Google",
@@ -862,26 +1042,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-ef002b7d9bf4",
-      "title": "Google Pixel 11 Pro drops to its lowest price with $350 off",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-19",
-      "time": "11:18",
-      "publishedAt": "2026-11-19T11:18:27.000Z",
-      "url": "https://www.androidauthority.com/google-pixel-11-pro-black-friday-3736286/",
-      "image": "",
-      "summary": "Google's compact Pro flagship is 32% off for Black Friday, marking its best price yet.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-158c7903aa07",
       "title": "Upcoming OnePlus flagship to pack a 2K 240Hz OLED panel with 6.89-inch size and ultra-narrow bezels",
       "source": "Gizmochina",
@@ -897,26 +1057,6 @@ window.phoneRadarAuto = {
       "summary": "OnePlus recently launched the OnePlus 16 in China with a 185Hz BOE display, and leaks about its next flagship have already started trickling in. Tipster Digital Chat Station had e…",
       "tags": [
         "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5a3e897a4cb0",
-      "title": "Google Pixel 11 hits 22% off, back at its all-time low price",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-19",
-      "time": "10:21",
-      "publishedAt": "2026-11-19T10:21:05.000Z",
-      "url": "https://www.androidauthority.com/google-pixel-11-deal-black-friday-3736287/",
-      "image": "",
-      "summary": "Save $200 on Google's standard Pixel 11 on Amazon, matching the best deal we've seen.",
-      "tags": [
-        "Pixel",
         "爆料",
         "自动抓取"
       ]
@@ -999,26 +1139,6 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-eabe2975d164",
-      "title": "Huawei Mate 90 Air officially revealed, color options, memory configs confirmed",
-      "source": "Gizmochina",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-19",
-      "time": "02:30",
-      "publishedAt": "2026-11-19T02:30:35.000Z",
-      "url": "https://www.gizmochina.com/2026/11/19/huawei-mate-90-air-colors-configs-vmall-listing/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-1200x675-2-300x169.jpg?x47967",
-      "summary": "Huawei will hold a launch event on November 24 to unveil the Huawei Mate X8 foldable phone. This will not be the only device, as the brand has confirmed that it will also announce…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
       ]
     }
   ]
