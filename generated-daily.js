@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-11-21T12:37:32.410Z",
+  "updatedAt": "2026-11-21T20:30:36.553Z",
   "issueDate": "2026-11-21",
   "issue": "VOL.261121",
   "title": "手机情报日报",
-  "intro": "今日筛出 13 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 13,
-    "iphone": 7,
+    "total": 16,
+    "iphone": 6,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -66,23 +66,23 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-cba3d7f4da26",
+          "id": "auto-b9dffdb98d61",
           "title": "iPhone 相关消息",
           "originalTitle": "",
           "source": "MacRumors",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-11-20",
-          "time": "17:21",
-          "publishedAt": "2026-11-20T17:21:59.000Z",
-          "url": "https://www.macrumors.com/2026/11/20/the-macrumors-show-next-for-iphone-duo/",
-          "image": "",
+          "date": "2026-11-21",
+          "time": "14:00",
+          "publishedAt": "2026-11-21T14:00:10.000Z",
+          "url": "https://www.macrumors.com/2026/11/21/top-stories-iphone-duo-face-unlock/",
+          "image": "https://images.macrumors.com/article-new/2026/11/top-stories-2026-11-21.jpg",
           "verdict": "先看",
           "takeaway": "iPhone 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
           "detail": "iPhone 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "爆料来源"
+            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -136,48 +136,27 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-b9cdf3f310c3",
-          "title": "HMD 预热影像定位新机：配四摄模组，将与施耐德合作带回 PureView 品牌",
+          "id": "coolapk-user-1147e7b5cf13",
+          "title": "JSCHEN小小狐：小米18 Max曝光：骁龙8E6 / 8K+大电池",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
+          "source": "JSCHEN小小狐",
+          "brand": "Xiaomi",
           "type": "爆料",
-          "trust": "媒体汇总",
+          "trust": "高可信爆料",
           "date": "2026-11-21",
-          "time": "07:14",
-          "publishedAt": "2026-11-21T07:14:53.000Z",
-          "url": "https://www.ithome.com/1/030/372.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/4fa41816-6a4b-49a5-a4e2-23106c61a363.png",
+          "time": "01:09",
+          "publishedAt": "2026-11-21T01:09:11.000Z",
+          "url": "https://www.coolapk.com/feed/75189440",
+          "image": "http://image.coolapk.com/feed/2026/1121/09/4702274_ae8f9e40_3350_801_592@1440x426.jpg",
           "verdict": "先看",
-          "takeaway": "IT之家 11 月 21 日消息，HMD Global 现已公布一段新机预热视频，提前展示了一款主打影像的 HMD 自有品牌手机。 参考视频，这款手机采用较为醒目的圆形后置摄像头模组，内部疑似配备四颗摄像头，其中包括一颗潜望式长焦镜头，旁边还设有胶囊形 LED 闪光灯。 值得注意的是，预热视频开头直接出现了 PureView 字样，暗示这款新机可能重新采用…",
-          "detail": "IT之家 11 月 21 日消息，HMD Global 现已公布一段新机预热视频，提前展示了一款主打影像的 HMD 自有品牌手机。 参考视频，这款手机采用较为醒目的圆形后置摄像头模组，内部疑似配备四颗摄像头，其中包括一颗潜望式长焦镜头，旁边还设有胶囊形 LED 闪光灯。 值得注意的是，预热视频开头直接出现了 PureView 字样，暗示这款新机可能重新采用…",
+          "takeaway": "『小米 18 Max 曝光：骁龙 8E6 / 8K+ 大电池』 ◇ 骁龙 8 Elite Gen6（SM8950） ◇ 6.9\"± 超级像素 OLED 大屏 ◇ 超大底影像（或 1/1.28\"） ◇ 8000+mAh 大容量电池 ◇ 取消背屏｜简约 ID 设计 #今日热点# #小米18# #小米18Max#",
+          "detail": "『小米 18 Max 曝光：骁龙 8E6 / 8K+ 大电池』 ◇ 骁龙 8 Elite Gen6（SM8950） ◇ 6.9\"± 超级像素 OLED 大屏 ◇ 超大底影像（或 1/1.28\"） ◇ 8000+mAh 大容量电池 ◇ 取消背屏｜简约 ID 设计 #今日热点# #小米18# #小米18Max#",
           "keyPoints": [
-            "影像硬件"
+            "影像硬件",
+            "屏幕形态",
+            "电池 / 充电"
           ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-b6912ec2aa74",
-          "title": "手机测试产线部署智元精灵 G2 机器人，智元与蓝思科技达成战略合作",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-11-21",
-          "time": "06:39",
-          "publishedAt": "2026-11-21T06:39:35.000Z",
-          "url": "https://www.ithome.com/1/030/364.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/4/c63fc98c-48b5-46e5-82dc-698280639138.png?x-bce-process=image/format,f_auto/auto-orient,o_1",
-          "verdict": "先看",
-          "takeaway": "IT之家 11 月 21 日消息，智元创新（AGIBOT）与蓝思科技达成战略合作， 于手机测试产线部署智元精灵 G2 机器人 ，数十台机器人同时进行测试工位自动上下料、测试设备交互等工作。 据介绍，精灵 G2 可实现手机产品全自动转运、智能分拨与高效上下料。对比传统自动化设备，精灵 G2 通用本体可兼容多条作业产线，大幅降低产线改造成本。同时，精灵 G2…",
-          "detail": "IT之家 11 月 21 日消息，智元创新（AGIBOT）与蓝思科技达成战略合作， 于手机测试产线部署智元精灵 G2 机器人 ，数十台机器人同时进行测试工位自动上下料、测试设备交互等工作。 据介绍，精灵 G2 可实现手机产品全自动转运、智能分拨与高效上下料。对比传统自动化设备，精灵 G2 通用本体可兼容多条作业产线，大幅降低产线改造成本。同时，精灵 G2…",
-          "keyPoints": [
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
@@ -204,6 +183,31 @@ window.phoneRadarDaily = {
           "confidence": "可信度较高，但仍属于发布前线索。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "weibo-6ecb43037a85",
+          "title": "数码闲聊站：听闻明年手机芯片的规划也没有那么激进了，有些不迭代or小迭代，头部大厂的迭代芯…",
+          "originalTitle": "",
+          "source": "数码闲聊站",
+          "brand": "行业",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-11-21",
+          "time": "04:46",
+          "publishedAt": "2026-11-21T04:46:00.000Z",
+          "url": "https://weibo.com/6048569942/Rsotvq3wI",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "听闻明年手机芯片的规划也没有那么激进了，有些不迭代or小迭代，头部大厂的迭代芯计划砍部分外围，性能挤牙膏，进一步控制成本。 3nm芯片继续战未来，机圈全面进入过日子时代[开学季]",
+          "detail": "听闻明年手机芯片的规划也没有那么激进了，有些不迭代or小迭代，头部大厂的迭代芯计划砍部分外围，性能挤牙膏，进一步控制成本。 3nm芯片继续战未来，机圈全面进入过日子时代[开学季]",
+          "keyPoints": [
+            "芯片 / 性能",
+            "成本 / 价格",
+            "爆料来源"
+          ],
+          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -212,29 +216,6 @@ window.phoneRadarDaily = {
       "title": "iPhone 重点",
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
-        {
-          "id": "newsnow-ba7938905fd8",
-          "title": "苹果手机真的比安卓流畅很多吗？苹果8g是不是和安卓12g一样，然后12g=16g，大家感觉是不是这样，因为运行内存就是保留后台能力",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-11-21",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/75189342",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "苹果手机真的比安卓流畅很多吗？苹果8g是不是和安卓12g一样，然后12g=16g，大家感觉是不是这样，因为运行内存就是保留后台能力",
-          "detail": "苹果手机真的比安卓流畅很多吗？苹果8g是不是和安卓12g一样，然后12g=16g，大家感觉是不是这样，因为运行内存就是保留后台能力",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
         {
           "id": "auto-4d0e8912fe0d",
           "title": "iPhone 系统功能 / AI 体验相关消息",
@@ -307,10 +288,109 @@ window.phoneRadarDaily = {
       ]
     },
     {
+      "id": "launch",
+      "title": "新机与官方发布",
+      "hint": "能直接更新到参数库。",
+      "items": [
+        {
+          "id": "coolapk-user-d7815f73d2dc",
+          "title": "竹本青：【小米智能手环官宣销量全球第一，累计出货已超2.4亿台】 日前，小米发布海报宣布，旗下Xiaomi及REDMI智能…",
+          "originalTitle": "",
+          "source": "竹本青",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高可信爆料",
+          "date": "2026-11-21",
+          "time": "19:41",
+          "publishedAt": "2026-11-21T19:41:10.000Z",
+          "url": "https://www.coolapk.com/feed/75206039",
+          "image": "http://image.coolapk.com/feed/2026/1122/03/4248714_1979bfc9_0069_4259_489@1024x1280.jpg",
+          "verdict": "扫一眼",
+          "takeaway": "【小米智能手环官宣销量全球第一，累计出货已超2.4亿台】 日前，小米发布海报宣布，旗下Xiaomi及REDMI智能手环销量位列全球第一，截至2026年11月6日累计出货量已超过2.4亿台。 据小字标注，「全球第一」为市场调研机构Omdia统计，小米系基础手环已连续35个季度、连续8年位居全球出货量榜首；2.4亿台出货量则基于小米内部数据。 #今日热点# #…",
+          "detail": "【小米智能手环官宣销量全球第一，累计出货已超2.4亿台】 日前，小米发布海报宣布，旗下Xiaomi及REDMI智能手环销量位列全球第一，截至2026年11月6日累计出货量已超过2.4亿台。 据小字标注，「全球第一」为市场调研机构Omdia统计，小米系基础手环已连续35个季度、连续8年位居全球出货量榜首；2.4亿台出货量则基于小米内部数据。 #今日热点# #…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "可信度较高，但仍属于发布前线索。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
       "id": "market",
       "title": "行业趋势",
       "hint": "看方向，不急着当购买依据。",
       "items": [
+        {
+          "id": "newsnow-74bcddf94e60",
+          "title": "8E还能在用几年 能不能成为我使用最最久的手机机[受虐滑稽](最长一台手机没活过两年) #小米15# #红米k100# #小米15Ultra#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-11-21",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/75182197",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "8E还能在用几年 能不能成为我使用最最久的手机机[受虐滑稽](最长一台手机没活过两年) #小米15# #红米k100# #小米15Ultra#",
+          "detail": "8E还能在用几年 能不能成为我使用最最久的手机机[受虐滑稽](最长一台手机没活过两年) #小米15# #红米k100# #小米15Ultra#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-80ad37917d1d",
+          "title": "mate90全系都没上榜，mate80和mate80promax上榜了。好似，花味你继续弄星芒这样的烂活吧[笑眼][笑眼]#鸿蒙7# #华为Mate90ProMax#",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-11-21",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/75200230",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "mate90全系都没上榜，mate80和mate80promax上榜了。好似，花味你继续弄星芒这样的烂活吧[笑眼][笑眼]#鸿蒙7# #华为Mate90ProMax#",
+          "detail": "mate90全系都没上榜，mate80和mate80promax上榜了。好似，花味你继续弄星芒这样的烂活吧[笑眼][笑眼]#鸿蒙7# #华为Mate90ProMax#",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-cfec18dcaadd",
+          "title": "为什么星芒定价这么高，原因是 pura X View 在华为看来定价太低了。",
+          "originalTitle": "",
+          "source": "酷安热榜",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "高关注爆料源",
+          "date": "2026-11-21",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/75193682",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "为什么星芒定价这么高，原因是 pura X View 在华为看来定价太低了。",
+          "detail": "为什么星芒定价这么高，原因是 pura X View 在华为看来定价太低了。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
         {
           "id": "coolapk-user-90969b339ccc",
           "title": "竹本青：【OPPO Reno17 限定版图案镌刻错误，官方回应：镌刻机器异常导致，可换货】 11月21日，有用户反馈收到的…",

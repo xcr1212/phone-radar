@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-11-21T12:37:32.410Z",
+  "updatedAt": "2026-11-21T20:30:36.553Z",
   "news": [
+    {
+      "id": "coolapk-user-d7815f73d2dc",
+      "title": "竹本青：【小米智能手环官宣销量全球第一，累计出货已超2.4亿台】 日前，小米发布海报宣布，旗下Xiaomi及REDMI智能…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-21",
+      "time": "19:41",
+      "publishedAt": "2026-11-21T19:41:10.000Z",
+      "url": "https://www.coolapk.com/feed/75206039",
+      "image": "http://image.coolapk.com/feed/2026/1122/03/4248714_1979bfc9_0069_4259_489@1024x1280.jpg",
+      "summary": "【小米智能手环官宣销量全球第一，累计出货已超2.4亿台】 日前，小米发布海报宣布，旗下Xiaomi及REDMI智能手环销量位列全球第一，截至2026年11月6日累计出货量已超过2.4亿台。 据小字标注，「全球第一」为市场调研机构Omdia统计，小米系基础手环已连续35个季度、连续8年位居全球出货量榜首；2.4亿台出货量则基于小米内部数据。 #今日热点# #…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-23cddcebae3b",
+      "title": "Not upgrading to iPhone 18 Pro or Duo? Here’s what’s coming in 2027",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-21",
+      "time": "19:35",
+      "publishedAt": "2026-11-21T19:35:44.000Z",
+      "url": "https://9to5mac.com/2026/11/21/heres-what-next-years-iphone-lineup-will-look-like/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/iphone-20-pro-blue-mockup.jpg?quality=82&strip=all&w=1600",
+      "summary": "iPhone 18 Pro and iPhone Duo have been out for quite some time now, and despite that, it’s still incredibly challenging to order an iPhone Duo in a timely manner. If for whatever…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-c879ea66d279",
+      "title": "Galaxy Z Fold 8 features: What you can do on a foldable",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-21",
+      "time": "17:00",
+      "publishedAt": "2026-11-21T17:00:00.000Z",
+      "url": "https://9to5google.com/2026/11/21/galaxy-z-fold-8-features-what-you-can-do/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Galaxy-Z-Fold-8-lavender-2.jpg?quality=82&strip=all&w=1600",
+      "summary": "Folding phones have come in numerous variations over the years as the concept has evolved. The Galaxy Z Fold 8 is the latest evolution that introduces a form factor that fits ever…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b9dffdb98d61",
+      "title": "Top Stories: iPhone Duo Face Unlock, HomeView Tidbits, and More",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-21",
+      "time": "14:00",
+      "publishedAt": "2026-11-21T14:00:10.000Z",
+      "url": "https://www.macrumors.com/2026/11/21/top-stories-iphone-duo-face-unlock/",
+      "image": "https://images.macrumors.com/article-new/2026/11/top-stories-2026-11-21.jpg",
+      "summary": "Apple's crazy hardware launch season has come to a close, and now it's time for the holiday shopping season to ramp up. Apple isn't quite done for the year on the software side, h…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "coolapk-user-90969b339ccc",
       "title": "竹本青：【OPPO Reno17 限定版图案镌刻错误，官方回应：镌刻机器异常导致，可换货】 11月21日，有用户反馈收到的…",
@@ -102,106 +182,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-03d8f1264d28",
-      "title": "荣耀 3D 打印机曝光，主打“快速”“智能”两大特性",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-21",
-      "time": "07:21",
-      "publishedAt": "2026-11-21T07:21:03.000Z",
-      "url": "https://www.ithome.com/1/030/376.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/a9f66142-230b-466e-b135-13bfbb612795.jpg",
-      "summary": "IT之家 11 月 21 日消息，荣耀全场景产品线总裁 @荣耀潇哥 在微博发布视频，展示一款主打“快速”和“智能”的 3D 打印机，对此博主 @旺仔百事通 透露这是荣耀自家的 3D 打印机产品，但目前尚不知悉具体发布时间。 此前消息还显示，荣耀新年前将推出 X 系列新机， 搭载 13500mAh± 巨容量电池 ，配备 6.96/7 英寸大屏，主打长续航；P…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b9cdf3f310c3",
-      "title": "HMD 预热影像定位新机：配四摄模组，将与施耐德合作带回 PureView 品牌",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-21",
-      "time": "07:14",
-      "publishedAt": "2026-11-21T07:14:53.000Z",
-      "url": "https://www.ithome.com/1/030/372.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/4fa41816-6a4b-49a5-a4e2-23106c61a363.png",
-      "summary": "IT之家 11 月 21 日消息，HMD Global 现已公布一段新机预热视频，提前展示了一款主打影像的 HMD 自有品牌手机。 参考视频，这款手机采用较为醒目的圆形后置摄像头模组，内部疑似配备四颗摄像头，其中包括一颗潜望式长焦镜头，旁边还设有胶囊形 LED 闪光灯。 值得注意的是，预热视频开头直接出现了 PureView 字样，暗示这款新机可能重新采用…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a441c1c4b20e",
-      "title": "Xiaomi 18 Max tipped with Snapdragon 8 Elite Gen 6 and a battery above 8,000mAh",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-21",
-      "time": "06:48",
-      "publishedAt": "2026-11-21T06:48:41.000Z",
-      "url": "https://www.gizmochina.com/2026/11/21/xiaomi-18-max-tipped-with-snapdragon-8-elite-gen-6-and-a-battery-above-8000mah/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/Xiaomi-17-Max-1-300x188.png?x47967",
-      "summary": "Prolific insider Digital Chat Station says a certain manufacturer is working on a large-screen flagship phone with the Snapdragon 8 Elite Gen 6 chip. The tipster did not name the…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b6912ec2aa74",
-      "title": "手机测试产线部署智元精灵 G2 机器人，智元与蓝思科技达成战略合作",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-21",
-      "time": "06:39",
-      "publishedAt": "2026-11-21T06:39:35.000Z",
-      "url": "https://www.ithome.com/1/030/364.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/4/c63fc98c-48b5-46e5-82dc-698280639138.png?x-bce-process=image/format,f_auto/auto-orient,o_1",
-      "summary": "IT之家 11 月 21 日消息，智元创新（AGIBOT）与蓝思科技达成战略合作， 于手机测试产线部署智元精灵 G2 机器人 ，数十台机器人同时进行测试工位自动上下料、测试设备交互等工作。 据介绍，精灵 G2 可实现手机产品全自动转运、智能分拨与高效上下料。对比传统自动化设备，精灵 G2 通用本体可兼容多条作业产线，大幅降低产线改造成本。同时，精灵 G2…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-028ba3678f89",
-      "title": "Samsung’s Now Bar could get a Dynamic Island-style redesign with the Galaxy S27",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-21",
-      "time": "05:55",
-      "publishedAt": "2026-11-21T05:55:53.000Z",
-      "url": "https://www.sammobile.com/news/samsung-now-bar-dynamic-island-style-redesign-galaxy-s27/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/11/Screenshot_20261120_212105_One-UI-Home.png",
-      "summary": "Samsung is moving its Now Bar live notifications closer to Apple's Dynamic Island, with changes to both their position and the way you switch between ongoing activities. We've tes…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-7f53e1a83cb2",
       "title": "Forget the iPhone Duo and Z Fold 8 – this foldable has it all",
       "source": "Android Central",
@@ -259,6 +239,26 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-1147e7b5cf13",
+      "title": "JSCHEN小小狐：小米18 Max曝光：骁龙8E6 / 8K+大电池",
+      "source": "JSCHEN小小狐",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-21",
+      "time": "01:09",
+      "publishedAt": "2026-11-21T01:09:11.000Z",
+      "url": "https://www.coolapk.com/feed/75189440",
+      "image": "http://image.coolapk.com/feed/2026/1121/09/4702274_ae8f9e40_3350_801_592@1440x426.jpg",
+      "summary": "『小米 18 Max 曝光：骁龙 8E6 / 8K+ 大电池』 ◇ 骁龙 8 Elite Gen6（SM8950） ◇ 6.9\"± 超级像素 OLED 大屏 ◇ 超大底影像（或 1/1.28\"） ◇ 8000+mAh 大容量电池 ◇ 取消背屏｜简约 ID 设计 #今日热点# #小米18# #小米18Max#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
       ]
     },
     {
@@ -362,61 +362,81 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-ba7938905fd8",
-      "title": "苹果手机真的比安卓流畅很多吗？苹果8g是不是和安卓12g一样，然后12g=16g，大家感觉是不是这样，因为运行内存就是保留后台能力",
+      "id": "newsnow-86085295c310",
+      "title": "红米K100 Pro Max的音质真比不过K90 Pro Max，现场听了试了，100 Pro Max还是澎湃304，估计升级到澎湃4，那音效更拉胯。[受虐滑稽] #REDMIK100ProMax# #QQ音乐# #音乐软件#",
       "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-11-21",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/75189342",
+      "url": "https://www.coolapk.com/feed/75197265",
       "image": "",
-      "summary": "苹果手机真的比安卓流畅很多吗？苹果8g是不是和安卓12g一样，然后12g=16g，大家感觉是不是这样，因为运行内存就是保留后台能力",
+      "summary": "红米K100 Pro Max的音质真比不过K90 Pro Max，现场听了试了，100 Pro Max还是澎湃304，估计升级到澎湃4，那音效更拉胯。[受虐滑稽] #REDMIK100ProMax# #QQ音乐# #音乐软件#",
       "tags": [
-        "iPhone",
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-5e8fae4556ad",
-      "title": "韩国首次用「紧急灾难通知」让全国手机响铃 10.5 秒防高考作弊，此举合理吗？",
-      "source": "知乎热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "市场报告",
-      "trust": "媒体汇总",
+      "id": "newsnow-80ad37917d1d",
+      "title": "mate90全系都没上榜，mate80和mate80promax上榜了。好似，花味你继续弄星芒这样的烂活吧[笑眼][笑眼]#鸿蒙7# #华为Mate90ProMax#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
       "date": "2026-11-21",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.zhihu.com/question/2106706684672471150",
+      "url": "https://www.coolapk.com/feed/75200230",
       "image": "",
-      "summary": "韩国首次用「紧急灾难通知」让全国手机响铃 10.5 秒防高考作弊，此举合理吗？",
+      "summary": "mate90全系都没上榜，mate80和mate80promax上榜了。好似，花味你继续弄星芒这样的烂活吧[笑眼][笑眼]#鸿蒙7# #华为Mate90ProMax#",
       "tags": [
-        "行业",
-        "市场报告",
+        "Huawei",
+        "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-90b17b8d27fc",
-      "title": "孩子爱玩手机 妈妈心里堵得慌",
-      "source": "今日头条热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "id": "newsnow-cfec18dcaadd",
+      "title": "为什么星芒定价这么高，原因是 pura X View 在华为看来定价太低了。",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
-      "trust": "媒体汇总",
+      "trust": "高关注爆料源",
       "date": "2026-11-21",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7710575236207116351/",
+      "url": "https://www.coolapk.com/feed/75193682",
       "image": "",
-      "summary": "孩子爱玩手机 妈妈心里堵得慌",
+      "summary": "为什么星芒定价这么高，原因是 pura X View 在华为看来定价太低了。",
       "tags": [
-        "行业",
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-74bcddf94e60",
+      "title": "8E还能在用几年 能不能成为我使用最最久的手机机[受虐滑稽](最长一台手机没活过两年) #小米15# #红米k100# #小米15Ultra#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/75182197",
+      "image": "",
+      "summary": "8E还能在用几年 能不能成为我使用最最久的手机机[受虐滑稽](最长一台手机没活过两年) #小米15# #红米k100# #小米15Ultra#",
+      "tags": [
+        "Xiaomi",
         "爆料",
         "NewsNow"
       ]
@@ -435,26 +455,6 @@ window.phoneRadarAuto = {
       "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E6%94%BF%E5%8A%A1%E7%AA%97%E5%8F%A3%E6%8F%90%E7%A4%BA%E5%B7%A5%E4%BD%9C%E9%9C%80%E4%BD%BF%E7%94%A8%E6%89%8B%E6%9C%BA",
       "image": "",
       "summary": "多地政务窗口提示工作需使用手机",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-e16761ef9e1e",
-      "title": "老人手机落田间 小奶狗叼回家",
-      "source": "百度热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-21",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E6%89%8B%E6%9C%BA%E8%90%BD%E7%94%B0%E9%97%B4+%E5%B0%8F%E5%A5%B6%E7%8B%97%E5%8F%BC%E5%9B%9E%E5%AE%B6",
-      "image": "",
-      "summary": "老人手机落田间 小奶狗叼回家",
       "tags": [
         "行业",
         "爆料",
@@ -542,6 +542,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "auto-10ba175a48d5",
+      "title": "The Xiaomi 18 Pro proves two screens aren’t better than one",
+      "source": "The Verge",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-20",
+      "time": "18:35",
+      "publishedAt": "2026-11-20T18:35:38.000Z",
+      "url": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/xiaomi-18-pro-max-11.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros, but didn't release them outside China. That means the new 18 Pro and Pro Max are the first chanc…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "auto-13a24f80b128",
       "title": "Google Pixel held its ground in the US despite a middling Pixel 11 launch",
       "source": "9to5Google",
@@ -617,26 +637,6 @@ window.phoneRadarAuto = {
       "summary": "Google might have had a chance to keep the temperature sensor around, it seems, as a supposed prototype shows off a device that offered both the last-gen temperature sensor and th…",
       "tags": [
         "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0898fab07afb",
-      "title": "I’m trying something unusual to extend my Galaxy Z Fold 8’s lifespan and stop those sticky sounds when unfolding",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-20",
-      "time": "15:00",
-      "publishedAt": "2026-11-20T15:00:00.000Z",
-      "url": "https://www.sammobile.com/opinion/trying-something-unusual-extend-my-galaxy-z-fold-8-lifespan/",
-      "image": "",
-      "summary": "Using the Galaxy Z Fold 8 every day for the past couple of months has eased almost all of my previous durability concerns. For example, I'm now fully confident that I won't accide…",
-      "tags": [
-        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -782,26 +782,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-95008d94f66b",
-      "title": "Galaxy S27 Pro’s chipset for Asia and Europe may have been revealed",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-20",
-      "time": "09:46",
-      "publishedAt": "2026-11-20T09:46:30.000Z",
-      "url": "https://www.sammobile.com/news/galaxy-s27-pro-chipset-asia-europe-revealed/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/11/Samsung-Galaxy-S27-Pro-Exynos-2700-Processor-India-Variant-Geekbench.jpg",
-      "summary": "There has been a lot of confusion around the processing chips that Samsung may use in its Galaxy S27 series phones. While it has been widely reported that the Galaxy S27 Ultra wil…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "coolapk-user-63c4eceb1c86",
       "title": "JSCHEN小小狐：据不可靠消息，PXV 可能会直接停产让位[二哈] #OSTAO1Pro# #华为PuraXView#",
       "source": "JSCHEN小小狐",
@@ -842,86 +822,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-59a4a1784915",
-      "title": "Galaxy S27 Ultra camera design remains a mystery as dummy units contradict each other",
-      "source": "Gizmochina",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-20",
-      "time": "08:33",
-      "publishedAt": "2026-11-20T08:33:06.000Z",
-      "url": "https://www.gizmochina.com/2026/11/20/galaxy-s27-ultra-camera-design-remains-a-mystery-as-dummy-units-contradict-each-other/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/galaxy-s27-ultra-dummies-300x169.jpg?x47967",
-      "summary": "A newer video circulating on X, shared via @Ahmadansari2233 and labelled a Galaxy S27 Ultra dummy measuring 163.93 × 78.42 × 7.97 mm, adds another data point. The post Galaxy S27…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-01145c12e0a8",
-      "title": "Galaxy S27 Pro’s Geekbench listing reveals its chipset, RAM well before launch",
-      "source": "Gizmochina",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-20",
-      "time": "08:23",
-      "publishedAt": "2026-11-20T08:23:54.000Z",
-      "url": "https://www.gizmochina.com/2026/11/20/galaxy-s27-pro-geekbench-listing-chipset-ram/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-1200x675-8-300x169.jpg?x47967",
-      "summary": "The biggest change in the upcoming Galaxy S27 lineup is the inclusion of a new model called the Galaxy S27 Pro. While Samsung has not confirmed this moniker, it has already appear…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-ffe14bf84694",
-      "title": "Oppo Reno 17 and Reno 17 Pro on first sale with 8000mAh battery, 200MP camera",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-20",
-      "time": "08:17",
-      "publishedAt": "2026-11-20T08:17:24.000Z",
-      "url": "https://www.gizmochina.com/2026/11/20/oppo-reno-17-and-reno-17-pro-on-first-sale-with-8000mah-battery-200mp-camera/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/Oppo-Reno-17-and-Reno-17-Pro-Launch-Specs-Price-300x200.jpg?x47967",
-      "summary": "The Oppo Reno17 and Reno17 Pro have gone on sale in China today, following their announcement on November 16. Both phones have been available for pre-order since launch. The stand…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-86783865d612",
-      "title": "Samsung Galaxy Z Fold 9 and Galaxy Z Fold 9 Ultra appear on IMEI database, launch inching closer",
-      "source": "Gizmochina",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-20",
-      "time": "06:53",
-      "publishedAt": "2026-11-20T06:53:00.000Z",
-      "url": "https://www.gizmochina.com/2026/11/20/samsung-galaxy-z-fold-9-imei-database-listing/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/Samsung-Galaxy-Z-Fold-8_1-300x225.jpg?x47967",
-      "summary": "Samsung is expected to unveil the Galaxy S27 series of flagship phones in January 2027. While there is no official word from the South Korean tech giant, the lineup seems to have…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "weibo-78a64a1623b0",
       "title": "数码闲聊站：2026年等等党很多吧，受内存成本影响，年底的第一波新机涨价太多，没换机的用户…",
       "source": "数码闲聊站",
@@ -939,46 +839,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-157e46b8c4e9",
-      "title": "Xiaomi 18 reservations begin, here’s what to expect",
-      "source": "Gizmochina",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-20",
-      "time": "04:35",
-      "publishedAt": "2026-11-20T04:35:21.000Z",
-      "url": "https://www.gizmochina.com/2026/11/20/xiaomi-18-reservations-open-china-teaser-december-launch/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-1200x675-5-300x169.jpg?x47967",
-      "summary": "The Xiaomi 18 Pro models are already on the global stage, and a first live look at the standard Xiaomi 18 recently appeared in Lei Jun’s hand. Offline retailers in China also star…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-9c1a4d4d186d",
-      "title": "Ugreen announces first 60W AVS display charger for iPhone 18 Pro and Pro Max",
-      "source": "Gizmochina",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-20",
-      "time": "02:52",
-      "publishedAt": "2026-11-20T02:52:47.000Z",
-      "url": "https://www.gizmochina.com/2026/11/20/ugreen-announces-first-60w-avs-display-charger-for-iphone-18-pro-and-pro-max/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/Ugreen-60W-AVS-GaN-charger-300x200.jpg?x47967",
-      "summary": "Ugreen is following its 45W USB-C GaN Fast Charger with an angled display with a 60W version. The new model comes six months after the 45W version and retails for 109 yuan (~ $16)…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
