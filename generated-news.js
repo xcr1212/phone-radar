@@ -1,24 +1,244 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-11-21T03:11:39.349Z",
+  "updatedAt": "2026-11-21T12:37:32.410Z",
   "news": [
     {
-      "id": "auto-710d989568e9",
-      "title": "荣耀 700/700 Pro 核心配置汇总：骁龙 8s Gen4 / 骁龙 8 Gen5，11 月 23 日发布",
+      "id": "coolapk-user-90969b339ccc",
+      "title": "竹本青：【OPPO Reno17 限定版图案镌刻错误，官方回应：镌刻机器异常导致，可换货】 11月21日，有用户反馈收到的…",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-21",
+      "time": "12:29",
+      "publishedAt": "2026-11-21T12:29:06.000Z",
+      "url": "https://www.coolapk.com/feed/75200657",
+      "image": "http://image.coolapk.com/feed/2026/1121/20/4248714_1476ae9e_4143_7365_583@1272x2462.jpg",
+      "summary": "【OPPO Reno17 限定版图案镌刻错误，官方回应：镌刻机器异常导致，可换货】 11月21日，有用户反馈收到的OPPO Reno17洛天依限定版镌刻出错，机身侧边代表洛天依的专属图案符号与设计方案不符。 OPPO客服在帖下回应，称少部分该款机型因镌刻机器异常导致镌刻图案出现轻微瑕疵，将为用户提供换货处理。 11月16日，OPPO开启Reno17洛天依主…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-5cc35bed85b1",
+      "title": "竹本青：【消息称安卓阔直板加入旗舰系列，将与常规正代双线并行】 11月21日，博主数码闲聊站爆料，阔直板形态升级正成为行业…",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-21",
+      "time": "10:52",
+      "publishedAt": "2026-11-21T10:52:13.000Z",
+      "url": "https://www.coolapk.com/feed/75199038",
+      "image": "http://image.coolapk.com/feed/2026/1121/18/4248714_459b1556_8317_2957_983@1271x1335.jpg",
+      "summary": "【消息称安卓阔直板加入旗舰系列，将与常规正代双线并行】 11月21日，博主数码闲聊站爆料，阔直板形态升级正成为行业趋势，多家安卓厂商均计划在正代旗舰线加入阔形态机型，与常规直板机采用双线并行的产品方案。 不过他表示，在并行布局下，安卓阵营常规直板机的定位将高于阔直板机型，同时小屏手机的占比将继续缩减。 据该博主此前披露，安卓阵营厂商均将在2027年推出阔直…",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-b9128cf0bb5e",
+      "title": "消息称华为 Mate 90 Air 手机搭载麒麟 9020 芯片，厚 6.58mm",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-21",
+      "time": "10:10",
+      "publishedAt": "2026-11-21T10:10:00.000Z",
+      "url": "https://www.ithome.com/1/030/439.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/130a0be1-d717-4b09-bd6f-84c021f6f001.jpg",
+      "summary": "IT之家 11 月 21 日消息，华为本周已官宣旗下最薄 Mate 直板机 —— 华为 Mate 90 Air，新机将于 11 月 24 日 14:30 举行的 HUAWEI Mate X8 及全场景新品发布会发布。 博主 @熊猫很禿然 今日爆料，称“这代 Mate 90 Air 提升十分有限”： K9020A / K9020B → K9020 6.6mm…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4d0e8912fe0d",
+      "title": "Sylvox Black Friday sale: Best outdoor TVs for covered patios, full-sun pools, and gaming",
+      "source": "Android Authority",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-21",
+      "time": "09:37",
+      "publishedAt": "2026-11-21T09:37:40.000Z",
+      "url": "https://www.androidauthority.com/sylvox-black-friday-sale-2026-3737509/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/11/sylvox-featured.jpg",
+      "summary": "Get big discounts on some of the best weatherproof 4K TVs for patios, pools, and decks.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2fcde5c2650e",
+      "title": "不只是华为，消息称其他厂商也考虑为旗舰产品线引入阔直板形态",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-21",
+      "time": "08:27",
+      "publishedAt": "2026-11-21T08:27:44.000Z",
+      "url": "https://www.ithome.com/1/030/409.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/318e0b52-6de3-4e74-a714-84dc7fe66cbf.png",
+      "summary": "IT之家 11 月 21 日消息，博主 @数码闲聊站 今天（21 日）下午爆料称，当下手机市场“阔形态”升级势不可挡：除了华为，其他家也考虑在正代旗舰线加入阔形态， 与常规直板机双线并行 。 @数码闲聊站 在回复网友评论时还透露，安卓阵营中，阔直板与常规直板双线并行，且 常规直板机定位高于阔直板 ；“真小屏手机”今后将会越来越少。 综合IT之家此前报道，本…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-03d8f1264d28",
+      "title": "荣耀 3D 打印机曝光，主打“快速”“智能”两大特性",
       "source": "IT之家",
       "brand": "HONOR",
       "model": "HONOR 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-11-21",
-      "time": "02:53",
-      "publishedAt": "2026-11-21T02:53:17.000Z",
-      "url": "https://www.ithome.com/1/030/331.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/16b26de9-31d8-4f84-8127-7f8c84404a7d.png",
-      "summary": "IT之家 11 月 21 日消息，荣耀 700/700 Pro 手机将于 11 月 23 日 14:30 发布，博主 @数码闲聊站 今日对新机的核心配置进行了曝光汇总。 IT之家整理如下： 6.57\"1.5K+120Hz LTPS 直屏，0.98mm 四等边，1.59\" 原生背屏 骁龙 8s Gen4 / 骁龙 8 Gen5 处理器 9000mAh 电池…",
+      "time": "07:21",
+      "publishedAt": "2026-11-21T07:21:03.000Z",
+      "url": "https://www.ithome.com/1/030/376.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/a9f66142-230b-466e-b135-13bfbb612795.jpg",
+      "summary": "IT之家 11 月 21 日消息，荣耀全场景产品线总裁 @荣耀潇哥 在微博发布视频，展示一款主打“快速”和“智能”的 3D 打印机，对此博主 @旺仔百事通 透露这是荣耀自家的 3D 打印机产品，但目前尚不知悉具体发布时间。 此前消息还显示，荣耀新年前将推出 X 系列新机， 搭载 13500mAh± 巨容量电池 ，配备 6.96/7 英寸大屏，主打长续航；P…",
       "tags": [
         "HONOR",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b9cdf3f310c3",
+      "title": "HMD 预热影像定位新机：配四摄模组，将与施耐德合作带回 PureView 品牌",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-21",
+      "time": "07:14",
+      "publishedAt": "2026-11-21T07:14:53.000Z",
+      "url": "https://www.ithome.com/1/030/372.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/4fa41816-6a4b-49a5-a4e2-23106c61a363.png",
+      "summary": "IT之家 11 月 21 日消息，HMD Global 现已公布一段新机预热视频，提前展示了一款主打影像的 HMD 自有品牌手机。 参考视频，这款手机采用较为醒目的圆形后置摄像头模组，内部疑似配备四颗摄像头，其中包括一颗潜望式长焦镜头，旁边还设有胶囊形 LED 闪光灯。 值得注意的是，预热视频开头直接出现了 PureView 字样，暗示这款新机可能重新采用…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a441c1c4b20e",
+      "title": "Xiaomi 18 Max tipped with Snapdragon 8 Elite Gen 6 and a battery above 8,000mAh",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-21",
+      "time": "06:48",
+      "publishedAt": "2026-11-21T06:48:41.000Z",
+      "url": "https://www.gizmochina.com/2026/11/21/xiaomi-18-max-tipped-with-snapdragon-8-elite-gen-6-and-a-battery-above-8000mah/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/Xiaomi-17-Max-1-300x188.png?x47967",
+      "summary": "Prolific insider Digital Chat Station says a certain manufacturer is working on a large-screen flagship phone with the Snapdragon 8 Elite Gen 6 chip. The tipster did not name the…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b6912ec2aa74",
+      "title": "手机测试产线部署智元精灵 G2 机器人，智元与蓝思科技达成战略合作",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-21",
+      "time": "06:39",
+      "publishedAt": "2026-11-21T06:39:35.000Z",
+      "url": "https://www.ithome.com/1/030/364.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/4/c63fc98c-48b5-46e5-82dc-698280639138.png?x-bce-process=image/format,f_auto/auto-orient,o_1",
+      "summary": "IT之家 11 月 21 日消息，智元创新（AGIBOT）与蓝思科技达成战略合作， 于手机测试产线部署智元精灵 G2 机器人 ，数十台机器人同时进行测试工位自动上下料、测试设备交互等工作。 据介绍，精灵 G2 可实现手机产品全自动转运、智能分拨与高效上下料。对比传统自动化设备，精灵 G2 通用本体可兼容多条作业产线，大幅降低产线改造成本。同时，精灵 G2…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-028ba3678f89",
+      "title": "Samsung’s Now Bar could get a Dynamic Island-style redesign with the Galaxy S27",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-21",
+      "time": "05:55",
+      "publishedAt": "2026-11-21T05:55:53.000Z",
+      "url": "https://www.sammobile.com/news/samsung-now-bar-dynamic-island-style-redesign-galaxy-s27/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/11/Screenshot_20261120_212105_One-UI-Home.png",
+      "summary": "Samsung is moving its Now Bar live notifications closer to Apple's Dynamic Island, with changes to both their position and the way you switch between ongoing activities. We've tes…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7f53e1a83cb2",
+      "title": "Forget the iPhone Duo and Z Fold 8 – this foldable has it all",
+      "source": "Android Central",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-11-21",
+      "time": "04:47",
+      "publishedAt": "2026-11-21T04:47:56.000Z",
+      "url": "https://www.androidcentral.com/phones/xiaomi/xiaomi-18-fold-review-foldables-can-have-almost-everything",
+      "image": "https://cdn.mos.cms.futurecdn.net/d7qat5BfappsdjfkJRP4Gm-1920-80.jpg",
+      "summary": "With a 6,000mAh battery, a lightweight frame, and a 3.5x telephoto, Xiaomi solves the hardware compromises of a passport-style foldable.",
+      "tags": [
+        "Xiaomi",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-6ecb43037a85",
+      "title": "数码闲聊站：听闻明年手机芯片的规划也没有那么激进了，有些不迭代or小迭代，头部大厂的迭代芯…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-21",
+      "time": "04:46",
+      "publishedAt": "2026-11-21T04:46:00.000Z",
+      "url": "https://weibo.com/6048569942/Rsotvq3wI",
+      "image": "",
+      "summary": "听闻明年手机芯片的规划也没有那么激进了，有些不迭代or小迭代，头部大厂的迭代芯计划砍部分外围，性能挤牙膏，进一步控制成本。 3nm芯片继续战未来，机圈全面进入过日子时代[开学季]",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
       ]
     },
     {
@@ -37,106 +257,6 @@ window.phoneRadarAuto = {
       "summary": "A new leak suggests that Samsung is preparing to copy the iPhone’s Dynamic Island feature in the not-too-distant future, to an extent that not many other Android brands have even…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b304679dee1a",
-      "title": "华为 Mate X8 大折叠手机黑白双色亮相，11 月 24 日发布",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-21",
-      "time": "02:09",
-      "publishedAt": "2026-11-21T02:09:38.000Z",
-      "url": "https://www.ithome.com/1/030/324.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/fef6ba3a-336f-4270-822a-4353f820308d.png",
-      "summary": "IT之家 11 月 21 日消息，华为今日公布 Mate X8 大折叠手机黑白双色官图，新机将于 11 月 24 日 14:30 发布。 IT之家注意到，华为 Mate X8 及全场景新品发布会将于 11 月 24 日 14:30 举行，目前这款折叠屏新机已现身华为官网，并公开了部分配置信息及所有配色的外观图。 颜色 紫金锦 苍穹黑 雪域白 青云锦 丹霞锦…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5003f2fe8293",
-      "title": "摩托罗拉首款宽折叠 Razr Flex 手机爆料，配高通未发布的 SM8845 Pro 芯片",
-      "source": "IT之家",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-21",
-      "time": "01:30",
-      "publishedAt": "2026-11-21T01:30:20.000Z",
-      "url": "https://www.ithome.com/1/030/315.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/174a433f-7c55-411c-8ce1-dcdf395f1984.jpg",
-      "summary": "IT之家 11 月 21 日消息，科技媒体 GSMArena 昨日（11 月 20 日）发布博文， 报道称摩托罗拉首款宽折叠手机 Razr Flex 有望配备高通尚未发布的 SM8845 Pro 芯片 ，而此前有消息称该芯片由一加 Turbo 7 系列首发搭载。 根据 TrustCB 安全认证文件显示信息，摩托罗拉首款宽折叠手机 Razr Flex 内部代…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-62c8726adeb7",
-      "title": "消息称某厂骁龙 8E6 大屏旗舰机“打磨中”，预计为小米 18 Max",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-21",
-      "time": "01:24",
-      "publishedAt": "2026-11-21T01:24:47.000Z",
-      "url": "https://www.ithome.com/1/030/313.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/6433743f-3350-4ec4-a6e1-f721c330ec5e.png",
-      "summary": "IT之家 11 月 21 日消息，据博主 @数码闲聊站 今日爆料，某厂骁龙 8E6 大屏旗舰机“打磨中”，搭载超大底影像、超 8000mAh 大电池，采用简约 ID 设计。结合该博主的爆料习惯，评论区网友推测为小米 18 Max。 IT之家注意到，小米 18 Pro 系列手机于今年 9 月发布，首发第六代骁龙 8 至尊版、一体式纯平背屏，5999 元起。小…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-1147e7b5cf13",
-      "title": "JSCHEN小小狐：『小米 18 Max 曝光：骁龙 8E6 / 8K+ 大电池』 ◇ 骁龙 8 Elite Gen6（SM8950）…",
-      "source": "JSCHEN小小狐",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-21",
-      "time": "01:09",
-      "publishedAt": "2026-11-21T01:09:11.000Z",
-      "url": "https://www.coolapk.com/feed/75189440",
-      "image": "http://image.coolapk.com/feed/2026/1121/09/4702274_ae8f9e40_3350_801_592@1440x426.jpg",
-      "summary": "『小米 18 Max 曝光：骁龙 8E6 / 8K+ 大电池』 ◇ 骁龙 8 Elite Gen6（SM8950） ◇ 6.9\"± 超级像素 OLED 大屏 ◇ 超大底影像（或 1/1.28\"） ◇ 8000+mAh 大容量电池 ◇ 取消背屏｜简约 ID 设计 #今日热点# #小米18# #小米18Max#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-e26e52288d72",
-      "title": "Pixel 11 Pro XL 原型手机曝光，谷歌曾规划测温和通知灯“两全其美”",
-      "source": "IT之家",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-21",
-      "time": "01:08",
-      "publishedAt": "2026-11-21T01:08:16.000Z",
-      "url": "https://www.ithome.com/1/030/310.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/381e89f1-e533-4475-b80e-c5b85d33ad71.jpg",
-      "summary": "IT之家 11 月 21 日消息，Telegram 频道 Google Internal 于 11 月 16 日发布动态，分享了一组图片， 展示了一款机身有明显划痕的 Pixel 11 Pro XL 原型机，亮点是同时配备了温度传感器和 HiLight LED 通知灯。 根据消息源披露的细节，该原型机为 Kodiak（对应 Pixel 11 Pro XL…",
-      "tags": [
-        "Pixel",
         "爆料",
         "自动抓取"
       ]
@@ -242,61 +362,21 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-0f4720e28b46",
-      "title": "上手了几个小时，总结一下，就是pura x view换皮，但是512 6199还行吧",
+      "id": "newsnow-ba7938905fd8",
+      "title": "苹果手机真的比安卓流畅很多吗？苹果8g是不是和安卓12g一样，然后12g=16g，大家感觉是不是这样，因为运行内存就是保留后台能力",
       "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-11-21",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/75182448",
+      "url": "https://www.coolapk.com/feed/75189342",
       "image": "",
-      "summary": "上手了几个小时，总结一下，就是pura x view换皮，但是512 6199还行吧",
+      "summary": "苹果手机真的比安卓流畅很多吗？苹果8g是不是和安卓12g一样，然后12g=16g，大家感觉是不是这样，因为运行内存就是保留后台能力",
       "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-5910f483e634",
-      "title": "不知道这个板块哪里来的那么多魔怔人，没公布价格前一堆人4999，3999，甚至2999的都来了，这都不叫许愿，许愿还有可能实现，华为的手机就单金属边框就可以断定这手机不低于5000，现在一堆人在那里刷1分给我看乐了，不知道哪来的那么大怨气，pxv机主还没说话一群妖魔先高潮",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-21",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/75186476",
-      "image": "",
-      "summary": "不知道这个板块哪里来的那么多魔怔人，没公布价格前一堆人4999，3999，甚至2999的都来了，这都不叫许愿，许愿还有可能实现，华为的手机就单金属边框就可以断定这手机不低于5000，现在一堆人在那里刷1分给我看乐了，不知道哪来的那么大怨气，pxv机主还没说话一群妖魔先高潮",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-74bcddf94e60",
-      "title": "8E还能在用几年 能不能成为我使用最最久的手机机[受虐滑稽](最长一台手机没活过两年) #小米15# #红米k100# #小米15Ultra#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-21",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/75182197",
-      "image": "",
-      "summary": "8E还能在用几年 能不能成为我使用最最久的手机机[受虐滑稽](最长一台手机没活过两年) #小米15# #红米k100# #小米15Ultra#",
-      "tags": [
-        "Xiaomi",
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
@@ -322,43 +402,63 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-5edada1ecb2c",
-      "title": "国际版三星 Galaxy S27 Pro 手机跑分曝光：Exynos 2700 芯片、12GB 内存",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
+      "id": "newsnow-90b17b8d27fc",
+      "title": "孩子爱玩手机 妈妈心里堵得慌",
+      "source": "今日头条热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "媒体汇总",
-      "date": "2026-11-20",
-      "time": "23:32",
-      "publishedAt": "2026-11-20T23:32:53.000Z",
-      "url": "https://www.ithome.com/1/030/295.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/f042b3ad-55b3-42c6-8c50-2dec9225d65f.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 11 月 21 日消息，型号“SM-S957B”的三星手机昨日（11 月 20 日）现身 GeekBench 跑分库， 7.1.0 版本单核成绩为 3,061 分，多核成绩为 10,967 分，相关线索表明该机上市后为三星 Galaxy S27 Pro。 IT之家注：根据 GSMA IMEI 数据库此前公示的信息，SM-S957B 对应三星 Ga…",
+      "date": "2026-11-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7710575236207116351/",
+      "image": "",
+      "summary": "孩子爱玩手机 妈妈心里堵得慌",
       "tags": [
-        "Samsung",
+        "行业",
         "爆料",
-        "自动抓取"
+        "NewsNow"
       ]
     },
     {
-      "id": "auto-7eff295f6e35",
-      "title": "苹果超薄 iPhone 要补拍照短板？Air 2 机模显示双摄设计",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "id": "newsnow-99e6dbca1bd0",
+      "title": "多地政务窗口提示工作需使用手机",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "媒体汇总",
-      "date": "2026-11-20",
-      "time": "23:10",
-      "publishedAt": "2026-11-20T23:10:00.000Z",
-      "url": "https://www.ithome.com/1/030/290.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/20c6c5c6-bc6f-489a-ba4d-d31485c292d2.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 11 月 21 日消息，消息源 @SonnyDickson 昨日（11 月 20 日）在 X 平台发布推文， 分享了两张照片，展示了苹果 iPhone 18 标准版，以及 iPhone Air 2（推文称其为 iPhone 18 Air）的机模。 外观方面，本次曝光的机模照片来看，苹果 iPhone Air 2 有别于初代 Air 的单摄设计，在…",
+      "date": "2026-11-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E6%94%BF%E5%8A%A1%E7%AA%97%E5%8F%A3%E6%8F%90%E7%A4%BA%E5%B7%A5%E4%BD%9C%E9%9C%80%E4%BD%BF%E7%94%A8%E6%89%8B%E6%9C%BA",
+      "image": "",
+      "summary": "多地政务窗口提示工作需使用手机",
       "tags": [
-        "iPhone",
+        "行业",
         "爆料",
-        "自动抓取"
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-e16761ef9e1e",
+      "title": "老人手机落田间 小奶狗叼回家",
+      "source": "百度热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E6%89%8B%E6%9C%BA%E8%90%BD%E7%94%B0%E9%97%B4+%E5%B0%8F%E5%A5%B6%E7%8B%97%E5%8F%BC%E5%9B%9E%E5%AE%B6",
+      "image": "",
+      "summary": "老人手机落田间 小奶狗叼回家",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
       ]
     },
     {
@@ -502,26 +602,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-e53971fa334f",
-      "title": "Why the Pixel 11 Pro at $749 is catching so much attention",
-      "source": "Android Police",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-20",
-      "time": "16:10",
-      "publishedAt": "2026-11-20T16:10:13.000Z",
-      "url": "https://www.androidpolice.com/i-cant-believe-the-pixel-11-pro-is-only-749/",
-      "image": "",
-      "summary": "A deal worth a closer look",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-e8842d429497",
       "title": "Alleged Pixel 11 Pro prototype had HiLight and a temperature sensor",
       "source": "9to5Google",
@@ -582,26 +662,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-f27f1450c95e",
-      "title": "三星电子非半导体板块内存平均采购价今年前九个月同比暴涨 263%",
-      "source": "IT之家",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-20",
-      "time": "13:47",
-      "publishedAt": "2026-11-20T13:47:56.000Z",
-      "url": "https://www.ithome.com/1/030/243.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/936dc9fb-f5b6-476b-9a82-31d3c43f132c.jpg",
-      "summary": "IT之家 11 月 20 日消息，据韩联社当地时间 18 日报道，根据三星电子同日发布的详细三季报，该企业负责非半导体板块的 DX（设备体验）部门 今年 1~9 月的内存平均采购价格同比暴涨 263% 。 而在相同时间内，DX 部门的移动应用处理器平均采购价格上涨了 8%， 旗下 MX（移动体验）业务的 Galaxy 智能手机平均销售价格仅上涨了 13%…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-167af1616e5a",
       "title": "First Look at iPhone Air 2 and iPhone 18 Revealed By Dummy Models",
       "source": "MacRumors",
@@ -619,26 +679,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-9542f3aadfc8",
-      "title": "竹本青：【小米公司回应工程师路边救人：已安排奖励】 11月20日，小米公司就旗下服务工程师路边救助被撞阿姨一事作出回应，对…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-20",
-      "time": "13:23",
-      "publishedAt": "2026-11-20T13:23:37.000Z",
-      "url": "https://www.coolapk.com/feed/75183441",
-      "image": "http://image.coolapk.com/feed/2026/1120/21/4248714_907cf5b7_1015_9184_524@1440x2114.jpg",
-      "summary": "【小米公司回应工程师路边救人：已安排奖励】 11月20日，小米公司就旗下服务工程师路边救助被撞阿姨一事作出回应，对该员工的行为表示点赞，并确认已为其安排奖励。 此前报道显示，11月18日，有网友发帖称，中午在成都龙泉驿区，看见路边一位阿姨被撞倒，电动车倒在一旁。一名戴着小米工牌的小哥帮阿姨给交警和120打电话。该网友还写道：“希望做好事的人被更多人看到、关…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
