@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-11-20T21:48:15.696Z",
-  "issueDate": "2026-11-20",
-  "issue": "VOL.261120",
+  "updatedAt": "2026-11-21T03:11:39.349Z",
+  "issueDate": "2026-11-21",
+  "issue": "VOL.261121",
   "title": "手机情报日报",
-  "intro": "今日筛出 11 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 13 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 11,
-    "iphone": 5,
+    "total": 13,
+    "iphone": 6,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -17,6 +17,29 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-7eff295f6e35",
+          "title": "苹果超薄 iPhone 要补拍照短板？Air 2 机模显示双摄设计",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-11-20",
+          "time": "23:10",
+          "publishedAt": "2026-11-20T23:10:00.000Z",
+          "url": "https://www.ithome.com/1/030/290.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/20c6c5c6-bc6f-489a-ba4d-d31485c292d2.png?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 11 月 21 日消息，消息源 @SonnyDickson 昨日（11 月 20 日）在 X 平台发布推文， 分享了两张照片，展示了苹果 iPhone 18 标准版，以及 iPhone Air 2（推文称其为 iPhone 18 Air）的机模。 外观方面，本次曝光的机模照片来看，苹果 iPhone Air 2 有别于初代 Air 的单摄设计，在…",
+          "detail": "IT之家 11 月 21 日消息，消息源 @SonnyDickson 昨日（11 月 20 日）在 X 平台发布推文， 分享了两张照片，展示了苹果 iPhone 18 标准版，以及 iPhone Air 2（推文称其为 iPhone 18 Air）的机模。 外观方面，本次曝光的机模照片来看，苹果 iPhone Air 2 有别于初代 Air 的单摄设计，在…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-167af1616e5a",
           "title": "iPhone 18 机模 / 配色信息曝光",
@@ -66,6 +89,30 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-b304679dee1a",
+          "title": "华为 Mate X8 大折叠手机黑白双色亮相，11 月 24 日发布",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Huawei",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-11-21",
+          "time": "02:09",
+          "publishedAt": "2026-11-21T02:09:38.000Z",
+          "url": "https://www.ithome.com/1/030/324.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/fef6ba3a-336f-4270-822a-4353f820308d.png",
+          "verdict": "先看",
+          "takeaway": "IT之家 11 月 21 日消息，华为今日公布 Mate X8 大折叠手机黑白双色官图，新机将于 11 月 24 日 14:30 发布。 IT之家注意到，华为 Mate X8 及全场景新品发布会将于 11 月 24 日 14:30 举行，目前这款折叠屏新机已现身华为官网，并公开了部分配置信息及所有配色的外观图。 颜色 紫金锦 苍穹黑 雪域白 青云锦 丹霞锦…",
+          "detail": "IT之家 11 月 21 日消息，华为今日公布 Mate X8 大折叠手机黑白双色官图，新机将于 11 月 24 日 14:30 发布。 IT之家注意到，华为 Mate X8 及全场景新品发布会将于 11 月 24 日 14:30 举行，目前这款折叠屏新机已现身华为官网，并公开了部分配置信息及所有配色的外观图。 颜色 紫金锦 苍穹黑 雪域白 青云锦 丹霞锦…",
+          "keyPoints": [
+            "外观 / 配色 / 尺寸",
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-cba3d7f4da26",
           "title": "iPhone 相关消息",
           "originalTitle": "",
@@ -89,23 +136,23 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-2767069ceccc",
-          "title": "iPhone 外观设计线索曝光",
+          "id": "auto-5003f2fe8293",
+          "title": "摩托罗拉首款宽折叠 Razr Flex 手机爆料，配高通未发布的 SM8845 Pro 芯片",
           "originalTitle": "",
-          "source": "9to5Mac",
-          "brand": "iPhone",
+          "source": "IT之家",
+          "brand": "OPPO",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-11-19",
-          "time": "20:49",
-          "publishedAt": "2026-11-19T20:49:24.000Z",
-          "url": "https://9to5mac.com/2026/11/19/next-years-iphone-pro-redesign-sounds-like-exactly-what-ive-been-wanting/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/iphone-20-pro-blue-mockup.jpg?quality=82&strip=all&w=1600",
+          "date": "2026-11-21",
+          "time": "01:30",
+          "publishedAt": "2026-11-21T01:30:20.000Z",
+          "url": "https://www.ithome.com/1/030/315.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/174a433f-7c55-411c-8ce1-dcdf395f1984.jpg",
           "verdict": "先看",
-          "takeaway": "iPhone 外观设计线索曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
-          "detail": "iPhone 外观设计线索曝光。这类内容主要看外观设计、按键布局、相机模组和尺寸变化，后续最好等更多渲染图或保护壳线索互相验证。",
+          "takeaway": "IT之家 11 月 21 日消息，科技媒体 GSMArena 昨日（11 月 20 日）发布博文， 报道称摩托罗拉首款宽折叠手机 Razr Flex 有望配备高通尚未发布的 SM8845 Pro 芯片 ，而此前有消息称该芯片由一加 Turbo 7 系列首发搭载。 根据 TrustCB 安全认证文件显示信息，摩托罗拉首款宽折叠手机 Razr Flex 内部代…",
+          "detail": "IT之家 11 月 21 日消息，科技媒体 GSMArena 昨日（11 月 20 日）发布博文， 报道称摩托罗拉首款宽折叠手机 Razr Flex 有望配备高通尚未发布的 SM8845 Pro 芯片 ，而此前有消息称该芯片由一加 Turbo 7 系列首发搭载。 根据 TrustCB 安全认证文件显示信息，摩托罗拉首款宽折叠手机 Razr Flex 内部代…",
           "keyPoints": [
-            "外观 / 配色 / 尺寸",
+            "芯片 / 性能",
             "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
@@ -113,101 +160,135 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-4cba00c1ab28",
-          "title": "iPhone 系统功能 / AI 体验相关消息",
+          "id": "auto-62c8726adeb7",
+          "title": "消息称某厂骁龙 8E6 大屏旗舰机“打磨中”，预计为小米 18 Max",
           "originalTitle": "",
-          "source": "9to5Google",
-          "brand": "iPhone",
+          "source": "IT之家",
+          "brand": "Xiaomi",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-11-19",
-          "time": "16:40",
-          "publishedAt": "2026-11-19T16:40:00.000Z",
-          "url": "https://9to5google.com/2026/11/19/motorola-razr-flex-iphone-duo-leak/",
-          "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/motorola-razr-flex-leak-sg-1.jpg?quality=82&strip=all&w=1600",
+          "date": "2026-11-21",
+          "time": "01:24",
+          "publishedAt": "2026-11-21T01:24:47.000Z",
+          "url": "https://www.ithome.com/1/030/313.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/6433743f-3350-4ec4-a6e1-f721c330ec5e.png",
           "verdict": "先看",
-          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
-          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "takeaway": "IT之家 11 月 21 日消息，据博主 @数码闲聊站 今日爆料，某厂骁龙 8E6 大屏旗舰机“打磨中”，搭载超大底影像、超 8000mAh 大电池，采用简约 ID 设计。结合该博主的爆料习惯，评论区网友推测为小米 18 Max。 IT之家注意到，小米 18 Pro 系列手机于今年 9 月发布，首发第六代骁龙 8 至尊版、一体式纯平背屏，5999 元起。小…",
+          "detail": "IT之家 11 月 21 日消息，据博主 @数码闲聊站 今日爆料，某厂骁龙 8E6 大屏旗舰机“打磨中”，搭载超大底影像、超 8000mAh 大电池，采用简约 ID 设计。结合该博主的爆料习惯，评论区网友推测为小米 18 Max。 IT之家注意到，小米 18 Pro 系列手机于今年 9 月发布，首发第六代骁龙 8 至尊版、一体式纯平背屏，5999 元起。小…",
           "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "爆料来源"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-415b32742180",
-          "title": "竹本青：【华为星芒OSTA O1 Pro 阔直板手机 正式发布：麒麟9030S处理器，首发5499元起】 12GB+256…",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-11-20",
-          "time": "08:39",
-          "publishedAt": "2026-11-20T08:39:41.000Z",
-          "url": "https://www.coolapk.com/feed/75177860",
-          "image": "http://image.coolapk.com/feed/2026/1120/16/4248714_5174a222_4255_2432_353@2736x3030.jpg",
-          "verdict": "先看",
-          "takeaway": "【华为星芒OSTA O1 Pro 阔直板手机 正式发布：麒麟9030S处理器，首发5499元起】 12GB+256GB —— 5499元 12GB+512GB —— 6499元 16GB+512GB —— 7299元 16GB+1TB —— 8799元 ● 6.39\"1.5K LTPS直屏 ● 麒麟9030S处理器 ● 7000mAh电池+66W有线+无线…",
-          "detail": "【华为星芒OSTA O1 Pro 阔直板手机 正式发布：麒麟9030S处理器，首发5499元起】 12GB+256GB —— 5499元 12GB+512GB —— 6499元 16GB+512GB —— 7299元 16GB+1TB —— 8799元 ● 6.39\"1.5K LTPS直屏 ● 麒麟9030S处理器 ● 7000mAh电池+66W有线+无线…",
-          "keyPoints": [
-            "屏幕形态",
+            "影像硬件",
             "电池 / 充电",
-            "芯片 / 性能"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-4ce8cf157655",
-          "title": "JSCHEN小小狐：曝vivo S70系列 / iQOO 16R或春节前发布",
-          "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-11-20",
-          "time": "01:09",
-          "publishedAt": "2026-11-20T01:09:11.000Z",
-          "url": "https://www.coolapk.com/feed/75170430",
-          "image": "http://image.coolapk.com/feed/2026/1120/09/4702274_742e3a1c_6948_4991_452@1440x497.jpg",
-          "verdict": "先看",
-          "takeaway": "『曝 vivo S70 系列 / iQOO 16R 或春节前发布』 vivo S70 系列： - 6.59 英寸 1.5K 144Hz LTPS OLED 直屏 - 50MP 1/1.56\" 主摄 + 8MP 1/4\" 超广角 - 64MP 1/2\" LYTIA 610 旗舰长焦（高配） - 天玑 8 系 / 骁龙 8s Gen4 平台（高配） - 预计将…",
-          "detail": "『曝 vivo S70 系列 / iQOO 16R 或春节前发布』 vivo S70 系列： - 6.59 英寸 1.5K 144Hz LTPS OLED 直屏 - 50MP 1/1.56\" 主摄 + 8MP 1/4\" 超广角 - 64MP 1/2\" LYTIA 610 旗舰长焦（高配） - 天玑 8 系 / 骁龙 8s Gen4 平台（高配） - 预计将…",
-          "keyPoints": [
-            "影像硬件",
-            "屏幕形态"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-3576a53dfea1",
-          "title": "JSCHEN小小狐：曝vivo Pocket搭载骁龙8 Gen5，明年3-4月发布",
-          "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "vivo",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-11-19",
-          "time": "07:17",
-          "publishedAt": "2026-11-19T07:17:08.000Z",
-          "url": "https://www.coolapk.com/feed/75158172",
-          "image": "http://image.coolapk.com/feed/2026/1119/15/4702274_3f4e7fc4_2627_4202_896@1440x508.jpg",
-          "verdict": "先看",
-          "takeaway": "『曝 vivo Pocket 搭载骁龙 8 Gen5 / 3-4 月发』 知名数码博主 数码闲聊站 今日爆料称，vivo 首款 Pocket 云台相机或搭载骁龙 8 Gen5 平台，预计将于 2027 年 3-4 月随 X500 Ultra 一同发布。 爆料信息： ◇ 200MP 1/1.12\" LYTIA 901 云台主摄 ◇ 3nm 骁龙 8 Gen5…",
-          "detail": "『曝 vivo Pocket 搭载骁龙 8 Gen5 / 3-4 月发』 知名数码博主 数码闲聊站 今日爆料称，vivo 首款 Pocket 云台相机或搭载骁龙 8 Gen5 平台，预计将于 2027 年 3-4 月随 X500 Ultra 一同发布。 爆料信息： ◇ 200MP 1/1.12\" LYTIA 901 云台主摄 ◇ 3nm 骁龙 8 Gen5…",
-          "keyPoints": [
-            "影像硬件",
             "爆料来源"
           ],
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-5edada1ecb2c",
+          "title": "国际版三星 Galaxy S27 Pro 手机跑分曝光：Exynos 2700 芯片、12GB 内存",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-11-20",
+          "time": "23:32",
+          "publishedAt": "2026-11-20T23:32:53.000Z",
+          "url": "https://www.ithome.com/1/030/295.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/f042b3ad-55b3-42c6-8c50-2dec9225d65f.jpg?x-bce-process=image/format,f_auto",
+          "verdict": "先看",
+          "takeaway": "IT之家 11 月 21 日消息，型号“SM-S957B”的三星手机昨日（11 月 20 日）现身 GeekBench 跑分库， 7.1.0 版本单核成绩为 3,061 分，多核成绩为 10,967 分，相关线索表明该机上市后为三星 Galaxy S27 Pro。 IT之家注：根据 GSMA IMEI 数据库此前公示的信息，SM-S957B 对应三星 Ga…",
+          "detail": "IT之家 11 月 21 日消息，型号“SM-S957B”的三星手机昨日（11 月 20 日）现身 GeekBench 跑分库， 7.1.0 版本单核成绩为 3,061 分，多核成绩为 10,967 分，相关线索表明该机上市后为三星 Galaxy S27 Pro。 IT之家注：根据 GSMA IMEI 数据库此前公示的信息，SM-S957B 对应三星 Ga…",
+          "keyPoints": [
+            "芯片 / 性能"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        }
+      ]
+    },
+    {
+      "id": "iphone",
+      "title": "iPhone 重点",
+      "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
+      "items": [
+        {
+          "id": "newsnow-67d7bd47bf6c",
+          "title": "社区速递 166｜柯尼卡胶片机、iPhone Duo 体验与假期省钱实操大赏",
+          "originalTitle": "",
+          "source": "少数派热榜",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-11-21",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/119184",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "社区速递 166｜柯尼卡胶片机、iPhone Duo 体验与假期省钱实操大赏",
+          "detail": "社区速递 166｜柯尼卡胶片机、iPhone Duo 体验与假期省钱实操大赏",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "newsnow-d74bb65ac0b2",
+          "title": "iPhone 变强了，但我没有",
+          "originalTitle": "",
+          "source": "少数派热榜",
+          "brand": "iPhone",
+          "type": "评测",
+          "trust": "媒体汇总",
+          "date": "2026-11-21",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://sspai.com/post/118250",
+          "image": "",
+          "verdict": "扫一眼",
+          "takeaway": "iPhone 变强了，但我没有",
+          "detail": "iPhone 变强了，但我没有",
+          "keyPoints": [
+            "评测"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是实际体验内容，买前适合重点看缺点和取舍。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        }
+      ]
+    },
+    {
+      "id": "launch",
+      "title": "新机与官方发布",
+      "hint": "能直接更新到参数库。",
+      "items": [
+        {
+          "id": "auto-e26e52288d72",
+          "title": "Pixel 11 Pro XL 原型手机曝光，谷歌曾规划测温和通知灯“两全其美”",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "Pixel",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-11-21",
+          "time": "01:08",
+          "publishedAt": "2026-11-21T01:08:16.000Z",
+          "url": "https://www.ithome.com/1/030/310.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/381e89f1-e533-4475-b80e-c5b85d33ad71.jpg",
+          "verdict": "先看",
+          "takeaway": "IT之家 11 月 21 日消息，Telegram 频道 Google Internal 于 11 月 16 日发布动态，分享了一组图片， 展示了一款机身有明显划痕的 Pixel 11 Pro XL 原型机，亮点是同时配备了温度传感器和 HiLight LED 通知灯。 根据消息源披露的细节，该原型机为 Kodiak（对应 Pixel 11 Pro XL…",
+          "detail": "IT之家 11 月 21 日消息，Telegram 频道 Google Internal 于 11 月 16 日发布动态，分享了一组图片， 展示了一款机身有明显划痕的 Pixel 11 Pro XL 原型机，亮点是同时配备了温度传感器和 HiLight LED 通知灯。 根据消息源披露的细节，该原型机为 Kodiak（对应 Pixel 11 Pro XL…",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         }
       ]
     },
@@ -217,37 +298,14 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "newsnow-f041be6996e2",
-          "title": "8E还能在用几年 能不能成为我使用最最久的手机机[受虐滑稽](最长一台手机没活过两年) #小米15# #红米k100# #小米15Ultra#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-11-20",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/75182197",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "8E还能在用几年 能不能成为我使用最最久的手机机[受虐滑稽](最长一台手机没活过两年) #小米15# #红米k100# #小米15Ultra#",
-          "detail": "8E还能在用几年 能不能成为我使用最最久的手机机[受虐滑稽](最长一台手机没活过两年) #小米15# #红米k100# #小米15Ultra#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-21c0e81505f1",
+          "id": "newsnow-5910f483e634",
           "title": "不知道这个板块哪里来的那么多魔怔人，没公布价格前一堆人4999，3999，甚至2999的都来了，这都不叫许愿，许愿还有可能实现，华为的手机就单金属边框就可以断定这手机不低于5000，现在一堆人在那里刷1分给我看乐了，不知道哪来的那么大怨气，pxv机主还没说话一群妖魔先高潮",
           "originalTitle": "",
           "source": "酷安热榜",
           "brand": "Huawei",
           "type": "爆料",
           "trust": "高关注爆料源",
-          "date": "2026-11-20",
+          "date": "2026-11-21",
           "time": "",
           "publishedAt": "",
           "url": "https://www.coolapk.com/feed/75186476",
@@ -263,27 +321,27 @@ window.phoneRadarDaily = {
           "action": "有具体参数就记录到参数库；没有参数就先收藏。"
         },
         {
-          "id": "auto-6649e8a03e72",
-          "title": "Counterpoint：消费者耐用性需求崛起，康宁大猩猩玻璃引领智能手机材料创新",
+          "id": "newsnow-74bcddf94e60",
+          "title": "8E还能在用几年 能不能成为我使用最最久的手机机[受虐滑稽](最长一台手机没活过两年) #小米15# #红米k100# #小米15Ultra#",
           "originalTitle": "",
-          "source": "IT之家",
-          "brand": "行业",
+          "source": "酷安热榜",
+          "brand": "Xiaomi",
           "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-11-20",
-          "time": "11:12",
-          "publishedAt": "2026-11-20T11:12:03.000Z",
-          "url": "https://www.ithome.com/1/030/200.htm",
+          "trust": "高关注爆料源",
+          "date": "2026-11-21",
+          "time": "",
+          "publishedAt": "",
+          "url": "https://www.coolapk.com/feed/75182197",
           "image": "",
-          "verdict": "扫一眼",
-          "takeaway": "IT之家 11 月 20 日消息，随着高端智能手机普及，消费者对设备寿命的要求日益提升，耐用性正成为影响购机决策的关键因素。碎屏是导致用户提前换机的最常见原因之一，Counterpoint 研究副总裁 Neil Shah 与康宁的 Andrew Beck 展开对话，围绕最新消费者调研结果、大猩猩玻璃创新、盖板玻璃工程设计与材料技术展开探讨。 耐用性已成为购…",
-          "detail": "IT之家 11 月 20 日消息，随着高端智能手机普及，消费者对设备寿命的要求日益提升，耐用性正成为影响购机决策的关键因素。碎屏是导致用户提前换机的最常见原因之一，Counterpoint 研究副总裁 Neil Shah 与康宁的 Andrew Beck 展开对话，围绕最新消费者调研结果、大猩猩玻璃创新、盖板玻璃工程设计与材料技术展开探讨。 耐用性已成为购…",
+          "verdict": "先看",
+          "takeaway": "8E还能在用几年 能不能成为我使用最最久的手机机[受虐滑稽](最长一台手机没活过两年) #小米15# #红米k100# #小米15Ultra#",
+          "detail": "8E还能在用几年 能不能成为我使用最最久的手机机[受虐滑稽](最长一台手机没活过两年) #小米15# #红米k100# #小米15Ultra#",
           "keyPoints": [
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }

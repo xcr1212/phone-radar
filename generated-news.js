@@ -1,6 +1,366 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-11-20T21:48:15.696Z",
+  "updatedAt": "2026-11-21T03:11:39.349Z",
   "news": [
+    {
+      "id": "auto-710d989568e9",
+      "title": "荣耀 700/700 Pro 核心配置汇总：骁龙 8s Gen4 / 骁龙 8 Gen5，11 月 23 日发布",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-21",
+      "time": "02:53",
+      "publishedAt": "2026-11-21T02:53:17.000Z",
+      "url": "https://www.ithome.com/1/030/331.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/16b26de9-31d8-4f84-8127-7f8c84404a7d.png",
+      "summary": "IT之家 11 月 21 日消息，荣耀 700/700 Pro 手机将于 11 月 23 日 14:30 发布，博主 @数码闲聊站 今日对新机的核心配置进行了曝光汇总。 IT之家整理如下： 6.57\"1.5K+120Hz LTPS 直屏，0.98mm 四等边，1.59\" 原生背屏 骁龙 8s Gen4 / 骁龙 8 Gen5 处理器 9000mAh 电池…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-54e1a2cc78a2",
+      "title": "Samsung might copy the iPhone’s Dynamic Island soon, but it actually looks good [Video]",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-21",
+      "time": "02:45",
+      "publishedAt": "2026-11-21T02:45:00.000Z",
+      "url": "https://9to5google.com/2026/11/20/samsung-iphone-dynamic-island-feature-leak/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-s26-ultra-privacy-display-20.jpg?quality=82&strip=all&w=1600",
+      "summary": "A new leak suggests that Samsung is preparing to copy the iPhone’s Dynamic Island feature in the not-too-distant future, to an extent that not many other Android brands have even…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b304679dee1a",
+      "title": "华为 Mate X8 大折叠手机黑白双色亮相，11 月 24 日发布",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-21",
+      "time": "02:09",
+      "publishedAt": "2026-11-21T02:09:38.000Z",
+      "url": "https://www.ithome.com/1/030/324.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/fef6ba3a-336f-4270-822a-4353f820308d.png",
+      "summary": "IT之家 11 月 21 日消息，华为今日公布 Mate X8 大折叠手机黑白双色官图，新机将于 11 月 24 日 14:30 发布。 IT之家注意到，华为 Mate X8 及全场景新品发布会将于 11 月 24 日 14:30 举行，目前这款折叠屏新机已现身华为官网，并公开了部分配置信息及所有配色的外观图。 颜色 紫金锦 苍穹黑 雪域白 青云锦 丹霞锦…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5003f2fe8293",
+      "title": "摩托罗拉首款宽折叠 Razr Flex 手机爆料，配高通未发布的 SM8845 Pro 芯片",
+      "source": "IT之家",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-21",
+      "time": "01:30",
+      "publishedAt": "2026-11-21T01:30:20.000Z",
+      "url": "https://www.ithome.com/1/030/315.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/174a433f-7c55-411c-8ce1-dcdf395f1984.jpg",
+      "summary": "IT之家 11 月 21 日消息，科技媒体 GSMArena 昨日（11 月 20 日）发布博文， 报道称摩托罗拉首款宽折叠手机 Razr Flex 有望配备高通尚未发布的 SM8845 Pro 芯片 ，而此前有消息称该芯片由一加 Turbo 7 系列首发搭载。 根据 TrustCB 安全认证文件显示信息，摩托罗拉首款宽折叠手机 Razr Flex 内部代…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-62c8726adeb7",
+      "title": "消息称某厂骁龙 8E6 大屏旗舰机“打磨中”，预计为小米 18 Max",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-21",
+      "time": "01:24",
+      "publishedAt": "2026-11-21T01:24:47.000Z",
+      "url": "https://www.ithome.com/1/030/313.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/6433743f-3350-4ec4-a6e1-f721c330ec5e.png",
+      "summary": "IT之家 11 月 21 日消息，据博主 @数码闲聊站 今日爆料，某厂骁龙 8E6 大屏旗舰机“打磨中”，搭载超大底影像、超 8000mAh 大电池，采用简约 ID 设计。结合该博主的爆料习惯，评论区网友推测为小米 18 Max。 IT之家注意到，小米 18 Pro 系列手机于今年 9 月发布，首发第六代骁龙 8 至尊版、一体式纯平背屏，5999 元起。小…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-1147e7b5cf13",
+      "title": "JSCHEN小小狐：『小米 18 Max 曝光：骁龙 8E6 / 8K+ 大电池』 ◇ 骁龙 8 Elite Gen6（SM8950）…",
+      "source": "JSCHEN小小狐",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-21",
+      "time": "01:09",
+      "publishedAt": "2026-11-21T01:09:11.000Z",
+      "url": "https://www.coolapk.com/feed/75189440",
+      "image": "http://image.coolapk.com/feed/2026/1121/09/4702274_ae8f9e40_3350_801_592@1440x426.jpg",
+      "summary": "『小米 18 Max 曝光：骁龙 8E6 / 8K+ 大电池』 ◇ 骁龙 8 Elite Gen6（SM8950） ◇ 6.9\"± 超级像素 OLED 大屏 ◇ 超大底影像（或 1/1.28\"） ◇ 8000+mAh 大容量电池 ◇ 取消背屏｜简约 ID 设计 #今日热点# #小米18# #小米18Max#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-e26e52288d72",
+      "title": "Pixel 11 Pro XL 原型手机曝光，谷歌曾规划测温和通知灯“两全其美”",
+      "source": "IT之家",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-21",
+      "time": "01:08",
+      "publishedAt": "2026-11-21T01:08:16.000Z",
+      "url": "https://www.ithome.com/1/030/310.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/381e89f1-e533-4475-b80e-c5b85d33ad71.jpg",
+      "summary": "IT之家 11 月 21 日消息，Telegram 频道 Google Internal 于 11 月 16 日发布动态，分享了一组图片， 展示了一款机身有明显划痕的 Pixel 11 Pro XL 原型机，亮点是同时配备了温度传感器和 HiLight LED 通知灯。 根据消息源披露的细节，该原型机为 Kodiak（对应 Pixel 11 Pro XL…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-bc0d538b8255",
+      "title": "数码闲聊站：独家超前瞻，母系骁龙8E6大屏旗舰机感兴趣吗？超大底影像+8开头大电池+简约I…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-21",
+      "time": "01:08",
+      "publishedAt": "2026-11-21T01:08:00.000Z",
+      "url": "https://weibo.com/6048569942/Rsn31jMj2",
+      "image": "",
+      "summary": "独家超前瞻，母系骁龙8E6大屏旗舰机感兴趣吗？超大底影像+8开头大电池+简约ID设计，打磨中",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-3da6f5bbe4c8",
+      "title": "早报｜曝Claude证明黎曼猜想，陶哲轩回应/余承东更正发布会表述：开车不能睡觉/五月天公布Vision Pro演唱会，Apple Store可预约体验",
+      "source": "爱范儿",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-11-21",
+      "time": "00:25",
+      "publishedAt": "2026-11-21T00:25:08.000Z",
+      "url": "https://www.ifanr.com/1690759?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "image": "https://s3.ifanr.com/wp-content/uploads/2026/11/c6328668e3cb4bfbb37616a5dbc2d5b8.jpg",
+      "summary": "· 三星任命手机和存储业务新负责人 · 5499 元起，华为星芒发布首款阔直板手机 OSTA O1 Pro · ColorOS 17 上线跨品牌一碰传",
+      "tags": [
+        "Huawei",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-bfd196d7caed",
+      "title": "iPhone Duo arrives at Apple Store locations worldwide",
+      "source": "Apple Newsroom",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-11-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.apple.com/newsroom/2026/10/iphone-duo-arrives-at-apple-store-locations-worldwide/",
+      "image": "",
+      "summary": "On Friday, October 23, the highly anticipated iPhone Duo made its debut at Apple Store locations worldwide.",
+      "tags": [
+        "iPhone",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "newsnow-67d7bd47bf6c",
+      "title": "社区速递 166｜柯尼卡胶片机、iPhone Duo 体验与假期省钱实操大赏",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-11-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/119184",
+      "image": "",
+      "summary": "社区速递 166｜柯尼卡胶片机、iPhone Duo 体验与假期省钱实操大赏",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-d74bb65ac0b2",
+      "title": "iPhone 变强了，但我没有",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-11-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/118250",
+      "image": "",
+      "summary": "iPhone 变强了，但我没有",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-0f4720e28b46",
+      "title": "上手了几个小时，总结一下，就是pura x view换皮，但是512 6199还行吧",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/75182448",
+      "image": "",
+      "summary": "上手了几个小时，总结一下，就是pura x view换皮，但是512 6199还行吧",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-5910f483e634",
+      "title": "不知道这个板块哪里来的那么多魔怔人，没公布价格前一堆人4999，3999，甚至2999的都来了，这都不叫许愿，许愿还有可能实现，华为的手机就单金属边框就可以断定这手机不低于5000，现在一堆人在那里刷1分给我看乐了，不知道哪来的那么大怨气，pxv机主还没说话一群妖魔先高潮",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/75186476",
+      "image": "",
+      "summary": "不知道这个板块哪里来的那么多魔怔人，没公布价格前一堆人4999，3999，甚至2999的都来了，这都不叫许愿，许愿还有可能实现，华为的手机就单金属边框就可以断定这手机不低于5000，现在一堆人在那里刷1分给我看乐了，不知道哪来的那么大怨气，pxv机主还没说话一群妖魔先高潮",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-74bcddf94e60",
+      "title": "8E还能在用几年 能不能成为我使用最最久的手机机[受虐滑稽](最长一台手机没活过两年) #小米15# #红米k100# #小米15Ultra#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/75182197",
+      "image": "",
+      "summary": "8E还能在用几年 能不能成为我使用最最久的手机机[受虐滑稽](最长一台手机没活过两年) #小米15# #红米k100# #小米15Ultra#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-5e8fae4556ad",
+      "title": "韩国首次用「紧急灾难通知」让全国手机响铃 10.5 秒防高考作弊，此举合理吗？",
+      "source": "知乎热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "市场报告",
+      "trust": "媒体汇总",
+      "date": "2026-11-21",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.zhihu.com/question/2106706684672471150",
+      "image": "",
+      "summary": "韩国首次用「紧急灾难通知」让全国手机响铃 10.5 秒防高考作弊，此举合理吗？",
+      "tags": [
+        "行业",
+        "市场报告",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "auto-5edada1ecb2c",
+      "title": "国际版三星 Galaxy S27 Pro 手机跑分曝光：Exynos 2700 芯片、12GB 内存",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-20",
+      "time": "23:32",
+      "publishedAt": "2026-11-20T23:32:53.000Z",
+      "url": "https://www.ithome.com/1/030/295.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/f042b3ad-55b3-42c6-8c50-2dec9225d65f.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 11 月 21 日消息，型号“SM-S957B”的三星手机昨日（11 月 20 日）现身 GeekBench 跑分库， 7.1.0 版本单核成绩为 3,061 分，多核成绩为 10,967 分，相关线索表明该机上市后为三星 Galaxy S27 Pro。 IT之家注：根据 GSMA IMEI 数据库此前公示的信息，SM-S957B 对应三星 Ga…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7eff295f6e35",
+      "title": "苹果超薄 iPhone 要补拍照短板？Air 2 机模显示双摄设计",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-20",
+      "time": "23:10",
+      "publishedAt": "2026-11-20T23:10:00.000Z",
+      "url": "https://www.ithome.com/1/030/290.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/20c6c5c6-bc6f-489a-ba4d-d31485c292d2.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 11 月 21 日消息，消息源 @SonnyDickson 昨日（11 月 20 日）在 X 平台发布推文， 分享了两张照片，展示了苹果 iPhone 18 标准版，以及 iPhone Air 2（推文称其为 iPhone 18 Air）的机模。 外观方面，本次曝光的机模照片来看，苹果 iPhone Air 2 有别于初代 Air 的单摄设计，在…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-5e296554aaf0",
       "title": "Google Health 5.13 update makes tracking workouts and meals easier",
@@ -322,26 +682,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-6649e8a03e72",
-      "title": "Counterpoint：消费者耐用性需求崛起，康宁大猩猩玻璃引领智能手机材料创新",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-20",
-      "time": "11:12",
-      "publishedAt": "2026-11-20T11:12:03.000Z",
-      "url": "https://www.ithome.com/1/030/200.htm",
-      "image": "",
-      "summary": "IT之家 11 月 20 日消息，随着高端智能手机普及，消费者对设备寿命的要求日益提升，耐用性正成为影响购机决策的关键因素。碎屏是导致用户提前换机的最常见原因之一，Counterpoint 研究副总裁 Neil Shah 与康宁的 Andrew Beck 展开对话，围绕最新消费者调研结果、大猩猩玻璃创新、盖板玻璃工程设计与材料技术展开探讨。 耐用性已成为购…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-99dab05251ca",
       "title": "Google’s Pixel 11 Pro Fold is $250 off for Black Friday",
       "source": "Android Authority",
@@ -459,46 +799,6 @@ window.phoneRadarAuto = {
         "行业",
         "评测",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-347a08067ba1",
-      "title": "竹本青：华为、北汽战略共同体再升级",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-20",
-      "time": "08:42",
-      "publishedAt": "2026-11-20T08:42:00.000Z",
-      "url": "https://www.coolapk.com/feed/75177950",
-      "image": "http://image.coolapk.com/feed/2026/1120/16/4248714_cf320783_4118_9948_289@2000x1333.jpg",
-      "summary": "【华为、北汽战略共同体再升级：战略投入再加码，四大体系再升级】 技术产品升级：强化鸿蒙智行模式合作，享界持续投入专项资金，持续拓宽产品矩阵，推动技术及产品体验升级。 专属团队升级：汇聚华为北汽双方优秀人才与专家力量，持续锻造享界事业部专属团队能力，夯实品牌升级组织底座。 品质保障升级：享界专属品质保障体系，全链路升级迭代双质检体系，共筑行业领先的高端新能源…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-415b32742180",
-      "title": "竹本青：【华为星芒OSTA O1 Pro 阔直板手机 正式发布：麒麟9030S处理器，首发5499元起】 12GB+256…",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-20",
-      "time": "08:39",
-      "publishedAt": "2026-11-20T08:39:41.000Z",
-      "url": "https://www.coolapk.com/feed/75177860",
-      "image": "http://image.coolapk.com/feed/2026/1120/16/4248714_5174a222_4255_2432_353@2736x3030.jpg",
-      "summary": "【华为星芒OSTA O1 Pro 阔直板手机 正式发布：麒麟9030S处理器，首发5499元起】 12GB+256GB —— 5499元 12GB+512GB —— 6499元 16GB+512GB —— 7299元 16GB+1TB —— 8799元 ● 6.39\"1.5K LTPS直屏 ● 麒麟9030S处理器 ● 7000mAh电池+66W有线+无线…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -697,446 +997,6 @@ window.phoneRadarAuto = {
       "summary": "『曝 vivo S70 系列 / iQOO 16R 或春节前发布』 vivo S70 系列： - 6.59 英寸 1.5K 144Hz LTPS OLED 直屏 - 50MP 1/1.56\" 主摄 + 8MP 1/4\" 超广角 - 64MP 1/2\" LYTIA 610 旗舰长焦（高配） - 天玑 8 系 / 骁龙 8s Gen4 平台（高配） - 预计将…",
       "tags": [
         "vivo",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-bfd196d7caed",
-      "title": "iPhone Duo arrives at Apple Store locations worldwide",
-      "source": "Apple Newsroom",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "官方",
-      "trust": "官方确认",
-      "date": "2026-11-20",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.apple.com/newsroom/2026/10/iphone-duo-arrives-at-apple-store-locations-worldwide/",
-      "image": "",
-      "summary": "On Friday, October 23, the highly anticipated iPhone Duo made its debut at Apple Store locations worldwide.",
-      "tags": [
-        "iPhone",
-        "官方",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "newsnow-dca723d63ef5",
-      "title": "社区速递 166｜柯尼卡胶片机、iPhone Duo 体验与假期省钱实操大赏",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-11-20",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/119184",
-      "image": "",
-      "summary": "社区速递 166｜柯尼卡胶片机、iPhone Duo 体验与假期省钱实操大赏",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-fa94b8d201ff",
-      "title": "iPhone 变强了，但我没有",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-11-20",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/118250",
-      "image": "",
-      "summary": "iPhone 变强了，但我没有",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-345072abe131",
-      "title": "上手了几个小时，总结一下，就是pura x view换皮，但是512 6199还行吧",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-20",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/75182448",
-      "image": "",
-      "summary": "上手了几个小时，总结一下，就是pura x view换皮，但是512 6199还行吧",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-f041be6996e2",
-      "title": "8E还能在用几年 能不能成为我使用最最久的手机机[受虐滑稽](最长一台手机没活过两年) #小米15# #红米k100# #小米15Ultra#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-20",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/75182197",
-      "image": "",
-      "summary": "8E还能在用几年 能不能成为我使用最最久的手机机[受虐滑稽](最长一台手机没活过两年) #小米15# #红米k100# #小米15Ultra#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-21c0e81505f1",
-      "title": "不知道这个板块哪里来的那么多魔怔人，没公布价格前一堆人4999，3999，甚至2999的都来了，这都不叫许愿，许愿还有可能实现，华为的手机就单金属边框就可以断定这手机不低于5000，现在一堆人在那里刷1分给我看乐了，不知道哪来的那么大怨气，pxv机主还没说话一群妖魔先高潮",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-20",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/75186476",
-      "image": "",
-      "summary": "不知道这个板块哪里来的那么多魔怔人，没公布价格前一堆人4999，3999，甚至2999的都来了，这都不叫许愿，许愿还有可能实现，华为的手机就单金属边框就可以断定这手机不低于5000，现在一堆人在那里刷1分给我看乐了，不知道哪来的那么大怨气，pxv机主还没说话一群妖魔先高潮",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-2767069ceccc",
-      "title": "Next year’s iPhone Pro redesign sounds like exactly what I’ve been wanting",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-19",
-      "time": "20:49",
-      "publishedAt": "2026-11-19T20:49:24.000Z",
-      "url": "https://9to5mac.com/2026/11/19/next-years-iphone-pro-redesign-sounds-like-exactly-what-ive-been-wanting/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/iphone-20-pro-blue-mockup.jpg?quality=82&strip=all&w=1600",
-      "summary": "Rumors about next year’s 20th anniversary iPhone Pro models have been ramping up, and they suggest Apple is designing an ‘iPhone 20 Pro’ that combines traits from two current mode…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-146d51b57368",
-      "title": "At $600, the Pixel 10 is this year’s no-brainer Black Friday smartphone deal",
-      "source": "9to5Google",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-19",
-      "time": "19:18",
-      "publishedAt": "2026-11-19T19:18:00.000Z",
-      "url": "https://9to5google.com/2026/11/19/at-600-the-pixel-10-is-this-years-no-brainer-black-friday-smartphone-deal/",
-      "image": "",
-      "summary": "Phones have gotten a lot more expensive over the last year or so, and it’s a trend we’re expecting to get worse before it can get better. If you’re in the market for an upgrade, t…",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-441439e580a3",
-      "title": "Lowest we've seen it—Pixel 11 Pro XL gets a huge 31% Black Friday price knock that's too hard to ignore",
-      "source": "Android Central",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-11-19",
-      "time": "18:18",
-      "publishedAt": "2026-11-19T18:18:50.000Z",
-      "url": "https://www.androidcentral.com/phones/google-pixel/lowest-weve-seen-it-pixel-11-pro-xl-gets-a-huge-black-friday-price-knock",
-      "image": "https://cdn.mos.cms.futurecdn.net/Ni4kcs6BxKr46b5TnNE6Pm-1920-80.jpg",
-      "summary": "Google's Pixel 11 Pro XL price plummets by $400 in a massive early Black Friday sale.",
-      "tags": [
-        "Pixel",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5489ad4c15bc",
-      "title": "iPhone Duo vs. Samsung Galaxy Z Fold8: Which is Better?",
-      "source": "MacRumors",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-19",
-      "time": "18:04",
-      "publishedAt": "2026-11-19T18:04:57.000Z",
-      "url": "https://www.macrumors.com/2026/11/19/iphone-duo-vs-samsung-galaxy-z-fold8/",
-      "image": "",
-      "summary": "A couple of months before the iPhone Duo came out, Samsung launched the Galaxy Z Fold8. It's Samsung's widest and shortest foldable to date, with Samsung adopting an aspect ratio…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-3c7e96954b3a",
-      "title": "Galaxy S26 FE has never looked better—a sweet 25% deal slides in before Black Friday",
-      "source": "Android Central",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-11-19",
-      "time": "17:40",
-      "publishedAt": "2026-11-19T17:40:12.000Z",
-      "url": "https://www.androidcentral.com/phones/samsung-galaxy/galaxy-s26-fe-has-a-sweet-deal-slides-in-before-black-friday",
-      "image": "https://cdn.mos.cms.futurecdn.net/qKeKKkeHyK6tAcLYcdKaNS-1920-80.jpg",
-      "summary": "Samsung's Galaxy S26 FE just dropped by $200 on Amazon, and that means Black Friday is finally here.",
-      "tags": [
-        "Samsung",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-e32ab0dcc791",
-      "title": "Motorola Edge 2026 gets a record $200 Black Friday price cut",
-      "source": "Android Authority",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-19",
-      "time": "17:24",
-      "publishedAt": "2026-11-19T17:24:49.000Z",
-      "url": "https://www.androidauthority.com/motorola-edge-2026-deal-3737378/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Motorola-Moto-Edge-2026-rear-hero.jpg",
-      "summary": "Motorola's compact 6.3-inch Edge is 33% off on Amazon, its lowest price yet.",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-4cba00c1ab28",
-      "title": "Motorola’s iPhone Duo competitor, Razr Flex, leaks in detailed images [Gallery]",
-      "source": "9to5Google",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-19",
-      "time": "16:40",
-      "publishedAt": "2026-11-19T16:40:00.000Z",
-      "url": "https://9to5google.com/2026/11/19/motorola-razr-flex-iphone-duo-leak/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/motorola-razr-flex-leak-sg-1.jpg?quality=82&strip=all&w=1600",
-      "summary": "Motorola’s Razr Flex has leaked in full, with the iPhone Duo competitor showing off its wide form factor in two colors, and it looks great. more…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-625e525cb566",
-      "title": "Motorola Razr Flex leaks in real life with Fold 8 and iPhone Duo shape, mystery chipset",
-      "source": "9to5Google",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-19",
-      "time": "14:50",
-      "publishedAt": "2026-11-19T14:50:00.000Z",
-      "url": "https://9to5google.com/2026/11/19/motorola-razr-flex-leak-image-specs/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/motorola-razr-flex-leak-2.jpg?quality=82&strip=all&w=1200",
-      "summary": "Motorola’s upcoming Razr Flex foldable is expected to have the same wide foldable form factor as Galaxy Z Fold 8 and iPhone Duo, and new leaks not only reveal its design, but hint…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-2e62ef934639",
-      "title": "Samsung Galaxy S26 FE 256GB hits a record low for Black Friday",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-19",
-      "time": "14:32",
-      "publishedAt": "2026-11-19T14:32:29.000Z",
-      "url": "https://www.androidauthority.com/galaxy-s26-fe-black-friday-deal-3737241/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Samsung-Galaxy-S26FE-blueberry.jpg",
-      "summary": "Save $200 on Samsung's newest Fan Edition phone with double the base storage.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-6e330ad9c486",
-      "title": "今年是阔屏的元年，阔屏是手机的今后十年",
-      "source": "爱范儿",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-11-19",
-      "time": "13:00",
-      "publishedAt": "2026-11-19T13:00:02.000Z",
-      "url": "https://www.ifanr.com/1690322?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "image": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1795078705543-1.jpg",
-      "summary": "新中产、新比例、新潮流",
-      "tags": [
-        "行业",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-98c87758e73e",
-      "title": "Galaxy Z Fold 8 is $1,499 for Black Friday; its new lowest price ever, just not for everyone",
-      "source": "9to5Google",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-19",
-      "time": "12:30",
-      "publishedAt": "2026-11-19T12:30:00.000Z",
-      "url": "https://9to5google.com/2026/11/19/galaxy-z-fold-8-1499-deal/",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-review-47.jpg?quality=82&strip=all&w=1600",
-      "summary": "A strange deal over on Samsung.com is offering the Galaxy Z Fold 8 for $1,499, a new low price for the hit foldable, but it’s not showing up for all users. more…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-158c7903aa07",
-      "title": "Upcoming OnePlus flagship to pack a 2K 240Hz OLED panel with 6.89-inch size and ultra-narrow bezels",
-      "source": "Gizmochina",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-19",
-      "time": "10:26",
-      "publishedAt": "2026-11-19T10:26:23.000Z",
-      "url": "https://www.gizmochina.com/2026/11/19/oneplus-17-240hz-boe-display-leak/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/OnePlus-dispaly-leak-300x169.jpg?x47967",
-      "summary": "OnePlus recently launched the OnePlus 16 in China with a 185Hz BOE display, and leaks about its next flagship have already started trickling in. Tipster Digital Chat Station had e…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-195cae60af5c",
-      "title": "JSCHEN小小狐：摩托罗拉Edge 70 Neo将在印度发布：四微曲屏",
-      "source": "JSCHEN小小狐",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-19",
-      "time": "08:53",
-      "publishedAt": "2026-11-19T08:53:25.000Z",
-      "url": "https://www.coolapk.com/feed/75159795",
-      "image": "http://image.coolapk.com/feed/2026/1120/00/4702274_1db9b858_5240_1811_982@1960x1633.jpg",
-      "summary": "『摩托罗拉 Edge 70 Neo 印度官宣：四微曲屏』 近日，摩托罗拉官方发布预告页面，透露其将于 11 月 24 日在印度市场推出全新中端机 Edge 70 Neo。据悉，该机主要配置信息如下： ◇ 外观 山景、乳蓝色、鼠尾草、灰丁香 塑胶边框 + 素皮 / 复合板材后盖 162.8 × 75.6 × 8.5mm，204 克 ◇ 性能 骁龙 7s Ge…",
-      "tags": [
-        "行业",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "weibo-4098320e2b61",
-      "title": "数码闲聊站：一个超前瞻，无边四曲屏和阔屏同步开发中",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-19",
-      "time": "08:36",
-      "publishedAt": "2026-11-19T08:36:00.000Z",
-      "url": "https://weibo.com/6048569942/Rs77S7REF",
-      "image": "",
-      "summary": "一个超前瞻，无边四曲屏和阔屏同步开发中",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "coolapk-user-3576a53dfea1",
-      "title": "JSCHEN小小狐：曝vivo Pocket搭载骁龙8 Gen5，明年3-4月发布",
-      "source": "JSCHEN小小狐",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-19",
-      "time": "07:17",
-      "publishedAt": "2026-11-19T07:17:08.000Z",
-      "url": "https://www.coolapk.com/feed/75158172",
-      "image": "http://image.coolapk.com/feed/2026/1119/15/4702274_3f4e7fc4_2627_4202_896@1440x508.jpg",
-      "summary": "『曝 vivo Pocket 搭载骁龙 8 Gen5 / 3-4 月发』 知名数码博主 数码闲聊站 今日爆料称，vivo 首款 Pocket 云台相机或搭载骁龙 8 Gen5 平台，预计将于 2027 年 3-4 月随 X500 Ultra 一同发布。 爆料信息： ◇ 200MP 1/1.12\" LYTIA 901 云台主摄 ◇ 3nm 骁龙 8 Gen5…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-9d3fa0a43846",
-      "title": "JSCHEN小小狐：Mate90 Air 上架后，华为把官网和商城的 70 Air 链接都清干净了。作为参考，早 70 Air 一年发…",
-      "source": "JSCHEN小小狐",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-19",
-      "time": "04:24",
-      "publishedAt": "2026-11-19T04:24:30.000Z",
-      "url": "https://www.coolapk.com/feed/75155424",
-      "image": "http://image.coolapk.com/feed/2026/1119/12/4702274_5adc589d_2269_7678_275@3056x1656.png",
-      "summary": "Mate90 Air 上架后，华为把官网和商城的 70 Air 链接都清干净了。作为参考，早 70 Air 一年发布的 Mate70 系列正代都还在官网和商城挂着…… 另外现在你在搜索引擎里去搜 70 Air 链接，除了外观标注图外，点进去全都是默认跳转华为手机首页。而其他 Mate70 机型就都能加载出来。 #华为Mate70Air# #华为Mate70…",
-      "tags": [
-        "Huawei",
         "爆料",
         "酷安博主"
       ]
