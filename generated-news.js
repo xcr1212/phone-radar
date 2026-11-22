@@ -1,6 +1,86 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-11-22T09:45:13.157Z",
+  "updatedAt": "2026-11-22T17:48:33.463Z",
   "news": [
+    {
+      "id": "auto-8d3d659e45aa",
+      "title": "Apple tested a ‘complication column’ for the iPhone Duo Lock Screen, per leak",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-22",
+      "time": "17:13",
+      "publishedAt": "2026-11-22T17:13:56.000Z",
+      "url": "https://9to5mac.com/2026/11/22/apple-tested-a-complication-column-for-the-iphone-duo-lock-screen-per-leak/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-23.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple made a bunch of changes to iOS to optimize it for the iPhone Duo’s form factor, including revamping the Lock Screen. According to a new leak today, the company has tested an…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-870d8f3d84ce",
+      "title": "UGREEN’s excellent liquid cooled 25W MagSafe battery for iPhone is now 40% off",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-22",
+      "time": "14:43",
+      "publishedAt": "2026-11-22T14:43:24.000Z",
+      "url": "https://9to5mac.com/2026/11/22/ugreen-25w-magsafe-liquid-cooling-battery-black-friday/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/DSC03213.jpg?quality=82&strip=all&w=1600",
+      "summary": "Recently, UGREEN introduced a new Qi2.2 25W 10000mAh MagSafe battery bank for iPhone. There have been plenty of these, but this one has an interesting new twist: liquid cooling. F…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-a0617e620279",
+      "title": "竹本青：【荣耀3D打印机真机首曝：主打“快速”“智能”】 11月21日，荣耀全场景产品线总裁“潇哥”发布视频，首次曝光荣耀…",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-22",
+      "time": "13:21",
+      "publishedAt": "2026-11-22T13:21:40.000Z",
+      "url": "https://www.coolapk.com/feed/75218823",
+      "image": "http://image.coolapk.com/feed/2026/1122/21/4248714_5ca35b7e_3698_7111_643-livepic@720x1280.jpg",
+      "summary": "【荣耀3D打印机真机首曝：主打“快速”“智能”】 11月21日，荣耀全场景产品线总裁“潇哥”发布视频，首次曝光荣耀3D打印机真机，他透露产品主打\"快速\"和\"智能\"。 据视频展示，该设备印有HONOR标识，正面配备触摸显示屏，结构为立式箱体。 此前有媒体爆料，荣耀正推进消费级3D打印机研发，目前相关产品已有实机，不过具体研发进度及上市时间尚未得到官方确认。…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-bcfb3c9f3c46",
+      "title": "竹本青：【今日宜休王来：华为「星芒」名字由我提案通过，英文名不知道是谁改了】 11月22日，今日宜休品牌高管王来发文，表示…",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-22",
+      "time": "13:07",
+      "publishedAt": "2026-11-22T13:07:15.000Z",
+      "url": "https://www.coolapk.com/feed/75218587",
+      "image": "http://image.coolapk.com/feed/2026/1122/21/4248714_c0201ea4_2807_3652_824@2817x2943.jpg",
+      "summary": "【今日宜休王来：华为「星芒」名字由我提案通过，英文名不知道是谁改了】 11月22日，今日宜休品牌高管王来发文，表示华为「星芒」这一品牌名由其在三年前提案通过，不过他补充称不清楚英文名是谁改了，且“品牌的视觉有点廉价”。 据王来社媒自述，其曾在华为终端市场营销部门任职约十年，职级由13级升至19级、年薪几百万，2026年2月离职；目前任职今日宜休CMO及品牌…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
     {
       "id": "auto-abae9fe9aba8",
       "title": "Clicks Communicator 实体键盘手机因零部件供应短缺推迟交付，2027 年 1 月下旬发货",
@@ -59,46 +139,6 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-0dbd861fa5a4",
-      "title": "vivo Y21s/Y11s/Y05s 三款 5G 手机规格曝光：6.74 英寸 120Hz LCD 屏、6500mAh 电池",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-22",
-      "time": "07:08",
-      "publishedAt": "2026-11-22T07:08:33.000Z",
-      "url": "https://www.ithome.com/1/030/588.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/6b95503d-a475-4ae3-aa51-f6c28a99264d.png",
-      "summary": "IT之家 11 月 22 日消息，消息源 Sudhanshu1414 现已曝光了 vivo 旗下 Y21s/Y11s/Y05s 三款 5G 手机规格信息，IT之家整理价格信息如下： vivo Y21s 该机正面配备一块 6.74 英寸 1600x720 分辨率 120Hz LCD 面板，匹配 5Mp 自拍摄像头；手机后置 50Mp 主摄及 0.08Mp 辅…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-5487db1c3ade",
-      "title": "智能手环销量全球 No.1：小米手环官宣累计出货超 2.4 亿只，连续 35 个季度拿下第一",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-22",
-      "time": "05:24",
-      "publishedAt": "2026-11-22T05:24:52.000Z",
-      "url": "https://www.ithome.com/1/030/568.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/c60cb37d-0f02-4c0d-9a69-4bde83bff0eb.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 11 月 22 日消息，小米官方昨晚宣布，小米智能手环销量位居世界第一， 截至目前全球出货量已超过 2.4 亿只 。 市场调研机构 Omdia 数据显示，从 2017 年第四季度至 2026 年第二季度， 小米及 REDMI 在全球基础手环市场连续 35 个季度位居出货量榜首 。 IT之家注：小米在国内市场最新的手环产品为 9 月上市的小米手环…",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -162,6 +202,46 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-6bcc83cd5c16",
+      "title": "IP联名的手机大家都玩过吧？像一加刻晴、神里绫华这些，确实好看，但普通手机想用上自己喜欢的IP深度定制可太难了，所以我闲着没事决定自己动手丰衣足食，做了一套大肥鱼联名主题。",
+      "source": "酷安热榜",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-22",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/75215310",
+      "image": "",
+      "summary": "IP联名的手机大家都玩过吧？像一加刻晴、神里绫华这些，确实好看，但普通手机想用上自己喜欢的IP深度定制可太难了，所以我闲着没事决定自己动手丰衣足食，做了一套大肥鱼联名主题。",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-1b5ed56ea7ce",
+      "title": "想下单iphone的时候，换个壁纸冲击一下",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-22",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/75203256",
+      "image": "",
+      "summary": "想下单iphone的时候，换个壁纸冲击一下",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-5b1854ea926f",
       "title": "有个疑问，我看x9 u已经很水桶了，为啥评分才8.6，隔壁米17u电池更小，没有超长焦，系统也一般，为啥是9.2分呢？",
       "source": "酷安热榜",
@@ -182,79 +262,39 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-03e3fb36fa89",
-      "title": "红米K100 Pro Max的音质真比不过K90 Pro Max，现场听了试了，100 Pro Max还是澎湃304，估计升级到澎湃4，那音效更拉胯。[受虐滑稽] #REDMIK100ProMax# #QQ音乐# #音乐软件#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-22",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/75197265",
-      "image": "",
-      "summary": "红米K100 Pro Max的音质真比不过K90 Pro Max，现场听了试了，100 Pro Max还是澎湃304，估计升级到澎湃4，那音效更拉胯。[受虐滑稽] #REDMIK100ProMax# #QQ音乐# #音乐软件#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-59b601234164",
-      "title": "mate90Air 就是个乐子手机， 用 9020 处理器。本来麒麟芯片就落后 3 代，还用 2 年前的处理器，买这个手机的一下子低人 5 等。#华为Mate90Air# #鸿蒙7#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-22",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/75201246",
-      "image": "",
-      "summary": "mate90Air 就是个乐子手机， 用 9020 处理器。本来麒麟芯片就落后 3 代，还用 2 年前的处理器，买这个手机的一下子低人 5 等。#华为Mate90Air# #鸿蒙7#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-6b0ee2069606",
-      "title": "站哥爆料 小屏以后会越来越少了 小米13 14可以说是吸引了不少小屏用户 自从24年开始安卓其他几家也开始做起了小屏旗舰 比如vivo的x200promimi oppofindx8s 一加13t 荣耀magic8proair这些都是各家小屏旗舰的开篇之作 并且后面都在延续小屏的迭代 苹果一直以来都在做小屏旗舰 这都不用多说了 现在随着小屏逐渐减少 小屏党们怎么想 #vivoX200Promini# #OPPOFindX8s# #iPhone18Pro#",
-      "source": "酷安热榜",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-22",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/75197833",
-      "image": "",
-      "summary": "站哥爆料 小屏以后会越来越少了 小米13 14可以说是吸引了不少小屏用户 自从24年开始安卓其他几家也开始做起了小屏旗舰 比如vivo的x200promimi oppofindx8s 一加13t 荣耀magic8proair这些都是各家小屏旗舰的开篇之作 并且后面都在延续小屏的迭代 苹果一直以来都在做小屏旗舰 这都不用多说了 现在随着小屏逐渐减少 小屏党们…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-1a9f31c4143b",
-      "title": "第一批买iPhoneDuo的人亏麻了",
-      "source": "微博热搜",
+      "id": "newsnow-30a023cf0d94",
+      "title": "数码城老板说iPhone Duo质量相当差",
+      "source": "今日头条热榜",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
       "type": "爆料",
-      "trust": "待验证",
+      "trust": "媒体汇总",
       "date": "2026-11-22",
       "time": "",
       "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E4%B9%B0iPhoneDuo%E7%9A%84%E4%BA%BA%E4%BA%8F%E9%BA%BB%E4%BA%86%23&t=31&band_rank=5&Refer=top",
+      "url": "https://www.toutiao.com/trending/7710089748110478890/",
       "image": "",
-      "summary": "第一批买iPhoneDuo的人亏麻了",
+      "summary": "数码城老板说iPhone Duo质量相当差",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-ccc8f8a75675",
+      "title": "iPhone Duo渠道价已低于官方价",
+      "source": "今日头条热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-22",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.toutiao.com/trending/7710991852404592137/",
+      "image": "",
+      "summary": "iPhone Duo渠道价已低于官方价",
       "tags": [
         "iPhone",
         "爆料",
@@ -393,7 +433,7 @@ window.phoneRadarAuto = {
       "time": "13:53",
       "publishedAt": "2026-11-21T13:53:40.000Z",
       "url": "https://www.gizmochina.com/2026/11/21/esr-iphone-18-pro-cases-chargers-and-screen-protectors-hands-on/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/esr-iphone-18-pro-accessories-1-300x225.jpg?x47967",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/ESR-iPhone-18-Pro-Accessories-31-300x225.jpg?x47967",
       "summary": "I recently got my hands on the iPhone 18 Pro, and I’ve been enjoying my time with Apple’s latest flagship. But not everything has been as rosy as I’d hoped. I’ve encountered a few…",
       "tags": [
         "iPhone",
@@ -437,26 +477,6 @@ window.phoneRadarAuto = {
       "summary": "【OPPO Reno17 限定版图案镌刻错误，官方回应：镌刻机器异常导致，可换货】 11月21日，有用户反馈收到的OPPO Reno17洛天依限定版镌刻出错，机身侧边代表洛天依的专属图案符号与设计方案不符。 OPPO客服在帖下回应，称少部分该款机型因镌刻机器异常导致镌刻图案出现轻微瑕疵，将为用户提供换货处理。 11月16日，OPPO开启Reno17洛天依主…",
       "tags": [
         "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-5cc35bed85b1",
-      "title": "竹本青：消息称安卓阔直板加入旗舰系列，与常规正代双线并行",
-      "source": "竹本青",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-21",
-      "time": "10:52",
-      "publishedAt": "2026-11-21T10:52:13.000Z",
-      "url": "https://www.coolapk.com/feed/75199038",
-      "image": "http://image.coolapk.com/feed/2026/1121/18/4248714_459b1556_8317_2957_983@1271x1335.jpg",
-      "summary": "【消息称安卓阔直板加入旗舰系列，将与常规正代双线并行】 11月21日，博主数码闲聊站爆料，阔直板形态升级正成为行业趋势，多家安卓厂商均计划在正代旗舰线加入阔形态机型，与常规直板机采用双线并行的产品方案。 不过他表示，在并行布局下，安卓阵营常规直板机的定位将高于阔直板机型，同时小屏手机的占比将继续缩减。 据该博主此前披露，安卓阵营厂商均将在2027年推出阔直…",
-      "tags": [
-        "行业",
         "爆料",
         "酷安博主"
       ]
