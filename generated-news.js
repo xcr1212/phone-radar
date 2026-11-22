@@ -1,22 +1,102 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-11-22T02:12:20.927Z",
+  "updatedAt": "2026-11-22T09:45:13.157Z",
   "news": [
     {
-      "id": "auto-30a79c7ee388",
-      "title": "安卓又一阔屏新机来袭：DOOGEE Wide Core 亮相，6500mAh 电池、紫光展锐 T7250 处理器",
+      "id": "auto-abae9fe9aba8",
+      "title": "Clicks Communicator 实体键盘手机因零部件供应短缺推迟交付，2027 年 1 月下旬发货",
       "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-11-22",
-      "time": "00:45",
-      "publishedAt": "2026-11-22T00:45:07.000Z",
-      "url": "https://www.ithome.com/1/030/530.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/c0e2df9c-8bd3-4721-8a3a-878422557dfe.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 11 月 22 日消息，据 DOOGEE 公众号最新消息，其除了 Note60 W 系列， 还将带来另一款阔屏新机 —— DOOGEE Wide Core 。 从官方配置表来看，这款新机与 Note60 W 几乎一致，仅在背板设计和配色选择上有所调整， 而后者外观十分接近华为 Pura X View 。 ▲ 图源：DOOGEE 公众号：DOOGE…",
+      "time": "08:18",
+      "publishedAt": "2026-11-22T08:18:35.000Z",
+      "url": "https://www.ithome.com/1/030/616.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/1cf14ce8-9f16-40e1-ae78-9cd98546dc2f.png",
+      "summary": "IT之家 11 月 22 日消息，Clicks 宣布，受“全球特种玻璃纤维织物供应短缺”影响，旗下配备实体键盘的 Communicator 手机交付时间将从原定的 2026 年 12 月推迟至 2027 年 1 月下旬至 2 月。 Clicks 表示，Communicator 手机的硬件设计已经完成，FCC 认证也在按计划推进。目前影响生产进度的主要问题，…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e97883f4223f",
+      "title": "DOOGEE 预热 Note 70 新机：后背酷似三星 Galaxy S26 Ultra，配 1.8 寸背屏",
+      "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-22",
+      "time": "07:56",
+      "publishedAt": "2026-11-22T07:56:02.000Z",
+      "url": "https://www.ithome.com/1/030/608.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/b54fee0b-174a-4803-88b3-c684ff86a266.png",
+      "summary": "IT之家 11 月 22 日消息，DOOGEE 最近在领英平台公布了“Note 70”新机。 该手机的后背酷似三星 Galaxy S26 Ultra ，带有一块 1.8 英寸背屏。 外观方面，这款手机后置摄像头模组采用竖向排列，左边是三个较大的摄像头圆环，右边还有两个小的圆形组件。背面还带有一块 1.8 英寸屏幕，具体支持功能暂未公布。 规格方面，这款手机…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-585822e81daf",
+      "title": "竹本青：前三季度国内智能手机市场份额曝光：大盘下降约9.2%",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-22",
+      "time": "07:32",
+      "publishedAt": "2026-11-22T07:32:11.000Z",
+      "url": "https://www.coolapk.com/feed/75213097",
+      "image": "http://image.coolapk.com/feed/2026/1122/15/4248714_f1e50db7_2730_4031_440@1648x944.jpg",
+      "summary": "【2026年前三季度国内智能手机市场曝光：大盘下降约9.2%，华为份额位居第一】 11月22日，博主「RD观测」发布2026年前三季度国内智能手机市场份额及同比数据，采用零售销量（Sell out）口径、与2025年同期对比，大盘下跌约9.2%。 具体厂商份额如下： 1、华为 —— 20.25%，同比↑3.92个百分点； 2、苹果 —— 17.44%，同比…",
       "tags": [
         "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-0dbd861fa5a4",
+      "title": "vivo Y21s/Y11s/Y05s 三款 5G 手机规格曝光：6.74 英寸 120Hz LCD 屏、6500mAh 电池",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-22",
+      "time": "07:08",
+      "publishedAt": "2026-11-22T07:08:33.000Z",
+      "url": "https://www.ithome.com/1/030/588.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/6b95503d-a475-4ae3-aa51-f6c28a99264d.png",
+      "summary": "IT之家 11 月 22 日消息，消息源 Sudhanshu1414 现已曝光了 vivo 旗下 Y21s/Y11s/Y05s 三款 5G 手机规格信息，IT之家整理价格信息如下： vivo Y21s 该机正面配备一块 6.74 英寸 1600x720 分辨率 120Hz LCD 面板，匹配 5Mp 自拍摄像头；手机后置 50Mp 主摄及 0.08Mp 辅…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-5487db1c3ade",
+      "title": "智能手环销量全球 No.1：小米手环官宣累计出货超 2.4 亿只，连续 35 个季度拿下第一",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-22",
+      "time": "05:24",
+      "publishedAt": "2026-11-22T05:24:52.000Z",
+      "url": "https://www.ithome.com/1/030/568.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/c60cb37d-0f02-4c0d-9a69-4bde83bff0eb.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 11 月 22 日消息，小米官方昨晚宣布，小米智能手环销量位居世界第一， 截至目前全球出货量已超过 2.4 亿只 。 市场调研机构 Omdia 数据显示，从 2017 年第四季度至 2026 年第二季度， 小米及 REDMI 在全球基础手环市场连续 35 个季度位居出货量榜首 。 IT之家注：小米在国内市场最新的手环产品为 9 月上市的小米手环…",
+      "tags": [
+        "Xiaomi",
         "爆料",
         "自动抓取"
       ]
@@ -82,6 +162,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "newsnow-5b1854ea926f",
+      "title": "有个疑问，我看x9 u已经很水桶了，为啥评分才8.6，隔壁米17u电池更小，没有超长焦，系统也一般，为啥是9.2分呢？",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-22",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/75199420",
+      "image": "",
+      "summary": "有个疑问，我看x9 u已经很水桶了，为啥评分才8.6，隔壁米17u电池更小，没有超长焦，系统也一般，为啥是9.2分呢？",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
       "id": "newsnow-03e3fb36fa89",
       "title": "红米K100 Pro Max的音质真比不过K90 Pro Max，现场听了试了，100 Pro Max还是澎湃304，估计升级到澎湃4，那音效更拉胯。[受虐滑稽] #REDMIK100ProMax# #QQ音乐# #音乐软件#",
       "source": "酷安热榜",
@@ -97,26 +197,6 @@ window.phoneRadarAuto = {
       "summary": "红米K100 Pro Max的音质真比不过K90 Pro Max，现场听了试了，100 Pro Max还是澎湃304，估计升级到澎湃4，那音效更拉胯。[受虐滑稽] #REDMIK100ProMax# #QQ音乐# #音乐软件#",
       "tags": [
         "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-f83729fb6e7a",
-      "title": "mate90全系都没上榜，mate80和mate80promax上榜了。好似，花味你继续弄星芒这样的烂活吧[笑眼][笑眼]#鸿蒙7# #华为Mate90ProMax#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-22",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/75200230",
-      "image": "",
-      "summary": "mate90全系都没上榜，mate80和mate80promax上榜了。好似，花味你继续弄星芒这样的烂活吧[笑眼][笑眼]#鸿蒙7# #华为Mate90ProMax#",
-      "tags": [
-        "Huawei",
         "爆料",
         "NewsNow"
       ]
@@ -142,83 +222,43 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-bb55cbe0dfef",
-      "title": "为什么星芒定价这么高，原因是 pura X View 在华为看来定价太低了。",
+      "id": "newsnow-6b0ee2069606",
+      "title": "站哥爆料 小屏以后会越来越少了 小米13 14可以说是吸引了不少小屏用户 自从24年开始安卓其他几家也开始做起了小屏旗舰 比如vivo的x200promimi oppofindx8s 一加13t 荣耀magic8proair这些都是各家小屏旗舰的开篇之作 并且后面都在延续小屏的迭代 苹果一直以来都在做小屏旗舰 这都不用多说了 现在随着小屏逐渐减少 小屏党们怎么想 #vivoX200Promini# #OPPOFindX8s# #iPhone18Pro#",
       "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-11-22",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/75193682",
+      "url": "https://www.coolapk.com/feed/75197833",
       "image": "",
-      "summary": "为什么星芒定价这么高，原因是 pura X View 在华为看来定价太低了。",
+      "summary": "站哥爆料 小屏以后会越来越少了 小米13 14可以说是吸引了不少小屏用户 自从24年开始安卓其他几家也开始做起了小屏旗舰 比如vivo的x200promimi oppofindx8s 一加13t 荣耀magic8proair这些都是各家小屏旗舰的开篇之作 并且后面都在延续小屏的迭代 苹果一直以来都在做小屏旗舰 这都不用多说了 现在随着小屏逐渐减少 小屏党们…",
       "tags": [
-        "Huawei",
+        "HONOR",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "auto-ffecfd9dcdd4",
-      "title": "韩国教育部认定今年高考共 111 起涉电子设备作弊：利用智能手机拍考卷等",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "id": "newsnow-1a9f31c4143b",
+      "title": "第一批买iPhoneDuo的人亏麻了",
+      "source": "微博热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-21",
-      "time": "23:55",
-      "publishedAt": "2026-11-21T23:55:50.000Z",
-      "url": "https://www.ithome.com/1/030/523.htm",
+      "trust": "待验证",
+      "date": "2026-11-22",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E4%B9%B0iPhoneDuo%E7%9A%84%E4%BA%BA%E4%BA%8F%E9%BA%BB%E4%BA%86%23&t=31&band_rank=5&Refer=top",
       "image": "",
-      "summary": "IT之家 11 月 22 日消息，据韩联社报道，韩国教育部 20 日表示，在 2027 学年度大学修学能力考试（IT之家注：韩国高考）中，发现 111 起利用智能设备的作弊行为。这较前一日公布的数据增加 13 起。 据韩国教育部介绍，通过发送应急公益短信查出 54 起未上交手机的案例；通过探测 WiFi 等方式查出 52 起携带智能设备案例。 在考试过程中…",
+      "summary": "第一批买iPhoneDuo的人亏麻了",
       "tags": [
-        "行业",
+        "iPhone",
         "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0da8e2c0fca0",
-      "title": "华为星芒首款手机 OSTA O1 Pro 维修备件价格出炉：屏幕 899 元起，主板 3449 元起",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-21",
-      "time": "23:37",
-      "publishedAt": "2026-11-21T23:37:16.000Z",
-      "url": "https://www.ithome.com/1/030/520.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/d722f0b6-22ca-4583-ad2f-c86443a882d0.jpg",
-      "summary": "IT之家 11 月 22 日消息，华为全新子品牌星芒于 11 月 20 日发布首款机型 OSTA O1 Pro ，12GB+256GB 版本首发价 5499 元，顶配 16GB+1TB 首发 8799 元。随着新机上市，华为官网也公布了该机维修备件价格。 ▲ IT之家开箱：华为星芒首款手机 OSTA O1 Pro ▲ IT之家开箱：华为星芒首款手机 OST…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-a7f98e314b28",
-      "title": "消息称 OPPO Reno 17 系列新机销量超预期，开售后超同期安卓手机拿下单品第一",
-      "source": "IT之家",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-21",
-      "time": "23:01",
-      "publishedAt": "2026-11-21T23:01:52.000Z",
-      "url": "https://www.ithome.com/1/030/513.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/bc2b693d-e29c-46c0-a948-67b719d0a142.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 11 月 22 日消息，博主 @数码闲聊站 昨晚发文分享第三方渠道消息，OPPO Reno 17 销量超预期，发布当日预订量达前代产品 2.7 倍， 开售后销量超过同期所有安卓手机，拿下安卓单品第一 。 博主还补充数据： Reno 系列全球激活量已超 1.4 亿台 ，长期稳居同档位销量前列。 据IT之家此前报道， OPPO Reno 17 系列手…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
+        "NewsNow"
       ]
     },
     {
@@ -243,7 +283,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-d7815f73d2dc",
-      "title": "竹本青：【小米智能手环官宣销量全球第一，累计出货已超2.4亿台】 日前，小米发布海报宣布，旗下Xiaomi及REDMI智能…",
+      "title": "竹本青：小米智能手环销量全球第一，累计出货已超2.4亿台",
       "source": "竹本青",
       "brand": "Xiaomi",
       "model": "Xiaomi 相关机型",
@@ -383,7 +423,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-90969b339ccc",
-      "title": "竹本青：【OPPO Reno17 限定版图案镌刻错误，官方回应：镌刻机器异常导致，可换货】 11月21日，有用户反馈收到的…",
+      "title": "竹本青：OPPO回应Reno17限定版图案镌刻错误：镌刻机器异常导致，可换货",
       "source": "竹本青",
       "brand": "OPPO",
       "model": "OPPO 相关机型",
@@ -403,7 +443,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-5cc35bed85b1",
-      "title": "竹本青：【消息称安卓阔直板加入旗舰系列，将与常规正代双线并行】 11月21日，博主数码闲聊站爆料，阔直板形态升级正成为行业…",
+      "title": "竹本青：消息称安卓阔直板加入旗舰系列，与常规正代双线并行",
       "source": "竹本青",
       "brand": "行业",
       "model": "智能手机市场",
