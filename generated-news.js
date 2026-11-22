@@ -1,6 +1,26 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-11-22T17:48:33.463Z",
+  "updatedAt": "2026-11-22T23:35:30.894Z",
   "news": [
+    {
+      "id": "auto-5cee2e36f1bb",
+      "title": "iPhone Duo Could Get More Lock Screen Widgets, Leak Suggests",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-22",
+      "time": "20:38",
+      "publishedAt": "2026-11-22T20:38:16.000Z",
+      "url": "https://www.macrumors.com/2026/11/22/iphone-duo-could-get-more-lock-screen-widgets/",
+      "image": "https://images.macrumors.com/article-new/2026/11/iphone-duo-cyber-monday.jpeg",
+      "summary": "An experimental iPhone Duo interface tested by Apple would allow widgets to occupy two separate areas of the Lock Screen, according to findings shared by the leaker known as \"pdfu…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-8d3d659e45aa",
       "title": "Apple tested a ‘complication column’ for the iPhone Duo Lock Screen, per leak",
@@ -122,26 +142,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-585822e81daf",
-      "title": "竹本青：前三季度国内智能手机市场份额曝光：大盘下降约9.2%",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-22",
-      "time": "07:32",
-      "publishedAt": "2026-11-22T07:32:11.000Z",
-      "url": "https://www.coolapk.com/feed/75213097",
-      "image": "http://image.coolapk.com/feed/2026/1122/15/4248714_f1e50db7_2730_4031_440@1648x944.jpg",
-      "summary": "【2026年前三季度国内智能手机市场曝光：大盘下降约9.2%，华为份额位居第一】 11月22日，博主「RD观测」发布2026年前三季度国内智能手机市场份额及同比数据，采用零售销量（Sell out）口径、与2025年同期对比，大盘下跌约9.2%。 具体厂商份额如下： 1、华为 —— 20.25%，同比↑3.92个百分点； 2、苹果 —— 17.44%，同比…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-bfd196d7caed",
       "title": "iPhone Duo arrives at Apple Store locations worldwide",
       "source": "Apple Newsroom",
@@ -222,28 +222,48 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-1b5ed56ea7ce",
-      "title": "想下单iphone的时候，换个壁纸冲击一下",
+      "id": "newsnow-435eea77a157",
+      "title": "兄弟们我想问个问题，我妈买个房子给我弟，目前在装家具有争持，我弟想装电磁炉来煮饭，觉得安全而且清理方便，我弟其他城市工作怕煤气没人在家不安全，我妈要装燃气，说电磁炉煮饭不好吃，说现在燃气瓶也挺安全的，而且到时候过去也不会用，功率很大用电也很多，目前争持不下，应该装哪个好 ，装的话厨房直接照着哪一款来装修#一加16# #荣耀Magic9ProMax# #小米18#",
       "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-11-22",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/75203256",
+      "url": "https://www.coolapk.com/feed/75216669",
       "image": "",
-      "summary": "想下单iphone的时候，换个壁纸冲击一下",
+      "summary": "兄弟们我想问个问题，我妈买个房子给我弟，目前在装家具有争持，我弟想装电磁炉来煮饭，觉得安全而且清理方便，我弟其他城市工作怕煤气没人在家不安全，我妈要装燃气，说电磁炉煮饭不好吃，说现在燃气瓶也挺安全的，而且到时候过去也不会用，功率很大用电也很多，目前争持不下，应该装哪个好 ，装的话厨房直接照着哪一款来装修#一加16# #荣耀Magic9ProMax# #小米…",
       "tags": [
-        "iPhone",
+        "HONOR",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-5b1854ea926f",
-      "title": "有个疑问，我看x9 u已经很水桶了，为啥评分才8.6，隔壁米17u电池更小，没有超长焦，系统也一般，为啥是9.2分呢？",
+      "id": "newsnow-bd4b3c55bed2",
+      "title": "8E还能在用几年 能不能成为我使用最最久的手机机[受虐滑稽](最长一台手机没活过两年) #小米15# #红米k100# #小米15Ultra#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-22",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/75182197",
+      "image": "",
+      "summary": "8E还能在用几年 能不能成为我使用最最久的手机机[受虐滑稽](最长一台手机没活过两年) #小米15# #红米k100# #小米15Ultra#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-7a21de709c91",
+      "title": "前三季度国内智能手机市场份额曝光：大盘下降约9.2%",
       "source": "酷安热榜",
       "brand": "行业",
       "model": "智能手机市场",
@@ -252,51 +272,11 @@ window.phoneRadarAuto = {
       "date": "2026-11-22",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/75199420",
+      "url": "https://www.coolapk.com/feed/75213097",
       "image": "",
-      "summary": "有个疑问，我看x9 u已经很水桶了，为啥评分才8.6，隔壁米17u电池更小，没有超长焦，系统也一般，为啥是9.2分呢？",
+      "summary": "前三季度国内智能手机市场份额曝光：大盘下降约9.2%",
       "tags": [
         "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-30a023cf0d94",
-      "title": "数码城老板说iPhone Duo质量相当差",
-      "source": "今日头条热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-22",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7710089748110478890/",
-      "image": "",
-      "summary": "数码城老板说iPhone Duo质量相当差",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-ccc8f8a75675",
-      "title": "iPhone Duo渠道价已低于官方价",
-      "source": "今日头条热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-22",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7710991852404592137/",
-      "image": "",
-      "summary": "iPhone Duo渠道价已低于官方价",
-      "tags": [
-        "iPhone",
         "爆料",
         "NewsNow"
       ]
