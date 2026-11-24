@@ -1,6 +1,546 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-11-23T20:11:52.275Z",
+  "updatedAt": "2026-11-24T04:46:11.893Z",
   "news": [
+    {
+      "id": "coolapk-user-dd6eeb97e84e",
+      "title": "竹本青：【曝荣耀首款阔折叠手机 定位万元档：2nm骁龙旗舰芯，同档最大电池】 ▫️7.6英寸±阔内屏 ▫️无感折痕铰链 ▫…",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-24",
+      "time": "04:30",
+      "publishedAt": "2026-11-24T04:30:57.000Z",
+      "url": "https://www.coolapk.com/feed/75245785",
+      "image": "http://image.coolapk.com/feed/2026/1124/12/4248714_3f8fdcc9_4655_8512_289@1272x1424.jpg",
+      "summary": "【曝荣耀首款阔折叠手机 定位万元档：2nm骁龙旗舰芯，同档最大电池】 ▫️7.6英寸±阔内屏 ▫️无感折痕铰链 ▫️2nm骁龙旗舰芯 ▫️2亿主摄+潜望长焦 ▫️同档最大电池 11月24日，数码闲聊站爆料荣耀首款阔折叠手机配置，并回复网友称，这款新机再便宜也仍是万元档（比如8999元），并反问该档位能否接受8E5处理器。 11月23日，荣耀高管宣布，品牌首…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-87e3a837ff40",
+      "title": "曝荣耀首款阔折叠手机搭载 2nm 骁龙旗舰芯、2 亿影像 + 潜望长焦、同档最大电池",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-24",
+      "time": "04:22",
+      "publishedAt": "2026-11-24T04:22:06.000Z",
+      "url": "https://www.ithome.com/1/031/457.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/7c4a3337-9b29-4952-adad-324505f7819b.png",
+      "summary": "IT之家 11 月 24 日消息，阔比例折叠屏手机热卖后，更多手机厂商有望开始跟进相关品类产品。 据博主 @数码闲聊站 今日爆料了 荣耀首款阔折叠手机 ，有望在 2027 年 3 月前后发布。 爆料称新机主打无感折痕铰链，搭载 7.6 英寸左右阔屏、2nm 骁龙旗舰芯，以及 2 亿影像 + 潜望长焦， 还有同档最大电池 。 IT之家注意到，在 11 月 2…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-395fcdf3d5d6",
+      "title": "竹本青：魅族新机通过型号核准，不支持5G网络",
+      "source": "竹本青",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-24",
+      "time": "04:10",
+      "publishedAt": "2026-11-24T04:10:48.000Z",
+      "url": "https://www.coolapk.com/feed/75245484",
+      "image": "http://image.coolapk.com/feed/2026/1124/12/4248714_83b693c1_3447_4935_971@1271x1767.jpg",
+      "summary": "【魅族新机通过型号核准，不支持5G网络】 近日，珠海市魅族科技申报的型号为M2621Q的新机，通过工信部无线电发射设备型号核准。 信息显示，该设备为GSM/TD-LTE/LTE FDD制式终端，支持WLAN与蓝牙功能，覆盖4G网络频段，不包含5G制式。 #魅族22# #今日热点# #数码日常#",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "weibo-d04fb229ac58",
+      "title": "数码闲聊站：荣耀首款阔折叠，27年3月前后发布，主打无感折痕铰链，7.6英寸左右阔屏，2n…",
+      "source": "数码闲聊站",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-24",
+      "time": "04:03",
+      "publishedAt": "2026-11-24T04:03:00.000Z",
+      "url": "https://weibo.com/6048569942/RsQtxzFNA",
+      "image": "",
+      "summary": "荣耀首款阔折叠，27年3月前后发布，主打无感折痕铰链，7.6英寸左右阔屏，2nm骁龙旗舰芯，2亿影像+潜望长焦，同档最大电池，等吗？[二哈]",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-9fee6630b1e4",
+      "title": "Samsung’s Galaxy Z Flip 9, Fold 9 may bring disappointing camera upgrades",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-24",
+      "time": "03:31",
+      "publishedAt": "2026-11-24T03:31:48.000Z",
+      "url": "https://www.androidpolice.com/galaxy-z-flip-9-fold-9-ultra-leaks-show-samsung-skipping-camera-upgrades-2027/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/08/samsung-galaxy-z-fold-8-ultra-back-color.JPG",
+      "summary": "Samsung is sticking with familiar sensors for another year",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-3eb2bc6ce60b",
+      "title": "RedMagic 12 Pro+ Deuterium Transparent Ice Blue on first sale today",
+      "source": "Gizmochina",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-24",
+      "time": "03:05",
+      "publishedAt": "2026-11-24T03:05:32.000Z",
+      "url": "https://www.gizmochina.com/2026/11/24/redmagic-12-pro-deuterium-transparent-ice-blue-on-first-sale-today/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/redmagic-12-pro-deuterium-transparent-ice-blue-on-first-sale-today-300x200.jpg?x91975",
+      "summary": "The RedMagic 12 Pro+ Deuterium Transparent Ice Blue edition goes on sale in China today. The 16GB+512GB model costs 7,999 yuan (about $1,180). The new color adds to the two transp…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-35917dea68e3",
+      "title": "无需魔改：微星 Z690/Z790 系列主板新 BIOS 原生跑通英特尔纯大核 Bartlett Lake-S 处理器",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-24",
+      "time": "02:59",
+      "publishedAt": "2026-11-24T02:59:47.000Z",
+      "url": "https://www.ithome.com/1/031/325.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/fb8b1b5e-7919-4262-bb2b-1b6f44fd3fd4.png",
+      "summary": "IT之家 11 月 24 日消息，科技媒体 NeoWin 昨日（11 月 23 日）发布博文，报道称微星（MSI）的 Z690、Z790 系列主板安装官方最新 BIOS 后， 已原生支持英特尔 Bartlett Lake-S 处理器。 Bartlett Lake 采用 Intel 7 工艺和 LGA1700 插槽，主要服务于嵌入式及工业边缘计算设备，其中，…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-3c2a6dcfae72",
+      "title": "竹本青：曝REDMI性能阔直板开案：万级电池，明年登场",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-24",
+      "time": "02:31",
+      "publishedAt": "2026-11-24T02:31:27.000Z",
+      "url": "https://www.coolapk.com/feed/75243859",
+      "image": "http://image.coolapk.com/feed/2026/1124/10/4248714_f20e6644_7486_2239_982@2160x1940.jpg",
+      "summary": "【曝REDMI 性能阔直板开案：万级大电池，预计明年登场】 11月24日，据博主数码闲聊站爆料，小米子系（REDMI）的性能阔直板手机已正式开案，将搭载万级大电池，预计于明年正式登场。 该博主此前爆料显示，2027年国产TOP5厂商均将推出阔直板新机，目前已全部立项完成并处于加速测试中。 #今日热点# #HyperOS4# #华为PuraXView#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-a1d5d883c58b",
+      "title": "一加 16 ×《凡人》动画联名礼盒因部分物料生产良率过低暂缓发售",
+      "source": "IT之家",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-24",
+      "time": "02:23",
+      "publishedAt": "2026-11-24T02:23:33.000Z",
+      "url": "https://www.ithome.com/1/031/307.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/6e09606e-ad17-4c98-a9ac-6fb043564c1f.jpg",
+      "summary": "IT之家 11 月 24 日消息，一加 (OnePlus) 官方今日表示，由于部分物料生产良率过低， 一加 16 ×《凡人》动画联名礼盒致备货不足， 无法按既定计划于本月 27 日启动线上线下发售 ，新的开售时间将另行公布。 作为补偿，后续所有购买一加 16 ×《凡人》动画联名礼盒的用户， 均将获得额外周边礼包一份 。 相关阅读： 《 一加 16〈凡人〉动…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a96c8a5cd2c0",
+      "title": "谷歌 Pixel 11 Pro 原型手机再曝：彩灯旁曾保留测温窗口",
+      "source": "IT之家",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-24",
+      "time": "02:17",
+      "publishedAt": "2026-11-24T02:17:43.000Z",
+      "url": "https://www.ithome.com/1/031/306.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/9b2c2451-701a-42f7-a81e-5ad4948a655d.png",
+      "summary": "IT之家 11 月 24 日消息，科技媒体 Notebookcheck 昨日（11 月 23 日）发布博文，报道称 在 Pixel 11 Pro XL 原型机曝光后 ，另一组 Pixel 11 Pro 原型机图片流出，显示 HiLight 彩色 LED 灯已能正常点亮，旁边仍保留着温度传感器窗口。 这台设备可以开机运行，设置页面显示其型号为 Pixel 1…",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-cb56e6b17afa",
+      "title": "竹本青：华为维感G1持续葡萄糖监测系统开启预售：三类医疗器械注册，299元起",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-24",
+      "time": "02:10",
+      "publishedAt": "2026-11-24T02:10:51.000Z",
+      "url": "https://www.coolapk.com/feed/75243526",
+      "image": "http://image.coolapk.com/feed/2026/1124/10/4248714_6973d79b_7094_2323_399@2000x1000.jpg",
+      "summary": "【华为维感G1 持续葡萄糖监测系统 开启预售：三类医疗器械注册，299元起】 单品 —— 299元 2支装 —— 569元 4支装 —— 1106元 6支装 —— 1619元 ▫️三类医疗器械注册 ▫️隐藏针设计，一压即用（图2） ▫️直径20.8mm／重1.5g／厚2.9mm ▫️血糖监测MARD值7.06% ▫️佩戴30分钟后出值 ▫️出值间隔1分钟…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-a8d7a49f7c60",
+      "title": "华为鸿蒙 HarmonyOS 终端设备数突破一个亿，实体纪念章将至",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-24",
+      "time": "02:04",
+      "publishedAt": "2026-11-24T02:04:09.000Z",
+      "url": "https://www.ithome.com/1/031/298.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/5613a60c-0078-4162-b76f-41f27ffaee99.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 11 月 24 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日发文， 宣布鸿蒙终端设备数突破一个亿 。 IT之家注意到，华为官网显示， 鸿蒙一亿感恩有礼纪念章活动将于 2026 年 12 月 5 日开启 。2026 年 11 月 24 日 00:00 前使用华为账号登录过 HarmonyOS 5 及以上版本的华为手机、…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-dfb68c415ce2",
+      "title": "These are my two must-have iPhone Duo accessories",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-24",
+      "time": "01:30",
+      "publishedAt": "2026-11-24T01:30:09.000Z",
+      "url": "https://9to5mac.com/2026/11/23/these-are-my-two-must-have-iphone-duo-accessories/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-apple-pencil.jpg?quality=82&strip=all&w=1600",
+      "summary": "If you’re an iPhone Duo user, two must-have Apple accessories are at all-time low prices today. These are great additions to any iPhone Duo setup: Apple Pencil (USB-C) $49 (Reg. $…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-27a793921f71",
+      "title": "Apple Pay just got even better with four new features and more",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-24",
+      "time": "00:31",
+      "publishedAt": "2026-11-24T00:31:59.000Z",
+      "url": "https://9to5mac.com/2026/11/23/apple-pay-is-getting-even-better-with-four-new-features/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-pay.jpg?quality=82&strip=all&w=1600",
+      "summary": "Apple Pay is a go-to feature for iPhone users when shopping in stores, online, and in apps. Apple recently announced four new features that make Apple Pay even better. Here’s how…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ebc1624cb65d",
+      "title": "The Pixel 11 deal Black Friday shoppers should grab first",
+      "source": "Android Police",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-24",
+      "time": "00:16",
+      "publishedAt": "2026-11-24T00:16:31.000Z",
+      "url": "https://www.androidpolice.com/google-pixel-11-512gb-for-365/",
+      "image": "",
+      "summary": "Get a Pixel 11 and a year of unlimited service for $545",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-bfd196d7caed",
+      "title": "iPhone Duo arrives at Apple Store locations worldwide",
+      "source": "Apple Newsroom",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-11-24",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.apple.com/newsroom/2026/10/iphone-duo-arrives-at-apple-store-locations-worldwide/",
+      "image": "",
+      "summary": "On Friday, October 23, the highly anticipated iPhone Duo made its debut at Apple Store locations worldwide.",
+      "tags": [
+        "iPhone",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "newsnow-20178b6a300c",
+      "title": "社区速递 166｜柯尼卡胶片机、iPhone Duo 体验与假期省钱实操大赏",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-11-24",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/119184",
+      "image": "",
+      "summary": "社区速递 166｜柯尼卡胶片机、iPhone Duo 体验与假期省钱实操大赏",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-d72bc8080642",
+      "title": "iPhone 变强了，但我没有",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-11-24",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/118250",
+      "image": "",
+      "summary": "iPhone 变强了，但我没有",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-dbc02b7788f9",
+      "title": "有没有大佬帮忙分析下，k100pm刚发布的时候通过酷友认识了一个渠道商，当时报价4600 16+1T，不开发票，没有任何赠品和权益，结果转账4600后一直不发货，说1T没货，酷友定的16+512不到几天就拿到了，从8月10号一直到9月，我要求退款，结果说钱转给手机商了，他要起诉第三人，从10月份到现在没消息了，也不回消息，我只有微信号，起诉需要具体信息，我写了起诉书和协查申请被驳回了几次，这种情况去报案派出所会立案吗？还是说必须本人去法院申请？还是说必须律师申请才行？有没有大佬分析一下，我手里只有聊天记录和转账记录，我找律师说调取信息需要800元，有没有大佬指一条明路？[捂脸][捂脸][捂脸]",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-24",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/75227724",
+      "image": "",
+      "summary": "有没有大佬帮忙分析下，k100pm刚发布的时候通过酷友认识了一个渠道商，当时报价4600 16+1T，不开发票，没有任何赠品和权益，结果转账4600后一直不发货，说1T没货，酷友定的16+512不到几天就拿到了，从8月10号一直到9月，我要求退款，结果说钱转给手机商了，他要起诉第三人，从10月份到现在没消息了，也不回消息，我只有微信号，起诉需要具体信息，我…",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-241f8d3123ce",
+      "title": "朋友的手机自燃了，荣耀蒸蒸日上好吧#数码日常#",
+      "source": "酷安热榜",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-24",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/75182908",
+      "image": "",
+      "summary": "朋友的手机自燃了，荣耀蒸蒸日上好吧#数码日常#",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-9e0f0fa386c1",
+      "title": "IP联名的手机大家都玩过吧？像一加刻晴、神里绫华这些，确实好看，但普通手机想用上自己喜欢的IP深度定制可太难了，所以我闲着没事决定自己动手丰衣足食，做了一套大肥鱼联名主题。",
+      "source": "酷安热榜",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-24",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/75215310",
+      "image": "",
+      "summary": "IP联名的手机大家都玩过吧？像一加刻晴、神里绫华这些，确实好看，但普通手机想用上自己喜欢的IP深度定制可太难了，所以我闲着没事决定自己动手丰衣足食，做了一套大肥鱼联名主题。",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-ae4cdd6223ce",
+      "title": "iPhone 18 Pro系列最新销量曝光：周增约77万台",
+      "source": "酷安热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-24",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/75228833",
+      "image": "",
+      "summary": "iPhone 18 Pro系列最新销量曝光：周增约77万台",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-e4244f9f98c3",
+      "title": "【三星已死！Samsung Out！】这东西不配叫做三星手机[哈哈哈]沟槽的卢泰文的最后一舞，可以入选2027年最丑手机行列了。之前非得学果子圆角大直边，现在摄像头模组也要跟，三星我看也不用叫三星了，叫三果吧，因为是新改的名字，叫新三果，三星，不愧为舔果圈第一雄关",
+      "source": "酷安热榜",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-24",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/75229067",
+      "image": "",
+      "summary": "【三星已死！Samsung Out！】这东西不配叫做三星手机[哈哈哈]沟槽的卢泰文的最后一舞，可以入选2027年最丑手机行列了。之前非得学果子圆角大直边，现在摄像头模组也要跟，三星我看也不用叫三星了，叫三果吧，因为是新改的名字，叫新三果，三星，不愧为舔果圈第一雄关",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-7ad701c6cd4d",
+      "title": "#我在酷安晒女友# 我的恋爱史从小学6年级下册就开始，谈了一个一直到初三，那时候什么都不懂，只知道谈着好玩儿，实际第一个也没有谈这么久，初中我跟她分到了两个班级，初一读完成绩不行，于是家里就把我安排到市里读书了，之后就再也没有联系，那时候没有手机没办法联络，直到我初三成绩上升我提出转学回到镇上的申请，家里便同意我转回镇上，不过是另外一个学校，初三上册一个晚会上，和同班一个女生接触了有了好感，然后就互相喜欢上了对方，结果初恋找上来了，我都以为她已经把我忘记了，直到最后她打电话来跟我哭泣[牛牛伤心]问我选谁，那时新鲜感冲昏了头脑，我选了现任，那时的我才14岁，和我谈的那个16岁，我14岁就破雏了[受虐滑稽]那时候瘾是真的大，每个周都在外面开房睡觉[受虐滑稽]一晚上好几次，一直谈到初三毕业我就辍学了，毕业后也是谈了没多久就分开了，后面单身了大概有一两年左右... 查看更多",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-24",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/75239164",
+      "image": "",
+      "summary": "#我在酷安晒女友# 我的恋爱史从小学6年级下册就开始，谈了一个一直到初三，那时候什么都不懂，只知道谈着好玩儿，实际第一个也没有谈这么久，初中我跟她分到了两个班级，初一读完成绩不行，于是家里就把我安排到市里读书了，之后就再也没有联系，那时候没有手机没办法联络，直到我初三成绩上升我提出转学回到镇上的申请，家里便同意我转回镇上，不过是另外一个学校，初三上册一个晚…",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "auto-1ce976f4f69b",
+      "title": "Save $200 on the Google Pixel 10 with this record-low Black Friday deal",
+      "source": "Android Central",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-11-23",
+      "time": "23:16",
+      "publishedAt": "2026-11-23T23:16:14.000Z",
+      "url": "https://www.androidcentral.com/phones/google-pixel/save-usd200-on-the-google-pixel-10-with-this-record-low-black-friday-deal",
+      "image": "https://cdn.mos.cms.futurecdn.net/VZpzNaVJRDbGYaKm5vwTNf-1920-80.jpg",
+      "summary": "We don't often see Google's latest flagship drop this far below its launch price, and this $200 Black Friday saving makes the Pixel 10 particularly tempting.",
+      "tags": [
+        "Pixel",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a05c6eef39eb",
+      "title": "Why spend $1,400 on the Galaxy S26 Ultra? This Samsung flagship is down to just $684",
+      "source": "Android Central",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-11-23",
+      "time": "21:49",
+      "publishedAt": "2026-11-23T21:49:57.000Z",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsungs-most-underrated-flagship-is-usd316-off-its-the-phone-to-buy-this-black-friday",
+      "image": "https://cdn.mos.cms.futurecdn.net/zgQpJdKHPCKF3hLgqTtCHW-1920-80.jpg",
+      "summary": "Samsung's most underrated flagship just got a massive discount.",
+      "tags": [
+        "Samsung",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4eabd1190271",
+      "title": "OnePlus strips its US website down to bare bones following market exit",
+      "source": "Android Authority",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-23",
+      "time": "20:52",
+      "publishedAt": "2026-11-23T20:52:57.000Z",
+      "url": "https://www.androidauthority.com/oneplus-us-website-3738551/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/oneplus-15-fall-colors-scaled.jpg",
+      "summary": "All products have vanished.",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
     {
       "id": "auto-5ef82c40033f",
       "title": "What I want from the Galaxy Z Fold 9 under Won-Joon Choi",
@@ -19,26 +559,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-837b3c131f4f",
-      "title": "竹本青：【安卓跨品牌手机「一碰传」服务正式上线，“OV米耀”四大厂商共建】 11月24日资讯，互传联盟昨日宣布，安卓跨品牌…",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-23",
-      "time": "18:11",
-      "publishedAt": "2026-11-23T18:11:37.000Z",
-      "url": "https://www.coolapk.com/feed/75241034",
-      "image": "http://image.coolapk.com/feed/2026/1124/02/4248714_35d995ba_7495_6929_231@1080x1388.jpg",
-      "summary": "【安卓跨品牌手机「一碰传」服务正式上线，“OV米耀”四大厂商共建】 11月24日资讯，互传联盟昨日宣布，安卓跨品牌手机「一碰传」服务正式上线，由OPPO、荣耀、vivo、小米四大手机厂商联合共建。 据介绍，该服务主打无损、免流量、免安装三大特性，打破不同安卓手机品牌间的文件传输壁垒，支持图片、视频、文档快速传输。 用户选中内容后，无需借助第三方应用，将两台…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -342,46 +862,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-88a755d625b9",
-      "title": "iPhone Sales Ban in India Sought by Startup Over NameDrop Feature",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-23",
-      "time": "11:33",
-      "publishedAt": "2026-11-23T11:33:48.000Z",
-      "url": "https://www.macrumors.com/2026/11/23/iphone-sales-ban-namedrop-feature/",
-      "image": "https://images.macrumors.com/article-new/2023/12/ios-17-namedrop-pink.jpg",
-      "summary": "Apple will have to contend with a patent lawsuit in India over its NameDrop contact-sharing feature, as a U.S. startup is seeking 15 billion rupees (approximately $162 million) in…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-547cc8ab371a",
-      "title": "消息称 Ulefone Armor 35 Pro 三防手机定价 429.99 美元：支持远距离激光测距、配大功率 LED 照明灯",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-23",
-      "time": "11:12",
-      "publishedAt": "2026-11-23T11:12:36.000Z",
-      "url": "https://www.ithome.com/1/031/162.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/4f9b5c34-e32c-44b5-babf-975f80fada11.png",
-      "summary": "IT之家 11 月 23 日消息，外媒 GSMArena 发文，透露 Ulefone Armor 35 Pro 三防手机将于 12 月 7 日正式开售，售价为 429.99 美元 （IT之家注：现汇率约合 2,873 元人民币） 。 Ulefone Armor 35 Pro 是 Ulefone 旗下首款内置远距离激光测距功能的三防手机，该机配备波长为 90…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-50a49f6ecf99",
       "title": "Second November 2026 patch reaches Galaxy Z Fold 8 and Flip 8 in Europe",
       "source": "SamMobile",
@@ -399,26 +879,6 @@ window.phoneRadarAuto = {
         "Samsung",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-732e6ffa7938",
-      "title": "竹本青：热度的核心原因是搞了抽奖，谁忍得住不抽小米手环，我也参加抽奖了，万一呢[小嘴滑稽] #每日一催小米18发布# #小…",
-      "source": "竹本青",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-23",
-      "time": "10:25",
-      "publishedAt": "2026-11-23T10:25:40.000Z",
-      "url": "https://www.coolapk.com/feed/75233194",
-      "image": "http://image.coolapk.com/feed/2026/1123/18/4248714_45b79139_9538_9788_387@1271x627.jpg",
-      "summary": "热度的核心原因是搞了抽奖，谁忍得住不抽小米手环，我也参加抽奖了，万一呢[小嘴滑稽] #每日一催小米18发布# #小米18#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -458,46 +918,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Huawei",
         "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-af1fc19dd0aa",
-      "title": "竹本青：李健回应华为「星芒」：荣耀也可以推出自己的子品牌",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-23",
-      "time": "09:57",
-      "publishedAt": "2026-11-23T09:57:21.000Z",
-      "url": "https://www.coolapk.com/feed/75232683",
-      "image": "http://image.coolapk.com/feed/2026/1123/18/4248714_a27641c0_8410_8984_850-livepic@1440x1920.jpg",
-      "summary": "【李健回应华为发布子品牌「星芒」：荣耀也可以推出自己的子品牌，期待百花齐放】 11月23日，荣耀700系列追光之旅暨全场景新品发布会后，荣耀CEO李健等高管与媒体对话。 近日华为正式发布全新子品牌「OSTA星芒」，并发布首款阔直板手机。谈及此事，李健表示，对荣耀不用有任何担心，现在的荣耀不是六年前的荣耀，荣耀已经走出了自己的道路。 他强调，荣耀的手机业务明…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-7eb74aa01728",
-      "title": "李健回应华为推出子品牌星芒：对荣耀不用有任何担心，已经走出了自己的道路",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-23",
-      "time": "09:55",
-      "publishedAt": "2026-11-23T09:55:15.000Z",
-      "url": "https://www.ithome.com/1/031/092.htm",
-      "image": "",
-      "summary": "IT之家 11 月 23 日消息，在今天的 荣耀 700 系列追光之旅暨全场景新品发布会后，荣耀 CEO 李健，荣耀产品线总裁方飞，荣耀品牌营销部总裁、全球 CMO 关海涛与媒体对话。 日前，华为正式推出子品牌星芒，并发布首款产品。谈及此事，李健表示， 对荣耀不用有任何担心 ，现在的荣耀不是六年前的荣耀， 荣耀已经走出了自己的道路 。 他强调，荣耀的手机业…",
-      "tags": [
-        "HONOR",
-        "爆料",
         "自动抓取"
       ]
     },
@@ -659,186 +1079,6 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-bfd196d7caed",
-      "title": "iPhone Duo arrives at Apple Store locations worldwide",
-      "source": "Apple Newsroom",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "官方",
-      "trust": "官方确认",
-      "date": "2026-11-23",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.apple.com/newsroom/2026/10/iphone-duo-arrives-at-apple-store-locations-worldwide/",
-      "image": "",
-      "summary": "On Friday, October 23, the highly anticipated iPhone Duo made its debut at Apple Store locations worldwide.",
-      "tags": [
-        "iPhone",
-        "官方",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "newsnow-f2c21ba0ed4c",
-      "title": "社区速递 166｜柯尼卡胶片机、iPhone Duo 体验与假期省钱实操大赏",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-11-23",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/119184",
-      "image": "",
-      "summary": "社区速递 166｜柯尼卡胶片机、iPhone Duo 体验与假期省钱实操大赏",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-25a65e7b863e",
-      "title": "iPhone 变强了，但我没有",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-11-23",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/118250",
-      "image": "",
-      "summary": "iPhone 变强了，但我没有",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-f697f80bc3ab",
-      "title": "有没有大佬帮忙分析下，k100pm刚发布的时候通过酷友认识了一个渠道商，当时报价4600 16+1T，不开发票，没有任何赠品和权益，结果转账4600后一直不发货，说1T没货，酷友定的16+512不到几天就拿到了，从8月10号一直到9月，我要求退款，结果说钱转给手机商了，他要起诉第三人，从10月份到现在没消息了，也不回消息，我只有微信号，起诉需要具体信息，我写了起诉书和协查申请被驳回了几次，这种情况去报案派出所会立案吗？还是说必须本人去法院申请？还是说必须律师申请才行？有没有大佬分析一下，我手里只有聊天记录和转账记录，我找律师说调取信息需要800元，有没有大佬指一条明路？[捂脸][捂脸][捂脸]",
-      "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-23",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/75227724",
-      "image": "",
-      "summary": "有没有大佬帮忙分析下，k100pm刚发布的时候通过酷友认识了一个渠道商，当时报价4600 16+1T，不开发票，没有任何赠品和权益，结果转账4600后一直不发货，说1T没货，酷友定的16+512不到几天就拿到了，从8月10号一直到9月，我要求退款，结果说钱转给手机商了，他要起诉第三人，从10月份到现在没消息了，也不回消息，我只有微信号，起诉需要具体信息，我…",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-6c7c96e3ec83",
-      "title": "IP联名的手机大家都玩过吧？像一加刻晴、神里绫华这些，确实好看，但普通手机想用上自己喜欢的IP深度定制可太难了，所以我闲着没事决定自己动手丰衣足食，做了一套大肥鱼联名主题。",
-      "source": "酷安热榜",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-23",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/75215310",
-      "image": "",
-      "summary": "IP联名的手机大家都玩过吧？像一加刻晴、神里绫华这些，确实好看，但普通手机想用上自己喜欢的IP深度定制可太难了，所以我闲着没事决定自己动手丰衣足食，做了一套大肥鱼联名主题。",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-33bdcba6bf71",
-      "title": "ace7pro还是太超标了，性能释放顶级，我用过这么多手机，唯一一个打崩铁最高画质不烫手的手机 #一加Ace7Pro# #iQOONeo12# #REDMIK100ProMax#",
-      "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-23",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/75228011",
-      "image": "",
-      "summary": "ace7pro还是太超标了，性能释放顶级，我用过这么多手机，唯一一个打崩铁最高画质不烫手的手机 #一加Ace7Pro# #iQOONeo12# #REDMIK100ProMax#",
-      "tags": [
-        "Xiaomi",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-1e3c38f7b07d",
-      "title": "iPhone 18 Pro系列最新销量曝光：周增约77万台",
-      "source": "酷安热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-23",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/75228833",
-      "image": "",
-      "summary": "iPhone 18 Pro系列最新销量曝光：周增约77万台",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-8d3d659e45aa",
-      "title": "Apple tested a ‘complication column’ for the iPhone Duo Lock Screen, per leak",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-22",
-      "time": "17:13",
-      "publishedAt": "2026-11-22T17:13:56.000Z",
-      "url": "https://9to5mac.com/2026/11/22/apple-tested-a-complication-column-for-the-iphone-duo-lock-screen-per-leak/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-23.jpg?quality=82&strip=all&w=1600",
-      "summary": "Update : It turns out that this feature is actually referenced in the User Guide for iPhone Duo. Apple made a bunch of changes to iOS to optimize it for the iPhone Duo’s form fact…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-870d8f3d84ce",
-      "title": "UGREEN’s excellent liquid cooled 25W MagSafe battery for iPhone is now 40% off",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-22",
-      "time": "14:43",
-      "publishedAt": "2026-11-22T14:43:24.000Z",
-      "url": "https://9to5mac.com/2026/11/22/ugreen-25w-magsafe-liquid-cooling-battery-black-friday/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/DSC03213.jpg?quality=82&strip=all&w=1600",
-      "summary": "Recently, UGREEN introduced a new Qi2.2 25W 10000mAh MagSafe battery bank for iPhone. There have been plenty of these, but this one has an interesting new twist: liquid cooling. F…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
       ]
     }
   ]
