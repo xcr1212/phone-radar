@@ -1,11 +1,11 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-11-24T17:41:34.550Z",
-  "issueDate": "2026-11-24",
-  "issue": "VOL.261124",
+  "updatedAt": "2026-11-25T02:25:33.996Z",
+  "issueDate": "2026-11-25",
+  "issue": "VOL.261125",
   "title": "手机情报日报",
-  "intro": "今日筛出 12 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 9 条重点，其中 8 条是重点爆料，包含 6 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 12,
+    "total": 9,
     "iphone": 6,
     "leaks": 8,
     "official": 0,
@@ -17,6 +17,29 @@ window.phoneRadarDaily = {
       "title": "重点爆料",
       "hint": "机模、配色、影像、屏幕、电池和芯片线索先看。",
       "items": [
+        {
+          "id": "auto-002c808dabf7",
+          "title": "IT之家 iOS / 安卓版 9.55 上架：iPhone Duo 等大屏设备体验进化",
+          "originalTitle": "",
+          "source": "IT之家",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-11-25",
+          "time": "01:03",
+          "publishedAt": "2026-11-25T01:03:56.000Z",
+          "url": "https://www.ithome.com/1/031/938.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/1894ceb8-56e4-4e08-92a5-997d71fa955b.png",
+          "verdict": "先看",
+          "takeaway": "各位老哥老姐们早上好，IT之家客户端 iOS &nbsp;/ 安卓版 9.55 正式上架啦，敬请下载升级！[抱拳] 本次更新最重要的改进是 信息流大屏排版进化 。正如在《 IT之家 - MADE FOR iPhone Duo 》中所预告的，安卓和 iOS 版都已完成资讯、圈子信息流响应式排版改进：在宽屏幕中列表会跟随宽度自动切换为 1、2、3…… 列排版，…",
+          "detail": "各位老哥老姐们早上好，IT之家客户端 iOS &nbsp;/ 安卓版 9.55 正式上架啦，敬请下载升级！[抱拳] 本次更新最重要的改进是 信息流大屏排版进化 。正如在《 IT之家 - MADE FOR iPhone Duo 》中所预告的，安卓和 iOS 版都已完成资讯、圈子信息流响应式排版改进：在宽屏幕中列表会跟随宽度自动切换为 1、2、3…… 列排版，…",
+          "keyPoints": [
+            "屏幕形态"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
         {
           "id": "auto-1ee47c2026e5",
           "title": "iPhone 相机掌门人退休：他把「果味」做成标杆，也制造了争议",
@@ -112,70 +135,49 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-e86eae2af187",
-          "title": "华为 Mate X8 大折旗舰机支持更换云晰柔光膜，2027 年 1 月下旬指定门店提供服务",
+          "id": "auto-6f757e885b44",
+          "title": "一加 Nord 7 手机曝光：垂直 RGB 灯、9000mAh 电池、天玑 8500 芯片",
           "originalTitle": "",
           "source": "IT之家",
-          "brand": "Huawei",
+          "brand": "OPPO",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-11-24",
-          "time": "14:03",
-          "publishedAt": "2026-11-24T14:03:12.000Z",
-          "url": "https://www.ithome.com/1/031/877.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/c00627ab-c9a6-4200-a9c6-edf271764625.jpg",
+          "date": "2026-11-25",
+          "time": "01:50",
+          "publishedAt": "2026-11-25T01:50:35.000Z",
+          "url": "https://www.ithome.com/1/031/954.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/d207e5cb-22f4-4259-bf84-de143162eadb.png?x-bce-process=image/format,f_auto",
           "verdict": "先看",
-          "takeaway": "IT之家 11 月 24 日现场消息，在今天下午的 HUAWEI Mate X8 及全场景新品发布会上， 华为 Mate X8 大折旗舰机正式发布 ，全系搭载麒麟 9050 Pro 处理器，售价 12,999 元起。 12GB+256GB：12,999 元 12GB+512GB：13,999 元 16GB+512GB 典藏版：15,999 元 16GB+1…",
-          "detail": "IT之家 11 月 24 日现场消息，在今天下午的 HUAWEI Mate X8 及全场景新品发布会上， 华为 Mate X8 大折旗舰机正式发布 ，全系搭载麒麟 9050 Pro 处理器，售价 12,999 元起。 12GB+256GB：12,999 元 12GB+512GB：13,999 元 16GB+512GB 典藏版：15,999 元 16GB+1…",
+          "takeaway": "IT之家 11 月 25 日消息，消息源 @yabhishekhd 昨日（11 月 24 日）在 X 平台发布推文，分享了一组图片， 展示了一加 Nord 7 手机，并爆料称该机将配备 9000mAh 容量超大电池，支持 80W 有线快充。 定位方面，一加 Nord 7 率先面向印度等市场，考虑到 Nord 6 曾是国行一加 Turbo 6 的海外版本，中…",
+          "detail": "IT之家 11 月 25 日消息，消息源 @yabhishekhd 昨日（11 月 24 日）在 X 平台发布推文，分享了一组图片， 展示了一加 Nord 7 手机，并爆料称该机将配备 9000mAh 容量超大电池，支持 80W 有线快充。 定位方面，一加 Nord 7 率先面向印度等市场，考虑到 Nord 6 曾是国行一加 Turbo 6 的海外版本，中…",
           "keyPoints": [
+            "电池 / 充电",
             "芯片 / 性能",
-            "成本 / 价格"
+            "爆料来源"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
-          "id": "auto-c4d7e24c358c",
-          "title": "余承东：2026 年，华为折叠手机在中国市场份额已超过 70%",
+          "id": "auto-aaccbb86ee4a",
+          "title": "荣耀 Magic 9 Lite+ 5G 手机曝光：9530mAh 电池、8.08 毫米厚、1.08 亿像素主摄",
           "originalTitle": "",
           "source": "IT之家",
-          "brand": "Huawei",
+          "brand": "HONOR",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-11-24",
-          "time": "12:58",
-          "publishedAt": "2026-11-24T12:58:48.000Z",
-          "url": "https://www.ithome.com/1/031/866.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/c6cd4d26-984f-485e-b5d1-ccb038b404d2.png?x-bce-process=image/format,f_auto",
+          "date": "2026-11-25",
+          "time": "01:04",
+          "publishedAt": "2026-11-25T01:04:20.000Z",
+          "url": "https://www.ithome.com/1/031/939.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/17e2a967-61df-4e37-a0e2-3f3c25f213db.png",
           "verdict": "先看",
-          "takeaway": "IT之家 11 月 24 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东刚刚发文，称从大折叠、三折叠到阔折叠，华为一直在探索折叠手机的更多可能。 他宣布， 2026 年，华为折叠手机在中国市场份额已超过 70% 。 另外，在今天的发布会上，余承东还透露， 华为折叠手机拿下了折叠机品牌第一提及率的成就 。同时，华为大折叠手机全球发货量…",
-          "detail": "IT之家 11 月 24 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东刚刚发文，称从大折叠、三折叠到阔折叠，华为一直在探索折叠手机的更多可能。 他宣布， 2026 年，华为折叠手机在中国市场份额已超过 70% 。 另外，在今天的发布会上，余承东还透露， 华为折叠手机拿下了折叠机品牌第一提及率的成就 。同时，华为大折叠手机全球发货量…",
+          "takeaway": "IT之家 11 月 25 日消息，科技媒体 91Mobile 于 11 月 23 日发布博文，分享了一组渲染图， 展示了欧洲版荣耀 Magic 9 Lite+ 5G 手机，定位中高端市场，最大卖点是 9530mAh 超大容量电池，支持 80W 有线快充。 IT之家注：原文并未标注是额定值还是典型值，从数值来看更倾向于额定值。通常情况下，典型值比额定值高约…",
+          "detail": "IT之家 11 月 25 日消息，科技媒体 91Mobile 于 11 月 23 日发布博文，分享了一组渲染图， 展示了欧洲版荣耀 Magic 9 Lite+ 5G 手机，定位中高端市场，最大卖点是 9530mAh 超大容量电池，支持 80W 有线快充。 IT之家注：原文并未标注是额定值还是典型值，从数值来看更倾向于额定值。通常情况下，典型值比额定值高约…",
           "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-6613ce1634bd",
-          "title": "怪手机们要回来了吗？",
-          "originalTitle": "",
-          "source": "少数派",
-          "brand": "Huawei",
-          "type": "评测",
-          "trust": "媒体汇总",
-          "date": "2026-11-23",
-          "time": "10:00",
-          "publishedAt": "2026-11-23T10:00:30.000Z",
-          "url": "https://sspai.com/prime/story/weird-phones-are-returning",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "喜欢玩小手机和怪手机的朋友，这两年应该好歹有了点兴奋劲。华为用PuraX系列带回了「阔」屏幕，卖出了百万销量。然后又是一堆宽宽的折叠屏。实体全键盘也不再只有Unihertz一家闷头劳作，做手机键盘壳子 ... 本文为会员文章，出自 《单篇文章》 ，订阅后可阅读全文。",
-          "detail": "喜欢玩小手机和怪手机的朋友，这两年应该好歹有了点兴奋劲。华为用PuraX系列带回了「阔」屏幕，卖出了百万销量。然后又是一堆宽宽的折叠屏。实体全键盘也不再只有Unihertz一家闷头劳作，做手机键盘壳子 ... 本文为会员文章，出自 《单篇文章》 ，订阅后可阅读全文。",
-          "keyPoints": [
-            "屏幕形态"
+            "外观 / 配色 / 尺寸",
+            "电池 / 充电"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -213,111 +215,27 @@ window.phoneRadarDaily = {
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
         {
-          "id": "auto-124dff960515",
-          "title": "iPhone 18e 外观设计线索曝光",
+          "id": "auto-3d7a3b8eec5c",
+          "title": "谷歌 Chrome 开发者力挺 Firefox、炮轰苹果：iOS 浏览器引擎选择形同虚设",
           "originalTitle": "",
-          "source": "9to5Mac",
+          "source": "IT之家",
           "brand": "iPhone",
           "type": "爆料",
           "trust": "媒体汇总",
-          "date": "2026-11-24",
-          "time": "13:19",
-          "publishedAt": "2026-11-24T13:19:08.000Z",
-          "url": "https://9to5mac.com/2026/11/24/cad-images-suggest-iphone-18e-will-have-an-odd-new-camera-design/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/CAD-images-suggest-iPhone-18e-will-have-an-odd-new-camera-design.jpg?quality=82&strip=all&w=1600",
+          "date": "2026-11-25",
+          "time": "00:18",
+          "publishedAt": "2026-11-25T00:18:20.000Z",
+          "url": "https://www.ithome.com/1/031/921.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/88469fd8-774d-4e49-a1e1-3ecf2f807f4c.png",
           "verdict": "先看",
-          "takeaway": "iPhone 18e 外观设计线索曝光。重点看外观、颜色、尺寸是否和上一代有明显变化。",
-          "detail": "iPhone 18e 外观设计线索曝光。这类内容主要看外观设计、按键布局、相机模组和尺寸变化，后续最好等更多渲染图或保护壳线索互相验证。",
-          "keyPoints": [
-            "外观 / 配色 / 尺寸",
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响拍照体验，买旗舰机时值得关注。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        },
-        {
-          "id": "auto-d394cf9c7b30",
-          "title": "iPhone 18 Pro 影像能力相关消息",
-          "originalTitle": "",
-          "source": "9to5Mac",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-11-24",
-          "time": "12:18",
-          "publishedAt": "2026-11-24T12:18:30.000Z",
-          "url": "https://9to5mac.com/2026/11/24/times-top-100-photos-of-2026-list-includes-a-shot-taken-on-iphone-18-pro/",
-          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-18-pro-glacier-angled.jpg?quality=82&strip=all&w=1600",
-          "verdict": "先看",
-          "takeaway": "iPhone 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
-          "detail": "iPhone 18 Pro 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
-          "keyPoints": [
-            "影像硬件"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响拍照体验，买旗舰机时值得关注。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
-        }
-      ]
-    },
-    {
-      "id": "launch",
-      "title": "新机与官方发布",
-      "hint": "能直接更新到参数库。",
-      "items": [
-        {
-          "id": "newsnow-3237204513e3",
-          "title": "华为Mate90 Air发布：售价4999元起",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "Huawei",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-11-24",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/75248664",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "华为Mate90 Air发布：售价4999元起",
-          "detail": "华为Mate90 Air发布：售价4999元起",
-          "keyPoints": [
-            "成本 / 价格"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        }
-      ]
-    },
-    {
-      "id": "market",
-      "title": "行业趋势",
-      "hint": "看方向，不急着当购买依据。",
-      "items": [
-        {
-          "id": "newsnow-241f8d3123ce",
-          "title": "朋友的手机自燃了，荣耀蒸蒸日上好吧#数码日常#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-11-24",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/75182908",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "朋友的手机自燃了，荣耀蒸蒸日上好吧#数码日常#",
-          "detail": "朋友的手机自燃了，荣耀蒸蒸日上好吧#数码日常#",
+          "takeaway": "IT之家 11 月 25 日消息，谷歌 Chrome 开发者团队今日在 X 平台发文，公开支持 Firefox 浏览器开发商 Mozilla 此前针对苹果 iOS 浏览器引擎限制的投诉。 IT之家了解到， Mozilla、Shopify 等 5.5 万家企业和民间组织近日向欧盟委员会发出联名信 ，要求欧盟向苹果施压， 彻底开放 iOS 系统第三方浏览器引擎…",
+          "detail": "IT之家 11 月 25 日消息，谷歌 Chrome 开发者团队今日在 X 平台发文，公开支持 Firefox 浏览器开发商 Mozilla 此前针对苹果 iOS 浏览器引擎限制的投诉。 IT之家了解到， Mozilla、Shopify 等 5.5 万家企业和民间组织近日向欧盟委员会发出联名信 ，要求欧盟向苹果施压， 彻底开放 iOS 系统第三方浏览器引擎…",
           "keyPoints": [
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+          "action": "中文源可以直接点开快读；看完只保留和购机有关的点。"
         }
       ]
     }
