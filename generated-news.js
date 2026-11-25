@@ -1,100 +1,40 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-11-25T02:25:33.996Z",
+  "updatedAt": "2026-11-25T14:19:26.883Z",
   "news": [
     {
-      "id": "coolapk-user-935855ce2512",
-      "title": "竹本青：【OriginOS 7 开启新一轮机型升级，覆盖vivo X100 系列、iQOO 12 系列等】 vivo X…",
+      "id": "coolapk-user-c353bddede1b",
+      "title": "竹本青：影石Ace Pro3 运动相机 外观首曝：白色机身，可变光圈 #今日热点# #影石Insta360AcePro3#…",
       "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "高可信爆料",
       "date": "2026-11-25",
-      "time": "02:17",
-      "publishedAt": "2026-11-25T02:17:48.000Z",
-      "url": "https://www.coolapk.com/feed/75262387",
-      "image": "http://image.coolapk.com/feed/2026/1125/10/4248714_e42488d1_3067_8998_669@2000x4013.jpg",
-      "summary": "【OriginOS 7 开启新一轮机型升级，覆盖vivo X100 系列、iQOO 12 系列等】 vivo X Fold2 vivo X100 系列 vivo S50 系列 vivo Pad5 系列 iQOO 12 系列 iQOO Neo9 系列 iQOO Z11 Turbo iQOO Pad5 系列 #今日热点# #鸿蒙7# #iQOO12#",
+      "time": "14:19",
+      "publishedAt": "2026-11-25T14:19:11.000Z",
+      "url": "https://www.coolapk.com/feed/75274631",
+      "image": "http://image.coolapk.com/feed/2026/1125/22/4248714_9ee37f95_6349_3554_603@301x301.jpg",
+      "summary": "影石Ace Pro3 运动相机 外观首曝：白色机身，可变光圈 #今日热点# #影石Insta360AcePro3# #数码日常#",
       "tags": [
-        "Huawei",
+        "行业",
         "爆料",
         "酷安博主"
       ]
     },
     {
-      "id": "coolapk-user-b05ef62058eb",
-      "title": "JSCHEN小小狐：『曝华为 6.17 英寸小直屏采用 18:9 微阔屏比例』 知名数码博主 数码闲聊站 今日爆料称，此前曝光的华为…",
-      "source": "JSCHEN小小狐",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-25",
-      "time": "02:07",
-      "publishedAt": "2026-11-25T02:07:56.000Z",
-      "url": "https://www.coolapk.com/feed/75262194",
-      "image": "http://image.coolapk.com/feed/2026/1125/10/4702274_831c86c5_2475_7334_859@1440x430.jpg",
-      "summary": "『曝华为 6.17 英寸小直屏采用 18:9 微阔屏比例』 知名数码博主 数码闲聊站 今日爆料称，此前曝光的华为 6.17 英寸 1.5K 小直屏或采用「微阔屏」设计，其早期测试比例为 18:9 规格。 据此前爆料，华为正在开案一块 6.17 英寸 1.5K 小尺寸直屏。值得一提的是，该物料当前仅有早期开屏信息，其所属产品线暂未明晰。 #今日热点# #华为…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-10f87fc8398d",
-      "title": "竹本青：【2027年各手机厂商出货目标曝光：苹果、华为、小米等下调预期，唯一荣耀维持不变】 11月25日，界面新闻援引供应…",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-25",
-      "time": "02:06",
-      "publishedAt": "2026-11-25T02:06:27.000Z",
-      "url": "https://www.coolapk.com/feed/75262167",
-      "image": "http://image.coolapk.com/feed/2026/1125/10/4248714_e884684b_2837_5253_684@771x500.jpg",
-      "summary": "【2027年各手机厂商出货目标曝光：苹果、华为、小米等下调预期，唯一荣耀维持不变】 11月25日，界面新闻援引供应链报道，称2027年主要手机厂商出货目标近期陆续落定。受上游存储芯片成本持续高企影响，多数厂商选择下调明年预期，具体来看： ● 华为： 2027年出货目标下调至约5000万台以下，较2026年的约6000万台减少超过16%。 ● 苹果： 202…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-f342403bf627",
-      "title": "OriginOS 7 尝鲜招募：vivo X100、iQOO 12 等 23 款机型迎来升级",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-25",
-      "time": "02:01",
-      "publishedAt": "2026-11-25T02:01:30.000Z",
-      "url": "https://www.ithome.com/1/031/958.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/fc8dbed1-234e-4875-9529-7be5e1e51777.jpg",
-      "summary": "IT之家 11 月 25 日消息，OriginOS 7 新一轮机型迎来升级。本次 OriginOS 7 尝鲜招募于 2026 年 11 月 25 日 10:00 启动，至 12 月 9 日 23:59 截止，招募人数不限量。 系统将按照用户尝鲜申请的顺序分批推送更新包： 11 月 25 日 10:30 首批推送 5000 名申请用户， 11 月 26 日推…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-6f757e885b44",
-      "title": "一加 Nord 7 手机曝光：垂直 RGB 灯、9000mAh 电池、天玑 8500 芯片",
-      "source": "IT之家",
+      "id": "auto-f1741a29e5ed",
+      "title": "Oppo Find N7: Everything We Know About Oppo’s Wide Foldable",
+      "source": "Gizmochina",
       "brand": "OPPO",
       "model": "OPPO 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-11-25",
-      "time": "01:50",
-      "publishedAt": "2026-11-25T01:50:35.000Z",
-      "url": "https://www.ithome.com/1/031/954.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/d207e5cb-22f4-4259-bf84-de143162eadb.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 11 月 25 日消息，消息源 @yabhishekhd 昨日（11 月 24 日）在 X 平台发布推文，分享了一组图片， 展示了一加 Nord 7 手机，并爆料称该机将配备 9000mAh 容量超大电池，支持 80W 有线快充。 定位方面，一加 Nord 7 率先面向印度等市场，考虑到 Nord 6 曾是国行一加 Turbo 6 的海外版本，中…",
+      "time": "13:37",
+      "publishedAt": "2026-11-25T13:37:13.000Z",
+      "url": "https://www.gizmochina.com/2026/11/25/oppo-find-n7-everything-we-know-about-oppos-wide-foldable/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/03/OPPO-Find-N6_1.mp4_20260326_152223.812-300x150.jpg?x39984",
+      "summary": "Updated 25 Nov 2026 · Labels: Confirmed = official or a certification · Leak = supply chain, renders or a tipster · Rumour = a single unconfirmed report At a glance Oppo Find N7 W…",
       "tags": [
         "OPPO",
         "爆料",
@@ -102,19 +42,139 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-0a987dbb8306",
-      "title": "竹本青：【华为微阔直屏手机曝光：6.17英寸1.5K，测试比例18:9】 11月25日，据数码闲聊站消息，华为“微阔直屏”…",
+      "id": "auto-d7d0549f79eb",
+      "title": "Three chips, four phones: How Samsung could split Snapdragon and Exynos across the Galaxy S27 lineup",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-25",
+      "time": "12:55",
+      "publishedAt": "2026-11-25T12:55:49.000Z",
+      "url": "https://www.sammobile.com/news/which-galaxy-s27-models-will-get-exynos-vs-snapdragon/",
+      "image": "",
+      "summary": "There's been some back-and-forth about Samsung's possible chipset choices for its upcoming Galaxy S27 series. Historically, most Galaxy S lineups were split between two chipsets b…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7649e6ab972b",
+      "title": "Case maker reveals camera layout of Galaxy S27, S27+, S27 Pro, and S27 Ultra",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-25",
+      "time": "12:54",
+      "publishedAt": "2026-11-25T12:54:35.000Z",
+      "url": "https://www.gizmochina.com/2026/11/25/case-maker-reveals-entire-galaxy-s27-series-back-design/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/case-maker-reveals-entire-galaxy-s27-series-back-design-1-300x169.jpg?x39984",
+      "summary": "The clip shows dummy units of all four expected models, the Galaxy S27, S27+, S27 Pro, and S27 Ultra, while the company tests its protective cases. The post Case maker reveals cam…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9f12f4df71a4",
+      "title": "Counterpoint：预计 2027 年全球智能手机出货再降 6%，2028 年迎来首次反弹",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-25",
+      "time": "12:09",
+      "publishedAt": "2026-11-25T12:09:20.000Z",
+      "url": "https://www.ithome.com/1/032/475.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/4f2cfbfa-9f6e-4d49-b405-260ac3f1ffab.png",
+      "summary": "IT之家 11 月 25 日消息，Counterpoint Research 在最新《智能手机市场展望追踪报告》中预测， 2026 年全球智能手机出货量将同比下降 13.9% ，并在 2027 年进一步下滑 6%；随后市场有望在 2028 年反弹 6%。 本轮下行主要由元件成本飙升、低价机型供给收缩以及消费者购买力下降共同驱动。手机厂商普遍通过提价、降低内…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a54e1f7a8cb8",
+      "title": "华为 5A 通信技术支持设备上新，新增 Mate 90 Air、Mate X8 系列手机",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-25",
+      "time": "12:02",
+      "publishedAt": "2026-11-25T12:02:27.000Z",
+      "url": "https://www.ithome.com/1/032/478.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/5/a1339e8a-9bce-4624-b5b1-845d82688d7d.jpg",
+      "summary": "IT之家 11 月 25 日消息，华为官网“悄悄”更新了 5A 相关问题的支持文档，公布了支持 5A 通信技术的最新机型清单， 新增 Mate 90 Air、Mate X8 系列等机型 。 华为明确，5A 只代表华为终端先进的通信技术，而非网络制式， 既不等同于 5G-A（5GA），也不等同于 5.5G 。5A 技术没有单独的开关，无需用户额外付费或手动设…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0eec0f278a64",
+      "title": "Samsung Galaxy Z TriFold 2 codename leak hints at another limited release",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-25",
+      "time": "11:35",
+      "publishedAt": "2026-11-25T11:35:17.000Z",
+      "url": "https://www.androidauthority.com/galaxy-z-trifold-2-codename-global-launch-leak-3739313/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/01/Samsung-Galaxy-Z-TriFold-at-CES-2026-5-of-6.jpg",
+      "summary": "Internal naming pattern offers clues about Samsung's plans.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-74509e063135",
+      "title": "I’ve used the Pixel 11 Pro XL for months, and I wouldn’t go without these 6 accessories",
+      "source": "Android Authority",
+      "brand": "Pixel",
+      "model": "Pixel 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-25",
+      "time": "11:30",
+      "publishedAt": "2026-11-25T11:30:51.000Z",
+      "url": "https://www.androidauthority.com/best-google-pixel-11-pro-xl-accessories-3738052/",
+      "image": "",
+      "summary": "Keeping my Pixel spoiled and charged.",
+      "tags": [
+        "Pixel",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-3c19d9b12197",
+      "title": "竹本青：阿维塔06T Max 双电机先锋纯电版上市：限时19.99万起",
       "source": "竹本青",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "高可信爆料",
       "date": "2026-11-25",
-      "time": "01:06",
-      "publishedAt": "2026-11-25T01:06:38.000Z",
-      "url": "https://www.coolapk.com/feed/75261221",
-      "image": "http://image.coolapk.com/feed/2026/1125/09/4248714_797f4ae7_8797_5001_978@2937x2822.jpg",
-      "summary": "【华为微阔直屏手机曝光：6.17英寸1.5K，测试比例18:9】 11月25日，据数码闲聊站消息，华为“微阔直屏”手机正处于早前开发阶段。该机尺寸6.17英寸，分辨率1.5K，比例测试18:9，握持手感相对更舒适。 此前爆料显示，目前仅获知屏幕开发信息，暂未明确归属具体产品线；若项目推进顺利，预计将于明年正式推出。 #今日热点# #鸿蒙7# #华为Pura…",
+      "time": "10:29",
+      "publishedAt": "2026-11-25T10:29:06.000Z",
+      "url": "https://www.coolapk.com/feed/75270820",
+      "image": "http://image.coolapk.com/feed/2026/1125/18/4248714_555f821c_2492_2975_513@1406x3743.jpg",
+      "summary": "【阿维塔06T Max 双电机先锋纯电版上市：限时19.99万元起，搭载华为乾崑ADS 5.0】 ● 座舱配置： 35.4英寸4K全景星环屏 鸿蒙座舱HarmonySpace 5 MoLA 2.0大模型 后备箱支持一键成床 英国之宝16扬7.1音响系统 ● 智能驾驶： 华为乾崑ADS 5.0智驾系统 WEWA 2.0架构 华为乾崑896线图像级激光雷达 ●…",
       "tags": [
         "Huawei",
         "爆料",
@@ -122,19 +182,19 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-aaccbb86ee4a",
-      "title": "荣耀 Magic 9 Lite+ 5G 手机曝光：9530mAh 电池、8.08 毫米厚、1.08 亿像素主摄",
+      "id": "auto-acd3c15af1a2",
+      "title": "影石 Luna Ultra 云台相机官宣支持荣耀一碰传，已支持 Magic9 系列手机",
       "source": "IT之家",
       "brand": "HONOR",
       "model": "HONOR 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-11-25",
-      "time": "01:04",
-      "publishedAt": "2026-11-25T01:04:20.000Z",
-      "url": "https://www.ithome.com/1/031/939.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/17e2a967-61df-4e37-a0e2-3f3c25f213db.png",
-      "summary": "IT之家 11 月 25 日消息，科技媒体 91Mobile 于 11 月 23 日发布博文，分享了一组渲染图， 展示了欧洲版荣耀 Magic 9 Lite+ 5G 手机，定位中高端市场，最大卖点是 9530mAh 超大容量电池，支持 80W 有线快充。 IT之家注：原文并未标注是额定值还是典型值，从数值来看更倾向于额定值。通常情况下，典型值比额定值高约…",
+      "time": "10:26",
+      "publishedAt": "2026-11-25T10:26:03.000Z",
+      "url": "https://www.ithome.com/1/032/441.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/80d71ef2-8fb2-4254-a357-183d162177ab.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 11 月 25 日消息，影石 Insta360 昨日宣布，拍完不用等，影石 Luna Ultra 全新支持荣耀一碰传。 据介绍，在 Luna Ultra 的素材回放或选择页面， 用手机顶部触碰相机手柄侧面 ，即可直接发起传输。 据介绍，该功能现已支持 荣耀 Magic9 、 荣耀 Magic9 Pro Max 、 荣耀 Magic9 超能版 手机…",
       "tags": [
         "HONOR",
         "爆料",
@@ -142,23 +202,363 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-002c808dabf7",
-      "title": "IT之家 iOS / 安卓版 9.55 上架：iPhone Duo 等大屏设备体验进化",
+      "id": "auto-a47d66e55578",
+      "title": "三星三折叠手机 Galaxy Z Trifold 2 曝光：代号 Q9m，基于 Z Fold9 Ultra 开发",
       "source": "IT之家",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-25",
+      "time": "10:04",
+      "publishedAt": "2026-11-25T10:04:41.000Z",
+      "url": "https://www.ithome.com/1/032/380.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/2030a1b0-d719-4712-8112-d2cf697a9ac7.png",
+      "summary": "IT之家 11 月 25 日消息，荷兰科技媒体 Galaxy Club 昨日（11 月 24 日）发布博文，报道称 三星正在酝酿三折叠手机继任者（上市后预估名为 Galaxy Z Trifold 2），内部开发代号为 Q9m，预估将于 2027 年发布，基于 Galaxy Z Fold9 系列折叠手机开发。 IT之家注：三星于 2025 年首次推出 Gal…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9bdba1f653fe",
+      "title": "华为余承东解释为何 Mate X8 不标配“云晰柔光膜”：大多数人不喜欢，会少量牺牲分辨率",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-25",
+      "time": "10:02",
+      "publishedAt": "2026-11-25T10:02:01.000Z",
+      "url": "https://www.ithome.com/1/032/379.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/31837a19-a5f4-418e-b70e-b5cf265460ae.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 11 月 25 日消息，在昨天下午的 HUAWEI Mate X8 及全场景新品发布会上， 华为 Mate X8 大折旗舰机正式发布 。 华为官方还为这款新机推出了云晰柔光膜 ，用户在华为授权服务中心可购买更换。 关于为何不标配“云晰柔光膜”，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东也给出了解释： 大多数人不太喜欢这种柔光膜…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4195401fecd0",
+      "title": "HMD PureView 智能手机更多配置曝光，搭载高通骁龙 8 Elite Gen 5 处理器",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-25",
+      "time": "09:39",
+      "publishedAt": "2026-11-25T09:39:59.000Z",
+      "url": "https://www.ithome.com/1/032/372.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/d2c6d412-03d1-45bc-b9c9-a5b7867dc9ba.png?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 11 月 25 日消息，根据芬兰媒体 SuomiMobiili 的爆料，HMD 分享的 PureView 智能手机预告显示，这款主打拍摄的旗舰级设备将 采用高通骁龙 8 Elite Gen 5 处理器 。 HMD PureView 将 搭载圆形四摄背部 Deco 系统 ，包括两颗豪威 OV50X50-GA3A-004A-Z 主摄、6 倍潜望镜头、…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-177cdb05d922",
+      "title": "Honor Magic 9 Lite+ 5G European renders leak with 9,530mAh battery",
+      "source": "Gizmochina",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-25",
+      "time": "09:32",
+      "publishedAt": "2026-11-25T09:32:49.000Z",
+      "url": "https://www.gizmochina.com/2026/11/25/honor-magic-9-lite-5g-european-renders-leak-with-9530mah-battery/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/Honor-Magic-9-Lite-Plus-Design-300x200.jpg?x39984",
+      "summary": "Honor may be preparing to add a new Magic 9 phone to the global portfolio. Renders of the European Magic 9 Lite+ 5G have surfaced via 91Mobiles, showing a 9,530mAh battery, 80W wi…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0461b81b6625",
+      "title": "iPhone Air 2: Everything We Know",
+      "source": "Gizmochina",
       "brand": "iPhone",
       "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-11-25",
-      "time": "01:03",
-      "publishedAt": "2026-11-25T01:03:56.000Z",
-      "url": "https://www.ithome.com/1/031/938.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/1894ceb8-56e4-4e08-92a5-997d71fa955b.png",
-      "summary": "各位老哥老姐们早上好，IT之家客户端 iOS &nbsp;/ 安卓版 9.55 正式上架啦，敬请下载升级！[抱拳] 本次更新最重要的改进是 信息流大屏排版进化 。正如在《 IT之家 - MADE FOR iPhone Duo 》中所预告的，安卓和 iOS 版都已完成资讯、圈子信息流响应式排版改进：在宽屏幕中列表会跟随宽度自动切换为 1、2、3…… 列排版，…",
+      "time": "08:49",
+      "publishedAt": "2026-11-25T08:49:29.000Z",
+      "url": "https://www.gizmochina.com/2026/11/25/iphone-air-2-everything-we-know/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/iphone-18-air-2-production-300x167.png?x39984",
+      "summary": "Updated 25 Nov 2026 · Labels: Confirmed = official or a certification · Leak = supply chain, renders, dummy units or a tipster · Rumour = a single unconfirmed report At a glance i…",
       "tags": [
         "iPhone",
         "爆料",
         "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-18b4d8a2e84e",
+      "title": "竹本青：格科推出1:1方形图像传感器GC68F0",
+      "source": "竹本青",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-25",
+      "time": "08:11",
+      "publishedAt": "2026-11-25T08:11:27.000Z",
+      "url": "https://www.coolapk.com/feed/75268500",
+      "image": "http://image.coolapk.com/feed/2026/1125/16/4248714_b3e0edac_4467_6282_974@1142x667.png",
+      "summary": "【格科推出1:1方形图像传感器 GC68F0，支持横/竖向4K 60fps视频】 ● 1/2.58\"／0.6µm像素 ● 分辨率8192×8192 ● 原生1:1方形阵列 ● 横/竖向4K 60fps视频 近日，格科GalaxyCore推出面向高性能手机前摄的堆栈式CMOS图像传感器GC68F0。该产品采用8192×8192的原生1:1方形像素阵列，支持4…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-461b3043cc94",
+      "title": "Galaxy Z TriFold 2 could be a limited release, codename revealed",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-25",
+      "time": "08:07",
+      "publishedAt": "2026-11-25T08:07:40.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-trifold-2-codename-limited-release/",
+      "image": "",
+      "summary": "The Galaxy Z TriFold, Samsung's first tri-folding phone, launched last year. The company didn't follow it up with a successor this year and could wait until next year to release o…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-575ad5f4226b",
+      "title": "User sues Samsung for $200,000 after company offers $800 and keeps her burned Galaxy S21",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-25",
+      "time": "07:42",
+      "publishedAt": "2026-11-25T07:42:45.000Z",
+      "url": "https://www.gizmochina.com/2026/11/25/woman-sues-samsung-for-200000-after-company-offers-800-and-keeps-her-burned-galaxy-s21/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/nz-feature-made-for-the-epic-in-everyday-413211858-300x169.webp?x39984",
+      "summary": "Samsung reportedly offered $800 for the phone on the condition that Kravchuck sign a legal waiver. The post User sues Samsung for $200,000 after company offers $800 and keeps her…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-69bc6f6574dc",
+      "title": "OnePlus Nord 7 leaks with an RGB light strip and a downgraded display",
+      "source": "Android Authority",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-25",
+      "time": "07:28",
+      "publishedAt": "2026-11-25T07:28:49.000Z",
+      "url": "https://www.androidauthority.com/oneplus-nord-7-leak-3739177/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/04/OnePlus-Nord-6-charging.jpg",
+      "summary": "Is it a simple light bar, or something more like the Pixel HiLight feature? Guess we'll have to wait and see.",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-216b75ac8a97",
+      "title": "JSCHEN小小狐：星芒OSTA O1标准版曝光: 7英寸 / 9020系",
+      "source": "JSCHEN小小狐",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-25",
+      "time": "05:43",
+      "publishedAt": "2026-11-25T05:43:06.000Z",
+      "url": "https://www.coolapk.com/feed/75266169",
+      "image": "http://image.coolapk.com/feed/2026/1125/13/4702274_fd72be35_5385_7797_522@1440x506.jpg",
+      "summary": "『星芒 OSTA O1 标准版曝光: 7 英寸 / 9020 系』 ◇ 7 英寸 1.5K 等深四曲屏 ◇ 麒麟 9020 系列处理器 ◇ 模具参考 Mate Air 系列 据悉，OSTA O1 标准版已处于备案代发状态。 #今日热点# #OSTAO1Pro# #星芒OSTA#",
+      "tags": [
+        "行业",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "weibo-7c1d77e2c7d0",
+      "title": "数码闲聊站：华为星芒好像还有一台O1标准版，7英寸1.5K等深四曲屏+麒麟9020系处理器…",
+      "source": "数码闲聊站",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-25",
+      "time": "05:35",
+      "publishedAt": "2026-11-25T05:35:00.000Z",
+      "url": "https://weibo.com/6048569942/Rt0vnDEop",
+      "image": "",
+      "summary": "华为星芒好像还有一台O1标准版，7英寸1.5K等深四曲屏+麒麟9020系处理器的纤薄大屏机，可以参考Mate Air，新机已经备案代发状态[许愿星]",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-235260fe2f2b",
+      "title": "iQOO 16 and iQOO 16s launch date officially confirmed",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-25",
+      "time": "05:00",
+      "publishedAt": "2026-11-25T05:00:00.000Z",
+      "url": "https://www.gizmochina.com/2026/11/25/iqoo-16-16s-malaysia-launch-december-8/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-1200x675-21-300x169.jpg?x39984",
+      "summary": "iQOO has officially confirmed a Malaysia launch for the iQOO 16 and iQOO 16s on Tuesday, December 8, 2026. iQOO Malaysia’s Instagram teaser for the iQOO 16 Series names that date…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-a845bd95e13f",
+      "title": "T-Mobile announces Black Friday 2026 deals: Free Pixel 11 Pro, Galaxy S26 Plus, and more",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-25",
+      "time": "04:46",
+      "publishedAt": "2026-11-25T04:46:44.000Z",
+      "url": "https://www.androidauthority.com/t-mobile-black-friday-2026-deals-3739162/",
+      "image": "",
+      "summary": "T-Mobile's Black Friday deals also include a free Razr Fold or Razr Plus with trade-ins or a new line.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9c7031f71b49",
+      "title": "Motorola’s Razr 2027 leak shows it could put Samsung’s Galaxy Z Flip 8 to shame",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-25",
+      "time": "03:53",
+      "publishedAt": "2026-11-25T03:53:00.000Z",
+      "url": "https://www.androidpolice.com/motorola-razr-2027-leak-shows-it-could-put-samsung-galaxy-z-flip-8-to-shame/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/05/motorola-razr-2026-70-back-in-hand.JPG",
+      "summary": "A monster battery in a compact foldable form factor",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1b8f233e2b31",
+      "title": "怀旧手记｜Palm Pre：内藏「划时代」系统的手机",
+      "source": "少数派",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-11-25",
+      "time": "03:07",
+      "publishedAt": "2026-11-25T03:07:41.000Z",
+      "url": "https://sspai.com/post/118791",
+      "image": "",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...",
+      "tags": [
+        "行业",
+        "评测",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-0d13bd900d63",
+      "title": "JSCHEN小小狐：曝REDMI 2nm旗舰升级50MP 1/1.3\"主摄",
+      "source": "JSCHEN小小狐",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-25",
+      "time": "02:37",
+      "publishedAt": "2026-11-25T02:37:02.000Z",
+      "url": "https://www.coolapk.com/feed/75262793",
+      "image": "http://image.coolapk.com/feed/2026/1125/10/4702274_14cb2ef3_4221_4133_589@1440x585.jpg",
+      "summary": "『曝 REDMI 2nm 旗舰升级 50MP 1/1.3\" 主摄』 知名数码博主 数码闲聊站 今日爆料称，REDMI 全新 2nm 旗舰最新一版工程机主摄升级 5000 万像素 1/1.3 英寸传感器。完整影像规格如下： 主摄｜50MP 1/1.3\"± 超大底传感器 潜望｜50MP 1/1.95\" or 1/2.75\" 3X± 超广｜50MP（同步升级更高…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "weibo-f9c897ac030f",
+      "title": "数码闲聊站：独家信息：子系2nm旗舰最新一版工程机，前置32Mp，后置50Mp+50Mp+…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-25",
+      "time": "02:35",
+      "publishedAt": "2026-11-25T02:35:00.000Z",
+      "url": "https://weibo.com/6048569942/RsZkk2Xmt",
+      "image": "",
+      "summary": "独家信息，子系2nm旗舰最新一版工程机，前置32Mp，后置50Mp+50Mp+50Mp，主摄升级1/1.3\"±超大底，长焦AB Test，中底or小底方案，焦段改成3X±，超广角同步升级，这套方案够吗～",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "coolapk-user-b7f1ca4cbf16",
+      "title": "JSCHEN小小狐：HarmonyOS创新技术沟通会于11月25日15点举行",
+      "source": "JSCHEN小小狐",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-25",
+      "time": "02:01",
+      "publishedAt": "2026-11-25T02:01:56.000Z",
+      "url": "https://www.coolapk.com/feed/75262053",
+      "image": "http://image.coolapk.com/feed/2026/1125/10/4702274_484df7c2_2115_7712_819@1080x1920.jpg",
+      "summary": "『HarmonyOS 创新技术沟通会官宣 15 点举行』 11 月 25 日，华为终端正式官宣，HarmonyOS 创新技术沟通会将于当日 15:00 举行。本次技术沟通会口号“在一起，向未来”。 官方直播平台： - 我的华为 - 华为商城 - 抖音 - 视频号 - 哔哩哔哩 #今日热点# #鸿蒙7# #鸿蒙1亿再启新程#",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
       ]
     },
     {
@@ -179,46 +579,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-e7786f9c1ed3",
-      "title": "男子开辅助驾驶巡航后低头玩手机撞死见义勇为救人者：获刑一年九个月，赔偿 200 余万元",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-25",
-      "time": "00:39",
-      "publishedAt": "2026-11-25T00:39:03.000Z",
-      "url": "https://www.ithome.com/1/031/928.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/361ee96b-cc52-4c5d-8391-884604ff0baf.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 11 月 25 日消息，据《央视社会与法》报道，今年 5 月发生的一起交通事故现已宣判。 2026 年 5 月，练杭高速湖州某路段发生一起二次事故：一辆面包车爆胎侧翻，驾驶员杨某被困车内。过路司机李建伟将车停在应急车道，破窗救出杨某。两人刚退到路边隔离带旁，王某文驾驶的车辆便径直撞上李建伟，致其当场身亡。 警方调查显示，事发时王某文开启了车辆辅助…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-3d7a3b8eec5c",
-      "title": "谷歌 Chrome 开发者力挺 Firefox、炮轰苹果：iOS 浏览器引擎选择形同虚设",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-25",
-      "time": "00:18",
-      "publishedAt": "2026-11-25T00:18:20.000Z",
-      "url": "https://www.ithome.com/1/031/921.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/88469fd8-774d-4e49-a1e1-3ecf2f807f4c.png",
-      "summary": "IT之家 11 月 25 日消息，谷歌 Chrome 开发者团队今日在 X 平台发文，公开支持 Firefox 浏览器开发商 Mozilla 此前针对苹果 iOS 浏览器引擎限制的投诉。 IT之家了解到， Mozilla、Shopify 等 5.5 万家企业和民间组织近日向欧盟委员会发出联名信 ，要求欧盟向苹果施压， 彻底开放 iOS 系统第三方浏览器引擎…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -262,26 +622,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-8af5d95336d1",
-      "title": "这傻孩子还在幻想着自己7700的iPhone18promax呢[笑哭] 还知道对面是个律师 还朋友圈看着是正常人 人家专门包装的 你能知道的你能看到的都是骗子想让你看到的[笑眼] 还在这嘲讽前两天被骗的那位 殊不知自己就是下一位#iPhone18Pro# #REDMIK100ProMax# #华为MateX8#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-25",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/75259414",
-      "image": "",
-      "summary": "这傻孩子还在幻想着自己7700的iPhone18promax呢[笑哭] 还知道对面是个律师 还朋友圈看着是正常人 人家专门包装的 你能知道的你能看到的都是骗子想让你看到的[笑眼] 还在这嘲讽前两天被骗的那位 殊不知自己就是下一位#iPhone18Pro# #REDMIK100ProMax# #华为MateX8#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
       "id": "newsnow-651d15bf3e60",
       "title": "华为Mate90 Air发布：售价4999元起",
       "source": "酷安热榜",
@@ -302,59 +642,19 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-9cef7f9f0965",
-      "title": "大伙应该都领到好几百积分了，买手机的直接用就行，但暂时没有购买计划怎么办呢，总不能等着过期吧？[受虐滑稽]",
+      "id": "newsnow-8af5d95336d1",
+      "title": "这傻孩子还在幻想着自己7700的iPhone18promax呢[笑哭] 还知道对面是个律师 还朋友圈看着是正常人 人家专门包装的 你能知道的你能看到的都是骗子想让你看到的[笑眼] 还在这嘲讽前两天被骗的那位 殊不知自己就是下一位#iPhone18Pro# #REDMIK100ProMax# #华为MateX8#",
       "source": "酷安热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-11-25",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/75253479",
+      "url": "https://www.coolapk.com/feed/75259414",
       "image": "",
-      "summary": "大伙应该都领到好几百积分了，买手机的直接用就行，但暂时没有购买计划怎么办呢，总不能等着过期吧？[受虐滑稽]",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-14c592738e25",
-      "title": "男子开智驾玩手机撞死救人者",
-      "source": "微博热搜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "待验证",
-      "date": "2026-11-25",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%BC%80%E6%99%BA%E9%A9%BE%E7%8E%A9%E6%89%8B%E6%9C%BA%E6%92%9E%E6%AD%BB%E6%95%91%E4%BA%BA%E8%80%85%23&t=31&band_rank=28&Refer=top",
-      "image": "",
-      "summary": "男子开智驾玩手机撞死救人者",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-b1b1d3dd17e1",
-      "title": "鸿蒙正在把折叠屏变成随身工作台",
-      "source": "今日头条热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-25",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7711682824370455090/",
-      "image": "",
-      "summary": "鸿蒙正在把折叠屏变成随身工作台",
+      "summary": "这傻孩子还在幻想着自己7700的iPhone18promax呢[笑哭] 还知道对面是个律师 还朋友圈看着是正常人 人家专门包装的 你能知道的你能看到的都是骗子想让你看到的[笑眼] 还在这嘲讽前两天被骗的那位 殊不知自己就是下一位#iPhone18Pro# #REDMIK100ProMax# #华为MateX8#",
       "tags": [
         "Huawei",
         "爆料",
@@ -362,43 +662,83 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-8b3ffdfc965e",
-      "title": "摩托罗拉小折叠 Razr 2027 手机曝光：4 英寸 120Hz 外屏、5000mAh 电池、天玑 7550X 芯片",
-      "source": "IT之家",
+      "id": "newsnow-d87d714d31c2",
+      "title": "卧槽，这么好的广告，你怎么咋不早点告诉我@酷安小编 #REDMIK100ProMax#",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-25",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/75254093",
+      "image": "",
+      "summary": "卧槽，这么好的广告，你怎么咋不早点告诉我@酷安小编 #REDMIK100ProMax#",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-2b13760ca8a6",
+      "title": "极客湾曝光小米17U长焦歪轴：三台中招，换新才正常",
+      "source": "酷安热榜",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-25",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/75265406",
+      "image": "",
+      "summary": "极客湾曝光小米17U长焦歪轴：三台中招，换新才正常",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-e256082b965d",
+      "title": "华为微阔直屏手机曝光：6.17英寸1.5K，测试18:9",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-25",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/75261221",
+      "image": "",
+      "summary": "华为微阔直屏手机曝光：6.17英寸1.5K，测试18:9",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-7035ce4f10f5",
+      "title": "手机影像全机型大横评",
+      "source": "B站热搜",
       "brand": "行业",
       "model": "智能手机市场",
       "type": "爆料",
       "trust": "媒体汇总",
-      "date": "2026-11-24",
-      "time": "23:09",
-      "publishedAt": "2026-11-24T23:09:40.000Z",
-      "url": "https://www.ithome.com/1/031/910.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/0064132b-e006-4d2a-91d8-1be70c34decd.png",
-      "summary": "IT之家 11 月 25 日消息，科技媒体 Android Headline 昨日（11 月 24 日）发布博文，分享了一组渲染图，展示了摩托罗拉小折叠手机 Razr 2027 标准版， 最大的亮点就是外屏从 3.6 英寸提高到 4 英寸，并支持 120Hz 刷新率。 发布日期方面，摩托罗拉可能会在 2027 年 1 月召开的 CES 2027 活动中发布…",
+      "date": "2026-11-25",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://search.bilibili.com/all?keyword=%E6%89%8B%E6%9C%BA%E5%BD%B1%E5%83%8F%E5%85%A8%E6%9C%BA%E5%9E%8B%E5%A4%A7%E6%A8%AA%E8%AF%84",
+      "image": "",
+      "summary": "手机影像全机型大横评",
       "tags": [
         "行业",
         "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-3b0115f02cff",
-      "title": "AMD 发布 AGESA 1.3.0.1f 固件：部分锐龙 8000 处理器 vCore 限制为 1.4V",
-      "source": "IT之家",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-24",
-      "time": "22:41",
-      "publishedAt": "2026-11-24T22:41:14.000Z",
-      "url": "https://www.ithome.com/1/031/903.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/9305ac79-8756-4fcd-8df8-af6c7628d45b.jpg",
-      "summary": "IT之家 11 月 25 日消息，AMD 已发布最新 AGESA ComboAM5 PI 1.3.0.1f Patch A 固件更新，包括华硕、微星等主板厂商已陆续推出包含该版本 AGESA 的 AM5 主板 BIOS 更新。 此次更新的主要变化在于为部分锐龙 8000 系列处理器增加最高 1.4V 的核心电压（vCore）限制。微星已在相关 BIOS 更…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
+        "NewsNow"
       ]
     },
     {
@@ -433,28 +773,8 @@ window.phoneRadarAuto = {
       "time": "21:57",
       "publishedAt": "2026-11-24T21:57:10.000Z",
       "url": "https://www.gizmochina.com/2026/11/24/faster-ram-and-storage-could-be-limited-to-select-galaxy-s27-pro-and-ultra-variants/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/faster-ram-and-storage-could-be-limited-to-select-galaxy-s27-pro-and-ultra-300x169.webp?x91975",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/faster-ram-and-storage-could-be-limited-to-select-galaxy-s27-pro-and-ultra-300x169.webp?x39984",
       "summary": "The standard Galaxy S27 and S27+ are said to stick with 12GB of LPDDR5X RAM paired with UFS 4.1 storage in both the 256GB and 512GB options. The post Faster RAM and storage could…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-67fc4e93dcd5",
-      "title": "The Samsung Galaxy S26 FE finally drops to the price it should've had at launch",
-      "source": "Android Police",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-24",
-      "time": "17:37",
-      "publishedAt": "2026-11-24T17:37:50.000Z",
-      "url": "https://www.androidpolice.com/black-friday-samsung-galaxy-s26-fe-deal-amazon-sale/",
-      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/09/samsung-galaxy-s26-fe-ladi.jpg",
-      "summary": "The Google Pixel 10a has some real competition this Black Friday",
       "tags": [
         "Samsung",
         "爆料",
@@ -473,7 +793,7 @@ window.phoneRadarAuto = {
       "time": "17:19",
       "publishedAt": "2026-11-24T17:19:52.000Z",
       "url": "https://www.gizmochina.com/2026/11/24/oneplus-nord-7-live-images-rgb-light-144hz-9000mah/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-1200x675-20-300x169.jpg?x91975",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-1200x675-20-300x169.jpg?x39984",
       "summary": "OnePlus fans are eagerly waiting for the OnePlus 16, which has already debuted in China, though it is still not confirmed whether that flagship will launch outside China. There ha…",
       "tags": [
         "OPPO",
@@ -493,7 +813,7 @@ window.phoneRadarAuto = {
       "time": "17:06",
       "publishedAt": "2026-11-24T17:06:06.000Z",
       "url": "https://www.gizmochina.com/2026/11/24/iphone-18e-leak-points-to-nearly-square-camera-island/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/iphone-18e-leak-points-to-nearly-square-camera-island-2-300x168.png?x91975",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/iphone-18e-leak-points-to-nearly-square-camera-island-2-300x168.png?x39984",
       "summary": "According to CAD images reviewed by Engadget, the iPhone 18e is expected to feature a raised, nearly square (squircle-shaped) camera housing measuring roughly 28 × 35 × 3.8 mm. Th…",
       "tags": [
         "iPhone",
@@ -517,26 +837,6 @@ window.phoneRadarAuto = {
       "summary": "I pulled my Galaxy S25 Edge out of a drawer today. I’m holding it as I write this, and I’d forgotten just how good it feels. Despite having a 6.7-inch display, it doesn’t really f…",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0069eac5aeec",
-      "title": "削峰填谷！余承东揭秘华为 Mate X8“超平整”内屏原理，首创磁控展平技术定向修复",
-      "source": "IT之家",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-24",
-      "time": "16:47",
-      "publishedAt": "2026-11-24T16:47:59.000Z",
-      "url": "https://www.ithome.com/1/031/895.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/c00627ab-c9a6-4200-a9c6-edf271764625.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 11 月 25 日消息，在昨天下午的 HUAWEI Mate X8 及全场景新品发布会上， 华为 Mate X8 大折旗舰机正式发布 ，全系搭载麒麟 9050 Pro 处理器，售价 12,999 元起。 此次华为 Mate X8 在屏幕上又有新技术突破。其中，大家最关心的就是折痕水平。根据此前曝光的视频来看，Mate X8 内屏在采用“亮面”设计…",
-      "tags": [
-        "Huawei",
         "爆料",
         "自动抓取"
       ]
@@ -573,7 +873,7 @@ window.phoneRadarAuto = {
       "time": "16:35",
       "publishedAt": "2026-11-24T16:35:58.000Z",
       "url": "https://www.gizmochina.com/2026/11/24/galaxy-s27-ultra-camera-leak-laser-autofocus-is-also-on-the-chopping-block/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/galaxy-s27-ultra-camera-leak-300x169.jpg?x91975",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/galaxy-s27-ultra-camera-leak-300x169.jpg?x39984",
       "summary": "Following previous reports about the 3x telephoto camera, the latest leak adds the laser autofocus module to the chopping block. The post Galaxy S27 Ultra rumored to ditch laser a…",
       "tags": [
         "Samsung",
@@ -593,7 +893,7 @@ window.phoneRadarAuto = {
       "time": "16:22",
       "publishedAt": "2026-11-24T16:22:24.000Z",
       "url": "https://www.gizmochina.com/2026/11/24/honor-magic-9-pro-max-launched-malaysia-specs-price/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/honor-magic-9-pro-max-300x169.jpg?x91975",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/honor-magic-9-pro-max-300x169.jpg?x39984",
       "summary": "Honor has released the Magic 9 Pro Max in Malaysia, following its initial launch in China earlier this September. The smartphone focuses on high-capacity battery technology and a…",
       "tags": [
         "HONOR",
@@ -662,66 +962,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-7cea98a06644",
-      "title": "竹本青：【余承东：iPhone用户可以考虑买一台华为Mate X8，双持使用更进一步】 11月24日，在华为Mate X8…",
-      "source": "竹本青",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-24",
-      "time": "14:19",
-      "publishedAt": "2026-11-24T14:19:26.000Z",
-      "url": "https://www.coolapk.com/feed/75256568",
-      "image": "http://image.coolapk.com/feed/2026/1124/22/4248714_f209de70_0705_5868_383-livepic@1920x1080.jpg",
-      "summary": "【余承东：iPhone用户可以考虑买一台华为Mate X8，双持使用更进一步】 11月24日，在华为Mate X8及全场景新品发布会上，高管余承东向苹果iPhone用户喊话：\"可以考虑买一台Mate X8，双持使用。\" 他还表示，今年苹果也发布了折叠机，欢迎更多同行一起创新，把折叠屏的体验做得更好，给大家带来更多的选择。 据余承东介绍，Mate X8实现了…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "auto-5ba077049fcc",
-      "title": "EU in Talks With Apple Over Barriers to Rival iPhone Browsers",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-24",
-      "time": "14:18",
-      "publishedAt": "2026-11-24T14:18:34.000Z",
-      "url": "https://www.macrumors.com/2026/11/24/eu-talks-with-apple-over-rival-iphone-browsers/",
-      "image": "https://images.macrumors.com/article-new/2025/03/european-commission.jpg",
-      "summary": "The European Commission is in talks with Apple over rules that developers say stop them from offering browsers powered by their own technology on the iPhone. The discussions follo…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-d5dd57a599c1",
-      "title": "2 Good Lock multi-window tricks to try on your Galaxy Z Fold 8",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-24",
-      "time": "14:04",
-      "publishedAt": "2026-11-24T14:04:32.000Z",
-      "url": "https://www.sammobile.com/news/two-good-lock-multi-window-tricks-try-on-galaxy-z-fold-8/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/11/galaxy-z-fold-8-multistar-window-zoom-1-1920x1449.jpg",
-      "summary": "The Galaxy Z Fold 8 is a fantastic multitasking phone out of the box, but you can make it even better with just a couple of tweaks. The MultiStar Good Lock module unlocks addition…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-124dff960515",
       "title": "CAD images suggest iPhone 18e will have an odd new camera design",
       "source": "9to5Mac",
@@ -762,26 +1002,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-df2269814429",
-      "title": "iPhone Duo: 20 Tips to Get the Most Out of Apple's Foldable",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-24",
-      "time": "12:18",
-      "publishedAt": "2026-11-24T12:18:07.000Z",
-      "url": "https://www.macrumors.com/guide/iphone-duo-20-tips-apple-foldable/",
-      "image": "https://images.macrumors.com/article-new/2026/11/20-iPhone-Duo-Tips-Feature.jpg",
-      "summary": "The iPhone Duo's folding design features two displays that introduce several new ways to use an iPhone. Over the past few weeks, we've covered the best of them, from Split View mu…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-74820e50c1da",
       "title": "Android Canary 2611 hides an iPhone-style scroll-to-top shortcut, and we got it working",
       "source": "Android Authority",
@@ -803,7 +1023,7 @@ window.phoneRadarAuto = {
     },
     {
       "id": "coolapk-user-242e3e8d71ff",
-      "title": "JSCHEN小小狐：Mate90 Air 质感依旧路边，塑料感太强了 R 角也还是老样子，银色看着会稍好一点 #华为Mate70Air…",
+      "title": "JSCHEN小小狐：90 Air 质感依旧路边，塑料感太强了 R 角也还是老样子，银色看着会稍好一点 #华为Mate70Air# #华…",
       "source": "JSCHEN小小狐",
       "brand": "Huawei",
       "model": "Huawei 相关机型",
@@ -814,7 +1034,7 @@ window.phoneRadarAuto = {
       "publishedAt": "2026-11-24T11:23:39.000Z",
       "url": "https://www.coolapk.com/feed/75253342",
       "image": "http://image.coolapk.com/feed/2026/1124/19/4702274_59f13455_9416_6834_40-uhdr@2365x3504.jpg",
-      "summary": "Mate90 Air 质感依旧路边，塑料感太强了 R 角也还是老样子，银色看着会稍好一点 #华为Mate70Air# #华为Mate90#",
+      "summary": "90 Air 质感依旧路边，塑料感太强了 R 角也还是老样子，银色看着会稍好一点 #华为Mate70Air# #华为Mate90#",
       "tags": [
         "Huawei",
         "爆料",
@@ -902,46 +1122,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-10dd76e63642",
-      "title": "HONOR Magic 9 Pro Max is a video beast, and it’s just launched outside China",
-      "source": "Android Authority",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-24",
-      "time": "09:00",
-      "publishedAt": "2026-11-24T09:00:17.000Z",
-      "url": "https://www.androidauthority.com/honor-magic-9-pro-max-first-global-release-3738621/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max_2.jpg",
-      "summary": "This might be the phone to get if you value video quality and an array of video capture features.",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-44eef3431d60",
-      "title": "Galaxy S27 Ultra may ditch laser autofocus along with 3x camera, leak claims",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-24",
-      "time": "08:51",
-      "publishedAt": "2026-11-24T08:51:15.000Z",
-      "url": "https://www.androidauthority.com/galaxy-s27-ultra-laser-autofocus-leak-3738654/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Exclusive-Samsung-Galaxy-S27-Ultra-AH-3.jpg.webp",
-      "summary": "But we have yet to discover whether it truly impacts focusing on S27 Ultra.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-6134880978df",
       "title": "Huawei Mate 90 Air launches with a 6.58mm body, Kirin 9020, starts at ~$750",
       "source": "Gizmochina",
@@ -953,7 +1133,7 @@ window.phoneRadarAuto = {
       "time": "08:28",
       "publishedAt": "2026-11-24T08:28:29.000Z",
       "url": "https://www.gizmochina.com/2026/11/24/huawei-mate-90-air-launches-6-58mm-kirin-9020-starts-cny-4999/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-1200x675-19-300x169.jpg?x91975",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-1200x675-19-300x169.jpg?x39984",
       "summary": "Huawei has officially launched the Mate 90 Air in China at today’s Mate X8 and all-scenario event, which started at 2:30 p.m. Beijing time. The slim bar phone arrives with a 7-inc…",
       "tags": [
         "Huawei",
@@ -973,7 +1153,7 @@ window.phoneRadarAuto = {
       "time": "07:47",
       "publishedAt": "2026-11-24T07:47:52.000Z",
       "url": "https://www.gizmochina.com/2026/11/24/motorola-edge-70-neo-launches-with-5200-nits-amoled-screen-7000mah-battery/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/Motorola-Edge-70-Neo-Launch-Specs-Price-300x200.jpg?x91975",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/Motorola-Edge-70-Neo-Launch-Specs-Price-300x200.jpg?x39984",
       "summary": "Motorola‘s Edge Neo series has usually been the smaller alternative to its regular Edge phones, but the new Edge 70 Neo is considerably larger than its predecessors. The phone has…",
       "tags": [
         "行业",
@@ -1022,7 +1202,7 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-1ee47c2026e5",
+      "id": "auto-ba4cbdf40c6b",
       "title": "iPhone 相机掌门人退休：他把「果味」做成标杆，也制造了争议",
       "source": "爱范儿",
       "brand": "iPhone",
@@ -1032,7 +1212,7 @@ window.phoneRadarAuto = {
       "date": "2026-11-24",
       "time": "05:40",
       "publishedAt": "2026-11-24T05:40:49.000Z",
-      "url": "https://www.ifanr.com/1691162?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "url": "https://www.ifanr.com/1691162?utm_source=rss&utm_medium=rss&utm_campaign",
       "image": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1795498256002-1.jpg",
       "summary": "「果味」影像，迎来新的变量",
       "tags": [
@@ -1059,26 +1239,6 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-3eb2bc6ce60b",
-      "title": "RedMagic 12 Pro+ Deuterium Transparent Ice Blue on first sale today",
-      "source": "Gizmochina",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-24",
-      "time": "03:05",
-      "publishedAt": "2026-11-24T03:05:32.000Z",
-      "url": "https://www.gizmochina.com/2026/11/24/redmagic-12-pro-deuterium-transparent-ice-blue-on-first-sale-today/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/redmagic-12-pro-deuterium-transparent-ice-blue-on-first-sale-today-300x200.jpg?x91975",
-      "summary": "The RedMagic 12 Pro+ Deuterium Transparent Ice Blue edition goes on sale in China today. The 16GB+512GB model costs 7,999 yuan (about $1,180). The new color adds to the two transp…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
