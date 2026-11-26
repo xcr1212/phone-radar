@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-11-26T10:51:51.926Z",
+  "updatedAt": "2026-11-26T21:29:26.861Z",
   "news": [
     {
       "id": "x-73315225d9bd",
@@ -10,8 +10,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-11-26",
-      "time": "10:51",
-      "publishedAt": "2026-11-26T10:51:51.926Z",
+      "time": "21:29",
+      "publishedAt": "2026-11-26T21:29:26.861Z",
       "url": "https://x.com/ApplesClubs/status/2100574601294348508",
       "image": "https://pbs.twimg.com/media/HSa9dkBakAAqHnm?format=jpg&name=orig",
       "summary": "Apple CEOs and their iconic iPhones",
@@ -19,6 +19,266 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "X"
+      ]
+    },
+    {
+      "id": "auto-53853e1aa86e",
+      "title": "The Galaxy S27 Ultra’s leaked camera design looks weird, but it could fix 3 real problems",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-26",
+      "time": "17:00",
+      "publishedAt": "2026-11-26T17:00:00.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-s27-ultra-controversial-camera-bump-solve-3-big-problems/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/11/Galaxy-S27-Pro-Ultra-camera-housing-sketch.jpeg",
+      "summary": "Accepting change can be difficult. Numerous Samsung fans have proven that theory by taking to social media to express their disappointment with Samsung's proposed design direction…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-0d84b2390ac0",
+      "title": "Vivo X500 Pro and X500 Pro Max debut in India with ZEISS-tuned cameras, 200mm/400mm teleconverters, Dimensity 9600 Pro",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-26",
+      "time": "16:02",
+      "publishedAt": "2026-11-26T16:02:10.000Z",
+      "url": "https://www.gizmochina.com/2026/11/26/vivo-x500-pro-and-x500-pro-max-debut-in-india-with-zeiss-tuned-cameras-200mm-400mm-teleconverters-dimensity-9600-pro/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/vivo-x500-pro-series-india-2-300x169.jpg?x39984",
+      "summary": "Both models come in Eternal Black and Apex Orange colour options and will go on sale on December 3 through Vivo's online store, Flipkart, Amazon, and offline retailers. Pre-bookin…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-b4974cc9eb05",
+      "title": "竹本青：【华为“星驰”辅助驾驶正式发布：只专注于辅助驾驶领域，2027年超10款新车将搭载】 11月26日，在华为乾崑生态…",
+      "source": "竹本青",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-26",
+      "time": "15:15",
+      "publishedAt": "2026-11-26T15:15:15.000Z",
+      "url": "https://www.coolapk.com/feed/75292309",
+      "image": "http://image.coolapk.com/feed/2026/1126/23/4248714_cdec67f2_6553_6105_105@1980x1124.jpg",
+      "summary": "【华为“星驰”辅助驾驶正式发布：只专注于辅助驾驶领域，2027年超10款新车将搭载】 11月26日，在华为乾崑生态大会上，引望正式发布辅助驾驶全新品牌“星驰”。 华为公司高级副总裁、引望公司CEO靳玉志称，预计2027年将有超过10款搭载该系统的新车实现上市，其中包括东风奕派、长安深蓝、上汽通用五菱、北汽极狐、广汽传祺等品牌。 对于星驰辅助驾驶与乾崑智驾的…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "x-636dd7caf02e",
+      "title": "Apple Club：Apple × Marvel: 2012 vs 2026.🔥 20…",
+      "source": "Apple Club",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-26",
+      "time": "14:47",
+      "publishedAt": "2026-11-26T14:47:49.000Z",
+      "url": "https://x.com/ApplesClubs/status/2125964751419387975",
+      "image": "https://pbs.twimg.com/media/HYDxqpra0AAj_BG?format=jpg&name=orig",
+      "summary": "Apple × Marvel: 2012 vs 2026.🔥 2012: The Avengers + iPhone 5 2026: Avengers: Doomsday + iPhone 18 Pro lineup.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "X"
+      ]
+    },
+    {
+      "id": "auto-1b6909a9f30d",
+      "title": "iPhone 20 Pro and Pro Max: Everything We Know About the 20th-Anniversary iPhone",
+      "source": "Gizmochina",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-26",
+      "time": "14:16",
+      "publishedAt": "2026-11-26T14:16:13.000Z",
+      "url": "https://www.gizmochina.com/2026/11/26/iphone-20-pro-and-pro-max-everything-we-know-about-the-20th-anniversary-iphone/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/iphone-20-pro-leaks-hint-at-a-200mp-main-camera-with-quad-curved-display-also-2-300x169.jpg?x39984",
+      "summary": "Updated 25 Nov 2026 · Labels: Confirmed = official or a certification · Leak = supply chain, renders, prototype parts or a tipster · Rumour = a single unconfirmed report At a glan…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7d95eb4c03b8",
+      "title": "Sketchy suggestion of ceramic iPhone 20 Pro",
+      "source": "9to5Mac",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-26",
+      "time": "14:00",
+      "publishedAt": "2026-11-26T14:00:25.000Z",
+      "url": "https://9to5mac.com/2026/11/26/sketchy-suggestion-of-ceramic-iphone-20-pro/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/iphone-20th-anniversary-FI.jpg?quality=82&strip=all&w=1600",
+      "summary": "A sketchy rumor is doing the rounds suggesting that Apple is working on a ceramic edition of the iPhone 20 Pro . There are no details, and while one concept image shows a ceramic…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-2d211fc4ebf9",
+      "title": "手机一碰过闸：微信 iOS 端 8.0.80 版本上线 NFC 交通卡",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-26",
+      "time": "13:39",
+      "publishedAt": "2026-11-26T13:39:43.000Z",
+      "url": "https://www.ithome.com/1/033/098.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2022/4/d612a258-250d-4852-908c-ad3413aaa709.jpg?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xdy9xdzEzOC5wbmc=,t_100,g_7,y_14,x_14,a_0/format,f_auto",
+      "summary": "IT之家 11 月 26 日消息，今年 10 月， 微信 iOS 平台迎来了 8.0.80 正式版更新 ，官方更新日志为“解决了一些已知问题”。 IT之家在实测过程中发现， 该版本微信在卡包中上线了 NFC 交通卡 ，宣称“无需找码，手机一碰秒过闸”。 需要注意的是，这张 NFC 交通卡东莞地铁、公交可用， 开通需预充值 30 元，退卡时卡内余额可退 。卡…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-622146a752e6",
+      "title": "Counterpoint：2026 年第三季度美国智能手机出货量同比下降 9%，苹果份额升至 57%",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-26",
+      "time": "13:32",
+      "publishedAt": "2026-11-26T13:32:16.000Z",
+      "url": "https://www.ithome.com/1/033/093.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/3a132be3-0963-44a7-9a03-3ee630f0cad1.png",
+      "summary": "IT之家 11 月 26 日消息，根据 Counterpoint Research 最新发布的美国市场监测报告，2026 年第三季度（7 — 9 月），美国智能手机整体出货量同比下降 9%。全球存储芯片供应紧张、物料成本上升，对安卓阵营尤其是低端机型造成明显挤压， 而苹果凭借较强韧性，将市场份额推高至 57% 。 来源：Counterpoint Resea…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-fbaeada222d6",
+      "title": "iPhones Dominate China's Weak Singles' Day Smartphone Sales",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-26",
+      "time": "12:55",
+      "publishedAt": "2026-11-26T12:55:48.000Z",
+      "url": "https://www.macrumors.com/2026/11/26/iphones-dominate-china-singles-day-sales/",
+      "image": "https://images.macrumors.com/article-new/2026/10/iPhone-18-Pro-Max-Glacier-Camera.jpg",
+      "summary": "Apple held the top spot in China's smartphone market during the country's Singles' Day shopping festival, despite an 8% year-over-year sales decline, according to Counterpoint Res…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-ebccb94f5119",
+      "title": "Vivo X500s could use customized Dimensity 9600 Pro",
+      "source": "Gizmochina",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-26",
+      "time": "12:45",
+      "publishedAt": "2026-11-26T12:45:51.000Z",
+      "url": "https://www.gizmochina.com/2026/11/26/vivo-x500s-could-use-customized-dimensity-9600-pro/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/body4-vivo-x500-series-300x169.jpg?x39984",
+      "summary": "The Vivo X500s could be another example of Vivo getting more out of MediaTek’s flagship chips than other phone makers. The company is reportedly testing the phone with the new Dim…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-1745f95acee8",
+      "title": "Why the Galaxy Z Fold 8 and Fold 8 Ultra are about more than just camera quality",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-26",
+      "time": "12:30",
+      "publishedAt": "2026-11-26T12:30:00.000Z",
+      "url": "https://www.sammobile.com/opinion/why-galaxy-z-fold-8-fold-8-ultra-more-than-just-camera-quality/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Galaxy-Z-Fold-8-Ultra-review-18-1920x1080.jpg",
+      "summary": "A video can be perfectly sharp and still leave you wishing you had filmed it differently. The horizon leans as you follow the action, or the person you wanted to capture ends up a…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e0d87b54968d",
+      "title": "iPhone 20 Pro Could Feature Ceramic in Limited-Edition Model",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-26",
+      "time": "12:24",
+      "publishedAt": "2026-11-26T12:24:29.000Z",
+      "url": "https://www.macrumors.com/2026/11/26/iphone-20-pro-ceramic-limited-edition-model/",
+      "image": "https://images.macrumors.com/article-new/2026/01/Mostly-Screen-iPhone-Purple-Feature-2027.jpg",
+      "summary": "Apple could offer a limited-edition iPhone 20 Pro model that incorporates ceramic, according to the Chinese leaker known as Fixed Focus Digital. In a post on Weibo , the leaker cl…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b2bd0e87021c",
+      "title": "Android sales covered 74% of the global market in Q3 while iOS held just 21%",
+      "source": "SamMobile",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-26",
+      "time": "11:38",
+      "publishedAt": "2026-11-26T11:38:40.000Z",
+      "url": "https://www.sammobile.com/news/android-sales-74-percent-global-market-q3-ios-just-21-percent/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/11/q32026-os-smartphone-sales-share.webp",
+      "summary": "The global smartphone market is going through an uneasy time as the memory supply crisis continues, with Q3 2026 sales dropping 16% year-on-year. But how have current market condi…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
       ]
     },
     {
@@ -62,66 +322,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-8d8a88d7635e",
-      "title": "阔家族来袭：消息称 OPPO 明年规划有 3 台阔直板新机，含搭载天玑 9 系旗舰处理器机型",
-      "source": "IT之家",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-26",
-      "time": "08:34",
-      "publishedAt": "2026-11-26T08:34:36.000Z",
-      "url": "https://www.ithome.com/1/032/933.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/fccd46ce-1752-43d3-ae83-b944c51875c9.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 11 月 26 日消息，博主 @数码闲聊站 今日发文透露，某厂 2027 年规划有 3 台阔直板新机： 一台 6.35 英寸天玑 9 旗舰线阔直板 一台轻薄拍照线 年底大迭代线也规划了一杯阔直板 从博主的爆料微博的暗示表情符号来看， 预计系列“阔家族”新机归属 OPPO 品牌 。 据IT之家此前报道，该博主还曾透露，OPPO 阔直板手机是标准 1…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "x-93bd3e59ea4c",
-      "title": "Apple Club：iPhone 20 Pro: Punch-Hole or a Sma…",
-      "source": "Apple Club",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-26",
-      "time": "08:27",
-      "publishedAt": "2026-11-26T08:27:49.000Z",
-      "url": "https://x.com/ApplesClubs/status/2125869120407449937",
-      "image": "https://pbs.twimg.com/media/HYCasSAbAAAaENN?format=jpg&name=orig",
-      "summary": "iPhone 20 Pro: Punch-Hole or a Smaller Dynamic Island?",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "X"
-      ]
-    },
-    {
-      "id": "auto-7f713508fc36",
-      "title": "荣耀海外推出 Choice T20 手机：紫光展锐 T7250 + 4GB RAM、配 7000mAh 电池",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-26",
-      "time": "08:14",
-      "publishedAt": "2026-11-26T08:14:01.000Z",
-      "url": "https://www.ithome.com/1/032/922.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/f018831a-b1e5-413b-a943-7805ab2ab548.jpg",
-      "summary": "IT之家 11 月 26 日消息，荣耀现已在海外市场推出 Choice T20 入门级智能手机，该机搭载紫光展锐 T7250 处理器，匹配 4GB RAM 及 64GB 存储空间。 该机拥有 IP52 认证，整体厚度 8.7mm，重量 213g，正面配备一块 6.78 英寸 HD+ 90Hz IPS LCD 面板，匹配 5Mp 前置自拍摄像头，手机后置 1…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "weibo-e49fd2f7c829",
       "title": "数码闲聊站：独家超前瞻，27年规划有3台阔直板新机，一台6.35英寸天玑9旗舰线阔直板，一…",
       "source": "数码闲聊站",
@@ -139,26 +339,6 @@ window.phoneRadarAuto = {
         "行业",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-91db0584309b",
-      "title": "vivo S70 系列手机官宣：旗舰版自带变焦闪光灯，搭载 X 同款传感器索尼 LYTIA 610",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-26",
-      "time": "07:28",
-      "publishedAt": "2026-11-26T07:28:23.000Z",
-      "url": "https://www.ithome.com/1/032/845.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/07b6903d-11fd-40ce-8491-42abb071a5b1.png?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 11 月 26 日消息，vivo 通信科技有限公司产品经理韩伯啸今日正式官宣了 S70 系列手机，称这一代会在“光”上发力。 S70 旗舰版自带的变焦闪光灯 ，亮度直接达到了上一代的 3 倍多，还能随焦段变化，自适应调节亮度， 叠加了 X 旗舰款的闪光人像算法 ，对明暗过渡都进行了优化， 同时还搭载了 X 系列同款传感器索尼 LYTIA 610…",
-      "tags": [
-        "vivo",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
@@ -282,26 +462,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-9ac42275b2ae",
-      "title": "竹本青：【消息称某厂新机评估三2亿全大底影像，预计为荣耀旗下】 11月26日，数码闲聊站超前瞻爆料，称某厂新机正在评估三2…",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-26",
-      "time": "03:05",
-      "publishedAt": "2026-11-26T03:05:39.000Z",
-      "url": "https://www.coolapk.com/feed/75280783",
-      "image": "http://image.coolapk.com/feed/2026/1126/11/4248714_f60ebacf_2338_2994_810@1270x797.jpg",
-      "summary": "【消息称某厂新机评估三2亿全大底影像，预计为荣耀旗下】 11月26日，数码闲聊站超前瞻爆料，称某厂新机正在评估三2亿全大底影像方案，超广角也采用2亿 1/1.5英寸大底。结合该博主爆料习惯，预计归属为荣耀旗下。 作为参考，荣耀Magic9 Pro Max于今年9月发布，售价6499元起，搭载骁龙8EE6处理器、6.8英寸120Hz屏幕、8800mAh电池；…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "coolapk-user-d3a2c82c76ec",
       "title": "JSCHEN小小狐：消息称荣耀评估3 × 200MP全大底影像系统",
       "source": "JSCHEN小小狐",
@@ -319,26 +479,6 @@ window.phoneRadarAuto = {
         "HONOR",
         "爆料",
         "酷安博主"
-      ]
-    },
-    {
-      "id": "x-f15cda1ba1cd",
-      "title": "Apple Club：iPhone Air 2 and iPhone 18e could…",
-      "source": "Apple Club",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-26",
-      "time": "02:08",
-      "publishedAt": "2026-11-26T02:08:29.000Z",
-      "url": "https://x.com/ApplesClubs/status/2125773659235340289",
-      "image": "https://pbs.twimg.com/media/HYBD3f_aEAAeHAh?format=jpg&name=orig",
-      "summary": "iPhone Air 2 and iPhone 18e could feature thicker camera modules.",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "X"
       ]
     },
     {
@@ -382,62 +522,62 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-f8929982c3d4",
-      "title": "第 1000868989届桌面布局大赛开始啦[可爱]欢迎大家分享自己的桌面布局#手机桌面搭配大赛# #MIUI主题# #HyperOS4# [哦吼吼][哦吼吼][哦吼吼]",
+      "id": "newsnow-13a402c30272",
+      "title": "今年苹果iPhone18pro系列是不是太强大了？强大到把刘亦菲这个花粉都吸引过去了。",
       "source": "酷安热榜",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-11-26",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/75272505",
+      "url": "https://www.coolapk.com/feed/75285183",
       "image": "",
-      "summary": "第 1000868989届桌面布局大赛开始啦[可爱]欢迎大家分享自己的桌面布局#手机桌面搭配大赛# #MIUI主题# #HyperOS4# [哦吼吼][哦吼吼][哦吼吼]",
+      "summary": "今年苹果iPhone18pro系列是不是太强大了？强大到把刘亦菲这个花粉都吸引过去了。",
       "tags": [
-        "Xiaomi",
+        "iPhone",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-4bf0eb74c219",
-      "title": "讲真，华为折叠屏这市场占比也太离谱了吧，直接干到了七成份额[牛啤]#数码日常# #鸿蒙7# #华为MateX8#",
+      "id": "newsnow-a7ec3ec716fd",
+      "title": "去线下摸了一下实机，感觉红米K100PM屏幕更红，17Max白一点通透一点，一下给我纠结住了。17有徕卡，100有Bose➕185。 感觉好难选，果然这个价位鱼和熊掌不可兼得。#小米17Max# #REDMIK100ProMax# 然后看了一下荣耀magic9PM屏幕黑边确实小 #荣耀Magic9ProMax# 但是系统用不惯【主要是超预算太多[懒得理]】。",
       "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-11-26",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/75270277",
+      "url": "https://www.coolapk.com/feed/75288182",
       "image": "",
-      "summary": "讲真，华为折叠屏这市场占比也太离谱了吧，直接干到了七成份额[牛啤]#数码日常# #鸿蒙7# #华为MateX8#",
+      "summary": "去线下摸了一下实机，感觉红米K100PM屏幕更红，17Max白一点通透一点，一下给我纠结住了。17有徕卡，100有Bose➕185。 感觉好难选，果然这个价位鱼和熊掌不可兼得。#小米17Max# #REDMIK100ProMax# 然后看了一下荣耀magic9PM屏幕黑边确实小 #荣耀Magic9ProMax# 但是系统用不惯【主要是超预算太多[懒得理]】。",
       "tags": [
-        "Huawei",
+        "HONOR",
         "爆料",
         "NewsNow"
       ]
     },
     {
-      "id": "newsnow-73dfd0074350",
-      "title": "好奇问一下，手机厂商接下来会出现哪一种情况。",
-      "source": "酷安热榜",
+      "id": "newsnow-38b51b93f4fd",
+      "title": "如何评价极客湾发布的手机影像大横评视频？",
+      "source": "知乎热榜",
       "brand": "行业",
       "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
+      "type": "市场报告",
+      "trust": "媒体汇总",
       "date": "2026-11-26",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/75272911",
+      "url": "https://www.zhihu.com/question/2108960337538164548",
       "image": "",
-      "summary": "好奇问一下，手机厂商接下来会出现哪一种情况。",
+      "summary": "如何评价极客湾发布的手机影像大横评视频？",
       "tags": [
         "行业",
-        "爆料",
+        "市场报告",
         "NewsNow"
       ]
     },
@@ -622,66 +762,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-03a0787746d7",
-      "title": "How To Get an iPhone Duo or iPhone 18 Pro at No Cost Through T-Mobile for Black Friday",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-25",
-      "time": "16:21",
-      "publishedAt": "2026-11-25T16:21:38.000Z",
-      "url": "https://www.macrumors.com/2026/11/25/iphone-no-cost-t-mobile/",
-      "image": "https://images.macrumors.com/article-new/2026/11/iphone-duo-gold.jpeg",
-      "summary": "T-Mobile has quite a few notable offers live for Black Friday , including discounts for the new iPhone 18 Pro, iPhone 18 Pro Max, and iPhone Duo. These offers come under T-Mobile'…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-cbbac3ef4148",
-      "title": "Apple Has an iPhone Notifications Problem",
-      "source": "MacRumors",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-25",
-      "time": "16:14",
-      "publishedAt": "2026-11-25T16:14:55.000Z",
-      "url": "https://www.macrumors.com/2026/11/25/apple-has-an-iphone-notifications-problem/",
-      "image": "https://images.macrumors.com/article-new/2026/11/Apple-Has-an-iPhone-Notification-Problem-Feature.jpg",
-      "summary": "Apple has rules in place that are supposed to protect iPhone users from unwanted advertising in push notifications and Live Activities, but some apps appear to be flouting these r…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "x-6a149d3bff0f",
-      "title": "Apple Club：iPhone 17e Vs. iPhone 18e",
-      "source": "Apple Club",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-25",
-      "time": "16:01",
-      "publishedAt": "2026-11-25T16:01:59.000Z",
-      "url": "https://x.com/ApplesClubs/status/2125621025983651912",
-      "image": "https://pbs.twimg.com/media/HX-5DW6bgAAdqKS?format=jpg&name=orig",
-      "summary": "iPhone 17e Vs. iPhone 18e",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "X"
-      ]
-    },
-    {
       "id": "auto-d0523f7c1299",
       "title": "My favorite accessories every iPhone Duo owner needs to try [Video]",
       "source": "9to5Mac",
@@ -742,26 +822,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-d7d0549f79eb",
-      "title": "Three chips, four phones: How Samsung could split Snapdragon and Exynos across the Galaxy S27 lineup",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-25",
-      "time": "12:55",
-      "publishedAt": "2026-11-25T12:55:49.000Z",
-      "url": "https://www.sammobile.com/news/which-galaxy-s27-models-will-get-exynos-vs-snapdragon/",
-      "image": "",
-      "summary": "There's been some back-and-forth about Samsung's possible chipset choices for its upcoming Galaxy S27 series. Historically, most Galaxy S lineups were split between two chipsets b…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-7649e6ab972b",
       "title": "Case maker reveals camera layout of Galaxy S27, S27+, S27 Pro, and S27 Ultra",
       "source": "Gizmochina",
@@ -797,106 +857,6 @@ window.phoneRadarAuto = {
       "summary": "Internal naming pattern offers clues about Samsung's plans.",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-74509e063135",
-      "title": "I’ve used the Pixel 11 Pro XL for months, and I wouldn’t go without these 6 accessories",
-      "source": "Android Authority",
-      "brand": "Pixel",
-      "model": "Pixel 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-25",
-      "time": "11:30",
-      "publishedAt": "2026-11-25T11:30:51.000Z",
-      "url": "https://www.androidauthority.com/best-google-pixel-11-pro-xl-accessories-3738052/",
-      "image": "",
-      "summary": "Keeping my Pixel spoiled and charged.",
-      "tags": [
-        "Pixel",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-177cdb05d922",
-      "title": "Honor Magic 9 Lite+ 5G European renders leak with 9,530mAh battery",
-      "source": "Gizmochina",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-25",
-      "time": "09:32",
-      "publishedAt": "2026-11-25T09:32:49.000Z",
-      "url": "https://www.gizmochina.com/2026/11/25/honor-magic-9-lite-5g-european-renders-leak-with-9530mah-battery/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/Honor-Magic-9-Lite-Plus-Design-300x200.jpg?x39984",
-      "summary": "Honor may be preparing to add a new Magic 9 phone to the global portfolio. Renders of the European Magic 9 Lite+ 5G have surfaced via 91Mobiles, showing a 9,530mAh battery, 80W wi…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-0461b81b6625",
-      "title": "iPhone Air 2: Everything We Know",
-      "source": "Gizmochina",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-25",
-      "time": "08:49",
-      "publishedAt": "2026-11-25T08:49:29.000Z",
-      "url": "https://www.gizmochina.com/2026/11/25/iphone-air-2-everything-we-know/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/iphone-18-air-2-production-300x167.png?x39984",
-      "summary": "Updated 25 Nov 2026 · Labels: Confirmed = official or a certification · Leak = supply chain, renders, dummy units or a tipster · Rumour = a single unconfirmed report At a glance i…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-575ad5f4226b",
-      "title": "User sues Samsung for $200,000 after company offers $800 and keeps her burned Galaxy S21",
-      "source": "Gizmochina",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-25",
-      "time": "07:42",
-      "publishedAt": "2026-11-25T07:42:45.000Z",
-      "url": "https://www.gizmochina.com/2026/11/25/woman-sues-samsung-for-200000-after-company-offers-800-and-keeps-her-burned-galaxy-s21/",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/nz-feature-made-for-the-epic-in-everyday-413211858-300x169.webp?x39984",
-      "summary": "Samsung reportedly offered $800 for the phone on the condition that Kravchuck sign a legal waiver. The post User sues Samsung for $200,000 after company offers $800 and keeps her…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-69bc6f6574dc",
-      "title": "OnePlus Nord 7 leaks with an RGB light strip and a downgraded display",
-      "source": "Android Authority",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-25",
-      "time": "07:28",
-      "publishedAt": "2026-11-25T07:28:49.000Z",
-      "url": "https://www.androidauthority.com/oneplus-nord-7-leak-3739177/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/04/OnePlus-Nord-6-charging.jpg",
-      "summary": "Is it a simple light bar, or something more like the Pixel HiLight feature? Guess we'll have to wait and see.",
-      "tags": [
-        "OPPO",
         "爆料",
         "自动抓取"
       ]
@@ -939,26 +899,6 @@ window.phoneRadarAuto = {
         "Huawei",
         "爆料",
         "微博"
-      ]
-    },
-    {
-      "id": "auto-a845bd95e13f",
-      "title": "T-Mobile announces Black Friday 2026 deals: Free Pixel 11 Pro, Galaxy S26 Plus, and more",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-25",
-      "time": "04:46",
-      "publishedAt": "2026-11-25T04:46:44.000Z",
-      "url": "https://www.androidauthority.com/t-mobile-black-friday-2026-deals-3739162/",
-      "image": "",
-      "summary": "T-Mobile's Black Friday deals also include a free Razr Fold or Razr Plus with trade-ins or a new line.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
       ]
     },
     {
