@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-11-27T04:13:37.959Z",
+  "updatedAt": "2026-11-27T13:52:18.328Z",
   "news": [
     {
       "id": "x-73315225d9bd",
@@ -10,8 +10,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "高关注爆料源",
       "date": "2026-11-27",
-      "time": "04:13",
-      "publishedAt": "2026-11-27T04:13:37.959Z",
+      "time": "13:52",
+      "publishedAt": "2026-11-27T13:52:18.328Z",
       "url": "https://x.com/ApplesClubs/status/2100574601294348508",
       "image": "https://pbs.twimg.com/media/HSa9dkBakAAqHnm?format=jpg&name=orig",
       "summary": "Apple CEOs and their iconic iPhones",
@@ -22,19 +22,559 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-0bedb41e2556",
-      "title": "竹本青：【荣耀WIN2 三角洲赛事联名款 现已开售，首发售价6999元】 16+512GB —— 定价7499元，首发69…",
+      "id": "auto-bd557d401a24",
+      "title": "iPhone 18 Production Delay Leaves Apple Little Time Before Launch",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-27",
+      "time": "13:48",
+      "publishedAt": "2026-11-27T13:48:42.000Z",
+      "url": "https://www.macrumors.com/2026/11/27/iphone-18-production-delay/",
+      "image": "https://images.macrumors.com/article-new/2026/03/Apple-iPhone-17e-feature.jpg",
+      "summary": "Apple's upcoming iPhone 18 and iPhone 18e models are reportedly suffering from another production delay. In a new post on Weibo, the leaker known as \"Fixed Focus Digital\" claimed…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b4520c16a8aa",
+      "title": "Samsung’s biggest Galaxy Z Fold 8 discounts yet are live, up to $900 for some",
+      "source": "9to5Google",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-27",
+      "time": "13:45",
+      "publishedAt": "2026-11-27T13:45:00.000Z",
+      "url": "https://9to5google.com/2026/11/27/samsung-galaxy-z-fold-8-black-friday-deal/",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-review-32.jpg?quality=82&strip=all&w=1600",
+      "summary": "Samsung’s hit Galaxy Z Fold 8 saved its best deal for Black Friday, with a new low price on Amazon and a targeted Samsung.com offer that drops the price by up to $900 – here’s wha…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-70b8dc4d55f5",
+      "title": "The Galaxy S27 Ultra may capture significantly better nighttime photos and videos",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-27",
+      "time": "13:25",
+      "publishedAt": "2026-11-27T13:25:12.000Z",
+      "url": "https://www.sammobile.com/news/the-galaxy-s27-ultra-may-capture-significantly-better-nighttime-photos-and-videos/",
+      "image": "",
+      "summary": "The Galaxy S27 Ultra's leaked design polarizing people is nothing new. But, for a change, a fresh rumor is shedding positive light on the phone's camera capabilities rather than i…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-edcb618c7fd1",
+      "title": "Galaxy Z Fold 8 Ultra drops $450 to a record low",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-27",
+      "time": "13:13",
+      "publishedAt": "2026-11-27T13:13:29.000Z",
+      "url": "https://www.androidauthority.com/galaxy-z-fold-8-ultra-black-friday-deal-3740563/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/samsung-galaxy-z-fold-8-ultra-review-5-scaled.jpg",
+      "summary": "The 512GB Galaxy Z Fold 8 Ultra in Violet is 20% off, with an 8-inch main screen and 200MP camera, ahead of Black Friday.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-f439e7de46f6",
+      "title": "小米澎程 OTA 1.20 开启全量推送：新增 iPhone 数字钥匙功能，城区领航辅助解锁门槛降至 100 公里",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-27",
+      "time": "13:02",
+      "publishedAt": "2026-11-27T13:02:20.000Z",
+      "url": "https://www.ithome.com/1/033/747.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/e14b712c-0ed1-4b6d-9641-deaafa3ecb5e.png",
+      "summary": "IT之家 11 月 27 日消息，小米澎程今日宣布 OTA 1.20 已经开始全量推送，本次更新主要适配 N70、N90 全系车型，涉及辅助驾驶、智能座舱与日常用车体验。 IT之家从官方公告获悉，辅助驾驶方面，城区领航辅助功能的使用体验得到优化：加减速更平稳，变道选道更准确，避障绕行的横纵向协同更连贯，路口左转、右转及合流的博弈能力提升。小爱行车播报取消了…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-91ea33238bb2",
+      "title": "The Best Black Friday iPhone Deals",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-27",
+      "time": "12:58",
+      "publishedAt": "2026-11-27T12:58:27.000Z",
+      "url": "https://www.macrumors.com/2026/11/27/best-black-friday-iphone-deals-2026/",
+      "image": "https://images.macrumors.com/article-new/2026/11/iphone-18-snow.jpeg",
+      "summary": "Cellular carriers have always offered big savings on the newest iPhone models during the holidays, and Black Friday 2026 is no different, with major discounts at AT&T and T-Mobile…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-e0a01ca7ef1b",
+      "title": "512GB Galaxy Z Flip 8 gets $275 price drop for Black Friday",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-27",
+      "time": "12:36",
+      "publishedAt": "2026-11-27T12:36:32.000Z",
+      "url": "https://www.androidauthority.com/galaxy-z-flip-8-black-friday-deal-3740548/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Flip-8-with-cover-screen-in-hand-scaled-1.jpg",
+      "summary": "The 512GB Galaxy Z Flip 8 in Pink drops to a record-low $1,124.99, with a 4.1-inch FlexWindow and 50MP camera.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b4741c7e0297",
+      "title": "iPhone Share of US Smartphone Market Hits 57% as Rivals Slip",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-27",
+      "time": "11:53",
+      "publishedAt": "2026-11-27T11:53:24.000Z",
+      "url": "https://www.macrumors.com/2026/11/27/iphone-share-us-smartphone-market-rises/",
+      "image": "https://images.macrumors.com/article-new/2026/10/iPhone-18-Pro-Pre-Orders-Feature-Sans-Text.jpg",
+      "summary": "U.S. smartphone shipments fell 9% year-over-year in the third quarter of 2026, and yet Apple grew its share of the market from 50% to 57%, according to the latest U.S. Market Moni…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6d7aceeaab48",
+      "title": "Galaxy Z Fold 8 drops to a new low of $1,499.99",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-27",
+      "time": "11:35",
+      "publishedAt": "2026-11-27T11:35:06.000Z",
+      "url": "https://www.androidauthority.com/galaxy-z-fold-8-black-friday-deal-3740549/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Samsung-Galaxy-Z-Fold-8-2-scaled.jpg",
+      "summary": "Samsung's new Galaxy Z Fold 8 is $400 off for Black Friday, $50 below its previous best price.",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "x-badf81efb421",
+      "title": "Apple Club：iPhone 20 Pro Could Have Ceramic E…",
+      "source": "Apple Club",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-27",
+      "time": "11:26",
+      "publishedAt": "2026-11-27T11:26:39.000Z",
+      "url": "https://x.com/ApplesClubs/status/2126276513356214751",
+      "image": "https://pbs.twimg.com/media/HYINNusbgAAnUm5?format=jpg&name=orig",
+      "summary": "iPhone 20 Pro Could Have Ceramic Edition",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "X"
+      ]
+    },
+    {
+      "id": "auto-eef7052880a9",
+      "title": "A few lucky customers bought the Galaxy S26 Ultra for just $130 before Amazon caught the pricing error",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-27",
+      "time": "10:44",
+      "publishedAt": "2026-11-27T10:44:04.000Z",
+      "url": "https://www.sammobile.com/news/few-lucky-customers-bought-galaxy-s26-ultra-130-usd-amazon-pricing-error/",
+      "image": "",
+      "summary": "Black Friday deals are going strong, but none quite as strong as one temporary Amazon deal that appears to have accidentally dropped the price of the Galaxy S26 Ultra in Japan to…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-cf239f1f286d",
+      "title": "iPhone 20 Pro Rumored to Feature 3D-Printed Titanium Frame",
+      "source": "MacRumors",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-27",
+      "time": "10:19",
+      "publishedAt": "2026-11-27T10:19:12.000Z",
+      "url": "https://www.macrumors.com/2026/11/27/iphone-20-pro-3d-printed-titanium-frame/",
+      "image": "https://images.macrumors.com/article-new/2026/11/Titanium-iPhone-15-Pro.jpg",
+      "summary": "Next year's iPhone 20 Pro models will make extensive use of 3D-printed titanium in their frames, based on the latest rumor coming out of China. In a new post on Weibo, the leaker…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-82eeab1b53d6",
+      "title": "Why the Galaxy S26 FE's Black Friday deal is good value",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-27",
+      "time": "10:19",
+      "publishedAt": "2026-11-27T10:19:10.000Z",
+      "url": "https://www.androidpolice.com/samsungs-galaxy-s26-fe-at-499-makes-flagships-look-like-a-bad-deal/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/08/galaxy-s26-fe-blue-pistachio.JPG",
+      "summary": "Without a trade-in, I'm not buying a flagship",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "x-70f767a1e842",
+      "title": "Apple Club：iPhone 20 Pro Max could bring a ma…",
+      "source": "Apple Club",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-27",
+      "time": "10:10",
+      "publishedAt": "2026-11-27T10:10:53.000Z",
+      "url": "https://x.com/ApplesClubs/status/2126257445022667071",
+      "image": "https://pbs.twimg.com/media/HYH73w3bEAA7mEA?format=jpg&name=orig",
+      "summary": "iPhone 20 Pro Max could bring a massive battery upgrade!",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "X"
+      ]
+    },
+    {
+      "id": "coolapk-user-05b0c6ba7fbd",
+      "title": "竹本青：【荣耀700系列 首销日战报：2026年安卓新品销量第一】 11月27日，荣耀CEO李健宣布，荣耀700系列获得2…",
       "source": "竹本青",
       "brand": "HONOR",
       "model": "HONOR 相关机型",
       "type": "爆料",
       "trust": "高可信爆料",
       "date": "2026-11-27",
-      "time": "04:03",
-      "publishedAt": "2026-11-27T04:03:03.000Z",
-      "url": "https://www.coolapk.com/feed/75298653",
-      "image": "http://image.coolapk.com/feed/2026/1127/12/4248714_7ed81c8f_2156_265_637@2000x3556.jpg",
-      "summary": "【荣耀WIN2 三角洲赛事联名款 现已开售，首发售价6999元】 16+512GB —— 定价7499元，首发6999元 ▫️手机定制配色「夺砖」 ▫️曼德尔砖摆件 ▫️空投挂件 ▫️联名手机壳 ▫️干员卡片 ▫️金属实体房卡 #今日热点# #荣耀WIN2# #三角洲行动#",
+      "time": "10:03",
+      "publishedAt": "2026-11-27T10:03:11.000Z",
+      "url": "https://www.coolapk.com/feed/75303988",
+      "image": "http://image.coolapk.com/feed/2026/1127/18/4248714_9dd42e5b_3790_1285_888@2000x3553.jpg",
+      "summary": "【荣耀700系列 首销日战报：2026年安卓新品销量第一】 11月27日，荣耀CEO李健宣布，荣耀700系列获得2026年新品首销日系列销量安卓第一。据小字注释，该数据为中国区全渠道激活销量，来源于第三方平台。 随后，博主「RD观测」转发表示，荣耀700系列首销表现确实不错，这一代产品不仅线上很好，线下也不错，中间价位段占比大概60%左右，属于爆品级别。…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-b40da10fe654",
+      "title": "Redmi TV A55 2027 launches with 4K 165Hz display, HyperOS 4",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-27",
+      "time": "09:56",
+      "publishedAt": "2026-11-27T09:56:28.000Z",
+      "url": "https://www.gizmochina.com/2026/11/27/redmi-tv-a55-2027-level-1-energy-efficiency-edition-4k-165hz-launch-specs-price/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/REDMI-TV-A55-2027-Launch-Specs-Price-300x200.jpg?x39984",
+      "summary": "Xiaomi is bringing a 165Hz refresh rate to another budget TV in China. The new Redmi TV A55 2027 Level 1 Energy Efficiency Edition starts at 1,599 yuan (~$240) during its launch s…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4975bf7d46cc",
+      "title": "Samsung (accidentally) sold the Galaxy S26 Ultra for just $125 in Japan",
+      "source": "Android Authority",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-27",
+      "time": "09:52",
+      "publishedAt": "2026-11-27T09:52:21.000Z",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s26-ultra-amazon-japan-deal-3740755/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/10/Samsung-Galaxy-S26-Ultras-design-and-camera-module.jpg",
+      "summary": "How does a 92% discount on a Galaxy S26 Ultra sound?",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-34f6c97fda44",
+      "title": "JSCHEN小小狐：荣耀700系列战报公布: 26年安卓首销第一",
+      "source": "JSCHEN小小狐",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-27",
+      "time": "09:48",
+      "publishedAt": "2026-11-27T09:48:36.000Z",
+      "url": "https://www.coolapk.com/feed/75303752",
+      "image": "http://image.coolapk.com/feed/2026/1127/17/4702274_4c62409b_2913_5761_533@2160x3837.jpg",
+      "summary": "『荣耀 700 系列战报公布：26 年安卓首销第一』 11 月 27 日，荣耀终端 CEO 李健 公布战报，宣布荣耀 700 系列自当日 10:08 开售以来，全系激活销量已打破 2026 年安卓新品首销日记录，并同时登顶安卓首销排行榜第一。 随后，荣耀高管 关海涛 转发了该条微博，并配文“真诚开路，创新破局！感谢所有用户的支持”。 另据三方媒体统计，荣耀…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-dabbb96e7e31",
+      "title": "李健：荣耀 700 系列手机销量已打破 2026 年安卓新品首销日纪录",
+      "source": "IT之家",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-27",
+      "time": "09:43",
+      "publishedAt": "2026-11-27T09:43:19.000Z",
+      "url": "https://www.ithome.com/1/033/622.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/ebec2336-4a50-472a-b088-91e041972ca9.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 11 月 27 日消息，荣耀终端股份有限公司 CEO 李健宣布， 荣耀 700 系列今天 10:08 开售以来， 销量已打破 2026 年安卓新品首销日纪录 ，成功登顶安卓首销排行榜第一。 据IT之家此前报道， 荣耀 700 系列手机于 11 月 23 日发布 ，包含 荣耀 700S 、荣耀 700、 荣耀 700 Pro 三款产品，首销 339…",
+      "tags": [
+        "HONOR",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-7dbdfc28280d",
+      "title": "消息称 vivo X500 Ultra 已定版，或成安卓阵营的超大杯独苗",
+      "source": "IT之家",
+      "brand": "vivo",
+      "model": "vivo 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-27",
+      "time": "09:12",
+      "publishedAt": "2026-11-27T09:12:25.000Z",
+      "url": "https://www.ithome.com/1/033/611.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/86f37cc3-05e9-483e-8bbc-b471a984d6d8.png",
+      "summary": "IT之家 11 月 27 日消息，据博主 @数码闲聊站 今日爆料，vivo 或是安卓阵营的超大杯独苗，X500 Ultra 已定版，X600 Ultra 立项规划中。 IT之家注意到，vivo 副总裁、产品副总裁黄韬此前已确认，X500 Ultra 机型会正常迭代， 预计明年 3-4 月发布 ，影像会拉开和 Pro Max 的差距，主打先锋用户与专业创作者…",
+      "tags": [
+        "vivo",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-33c804c0a7da",
+      "title": "消息称某厂子系 2027 年新机有 7 英寸超大屏、阔直板等多形态，预计小米 REDMI 旗下",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-27",
+      "time": "08:41",
+      "publishedAt": "2026-11-27T08:41:22.000Z",
+      "url": "https://www.ithome.com/1/033/569.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/9b1e0150-d57a-4952-8f37-e81b099d9fae.png",
+      "summary": "IT之家 11 月 27 日消息，博主 @数码闲聊站 今日爆料，某厂子系 2027 年新机的屏幕形态非常丰富，7 英寸超大屏、6.59 英寸中屏、6.3 英寸小屏、阔直板，全都有新机评估测试中。结合该博主此前的爆料习惯，预计为小米 REDMI 旗下。 IT之家注意到，该博主 10 月曾透露某神秘“子系旗舰线”开案一块 7 英寸 2K 大直屏 ，支持超高刷，…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-4f9ad05ce596",
+      "title": "支付宝车载助手 3.0 发布：一句话在车上点外卖、付充电费，联合北汽打造 A.I. Car 新车型",
+      "source": "IT之家",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-27",
+      "time": "08:22",
+      "publishedAt": "2026-11-27T08:22:14.000Z",
+      "url": "https://www.ithome.com/1/033/541.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/35ce7070-44de-4048-98fb-16a0cec1bb51.jpg",
+      "summary": "IT之家 11 月 27 日现场消息， 支付宝车载助手 3.0 今日正式发布，带来全新能力升级，实现车内发起、车外交付；开口即办、开口即付。 根据官方演示，用户可以直接和车机说出需求， 比如点外卖、付充电费、付高速费 ，都可以说一句“确认支付”实现，无需掏出手机进行操作。 车载助手 3.0 上线 声纹核身支付 ，用户授权后，语音就能完成车主的身份核验和支付…",
+      "tags": [
+        "行业",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-d1d86fcfacc9",
+      "title": "Galaxy Z Flip 6, Z Fold 6 get November 2026 security update",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-27",
+      "time": "08:19",
+      "publishedAt": "2026-11-27T08:19:28.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-flip-6-z-fold-6-get-november-2026-security-update/",
+      "image": "",
+      "summary": "The Galaxy Z Flip 6 and the Galaxy Z Fold 6 units in India have started receiving new software updates. These updates bring the November 2026 security patch, which addresses 179 v…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-6152db9c276b",
+      "title": "Xiaomi’s new global 4K 120Hz monitor appears to be China’s Redmi A27U 2027",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-27",
+      "time": "08:12",
+      "publishedAt": "2026-11-27T08:12:18.000Z",
+      "url": "https://www.gizmochina.com/2026/11/27/xiaomi-a27ui-120hz-appears-to-be-redmi-a27u-2027/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-xiaomi-a27ui-120hz-1200x675-1-300x169.jpg?x39984",
+      "summary": "Xiaomi has listed a new 27-inch 4K monitor, the A27Ui 120Hz, on its official global website. The screen appears to be China’s Redmi Monitor A27U Type-C 120Hz 2027 under a new name…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b84188660bf2",
+      "title": "Galaxy A38 could deliver longer battery life with its modern MediaTek chip",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-27",
+      "time": "07:55",
+      "publishedAt": "2026-11-27T07:55:02.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-a38-mediatek-processor-longer-battery-life/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/11/Samsung-Galaxy-A38-MediaTek-Dimensity-7500-Processor-Geekbench.jpg",
+      "summary": "All eyes are on the Galaxy S27 series, which is expected to launch in February 2027. Just a month after its debut, Samsung could release two mid-range phones: the Galaxy A38 and t…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-9a10bc3a88aa",
+      "title": "OnePlus 15 and 15R ColorOS 17 update adds auto PC unlocking, smarter photo storage, and more",
+      "source": "Android Authority",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-27",
+      "time": "07:06",
+      "publishedAt": "2026-11-27T07:06:48.000Z",
+      "url": "https://www.androidauthority.com/oneplus-15-15r-coloros-17-automatic-pc-unlock-3740697/",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/12/OnePlus-15R-vs-OnePlus-15.jpg",
+      "summary": "ColorOS users are catching up with their OxygenOS counterparts.",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-a6508519af4d",
+      "title": "竹本青：OPPO Reno17系列首销激活销量曝光：3天约10.1万台",
+      "source": "竹本青",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-27",
+      "time": "06:45",
+      "publishedAt": "2026-11-27T06:45:02.000Z",
+      "url": "https://www.coolapk.com/feed/75300877",
+      "image": "http://image.coolapk.com/feed/2026/1127/14/4248714_0efcc8a2_1899_5593_147@1272x369.jpg",
+      "summary": "【OPPO Reno17系列 首销激活销量曝光：3天约10.1万台】 11月27日，博主数码闲聊站爆料，OPPO Reno17系列 首销激活销量约10.1万台，统计周期为W47（11.16-11.22），该机开售3天。 该系列于本月16日发布，20日正式开售。标准版售价3599元起、Pro版售价4199元起，官方配置海报见图2、图3。 #今日热点# #OP…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "coolapk-user-106d3f984db5",
+      "title": "竹本青：【上周（W47）国内手机市场份额曝光：苹果、华为、OPPO位列前三】 ● 2026 W47 1.苹果 —— 23.…",
+      "source": "竹本青",
+      "brand": "HONOR",
+      "model": "HONOR 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-27",
+      "time": "05:46",
+      "publishedAt": "2026-11-27T05:46:01.000Z",
+      "url": "https://www.coolapk.com/feed/75300022",
+      "image": "http://image.coolapk.com/feed/2026/1127/13/4248714_b12f4ea3_8360_2625_204@1272x796.jpg",
+      "summary": "【上周（W47）国内手机市场份额曝光：苹果、华为、OPPO位列前三】 ● 2026 W47 1.苹果 —— 23.5% 2.华为 —— 22.3%（含OSTA 0.1%） 3.OPPO —— 14.8%（含一加 2.8%，realme 0.2%） 4.小米 —— 12.8% 5.vivo —— 12.3%（含iQOO 3.1%） 6.荣耀 —— 11.1%…",
       "tags": [
         "HONOR",
         "爆料",
@@ -59,66 +599,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-bfab527efb03",
-      "title": "联发科技：天玑旗舰智能手机芯片仍正常迭代，2027 年将按既定计划更新",
-      "source": "IT之家",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-27",
-      "time": "03:06",
-      "publishedAt": "2026-11-27T03:06:20.000Z",
-      "url": "https://www.ithome.com/1/033/222.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/6cea048c-d5a0-48e7-972b-ab86d86c6d04.png",
-      "summary": "IT之家 11 月 27 日消息，据台媒《电子时报》(DIGITIMES) 消息称，联发科技 (MediaTek) 针对近期流言回应称： 天玑系列的旗舰手机 SoC 新品开发未中断 ，2027 年仍会照原定计划推出旗舰手机 SoC。 在存储器等零组件成本暴涨的背景下，智能手机市场正面临数年未见的寒冬，出货量持续下行。与此同时，以联发科技天玑 9600 Pr…",
-      "tags": [
-        "行业",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "coolapk-user-a60398cab7ca",
-      "title": "竹本青：10月国内手机市场份额曝光：荣耀跃升前三",
-      "source": "竹本青",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-27",
-      "time": "02:04",
-      "publishedAt": "2026-11-27T02:04:55.000Z",
-      "url": "https://www.coolapk.com/feed/75296709",
-      "image": "http://image.coolapk.com/feed/2026/1127/10/4248714_d630a47f_5094_4156_996@1270x908.jpg",
-      "summary": "【10月国内手机市场份额曝光：苹果保持榜首，荣耀跃升前三】 ● 10月：大盘上升约20% 1.苹果 —— 30.0% 2.华为 —— 19.8% 3.荣耀 —— 12.0% 4.小米 —— 12.0% 5.OPPO —— 11.8%（含一加 2.6%，realme 0.2%） 6.vivo —— 11.4%（含iQOO 3.0%） ● 9月：大盘下降近10…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
-      "id": "coolapk-user-dfeb4adf848a",
-      "title": "竹本青：vivo S70「氙气闪柔小方灯」官宣：与神牛共研，输出能量约普通CCD的9倍",
-      "source": "竹本青",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-27",
-      "time": "01:54",
-      "publishedAt": "2026-11-27T01:54:34.000Z",
-      "url": "https://www.coolapk.com/feed/75296529",
-      "image": "http://image.coolapk.com/feed/2026/1127/09/4248714_04366403_4469_9625_877@1271x1435.jpg",
-      "summary": "【vivo S70「氙气闪柔小方灯」外设官宣：与神牛共研，输出能量约普通CCD的9倍】 ● 与神牛历时一年半深度共研 ● 输出能量≈普通CCD的9倍，闪光0.2ms ● CRI显色指数≤98 ● TCE影调算法+NICE 画质引擎+GTR技术 ● TTL自动测光算法，闪光随环境等调整 #今日热点# #OriginOS7# #vivoS70#",
-      "tags": [
-        "vivo",
-        "爆料",
-        "酷安博主"
       ]
     },
     {
@@ -202,8 +682,8 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-b56d6317cbce",
-      "title": "去线下摸了一下实机，感觉红米K100PM屏幕更红，17Max白一点通透一点，一下给我纠结住了。17有徕卡，100有Bose➕185。 感觉好难选，果然这个价位鱼和熊掌不可兼得。#小米17Max# #REDMIK100ProMax# 然后看了一下荣耀magic9PM屏幕黑边确实小 #荣耀Magic9ProMax# 但是系统用不惯【主要是超预算太多[懒得理]】。",
+      "id": "newsnow-138540fe3423",
+      "title": "你不会考虑哪个品牌的手机？ 为啥大家都选择遥遥领先？？ #华为鸿蒙# #荣耀700#",
       "source": "酷安热榜",
       "brand": "HONOR",
       "model": "HONOR 相关机型",
@@ -212,9 +692,9 @@ window.phoneRadarAuto = {
       "date": "2026-11-27",
       "time": "",
       "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/75288182",
+      "url": "https://www.coolapk.com/feed/75295640",
       "image": "",
-      "summary": "去线下摸了一下实机，感觉红米K100PM屏幕更红，17Max白一点通透一点，一下给我纠结住了。17有徕卡，100有Bose➕185。 感觉好难选，果然这个价位鱼和熊掌不可兼得。#小米17Max# #REDMIK100ProMax# 然后看了一下荣耀magic9PM屏幕黑边确实小 #荣耀Magic9ProMax# 但是系统用不惯【主要是超预算太多[懒得理]】。",
+      "summary": "你不会考虑哪个品牌的手机？ 为啥大家都选择遥遥领先？？ #华为鸿蒙# #荣耀700#",
       "tags": [
         "HONOR",
         "爆料",
@@ -222,21 +702,61 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "newsnow-95a77a566d9c",
-      "title": "折叠iPhone Duo一万次会爆屏吗",
-      "source": "B站热搜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "id": "newsnow-aebf00dfa5b6",
+      "title": "今天1126是我的生日，买台PS5作为礼物🎁吧，蛋糕就不买了吧，一个人也吃不完，日子挺漫长的 #iPhone18ProMax# #一加Ace7Pro# #GTA6#",
+      "source": "酷安热榜",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-27",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/75286613",
+      "image": "",
+      "summary": "今天1126是我的生日，买台PS5作为礼物🎁吧，蛋糕就不买了吧，一个人也吃不完，日子挺漫长的 #iPhone18ProMax# #一加Ace7Pro# #GTA6#",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-a4281270fca6",
+      "title": "发现了换手机的最佳时机",
+      "source": "微博热搜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-11-27",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%E5%8F%91%E7%8E%B0%E4%BA%86%E6%8D%A2%E6%89%8B%E6%9C%BA%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA&t=31&band_rank=23&Refer=top",
+      "image": "",
+      "summary": "发现了换手机的最佳时机",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-29ae7af7f718",
+      "title": "女子怀疑大爷偷拍 民警查手机无证据",
+      "source": "今日头条热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-11-27",
       "time": "",
       "publishedAt": "",
-      "url": "https://search.bilibili.com/all?keyword=%E6%8A%98%E5%8F%A0iPhone%20Duo%E4%B8%80%E4%B8%87%E6%AC%A1%E4%BC%9A%E7%88%86%E5%B1%8F%E5%90%97",
+      "url": "https://www.toutiao.com/trending/7712655976458027546/",
       "image": "",
-      "summary": "折叠iPhone Duo一万次会爆屏吗",
+      "summary": "女子怀疑大爷偷拍 民警查手机无证据",
       "tags": [
-        "iPhone",
+        "行业",
         "爆料",
         "NewsNow"
       ]
@@ -279,26 +799,6 @@ window.phoneRadarAuto = {
         "vivo",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "x-636dd7caf02e",
-      "title": "Apple Club：Apple × Marvel: 2012 vs 2026.🔥 20…",
-      "source": "Apple Club",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-26",
-      "time": "14:47",
-      "publishedAt": "2026-11-26T14:47:49.000Z",
-      "url": "https://x.com/ApplesClubs/status/2125964751419387975",
-      "image": "https://pbs.twimg.com/media/HYDxqpra0AAj_BG?format=jpg&name=orig",
-      "summary": "Apple × Marvel: 2012 vs 2026.🔥 2012: The Avengers + iPhone 5 2026: Avengers: Doomsday + iPhone 18 Pro lineup.",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "X"
       ]
     },
     {
@@ -382,26 +882,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-1745f95acee8",
-      "title": "Why the Galaxy Z Fold 8 and Fold 8 Ultra are about more than just camera quality",
-      "source": "SamMobile",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-26",
-      "time": "12:30",
-      "publishedAt": "2026-11-26T12:30:00.000Z",
-      "url": "https://www.sammobile.com/opinion/why-galaxy-z-fold-8-fold-8-ultra-more-than-just-camera-quality/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Galaxy-Z-Fold-8-Ultra-review-18-1920x1080.jpg",
-      "summary": "A video can be perfectly sharp and still leave you wishing you had filmed it differently. The horizon leans as you follow the action, or the person you wanted to capture ends up a…",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-e0d87b54968d",
       "title": "iPhone 20 Pro Could Feature Ceramic in Limited-Edition Model",
       "source": "MacRumors",
@@ -415,26 +895,6 @@ window.phoneRadarAuto = {
       "url": "https://www.macrumors.com/2026/11/26/iphone-20-pro-ceramic-limited-edition-model/",
       "image": "https://images.macrumors.com/article-new/2026/01/Mostly-Screen-iPhone-Purple-Feature-2027.jpg",
       "summary": "Apple could offer a limited-edition iPhone 20 Pro model that incorporates ceramic, according to the Chinese leaker known as Fixed Focus Digital. In a post on Weibo , the leaker cl…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b2bd0e87021c",
-      "title": "Android sales covered 74% of the global market in Q3 while iOS held just 21%",
-      "source": "SamMobile",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-26",
-      "time": "11:38",
-      "publishedAt": "2026-11-26T11:38:40.000Z",
-      "url": "https://www.sammobile.com/news/android-sales-74-percent-global-market-q3-ios-just-21-percent/",
-      "image": "https://www.sammobile.com/wp-content/uploads/2026/11/q32026-os-smartphone-sales-share.webp",
-      "summary": "The global smartphone market is going through an uneasy time as the memory supply crisis continues, with Q3 2026 sales dropping 16% year-on-year. But how have current market condi…",
       "tags": [
         "iPhone",
         "爆料",
@@ -482,46 +942,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-e8a259c5e80a",
-      "title": "The Galaxy S26 Ultra and Z Fold 8 Ultra get 24K gold editions for Christmas",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-26",
-      "time": "06:59",
-      "publishedAt": "2026-11-26T06:59:44.000Z",
-      "url": "https://www.androidauthority.com/samsung-galaxy-s26-ultra-z-fold-8-ultra-gold-editions-3739575/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/11/Goldgenie-Samsung-Galaxy-S26-Ultra-and-Galaxy-Z-Fold-8-Ultra.jpg",
-      "summary": "Samsung's Ultra flagships are getting the Midas touch.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-b1bcac3451ef",
-      "title": "Galaxy S27 Pro and Ultra dummy units leaked in hands-on video",
-      "source": "Android Authority",
-      "brand": "Samsung",
-      "model": "Samsung 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-26",
-      "time": "06:59",
-      "publishedAt": "2026-11-26T06:59:27.000Z",
-      "url": "https://www.androidauthority.com/samsung-galaxy-s27-pro-ultra-dummy-units-hands-on-leak-3739584/",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/Samsung-Galaxy-S26-series-showing-backs.jpg",
-      "summary": "The dummy units show four rear cameras again, but it's unlikely to be the case.",
-      "tags": [
-        "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
       "id": "auto-5f3e8c428052",
       "title": "Samsung Galaxy Z TriFold 2 leaked with Q9m codename, 2027 Fold 9 launch",
       "source": "Gizmochina",
@@ -558,46 +978,6 @@ window.phoneRadarAuto = {
       "tags": [
         "Samsung",
         "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-314037285222",
-      "title": "荣耀 700 Pro 上手：4099 元起，主流价位档里的手机异类",
-      "source": "爱范儿",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-11-26",
-      "time": "04:28",
-      "publishedAt": "2026-11-26T04:28:11.000Z",
-      "url": "https://www.ifanr.com/1695371?utm_source=rss&utm_medium=rss&utm_campaign",
-      "image": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1795666142626-2.png",
-      "summary": "有诚意、有新意",
-      "tags": [
-        "HONOR",
-        "评测",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-c054d55f2757",
-      "title": "OPPO Reno17 Pro 体验：在手机里装进一只猫，分几步？",
-      "source": "爱范儿",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-11-26",
-      "time": "04:02",
-      "publishedAt": "2026-11-26T04:02:09.000Z",
-      "url": "https://www.ifanr.com/1691222?utm_source=rss&utm_medium=rss&utm_campaign",
-      "image": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1795664336959-1.jpg",
-      "summary": "哈基米，浮出机面",
-      "tags": [
-        "OPPO",
-        "评测",
         "自动抓取"
       ]
     },
