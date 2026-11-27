@@ -1,12 +1,12 @@
 window.phoneRadarDaily = {
-  "updatedAt": "2026-11-27T13:52:18.328Z",
+  "updatedAt": "2026-11-27T22:41:15.393Z",
   "issueDate": "2026-11-27",
   "issue": "VOL.261127",
   "title": "手机情报日报",
-  "intro": "今日筛出 17 条重点，其中 8 条是重点爆料，包含 5 条 iPhone 相关、0 条官方确认、0 条参数线索。",
+  "intro": "今日筛出 16 条重点，其中 8 条是重点爆料，包含 7 条 iPhone 相关、0 条官方确认、0 条参数线索。",
   "stats": {
-    "total": 17,
-    "iphone": 5,
+    "total": 16,
+    "iphone": 7,
     "leaks": 8,
     "official": 0,
     "specs": 0
@@ -26,8 +26,8 @@ window.phoneRadarDaily = {
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-11-27",
-          "time": "13:52",
-          "publishedAt": "2026-11-27T13:52:18.328Z",
+          "time": "22:41",
+          "publishedAt": "2026-11-27T22:41:15.393Z",
           "url": "https://x.com/ApplesClubs/status/2100574601294348508",
           "image": "https://pbs.twimg.com/media/HSa9dkBakAAqHnm?format=jpg&name=orig",
           "verdict": "先看",
@@ -64,6 +64,52 @@ window.phoneRadarDaily = {
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         },
         {
+          "id": "auto-45b9d1907ef4",
+          "title": "iPhone 发布 / 上市相关消息",
+          "originalTitle": "",
+          "source": "9to5Mac",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-11-27",
+          "time": "17:57",
+          "publishedAt": "2026-11-27T17:57:23.000Z",
+          "url": "https://9to5mac.com/2026/11/27/three-new-iphones-will-launch-early-next-year-heres-whats-coming/",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-air-2-camera-concept-yellow.jpg?quality=82&strip=all&w=1600",
+          "verdict": "先看",
+          "takeaway": "iPhone 有发布或新功能消息，适合确认是否和新机有关。",
+          "detail": "iPhone 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-e9f118d7411c",
+          "title": "iPhone 18 系统功能 / AI 体验相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-11-27",
+          "time": "17:21",
+          "publishedAt": "2026-11-27T17:21:07.000Z",
+          "url": "https://www.macrumors.com/2026/11/27/the-macrumors-show-iphone-air-2-and-18/",
+          "image": "",
+          "verdict": "先看",
+          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "iPhone 18 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
           "id": "auto-bd557d401a24",
           "title": "iPhone 18 Pro 发布 / 上市相关消息",
           "originalTitle": "",
@@ -81,6 +127,29 @@ window.phoneRadarDaily = {
           "detail": "iPhone 18 Pro 发布 / 上市相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
             "爆料来源"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
+          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
+        },
+        {
+          "id": "auto-91ea33238bb2",
+          "title": "iPhone 系统功能 / AI 体验相关消息",
+          "originalTitle": "",
+          "source": "MacRumors",
+          "brand": "iPhone",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-11-27",
+          "time": "12:58",
+          "publishedAt": "2026-11-27T12:58:22.000Z",
+          "url": "https://www.macrumors.com/2026/11/27/best-black-friday-iphone-deals-2026/",
+          "image": "https://images.macrumors.com/article-new/2026/11/iphone-18-snow.jpeg",
+          "verdict": "先看",
+          "takeaway": "iPhone 有系统功能或 AI 体验更新，适合关注后续是否影响日常使用。",
+          "detail": "iPhone 系统功能 / AI 体验相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "keyPoints": [
+            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
@@ -132,78 +201,6 @@ window.phoneRadarDaily = {
           "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
           "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
           "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "auto-33c804c0a7da",
-          "title": "消息称某厂子系 2027 年新机有 7 英寸超大屏、阔直板等多形态，预计小米 REDMI 旗下",
-          "originalTitle": "",
-          "source": "IT之家",
-          "brand": "Xiaomi",
-          "type": "爆料",
-          "trust": "媒体汇总",
-          "date": "2026-11-27",
-          "time": "08:41",
-          "publishedAt": "2026-11-27T08:41:22.000Z",
-          "url": "https://www.ithome.com/1/033/569.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/9b1e0150-d57a-4952-8f37-e81b099d9fae.png",
-          "verdict": "先看",
-          "takeaway": "IT之家 11 月 27 日消息，博主 @数码闲聊站 今日爆料，某厂子系 2027 年新机的屏幕形态非常丰富，7 英寸超大屏、6.59 英寸中屏、6.3 英寸小屏、阔直板，全都有新机评估测试中。结合该博主此前的爆料习惯，预计为小米 REDMI 旗下。 IT之家注意到，该博主 10 月曾透露某神秘“子系旗舰线”开案一块 7 英寸 2K 大直屏 ，支持超高刷，…",
-          "detail": "IT之家 11 月 27 日消息，博主 @数码闲聊站 今日爆料，某厂子系 2027 年新机的屏幕形态非常丰富，7 英寸超大屏、6.59 英寸中屏、6.3 英寸小屏、阔直板，全都有新机评估测试中。结合该博主此前的爆料习惯，预计为小米 REDMI 旗下。 IT之家注意到，该博主 10 月曾透露某神秘“子系旗舰线”开案一块 7 英寸 2K 大直屏 ，支持超高刷，…",
-          "keyPoints": [
-            "屏幕形态",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-a6508519af4d",
-          "title": "竹本青：OPPO Reno17系列首销激活销量曝光：3天约10.1万台",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-11-27",
-          "time": "06:45",
-          "publishedAt": "2026-11-27T06:45:02.000Z",
-          "url": "https://www.coolapk.com/feed/75300877",
-          "image": "http://image.coolapk.com/feed/2026/1127/14/4248714_0efcc8a2_1899_5593_147@1272x369.jpg",
-          "verdict": "先看",
-          "takeaway": "【OPPO Reno17系列 首销激活销量曝光：3天约10.1万台】 11月27日，博主数码闲聊站爆料，OPPO Reno17系列 首销激活销量约10.1万台，统计周期为W47（11.16-11.22），该机开售3天。 该系列于本月16日发布，20日正式开售。标准版售价3599元起、Pro版售价4199元起，官方配置海报见图2、图3。 #今日热点# #OP…",
-          "detail": "【OPPO Reno17系列 首销激活销量曝光：3天约10.1万台】 11月27日，博主数码闲聊站爆料，OPPO Reno17系列 首销激活销量约10.1万台，统计周期为W47（11.16-11.22），该机开售3天。 该系列于本月16日发布，20日正式开售。标准版售价3599元起、Pro版售价4199元起，官方配置海报见图2、图3。 #今日热点# #OP…",
-          "keyPoints": [
-            "成本 / 价格",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
-        },
-        {
-          "id": "coolapk-user-d3a2c82c76ec",
-          "title": "JSCHEN小小狐：消息称荣耀评估3 × 200MP全大底影像系统",
-          "originalTitle": "",
-          "source": "JSCHEN小小狐",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-11-26",
-          "time": "02:55",
-          "publishedAt": "2026-11-26T02:55:21.000Z",
-          "url": "https://www.coolapk.com/feed/75280619",
-          "image": "http://image.coolapk.com/feed/2026/1126/10/4702274_42515363_1720_2286_153@1440x415.jpg",
-          "verdict": "先看",
-          "takeaway": "『消息称荣耀评估 3 × 200MP 全大底影像系统』 知名数码博主 数码闲聊站 今日爆料称，荣耀正在评估一套由 3 颗 2 亿像素传感器组成的“全大底”影像系统，其中超广角有望采用 200MP 1/1.56\" 规格。猜测或由 Magic10 Pro Max 首发搭载。 结合此前消息，荣耀下一代旗舰机型的主摄最高已评估至 200MP 1/1.12\" OVB…",
-          "detail": "『消息称荣耀评估 3 × 200MP 全大底影像系统』 知名数码博主 数码闲聊站 今日爆料称，荣耀正在评估一套由 3 颗 2 亿像素传感器组成的“全大底”影像系统，其中超广角有望采用 200MP 1/1.56\" 规格。猜测或由 Magic10 Pro Max 首发搭载。 结合此前消息，荣耀下一代旗舰机型的主摄最高已评估至 200MP 1/1.12\" OVB…",
-          "keyPoints": [
-            "影像硬件",
-            "爆料来源"
-          ],
-          "confidence": "来自常见高关注爆料源，适合重点看，但仍需等第二来源或发布会确认。",
-          "impact": "这是提前爆料，能决定你要不要继续等某款机型，但还要交叉验证。",
-          "action": "先收藏到重点爆料；等第二个可靠来源、认证或发布会再确认。"
         }
       ]
     },
@@ -212,29 +209,6 @@ window.phoneRadarDaily = {
       "title": "iPhone 重点",
       "hint": "不是硬件爆料，但和 iPhone 体验或路线有关。",
       "items": [
-        {
-          "id": "newsnow-ab1527cfc015",
-          "title": "今年苹果iPhone18pro系列是不是太强大了？强大到把刘亦菲这个花粉都吸引过去了。",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "iPhone",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-11-27",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/75285183",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "今年苹果iPhone18pro系列是不是太强大了？强大到把刘亦菲这个花粉都吸引过去了。",
-          "detail": "今年苹果iPhone18pro系列是不是太强大了？强大到把刘亦菲这个花粉都吸引过去了。",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
         {
           "id": "newsnow-058295669bec",
           "title": "社区速递 166｜柯尼卡胶片机、iPhone Duo 体验与假期省钱实操大赏",
@@ -296,72 +270,26 @@ window.phoneRadarDaily = {
       "hint": "看方向，不急着当购买依据。",
       "items": [
         {
-          "id": "newsnow-138540fe3423",
-          "title": "你不会考虑哪个品牌的手机？ 为啥大家都选择遥遥领先？？ #华为鸿蒙# #荣耀700#",
+          "id": "newsnow-ab4ff5b3f293",
+          "title": "虽然Mate90PM典藏很多地方让人失望，但仍是华为目前最好的直板旗舰，甚至可以说是国产日用最强旗舰，降价后可以无脑入手。",
           "originalTitle": "",
           "source": "酷安热榜",
-          "brand": "HONOR",
+          "brand": "Huawei",
           "type": "爆料",
           "trust": "高关注爆料源",
           "date": "2026-11-27",
           "time": "",
           "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/75295640",
+          "url": "https://www.coolapk.com/feed/75298703",
           "image": "",
           "verdict": "先看",
-          "takeaway": "你不会考虑哪个品牌的手机？ 为啥大家都选择遥遥领先？？ #华为鸿蒙# #荣耀700#",
-          "detail": "你不会考虑哪个品牌的手机？ 为啥大家都选择遥遥领先？？ #华为鸿蒙# #荣耀700#",
+          "takeaway": "虽然Mate90PM典藏很多地方让人失望，但仍是华为目前最好的直板旗舰，甚至可以说是国产日用最强旗舰，降价后可以无脑入手。",
+          "detail": "虽然Mate90PM典藏很多地方让人失望，但仍是华为目前最好的直板旗舰，甚至可以说是国产日用最强旗舰，降价后可以无脑入手。",
           "keyPoints": [
             "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "newsnow-aebf00dfa5b6",
-          "title": "今天1126是我的生日，买台PS5作为礼物🎁吧，蛋糕就不买了吧，一个人也吃不完，日子挺漫长的 #iPhone18ProMax# #一加Ace7Pro# #GTA6#",
-          "originalTitle": "",
-          "source": "酷安热榜",
-          "brand": "OPPO",
-          "type": "爆料",
-          "trust": "高关注爆料源",
-          "date": "2026-11-27",
-          "time": "",
-          "publishedAt": "",
-          "url": "https://www.coolapk.com/feed/75286613",
-          "image": "",
-          "verdict": "先看",
-          "takeaway": "今天1126是我的生日，买台PS5作为礼物🎁吧，蛋糕就不买了吧，一个人也吃不完，日子挺漫长的 #iPhone18ProMax# #一加Ace7Pro# #GTA6#",
-          "detail": "今天1126是我的生日，买台PS5作为礼物🎁吧，蛋糕就不买了吧，一个人也吃不完，日子挺漫长的 #iPhone18ProMax# #一加Ace7Pro# #GTA6#",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
-          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
-        },
-        {
-          "id": "coolapk-user-106d3f984db5",
-          "title": "竹本青：【上周（W47）国内手机市场份额曝光：苹果、华为、OPPO位列前三】 ● 2026 W47 1.苹果 —— 23.…",
-          "originalTitle": "",
-          "source": "竹本青",
-          "brand": "HONOR",
-          "type": "爆料",
-          "trust": "高可信爆料",
-          "date": "2026-11-27",
-          "time": "05:46",
-          "publishedAt": "2026-11-27T05:46:01.000Z",
-          "url": "https://www.coolapk.com/feed/75300022",
-          "image": "http://image.coolapk.com/feed/2026/1127/13/4248714_b12f4ea3_8360_2625_204@1272x796.jpg",
-          "verdict": "扫一眼",
-          "takeaway": "【上周（W47）国内手机市场份额曝光：苹果、华为、OPPO位列前三】 ● 2026 W47 1.苹果 —— 23.5% 2.华为 —— 22.3%（含OSTA 0.1%） 3.OPPO —— 14.8%（含一加 2.8%，realme 0.2%） 4.小米 —— 12.8% 5.vivo —— 12.3%（含iQOO 3.1%） 6.荣耀 —— 11.1%…",
-          "detail": "【上周（W47）国内手机市场份额曝光：苹果、华为、OPPO位列前三】 ● 2026 W47 1.苹果 —— 23.5% 2.华为 —— 22.3%（含OSTA 0.1%） 3.OPPO —— 14.8%（含一加 2.8%，realme 0.2%） 4.小米 —— 12.8% 5.vivo —— 12.3%（含iQOO 3.1%） 6.荣耀 —— 11.1%…",
-          "keyPoints": [
-            "爆料"
-          ],
-          "confidence": "可信度较高，但仍属于发布前线索。",
-          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "impact": "影响购买预算，值得先看。",
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
@@ -411,28 +339,73 @@ window.phoneRadarDaily = {
           "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         },
         {
-          "id": "auto-e0a01ca7ef1b",
-          "title": "Samsung 价格 / 成本相关消息",
+          "id": "auto-d6763396007a",
+          "title": "Samsung 相关消息",
           "originalTitle": "",
-          "source": "Android Authority",
+          "source": "Android Police",
           "brand": "Samsung",
           "type": "爆料",
           "trust": "媒体汇总",
           "date": "2026-11-27",
-          "time": "12:36",
-          "publishedAt": "2026-11-27T12:36:32.000Z",
-          "url": "https://www.androidauthority.com/galaxy-z-flip-8-black-friday-deal-3740548/",
-          "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Flip-8-with-cover-screen-in-hand-scaled-1.jpg",
+          "time": "21:05",
+          "publishedAt": "2026-11-27T21:05:10.000Z",
+          "url": "https://www.androidpolice.com/i-am-switching-from-my-galaxy-s25-ultra-to-pixel-11-pro-just-because-of-single-feature/",
+          "image": "",
           "verdict": "可略过",
-          "takeaway": "Samsung 价格 / 成本相关消息。如果涉及订阅、售价或硬件成本，才需要进一步看细节。",
-          "detail": "Samsung 价格 / 成本相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
+          "takeaway": "Samsung 相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Samsung 相关消息。这条来自英文来源，已先转成中文结论；需要更细节时再打开原文核对。",
           "keyPoints": [
-            "影像硬件",
-            "成本 / 价格"
+            "爆料"
           ],
           "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
-          "impact": "影响购买预算，值得先看。",
-          "action": "有具体参数就记录到参数库；没有参数就先收藏。"
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-ec14b405033a",
+          "title": "Samsung 折叠屏相关消息",
+          "originalTitle": "",
+          "source": "9to5Google",
+          "brand": "Samsung",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-11-27",
+          "time": "19:15",
+          "publishedAt": "2026-11-27T19:15:00.000Z",
+          "url": "https://9to5google.com/2026/11/27/i-didnt-give-up-on-the-galaxy-z-fold-8/",
+          "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Galaxy-Z-Fold-8-lavender-2.jpg?quality=82&strip=all&w=1600",
+          "verdict": "可略过",
+          "takeaway": "Samsung 折叠屏相关消息。已转成中文摘要展示，详细内容可打开原文核对。",
+          "detail": "Samsung 折叠屏相关消息。重点看折痕、铰链、厚度、屏幕可靠性和重量是否有实质改善。",
+          "keyPoints": [
+            "爆料"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "当作提前信号，别急着下结论，等第二个来源验证。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
+        },
+        {
+          "id": "auto-7469b536e82e",
+          "title": "Pixel 11 影像能力相关消息",
+          "originalTitle": "",
+          "source": "9to5Google",
+          "brand": "Pixel",
+          "type": "爆料",
+          "trust": "媒体汇总",
+          "date": "2026-11-27",
+          "time": "16:45",
+          "publishedAt": "2026-11-27T16:45:00.000Z",
+          "url": "https://9to5google.com/2026/11/27/like-clockwork-the-pixel-11-is-a-way-better-buy-after-a-few-months-video/",
+          "image": "",
+          "verdict": "可略过",
+          "takeaway": "Pixel 影像能力相关宣传或案例，主要看是否透露拍摄能力变化。",
+          "detail": "Pixel 11 影像能力相关消息。重点看影像功能是否和新机硬件有关，如果只是拍摄案例或营销内容，参考价值会低一些。",
+          "keyPoints": [
+            "影像硬件"
+          ],
+          "confidence": "媒体汇总或普通传闻，适合先收藏观察，不当作最终参数。",
+          "impact": "影响拍照体验，买旗舰机时值得关注。",
+          "action": "英文源先别打开，除非你要我帮你翻译/判断。"
         }
       ]
     }
