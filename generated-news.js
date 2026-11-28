@@ -1,5 +1,5 @@
 window.phoneRadarAuto = {
-  "updatedAt": "2026-11-27T22:41:15.393Z",
+  "updatedAt": "2026-11-28T07:45:37.765Z",
   "news": [
     {
       "id": "x-73315225d9bd",
@@ -9,9 +9,9 @@ window.phoneRadarAuto = {
       "model": "iPhone 相关机型",
       "type": "爆料",
       "trust": "高关注爆料源",
-      "date": "2026-11-27",
-      "time": "22:41",
-      "publishedAt": "2026-11-27T22:41:15.393Z",
+      "date": "2026-11-28",
+      "time": "07:45",
+      "publishedAt": "2026-11-28T07:45:37.765Z",
       "url": "https://x.com/ApplesClubs/status/2100574601294348508",
       "image": "https://pbs.twimg.com/media/HSa9dkBakAAqHnm?format=jpg&name=orig",
       "summary": "Apple CEOs and their iconic iPhones",
@@ -19,6 +19,346 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "X"
+      ]
+    },
+    {
+      "id": "auto-17a54846c656",
+      "title": "一加 Turbo 6Xs 手机上架官网：天玑 7360 SUPER 处理器，1999 元",
+      "source": "IT之家",
+      "brand": "OPPO",
+      "model": "OPPO 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-28",
+      "time": "07:08",
+      "publishedAt": "2026-11-28T07:08:18.000Z",
+      "url": "https://www.ithome.com/1/033/865.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/f8b8e02f-bc87-473e-9f6c-e1edc126510f.png",
+      "summary": "IT之家 11 月 28 日消息，一加 Turbo 6Xs 手机现已在 OPPO 官网上架，搭载天玑 7360 SUPER 处理器，仅提供 6GB+256GB 一个版本，售价 1999 元。 IT之家从官方数据获悉，该机提供“白里挑一”“红运当头”两款配色，机身尺寸为 165.85×76.00×8.55mm， 重量约 208g 。 屏幕方面，该机采用 6.…",
+      "tags": [
+        "OPPO",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "x-d224a9e37c11",
+      "title": "Apple Club：Apple might not be changing the st…",
+      "source": "Apple Club",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-28",
+      "time": "07:01",
+      "publishedAt": "2026-11-28T07:01:58.000Z",
+      "url": "https://x.com/ApplesClubs/status/2126572290104328376",
+      "image": "https://pbs.twimg.com/media/HYMaOG3aQAALP1r?format=jpg&name=orig",
+      "summary": "Apple might not be changing the standard iPhone's design in 2027. iPhone 16 → iPhone 17 → iPhone 18.",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "X"
+      ]
+    },
+    {
+      "id": "coolapk-user-f005b252b388",
+      "title": "竹本青：【卢伟冰发问：小米17 Ultra是不是依然是最强的影像旗舰】 11月28日，小米集团总裁卢伟冰 转发博主使用小米…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-28",
+      "time": "06:52",
+      "publishedAt": "2026-11-28T06:52:31.000Z",
+      "url": "https://www.coolapk.com/feed/75318465",
+      "image": "http://image.coolapk.com/feed/2026/1128/14/4248714_cfe82c7b_8749_7922_465@1272x1252.jpg",
+      "summary": "【卢伟冰发问：小米17 Ultra是不是依然是最强的影像旗舰】 11月28日，小米集团总裁卢伟冰 转发博主使用小米17 Ultra徕卡版拍摄的一组样张，并配文\"小米17 Ultra是不是依然是最强的影像旗舰？\" 小米17 Ultra于2025年12月发布，标准版首发6999元起，徕卡版7999元起，该机搭载骁龙8E5处理器、6.9英寸1.5K 120Hz直…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-3329f20dfd36",
+      "title": "消息称华为 Mate 90 系列手机实时激活销量已破 100 万",
+      "source": "IT之家",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-28",
+      "time": "06:41",
+      "publishedAt": "2026-11-28T06:41:07.000Z",
+      "url": "https://www.ithome.com/1/033/849.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/b6d0c927-ab84-47a9-97de-52a94ea65597.jpg?x-bce-process=image/format,f_auto",
+      "summary": "IT之家 11 月 28 日消息，博主 @数码闲聊站 今日爆料，华为 Mate 90 系列，实时激活销量已破 100 万 。 博主称 Mate 90 系列是 今年下半年唯二 达成百万激活的国产旗舰机。 IT之家注意到， 此前达成该成就的机型为华为 Pura X View 阔直板手机 。 在 10 月 1 日举行的华为 Mate 90 系列及全场景新品发布会…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-f13f21532bba",
+      "title": "数码闲聊站：华为Mate90系列，实时激活销量已破100万 *26年下半年唯二达成百万激活…",
+      "source": "数码闲聊站",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-28",
+      "time": "05:45",
+      "publishedAt": "2026-11-28T05:45:00.000Z",
+      "url": "https://weibo.com/6048569942/RtsQVB6sG",
+      "image": "",
+      "summary": "华为Mate90系列，实时激活销量已破100万 *26年下半年唯二达成百万激活的国产旗舰机✓",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "coolapk-user-4d1b2f2c4375",
+      "title": "竹本青：【博主曝光各阵营芯片选择倾向：2nm首选天玑9600 Pro、米系首选玄戒O3】 2nm —— 首选天玑9600…",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-28",
+      "time": "05:01",
+      "publishedAt": "2026-11-28T05:01:14.000Z",
+      "url": "https://www.coolapk.com/feed/75316721",
+      "image": "http://image.coolapk.com/feed/2026/1128/13/4248714_ee2c1ea9_2073_7648_966@1270x1224.jpg",
+      "summary": "【博主曝光各阵营芯片选择倾向：2nm首选天玑9600 Pro、米系首选玄戒O3】 2nm —— 首选天玑9600 Pro 3nm —— 首选骁龙8 Elite Gen5 花系 —— 首选麒麟9050 Pro 米系 —— 首选玄戒O3 果系 —— 首选A20 Pro 11月28日，博主数码闲聊站发文称，当前各阵营芯片选择倾向。对于小米直板旗舰机搭载玄戒O3的…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-daf5869662b3",
+      "title": "Samsung's Galaxy S25 and S25 Ultra could be banned in the US after a patent ruling",
+      "source": "Android Police",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-28",
+      "time": "03:14",
+      "publishedAt": "2026-11-28T03:14:09.000Z",
+      "url": "https://www.androidpolice.com/samsung-galaxy-s25-ultra-could-be-banned-us-over-camera-patent-infringement/",
+      "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/02/samsung-galaxy-s25-rear-geometric.jpg",
+      "summary": "A new complaint targets the Galaxy S26+, Fold 7, and Flip 7",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-f71d86593324",
+      "title": "数码闲聊站：realme 17 Ultra，6.78\"1.5K+185Hz超高刷直屏，金属…",
+      "source": "数码闲聊站",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-28",
+      "time": "02:36",
+      "publishedAt": "2026-11-28T02:36:00.000Z",
+      "url": "https://weibo.com/6048569942/RtrCdnUi3",
+      "image": "",
+      "summary": "realme 17 Ultra，6.78\"1.5K+185Hz超高刷直屏，金属中框，骁龙8系处理器？支持Pin接口主动散热风扇，200Mp大底主摄+50Mp 3.5X潜望长焦，海外独享机型，感觉拿到国内也很有竞争力啊[捂嘴哭]",
+      "tags": [
+        "行业",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-ff4c03445691",
+      "title": "微软高管：暂无 Win12 发布时间表，当前首要任务是打磨 Win11",
+      "source": "IT之家",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-28",
+      "time": "02:27",
+      "publishedAt": "2026-11-28T02:27:31.000Z",
+      "url": "https://www.ithome.com/1/033/812.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/096ae783-54b7-4e52-8d6c-a51ea6a633c1.png",
+      "summary": "IT之家 11 月 28 日消息，在 Ignite 2026 活动后接受 Axios 采访时，微软 Windows 事业部执行副总裁帕万 · 达武卢里（Pavan Davuluri）表示， 微软目前专注于打磨 Windows 11 的品质、体验、基础能力、性能和可靠性。 IT之家援引博文介绍，被问及 Windows 12 时，达武卢里既未否认，也未给出任何…",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "coolapk-user-9b8a99d010a6",
+      "title": "竹本青：REDMI Turbo6 系列新机入网，标准版未能搭载天玑8600",
+      "source": "竹本青",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高可信爆料",
+      "date": "2026-11-28",
+      "time": "02:12",
+      "publishedAt": "2026-11-28T02:12:44.000Z",
+      "url": "https://www.coolapk.com/feed/75313956",
+      "image": "http://image.coolapk.com/feed/2026/1128/10/4248714_2a98f3b0_1963_2761_107@1272x1209.jpg",
+      "summary": "【REDMI Turbo6 系列新机入网，标准版未能搭载天玑8600】 11月28日，据数码闲聊站爆料，REDMI Turbo6系列新机已入网，支持100W有线充电，其对这代Turbo Max抱有旗舰级超大屏、百瓦万级电池、简约ID设计等期待。 对于网友关心的处理器问题，他在评论区回复称，REDMI Turbo6标准版不会搭载天玑8600（D8600），该…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "酷安博主"
+      ]
+    },
+    {
+      "id": "auto-925c7870cf67",
+      "title": "小米 REDMI Turbo 6 系列新机通过 3C 认证，支持 100W 有线快充",
+      "source": "IT之家",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-28",
+      "time": "01:13",
+      "publishedAt": "2026-11-28T01:13:22.000Z",
+      "url": "https://www.ithome.com/1/033/799.htm",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/4c69936e-3e78-4965-befb-0555491addb8.jpg",
+      "summary": "IT之家 11 月 28 日消息，昨日有一款型号为 M407CF 的小米新机通过国家 3C 质量认证。数码博主 @数码闲聊站 称该机属于 REDMI Turbo 6 系列。 如IT之家下图所示，3C 认证显示该机搭配的电源适配器型号为 MDY-18-EW，支持最高 20V 5A 的 100W 功率输出。 作为参考，上一代 REDMI Turbo 5 于 2…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "weibo-f3d474906cab",
+      "title": "数码闲聊站：REDMI Turbo6系列新机入网了，支持100W有线充。你们对这代Turb…",
+      "source": "数码闲聊站",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-28",
+      "time": "00:58",
+      "publishedAt": "2026-11-28T00:58:39.000Z",
+      "url": "https://weibo.com/6048569942/RtqYHvHON",
+      "image": "https://tvax4.sinaimg.cn/mw2000/006BlblIgy1ijhmbgchnuj30q807hgnf.jpg",
+      "summary": "REDMI Turbo6系列新机入网了，支持100W有线充。你们对这代Turbo Max有何期待？旗舰级超大屏？百瓦万级大电池？简约ID设计？ *前代有天玑9系性能芯+3D超声波指纹+对称双扬+满级防水+金属中框，这代应该也有吧。",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "微博"
+      ]
+    },
+    {
+      "id": "auto-bfd196d7caed",
+      "title": "iPhone Duo arrives at Apple Store locations worldwide",
+      "source": "Apple Newsroom",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "官方",
+      "trust": "官方确认",
+      "date": "2026-11-28",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.apple.com/newsroom/2026/10/iphone-duo-arrives-at-apple-store-locations-worldwide/",
+      "image": "",
+      "summary": "On Friday, October 23, the highly anticipated iPhone Duo made its debut at Apple Store locations worldwide.",
+      "tags": [
+        "iPhone",
+        "官方",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "newsnow-106ab5e32ae2",
+      "title": "社区速递 166｜柯尼卡胶片机、iPhone Duo 体验与假期省钱实操大赏",
+      "source": "少数派热榜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "评测",
+      "trust": "媒体汇总",
+      "date": "2026-11-28",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://sspai.com/post/119184",
+      "image": "",
+      "summary": "社区速递 166｜柯尼卡胶片机、iPhone Duo 体验与假期省钱实操大赏",
+      "tags": [
+        "iPhone",
+        "评测",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-1b7fcb6420e4",
+      "title": "我超威，你们的嘴这么严的吗，以前总听说苹果有多么多么流畅，再加上销量高得离谱。想着高低搞一台尝尝咸淡，今天总算收到一台，一手就感觉不对劲，设置里划拉卡卡的，抖音划拉几下评论区也卡卡的，包括现在酷安划拉信息流也卡卡，就像那种安卓抖音刷久了突然变得卡卡的感觉，这真的是一张刷新率120hz的屏幕吗[捂脸]，一下对苹果去魅了。当然除了这些，也有好的点，就是震动做得真棒包括，扬声器也很不错，玻璃是真好看啊哪里都是玻璃，不像x300u那么割裂自己的软件都没适配，打算再用几天看看。 #vivoX300Ultra# #小米18ProMax# #华为Mate90ProMax#",
+      "source": "酷安热榜",
+      "brand": "Huawei",
+      "model": "Huawei 相关机型",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-28",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/75311192",
+      "image": "",
+      "summary": "我超威，你们的嘴这么严的吗，以前总听说苹果有多么多么流畅，再加上销量高得离谱。想着高低搞一台尝尝咸淡，今天总算收到一台，一手就感觉不对劲，设置里划拉卡卡的，抖音划拉几下评论区也卡卡的，包括现在酷安划拉信息流也卡卡，就像那种安卓抖音刷久了突然变得卡卡的感觉，这真的是一张刷新率120hz的屏幕吗[捂脸]，一下对苹果去魅了。当然除了这些，也有好的点，就是震动做得…",
+      "tags": [
+        "Huawei",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-ef833fba21ee",
+      "title": "第一次买二手的，但是怎么样都不弹窗，手机重启了也不行，还有这合模线，不会买到假的吧……",
+      "source": "酷安热榜",
+      "brand": "行业",
+      "model": "智能手机市场",
+      "type": "爆料",
+      "trust": "高关注爆料源",
+      "date": "2026-11-28",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://www.coolapk.com/feed/75307740",
+      "image": "",
+      "summary": "第一次买二手的，但是怎么样都不弹窗，手机重启了也不行，还有这合模线，不会买到假的吧……",
+      "tags": [
+        "行业",
+        "爆料",
+        "NewsNow"
+      ]
+    },
+    {
+      "id": "newsnow-01a8f4abbe27",
+      "title": "曝苹果器重iPhone20Pro系列",
+      "source": "微博热搜",
+      "brand": "iPhone",
+      "model": "iPhone 相关机型",
+      "type": "爆料",
+      "trust": "待验证",
+      "date": "2026-11-28",
+      "time": "",
+      "publishedAt": "",
+      "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E8%8B%B9%E6%9E%9C%E5%99%A8%E9%87%8DiPhone20Pro%E7%B3%BB%E5%88%97&t=31&band_rank=28&Refer=top",
+      "image": "",
+      "summary": "曝苹果器重iPhone20Pro系列",
+      "tags": [
+        "iPhone",
+        "爆料",
+        "NewsNow"
       ]
     },
     {
@@ -122,6 +462,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "auto-1e7a398f2831",
+      "title": "Galaxy S26 Ultra falls to $949.99 on Amazon US, $450 off list",
+      "source": "Gizmochina",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-27",
+      "time": "18:22",
+      "publishedAt": "2026-11-27T18:22:03.000Z",
+      "url": "https://www.gizmochina.com/2026/11/27/galaxy-s26-ultra-black-friday-amazon-deal/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-galaxy-s26-ultra-1200x675-2-300x169.jpg?x39984",
+      "summary": "The unlocked Samsung Galaxy S26 Ultra has dropped to $949.99 on Amazon US for Black Friday, which is $450 off the current list price. That is a deeper cut than the $250 Amazon dis…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "auto-45b9d1907ef4",
       "title": "Three new iPhones will launch early next year, here’s what’s coming",
       "source": "9to5Mac",
@@ -150,8 +510,8 @@ window.phoneRadarAuto = {
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-11-27",
-      "time": "17:21",
-      "publishedAt": "2026-11-27T17:21:07.000Z",
+      "time": "17:20",
+      "publishedAt": "2026-11-27T17:20:55.000Z",
       "url": "https://www.macrumors.com/2026/11/27/the-macrumors-show-iphone-air-2-and-18/",
       "image": "",
       "summary": "On this week's episode of The MacRumors Show , we take a look at Apple's upcoming iPhone 18 , iPhone 18e, and iPhone Air 2, which are expected to launch in early 2027. Subscribe t…",
@@ -302,6 +662,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "auto-70b8dc4d55f5",
+      "title": "The Galaxy S27 Ultra may capture significantly better nighttime photos and videos",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-27",
+      "time": "13:25",
+      "publishedAt": "2026-11-27T13:25:12.000Z",
+      "url": "https://www.sammobile.com/news/the-galaxy-s27-ultra-may-capture-significantly-better-nighttime-photos-and-videos/",
+      "image": "",
+      "summary": "The Galaxy S27 Ultra's leaked design polarizing people is nothing new. But, for a change, a fresh rumor is shedding positive light on the phone's camera capabilities rather than i…",
+      "tags": [
+        "Samsung",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "auto-edcb618c7fd1",
       "title": "Galaxy Z Fold 8 Ultra drops $450 to a record low",
       "source": "Android Authority",
@@ -317,26 +697,6 @@ window.phoneRadarAuto = {
       "summary": "The 512GB Galaxy Z Fold 8 Ultra in Violet is 20% off, with an 8-inch main screen and 200MP camera, ahead of Black Friday.",
       "tags": [
         "Samsung",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "auto-f439e7de46f6",
-      "title": "小米澎程 OTA 1.20 开启全量推送：新增 iPhone 数字钥匙功能，城区领航辅助解锁门槛降至 100 公里",
-      "source": "IT之家",
-      "brand": "Xiaomi",
-      "model": "Xiaomi 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-27",
-      "time": "13:02",
-      "publishedAt": "2026-11-27T13:02:20.000Z",
-      "url": "https://www.ithome.com/1/033/747.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/e14b712c-0ed1-4b6d-9641-deaafa3ecb5e.png",
-      "summary": "IT之家 11 月 27 日消息，小米澎程今日宣布 OTA 1.20 已经开始全量推送，本次更新主要适配 N70、N90 全系车型，涉及辅助驾驶、智能座舱与日常用车体验。 IT之家从官方公告获悉，辅助驾驶方面，城区领航辅助功能的使用体验得到优化：加减速更平稳，变道选道更准确，避障绕行的横纵向协同更连贯，路口左转、右转及合流的博弈能力提升。小爱行车播报取消了…",
-      "tags": [
-        "Xiaomi",
         "爆料",
         "自动抓取"
       ]
@@ -422,23 +782,23 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "x-badf81efb421",
-      "title": "Apple Club：iPhone 20 Pro Could Have Ceramic E…",
-      "source": "Apple Club",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
+      "id": "auto-eef7052880a9",
+      "title": "A few lucky customers bought the Galaxy S26 Ultra for just $130 before Amazon caught the pricing error",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
       "type": "爆料",
-      "trust": "高关注爆料源",
+      "trust": "媒体汇总",
       "date": "2026-11-27",
-      "time": "11:26",
-      "publishedAt": "2026-11-27T11:26:39.000Z",
-      "url": "https://x.com/ApplesClubs/status/2126276513356214751",
-      "image": "https://pbs.twimg.com/media/HYINNusbgAAnUm5?format=jpg&name=orig",
-      "summary": "iPhone 20 Pro Could Have Ceramic Edition",
+      "time": "10:44",
+      "publishedAt": "2026-11-27T10:44:04.000Z",
+      "url": "https://www.sammobile.com/news/few-lucky-customers-bought-galaxy-s26-ultra-130-usd-amazon-pricing-error/",
+      "image": "",
+      "summary": "Black Friday deals are going strong, but none quite as strong as one temporary Amazon deal that appears to have accidentally dropped the price of the Galaxy S26 Ultra in Japan to…",
       "tags": [
-        "iPhone",
+        "Samsung",
         "爆料",
-        "X"
+        "自动抓取"
       ]
     },
     {
@@ -482,6 +842,26 @@ window.phoneRadarAuto = {
       ]
     },
     {
+      "id": "auto-b40da10fe654",
+      "title": "Redmi TV A55 2027 launches with 4K 165Hz display, HyperOS 4",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-27",
+      "time": "09:56",
+      "publishedAt": "2026-11-27T09:56:28.000Z",
+      "url": "https://www.gizmochina.com/2026/11/27/redmi-tv-a55-2027-level-1-energy-efficiency-edition-4k-165hz-launch-specs-price/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/REDMI-TV-A55-2027-Launch-Specs-Price-300x200.jpg?x39984",
+      "summary": "Xiaomi is bringing a 165Hz refresh rate to another budget TV in China. The new Redmi TV A55 2027 Level 1 Energy Efficiency Edition starts at 1,599 yuan (~$240) during its launch s…",
+      "tags": [
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
       "id": "auto-4975bf7d46cc",
       "title": "Samsung (accidentally) sold the Galaxy S26 Ultra for just $125 in Japan",
       "source": "Android Authority",
@@ -522,41 +902,61 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "auto-dabbb96e7e31",
-      "title": "李健：荣耀 700 系列手机销量已打破 2026 年安卓新品首销日纪录",
-      "source": "IT之家",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
+      "id": "auto-d1d86fcfacc9",
+      "title": "Galaxy Z Flip 6, Z Fold 6 get November 2026 security update",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-11-27",
-      "time": "09:43",
-      "publishedAt": "2026-11-27T09:43:19.000Z",
-      "url": "https://www.ithome.com/1/033/622.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/ebec2336-4a50-472a-b088-91e041972ca9.jpg?x-bce-process=image/format,f_auto",
-      "summary": "IT之家 11 月 27 日消息，荣耀终端股份有限公司 CEO 李健宣布， 荣耀 700 系列今天 10:08 开售以来， 销量已打破 2026 年安卓新品首销日纪录 ，成功登顶安卓首销排行榜第一。 据IT之家此前报道， 荣耀 700 系列手机于 11 月 23 日发布 ，包含 荣耀 700S 、荣耀 700、 荣耀 700 Pro 三款产品，首销 339…",
+      "time": "08:19",
+      "publishedAt": "2026-11-27T08:19:28.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-z-flip-6-z-fold-6-get-november-2026-security-update/",
+      "image": "",
+      "summary": "The Galaxy Z Flip 6 and the Galaxy Z Fold 6 units in India have started receiving new software updates. These updates bring the November 2026 security patch, which addresses 179 v…",
       "tags": [
-        "HONOR",
+        "Samsung",
         "爆料",
         "自动抓取"
       ]
     },
     {
-      "id": "auto-7dbdfc28280d",
-      "title": "消息称 vivo X500 Ultra 已定版，或成安卓阵营的超大杯独苗",
-      "source": "IT之家",
-      "brand": "vivo",
-      "model": "vivo 相关机型",
+      "id": "auto-6152db9c276b",
+      "title": "Xiaomi’s new global 4K 120Hz monitor appears to be China’s Redmi A27U 2027",
+      "source": "Gizmochina",
+      "brand": "Xiaomi",
+      "model": "Xiaomi 相关机型",
       "type": "爆料",
       "trust": "媒体汇总",
       "date": "2026-11-27",
-      "time": "09:12",
-      "publishedAt": "2026-11-27T09:12:25.000Z",
-      "url": "https://www.ithome.com/1/033/611.htm",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/86f37cc3-05e9-483e-8bbc-b471a984d6d8.png",
-      "summary": "IT之家 11 月 27 日消息，据博主 @数码闲聊站 今日爆料，vivo 或是安卓阵营的超大杯独苗，X500 Ultra 已定版，X600 Ultra 立项规划中。 IT之家注意到，vivo 副总裁、产品副总裁黄韬此前已确认，X500 Ultra 机型会正常迭代， 预计明年 3-4 月发布 ，影像会拉开和 Pro Max 的差距，主打先锋用户与专业创作者…",
+      "time": "08:12",
+      "publishedAt": "2026-11-27T08:12:18.000Z",
+      "url": "https://www.gizmochina.com/2026/11/27/xiaomi-a27ui-120hz-appears-to-be-redmi-a27u-2027/",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2026/11/featured-xiaomi-a27ui-120hz-1200x675-1-300x169.jpg?x39984",
+      "summary": "Xiaomi has listed a new 27-inch 4K monitor, the A27Ui 120Hz, on its official global website. The screen appears to be China’s Redmi Monitor A27U Type-C 120Hz 2027 under a new name…",
       "tags": [
-        "vivo",
+        "Xiaomi",
+        "爆料",
+        "自动抓取"
+      ]
+    },
+    {
+      "id": "auto-b84188660bf2",
+      "title": "Galaxy A38 could deliver longer battery life with its modern MediaTek chip",
+      "source": "SamMobile",
+      "brand": "Samsung",
+      "model": "Samsung 相关机型",
+      "type": "爆料",
+      "trust": "媒体汇总",
+      "date": "2026-11-27",
+      "time": "07:55",
+      "publishedAt": "2026-11-27T07:55:02.000Z",
+      "url": "https://www.sammobile.com/news/galaxy-a38-mediatek-processor-longer-battery-life/",
+      "image": "https://www.sammobile.com/wp-content/uploads/2026/11/Samsung-Galaxy-A38-MediaTek-Dimensity-7500-Processor-Geekbench.jpg",
+      "summary": "All eyes are on the Galaxy S27 series, which is expected to launch in February 2027. Just a month after its debut, Samsung could release two mid-range phones: the Galaxy A38 and t…",
+      "tags": [
+        "Samsung",
         "爆料",
         "自动抓取"
       ]
@@ -582,26 +982,6 @@ window.phoneRadarAuto = {
       ]
     },
     {
-      "id": "coolapk-user-a6508519af4d",
-      "title": "竹本青：OPPO Reno17系列首销激活销量曝光：3天约10.1万台",
-      "source": "竹本青",
-      "brand": "OPPO",
-      "model": "OPPO 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-27",
-      "time": "06:45",
-      "publishedAt": "2026-11-27T06:45:02.000Z",
-      "url": "https://www.coolapk.com/feed/75300877",
-      "image": "http://image.coolapk.com/feed/2026/1127/14/4248714_0efcc8a2_1899_5593_147@1272x369.jpg",
-      "summary": "【OPPO Reno17系列 首销激活销量曝光：3天约10.1万台】 11月27日，博主数码闲聊站爆料，OPPO Reno17系列 首销激活销量约10.1万台，统计周期为W47（11.16-11.22），该机开售3天。 该系列于本月16日发布，20日正式开售。标准版售价3599元起、Pro版售价4199元起，官方配置海报见图2、图3。 #今日热点# #OP…",
-      "tags": [
-        "OPPO",
-        "爆料",
-        "酷安博主"
-      ]
-    },
-    {
       "id": "auto-8660748aa02b",
       "title": "Android just had one of its worst quarters, and Apple is benefiting",
       "source": "Android Authority",
@@ -619,206 +999,6 @@ window.phoneRadarAuto = {
         "iPhone",
         "爆料",
         "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-5704410cff5f",
-      "title": "数码闲聊站：独家信息：子系2027年新机的屏幕形态非常丰富，7英寸超大屏、6.59英寸中屏…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-27",
-      "time": "00:57",
-      "publishedAt": "2026-11-27T00:57:18.000Z",
-      "url": "https://weibo.com/6048569942/RthxEBlQU",
-      "image": "",
-      "summary": "独家信息，子系2027年新机的屏幕形态非常丰富，7英寸超大屏、6.59英寸中屏、6.3英寸小屏、阔直板，全都有新机评估测试中，选择多多～",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "auto-bfd196d7caed",
-      "title": "iPhone Duo arrives at Apple Store locations worldwide",
-      "source": "Apple Newsroom",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "官方",
-      "trust": "官方确认",
-      "date": "2026-11-27",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.apple.com/newsroom/2026/10/iphone-duo-arrives-at-apple-store-locations-worldwide/",
-      "image": "",
-      "summary": "On Friday, October 23, the highly anticipated iPhone Duo made its debut at Apple Store locations worldwide.",
-      "tags": [
-        "iPhone",
-        "官方",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "newsnow-058295669bec",
-      "title": "社区速递 166｜柯尼卡胶片机、iPhone Duo 体验与假期省钱实操大赏",
-      "source": "少数派热榜",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "评测",
-      "trust": "媒体汇总",
-      "date": "2026-11-27",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://sspai.com/post/119184",
-      "image": "",
-      "summary": "社区速递 166｜柯尼卡胶片机、iPhone Duo 体验与假期省钱实操大赏",
-      "tags": [
-        "iPhone",
-        "评测",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-ab4ff5b3f293",
-      "title": "虽然Mate90PM典藏很多地方让人失望，但仍是华为目前最好的直板旗舰，甚至可以说是国产日用最强旗舰，降价后可以无脑入手。",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-27",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/75298703",
-      "image": "",
-      "summary": "虽然Mate90PM典藏很多地方让人失望，但仍是华为目前最好的直板旗舰，甚至可以说是国产日用最强旗舰，降价后可以无脑入手。",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-281238f8465b",
-      "title": "完全来自本人购买的 P80 Pro+的拍照体验，华为的长焦焦段，它很喜欢干一个事情，就是想要给你把每一个地方都算清晰。但是长焦加上大光圈，本身就是应该带有很强的虚化。但是他又是希望算清晰。这应该是主摄广角算法所要干的事情，但是很显然，它的长焦依旧延续了这一套算法，我把每一张图片的评价都写在图片下方，可以往下翻一下，主要有几个着重点，锐化，涂抹，拉对比度，提亮暗部，色彩严重不连续，失去景深层次感",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-27",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/75299843",
-      "image": "",
-      "summary": "完全来自本人购买的 P80 Pro+的拍照体验，华为的长焦焦段，它很喜欢干一个事情，就是想要给你把每一个地方都算清晰。但是长焦加上大光圈，本身就是应该带有很强的虚化。但是他又是希望算清晰。这应该是主摄广角算法所要干的事情，但是很显然，它的长焦依旧延续了这一套算法，我把每一张图片的评价都写在图片下方，可以往下翻一下，主要有几个着重点，锐化，涂抹，拉对比度，提…",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-f3764c7fa184",
-      "title": "目前来看这折痕控制还不是很理想，这鸿沟，跟kfc们吹的差远了，不知道他们是怎么找角度拍的，不得不说拍照技术这块确实牛。[受虐滑稽]#iPhone18ProMax# #华为MateX8# #小米18Fold#",
-      "source": "酷安热榜",
-      "brand": "Huawei",
-      "model": "Huawei 相关机型",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-27",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.coolapk.com/feed/75298075",
-      "image": "",
-      "summary": "目前来看这折痕控制还不是很理想，这鸿沟，跟kfc们吹的差远了，不知道他们是怎么找角度拍的，不得不说拍照技术这块确实牛。[受虐滑稽]#iPhone18ProMax# #华为MateX8# #小米18Fold#",
-      "tags": [
-        "Huawei",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "newsnow-29ae7af7f718",
-      "title": "女子怀疑大爷偷拍 民警查手机无证据",
-      "source": "今日头条热榜",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-27",
-      "time": "",
-      "publishedAt": "",
-      "url": "https://www.toutiao.com/trending/7712655976458027546/",
-      "image": "",
-      "summary": "女子怀疑大爷偷拍 民警查手机无证据",
-      "tags": [
-        "行业",
-        "爆料",
-        "NewsNow"
-      ]
-    },
-    {
-      "id": "auto-7d95eb4c03b8",
-      "title": "Sketchy suggestion of ceramic iPhone 20 Pro",
-      "source": "9to5Mac",
-      "brand": "iPhone",
-      "model": "iPhone 相关机型",
-      "type": "爆料",
-      "trust": "媒体汇总",
-      "date": "2026-11-26",
-      "time": "14:00",
-      "publishedAt": "2026-11-26T14:00:25.000Z",
-      "url": "https://9to5mac.com/2026/11/26/sketchy-suggestion-of-ceramic-iphone-20-pro/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/iphone-20th-anniversary-FI.jpg?quality=82&strip=all&w=1600",
-      "summary": "A sketchy rumor is doing the rounds suggesting that Apple is working on a ceramic edition of the iPhone 20 Pro . There are no details, and while one concept image shows a ceramic…",
-      "tags": [
-        "iPhone",
-        "爆料",
-        "自动抓取"
-      ]
-    },
-    {
-      "id": "weibo-e49fd2f7c829",
-      "title": "数码闲聊站：独家超前瞻，27年规划有3台阔直板新机，一台6.35英寸天玑9旗舰线阔直板，一…",
-      "source": "数码闲聊站",
-      "brand": "行业",
-      "model": "智能手机市场",
-      "type": "爆料",
-      "trust": "高关注爆料源",
-      "date": "2026-11-26",
-      "time": "08:13",
-      "publishedAt": "2026-11-26T08:13:00.000Z",
-      "url": "https://weibo.com/6048569942/RtaY0C02A",
-      "image": "",
-      "summary": "独家超前瞻，27年规划有3台阔直板新机，一台6.35英寸天玑9旗舰线阔直板，一台轻薄拍照线，年底大迭代线也规划了一杯阔直板，阔家族来了[偷乐]",
-      "tags": [
-        "行业",
-        "爆料",
-        "微博"
-      ]
-    },
-    {
-      "id": "coolapk-user-d3a2c82c76ec",
-      "title": "JSCHEN小小狐：消息称荣耀评估3 × 200MP全大底影像系统",
-      "source": "JSCHEN小小狐",
-      "brand": "HONOR",
-      "model": "HONOR 相关机型",
-      "type": "爆料",
-      "trust": "高可信爆料",
-      "date": "2026-11-26",
-      "time": "02:55",
-      "publishedAt": "2026-11-26T02:55:21.000Z",
-      "url": "https://www.coolapk.com/feed/75280619",
-      "image": "http://image.coolapk.com/feed/2026/1126/10/4702274_42515363_1720_2286_153@1440x415.jpg",
-      "summary": "『消息称荣耀评估 3 × 200MP 全大底影像系统』 知名数码博主 数码闲聊站 今日爆料称，荣耀正在评估一套由 3 颗 2 亿像素传感器组成的“全大底”影像系统，其中超广角有望采用 200MP 1/1.56\" 规格。猜测或由 Magic10 Pro Max 首发搭载。 结合此前消息，荣耀下一代旗舰机型的主摄最高已评估至 200MP 1/1.12\" OVB…",
-      "tags": [
-        "HONOR",
-        "爆料",
-        "酷安博主"
       ]
     }
   ]
